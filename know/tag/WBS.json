@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "tag": "WBS",
+    "count": 2,
+    "generatedAt": "2026-03-30T03:37:46.906Z"
+  },
+  "articles": [
+    {
+      "id": "wbs",
+      "filename": "创建WBS.json",
+      "title": "创建WBS",
+      "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
+      "category": "项目范围管理",
+      "wordCount": 324,
+      "updateTime": "2026-03-30T01:08:48.001Z",
+      "order": 199
+    },
+    {
+      "id": "wbs",
+      "filename": "wbs.json",
+      "title": "创建WBS",
+      "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
+      "category": "未分类",
+      "wordCount": 377,
+      "updateTime": "2026-03-30T01:08:47.986Z",
+      "order": 221
+    }
+  ]
+}
