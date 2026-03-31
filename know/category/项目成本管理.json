@@ -2,11 +2,11 @@
   "meta": {
     "category": "项目成本管理",
     "count": 12,
-    "generatedAt": "2026-03-30T03:37:46.725Z"
+    "generatedAt": "2026-03-31T07:50:26.803Z"
   },
   "articles": [
     {
-      "id": "article-1774841866715",
+      "id": "article-1774943426789",
       "filename": "项目资金需求.json",
       "title": "项目资金需求",
       "description": "根据成本基准，确定总资金需求和阶段性（如季度或年度）资金需求。",
@@ -17,10 +17,10 @@
       ],
       "wordCount": 133,
       "updateTime": "2026-03-30T01:08:48.356Z",
-      "order": 9
+      "order": 27
     },
     {
-      "id": "article-1774841866708",
+      "id": "article-1774943426779",
       "filename": "资金限制平衡.json",
       "title": "资金限制平衡",
       "description": "应该根据对项目资金的任何限制，来平衡资金支出。",
@@ -30,10 +30,10 @@
       ],
       "wordCount": 90,
       "updateTime": "2026-03-30T01:08:48.251Z",
-      "order": 53
+      "order": 71
     },
     {
-      "id": "article-1774841866704",
+      "id": "article-1774943426773",
       "filename": "规划成本管理.json",
       "title": "规划成本管理",
       "description": "规划成本管理是确定如何估算、预算、管理、监督和控制项目成本的过程。",
@@ -45,10 +45,10 @@
       ],
       "wordCount": 132,
       "updateTime": "2026-03-30T01:08:48.220Z",
-      "order": 77
+      "order": 95
     },
     {
-      "id": "article-1774841866704",
+      "id": "article-1774943426771",
       "filename": "融资.json",
       "title": "融资",
       "description": "长期的基础设施、工业和公共服务项目通常会寻求外部融资。",
@@ -58,10 +58,10 @@
       ],
       "wordCount": 69,
       "updateTime": "2026-03-30T01:08:48.218Z",
-      "order": 82
+      "order": 100
     },
     {
-      "id": "article-1774841866693",
+      "id": "article-1774943426755",
       "filename": "控制成本.json",
       "title": "控制成本",
       "description": "控制成本是监督项目状态，以更新项目成本和管理成本基准变更的过程。",
@@ -73,10 +73,10 @@
       ],
       "wordCount": 494,
       "updateTime": "2026-03-30T01:08:48.076Z",
-      "order": 147
+      "order": 165
     },
     {
-      "id": "article-1774841866691",
+      "id": "article-1774943426752",
       "filename": "成本汇总.json",
       "title": "成本汇总",
       "description": "先把成本估算汇总到 WBS 中的工作包，再由工作包汇总至 WBS 的更高层次（如控制账户），最终得出整个项目的总成本。",
@@ -87,10 +87,10 @@
       ],
       "wordCount": 55,
       "updateTime": "2026-03-30T01:08:48.069Z",
-      "order": 156
+      "order": 174
     },
     {
-      "id": "article-1774841866692",
+      "id": "article-1774943426753",
       "filename": "成本管理计划.json",
       "title": "成本管理计划",
       "description": "成本管理计划是项目管理计划的组成部分，描述将如何规划、安排和控制项目成本。",
@@ -101,10 +101,10 @@
       ],
       "wordCount": 714,
       "updateTime": "2026-03-30T01:08:48.069Z",
-      "order": 157
+      "order": 175
     },
     {
-      "id": "article-1774841866691",
+      "id": "article-1774943426752",
       "filename": "成本基准.json",
       "title": "成本基准",
       "description": "成本基准是经过批准的、按时间段分配的项目预算，不包括任何管理储备，只有通过正式的变更控制程序才能变更，用作与实际结果进行比较的依据。",
@@ -115,10 +115,10 @@
       ],
       "wordCount": 370,
       "updateTime": "2026-03-30T01:08:48.067Z",
-      "order": 158
+      "order": 176
     },
     {
-      "id": "article-1774841866688",
+      "id": "article-1774943426746",
       "filename": "完工尚需绩效指数.json",
       "title": "完工尚需绩效指数",
       "description": "完工尚需绩效指数（TCPI）是一种为了实现特定的管理目标，剩余资源的使用必须达到的成本绩效指标，是完成剩余工作所需的成本与剩余预算之比。",
@@ -129,10 +129,10 @@
       ],
       "wordCount": 494,
       "updateTime": "2026-03-30T01:08:48.031Z",
-      "order": 179
+      "order": 197
     },
     {
-      "id": "article-1774841866685",
+      "id": "article-1774943426741",
       "filename": "历史信息审核.json",
       "title": "历史信息审核",
       "description": "审核历史信息有助于进行参数估算或类比估算。",
@@ -142,10 +142,10 @@
       ],
       "wordCount": 230,
       "updateTime": "2026-03-30T01:08:48.008Z",
-      "order": 190
+      "order": 208
     },
     {
-      "id": "article-1774841866685",
+      "id": "article-1774943426740",
       "filename": "制定预算.json",
       "title": "制定预算",
       "description": "制定预算是汇总所有单个活动或工作包的估算成本，建立一个经批准的成本基准的过程。",
@@ -157,10 +157,10 @@
       ],
       "wordCount": 192,
       "updateTime": "2026-03-30T01:08:48.005Z",
-      "order": 196
+      "order": 214
     },
     {
-      "id": "article-1774841866682",
+      "id": "article-1774943426735",
       "filename": "估算成本.json",
       "title": "估算成本",
       "description": "估算成本是对完成项目工作所需资源成本进行近似估算的过程。",
@@ -172,7 +172,7 @@
       ],
       "wordCount": 626,
       "updateTime": "2026-03-30T01:08:47.995Z",
-      "order": 210
+      "order": 228
     }
   ]
 }

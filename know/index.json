@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-03-30T03:37:47.206Z",
-    "totalArticles": 223,
-    "totalCategories": 21,
-    "totalTags": 126
+    "generatedAt": "2026-03-31T07:50:27.133Z",
+    "totalArticles": 241,
+    "totalCategories": 27,
+    "totalTags": 178
   },
   "categories": [
     {
@@ -55,8 +55,16 @@
       "count": 7
     },
     {
+      "name": "心理学",
+      "count": 5
+    },
+    {
       "name": "项目运行环境",
       "count": 5
+    },
+    {
+      "name": "自然灾害",
+      "count": 4
     },
     {
       "name": "开发实践",
@@ -73,6 +81,22 @@
     {
       "name": "项目沟通管理",
       "count": 4
+    },
+    {
+      "name": "法律常识",
+      "count": 3
+    },
+    {
+      "name": "安全防范",
+      "count": 3
+    },
+    {
+      "name": "社保公积金",
+      "count": 2
+    },
+    {
+      "name": "急救知识",
+      "count": 1
     },
     {
       "name": "产品使用",
@@ -93,44 +117,44 @@
   ],
   "recentArticles": [
     {
-      "id": "article-1774841866716",
-      "filename": "风险登记册.json",
-      "title": "风险登记册",
-      "description": "风险登记册记录已识别单个项目风险的详细信息。随着实施定性风险分析、规划风险应对、实施风险应对和监督风险等过程的开展，这些过程的结果也要记进风险登记册。取决于具体的项目变量（如规模和复杂性），风险登记册...",
-      "category": "项目风险管理",
-      "updateTime": "2026-03-30T01:08:48.360Z"
+      "id": "article-1774943426761",
+      "filename": "沉没成本谬误.json",
+      "title": "沉没成本谬误",
+      "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
+      "category": "心理学",
+      "updateTime": "2026-03-31T07:50:17.014Z"
     },
     {
-      "id": "article-1774841866716",
-      "filename": "验收的可交付成果.json",
-      "title": "验收的可交付成果",
-      "description": "符合验收标准的可交付成果应该由客户或发起人正式签字批准。",
-      "category": "项目范围管理",
-      "updateTime": "2026-03-30T01:08:48.360Z"
+      "id": "article-1774943426765",
+      "filename": "破窗效应.json",
+      "title": "破窗效应",
+      "description": "为什么小问题会演变成大灾难？破窗效应解释了环境对行为的影响",
+      "category": "心理学",
+      "updateTime": "2026-03-31T07:49:06.207Z"
     },
     {
-      "id": "article-1774841866716",
-      "filename": "风险分类.json",
-      "title": "风险分类",
-      "description": "项目风险可依据风险来源（如采用风险分解结构 [RBS]，见图 11-4）、受影响的项目领域（如采用工作分解结构 [WBS]，见图 5-12、5-13 和 5-14），以及其他实用类别（如项目阶段、项目...",
-      "category": "项目风险管理",
-      "updateTime": "2026-03-30T01:08:48.359Z"
+      "id": "article-1774943426782",
+      "filename": "锚定效应.json",
+      "title": "锚定效应",
+      "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
+      "category": "心理学",
+      "updateTime": "2026-03-31T07:48:12.927Z"
     },
     {
-      "id": "article-1774841866716",
-      "filename": "风险报告.json",
-      "title": "风险报告",
-      "description": "风险报告提供关于整体项目风险的信息，以及关于已识别的单个项目风险的概述信息。",
-      "category": "项目风险管理",
-      "updateTime": "2026-03-30T01:08:48.359Z"
+      "id": "article-1774943426733",
+      "filename": "习得性无助.json",
+      "title": "习得性无助",
+      "description": "为什么有些人放弃努力？习得性无助解释了\"认命\"的心理机制",
+      "category": "心理学",
+      "updateTime": "2026-03-31T07:47:12.009Z"
     },
     {
-      "id": "article-1774841866715",
-      "filename": "项目进度计划.json",
-      "title": "项目进度计划",
-      "description": "项目进度计划是进度模型的输出，为各个相互关联的活动标注了计划日期、持续时间、里程碑和所需资源等星系。",
-      "category": "项目进度管理",
-      "updateTime": "2026-03-30T01:08:48.358Z"
+      "id": "article-1774943426775",
+      "filename": "认知失调.json",
+      "title": "认知失调",
+      "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
+      "category": "心理学",
+      "updateTime": "2026-03-31T07:46:02.562Z"
     }
   ],
   "popularTags": [

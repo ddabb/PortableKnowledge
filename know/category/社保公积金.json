@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "category": "社保公积金",
+    "count": 2,
+    "generatedAt": "2026-03-31T07:50:26.797Z"
+  },
+  "articles": [
+    {
+      "id": "article-1774943426738",
+      "filename": "公积金提取全攻略.json",
+      "title": "公积金提取全攻略",
+      "description": "住房公积金提取条件、流程和注意事项",
+      "tags": [
+        "公积金",
+        "住房公积金",
+        "提取",
+        "购房"
+      ],
+      "wordCount": 1696,
+      "updateTime": "2026-03-31T07:39:25.654Z",
+      "order": 8
+    },
+    {
+      "id": "article-1774943426741",
+      "filename": "医保报销指南.json",
+      "title": "医保报销指南",
+      "description": "医疗保险报销流程、报销比例和注意事项",
+      "tags": [
+        "医保",
+        "医疗保险",
+        "报销",
+        "社保"
+      ],
+      "wordCount": 1827,
+      "updateTime": "2026-03-31T07:38:42.469Z",
+      "order": 9
+    }
+  ]
+}

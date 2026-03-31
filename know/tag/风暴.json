@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "风暴",
+    "count": 1,
+    "generatedAt": "2026-03-31T07:50:26.854Z"
+  },
+  "articles": [
+    {
+      "id": "article-1774943426743",
+      "filename": "台风防范指南.json",
+      "title": "台风防范指南",
+      "description": "台风的形成、预警等级及防范措施",
+      "category": "自然灾害",
+      "wordCount": 943,
+      "updateTime": "2026-03-31T05:08:44.728Z",
+      "order": 16
+    }
+  ]
+}

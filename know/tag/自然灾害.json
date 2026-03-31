@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "tag": "自然灾害",
+    "count": 3,
+    "generatedAt": "2026-03-31T07:50:26.854Z"
+  },
+  "articles": [
+    {
+      "id": "article-1774943426743",
+      "filename": "台风防范指南.json",
+      "title": "台风防范指南",
+      "description": "台风的形成、预警等级及防范措施",
+      "category": "自然灾害",
+      "wordCount": 943,
+      "updateTime": "2026-03-31T05:08:44.728Z",
+      "order": 16
+    },
+    {
+      "id": "article-1774943426762",
+      "filename": "洪水防范与应对.json",
+      "title": "洪水防范与应对",
+      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
+      "category": "自然灾害",
+      "wordCount": 842,
+      "updateTime": "2026-03-31T05:08:20.610Z",
+      "order": 17
+    },
+    {
+      "id": "article-1774943426745",
+      "filename": "地震防范与应急.json",
+      "title": "地震防范与应急",
+      "description": "地震发生时的应对措施、逃生技巧和日常准备",
+      "category": "自然灾害",
+      "wordCount": 877,
+      "updateTime": "2026-03-31T05:07:55.871Z",
+      "order": 18
+    }
+  ]
+}

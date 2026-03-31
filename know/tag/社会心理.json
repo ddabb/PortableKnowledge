@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "社会心理",
+    "count": 1,
+    "generatedAt": "2026-03-31T07:50:26.821Z"
+  },
+  "articles": [
+    {
+      "id": "article-1774943426765",
+      "filename": "破窗效应.json",
+      "title": "破窗效应",
+      "description": "为什么小问题会演变成大灾难？破窗效应解释了环境对行为的影响",
+      "category": "心理学",
+      "wordCount": 2125,
+      "updateTime": "2026-03-31T07:49:06.207Z",
+      "order": 2
+    }
+  ]
+}

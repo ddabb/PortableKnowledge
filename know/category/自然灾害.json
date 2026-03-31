@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "category": "自然灾害",
+    "count": 4,
+    "generatedAt": "2026-03-31T07:50:26.799Z"
+  },
+  "articles": [
+    {
+      "id": "article-1774943426763",
+      "filename": "火灾防范与逃生.json",
+      "title": "火灾防范与逃生",
+      "description": "家庭火灾预防、火灾应对和逃生技巧",
+      "tags": [
+        "火灾",
+        "消防",
+        "逃生",
+        "安全"
+      ],
+      "wordCount": 1265,
+      "updateTime": "2026-03-31T05:09:14.244Z",
+      "order": 15
+    },
+    {
+      "id": "article-1774943426743",
+      "filename": "台风防范指南.json",
+      "title": "台风防范指南",
+      "description": "台风的形成、预警等级及防范措施",
+      "tags": [
+        "台风",
+        "自然灾害",
+        "风暴",
+        "防汛"
+      ],
+      "wordCount": 943,
+      "updateTime": "2026-03-31T05:08:44.728Z",
+      "order": 16
+    },
+    {
+      "id": "article-1774943426762",
+      "filename": "洪水防范与应对.json",
+      "title": "洪水防范与应对",
+      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
+      "tags": [
+        "洪水",
+        "自然灾害",
+        "防汛",
+        "应急"
+      ],
+      "wordCount": 842,
+      "updateTime": "2026-03-31T05:08:20.610Z",
+      "order": 17
+    },
+    {
+      "id": "article-1774943426745",
+      "filename": "地震防范与应急.json",
+      "title": "地震防范与应急",
+      "description": "地震发生时的应对措施、逃生技巧和日常准备",
+      "tags": [
+        "地震",
+        "自然灾害",
+        "应急",
+        "逃生"
+      ],
+      "wordCount": 877,
+      "updateTime": "2026-03-31T05:07:55.871Z",
+      "order": 18
+    }
+  ]
+}

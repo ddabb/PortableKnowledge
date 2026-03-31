@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "公积金",
+    "count": 1,
+    "generatedAt": "2026-03-31T07:50:26.832Z"
+  },
+  "articles": [
+    {
+      "id": "article-1774943426738",
+      "filename": "公积金提取全攻略.json",
+      "title": "公积金提取全攻略",
+      "description": "住房公积金提取条件、流程和注意事项",
+      "category": "社保公积金",
+      "wordCount": 1696,
+      "updateTime": "2026-03-31T07:39:25.654Z",
+      "order": 8
+    }
+  ]
+}
