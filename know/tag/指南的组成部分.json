@@ -2,68 +2,68 @@
   "meta": {
     "tag": "指南的组成部分",
     "count": 6,
-    "generatedAt": "2026-03-31T07:50:26.865Z"
+    "generatedAt": "2026-03-31T11:34:55.824Z"
   },
   "articles": [
     {
-      "id": "article-1774943426789",
+      "id": "article-1774956895443",
       "filename": "项目阶段.json",
       "title": "项目阶段",
       "description": "项目阶段是一组具有逻辑关系的项目活动的集合，通常以一个或多个可交付成果的完成为结束。",
       "category": "引论",
       "wordCount": 577,
       "updateTime": "2026-03-30T01:08:48.358Z",
-      "order": 24
+      "order": 44
     },
     {
-      "id": "article-1774943426788",
+      "id": "article-1774956895442",
       "filename": "项目管理过程.json",
       "title": "项目管理过程",
       "description": "项目生命周期是通过一系列项目管理活动进行的，即项目管理过程。",
       "category": "引论",
       "wordCount": 466,
       "updateTime": "2026-03-30T01:08:48.355Z",
-      "order": 28
+      "order": 48
     },
     {
-      "id": "article-1774943426788",
+      "id": "article-1774956895442",
       "filename": "项目管理过程组.json",
       "title": "项目管理过程组",
       "description": "项目管理过程组指对项目管理过程进行逻辑分组，以达成项目的特定目标。过程组不同于项目阶段。项目管理过程可分为以下五个项目管理过程组：",
       "category": "引论",
       "wordCount": 421,
       "updateTime": "2026-03-30T01:08:48.355Z",
-      "order": 29
+      "order": 49
     },
     {
-      "id": "article-1774943426787",
+      "id": "article-1774956895441",
       "filename": "项目管理数据和信息.json",
       "title": "项目管理数据和信息",
       "description": "整个项目生命周期需要收集、分析和转化大量的数据。",
       "category": "引论",
       "wordCount": 500,
       "updateTime": "2026-03-30T01:08:48.353Z",
-      "order": 35
+      "order": 55
     },
     {
-      "id": "article-1774943426785",
+      "id": "article-1774956895437",
       "filename": "项目和开发生命周期.json",
       "title": "项目和开发生命周期",
       "description": "项目生命周期指项目从启动到完成所经历的一系列阶段。",
       "category": "引论",
       "wordCount": 810,
       "updateTime": "2026-03-30T01:08:48.266Z",
-      "order": 41
+      "order": 61
     },
     {
-      "id": "article-1774943426783",
+      "id": "article-1774956895435",
       "filename": "阶段关口.json",
       "title": "阶段关口",
       "description": "阶段关口在项目阶段结束时进行，将项目的绩效和进度与项目和业务文件比较，这些文件包括（ 但不限于）：",
       "category": "引论",
       "wordCount": 238,
       "updateTime": "2026-03-30T01:08:48.262Z",
-      "order": 53
+      "order": 73
     }
   ]
 }

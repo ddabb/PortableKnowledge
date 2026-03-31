@@ -2,28 +2,28 @@
   "meta": {
     "tag": "控制进度",
     "count": 2,
-    "generatedAt": "2026-03-31T07:50:26.895Z"
+    "generatedAt": "2026-03-31T11:34:55.899Z"
   },
   "articles": [
     {
-      "id": "article-1774943426780",
+      "id": "article-1774956895431",
       "filename": "进度预测.json",
       "title": "进度预测",
       "description": "进度更新即进度预测，指根据已有的信息和知识，对项目未来的情况和事件进行的估算或预计。",
       "category": "项目进度管理",
       "wordCount": 137,
       "updateTime": "2026-03-30T01:08:48.255Z",
-      "order": 65
+      "order": 85
     },
     {
-      "id": "article-1774943426756",
+      "id": "article-1774956895392",
       "filename": "控制进度.json",
       "title": "控制进度",
       "description": "控制进度是监督项目状态，以更新项目进度和管理进度基准变更的过程。",
       "category": "项目进度管理",
       "wordCount": 571,
       "updateTime": "2026-03-30T01:08:48.131Z",
-      "order": 161
+      "order": 181
     }
   ]
 }

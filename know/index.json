@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T07:50:27.133Z",
-    "totalArticles": 241,
-    "totalCategories": 27,
-    "totalTags": 178
+    "generatedAt": "2026-03-31T11:34:56.824Z",
+    "totalArticles": 261,
+    "totalCategories": 33,
+    "totalTags": 234
   },
   "categories": [
     {
@@ -55,12 +55,24 @@
       "count": 7
     },
     {
+      "name": "系统集成基础",
+      "count": 6
+    },
+    {
       "name": "心理学",
       "count": 5
     },
     {
       "name": "项目运行环境",
       "count": 5
+    },
+    {
+      "name": "法律法规与标准",
+      "count": 4
+    },
+    {
+      "name": "信息系统开发",
+      "count": 4
     },
     {
       "name": "自然灾害",
@@ -83,6 +95,10 @@
       "count": 4
     },
     {
+      "name": "计算题专项",
+      "count": 3
+    },
+    {
       "name": "法律常识",
       "count": 3
     },
@@ -91,8 +107,16 @@
       "count": 3
     },
     {
+      "name": "项目立项管理",
+      "count": 2
+    },
+    {
       "name": "社保公积金",
       "count": 2
+    },
+    {
+      "name": "软考备考",
+      "count": 1
     },
     {
       "name": "急救知识",
@@ -117,44 +141,44 @@
   ],
   "recentArticles": [
     {
-      "id": "article-1774943426761",
-      "filename": "沉没成本谬误.json",
-      "title": "沉没成本谬误",
-      "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
-      "category": "心理学",
-      "updateTime": "2026-03-31T07:50:17.014Z"
+      "id": "article-1774956895428",
+      "filename": "软考中项案例分析答题框架.json",
+      "title": "软考中项案例分析答题框架",
+      "description": "系统梳理案例分析各类题型的万能答题框架、常见失分原因、标准化答题步骤，配套各知识域典型案例答题模板，助你高效拿下案例分析。",
+      "category": "软考备考",
+      "updateTime": "2026-03-31T11:34:23.465Z"
     },
     {
-      "id": "article-1774943426765",
-      "filename": "破窗效应.json",
-      "title": "破窗效应",
-      "description": "为什么小问题会演变成大灾难？破窗效应解释了环境对行为的影响",
-      "category": "心理学",
-      "updateTime": "2026-03-31T07:49:06.207Z"
+      "id": "article-1774956895420",
+      "filename": "计算机网络基础.json",
+      "title": "计算机网络基础",
+      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
+      "category": "系统集成基础",
+      "updateTime": "2026-03-31T11:29:15.728Z"
     },
     {
-      "id": "article-1774943426782",
-      "filename": "锚定效应.json",
-      "title": "锚定效应",
-      "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
-      "category": "心理学",
-      "updateTime": "2026-03-31T07:48:12.927Z"
+      "id": "article-1774956895355",
+      "filename": "信息系统监理.json",
+      "title": "信息系统监理",
+      "description": "软考中项信息系统工程监理核心知识，包括监理的概念、职责范围、监理文档及监理人员要求。",
+      "category": "项目立项管理",
+      "updateTime": "2026-03-31T11:28:50.339Z"
     },
     {
-      "id": "article-1774943426733",
-      "filename": "习得性无助.json",
-      "title": "习得性无助",
-      "description": "为什么有些人放弃努力？习得性无助解释了\"认命\"的心理机制",
-      "category": "心理学",
-      "updateTime": "2026-03-31T07:47:12.009Z"
+      "id": "article-1774956895439",
+      "filename": "项目立项与可行性研究.json",
+      "title": "项目立项与可行性研究",
+      "description": "软考中项项目立项核心内容，包括可行性研究的类型、内容、项目建议书及立项审批流程。",
+      "category": "项目立项管理",
+      "updateTime": "2026-03-31T11:28:22.857Z"
     },
     {
-      "id": "article-1774943426775",
-      "filename": "认知失调.json",
-      "title": "认知失调",
-      "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
-      "category": "心理学",
-      "updateTime": "2026-03-31T07:46:02.562Z"
+      "id": "pert",
+      "filename": "PERT估算与其他计算专项.json",
+      "title": "PERT估算与其他计算专项",
+      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
+      "category": "计算题专项",
+      "updateTime": "2026-03-31T11:27:52.656Z"
     }
   ],
   "popularTags": [
@@ -165,8 +189,8 @@
     "监控过程组",
     "基本要素",
     "风险管理",
-    "制定进度计划",
-    "项目管理知识体系",
-    "启动过程组"
+    "中项核心",
+    "启动过程组",
+    "制定进度计划"
   ]
 }

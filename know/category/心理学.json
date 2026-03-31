@@ -2,11 +2,11 @@
   "meta": {
     "category": "心理学",
     "count": 5,
-    "generatedAt": "2026-03-31T07:50:26.794Z"
+    "generatedAt": "2026-03-31T11:34:55.479Z"
   },
   "articles": [
     {
-      "id": "article-1774943426761",
+      "id": "article-1774956895395",
       "filename": "沉没成本谬误.json",
       "title": "沉没成本谬误",
       "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
@@ -18,10 +18,10 @@
       ],
       "wordCount": 2478,
       "updateTime": "2026-03-31T07:50:17.014Z",
-      "order": 1
+      "order": 21
     },
     {
-      "id": "article-1774943426765",
+      "id": "article-1774956895402",
       "filename": "破窗效应.json",
       "title": "破窗效应",
       "description": "为什么小问题会演变成大灾难？破窗效应解释了环境对行为的影响",
@@ -33,10 +33,10 @@
       ],
       "wordCount": 2125,
       "updateTime": "2026-03-31T07:49:06.207Z",
-      "order": 2
+      "order": 22
     },
     {
-      "id": "article-1774943426782",
+      "id": "article-1774956895434",
       "filename": "锚定效应.json",
       "title": "锚定效应",
       "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
@@ -48,10 +48,10 @@
       ],
       "wordCount": 2537,
       "updateTime": "2026-03-31T07:48:12.927Z",
-      "order": 3
+      "order": 23
     },
     {
-      "id": "article-1774943426733",
+      "id": "article-1774956895346",
       "filename": "习得性无助.json",
       "title": "习得性无助",
       "description": "为什么有些人放弃努力？习得性无助解释了\"认命\"的心理机制",
@@ -63,10 +63,10 @@
       ],
       "wordCount": 2846,
       "updateTime": "2026-03-31T07:47:12.009Z",
-      "order": 4
+      "order": 24
     },
     {
-      "id": "article-1774943426775",
+      "id": "article-1774956895420",
       "filename": "认知失调.json",
       "title": "认知失调",
       "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
@@ -78,7 +78,7 @@
       ],
       "wordCount": 2271,
       "updateTime": "2026-03-31T07:46:02.562Z",
-      "order": 5
+      "order": 25
     }
   ]
 }

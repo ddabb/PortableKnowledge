@@ -2,78 +2,78 @@
   "meta": {
     "tag": "制定预算",
     "count": 7,
-    "generatedAt": "2026-03-31T07:50:26.868Z"
+    "generatedAt": "2026-03-31T11:34:55.833Z"
   },
   "articles": [
     {
-      "id": "article-1774943426789",
+      "id": "article-1774956895442",
       "filename": "项目资金需求.json",
       "title": "项目资金需求",
       "description": "根据成本基准，确定总资金需求和阶段性（如季度或年度）资金需求。",
       "category": "项目成本管理",
       "wordCount": 133,
       "updateTime": "2026-03-30T01:08:48.356Z",
-      "order": 27
+      "order": 47
     },
     {
-      "id": "article-1774943426779",
+      "id": "article-1774956895426",
       "filename": "资金限制平衡.json",
       "title": "资金限制平衡",
       "description": "应该根据对项目资金的任何限制，来平衡资金支出。",
       "category": "项目成本管理",
       "wordCount": 90,
       "updateTime": "2026-03-30T01:08:48.251Z",
-      "order": 71
+      "order": 91
     },
     {
-      "id": "article-1774943426771",
+      "id": "article-1774956895411",
       "filename": "融资.json",
       "title": "融资",
       "description": "长期的基础设施、工业和公共服务项目通常会寻求外部融资。",
       "category": "项目成本管理",
       "wordCount": 69,
       "updateTime": "2026-03-30T01:08:48.218Z",
-      "order": 100
+      "order": 120
     },
     {
-      "id": "article-1774943426752",
+      "id": "article-1774956895388",
       "filename": "成本汇总.json",
       "title": "成本汇总",
       "description": "先把成本估算汇总到 WBS 中的工作包，再由工作包汇总至 WBS 的更高层次（如控制账户），最终得出整个项目的总成本。",
       "category": "项目成本管理",
       "wordCount": 55,
       "updateTime": "2026-03-30T01:08:48.069Z",
-      "order": 174
+      "order": 194
     },
     {
-      "id": "article-1774943426752",
+      "id": "article-1774956895387",
       "filename": "成本基准.json",
       "title": "成本基准",
       "description": "成本基准是经过批准的、按时间段分配的项目预算，不包括任何管理储备，只有通过正式的变更控制程序才能变更，用作与实际结果进行比较的依据。",
       "category": "项目成本管理",
       "wordCount": 370,
       "updateTime": "2026-03-30T01:08:48.067Z",
-      "order": 176
+      "order": 196
     },
     {
-      "id": "article-1774943426741",
+      "id": "article-1774956895360",
       "filename": "历史信息审核.json",
       "title": "历史信息审核",
       "description": "审核历史信息有助于进行参数估算或类比估算。",
       "category": "项目成本管理",
       "wordCount": 230,
       "updateTime": "2026-03-30T01:08:48.008Z",
-      "order": 208
+      "order": 228
     },
     {
-      "id": "article-1774943426740",
+      "id": "article-1774956895359",
       "filename": "制定预算.json",
       "title": "制定预算",
       "description": "制定预算是汇总所有单个活动或工作包的估算成本，建立一个经批准的成本基准的过程。",
       "category": "项目成本管理",
       "wordCount": 192,
       "updateTime": "2026-03-30T01:08:48.005Z",
-      "order": 214
+      "order": 234
     }
   ]
 }

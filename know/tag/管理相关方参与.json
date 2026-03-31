@@ -2,28 +2,28 @@
   "meta": {
     "tag": "管理相关方参与",
     "count": 2,
-    "generatedAt": "2026-03-31T07:50:26.920Z"
+    "generatedAt": "2026-03-31T11:34:55.982Z"
   },
   "articles": [
     {
-      "id": "article-1774943426767",
+      "id": "article-1774956895403",
       "filename": "管理相关方参与.json",
       "title": "管理相关方参与",
       "description": "管理相关方参与是与相关方进行沟通和协作以满足其需求与期望、处理问题，并促进相关方合理参与的过程。",
       "category": "项目相关方管理",
       "wordCount": 284,
       "updateTime": "2026-03-30T01:08:48.192Z",
-      "order": 123
+      "order": 143
     },
     {
-      "id": "article-1774943426745",
+      "id": "article-1774956895374",
       "filename": "基本规则.json",
       "title": "基本规则",
       "description": "根据团队章程中定义的基本规则，来明确项目团队成员和其他相关方应该采取什么行为去引导相关方参与。",
       "category": "项目相关方管理",
       "wordCount": 47,
       "updateTime": "2026-03-30T01:08:48.028Z",
-      "order": 199
+      "order": 219
     }
   ]
 }

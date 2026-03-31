@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "tag": "计算题",
+    "count": 3,
+    "generatedAt": "2026-03-31T11:34:55.558Z"
+  },
+  "articles": [
+    {
+      "id": "pert",
+      "filename": "PERT估算与其他计算专项.json",
+      "title": "PERT估算与其他计算专项",
+      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
+      "category": "计算题专项",
+      "wordCount": 1298,
+      "updateTime": "2026-03-31T11:27:52.656Z",
+      "order": 5
+    },
+    {
+      "id": "article-1774956895408",
+      "filename": "网络图与关键路径计算.json",
+      "title": "网络图与关键路径计算",
+      "description": "软考中项必考计算——网络图分析、关键路径法（CPM）及各节点时间参数计算方法与例题。",
+      "category": "计算题专项",
+      "wordCount": 1130,
+      "updateTime": "2026-03-31T11:27:21.870Z",
+      "order": 6
+    },
+    {
+      "id": "article-1774956895391",
+      "filename": "挣值分析计算专项.json",
+      "title": "挣值分析计算专项",
+      "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
+      "category": "计算题专项",
+      "wordCount": 1240,
+      "updateTime": "2026-03-31T11:26:56.704Z",
+      "order": 7
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "totalTags": 178,
-    "generatedAt": "2026-03-31T07:50:27.132Z"
+    "totalTags": 234,
+    "generatedAt": "2026-03-31T11:34:56.822Z"
   },
   "tags": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "name": "项目管理",
-      "count": 30
+      "count": 31
     },
     {
       "name": "执行过程组",
@@ -33,15 +33,19 @@
       "count": 11
     },
     {
+      "name": "中项核心",
+      "count": 10
+    },
+    {
+      "name": "启动过程组",
+      "count": 10
+    },
+    {
       "name": "制定进度计划",
       "count": 9
     },
     {
       "name": "项目管理知识体系",
-      "count": 9
-    },
-    {
-      "name": "启动过程组",
       "count": 9
     },
     {
@@ -67,6 +71,10 @@
     {
       "name": "数据收集",
       "count": 7
+    },
+    {
+      "name": "系统集成",
+      "count": 6
     },
     {
       "name": "心理学",
@@ -133,6 +141,14 @@
       "count": 5
     },
     {
+      "name": "法律法规",
+      "count": 4
+    },
+    {
+      "name": "软件开发",
+      "count": 4
+    },
+    {
       "name": "识别风险",
       "count": 4
     },
@@ -167,6 +183,10 @@
     {
       "name": "实施采购",
       "count": 4
+    },
+    {
+      "name": "计算题",
+      "count": 3
     },
     {
       "name": "维权",
@@ -327,6 +347,210 @@
     {
       "name": "WBS",
       "count": 2
+    },
+    {
+      "name": "案例分析",
+      "count": 1
+    },
+    {
+      "name": "答题框架",
+      "count": 1
+    },
+    {
+      "name": "万能模板",
+      "count": 1
+    },
+    {
+      "name": "应试技巧",
+      "count": 1
+    },
+    {
+      "name": "网络基础",
+      "count": 1
+    },
+    {
+      "name": "OSI模型",
+      "count": 1
+    },
+    {
+      "name": "TCP-IP协议",
+      "count": 1
+    },
+    {
+      "name": "信息系统监理",
+      "count": 1
+    },
+    {
+      "name": "质量管理",
+      "count": 1
+    },
+    {
+      "name": "项目立项",
+      "count": 1
+    },
+    {
+      "name": "可行性研究",
+      "count": 1
+    },
+    {
+      "name": "PERT",
+      "count": 1
+    },
+    {
+      "name": "三点估算",
+      "count": 1
+    },
+    {
+      "name": "网络图",
+      "count": 1
+    },
+    {
+      "name": "关键路径",
+      "count": 1
+    },
+    {
+      "name": "CPM",
+      "count": 1
+    },
+    {
+      "name": "挣值分析",
+      "count": 1
+    },
+    {
+      "name": "EVM",
+      "count": 1
+    },
+    {
+      "name": "网络安全法",
+      "count": 1
+    },
+    {
+      "name": "数据安全",
+      "count": 1
+    },
+    {
+      "name": "知识产权",
+      "count": 1
+    },
+    {
+      "name": "著作权",
+      "count": 1
+    },
+    {
+      "name": "合同法",
+      "count": 1
+    },
+    {
+      "name": "合同管理",
+      "count": 1
+    },
+    {
+      "name": "招标投标法",
+      "count": 1
+    },
+    {
+      "name": "招投标",
+      "count": 1
+    },
+    {
+      "name": "系统运维",
+      "count": 1
+    },
+    {
+      "name": "SLA",
+      "count": 1
+    },
+    {
+      "name": "ITIL",
+      "count": 1
+    },
+    {
+      "name": "软件测试",
+      "count": 1
+    },
+    {
+      "name": "黑盒测试",
+      "count": 1
+    },
+    {
+      "name": "白盒测试",
+      "count": 1
+    },
+    {
+      "name": "需求分析",
+      "count": 1
+    },
+    {
+      "name": "需求工程",
+      "count": 1
+    },
+    {
+      "name": "开发模型",
+      "count": 1
+    },
+    {
+      "name": "瀑布模型",
+      "count": 1
+    },
+    {
+      "name": "敏捷开发",
+      "count": 1
+    },
+    {
+      "name": "云计算",
+      "count": 1
+    },
+    {
+      "name": "虚拟化",
+      "count": 1
+    },
+    {
+      "name": "IaaS",
+      "count": 1
+    },
+    {
+      "name": "信息系统",
+      "count": 1
+    },
+    {
+      "name": "集成资质",
+      "count": 1
+    },
+    {
+      "name": "存储技术",
+      "count": 1
+    },
+    {
+      "name": "RAID",
+      "count": 1
+    },
+    {
+      "name": "备份",
+      "count": 1
+    },
+    {
+      "name": "信息安全",
+      "count": 1
+    },
+    {
+      "name": "加密",
+      "count": 1
+    },
+    {
+      "name": "防火墙",
+      "count": 1
+    },
+    {
+      "name": "数据库",
+      "count": 1
+    },
+    {
+      "name": "SQL",
+      "count": 1
+    },
+    {
+      "name": "范式",
+      "count": 1
     },
     {
       "name": "沉没成本",

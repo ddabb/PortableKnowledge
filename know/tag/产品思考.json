@@ -2,7 +2,7 @@
   "meta": {
     "tag": "产品思考",
     "count": 2,
-    "generatedAt": "2026-03-31T07:50:26.940Z"
+    "generatedAt": "2026-03-31T11:34:56.052Z"
   },
   "articles": [
     {
@@ -13,17 +13,17 @@
       "category": "产品思考",
       "wordCount": 1878,
       "updateTime": "2026-03-30T01:08:48.045Z",
-      "order": 185
+      "order": 205
     },
     {
-      "id": "article-1774943426737",
+      "id": "article-1774956895356",
       "filename": "免费是最贵的.json",
       "title": "免费是最贵的",
       "description": "为什么说「免费」其实是最昂贵的商业模式",
       "category": "产品思考",
       "wordCount": 1853,
       "updateTime": "2026-03-30T01:08:47.999Z",
-      "order": 219
+      "order": 239
     }
   ]
 }
