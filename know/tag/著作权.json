@@ -2,18 +2,18 @@
   "meta": {
     "tag": "著作权",
     "count": 1,
-    "generatedAt": "2026-04-01T04:32:34.555Z"
+    "generatedAt": "2026-04-01T06:30:16.725Z"
   },
   "articles": [
     {
-      "id": "article-1775017953809",
+      "id": "article-1775025016637",
       "filename": "知识产权与著作权法.json",
       "title": "知识产权与著作权法",
       "description": "软考中项知识产权核心考点，包括著作权、专利权、商标权的归属、期限及软件著作权特殊规定。",
       "category": "法律法规与标准",
       "wordCount": 1133,
       "updateTime": "2026-03-31T11:25:55.439Z",
-      "order": 12
+      "order": 17
     }
   ]
 }

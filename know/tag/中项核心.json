@@ -2,28 +2,28 @@
   "meta": {
     "tag": "中项核心",
     "count": 10,
-    "generatedAt": "2026-04-01T04:32:34.545Z"
+    "generatedAt": "2026-04-01T06:30:16.713Z"
   },
   "articles": [
     {
-      "id": "article-1775017952945",
+      "id": "article-1775025016612",
       "filename": "信息系统监理.json",
       "title": "信息系统监理",
       "description": "软考中项信息系统工程监理核心知识，包括监理的概念、职责范围、监理文档及监理人员要求。",
       "category": "项目立项管理",
       "wordCount": 1051,
       "updateTime": "2026-03-31T11:28:50.339Z",
-      "order": 6
+      "order": 11
     },
     {
-      "id": "article-1775017954404",
+      "id": "article-1775025016659",
       "filename": "项目立项与可行性研究.json",
       "title": "项目立项与可行性研究",
       "description": "软考中项项目立项核心内容，包括可行性研究的类型、内容、项目建议书及立项审批流程。",
       "category": "项目立项管理",
       "wordCount": 949,
       "updateTime": "2026-03-31T11:28:22.857Z",
-      "order": 7
+      "order": 12
     },
     {
       "id": "pert",
@@ -33,77 +33,77 @@
       "category": "计算题专项",
       "wordCount": 1298,
       "updateTime": "2026-03-31T11:27:52.656Z",
-      "order": 8
+      "order": 13
     },
     {
-      "id": "article-1775017953449",
+      "id": "article-1775025016627",
       "filename": "挣值分析计算专项.json",
       "title": "挣值分析计算专项",
       "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
       "category": "计算题专项",
       "wordCount": 1240,
       "updateTime": "2026-03-31T11:26:56.704Z",
-      "order": 10
+      "order": 15
     },
     {
-      "id": "article-1775017952958",
+      "id": "article-1775025016613",
       "filename": "信息系统相关法律法规.json",
       "title": "信息系统相关法律法规",
       "description": "软考中项必备法律法规汇总，包括网络安全法、电子签名法、数据安全法及相关标准规范。",
       "category": "法律法规与标准",
       "wordCount": 1264,
       "updateTime": "2026-03-31T11:26:25.206Z",
-      "order": 11
+      "order": 16
     },
     {
-      "id": "article-1775017953809",
+      "id": "article-1775025016637",
       "filename": "知识产权与著作权法.json",
       "title": "知识产权与著作权法",
       "description": "软考中项知识产权核心考点，包括著作权、专利权、商标权的归属、期限及软件著作权特殊规定。",
       "category": "法律法规与标准",
       "wordCount": 1133,
       "updateTime": "2026-03-31T11:25:55.439Z",
-      "order": 12
+      "order": 17
     },
     {
-      "id": "article-1775017953151",
+      "id": "article-1775025016617",
       "filename": "合同法要点.json",
       "title": "合同法要点",
       "description": "软考中项合同法核心考点，包括合同的订立、履行、变更、违约责任及IT项目合同特殊条款。",
       "category": "法律法规与标准",
       "wordCount": 1020,
       "updateTime": "2026-03-31T11:25:29.310Z",
-      "order": 13
+      "order": 18
     },
     {
-      "id": "article-1775017953418",
+      "id": "article-1775025016626",
       "filename": "招标投标法.json",
       "title": "招标投标法",
       "description": "软考中项必考法律法规——《招标投标法》核心条款，包括招标范围、招标方式、投标要求及违规处理。",
       "category": "法律法规与标准",
       "wordCount": 1036,
       "updateTime": "2026-03-31T11:25:01.094Z",
-      "order": 14
+      "order": 19
     },
     {
-      "id": "article-1775017954336",
+      "id": "article-1775025016657",
       "filename": "需求工程.json",
       "title": "需求工程",
       "description": "软考中项需求工程核心内容，包括需求分类、需求获取方法、需求分析与需求管理。",
       "category": "信息系统开发",
       "wordCount": 1029,
       "updateTime": "2026-03-31T11:23:32.381Z",
-      "order": 17
+      "order": 22
     },
     {
-      "id": "article-1775017953882",
+      "id": "article-1775025016639",
       "filename": "系统集成概述.json",
       "title": "系统集成概述",
       "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
       "category": "系统集成基础",
       "wordCount": 954,
       "updateTime": "2026-03-31T11:22:13.355Z",
-      "order": 20
+      "order": 25
     }
   ]
 }

@@ -2,11 +2,11 @@
   "meta": {
     "category": "产品思考",
     "count": 4,
-    "generatedAt": "2026-04-01T04:32:34.530Z"
+    "generatedAt": "2026-04-01T06:30:16.689Z"
   },
   "articles": [
     {
-      "id": "article-1775017954085",
+      "id": "article-1775025016647",
       "filename": "认知科学解释工具焦虑.json",
       "title": "认知科学解释工具焦虑",
       "description": "用认知科学解释为什么人们总是「收藏=学会」",
@@ -17,10 +17,10 @@
       ],
       "wordCount": 1933,
       "updateTime": "2026-03-30T01:08:48.244Z",
-      "order": 110
+      "order": 115
     },
     {
-      "id": "article-1775017953695",
+      "id": "article-1775025016631",
       "filename": "数据驱动产品决策.json",
       "title": "数据说话：用数据驱动产品决策",
       "description": "如何通过数据分析发现产品问题并优化",
@@ -31,7 +31,7 @@
       ],
       "wordCount": 2216,
       "updateTime": "2026-03-30T01:08:48.140Z",
-      "order": 173
+      "order": 178
     },
     {
       "id": "575",
@@ -45,10 +45,10 @@
       ],
       "wordCount": 1878,
       "updateTime": "2026-03-30T01:08:48.045Z",
-      "order": 208
+      "order": 213
     },
     {
-      "id": "article-1775017952979",
+      "id": "article-1775025016613",
       "filename": "免费是最贵的.json",
       "title": "免费是最贵的",
       "description": "为什么说「免费」其实是最昂贵的商业模式",
@@ -59,7 +59,7 @@
       ],
       "wordCount": 1853,
       "updateTime": "2026-03-30T01:08:47.999Z",
-      "order": 242
+      "order": 247
     }
   ]
 }

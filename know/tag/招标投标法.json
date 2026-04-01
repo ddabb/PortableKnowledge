@@ -2,18 +2,18 @@
   "meta": {
     "tag": "招标投标法",
     "count": 1,
-    "generatedAt": "2026-04-01T04:32:34.557Z"
+    "generatedAt": "2026-04-01T06:30:16.727Z"
   },
   "articles": [
     {
-      "id": "article-1775017953418",
+      "id": "article-1775025016626",
       "filename": "招标投标法.json",
       "title": "招标投标法",
       "description": "软考中项必考法律法规——《招标投标法》核心条款，包括招标范围、招标方式、投标要求及违规处理。",
       "category": "法律法规与标准",
       "wordCount": 1036,
       "updateTime": "2026-03-31T11:25:01.094Z",
-      "order": 14
+      "order": 19
     }
   ]
 }

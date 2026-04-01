@@ -2,18 +2,18 @@
   "meta": {
     "tag": "项目立项",
     "count": 1,
-    "generatedAt": "2026-04-01T04:32:34.548Z"
+    "generatedAt": "2026-04-01T06:30:16.715Z"
   },
   "articles": [
     {
-      "id": "article-1775017954404",
+      "id": "article-1775025016659",
       "filename": "项目立项与可行性研究.json",
       "title": "项目立项与可行性研究",
       "description": "软考中项项目立项核心内容，包括可行性研究的类型、内容、项目建议书及立项审批流程。",
       "category": "项目立项管理",
       "wordCount": 949,
       "updateTime": "2026-03-31T11:28:22.857Z",
-      "order": 7
+      "order": 12
     }
   ]
 }

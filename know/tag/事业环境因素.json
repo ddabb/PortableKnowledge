@@ -2,18 +2,18 @@
   "meta": {
     "tag": "事业环境因素",
     "count": 1,
-    "generatedAt": "2026-04-01T04:32:34.693Z"
+    "generatedAt": "2026-04-01T06:30:16.862Z"
   },
   "articles": [
     {
-      "id": "article-1775017952622",
+      "id": "article-1775025016609",
       "filename": "事业环境因素.json",
       "title": "事业环境因素",
       "description": "事业环境因素（EEFs）是指项目团队不能控制的，将对项目产生影响、限制或指令作用的各种条件。",
       "category": "项目运行环境",
       "wordCount": 228,
       "updateTime": "2026-03-30T01:08:47.991Z",
-      "order": 259
+      "order": 264
     }
   ]
 }

@@ -2,28 +2,28 @@
   "meta": {
     "tag": "控制成本",
     "count": 2,
-    "generatedAt": "2026-04-01T04:32:34.642Z"
+    "generatedAt": "2026-04-01T06:30:16.836Z"
   },
   "articles": [
     {
-      "id": "article-1775017953461",
+      "id": "article-1775025016628",
       "filename": "控制成本.json",
       "title": "控制成本",
       "description": "控制成本是监督项目状态，以更新项目成本和管理成本基准变更的过程。",
       "category": "项目成本管理",
       "wordCount": 494,
       "updateTime": "2026-03-30T01:08:48.076Z",
-      "order": 188
+      "order": 193
     },
     {
-      "id": "article-1775017953221",
+      "id": "article-1775025016620",
       "filename": "完工尚需绩效指数.json",
       "title": "完工尚需绩效指数",
       "description": "完工尚需绩效指数（TCPI）是一种为了实现特定的管理目标，剩余资源的使用必须达到的成本绩效指标，是完成剩余工作所需的成本与剩余预算之比。",
       "category": "项目成本管理",
       "wordCount": 494,
       "updateTime": "2026-03-30T01:08:48.031Z",
-      "order": 220
+      "order": 225
     }
   ]
 }

@@ -2,18 +2,18 @@
   "meta": {
     "tag": "范式",
     "count": 1,
-    "generatedAt": "2026-04-01T04:32:34.573Z"
+    "generatedAt": "2026-04-01T06:30:16.744Z"
   },
   "articles": [
     {
-      "id": "article-1775017953671",
+      "id": "article-1775025016630",
       "filename": "数据库基础.json",
       "title": "数据库基础",
       "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
       "category": "系统集成基础",
       "wordCount": 985,
       "updateTime": "2026-03-31T11:21:01.616Z",
-      "order": 23
+      "order": 28
     }
   ]
 }

@@ -2,18 +2,18 @@
   "meta": {
     "tag": "抑郁",
     "count": 1,
-    "generatedAt": "2026-04-01T04:32:34.578Z"
+    "generatedAt": "2026-04-01T06:30:16.751Z"
   },
   "articles": [
     {
-      "id": "article-1775017952608",
+      "id": "article-1775025016608",
       "filename": "习得性无助.json",
       "title": "习得性无助",
       "description": "为什么有些人放弃努力？习得性无助解释了\"认命\"的心理机制",
       "category": "心理学",
       "wordCount": 2846,
       "updateTime": "2026-03-31T07:47:12.009Z",
-      "order": 27
+      "order": 32
     }
   ]
 }
