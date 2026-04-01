@@ -1,19 +1,24 @@
 {
   "meta": {
     "tag": "UML",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.764Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856504",
       "filename": "软件设计.json",
       "title": "软件设计",
       "description": "结构化设计、面向对象设计、UML、设计原则",
       "category": "信息系统开发",
+      "tags": [
+        "软件设计",
+        "结构化设计",
+        "OOD",
+        "UML",
+        "设计模式"
+      ],
       "wordCount": 1711,
-      "updateTime": "2026-04-01T06:51:46.193Z",
-      "order": 47
+      "order": 274,
+      "id": "0b72ef18f77f1caa"
     }
   ]
 }

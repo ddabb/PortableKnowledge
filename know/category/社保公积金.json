@@ -1,15 +1,14 @@
 {
   "meta": {
     "category": "社保公积金",
-    "count": 2,
-    "generatedAt": "2026-04-01T07:34:16.553Z"
+    "count": 2
   },
   "articles": [
     {
-      "id": "article-1775028856417",
       "filename": "公积金提取全攻略.json",
       "title": "公积金提取全攻略",
       "description": "住房公积金提取条件、流程和注意事项",
+      "category": "社保公积金",
       "tags": [
         "公积金",
         "住房公积金",
@@ -17,14 +16,14 @@
         "购房"
       ],
       "wordCount": 1696,
-      "updateTime": "2026-03-31T07:39:25.654Z",
-      "order": 99
+      "order": 52,
+      "id": "bb4ce17bbc6f9e1e"
     },
     {
-      "id": "article-1775028856421",
       "filename": "医保报销指南.json",
       "title": "医保报销指南",
       "description": "医疗保险报销流程、报销比例和注意事项",
+      "category": "社保公积金",
       "tags": [
         "医保",
         "医疗保险",
@@ -32,8 +31,8 @@
         "社保"
       ],
       "wordCount": 1827,
-      "updateTime": "2026-03-31T07:38:42.469Z",
-      "order": 100
+      "order": 53,
+      "id": "cfd9bbf459bef012"
     }
   ]
 }

@@ -1,0 +1,299 @@
+{
+  "page": 1,
+  "totalPages": 17,
+  "totalItems": 327,
+  "items": [
+    {
+      "filename": "谨防电信网络诈骗.json",
+      "title": "谨防电信网络诈骗",
+      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
+      "category": "安全防范",
+      "tags": [
+        "诈骗",
+        "电信诈骗",
+        "网络安全",
+        "防骗"
+      ],
+      "wordCount": 1566,
+      "order": 1,
+      "id": "c1215c7f738d3a9b"
+    },
+    {
+      "filename": "日常生活诈骗防范.json",
+      "title": "日常生活诈骗防范",
+      "description": "生活中常见诈骗手段识别与防范技巧",
+      "category": "安全防范",
+      "tags": [
+        "诈骗",
+        "防范",
+        "安全",
+        "日常生活"
+      ],
+      "wordCount": 1473,
+      "order": 2,
+      "id": "a8fcf0de45f3197c"
+    },
+    {
+      "filename": "远离黄赌毒.json",
+      "title": "远离黄赌毒",
+      "description": "了解黄赌毒的危害，树立健康生活态度",
+      "category": "安全防范",
+      "tags": [
+        "黄赌毒",
+        "法治",
+        "健康",
+        "安全"
+      ],
+      "wordCount": 1897,
+      "order": 3,
+      "id": "1238a8cd336d7fb9"
+    },
+    {
+      "filename": "产品定位.json",
+      "title": "FreeTools 产品定位",
+      "description": "随身工具宝小程序的产品定位与差异化分析",
+      "category": "产品设计",
+      "tags": [
+        "产品定位",
+        "差异化",
+        "竞品分析"
+      ],
+      "wordCount": 2194,
+      "order": 4,
+      "id": "02bd298f0457379c"
+    },
+    {
+      "filename": "开发思路.json",
+      "title": "FreeTools 开发思路",
+      "description": "随身工具宝小程序开发思路与技术选型分享",
+      "category": "产品设计",
+      "tags": [
+        "开发",
+        "技术选型",
+        "产品"
+      ],
+      "wordCount": 3387,
+      "order": 5,
+      "id": "bd624d7197db141e"
+    },
+    {
+      "filename": "使用场景.json",
+      "title": "FreeTools 使用场景",
+      "description": "随身工具宝小程序的各种使用场景详解",
+      "category": "产品设计",
+      "tags": [
+        "使用场景",
+        "用户场景"
+      ],
+      "wordCount": 2292,
+      "order": 6,
+      "id": "a01f66e6b343531d"
+    },
+    {
+      "filename": "转型之路.json",
+      "title": "FreeTools 转型之路",
+      "description": "从工具集合到知识查询的产品转型思考",
+      "category": "产品设计",
+      "tags": [
+        "产品转型",
+        "知识库",
+        "产品迭代"
+      ],
+      "wordCount": 3684,
+      "order": 7,
+      "id": "6465122671357ffd"
+    },
+    {
+      "filename": "用户使用指南.json",
+      "title": "FreeTools 用户使用指南",
+      "description": "随身工具宝小程序完整使用教程，从入门到精通",
+      "category": "产品使用",
+      "tags": [
+        "使用指南",
+        "教程",
+        "工具宝"
+      ],
+      "wordCount": 2009,
+      "order": 8,
+      "id": "2e6aff0deffca040"
+    },
+    {
+      "filename": "免费是最贵的.json",
+      "title": "免费是最贵的",
+      "description": "为什么说「免费」其实是最昂贵的商业模式",
+      "category": "产品思考",
+      "tags": [
+        "商业模式",
+        "免费",
+        "产品思考"
+      ],
+      "wordCount": 1853,
+      "order": 9,
+      "id": "d19b4205a2c6afaa"
+    },
+    {
+      "filename": "认知科学解释工具焦虑.json",
+      "title": "认知科学解释工具焦虑",
+      "description": "用认知科学解释为什么人们总是「收藏=学会」",
+      "category": "产品思考",
+      "tags": [
+        "认知科学",
+        "心理学",
+        "用户行为"
+      ],
+      "wordCount": 1933,
+      "order": 10,
+      "id": "2b9dc0ee2cbd1890"
+    },
+    {
+      "filename": "少即是多.json",
+      "title": "少即是多：57个工具到5个核心",
+      "description": "从「贪多求全」到「少即是多」，一个产品经理的认知升级",
+      "category": "产品思考",
+      "tags": [
+        "产品思考",
+        "少即是多",
+        "产品哲学"
+      ],
+      "wordCount": 1878,
+      "order": 11,
+      "id": "efdc56472f22f42f"
+    },
+    {
+      "filename": "数据驱动产品决策.json",
+      "title": "数据说话：用数据驱动产品决策",
+      "description": "如何通过数据分析发现产品问题并优化",
+      "category": "产品思考",
+      "tags": [
+        "数据分析",
+        "数据驱动",
+        "产品优化"
+      ],
+      "wordCount": 2216,
+      "order": 12,
+      "id": "cef6230aff8bc2d4"
+    },
+    {
+      "filename": "被裁员了怎么办.json",
+      "title": "被裁员了怎么办",
+      "description": "公司裁员后的应对步骤、合法权益和注意事项",
+      "category": "法律常识",
+      "tags": [
+        "裁员",
+        "劳动法",
+        "维权",
+        "职场"
+      ],
+      "wordCount": 1701,
+      "order": 13,
+      "id": "89a918439345be36"
+    },
+    {
+      "filename": "劳动仲裁全流程.json",
+      "title": "劳动仲裁全流程",
+      "description": "劳动仲裁从准备到开庭的完整流程，包括材料准备、注意事项和常见问题",
+      "category": "法律常识",
+      "tags": [
+        "劳动仲裁",
+        "劳动法",
+        "维权",
+        "仲裁"
+      ],
+      "wordCount": 2133,
+      "order": 14,
+      "id": "7581a43f87b74a86"
+    },
+    {
+      "filename": "租房避坑指南.json",
+      "title": "租房避坑指南",
+      "description": "租房过程中需要注意的问题、常见陷阱和应对方法",
+      "category": "法律常识",
+      "tags": [
+        "租房",
+        "房屋租赁",
+        "合同",
+        "维权"
+      ],
+      "wordCount": 2002,
+      "order": 15,
+      "id": "a31a0e6b2cc2b853"
+    },
+    {
+      "filename": "法律法规体系.json",
+      "title": "法律法规体系",
+      "description": "信息系统集成项目相关的法律法规体系、法的效力层级及常用法律法规要点",
+      "category": "法律法规与标准",
+      "tags": [
+        "法律体系",
+        "法的效力",
+        "民法典",
+        "招投标法",
+        "知识产权法",
+        "标准规范"
+      ],
+      "wordCount": 2401,
+      "order": 16,
+      "id": "75ac1b1161623b6a"
+    },
+    {
+      "filename": "合同法要点.json",
+      "title": "合同法要点",
+      "description": "软考中项合同法核心考点，包括合同的订立、履行、变更、违约责任及IT项目合同特殊条款。",
+      "category": "法律法规与标准",
+      "tags": [
+        "合同法",
+        "法律法规",
+        "中项核心",
+        "合同管理"
+      ],
+      "wordCount": 1020,
+      "order": 17,
+      "id": "e7cdafe29825ec98"
+    },
+    {
+      "filename": "监理基础知识.json",
+      "title": "监理基础知识",
+      "description": "信息系统工程监理的概念、工作内容、角色定位及监理技术参考模型",
+      "category": "法律法规与标准",
+      "tags": [
+        "信息系统监理",
+        "三控两管一协调",
+        "监理依据",
+        "监理内容"
+      ],
+      "wordCount": 2569,
+      "order": 18,
+      "id": "2bed8fc2e8774507"
+    },
+    {
+      "filename": "信息系统相关法律法规.json",
+      "title": "信息系统相关法律法规",
+      "description": "软考中项必备法律法规汇总，包括网络安全法、电子签名法、数据安全法及相关标准规范。",
+      "category": "法律法规与标准",
+      "tags": [
+        "法律法规",
+        "网络安全法",
+        "数据安全",
+        "中项核心"
+      ],
+      "wordCount": 1264,
+      "order": 19,
+      "id": "6f7b317bde783a63"
+    },
+    {
+      "filename": "招标投标法.json",
+      "title": "招标投标法",
+      "description": "软考中项必考法律法规——《招标投标法》核心条款，包括招标范围、招标方式、投标要求及违规处理。",
+      "category": "法律法规与标准",
+      "tags": [
+        "招标投标法",
+        "法律法规",
+        "中项核心",
+        "招投标"
+      ],
+      "wordCount": 1036,
+      "order": 20,
+      "id": "d52169342e57b216"
+    }
+  ]
+}

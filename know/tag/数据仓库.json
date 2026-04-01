@@ -1,29 +1,39 @@
 {
   "meta": {
     "tag": "数据仓库",
-    "count": 2,
-    "generatedAt": "2026-04-01T07:34:16.696Z"
+    "count": 2
   },
   "articles": [
     {
-      "id": "article-1775028856456",
       "filename": "数据架构.json",
       "title": "数据架构",
       "description": "数据架构设计、数据建模",
       "category": "系统集成基础",
+      "tags": [
+        "数据架构",
+        "数据分层",
+        "数据建模",
+        "数据仓库",
+        "大数据"
+      ],
       "wordCount": 919,
-      "updateTime": "2026-04-01T06:54:55.221Z",
-      "order": 31
+      "order": 63,
+      "id": "c2a093a1f8856559"
     },
     {
-      "id": "article-1775028856453",
       "filename": "数据仓库.json",
       "title": "数据仓库",
       "description": "数据仓库概念、特点、架构与数据资产管理",
       "category": "信息系统开发",
+      "tags": [
+        "数据仓库",
+        "OLAP",
+        "数据资产",
+        "主题库"
+      ],
       "wordCount": 1694,
-      "updateTime": "2026-04-01T06:53:47.016Z",
-      "order": 36
+      "order": 276,
+      "id": "dfe8a50ee0aace8e"
     }
   ]
 }

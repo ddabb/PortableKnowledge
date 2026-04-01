@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "心肺复苏",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.861Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856443",
       "filename": "心肺复苏步骤.json",
       "title": "心肺复苏步骤",
       "description": "心肺复苏（CPR）的正确操作步骤和注意事项",
       "category": "急救知识",
+      "tags": [
+        "心肺复苏",
+        "CPR",
+        "急救",
+        "急救技能"
+      ],
       "wordCount": 1823,
-      "updateTime": "2026-03-31T07:41:09.052Z",
-      "order": 97
+      "order": 42,
+      "id": "7960a4d8b1c3138c"
     }
   ]
 }

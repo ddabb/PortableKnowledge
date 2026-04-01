@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "可得性启发",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.812Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856424",
       "filename": "可得性启发.json",
       "title": "可得性启发",
       "description": "为什么飞机失事新闻让你觉得坐飞机很危险？可得性启发解释了用易得性判断概率的心理偏差",
       "category": "心理学",
+      "tags": [
+        "可得性启发",
+        "心理学",
+        "认知偏差",
+        "判断与决策"
+      ],
       "wordCount": 3619,
-      "updateTime": "2026-04-01T04:32:23.453Z",
-      "order": 71
+      "order": 264,
+      "id": "740216aeee20034d"
     }
   ]
 }

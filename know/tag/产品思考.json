@@ -1,29 +1,36 @@
 {
   "meta": {
     "tag": "产品思考",
-    "count": 2,
-    "generatedAt": "2026-04-01T07:34:16.958Z"
+    "count": 2
   },
   "articles": [
     {
-      "id": "575",
-      "filename": "少即是多.json",
-      "title": "少即是多：57个工具到5个核心",
-      "description": "从「贪多求全」到「少即是多」，一个产品经理的认知升级",
-      "category": "产品思考",
-      "wordCount": 1878,
-      "updateTime": "2026-03-30T01:08:48.045Z",
-      "order": 274
-    },
-    {
-      "id": "article-1775028856417",
       "filename": "免费是最贵的.json",
       "title": "免费是最贵的",
       "description": "为什么说「免费」其实是最昂贵的商业模式",
       "category": "产品思考",
+      "tags": [
+        "商业模式",
+        "免费",
+        "产品思考"
+      ],
       "wordCount": 1853,
-      "updateTime": "2026-03-30T01:08:47.999Z",
-      "order": 305
+      "order": 9,
+      "id": "d19b4205a2c6afaa"
+    },
+    {
+      "filename": "少即是多.json",
+      "title": "少即是多：57个工具到5个核心",
+      "description": "从「贪多求全」到「少即是多」，一个产品经理的认知升级",
+      "category": "产品思考",
+      "tags": [
+        "产品思考",
+        "少即是多",
+        "产品哲学"
+      ],
+      "wordCount": 1878,
+      "order": 11,
+      "id": "efdc56472f22f42f"
     }
   ]
 }

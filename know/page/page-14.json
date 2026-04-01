@@ -1,0 +1,306 @@
+{
+  "page": 14,
+  "totalPages": 17,
+  "totalItems": 327,
+  "items": [
+    {
+      "filename": "组织理论.json",
+      "title": "组织理论",
+      "description": "组织理论阐述个人、团队和组织部门的行为方式。",
+      "category": "项目资源管理",
+      "tags": [
+        "规划过程组",
+        "规划资源管理"
+      ],
+      "wordCount": 139,
+      "order": 261,
+      "id": "9f8f7725abba9b97"
+    },
+    {
+      "filename": "沉没成本谬误.json",
+      "title": "沉没成本谬误",
+      "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
+      "category": "心理学",
+      "tags": [
+        "沉没成本",
+        "心理学",
+        "决策",
+        "认知偏差"
+      ],
+      "wordCount": 2478,
+      "order": 262,
+      "id": "138f4364677986b4"
+    },
+    {
+      "filename": "邓宁-克鲁格效应.json",
+      "title": "邓宁-克鲁格效应",
+      "description": "为什么新手往往高估自己，而专家却常常低估自己？邓宁-克鲁格效应揭示了元认知的盲点",
+      "category": "心理学",
+      "tags": [
+        "邓宁-克鲁格效应",
+        "心理学",
+        "认知偏差",
+        "元认知"
+      ],
+      "wordCount": 3016,
+      "order": 263,
+      "id": "2c61d090ce809389"
+    },
+    {
+      "filename": "可得性启发.json",
+      "title": "可得性启发",
+      "description": "为什么飞机失事新闻让你觉得坐飞机很危险？可得性启发解释了用易得性判断概率的心理偏差",
+      "category": "心理学",
+      "tags": [
+        "可得性启发",
+        "心理学",
+        "认知偏差",
+        "判断与决策"
+      ],
+      "wordCount": 3619,
+      "order": 264,
+      "id": "740216aeee20034d"
+    },
+    {
+      "filename": "锚定效应.json",
+      "title": "锚定效应",
+      "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
+      "category": "心理学",
+      "tags": [
+        "锚定效应",
+        "心理学",
+        "决策",
+        "认知偏差"
+      ],
+      "wordCount": 2537,
+      "order": 265,
+      "id": "032e44dc330f467c"
+    },
+    {
+      "filename": "破窗效应.json",
+      "title": "破窗效应",
+      "description": "为什么小问题会演变成大灾难？破窗效应解释了环境对行为的影响",
+      "category": "心理学",
+      "tags": [
+        "破窗效应",
+        "心理学",
+        "社会心理",
+        "环境影响"
+      ],
+      "wordCount": 2125,
+      "order": 266,
+      "id": "57b12c6d1d4cfe90"
+    },
+    {
+      "filename": "认知失调.json",
+      "title": "认知失调",
+      "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
+      "category": "心理学",
+      "tags": [
+        "认知失调",
+        "心理学",
+        "自我认知",
+        "决策"
+      ],
+      "wordCount": 2271,
+      "order": 267,
+      "id": "12413edcb653da19"
+    },
+    {
+      "filename": "损失厌恶.json",
+      "title": "损失厌恶",
+      "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
+      "category": "心理学",
+      "tags": [
+        "损失厌恶",
+        "心理学",
+        "行为经济学",
+        "决策"
+      ],
+      "wordCount": 3455,
+      "order": 268,
+      "id": "7eebe66f5f08ad45"
+    },
+    {
+      "filename": "习得性无助.json",
+      "title": "习得性无助",
+      "description": "为什么有些人放弃努力？习得性无助解释了\"认命\"的心理机制",
+      "category": "心理学",
+      "tags": [
+        "习得性无助",
+        "心理学",
+        "抑郁",
+        "动机"
+      ],
+      "wordCount": 2846,
+      "order": 269,
+      "id": "421f18607345a037"
+    },
+    {
+      "filename": "软件测试.json",
+      "title": "软件测试",
+      "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
+      "category": "信息系统开发",
+      "tags": [
+        "软件测试",
+        "黑盒测试",
+        "白盒测试",
+        "软件开发"
+      ],
+      "wordCount": 1107,
+      "order": 270,
+      "id": "c80d92c3778cccae"
+    },
+    {
+      "filename": "软件工程过程.json",
+      "title": "软件工程过程",
+      "description": "软件工程过程的定义、组成要素和主要活动",
+      "category": "信息系统开发",
+      "tags": [
+        "软件工程",
+        "过程管理",
+        "开发活动"
+      ],
+      "wordCount": 705,
+      "order": 271,
+      "id": "73ecf7426383e133"
+    },
+    {
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "category": "信息系统开发",
+      "tags": [
+        "软件集成",
+        "中间件",
+        "API",
+        "组件技术",
+        "SOA"
+      ],
+      "wordCount": 1156,
+      "order": 272,
+      "id": "283d91916d3933e9"
+    },
+    {
+      "filename": "软件开发模型.json",
+      "title": "软件开发模型",
+      "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷等模型的特点与适用场景。",
+      "category": "信息系统开发",
+      "tags": [
+        "软件开发",
+        "开发模型",
+        "瀑布模型",
+        "敏捷开发"
+      ],
+      "wordCount": 982,
+      "order": 273,
+      "id": "02023aa110b4526c"
+    },
+    {
+      "filename": "软件设计.json",
+      "title": "软件设计",
+      "description": "结构化设计、面向对象设计、UML、设计原则",
+      "category": "信息系统开发",
+      "tags": [
+        "软件设计",
+        "结构化设计",
+        "OOD",
+        "UML",
+        "设计模式"
+      ],
+      "wordCount": 1711,
+      "order": 274,
+      "id": "0b72ef18f77f1caa"
+    },
+    {
+      "filename": "软件质量保证.json",
+      "title": "软件质量保证",
+      "description": "软件质量管理、SQA活动、质量模型、测试方法",
+      "category": "信息系统开发",
+      "tags": [
+        "软件质量",
+        "SQA",
+        "CMMI",
+        "软件测试"
+      ],
+      "wordCount": 1456,
+      "order": 275,
+      "id": "6445dce9c3e6e995"
+    },
+    {
+      "filename": "数据仓库.json",
+      "title": "数据仓库",
+      "description": "数据仓库概念、特点、架构与数据资产管理",
+      "category": "信息系统开发",
+      "tags": [
+        "数据仓库",
+        "OLAP",
+        "数据资产",
+        "主题库"
+      ],
+      "wordCount": 1694,
+      "order": 276,
+      "id": "dfe8a50ee0aace8e"
+    },
+    {
+      "filename": "数据工程概述.json",
+      "title": "数据工程概述",
+      "description": "数据工程概念、数据采集与预处理、数据存储与管理",
+      "category": "信息系统开发",
+      "tags": [
+        "数据工程",
+        "数据采集",
+        "数据预处理",
+        "数据存储"
+      ],
+      "wordCount": 1434,
+      "order": 277,
+      "id": "a35a4112cf5ee424"
+    },
+    {
+      "filename": "数据挖掘.json",
+      "title": "数据挖掘",
+      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
+      "category": "信息系统开发",
+      "tags": [
+        "数据挖掘",
+        "数据分析",
+        "数据集成",
+        "数据可视化"
+      ],
+      "wordCount": 1783,
+      "order": 278,
+      "id": "e7a340324d8652a6"
+    },
+    {
+      "filename": "数据治理.json",
+      "title": "数据治理",
+      "description": "数据治理框架、数据标准化、数据质量管理",
+      "category": "信息系统开发",
+      "tags": [
+        "数据治理",
+        "数据标准化",
+        "数据质量",
+        "元数据"
+      ],
+      "wordCount": 1613,
+      "order": 279,
+      "id": "0b3b3885958688d0"
+    },
+    {
+      "filename": "系统运行与维护.json",
+      "title": "系统运行与维护",
+      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
+      "category": "信息系统开发",
+      "tags": [
+        "系统运维",
+        "SLA",
+        "ITIL",
+        "软件开发"
+      ],
+      "wordCount": 1220,
+      "order": 280,
+      "id": "ea11ec56abf9ae36"
+    }
+  ]
+}

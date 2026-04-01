@@ -1,19 +1,24 @@
 {
   "meta": {
     "tag": "网络架构",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.698Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856488",
       "filename": "网络架构.json",
       "title": "网络架构",
       "description": "网络架构设计、网络分层",
       "category": "系统集成基础",
+      "tags": [
+        "网络架构",
+        "局域网",
+        "广域网",
+        "移动通信网",
+        "SDN"
+      ],
       "wordCount": 1050,
-      "updateTime": "2026-04-01T06:54:55.220Z",
-      "order": 32
+      "order": 67,
+      "id": "ea50454f99a95604"
     }
   ]
 }

@@ -1,14 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-04-01T07:34:17.226Z",
     "totalArticles": 327,
-    "totalCategories": 34,
+    "totalCategories": 32,
     "totalTags": 433
   },
   "categories": [
     {
       "name": "引论",
-      "count": 41
+      "count": 42
     },
     {
       "name": "项目整合管理",
@@ -32,22 +31,22 @@
     },
     {
       "name": "项目范围管理",
-      "count": 17
-    },
-    {
-      "name": "项目风险管理",
-      "count": 16
+      "count": 18
     },
     {
       "name": "项目采购管理",
       "count": 16
     },
     {
-      "name": "信息系统开发",
-      "count": 12
+      "name": "项目风险管理",
+      "count": 16
     },
     {
       "name": "项目成本管理",
+      "count": 12
+    },
+    {
+      "name": "信息系统开发",
       "count": 12
     },
     {
@@ -75,14 +74,6 @@
       "count": 5
     },
     {
-      "name": "自然灾害",
-      "count": 4
-    },
-    {
-      "name": "开发实践",
-      "count": 4
-    },
-    {
       "name": "产品设计",
       "count": 4
     },
@@ -91,11 +82,19 @@
       "count": 4
     },
     {
+      "name": "开发实践",
+      "count": 4
+    },
+    {
       "name": "项目沟通管理",
       "count": 4
     },
     {
-      "name": "计算题专项",
+      "name": "自然灾害",
+      "count": 4
+    },
+    {
+      "name": "安全防范",
       "count": 3
     },
     {
@@ -103,23 +102,19 @@
       "count": 3
     },
     {
-      "name": "安全防范",
+      "name": "计算题专项",
       "count": 3
-    },
-    {
-      "name": "项目立项管理",
-      "count": 2
     },
     {
       "name": "社保公积金",
       "count": 2
     },
     {
-      "name": "引言",
-      "count": 1
+      "name": "项目立项管理",
+      "count": 2
     },
     {
-      "name": "软考备考",
+      "name": "产品使用",
       "count": 1
     },
     {
@@ -127,62 +122,91 @@
       "count": 1
     },
     {
-      "name": "产品使用",
+      "name": "开发者故事",
       "count": 1
     },
     {
-      "name": "开发者故事",
+      "name": "软考备考",
       "count": 1
     },
     {
       "name": "数据流向图",
       "count": 1
-    },
-    {
-      "name": "未分类",
-      "count": 1
     }
   ],
   "recentArticles": [
     {
-      "id": "article-1775028856435",
-      "filename": "实施定量风险分析.json",
-      "title": "实施定量风险分析",
-      "description": "实施定量风险分析是就已识别的单个项目风险和不确定性的其他来源对整体项目目标的影响进行定量分析的过程。",
-      "category": "项目风险管理",
-      "updateTime": "2026-04-01T07:33:11.966Z"
+      "filename": "谨防电信网络诈骗.json",
+      "title": "谨防电信网络诈骗",
+      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
+      "category": "安全防范",
+      "tags": [
+        "诈骗",
+        "电信诈骗",
+        "网络安全",
+        "防骗"
+      ],
+      "wordCount": 1566,
+      "order": 1,
+      "id": "c1215c7f738d3a9b"
     },
     {
-      "id": "article-1775028856419",
-      "filename": "制定进度计划.json",
-      "title": "制定进度计划",
-      "description": "制定进度计划是分析活动顺序、持续时间、资源需求和进度制约因素，创建进度模型，从而落实项目执行和监控的过程。",
-      "category": "项目进度管理",
-      "updateTime": "2026-04-01T07:29:52.140Z"
+      "filename": "日常生活诈骗防范.json",
+      "title": "日常生活诈骗防范",
+      "description": "生活中常见诈骗手段识别与防范技巧",
+      "category": "安全防范",
+      "tags": [
+        "诈骗",
+        "防范",
+        "安全",
+        "日常生活"
+      ],
+      "wordCount": 1473,
+      "order": 2,
+      "id": "a8fcf0de45f3197c"
     },
     {
-      "id": "article-1775028856410",
-      "filename": "价值交付系统.json",
-      "title": "价值交付系统",
-      "description": "价值创造方式、价值交付组件、信息流",
-      "category": "引论",
-      "updateTime": "2026-04-01T07:29:52.093Z"
+      "filename": "远离黄赌毒.json",
+      "title": "远离黄赌毒",
+      "description": "了解黄赌毒的危害，树立健康生活态度",
+      "category": "安全防范",
+      "tags": [
+        "黄赌毒",
+        "法治",
+        "健康",
+        "安全"
+      ],
+      "wordCount": 1897,
+      "order": 3,
+      "id": "1238a8cd336d7fb9"
     },
     {
-      "id": "article-1775028856419",
-      "filename": "制定项目管理计划.json",
-      "title": "制定项目管理计划",
-      "description": "制定项目管理计划是定义、准备和协调项目计划的所有组成部分，并把它们整合为一份综合项目管理计划的过程。",
-      "category": "项目整合管理",
-      "updateTime": "2026-04-01T07:29:25.939Z"
+      "filename": "产品定位.json",
+      "title": "FreeTools 产品定位",
+      "description": "随身工具宝小程序的产品定位与差异化分析",
+      "category": "产品设计",
+      "tags": [
+        "产品定位",
+        "差异化",
+        "竞品分析"
+      ],
+      "wordCount": 2194,
+      "order": 4,
+      "id": "02bd298f0457379c"
     },
     {
-      "id": "article-1775028856423",
-      "filename": "变更管理.json",
-      "title": "变更管理",
-      "description": "项目变更管理的基本概念、变更分类、角色职责、工作程序及变更控制方法",
-      "category": "项目整合管理",
-      "updateTime": "2026-04-01T07:29:19.204Z"
+      "filename": "开发思路.json",
+      "title": "FreeTools 开发思路",
+      "description": "随身工具宝小程序开发思路与技术选型分享",
+      "category": "产品设计",
+      "tags": [
+        "开发",
+        "技术选型",
+        "产品"
+      ],
+      "wordCount": 3387,
+      "order": 5,
+      "id": "bd624d7197db141e"
     }
   ],
   "popularTags": [
@@ -192,9 +216,9 @@
     "执行过程组",
     "监控过程组",
     "基本要素",
+    "软考备考",
     "风险管理",
     "启动过程组",
-    "软考备考",
-    "制定进度计划"
+    "心理学"
   ]
 }

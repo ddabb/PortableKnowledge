@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "需求工程",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.780Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856515",
       "filename": "需求工程.json",
       "title": "需求工程",
       "description": "软件需求层次、质量功能部署、需求获取与分析方法",
       "category": "信息系统开发",
+      "tags": [
+        "需求工程",
+        "需求分析",
+        "SRS",
+        "需求变更"
+      ],
       "wordCount": 1170,
-      "updateTime": "2026-04-01T06:51:11.271Z",
-      "order": 50
+      "order": 281,
+      "id": "f38826e1775ae0d9"
     }
   ]
 }

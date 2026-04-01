@@ -1,19 +1,22 @@
 {
   "meta": {
     "tag": "产品",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.955Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "freetools",
       "filename": "开发思路.json",
       "title": "FreeTools 开发思路",
       "description": "随身工具宝小程序开发思路与技术选型分享",
       "category": "产品设计",
+      "tags": [
+        "开发",
+        "技术选型",
+        "产品"
+      ],
       "wordCount": 3387,
-      "updateTime": "2026-03-30T01:08:48.049Z",
-      "order": 267
+      "order": 5,
+      "id": "bd624d7197db141e"
     }
   ]
 }

@@ -1,29 +1,36 @@
 {
   "meta": {
     "tag": "开源",
-    "count": 2,
-    "generatedAt": "2026-04-01T07:34:16.915Z"
+    "count": 2
   },
   "articles": [
     {
-      "id": "article-1775028856515",
       "filename": "零成本开源.json",
       "title": "零成本+开源：个人开发者的组合拳",
       "description": "如何用零成本+开源打造个人产品矩阵",
       "category": "开发实践",
+      "tags": [
+        "开源",
+        "零成本",
+        "开发者工具"
+      ],
       "wordCount": 2138,
-      "updateTime": "2026-03-30T01:08:48.263Z",
-      "order": 140
+      "order": 47,
+      "id": "19d9988026b50aad"
     },
     {
-      "id": "mit",
       "filename": "MIT开源协议.json",
       "title": "MIT 协议开源",
       "description": "为什么要选择 MIT 协议进行开源",
       "category": "开发实践",
+      "tags": [
+        "开源",
+        "MIT协议",
+        "许可证"
+      ],
       "wordCount": 2626,
-      "updateTime": "2026-03-30T01:08:47.983Z",
-      "order": 327
+      "order": 48,
+      "id": "3c41a63957a16518"
     }
   ]
 }

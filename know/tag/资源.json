@@ -1,19 +1,26 @@
 {
   "meta": {
     "tag": "资源",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.753Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856413",
       "filename": "信息技术服务.json",
       "title": "信息技术服务",
       "description": "IT服务内涵、特征、原理与组成",
       "category": "系统集成基础",
+      "tags": [
+        "IT服务",
+        "PPTR",
+        "服务特征",
+        "人员",
+        "过程",
+        "技术",
+        "资源"
+      ],
       "wordCount": 991,
-      "updateTime": "2026-04-01T06:52:27.567Z",
-      "order": 43
+      "order": 71,
+      "id": "cb10ba3bd3368ac1"
     }
   ]
 }

@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "交换技术",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.683Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856489",
       "filename": "网络集成.json",
       "title": "网络集成",
       "description": "网络系统集成的技术、传输介质、交换技术",
       "category": "系统集成基础",
+      "tags": [
+        "网络集成",
+        "网络工程",
+        "交换技术",
+        "安全子系统"
+      ],
       "wordCount": 1269,
-      "updateTime": "2026-04-01T06:55:22.753Z",
-      "order": 28
+      "order": 66,
+      "id": "855b246e8ec74a38"
     }
   ]
 }

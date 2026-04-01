@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "监督干系人参与",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.587Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856473",
       "filename": "监督干系人参与.json",
       "title": "监督干系人参与",
       "description": "监督干系人参与过程的定义、项目状态评估、干系人参与调整",
       "category": "项目相关方管理",
+      "tags": [
+        "监控过程组",
+        "监督干系人参与",
+        "相关方",
+        "PMP"
+      ],
       "wordCount": 1506,
-      "updateTime": "2026-04-01T07:28:53.317Z",
-      "order": 8
+      "order": 188,
+      "id": "964bf06b263c1f37"
     }
   ]
 }

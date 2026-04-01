@@ -1,79 +1,92 @@
 {
   "meta": {
     "tag": "数据收集",
-    "count": 7,
-    "generatedAt": "2026-04-01T07:34:16.920Z"
+    "count": 7
   },
   "articles": [
     {
-      "id": "article-1775028856514",
-      "filename": "问卷调查.json",
-      "title": "问卷调查",
-      "description": "问卷调查是指设计一系列书面问题，向众多受访者快速收集信息。问卷调查方法非常适用于以下情况：受众多样化，需要快速完成调查，受访者地理位置分散，并且适合开展统计分析。可用于在部署产品或服务之后收集关于客户...",
-      "category": "工具与技术",
-      "wordCount": 156,
-      "updateTime": "2026-03-30T01:08:48.261Z",
-      "order": 147
-    },
-    {
-      "id": "article-1775028856500",
-      "filename": "访谈.json",
-      "title": "访谈",
-      "description": "访谈是通过与相关方直接交谈，来获取信息的正式或非正式的方法。",
-      "category": "工具与技术",
-      "wordCount": 174,
-      "updateTime": "2026-03-30T01:08:48.245Z",
-      "order": 174
-    },
-    {
-      "id": "article-1775028856487",
-      "filename": "统计抽样.json",
-      "title": "统计抽样",
-      "description": "统计抽样是指从目标总体中选取部分样本用于检查（如从 75 张工程图纸中随机抽取10 张）。",
-      "category": "工具与技术",
-      "wordCount": 78,
-      "updateTime": "2026-03-30T01:08:48.215Z",
-      "order": 196
-    },
-    {
-      "id": "article-1775028856469",
-      "filename": "焦点小组.json",
-      "title": "焦点小组",
-      "description": "焦点小组是召集预定的相关方和主题专家，了解他们对所讨论的产品、服务或成果的期望和态度。",
-      "category": "工具与技术",
-      "wordCount": 85,
-      "updateTime": "2026-03-30T01:08:48.168Z",
-      "order": 228
-    },
-    {
-      "id": "article-1775028856464",
-      "filename": "核对单.json",
-      "title": "核对单",
-      "description": "核对单是包括需要考虑的项目、行动或要点的清单。",
-      "category": "工具与技术",
-      "wordCount": 263,
-      "updateTime": "2026-03-30T01:08:48.166Z",
-      "order": 233
-    },
-    {
-      "id": "article-1775028856463",
       "filename": "标杆对照.json",
       "title": "标杆对照",
       "description": "标杆对照是将实际或计划的项目实践或项目的质量标准与可比项目的实践进行比较，以便识别最佳实践，形成改进意见，并为绩效考核提供依据。",
       "category": "工具与技术",
+      "tags": [
+        "数据收集"
+      ],
       "wordCount": 127,
-      "updateTime": "2026-03-30T01:08:48.165Z",
-      "order": 235
+      "order": 23,
+      "id": "bb6290ed4697e019"
     },
     {
-      "id": "article-1775028856428",
+      "filename": "访谈.json",
+      "title": "访谈",
+      "description": "访谈是通过与相关方直接交谈，来获取信息的正式或非正式的方法。",
+      "category": "工具与技术",
+      "tags": [
+        "数据收集"
+      ],
+      "wordCount": 174,
+      "order": 28,
+      "id": "59d8031dbb5a92ba"
+    },
+    {
+      "filename": "核对单.json",
+      "title": "核对单",
+      "description": "核对单是包括需要考虑的项目、行动或要点的清单。",
+      "category": "工具与技术",
+      "tags": [
+        "数据收集"
+      ],
+      "wordCount": 263,
+      "order": 30,
+      "id": "ba0316080a19e21c"
+    },
+    {
+      "filename": "焦点小组.json",
+      "title": "焦点小组",
+      "description": "焦点小组是召集预定的相关方和主题专家，了解他们对所讨论的产品、服务或成果的期望和态度。",
+      "category": "工具与技术",
+      "tags": [
+        "数据收集"
+      ],
+      "wordCount": 85,
+      "order": 31,
+      "id": "a24c115104261c52"
+    },
+    {
+      "filename": "统计抽样.json",
+      "title": "统计抽样",
+      "description": "统计抽样是指从目标总体中选取部分样本用于检查（如从 75 张工程图纸中随机抽取10 张）。",
+      "category": "工具与技术",
+      "tags": [
+        "数据收集"
+      ],
+      "wordCount": 78,
+      "order": 36,
+      "id": "c2a79de651aa3da7"
+    },
+    {
       "filename": "头脑风暴.json",
       "title": "头脑风暴",
       "description": "本技术用于在短时间内获得大量创意，适用于团队环境，需要引导者进行引导。",
       "category": "工具与技术",
+      "tags": [
+        "数据收集"
+      ],
       "wordCount": 100,
-      "updateTime": "2026-03-30T01:08:48.031Z",
-      "order": 283
+      "order": 37,
+      "id": "ccca75fdd0a47f82"
+    },
+    {
+      "filename": "问卷调查.json",
+      "title": "问卷调查",
+      "description": "问卷调查是指设计一系列书面问题，向众多受访者快速收集信息。问卷调查方法非常适用于以下情况：受众多样化，需要快速完成调查，受访者地理位置分散，并且适合开展统计分析。可用于在部署产品或服务之后收集关于客户...",
+      "category": "工具与技术",
+      "tags": [
+        "数据收集"
+      ],
+      "wordCount": 156,
+      "order": 39,
+      "id": "a51acf079f3297d3"
     }
   ]
 }

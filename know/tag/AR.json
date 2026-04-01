@@ -1,19 +1,24 @@
 {
   "meta": {
     "tag": "AR",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.760Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856494",
       "filename": "虚拟现实.json",
       "title": "虚拟现实",
       "description": "VR/AR/MR概念、关键技术及应用",
       "category": "引论",
+      "tags": [
+        "VR",
+        "AR",
+        "MR",
+        "虚拟现实",
+        "人机交互"
+      ],
       "wordCount": 880,
-      "updateTime": "2026-04-01T06:51:47.944Z",
-      "order": 46
+      "order": 319,
+      "id": "8ab5542d2b8dcf6d"
     }
   ]
 }

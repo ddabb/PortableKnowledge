@@ -1,19 +1,25 @@
 {
   "meta": {
     "tag": "SaaS",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.795Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856405",
       "filename": "云计算.json",
       "title": "云计算",
       "description": "云计算概念、服务模式、部署模式及关键技术",
       "category": "引论",
+      "tags": [
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "虚拟化",
+        "云存储",
+        "分布式计算"
+      ],
       "wordCount": 994,
-      "updateTime": "2026-04-01T06:50:44.480Z",
-      "order": 53
+      "order": 321,
+      "id": "dbe71d346c6721cb"
     }
   ]
 }

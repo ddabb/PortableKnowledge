@@ -1,65 +1,64 @@
 {
   "meta": {
     "category": "产品思考",
-    "count": 4,
-    "generatedAt": "2026-04-01T07:34:16.567Z"
+    "count": 4
   },
   "articles": [
     {
-      "id": "article-1775028856499",
-      "filename": "认知科学解释工具焦虑.json",
-      "title": "认知科学解释工具焦虑",
-      "description": "用认知科学解释为什么人们总是「收藏=学会」",
-      "tags": [
-        "认知科学",
-        "心理学",
-        "用户行为"
-      ],
-      "wordCount": 1933,
-      "updateTime": "2026-03-30T01:08:48.244Z",
-      "order": 177
-    },
-    {
-      "id": "article-1775028856458",
-      "filename": "数据驱动产品决策.json",
-      "title": "数据说话：用数据驱动产品决策",
-      "description": "如何通过数据分析发现产品问题并优化",
-      "tags": [
-        "数据分析",
-        "数据驱动",
-        "产品优化"
-      ],
-      "wordCount": 2216,
-      "updateTime": "2026-03-30T01:08:48.140Z",
-      "order": 239
-    },
-    {
-      "id": "575",
-      "filename": "少即是多.json",
-      "title": "少即是多：57个工具到5个核心",
-      "description": "从「贪多求全」到「少即是多」，一个产品经理的认知升级",
-      "tags": [
-        "产品思考",
-        "少即是多",
-        "产品哲学"
-      ],
-      "wordCount": 1878,
-      "updateTime": "2026-03-30T01:08:48.045Z",
-      "order": 274
-    },
-    {
-      "id": "article-1775028856417",
       "filename": "免费是最贵的.json",
       "title": "免费是最贵的",
       "description": "为什么说「免费」其实是最昂贵的商业模式",
+      "category": "产品思考",
       "tags": [
         "商业模式",
         "免费",
         "产品思考"
       ],
       "wordCount": 1853,
-      "updateTime": "2026-03-30T01:08:47.999Z",
-      "order": 305
+      "order": 9,
+      "id": "d19b4205a2c6afaa"
+    },
+    {
+      "filename": "认知科学解释工具焦虑.json",
+      "title": "认知科学解释工具焦虑",
+      "description": "用认知科学解释为什么人们总是「收藏=学会」",
+      "category": "产品思考",
+      "tags": [
+        "认知科学",
+        "心理学",
+        "用户行为"
+      ],
+      "wordCount": 1933,
+      "order": 10,
+      "id": "2b9dc0ee2cbd1890"
+    },
+    {
+      "filename": "少即是多.json",
+      "title": "少即是多：57个工具到5个核心",
+      "description": "从「贪多求全」到「少即是多」，一个产品经理的认知升级",
+      "category": "产品思考",
+      "tags": [
+        "产品思考",
+        "少即是多",
+        "产品哲学"
+      ],
+      "wordCount": 1878,
+      "order": 11,
+      "id": "efdc56472f22f42f"
+    },
+    {
+      "filename": "数据驱动产品决策.json",
+      "title": "数据说话：用数据驱动产品决策",
+      "description": "如何通过数据分析发现产品问题并优化",
+      "category": "产品思考",
+      "tags": [
+        "数据分析",
+        "数据驱动",
+        "产品优化"
+      ],
+      "wordCount": 2216,
+      "order": 12,
+      "id": "cef6230aff8bc2d4"
     }
   ]
 }

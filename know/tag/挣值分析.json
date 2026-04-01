@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "挣值分析",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.830Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856447",
       "filename": "挣值分析计算专项.json",
       "title": "挣值分析计算专项",
       "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
       "category": "计算题专项",
+      "tags": [
+        "挣值分析",
+        "EVM",
+        "计算题",
+        "中项核心"
+      ],
       "wordCount": 1240,
-      "updateTime": "2026-03-31T11:26:56.704Z",
-      "order": 80
+      "order": 44,
+      "id": "2a051100f590230b"
     }
   ]
 }

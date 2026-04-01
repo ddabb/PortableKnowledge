@@ -1,64 +1,63 @@
 {
   "meta": {
     "category": "产品设计",
-    "count": 4,
-    "generatedAt": "2026-04-01T07:34:16.566Z"
+    "count": 4
   },
   "articles": [
     {
-      "id": "freetools",
-      "filename": "转型之路.json",
-      "title": "FreeTools 转型之路",
-      "description": "从工具集合到知识查询的产品转型思考",
-      "tags": [
-        "产品转型",
-        "知识库",
-        "产品迭代"
-      ],
-      "wordCount": 3684,
-      "updateTime": "2026-03-30T01:08:48.251Z",
-      "order": 163
-    },
-    {
-      "id": "freetools",
-      "filename": "开发思路.json",
-      "title": "FreeTools 开发思路",
-      "description": "随身工具宝小程序开发思路与技术选型分享",
-      "tags": [
-        "开发",
-        "技术选型",
-        "产品"
-      ],
-      "wordCount": 3387,
-      "updateTime": "2026-03-30T01:08:48.049Z",
-      "order": 267
-    },
-    {
-      "id": "freetools",
-      "filename": "使用场景.json",
-      "title": "FreeTools 使用场景",
-      "description": "随身工具宝小程序的各种使用场景详解",
-      "tags": [
-        "使用场景",
-        "用户场景"
-      ],
-      "wordCount": 2292,
-      "updateTime": "2026-03-30T01:08:47.996Z",
-      "order": 313
-    },
-    {
-      "id": "freetools",
       "filename": "产品定位.json",
       "title": "FreeTools 产品定位",
       "description": "随身工具宝小程序的产品定位与差异化分析",
+      "category": "产品设计",
       "tags": [
         "产品定位",
         "差异化",
         "竞品分析"
       ],
       "wordCount": 2194,
-      "updateTime": "2026-03-30T01:08:47.993Z",
-      "order": 318
+      "order": 4,
+      "id": "02bd298f0457379c"
+    },
+    {
+      "filename": "开发思路.json",
+      "title": "FreeTools 开发思路",
+      "description": "随身工具宝小程序开发思路与技术选型分享",
+      "category": "产品设计",
+      "tags": [
+        "开发",
+        "技术选型",
+        "产品"
+      ],
+      "wordCount": 3387,
+      "order": 5,
+      "id": "bd624d7197db141e"
+    },
+    {
+      "filename": "使用场景.json",
+      "title": "FreeTools 使用场景",
+      "description": "随身工具宝小程序的各种使用场景详解",
+      "category": "产品设计",
+      "tags": [
+        "使用场景",
+        "用户场景"
+      ],
+      "wordCount": 2292,
+      "order": 6,
+      "id": "a01f66e6b343531d"
+    },
+    {
+      "filename": "转型之路.json",
+      "title": "FreeTools 转型之路",
+      "description": "从工具集合到知识查询的产品转型思考",
+      "category": "产品设计",
+      "tags": [
+        "产品转型",
+        "知识库",
+        "产品迭代"
+      ],
+      "wordCount": 3684,
+      "order": 7,
+      "id": "6465122671357ffd"
     }
   ]
 }

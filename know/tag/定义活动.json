@@ -1,49 +1,62 @@
 {
   "meta": {
     "tag": "定义活动",
-    "count": 4,
-    "generatedAt": "2026-04-01T07:34:16.918Z"
+    "count": 4
   },
   "articles": [
     {
-      "id": "article-1775028856513",
-      "filename": "里程碑清单.json",
-      "title": "里程碑清单",
-      "description": "里程碑是项目中的重要时点或事件，里程碑清单列出了$\\color{red}{所有项目里程碑}$，并指明每个里程碑是强制性的（如合同要求的）还是选择性的（如根据历史信息确定的）。",
-      "category": "项目进度管理",
-      "wordCount": 121,
-      "updateTime": "2026-03-30T01:08:48.261Z",
-      "order": 146
-    },
-    {
-      "id": "article-1775028856466",
-      "filename": "活动属性.json",
-      "title": "活动属性",
-      "description": "活动属性是指每项活动所具有的多重属性，用来扩充对活动的描述，活动属性随时间演进。",
-      "category": "项目进度管理",
-      "wordCount": 246,
-      "updateTime": "2026-03-30T01:08:48.167Z",
-      "order": 229
-    },
-    {
-      "id": "article-1775028856466",
-      "filename": "活动清单.json",
-      "title": "活动清单",
-      "description": "对于使用滚动式规划或敏捷技术的项目，活动清单会在项目进展过程中得到定期更新。",
-      "category": "项目进度管理",
-      "wordCount": 93,
-      "updateTime": "2026-03-30T01:08:48.167Z",
-      "order": 230
-    },
-    {
-      "id": "article-1775028856433",
       "filename": "定义活动.json",
       "title": "定义活动",
       "description": "定义活动是识别和记录为完成项目可交付成果而须采取的具体行动的过程。",
       "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "定义活动",
+        "PMP"
+      ],
       "wordCount": 126,
-      "updateTime": "2026-03-30T01:08:48.032Z",
-      "order": 280
+      "order": 145,
+      "id": "c29893aba241684e"
+    },
+    {
+      "filename": "活动清单.json",
+      "title": "活动清单",
+      "description": "对于使用滚动式规划或敏捷技术的项目，活动清单会在项目进展过程中得到定期更新。",
+      "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "定义活动"
+      ],
+      "wordCount": 93,
+      "order": 149,
+      "id": "094c7b744cd6df67"
+    },
+    {
+      "filename": "活动属性.json",
+      "title": "活动属性",
+      "description": "活动属性是指每项活动所具有的多重属性，用来扩充对活动的描述，活动属性随时间演进。",
+      "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "定义活动"
+      ],
+      "wordCount": 246,
+      "order": 150,
+      "id": "2c3ec1644c15c9df"
+    },
+    {
+      "filename": "里程碑清单.json",
+      "title": "里程碑清单",
+      "description": "里程碑是项目中的重要时点或事件，里程碑清单列出了$\\color{red}{所有项目里程碑}$，并指明每个里程碑是强制性的（如合同要求的）还是选择性的（如根据历史信息确定的）。",
+      "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "定义活动",
+        "里程碑"
+      ],
+      "wordCount": 121,
+      "order": 160,
+      "id": "0f21d2467cd71721"
     }
   ]
 }

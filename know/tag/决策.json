@@ -1,79 +1,104 @@
 {
   "meta": {
     "tag": "决策",
-    "count": 7,
-    "generatedAt": "2026-04-01T07:34:16.818Z"
+    "count": 7
   },
   "articles": [
     {
-      "id": "article-1775028856447",
-      "filename": "损失厌恶.json",
-      "title": "损失厌恶",
-      "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
-      "category": "心理学",
-      "wordCount": 3455,
-      "updateTime": "2026-04-01T04:31:12.418Z",
-      "order": 72
-    },
-    {
-      "id": "article-1775028856465",
-      "filename": "沉没成本谬误.json",
-      "title": "沉没成本谬误",
-      "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
-      "category": "心理学",
-      "wordCount": 2478,
-      "updateTime": "2026-03-31T07:50:17.014Z",
-      "order": 92
-    },
-    {
-      "id": "article-1775028856514",
-      "filename": "锚定效应.json",
-      "title": "锚定效应",
-      "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
-      "category": "心理学",
-      "wordCount": 2537,
-      "updateTime": "2026-03-31T07:48:12.927Z",
-      "order": 94
-    },
-    {
-      "id": "article-1775028856499",
-      "filename": "认知失调.json",
-      "title": "认知失调",
-      "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
-      "category": "心理学",
-      "wordCount": 2271,
-      "updateTime": "2026-03-31T07:46:02.562Z",
-      "order": 96
-    },
-    {
-      "id": "article-1775028856470",
       "filename": "独裁型决策制定.json",
       "title": "独裁型决策制定",
       "description": "采用这种方法，将由一个人负责为整个集体制定决策。",
       "category": "工具与技术",
+      "tags": [
+        "决策"
+      ],
       "wordCount": 24,
-      "updateTime": "2026-03-30T01:08:48.184Z",
-      "order": 223
+      "order": 26,
+      "id": "8971987caa510356"
     },
     {
-      "id": "article-1775028856446",
-      "filename": "投票.json",
-      "title": "投票",
-      "description": "投票是一种为达成某种期望结果，而对多个未来行动方案进行评估的集体决策技术和过程。",
-      "category": "工具与技术",
-      "wordCount": 185,
-      "updateTime": "2026-03-30T01:08:48.072Z",
-      "order": 259
-    },
-    {
-      "id": "article-1775028856427",
       "filename": "多标准决策分析.json",
       "title": "多标准决策分析",
       "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。",
       "category": "工具与技术",
+      "tags": [
+        "决策"
+      ],
       "wordCount": 55,
-      "updateTime": "2026-03-30T01:08:48.030Z",
-      "order": 286
+      "order": 27,
+      "id": "4c1e0d113408f5c7"
+    },
+    {
+      "filename": "投票.json",
+      "title": "投票",
+      "description": "投票是一种为达成某种期望结果，而对多个未来行动方案进行评估的集体决策技术和过程。",
+      "category": "工具与技术",
+      "tags": [
+        "决策"
+      ],
+      "wordCount": 185,
+      "order": 38,
+      "id": "131be877a3aceba9"
+    },
+    {
+      "filename": "沉没成本谬误.json",
+      "title": "沉没成本谬误",
+      "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
+      "category": "心理学",
+      "tags": [
+        "沉没成本",
+        "心理学",
+        "决策",
+        "认知偏差"
+      ],
+      "wordCount": 2478,
+      "order": 262,
+      "id": "138f4364677986b4"
+    },
+    {
+      "filename": "锚定效应.json",
+      "title": "锚定效应",
+      "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
+      "category": "心理学",
+      "tags": [
+        "锚定效应",
+        "心理学",
+        "决策",
+        "认知偏差"
+      ],
+      "wordCount": 2537,
+      "order": 265,
+      "id": "032e44dc330f467c"
+    },
+    {
+      "filename": "认知失调.json",
+      "title": "认知失调",
+      "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
+      "category": "心理学",
+      "tags": [
+        "认知失调",
+        "心理学",
+        "自我认知",
+        "决策"
+      ],
+      "wordCount": 2271,
+      "order": 267,
+      "id": "12413edcb653da19"
+    },
+    {
+      "filename": "损失厌恶.json",
+      "title": "损失厌恶",
+      "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
+      "category": "心理学",
+      "tags": [
+        "损失厌恶",
+        "心理学",
+        "行为经济学",
+        "决策"
+      ],
+      "wordCount": 3455,
+      "order": 268,
+      "id": "7eebe66f5f08ad45"
     }
   ]
 }

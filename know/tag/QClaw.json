@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "QClaw",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.973Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "qclaw-ai",
       "filename": "QClaw开发实践.json",
       "title": "QClaw AI 辅助开发最佳实践",
       "description": "使用 QClaw AI 助手辅助小程序开发的最佳实践",
       "category": "开发实践",
+      "tags": [
+        "AI辅助",
+        "QClaw",
+        "开发效率",
+        "最佳实践"
+      ],
       "wordCount": 4262,
-      "updateTime": "2026-03-30T01:08:47.985Z",
-      "order": 326
+      "order": 49,
+      "id": "0a0da2ca99986620"
     }
   ]
 }

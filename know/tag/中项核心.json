@@ -1,99 +1,143 @@
 {
   "meta": {
     "tag": "中项核心",
-    "count": 9,
-    "generatedAt": "2026-04-01T07:34:16.824Z"
+    "count": 9
   },
   "articles": [
     {
-      "id": "article-1775028856415",
-      "filename": "信息系统监理.json",
-      "title": "信息系统监理",
-      "description": "软考中项信息系统工程监理核心知识，包括监理的概念、职责范围、监理文档及监理人员要求。",
-      "category": "项目立项管理",
-      "wordCount": 1051,
-      "updateTime": "2026-03-31T11:28:50.339Z",
-      "order": 76
-    },
-    {
-      "id": "article-1775028856517",
-      "filename": "项目立项与可行性研究.json",
-      "title": "项目立项与可行性研究",
-      "description": "软考中项项目立项核心内容，包括可行性研究的类型、内容、项目建议书及立项审批流程。",
-      "category": "项目立项管理",
-      "wordCount": 949,
-      "updateTime": "2026-03-31T11:28:22.857Z",
-      "order": 77
-    },
-    {
-      "id": "pert",
-      "filename": "PERT估算与其他计算专项.json",
-      "title": "PERT估算与其他计算专项",
-      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
-      "category": "计算题专项",
-      "wordCount": 1298,
-      "updateTime": "2026-03-31T11:27:52.656Z",
-      "order": 78
-    },
-    {
-      "id": "article-1775028856447",
-      "filename": "挣值分析计算专项.json",
-      "title": "挣值分析计算专项",
-      "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
-      "category": "计算题专项",
-      "wordCount": 1240,
-      "updateTime": "2026-03-31T11:26:56.704Z",
-      "order": 80
-    },
-    {
-      "id": "article-1775028856416",
-      "filename": "信息系统相关法律法规.json",
-      "title": "信息系统相关法律法规",
-      "description": "软考中项必备法律法规汇总，包括网络安全法、电子签名法、数据安全法及相关标准规范。",
-      "category": "法律法规与标准",
-      "wordCount": 1264,
-      "updateTime": "2026-03-31T11:26:25.206Z",
-      "order": 81
-    },
-    {
-      "id": "article-1775028856477",
-      "filename": "知识产权与著作权法.json",
-      "title": "知识产权与著作权法",
-      "description": "软考中项知识产权核心考点，包括著作权、专利权、商标权的归属、期限及软件著作权特殊规定。",
-      "category": "法律法规与标准",
-      "wordCount": 1133,
-      "updateTime": "2026-03-31T11:25:55.439Z",
-      "order": 82
-    },
-    {
-      "id": "article-1775028856424",
       "filename": "合同法要点.json",
       "title": "合同法要点",
       "description": "软考中项合同法核心考点，包括合同的订立、履行、变更、违约责任及IT项目合同特殊条款。",
       "category": "法律法规与标准",
+      "tags": [
+        "合同法",
+        "法律法规",
+        "中项核心",
+        "合同管理"
+      ],
       "wordCount": 1020,
-      "updateTime": "2026-03-31T11:25:29.310Z",
-      "order": 83
+      "order": 17,
+      "id": "e7cdafe29825ec98"
     },
     {
-      "id": "article-1775028856446",
+      "filename": "信息系统相关法律法规.json",
+      "title": "信息系统相关法律法规",
+      "description": "软考中项必备法律法规汇总，包括网络安全法、电子签名法、数据安全法及相关标准规范。",
+      "category": "法律法规与标准",
+      "tags": [
+        "法律法规",
+        "网络安全法",
+        "数据安全",
+        "中项核心"
+      ],
+      "wordCount": 1264,
+      "order": 19,
+      "id": "6f7b317bde783a63"
+    },
+    {
       "filename": "招标投标法.json",
       "title": "招标投标法",
       "description": "软考中项必考法律法规——《招标投标法》核心条款，包括招标范围、招标方式、投标要求及违规处理。",
       "category": "法律法规与标准",
+      "tags": [
+        "招标投标法",
+        "法律法规",
+        "中项核心",
+        "招投标"
+      ],
       "wordCount": 1036,
-      "updateTime": "2026-03-31T11:25:01.094Z",
-      "order": 84
+      "order": 20,
+      "id": "d52169342e57b216"
     },
     {
-      "id": "article-1775028856483",
+      "filename": "知识产权与著作权法.json",
+      "title": "知识产权与著作权法",
+      "description": "软考中项知识产权核心考点，包括著作权、专利权、商标权的归属、期限及软件著作权特殊规定。",
+      "category": "法律法规与标准",
+      "tags": [
+        "知识产权",
+        "著作权",
+        "法律法规",
+        "中项核心"
+      ],
+      "wordCount": 1133,
+      "order": 21,
+      "id": "2eee70c891d426d7"
+    },
+    {
+      "filename": "挣值分析计算专项.json",
+      "title": "挣值分析计算专项",
+      "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
+      "category": "计算题专项",
+      "tags": [
+        "挣值分析",
+        "EVM",
+        "计算题",
+        "中项核心"
+      ],
+      "wordCount": 1240,
+      "order": 44,
+      "id": "2a051100f590230b"
+    },
+    {
+      "filename": "PERT估算与其他计算专项.json",
+      "title": "PERT估算与其他计算专项",
+      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
+      "category": "计算题专项",
+      "tags": [
+        "PERT",
+        "三点估算",
+        "计算题",
+        "中项核心"
+      ],
+      "wordCount": 1298,
+      "order": 45,
+      "id": "ba7c56ecd924e19d"
+    },
+    {
       "filename": "系统集成概述.json",
       "title": "系统集成概述",
       "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
       "category": "系统集成基础",
+      "tags": [
+        "系统集成",
+        "信息系统",
+        "集成资质",
+        "中项核心"
+      ],
       "wordCount": 954,
-      "updateTime": "2026-03-31T11:22:13.355Z",
-      "order": 89
+      "order": 68,
+      "id": "86662c7b6d37deeb"
+    },
+    {
+      "filename": "项目立项与可行性研究.json",
+      "title": "项目立项与可行性研究",
+      "description": "软考中项项目立项核心内容，包括可行性研究的类型、内容、项目建议书及立项审批流程。",
+      "category": "项目立项管理",
+      "tags": [
+        "项目立项",
+        "可行性研究",
+        "中项核心",
+        "启动过程组"
+      ],
+      "wordCount": 949,
+      "order": 182,
+      "id": "c7e52d3c012fb516"
+    },
+    {
+      "filename": "信息系统监理.json",
+      "title": "信息系统监理",
+      "description": "软考中项信息系统工程监理核心知识，包括监理的概念、职责范围、监理文档及监理人员要求。",
+      "category": "项目立项管理",
+      "tags": [
+        "信息系统监理",
+        "中项核心",
+        "项目管理",
+        "质量管理"
+      ],
+      "wordCount": 1051,
+      "order": 183,
+      "id": "8d55b64f517a0200"
     }
   ]
 }

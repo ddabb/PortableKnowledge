@@ -1,19 +1,25 @@
 {
   "meta": {
     "tag": "分布式账本",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.777Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856420",
       "filename": "区块链.json",
       "title": "区块链",
       "description": "区块链概念、核心技术、类型及应用",
       "category": "引论",
+      "tags": [
+        "区块链",
+        "共识机制",
+        "智能合约",
+        "分布式账本",
+        "公有链",
+        "私有链"
+      ],
       "wordCount": 1001,
-      "updateTime": "2026-04-01T06:51:16.434Z",
-      "order": 49
+      "order": 290,
+      "id": "e3ec4391c1f61f83"
     }
   ]
 }

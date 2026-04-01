@@ -1,29 +1,38 @@
 {
   "meta": {
     "tag": "软件测试",
-    "count": 2,
-    "generatedAt": "2026-04-01T07:34:16.745Z"
+    "count": 2
   },
   "articles": [
     {
-      "id": "article-1775028856504",
-      "filename": "软件质量保证.json",
-      "title": "软件质量保证",
-      "description": "软件质量管理、SQA活动、质量模型、测试方法",
-      "category": "信息系统开发",
-      "wordCount": 1456,
-      "updateTime": "2026-04-01T06:52:34.896Z",
-      "order": 42
-    },
-    {
-      "id": "article-1775028856504",
       "filename": "软件测试.json",
       "title": "软件测试",
       "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
       "category": "信息系统开发",
+      "tags": [
+        "软件测试",
+        "黑盒测试",
+        "白盒测试",
+        "软件开发"
+      ],
       "wordCount": 1107,
-      "updateTime": "2026-03-31T11:23:55.849Z",
-      "order": 86
+      "order": 270,
+      "id": "c80d92c3778cccae"
+    },
+    {
+      "filename": "软件质量保证.json",
+      "title": "软件质量保证",
+      "description": "软件质量管理、SQA活动、质量模型、测试方法",
+      "category": "信息系统开发",
+      "tags": [
+        "软件质量",
+        "SQA",
+        "CMMI",
+        "软件测试"
+      ],
+      "wordCount": 1456,
+      "order": 275,
+      "id": "6445dce9c3e6e995"
     }
   ]
 }

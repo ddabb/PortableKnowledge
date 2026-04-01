@@ -1,29 +1,38 @@
 {
   "meta": {
     "tag": "逃生",
-    "count": 2,
-    "generatedAt": "2026-04-01T07:34:16.882Z"
+    "count": 2
   },
   "articles": [
     {
-      "id": "article-1775028856468",
-      "filename": "火灾防范与逃生.json",
-      "title": "火灾防范与逃生",
-      "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "自然灾害",
-      "wordCount": 1265,
-      "updateTime": "2026-03-31T05:09:14.244Z",
-      "order": 106
-    },
-    {
-      "id": "article-1775028856427",
       "filename": "地震防范与应急.json",
       "title": "地震防范与应急",
       "description": "地震发生时的应对措施、逃生技巧和日常准备",
       "category": "自然灾害",
+      "tags": [
+        "地震",
+        "自然灾害",
+        "应急",
+        "逃生"
+      ],
       "wordCount": 877,
-      "updateTime": "2026-03-31T05:07:55.871Z",
-      "order": 109
+      "order": 324,
+      "id": "2d0059c269fa4ccd"
+    },
+    {
+      "filename": "火灾防范与逃生.json",
+      "title": "火灾防范与逃生",
+      "description": "家庭火灾预防、火灾应对和逃生技巧",
+      "category": "自然灾害",
+      "tags": [
+        "火灾",
+        "消防",
+        "逃生",
+        "安全"
+      ],
+      "wordCount": 1265,
+      "order": 326,
+      "id": "398da44935de7319"
     }
   ]
 }

@@ -1,39 +1,50 @@
 {
   "meta": {
     "tag": "定义范围",
-    "count": 3,
-    "generatedAt": "2026-04-01T07:34:16.901Z"
+    "count": 3
   },
   "articles": [
     {
-      "id": "article-1775028856520",
-      "filename": "项目范围说明书.json",
-      "title": "项目范围说明书",
-      "description": "项目范围说明书是对项目范围、主要可交付成果、假设条件和制约因素的描述。",
-      "category": "项目范围管理",
-      "wordCount": 593,
-      "updateTime": "2026-03-30T01:08:48.355Z",
-      "order": 121
-    },
-    {
-      "id": "article-1775028856433",
-      "filename": "定义范围.json",
-      "title": "定义范围",
-      "description": "本过程的主要作用是，描述产品、服务或成果的边界和验收标准。",
-      "category": "项目范围管理",
-      "wordCount": 430,
-      "updateTime": "2026-03-30T01:08:48.032Z",
-      "order": 281
-    },
-    {
-      "id": "article-1775028856406",
       "filename": "产品分析.json",
       "title": "产品分析",
       "description": "产品分析可用于定义产品和服务，包括针对产品或服务提问并回答，以描述要交付的产品的用途、特征及其他方面。",
       "category": "项目范围管理",
+      "tags": [
+        "规划过程组",
+        "定义范围",
+        "产品经理"
+      ],
       "wordCount": 182,
-      "updateTime": "2026-03-30T01:08:47.993Z",
-      "order": 317
+      "order": 106,
+      "id": "21c31a034224e5e6"
+    },
+    {
+      "filename": "定义范围.json",
+      "title": "定义范围",
+      "description": "本过程的主要作用是，描述产品、服务或成果的边界和验收标准。",
+      "category": "项目范围管理",
+      "tags": [
+        "规划过程组",
+        "定义范围",
+        "PMP"
+      ],
+      "wordCount": 430,
+      "order": 109,
+      "id": "3163129718a82125"
+    },
+    {
+      "filename": "项目范围说明书.json",
+      "title": "项目范围说明书",
+      "description": "项目范围说明书是对项目范围、主要可交付成果、假设条件和制约因素的描述。",
+      "category": "项目范围管理",
+      "tags": [
+        "规划过程组",
+        "定义范围",
+        "项目管理"
+      ],
+      "wordCount": 593,
+      "order": 118,
+      "id": "de8459539ff50c7c"
     }
   ]
 }

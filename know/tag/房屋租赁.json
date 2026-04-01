@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "房屋租赁",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.864Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856479",
       "filename": "租房避坑指南.json",
       "title": "租房避坑指南",
       "description": "租房过程中需要注意的问题、常见陷阱和应对方法",
       "category": "法律常识",
+      "tags": [
+        "租房",
+        "房屋租赁",
+        "合同",
+        "维权"
+      ],
       "wordCount": 2002,
-      "updateTime": "2026-03-31T07:40:21.105Z",
-      "order": 98
+      "order": 15,
+      "id": "a31a0e6b2cc2b853"
     }
   ]
 }

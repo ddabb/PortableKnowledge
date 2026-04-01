@@ -1,69 +1,89 @@
 {
   "meta": {
     "tag": "估算活动持续时间",
-    "count": 6,
-    "generatedAt": "2026-04-01T07:34:16.934Z"
+    "count": 6
   },
   "articles": [
     {
-      "id": "article-1775028856491",
-      "filename": "自下而上估算.json",
-      "title": "自下而上估算",
-      "description": "自下而上估算是一种估算项目持续时间或成本的方法，通过从下到上逐层汇总 WBS 组成部分的估算而得到项目估算。",
-      "category": "项目进度管理",
-      "wordCount": 188,
-      "updateTime": "2026-03-30T01:08:48.216Z",
-      "order": 193
-    },
-    {
-      "id": "article-1775028856482",
-      "filename": "类比估算.json",
-      "title": "类比估算",
-      "description": "类比估算是一种使用相似活动或项目的历史数据，来估算当前活动或项目的持续时间或成本的技术。",
-      "category": "项目进度管理",
-      "wordCount": 387,
-      "updateTime": "2026-03-30T01:08:48.195Z",
-      "order": 208
-    },
-    {
-      "id": "article-1775028856451",
-      "filename": "敏捷发布规划.json",
-      "title": "敏捷发布规划",
-      "description": "敏捷发布规划基于项目路线图和产品发展愿景，提供了高度概括的发布进度时间轴（通常是 3 到 6个月）。",
-      "category": "项目进度管理",
-      "wordCount": 192,
-      "updateTime": "2026-03-30T01:08:48.136Z",
-      "order": 244
-    },
-    {
-      "id": "article-1775028856422",
       "filename": "参数估算.json",
       "title": "参数估算",
       "description": "参数估算是一种基于历史数据和项目参数，使用某种算法来计算成本或持续时间的估算技术。",
       "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间"
+      ],
       "wordCount": 316,
-      "updateTime": "2026-03-30T01:08:48.008Z",
-      "order": 298
+      "order": 144,
+      "id": "41727f995c3e25e6"
     },
     {
-      "id": "article-1775028856410",
       "filename": "估算活动持续时间.json",
       "title": "估算活动持续时间",
       "description": "估算活动持续时间是根据资源估算的结果，估算完成单项活动所需工作时段数的过程。",
       "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间",
+        "PMP"
+      ],
       "wordCount": 258,
-      "updateTime": "2026-03-30T01:08:47.996Z",
-      "order": 311
+      "order": 146,
+      "id": "424c49e8eb3b1917"
     },
     {
-      "id": "article-1775028856401",
+      "filename": "类比估算.json",
+      "title": "类比估算",
+      "description": "类比估算是一种使用相似活动或项目的历史数据，来估算当前活动或项目的持续时间或成本的技术。",
+      "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间"
+      ],
+      "wordCount": 387,
+      "order": 159,
+      "id": "a66a3fca84482a60"
+    },
+    {
+      "filename": "敏捷发布规划.json",
+      "title": "敏捷发布规划",
+      "description": "敏捷发布规划基于项目路线图和产品发展愿景，提供了高度概括的发布进度时间轴（通常是 3 到 6个月）。",
+      "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间",
+        "敏捷",
+        "Sprint"
+      ],
+      "wordCount": 192,
+      "order": 161,
+      "id": "0f02b0b50250fa96"
+    },
+    {
       "filename": "三点估算.json",
       "title": "三点估算",
       "description": "通过考虑估算中的$\\color{red}{不确定性}$和风险，可以提高持续时间估算的准确性。",
       "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间"
+      ],
       "wordCount": 335,
-      "updateTime": "2026-03-30T01:08:47.987Z",
-      "order": 324
+      "order": 164,
+      "id": "7ea43ae39db922d7"
+    },
+    {
+      "filename": "自下而上估算.json",
+      "title": "自下而上估算",
+      "description": "自下而上估算是一种估算项目持续时间或成本的方法，通过从下到上逐层汇总 WBS 组成部分的估算而得到项目估算。",
+      "category": "项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间"
+      ],
+      "wordCount": 188,
+      "order": 171,
+      "id": "8ce4258fbaba0038"
     }
   ]
 }

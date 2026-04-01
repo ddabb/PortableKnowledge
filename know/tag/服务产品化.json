@@ -1,19 +1,24 @@
 {
   "meta": {
     "tag": "服务产品化",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.730Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "it",
       "filename": "IT服务标准化.json",
       "title": "IT服务标准化",
       "description": "ITSS标准体系、服务标准及产业化",
       "category": "系统集成基础",
+      "tags": [
+        "ITSS",
+        "服务标准化",
+        "服务产品化",
+        "服务产业化",
+        "服务标准"
+      ],
       "wordCount": 1161,
-      "updateTime": "2026-04-01T06:53:01.930Z",
-      "order": 39
+      "order": 76,
+      "id": "2c1427d6700252b8"
     }
   ]
 }

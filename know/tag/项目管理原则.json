@@ -1,19 +1,22 @@
 {
   "meta": {
     "tag": "项目管理原则",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.599Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856518",
       "filename": "项目管理原则.json",
       "title": "项目管理原则",
       "description": "PMBOK第7版定义的12个项目管理原则",
       "category": "引论",
+      "tags": [
+        "项目管理原则",
+        "PMP",
+        "PMBOK"
+      ],
       "wordCount": 2301,
-      "updateTime": "2026-04-01T07:28:50.346Z",
-      "order": 9
+      "order": 305,
+      "id": "e7235db34c826cf4"
     }
   ]
 }

@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "三点估算",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.827Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "pert",
       "filename": "PERT估算与其他计算专项.json",
       "title": "PERT估算与其他计算专项",
       "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
       "category": "计算题专项",
+      "tags": [
+        "PERT",
+        "三点估算",
+        "计算题",
+        "中项核心"
+      ],
       "wordCount": 1298,
-      "updateTime": "2026-03-31T11:27:52.656Z",
-      "order": 78
+      "order": 45,
+      "id": "ba7c56ecd924e19d"
     }
   ]
 }

@@ -1,39 +1,50 @@
 {
   "meta": {
     "tag": "数据分析",
-    "count": 3,
-    "generatedAt": "2026-04-01T07:34:16.713Z"
+    "count": 3
   },
   "articles": [
     {
-      "id": "article-1775028856455",
-      "filename": "数据挖掘.json",
-      "title": "数据挖掘",
-      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
-      "category": "信息系统开发",
-      "wordCount": 1783,
-      "updateTime": "2026-04-01T06:54:48.720Z",
-      "order": 34
-    },
-    {
-      "id": "article-1775028856458",
       "filename": "数据驱动产品决策.json",
       "title": "数据说话：用数据驱动产品决策",
       "description": "如何通过数据分析发现产品问题并优化",
       "category": "产品思考",
+      "tags": [
+        "数据分析",
+        "数据驱动",
+        "产品优化"
+      ],
       "wordCount": 2216,
-      "updateTime": "2026-03-30T01:08:48.140Z",
-      "order": 239
+      "order": 12,
+      "id": "cef6230aff8bc2d4"
     },
     {
-      "id": "article-1775028856444",
       "filename": "成本效益分析.json",
       "title": "成本效益分析",
       "description": "成本效益分析是用来估算备选方案优势和劣势的财务分析工具，以确定可以创造最佳效益的备选方案。",
       "category": "工具与技术",
+      "tags": [
+        "数据分析",
+        "成本管理"
+      ],
       "wordCount": 154,
-      "updateTime": "2026-03-30T01:08:48.069Z",
-      "order": 262
+      "order": 24,
+      "id": "d884b67b1682d97e"
+    },
+    {
+      "filename": "数据挖掘.json",
+      "title": "数据挖掘",
+      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
+      "category": "信息系统开发",
+      "tags": [
+        "数据挖掘",
+        "数据分析",
+        "数据集成",
+        "数据可视化"
+      ],
+      "wordCount": 1783,
+      "order": 278,
+      "id": "e7a340324d8652a6"
     }
   ]
 }

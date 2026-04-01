@@ -1,19 +1,24 @@
 {
   "meta": {
     "tag": "安全体系",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.687Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856432",
       "filename": "安全架构.json",
       "title": "安全架构",
       "description": "信息安全架构设计",
       "category": "系统集成基础",
+      "tags": [
+        "安全架构",
+        "WPDRRC",
+        "信息安全",
+        "威胁防护",
+        "安全体系"
+      ],
       "wordCount": 1067,
-      "updateTime": "2026-04-01T06:54:55.247Z",
-      "order": 29
+      "order": 55,
+      "id": "daca2edc545ec66c"
     }
   ]
 }

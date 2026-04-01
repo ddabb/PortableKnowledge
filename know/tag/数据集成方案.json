@@ -1,19 +1,23 @@
 {
   "meta": {
     "tag": "数据集成方案",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.680Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856457",
       "filename": "数据集成.json",
       "title": "数据集成",
       "description": "数据集成方案、数据集成方法、数据访问接口",
       "category": "系统集成基础",
+      "tags": [
+        "数据集成",
+        "数据集成方法",
+        "ETL",
+        "数据集成方案"
+      ],
       "wordCount": 1615,
-      "updateTime": "2026-04-01T06:55:51.484Z",
-      "order": 27
+      "order": 62,
+      "id": "1c4c51d4848427df"
     }
   ]
 }

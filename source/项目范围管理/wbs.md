@@ -1,7 +1,7 @@
----
+﻿---
 title: 创建WBS
 description: 创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。
-category: 未分类
+category: 项目范围管理
 tags:
   - WBS
   - PMP

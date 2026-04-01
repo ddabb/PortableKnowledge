@@ -1,19 +1,24 @@
 {
   "meta": {
     "tag": "AI",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.765Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856408",
       "filename": "人工智能.json",
       "title": "人工智能",
       "description": "AI概念、发展阶段、关键技术及应用",
       "category": "引论",
+      "tags": [
+        "AI",
+        "机器学习",
+        "深度学习",
+        "自然语言处理",
+        "专家系统"
+      ],
       "wordCount": 854,
-      "updateTime": "2026-04-01T06:51:32.310Z",
-      "order": 48
+      "order": 291,
+      "id": "bab41569c4136a2c"
     }
   ]
 }

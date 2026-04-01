@@ -1,19 +1,24 @@
 {
   "meta": {
     "tag": "应用架构",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:34:16.687Z"
+    "count": 1
   },
   "articles": [
     {
-      "id": "article-1775028856441",
       "filename": "应用架构.json",
       "title": "应用架构",
       "description": "应用架构模式、SOA与微服务",
       "category": "系统集成基础",
+      "tags": [
+        "应用架构",
+        "SOA",
+        "微服务",
+        "MVC",
+        "分层分域"
+      ],
       "wordCount": 844,
-      "updateTime": "2026-04-01T06:54:55.247Z",
-      "order": 30
+      "order": 74,
+      "id": "d14347236723810a"
     }
   ]
 }

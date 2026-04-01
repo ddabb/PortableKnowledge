@@ -1,29 +1,39 @@
 {
   "meta": {
     "tag": "信息安全",
-    "count": 2,
-    "generatedAt": "2026-04-01T07:34:16.668Z"
+    "count": 2
   },
   "articles": [
     {
-      "id": "article-1775028856413",
-      "filename": "信息安全基础.json",
-      "title": "信息安全基础",
-      "description": "信息安全概念、安全属性、安全管理、等级保护",
-      "category": "系统集成基础",
-      "wordCount": 1272,
-      "updateTime": "2026-04-01T06:56:50.105Z",
-      "order": 25
-    },
-    {
-      "id": "article-1775028856432",
       "filename": "安全架构.json",
       "title": "安全架构",
       "description": "信息安全架构设计",
       "category": "系统集成基础",
+      "tags": [
+        "安全架构",
+        "WPDRRC",
+        "信息安全",
+        "威胁防护",
+        "安全体系"
+      ],
       "wordCount": 1067,
-      "updateTime": "2026-04-01T06:54:55.247Z",
-      "order": 29
+      "order": 55,
+      "id": "daca2edc545ec66c"
+    },
+    {
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "系统集成基础",
+      "tags": [
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
+      ],
+      "wordCount": 1272,
+      "order": 70,
+      "id": "109c5f1a6aeca1fa"
     }
   ]
 }
