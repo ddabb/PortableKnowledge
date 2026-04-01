@@ -90,7 +90,7 @@ MIT 的好处：
 
 ### 3. 这只是一个「小项目」
 
-FreeTools：
+随身工具宝：
 - 不是商业产品
 - 不是核心技术
 - 只是一个工具集合
@@ -253,7 +253,7 @@ MIT License
 
 ## 七、写在最后
 
-**我选择 MIT 协议开源 FreeTools，原因很简单：**
+**我选择 MIT 协议开源 随身工具宝，原因很简单：**
 
 - 我想让更多人受益
 - 我不想限制别人
@@ -268,8 +268,8 @@ MIT License
 
 ---
 
-> FreeTools 是开源的，MIT 协议。
+> 随身工具宝 是开源的，MIT 协议。
 > 
-> GitHub: github.com/ddabb/freetools
+> GitHub: github.com/ddabb/随身工具宝
 > 
 > 欢迎使用、修改、分享。
