@@ -8,7 +8,7 @@
       "filename": "医保报销指南.json",
       "title": "医保报销指南",
       "description": "医疗保险报销流程、报销比例和注意事项",
-      "category": "社保公积金",
+      "category": "生活通识/社保公积金",
       "tags": [
         "医保",
         "医疗保险",
@@ -16,8 +16,8 @@
         "社保"
       ],
       "wordCount": 1827,
-      "order": 53,
-      "id": "cfd9bbf459bef012"
+      "order": 315,
+      "id": "408af5b0b3d2eb72"
     }
   ]
 }

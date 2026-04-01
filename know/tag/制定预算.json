@@ -8,75 +8,75 @@
       "filename": "成本汇总.json",
       "title": "成本汇总",
       "description": "先把成本估算汇总到 WBS 中的工作包，再由工作包汇总至 WBS 的更高层次（如控制账户），最终得出整个项目的总成本。",
-      "category": "项目成本管理",
+      "category": "软考/项目管理/项目成本管理",
       "tags": [
         "规划过程组",
         "制定预算",
         "成本管理"
       ],
       "wordCount": 55,
-      "order": 95,
-      "id": "8c3ac5055269a624"
+      "order": 32,
+      "id": "496e1211d7f556a0"
     },
     {
       "filename": "成本基准.json",
       "title": "成本基准",
       "description": "成本基准是经过批准的、按时间段分配的项目预算，不包括任何管理储备，只有通过正式的变更控制程序才能变更，用作与实际结果进行比较的依据。",
-      "category": "项目成本管理",
+      "category": "软考/项目管理/项目成本管理",
       "tags": [
         "规划过程组",
         "制定预算",
         "成本管理"
       ],
       "wordCount": 370,
-      "order": 96,
-      "id": "29e76cca3d6b2260"
+      "order": 33,
+      "id": "1c79a882c451bb39"
     },
     {
       "filename": "历史信息审核.json",
       "title": "历史信息审核",
       "description": "审核历史信息有助于进行参数估算或类比估算。",
-      "category": "项目成本管理",
+      "category": "软考/项目管理/项目成本管理",
       "tags": [
         "规划过程组",
         "制定预算"
       ],
       "wordCount": 230,
-      "order": 100,
-      "id": "e3a3cac92391ddb2"
+      "order": 37,
+      "id": "e91cd242e098f3d4"
     },
     {
       "filename": "融资.json",
       "title": "融资",
       "description": "长期的基础设施、工业和公共服务项目通常会寻求外部融资。",
-      "category": "项目成本管理",
+      "category": "软考/项目管理/项目成本管理",
       "tags": [
         "规划过程组",
         "制定预算"
       ],
       "wordCount": 69,
-      "order": 101,
-      "id": "1a3a0e319747f8cc"
+      "order": 38,
+      "id": "0c27af636d6c3c63"
     },
     {
       "filename": "项目资金需求.json",
       "title": "项目资金需求",
       "description": "根据成本基准，确定总资金需求和阶段性（如季度或年度）资金需求。",
-      "category": "项目成本管理",
+      "category": "软考/项目管理/项目成本管理",
       "tags": [
         "规划过程组",
         "制定预算",
         "项目管理"
       ],
       "wordCount": 133,
-      "order": 103,
-      "id": "71c96015cc05c487"
+      "order": 40,
+      "id": "daa3243b5d47985f"
     },
     {
       "filename": "制定预算.json",
       "title": "制定预算",
       "description": "制定预算是汇总所有单个活动或工作包的估算成本，建立一个经批准的成本基准的过程。",
-      "category": "项目成本管理",
+      "category": "软考/项目管理/项目成本管理",
       "tags": [
         "规划过程组",
         "制定预算",
@@ -84,21 +84,21 @@
         "PMP"
       ],
       "wordCount": 192,
-      "order": 104,
-      "id": "478dc63eb5f1555d"
+      "order": 41,
+      "id": "5dc841d1121775f1"
     },
     {
       "filename": "资金限制平衡.json",
       "title": "资金限制平衡",
       "description": "应该根据对项目资金的任何限制，来平衡资金支出。",
-      "category": "项目成本管理",
+      "category": "软考/项目管理/项目成本管理",
       "tags": [
         "规划过程组",
         "制定预算"
       ],
       "wordCount": 90,
-      "order": 105,
-      "id": "7775bcab6566f735"
+      "order": 42,
+      "id": "114b7225d5813c39"
     }
   ]
 }

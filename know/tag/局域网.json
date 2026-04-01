@@ -8,7 +8,7 @@
       "filename": "网络架构.json",
       "title": "网络架构",
       "description": "网络架构设计、网络分层",
-      "category": "系统集成基础",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
         "网络架构",
         "局域网",
@@ -17,8 +17,8 @@
         "SDN"
       ],
       "wordCount": 1050,
-      "order": 67,
-      "id": "ea50454f99a95604"
+      "order": 242,
+      "id": "57f12946f1cedfe6"
     }
   ]
 }

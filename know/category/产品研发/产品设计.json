@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "category": "产品研发/产品设计",
+    "count": 4
+  },
+  "articles": [
+    {
+      "filename": "产品定位.json",
+      "title": "FreeTools 产品定位",
+      "description": "随身工具宝小程序的产品定位与差异化分析",
+      "category": "产品研发/产品设计",
+      "tags": [
+        "产品定位",
+        "差异化",
+        "竞品分析"
+      ],
+      "wordCount": 2194,
+      "order": 1,
+      "id": "ec3531e24d289fec"
+    },
+    {
+      "filename": "开发思路.json",
+      "title": "FreeTools 开发思路",
+      "description": "随身工具宝小程序开发思路与技术选型分享",
+      "category": "产品研发/产品设计",
+      "tags": [
+        "开发",
+        "技术选型",
+        "产品"
+      ],
+      "wordCount": 3387,
+      "order": 2,
+      "id": "c31edf6c4c2b89f9"
+    },
+    {
+      "filename": "使用场景.json",
+      "title": "FreeTools 使用场景",
+      "description": "随身工具宝小程序的各种使用场景详解",
+      "category": "产品研发/产品设计",
+      "tags": [
+        "使用场景",
+        "用户场景"
+      ],
+      "wordCount": 2292,
+      "order": 3,
+      "id": "d8afbb8b09234303"
+    },
+    {
+      "filename": "转型之路.json",
+      "title": "FreeTools 转型之路",
+      "description": "从工具集合到知识查询的产品转型思考",
+      "category": "产品研发/产品设计",
+      "tags": [
+        "产品转型",
+        "知识库",
+        "产品迭代"
+      ],
+      "wordCount": 3684,
+      "order": 4,
+      "id": "017e088e39d8d334"
+    }
+  ]
+}

@@ -8,73 +8,73 @@
       "filename": "冲突管理.json",
       "title": "冲突管理",
       "description": "在项目环境中，冲突不可避免。冲突的来源包括资源稀缺、进度优先级排序和个人工作风格差异等。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "人际关系与团队技能"
       ],
       "wordCount": 250,
-      "order": 25,
-      "id": "9e91d19ff656c1aa"
+      "order": 208,
+      "id": "3a26dcfeeff022f8"
     },
     {
       "filename": "观察和交谈.json",
       "title": "观察和交谈",
       "description": "观察和交谈是指直接察看个人在各自的环境中如何执行工作（或任务）和实施流程。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "人际关系与团队技能"
       ],
       "wordCount": 169,
-      "order": 29,
-      "id": "d592023f17e68f8b"
+      "order": 212,
+      "id": "19724bb75dd76706"
     },
     {
       "filename": "联合应用设计或开发.json",
       "title": "联合应用设计或开发",
       "description": "联合应用设计或开发 JAD 会议适用于软件开发行业。这种研讨会注重把业务主题专家和开发团队集中在一起，以收集需求和改进软件开发过程。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "人际关系与团队技能"
       ],
       "wordCount": 64,
-      "order": 32,
-      "id": "10cd0b603d728073"
+      "order": 215,
+      "id": "e307f585652ce8e2"
     },
     {
       "filename": "名义小组技术.json",
       "title": "名义小组技术",
       "description": "名义小组技术是用于促进头脑风暴的一种技术，通过投票排列最有用的创意，以便进一步开展头脑风暴或优先排序。名义小组技术是一种结构化的头脑风暴形式，由四个步骤组成：",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "人际关系与团队技能"
       ],
       "wordCount": 235,
-      "order": 33,
-      "id": "8d6eb4cbde9d3c09"
+      "order": 216,
+      "id": "e1a056cecb167c5e"
     },
     {
       "filename": "引导.json",
       "title": "引导",
       "description": "引导是指有效引导团队活动成功以达成决定、解决方案或结论的能力。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "人际关系与团队技能"
       ],
       "wordCount": 99,
-      "order": 40,
-      "id": "f9741b6541d192cb"
+      "order": 223,
+      "id": "4f37d4cbc7ffb497"
     },
     {
       "filename": "质量功能展开.json",
       "title": "质量功能展开",
       "description": "制造行业则采用 QFD 这种引导技能来帮助确定新产品的关键特征。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "人际关系与团队技能"
       ],
       "wordCount": 85,
-      "order": 41,
-      "id": "bf61378df8547967"
+      "order": 224,
+      "id": "adf996186008b004"
     }
   ]
 }

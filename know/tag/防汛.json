@@ -8,7 +8,7 @@
       "filename": "洪水防范与应对.json",
       "title": "洪水防范与应对",
       "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
-      "category": "自然灾害",
+      "category": "生活通识/自然灾害",
       "tags": [
         "洪水",
         "自然灾害",
@@ -17,13 +17,13 @@
       ],
       "wordCount": 842,
       "order": 325,
-      "id": "418348c266ab7909"
+      "id": "ba444651c5345d81"
     },
     {
       "filename": "台风防范指南.json",
       "title": "台风防范指南",
       "description": "台风的形成、预警等级及防范措施",
-      "category": "自然灾害",
+      "category": "生活通识/自然灾害",
       "tags": [
         "台风",
         "自然灾害",
@@ -32,7 +32,7 @@
       ],
       "wordCount": 943,
       "order": 327,
-      "id": "26cbe2b442b565ec"
+      "id": "2411eb1484625054"
     }
   ]
 }

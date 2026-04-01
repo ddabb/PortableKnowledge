@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "category": "生活通识/社保公积金",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "公积金提取全攻略.json",
+      "title": "公积金提取全攻略",
+      "description": "住房公积金提取条件、流程和注意事项",
+      "category": "生活通识/社保公积金",
+      "tags": [
+        "公积金",
+        "住房公积金",
+        "提取",
+        "购房"
+      ],
+      "wordCount": 1696,
+      "order": 314,
+      "id": "09d203625e2ca62b"
+    },
+    {
+      "filename": "医保报销指南.json",
+      "title": "医保报销指南",
+      "description": "医疗保险报销流程、报销比例和注意事项",
+      "category": "生活通识/社保公积金",
+      "tags": [
+        "医保",
+        "医疗保险",
+        "报销",
+        "社保"
+      ],
+      "wordCount": 1827,
+      "order": 315,
+      "id": "408af5b0b3d2eb72"
+    }
+  ]
+}

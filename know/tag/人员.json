@@ -8,7 +8,7 @@
       "filename": "信息技术服务.json",
       "title": "信息技术服务",
       "description": "IT服务内涵、特征、原理与组成",
-      "category": "系统集成基础",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
         "IT服务",
         "PPTR",
@@ -19,8 +19,8 @@
         "资源"
       ],
       "wordCount": 991,
-      "order": 71,
-      "id": "cb10ba3bd3368ac1"
+      "order": 246,
+      "id": "794574c48071d0bb"
     }
   ]
 }

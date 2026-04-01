@@ -8,7 +8,7 @@
       "filename": "应用集成.json",
       "title": "应用集成",
       "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
-      "category": "系统集成基础",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
         "应用集成",
         "EAI",
@@ -17,8 +17,8 @@
         "业务应用集成"
       ],
       "wordCount": 1505,
-      "order": 73,
-      "id": "7bed16aee4fb7fdb"
+      "order": 248,
+      "id": "44ad11c8fc4dfbff"
     }
   ]
 }

@@ -8,43 +8,43 @@
       "filename": "独裁型决策制定.json",
       "title": "独裁型决策制定",
       "description": "采用这种方法，将由一个人负责为整个集体制定决策。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "决策"
       ],
       "wordCount": 24,
-      "order": 26,
-      "id": "8971987caa510356"
+      "order": 209,
+      "id": "a197252eeba2b9ab"
     },
     {
       "filename": "多标准决策分析.json",
       "title": "多标准决策分析",
       "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "决策"
       ],
       "wordCount": 55,
-      "order": 27,
-      "id": "4c1e0d113408f5c7"
+      "order": 210,
+      "id": "20cab351439d27fa"
     },
     {
       "filename": "投票.json",
       "title": "投票",
       "description": "投票是一种为达成某种期望结果，而对多个未来行动方案进行评估的集体决策技术和过程。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "决策"
       ],
       "wordCount": 185,
-      "order": 38,
-      "id": "131be877a3aceba9"
+      "order": 221,
+      "id": "eca1be53e721daa8"
     },
     {
       "filename": "沉没成本谬误.json",
       "title": "沉没成本谬误",
       "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
-      "category": "心理学",
+      "category": "生活通识/心理学",
       "tags": [
         "沉没成本",
         "心理学",
@@ -52,14 +52,14 @@
         "认知偏差"
       ],
       "wordCount": 2478,
-      "order": 262,
-      "id": "138f4364677986b4"
+      "order": 316,
+      "id": "2e0ad5e258ebe742"
     },
     {
       "filename": "锚定效应.json",
       "title": "锚定效应",
       "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
-      "category": "心理学",
+      "category": "生活通识/心理学",
       "tags": [
         "锚定效应",
         "心理学",
@@ -67,14 +67,14 @@
         "认知偏差"
       ],
       "wordCount": 2537,
-      "order": 265,
-      "id": "032e44dc330f467c"
+      "order": 319,
+      "id": "ba08dfe51da0d7e6"
     },
     {
       "filename": "认知失调.json",
       "title": "认知失调",
       "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
-      "category": "心理学",
+      "category": "生活通识/心理学",
       "tags": [
         "认知失调",
         "心理学",
@@ -82,14 +82,14 @@
         "决策"
       ],
       "wordCount": 2271,
-      "order": 267,
-      "id": "12413edcb653da19"
+      "order": 321,
+      "id": "417462f81acb5bce"
     },
     {
       "filename": "损失厌恶.json",
       "title": "损失厌恶",
       "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
-      "category": "心理学",
+      "category": "生活通识/心理学",
       "tags": [
         "损失厌恶",
         "心理学",
@@ -97,8 +97,8 @@
         "决策"
       ],
       "wordCount": 3455,
-      "order": 268,
-      "id": "7eebe66f5f08ad45"
+      "order": 322,
+      "id": "fffb49d73ff4a2bc"
     }
   ]
 }

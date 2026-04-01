@@ -5,25 +5,10 @@
   },
   "articles": [
     {
-      "filename": "谨防电信网络诈骗.json",
-      "title": "谨防电信网络诈骗",
-      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
-      "category": "安全防范",
-      "tags": [
-        "诈骗",
-        "电信诈骗",
-        "网络安全",
-        "防骗"
-      ],
-      "wordCount": 1566,
-      "order": 1,
-      "id": "c1215c7f738d3a9b"
-    },
-    {
       "filename": "网络安全.json",
       "title": "网络安全",
       "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
-      "category": "系统集成基础",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
         "网络安全",
         "防火墙",
@@ -32,8 +17,23 @@
         "安全防护"
       ],
       "wordCount": 1755,
-      "order": 65,
-      "id": "47365b4bacaff1fb"
+      "order": 240,
+      "id": "1c8b5f928be1d3f9"
+    },
+    {
+      "filename": "谨防电信网络诈骗.json",
+      "title": "谨防电信网络诈骗",
+      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
+      "category": "生活通识/安全防范",
+      "tags": [
+        "诈骗",
+        "电信诈骗",
+        "网络安全",
+        "防骗"
+      ],
+      "wordCount": 1566,
+      "order": 307,
+      "id": "444d4679ff7bbc0e"
     }
   ]
 }

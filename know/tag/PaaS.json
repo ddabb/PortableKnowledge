@@ -8,7 +8,7 @@
       "filename": "云计算.json",
       "title": "云计算",
       "description": "云计算概念、服务模式、部署模式及关键技术",
-      "category": "引论",
+      "category": "软考/综合知识/引论",
       "tags": [
         "IaaS",
         "PaaS",
@@ -18,8 +18,8 @@
         "分布式计算"
       ],
       "wordCount": 994,
-      "order": 321,
-      "id": "dbe71d346c6721cb"
+      "order": 304,
+      "id": "51de51bc04ef8c7d"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "filename": "安全架构.json",
       "title": "安全架构",
       "description": "信息安全架构设计",
-      "category": "系统集成基础",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
         "安全架构",
         "WPDRRC",
@@ -17,8 +17,8 @@
         "安全体系"
       ],
       "wordCount": 1067,
-      "order": 55,
-      "id": "daca2edc545ec66c"
+      "order": 230,
+      "id": "c7cce54551349698"
     }
   ]
 }

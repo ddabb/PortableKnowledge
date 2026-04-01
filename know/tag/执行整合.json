@@ -8,63 +8,63 @@
       "filename": "背景层面的整合.json",
       "title": "背景层面的整合",
       "description": "与几十年前相比，当今企业和项目所处的环境有了很大的变化。新技术不断涌现。",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "执行整合"
       ],
       "wordCount": 205,
-      "order": 172,
-      "id": "4c82972f3aa752ef"
+      "order": 109,
+      "id": "9b488bedc014de49"
     },
     {
       "filename": "认知层面的整合.json",
       "title": "认知层面的整合",
       "description": "管理项目的方法有很多，而方法的选择通常取决于项目的具体特点，包括规模、项目或组织的复杂性，以及执行组织的文化。",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "执行整合",
         "项目管理知识体系"
       ],
       "wordCount": 194,
-      "order": 174,
-      "id": "d59418c4c8f5eeaa"
+      "order": 111,
+      "id": "6b544d1df22cacb1"
     },
     {
       "filename": "在过程层面执行整合.json",
       "title": "在过程层面执行整合",
       "description": "项目管理可被看作为实现项目目标而采取的一系列过程和活动。",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "执行整合"
       ],
       "wordCount": 237,
-      "order": 177,
-      "id": "a007690a9e570a95"
+      "order": 114,
+      "id": "762b3d3ca7cc86a3"
     },
     {
       "filename": "整合与复杂性.json",
       "title": "整合与复杂性",
       "description": "有些项目可能非常复杂，难以管理。简单来说，“复杂”一词通常被用来描述难以理解或错综复杂的事物。",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "执行整合"
       ],
       "wordCount": 448,
-      "order": 178,
-      "id": "b91662585de4a1c3"
+      "order": 115,
+      "id": "606e1b06b1e993c5"
     },
     {
       "filename": "执行整合.json",
       "title": "执行整合",
       "description": "项目经理扮演重要角色，与项目发起人携手合作，既要了解战略目标并确保项目目标和成果与项目组合、项目集以及业务领域保持一致。",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "执行整合",
         "项目管理知识体系"
       ],
       "wordCount": 256,
-      "order": 179,
-      "id": "b4509bb62dc94622"
+      "order": 116,
+      "id": "4c606261a96803c8"
     }
   ]
 }

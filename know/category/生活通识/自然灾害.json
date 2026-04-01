@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "category": "生活通识/自然灾害",
+    "count": 4
+  },
+  "articles": [
+    {
+      "filename": "地震防范与应急.json",
+      "title": "地震防范与应急",
+      "description": "地震发生时的应对措施、逃生技巧和日常准备",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "地震",
+        "自然灾害",
+        "应急",
+        "逃生"
+      ],
+      "wordCount": 877,
+      "order": 324,
+      "id": "be8e5050f8013cf0"
+    },
+    {
+      "filename": "洪水防范与应对.json",
+      "title": "洪水防范与应对",
+      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "洪水",
+        "自然灾害",
+        "防汛",
+        "应急"
+      ],
+      "wordCount": 842,
+      "order": 325,
+      "id": "ba444651c5345d81"
+    },
+    {
+      "filename": "火灾防范与逃生.json",
+      "title": "火灾防范与逃生",
+      "description": "家庭火灾预防、火灾应对和逃生技巧",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "火灾",
+        "消防",
+        "逃生",
+        "安全"
+      ],
+      "wordCount": 1265,
+      "order": 326,
+      "id": "33c5e8b303ea8044"
+    },
+    {
+      "filename": "台风防范指南.json",
+      "title": "台风防范指南",
+      "description": "台风的形成、预警等级及防范措施",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "台风",
+        "自然灾害",
+        "风暴",
+        "防汛"
+      ],
+      "wordCount": 943,
+      "order": 327,
+      "id": "2411eb1484625054"
+    }
+  ]
+}

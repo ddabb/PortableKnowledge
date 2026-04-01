@@ -8,34 +8,34 @@
       "filename": "数据驱动产品决策.json",
       "title": "数据说话：用数据驱动产品决策",
       "description": "如何通过数据分析发现产品问题并优化",
-      "category": "产品思考",
+      "category": "产品研发/产品思考",
       "tags": [
         "数据分析",
         "数据驱动",
         "产品优化"
       ],
       "wordCount": 2216,
-      "order": 12,
-      "id": "cef6230aff8bc2d4"
+      "order": 9,
+      "id": "b67bc9ff73f50389"
     },
     {
       "filename": "成本效益分析.json",
       "title": "成本效益分析",
       "description": "成本效益分析是用来估算备选方案优势和劣势的财务分析工具，以确定可以创造最佳效益的备选方案。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "数据分析",
         "成本管理"
       ],
       "wordCount": 154,
-      "order": 24,
-      "id": "d884b67b1682d97e"
+      "order": 207,
+      "id": "8e8ec6fab964e8fd"
     },
     {
       "filename": "数据挖掘.json",
       "title": "数据挖掘",
       "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
-      "category": "信息系统开发",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
         "数据挖掘",
         "数据分析",
@@ -43,8 +43,8 @@
         "数据可视化"
       ],
       "wordCount": 1783,
-      "order": 278,
-      "id": "e7a340324d8652a6"
+      "order": 261,
+      "id": "4d49fa1d72cc021d"
     }
   ]
 }

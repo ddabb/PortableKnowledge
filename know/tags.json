@@ -9,7 +9,7 @@
     },
     {
       "name": "PMP",
-      "count": 60
+      "count": 59
     },
     {
       "name": "项目管理",
@@ -28,10 +28,6 @@
       "count": 12
     },
     {
-      "name": "软考备考",
-      "count": 11
-    },
-    {
       "name": "风险管理",
       "count": 11
     },
@@ -40,15 +36,11 @@
       "count": 11
     },
     {
+      "name": "软考备考",
+      "count": 11
+    },
+    {
       "name": "心理学",
-      "count": 9
-    },
-    {
-      "name": "中项核心",
-      "count": 9
-    },
-    {
-      "name": "成本管理",
       "count": 9
     },
     {
@@ -60,6 +52,10 @@
       "count": 9
     },
     {
+      "name": "成本管理",
+      "count": 9
+    },
+    {
       "name": "项目管理知识体系",
       "count": 9
     },
@@ -68,12 +64,8 @@
       "count": 9
     },
     {
-      "name": "数据收集",
-      "count": 7
-    },
-    {
-      "name": "决策",
-      "count": 7
+      "name": "中项核心",
+      "count": 9
     },
     {
       "name": "制定预算",
@@ -88,8 +80,12 @@
       "count": 7
     },
     {
-      "name": "人际关系与团队技能",
-      "count": 6
+      "name": "数据收集",
+      "count": 7
+    },
+    {
+      "name": "决策",
+      "count": 7
     },
     {
       "name": "估算活动持续时间",
@@ -112,12 +108,12 @@
       "count": 6
     },
     {
-      "name": "指南的组成部分",
+      "name": "人际关系与团队技能",
       "count": 6
     },
     {
-      "name": "系统集成",
-      "count": 5
+      "name": "指南的组成部分",
+      "count": 6
     },
     {
       "name": "沟通管理",
@@ -148,12 +144,12 @@
       "count": 5
     },
     {
-      "name": "项目管理商业文件",
+      "name": "系统集成",
       "count": 5
     },
     {
-      "name": "法律法规",
-      "count": 4
+      "name": "项目管理商业文件",
+      "count": 5
     },
     {
       "name": "实施采购",
@@ -192,7 +188,7 @@
       "count": 4
     },
     {
-      "name": "认知偏差",
+      "name": "法律法规",
       "count": 4
     },
     {
@@ -204,23 +200,11 @@
       "count": 4
     },
     {
-      "name": "安全",
-      "count": 3
+      "name": "认知偏差",
+      "count": 4
     },
     {
       "name": "数据分析",
-      "count": 3
-    },
-    {
-      "name": "维权",
-      "count": 3
-    },
-    {
-      "name": "计算题",
-      "count": 3
-    },
-    {
-      "name": "SOA",
       "count": 3
     },
     {
@@ -252,6 +236,14 @@
       "count": 3
     },
     {
+      "name": "计算题",
+      "count": 3
+    },
+    {
+      "name": "SOA",
+      "count": 3
+    },
+    {
       "name": "软件开发",
       "count": 3
     },
@@ -260,67 +252,23 @@
       "count": 3
     },
     {
-      "name": "自然灾害",
+      "name": "安全",
       "count": 3
     },
     {
-      "name": "诈骗",
-      "count": 2
+      "name": "维权",
+      "count": 3
     },
     {
-      "name": "网络安全",
-      "count": 2
+      "name": "自然灾害",
+      "count": 3
     },
     {
       "name": "产品思考",
       "count": 2
     },
     {
-      "name": "劳动法",
-      "count": 2
-    },
-    {
-      "name": "信息系统监理",
-      "count": 2
-    },
-    {
-      "name": "数据安全",
-      "count": 2
-    },
-    {
-      "name": "数据表现",
-      "count": 2
-    },
-    {
       "name": "开源",
-      "count": 2
-    },
-    {
-      "name": "信息安全",
-      "count": 2
-    },
-    {
-      "name": "数据集成",
-      "count": 2
-    },
-    {
-      "name": "数据仓库",
-      "count": 2
-    },
-    {
-      "name": "信息系统",
-      "count": 2
-    },
-    {
-      "name": "虚拟化",
-      "count": 2
-    },
-    {
-      "name": "IaaS",
-      "count": 2
-    },
-    {
-      "name": "ITSS",
       "count": 2
     },
     {
@@ -368,6 +316,10 @@
       "count": 2
     },
     {
+      "name": "信息系统监理",
+      "count": 2
+    },
+    {
       "name": "相关方",
       "count": 2
     },
@@ -408,6 +360,46 @@
       "count": 2
     },
     {
+      "name": "数据安全",
+      "count": 2
+    },
+    {
+      "name": "数据表现",
+      "count": 2
+    },
+    {
+      "name": "信息安全",
+      "count": 2
+    },
+    {
+      "name": "数据集成",
+      "count": 2
+    },
+    {
+      "name": "数据仓库",
+      "count": 2
+    },
+    {
+      "name": "网络安全",
+      "count": 2
+    },
+    {
+      "name": "信息系统",
+      "count": 2
+    },
+    {
+      "name": "虚拟化",
+      "count": 2
+    },
+    {
+      "name": "IaaS",
+      "count": 2
+    },
+    {
+      "name": "ITSS",
+      "count": 2
+    },
+    {
       "name": "软件测试",
       "count": 2
     },
@@ -428,6 +420,14 @@
       "count": 2
     },
     {
+      "name": "诈骗",
+      "count": 2
+    },
+    {
+      "name": "劳动法",
+      "count": 2
+    },
+    {
       "name": "应急",
       "count": 2
     },
@@ -438,34 +438,6 @@
     {
       "name": "防汛",
       "count": 2
-    },
-    {
-      "name": "电信诈骗",
-      "count": 1
-    },
-    {
-      "name": "防骗",
-      "count": 1
-    },
-    {
-      "name": "防范",
-      "count": 1
-    },
-    {
-      "name": "日常生活",
-      "count": 1
-    },
-    {
-      "name": "黄赌毒",
-      "count": 1
-    },
-    {
-      "name": "法治",
-      "count": 1
-    },
-    {
-      "name": "健康",
-      "count": 1
     },
     {
       "name": "产品定位",
@@ -556,31 +528,183 @@
       "count": 1
     },
     {
-      "name": "裁员",
+      "name": "踩坑",
       "count": 1
     },
     {
-      "name": "职场",
+      "name": "问题解决",
       "count": 1
     },
     {
-      "name": "劳动仲裁",
+      "name": "开发经验",
       "count": 1
     },
     {
-      "name": "仲裁",
+      "name": "零成本",
       "count": 1
     },
     {
-      "name": "租房",
+      "name": "开发者工具",
       "count": 1
     },
     {
-      "name": "房屋租赁",
+      "name": "MIT协议",
       "count": 1
     },
     {
-      "name": "合同",
+      "name": "许可证",
+      "count": 1
+    },
+    {
+      "name": "AI辅助",
+      "count": 1
+    },
+    {
+      "name": "QClaw",
+      "count": 1
+    },
+    {
+      "name": "开发效率",
+      "count": 1
+    },
+    {
+      "name": "最佳实践",
+      "count": 1
+    },
+    {
+      "name": "开发者",
+      "count": 1
+    },
+    {
+      "name": "编程",
+      "count": 1
+    },
+    {
+      "name": "程序人生",
+      "count": 1
+    },
+    {
+      "name": "估算成本",
+      "count": 1
+    },
+    {
+      "name": "产品经理",
+      "count": 1
+    },
+    {
+      "name": "用户故事",
+      "count": 1
+    },
+    {
+      "name": "控制范围",
+      "count": 1
+    },
+    {
+      "name": "实时定量风险分析",
+      "count": 1
+    },
+    {
+      "name": "规划风险管理",
+      "count": 1
+    },
+    {
+      "name": "监督风险",
+      "count": 1
+    },
+    {
+      "name": "定量风险分析",
+      "count": 1
+    },
+    {
+      "name": "实施风险应对",
+      "count": 1
+    },
+    {
+      "name": "管理沟通",
+      "count": 1
+    },
+    {
+      "name": "监督沟通",
+      "count": 1
+    },
+    {
+      "name": "关键路径法",
+      "count": 1
+    },
+    {
+      "name": "里程碑",
+      "count": 1
+    },
+    {
+      "name": "Sprint",
+      "count": 1
+    },
+    {
+      "name": "项目经理的能力",
+      "count": 1
+    },
+    {
+      "name": "质量管理",
+      "count": 1
+    },
+    {
+      "name": "管理干系人参与",
+      "count": 1
+    },
+    {
+      "name": "监督干系人参与",
+      "count": 1
+    },
+    {
+      "name": "监督相关方参与",
+      "count": 1
+    },
+    {
+      "name": "事业环境因素",
+      "count": 1
+    },
+    {
+      "name": "变更管理",
+      "count": 1
+    },
+    {
+      "name": "变更控制",
+      "count": 1
+    },
+    {
+      "name": "CCB",
+      "count": 1
+    },
+    {
+      "name": "基准管理",
+      "count": 1
+    },
+    {
+      "name": "版本发布",
+      "count": 1
+    },
+    {
+      "name": "信息管理",
+      "count": 1
+    },
+    {
+      "name": "文档管理",
+      "count": 1
+    },
+    {
+      "name": "文档编制规范",
+      "count": 1
+    },
+    {
+      "name": "文档定级保护",
+      "count": 1
+    },
+    {
+      "name": "管理团队",
+      "count": 1
+    },
+    {
+      "name": "控制资源",
       "count": 1
     },
     {
@@ -668,22 +792,6 @@
       "count": 1
     },
     {
-      "name": "心肺复苏",
-      "count": 1
-    },
-    {
-      "name": "CPR",
-      "count": 1
-    },
-    {
-      "name": "急救",
-      "count": 1
-    },
-    {
-      "name": "急救技能",
-      "count": 1
-    },
-    {
       "name": "网络图",
       "count": 1
     },
@@ -712,62 +820,6 @@
       "count": 1
     },
     {
-      "name": "踩坑",
-      "count": 1
-    },
-    {
-      "name": "问题解决",
-      "count": 1
-    },
-    {
-      "name": "开发经验",
-      "count": 1
-    },
-    {
-      "name": "零成本",
-      "count": 1
-    },
-    {
-      "name": "开发者工具",
-      "count": 1
-    },
-    {
-      "name": "MIT协议",
-      "count": 1
-    },
-    {
-      "name": "许可证",
-      "count": 1
-    },
-    {
-      "name": "AI辅助",
-      "count": 1
-    },
-    {
-      "name": "QClaw",
-      "count": 1
-    },
-    {
-      "name": "开发效率",
-      "count": 1
-    },
-    {
-      "name": "最佳实践",
-      "count": 1
-    },
-    {
-      "name": "开发者",
-      "count": 1
-    },
-    {
-      "name": "编程",
-      "count": 1
-    },
-    {
-      "name": "程序人生",
-      "count": 1
-    },
-    {
       "name": "案例分析",
       "count": 1
     },
@@ -781,38 +833,6 @@
     },
     {
       "name": "应试技巧",
-      "count": 1
-    },
-    {
-      "name": "公积金",
-      "count": 1
-    },
-    {
-      "name": "住房公积金",
-      "count": 1
-    },
-    {
-      "name": "提取",
-      "count": 1
-    },
-    {
-      "name": "购房",
-      "count": 1
-    },
-    {
-      "name": "医保",
-      "count": 1
-    },
-    {
-      "name": "医疗保险",
-      "count": 1
-    },
-    {
-      "name": "报销",
-      "count": 1
-    },
-    {
-      "name": "社保",
       "count": 1
     },
     {
@@ -1149,194 +1169,6 @@
     },
     {
       "name": "退役终止",
-      "count": 1
-    },
-    {
-      "name": "估算成本",
-      "count": 1
-    },
-    {
-      "name": "产品经理",
-      "count": 1
-    },
-    {
-      "name": "用户故事",
-      "count": 1
-    },
-    {
-      "name": "控制范围",
-      "count": 1
-    },
-    {
-      "name": "实时定量风险分析",
-      "count": 1
-    },
-    {
-      "name": "规划风险管理",
-      "count": 1
-    },
-    {
-      "name": "监督风险",
-      "count": 1
-    },
-    {
-      "name": "定量风险分析",
-      "count": 1
-    },
-    {
-      "name": "实施风险应对",
-      "count": 1
-    },
-    {
-      "name": "管理沟通",
-      "count": 1
-    },
-    {
-      "name": "监督沟通",
-      "count": 1
-    },
-    {
-      "name": "关键路径法",
-      "count": 1
-    },
-    {
-      "name": "里程碑",
-      "count": 1
-    },
-    {
-      "name": "Sprint",
-      "count": 1
-    },
-    {
-      "name": "项目经理的能力",
-      "count": 1
-    },
-    {
-      "name": "质量管理",
-      "count": 1
-    },
-    {
-      "name": "管理干系人参与",
-      "count": 1
-    },
-    {
-      "name": "监督干系人参与",
-      "count": 1
-    },
-    {
-      "name": "监督相关方参与",
-      "count": 1
-    },
-    {
-      "name": "事业环境因素",
-      "count": 1
-    },
-    {
-      "name": "变更管理",
-      "count": 1
-    },
-    {
-      "name": "变更控制",
-      "count": 1
-    },
-    {
-      "name": "CCB",
-      "count": 1
-    },
-    {
-      "name": "基准管理",
-      "count": 1
-    },
-    {
-      "name": "版本发布",
-      "count": 1
-    },
-    {
-      "name": "信息管理",
-      "count": 1
-    },
-    {
-      "name": "文档管理",
-      "count": 1
-    },
-    {
-      "name": "文档编制规范",
-      "count": 1
-    },
-    {
-      "name": "文档定级保护",
-      "count": 1
-    },
-    {
-      "name": "管理团队",
-      "count": 1
-    },
-    {
-      "name": "控制资源",
-      "count": 1
-    },
-    {
-      "name": "沉没成本",
-      "count": 1
-    },
-    {
-      "name": "邓宁-克鲁格效应",
-      "count": 1
-    },
-    {
-      "name": "元认知",
-      "count": 1
-    },
-    {
-      "name": "可得性启发",
-      "count": 1
-    },
-    {
-      "name": "判断与决策",
-      "count": 1
-    },
-    {
-      "name": "锚定效应",
-      "count": 1
-    },
-    {
-      "name": "破窗效应",
-      "count": 1
-    },
-    {
-      "name": "社会心理",
-      "count": 1
-    },
-    {
-      "name": "环境影响",
-      "count": 1
-    },
-    {
-      "name": "认知失调",
-      "count": 1
-    },
-    {
-      "name": "自我认知",
-      "count": 1
-    },
-    {
-      "name": "损失厌恶",
-      "count": 1
-    },
-    {
-      "name": "行为经济学",
-      "count": 1
-    },
-    {
-      "name": "习得性无助",
-      "count": 1
-    },
-    {
-      "name": "抑郁",
-      "count": 1
-    },
-    {
-      "name": "动机",
       "count": 1
     },
     {
@@ -1709,6 +1541,174 @@
     },
     {
       "name": "版本演变",
+      "count": 1
+    },
+    {
+      "name": "电信诈骗",
+      "count": 1
+    },
+    {
+      "name": "防骗",
+      "count": 1
+    },
+    {
+      "name": "防范",
+      "count": 1
+    },
+    {
+      "name": "日常生活",
+      "count": 1
+    },
+    {
+      "name": "黄赌毒",
+      "count": 1
+    },
+    {
+      "name": "法治",
+      "count": 1
+    },
+    {
+      "name": "健康",
+      "count": 1
+    },
+    {
+      "name": "裁员",
+      "count": 1
+    },
+    {
+      "name": "职场",
+      "count": 1
+    },
+    {
+      "name": "劳动仲裁",
+      "count": 1
+    },
+    {
+      "name": "仲裁",
+      "count": 1
+    },
+    {
+      "name": "租房",
+      "count": 1
+    },
+    {
+      "name": "房屋租赁",
+      "count": 1
+    },
+    {
+      "name": "合同",
+      "count": 1
+    },
+    {
+      "name": "心肺复苏",
+      "count": 1
+    },
+    {
+      "name": "CPR",
+      "count": 1
+    },
+    {
+      "name": "急救",
+      "count": 1
+    },
+    {
+      "name": "急救技能",
+      "count": 1
+    },
+    {
+      "name": "公积金",
+      "count": 1
+    },
+    {
+      "name": "住房公积金",
+      "count": 1
+    },
+    {
+      "name": "提取",
+      "count": 1
+    },
+    {
+      "name": "购房",
+      "count": 1
+    },
+    {
+      "name": "医保",
+      "count": 1
+    },
+    {
+      "name": "医疗保险",
+      "count": 1
+    },
+    {
+      "name": "报销",
+      "count": 1
+    },
+    {
+      "name": "社保",
+      "count": 1
+    },
+    {
+      "name": "沉没成本",
+      "count": 1
+    },
+    {
+      "name": "邓宁-克鲁格效应",
+      "count": 1
+    },
+    {
+      "name": "元认知",
+      "count": 1
+    },
+    {
+      "name": "可得性启发",
+      "count": 1
+    },
+    {
+      "name": "判断与决策",
+      "count": 1
+    },
+    {
+      "name": "锚定效应",
+      "count": 1
+    },
+    {
+      "name": "破窗效应",
+      "count": 1
+    },
+    {
+      "name": "社会心理",
+      "count": 1
+    },
+    {
+      "name": "环境影响",
+      "count": 1
+    },
+    {
+      "name": "认知失调",
+      "count": 1
+    },
+    {
+      "name": "自我认知",
+      "count": 1
+    },
+    {
+      "name": "损失厌恶",
+      "count": 1
+    },
+    {
+      "name": "行为经济学",
+      "count": 1
+    },
+    {
+      "name": "习得性无助",
+      "count": 1
+    },
+    {
+      "name": "抑郁",
+      "count": 1
+    },
+    {
+      "name": "动机",
       "count": 1
     },
     {

@@ -8,7 +8,7 @@
       "filename": "软件测试.json",
       "title": "软件测试",
       "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
-      "category": "信息系统开发",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
         "软件测试",
         "黑盒测试",
@@ -16,14 +16,14 @@
         "软件开发"
       ],
       "wordCount": 1107,
-      "order": 270,
-      "id": "c80d92c3778cccae"
+      "order": 253,
+      "id": "192a488ce8718492"
     },
     {
       "filename": "软件质量保证.json",
       "title": "软件质量保证",
       "description": "软件质量管理、SQA活动、质量模型、测试方法",
-      "category": "信息系统开发",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
         "软件质量",
         "SQA",
@@ -31,8 +31,8 @@
         "软件测试"
       ],
       "wordCount": 1456,
-      "order": 275,
-      "id": "6445dce9c3e6e995"
+      "order": 258,
+      "id": "2a9e91bd4e628181"
     }
   ]
 }

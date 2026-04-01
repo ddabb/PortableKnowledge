@@ -8,14 +8,14 @@
       "filename": "使用场景.json",
       "title": "FreeTools 使用场景",
       "description": "随身工具宝小程序的各种使用场景详解",
-      "category": "产品设计",
+      "category": "产品研发/产品设计",
       "tags": [
         "使用场景",
         "用户场景"
       ],
       "wordCount": 2292,
-      "order": 6,
-      "id": "a01f66e6b343531d"
+      "order": 3,
+      "id": "d8afbb8b09234303"
     }
   ]
 }

@@ -4,55 +4,55 @@
   "totalItems": 327,
   "items": [
     {
-      "filename": "云计算.json",
-      "title": "云计算",
-      "description": "云计算概念、服务模式、部署模式及关键技术",
-      "category": "引论",
+      "filename": "认知失调.json",
+      "title": "认知失调",
+      "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
+      "category": "生活通识/心理学",
       "tags": [
-        "IaaS",
-        "PaaS",
-        "SaaS",
-        "虚拟化",
-        "云存储",
-        "分布式计算"
+        "认知失调",
+        "心理学",
+        "自我认知",
+        "决策"
       ],
-      "wordCount": 994,
+      "wordCount": 2271,
       "order": 321,
-      "id": "dbe71d346c6721cb"
+      "id": "417462f81acb5bce"
     },
     {
-      "filename": "指南概述和目的.json",
-      "title": "指南概述和目的",
-      "description": "项目管理并非新概念，它已存在数百年之久。项目成果的例子包括：",
-      "category": "引论",
+      "filename": "损失厌恶.json",
+      "title": "损失厌恶",
+      "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
+      "category": "生活通识/心理学",
       "tags": [
-        "指南概述和目的",
-        "PMP"
+        "损失厌恶",
+        "心理学",
+        "行为经济学",
+        "决策"
       ],
-      "wordCount": 918,
+      "wordCount": 3455,
       "order": 322,
-      "id": "06e3f0b738c9a60d"
+      "id": "fffb49d73ff4a2bc"
     },
     {
-      "filename": "PMBOK的发展.json",
-      "title": "PMBOK的发展",
-      "description": "PMBOK各版本演变历程及关键变化",
-      "category": "引论",
+      "filename": "习得性无助.json",
+      "title": "习得性无助",
+      "description": "为什么有些人放弃努力？习得性无助解释了\"认命\"的心理机制",
+      "category": "生活通识/心理学",
       "tags": [
-        "PMBOK",
-        "PMI",
-        "项目管理",
-        "版本演变"
+        "习得性无助",
+        "心理学",
+        "抑郁",
+        "动机"
       ],
-      "wordCount": 986,
+      "wordCount": 2846,
       "order": 323,
-      "id": "bc18a3031a8b4400"
+      "id": "9ee3456d65c5bb57"
     },
     {
       "filename": "地震防范与应急.json",
       "title": "地震防范与应急",
       "description": "地震发生时的应对措施、逃生技巧和日常准备",
-      "category": "自然灾害",
+      "category": "生活通识/自然灾害",
       "tags": [
         "地震",
         "自然灾害",
@@ -61,13 +61,13 @@
       ],
       "wordCount": 877,
       "order": 324,
-      "id": "2d0059c269fa4ccd"
+      "id": "be8e5050f8013cf0"
     },
     {
       "filename": "洪水防范与应对.json",
       "title": "洪水防范与应对",
       "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
-      "category": "自然灾害",
+      "category": "生活通识/自然灾害",
       "tags": [
         "洪水",
         "自然灾害",
@@ -76,13 +76,13 @@
       ],
       "wordCount": 842,
       "order": 325,
-      "id": "418348c266ab7909"
+      "id": "ba444651c5345d81"
     },
     {
       "filename": "火灾防范与逃生.json",
       "title": "火灾防范与逃生",
       "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "自然灾害",
+      "category": "生活通识/自然灾害",
       "tags": [
         "火灾",
         "消防",
@@ -91,13 +91,13 @@
       ],
       "wordCount": 1265,
       "order": 326,
-      "id": "398da44935de7319"
+      "id": "33c5e8b303ea8044"
     },
     {
       "filename": "台风防范指南.json",
       "title": "台风防范指南",
       "description": "台风的形成、预警等级及防范措施",
-      "category": "自然灾害",
+      "category": "生活通识/自然灾害",
       "tags": [
         "台风",
         "自然灾害",
@@ -106,7 +106,7 @@
       ],
       "wordCount": 943,
       "order": 327,
-      "id": "26cbe2b442b565ec"
+      "id": "2411eb1484625054"
     }
   ]
 }

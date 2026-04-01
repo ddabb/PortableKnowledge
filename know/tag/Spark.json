@@ -8,7 +8,7 @@
       "filename": "大数据.json",
       "title": "大数据",
       "description": "大数据特征、处理流程、关键技术及应用",
-      "category": "引论",
+      "category": "软考/综合知识/引论",
       "tags": [
         "5V特征",
         "数据处理",
@@ -17,8 +17,8 @@
         "数据挖掘"
       ],
       "wordCount": 932,
-      "order": 283,
-      "id": "c283230dee5584b7"
+      "order": 266,
+      "id": "efd97da51b1af147"
     }
   ]
 }

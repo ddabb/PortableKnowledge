@@ -8,50 +8,50 @@
       "filename": "项目.json",
       "title": "项目",
       "description": "项目经理领导项目团队实现项目目标和相关方的期望。",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "项目经理的影响力范围",
         "项目管理"
       ],
       "wordCount": 653,
-      "order": 175,
-      "id": "70021d3917d6857a"
+      "order": 112,
+      "id": "c120e881e023dead"
     },
     {
       "filename": "行业.json",
       "title": "行业",
       "description": "项目经理应时刻关注行业的最新发展趋势，获得并思考这一信息对当前项目是否有影响或可用。",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "项目经理的影响力范围"
       ],
       "wordCount": 156,
-      "order": 176,
-      "id": "2b9212e06c59e05b"
+      "order": 113,
+      "id": "204f534341acdab8"
     },
     {
       "filename": "专业学科.json",
       "title": "专业学科",
       "description": "对项目经理而言，持续的知识传递和整合非常重要。",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "项目经理的影响力范围"
       ],
       "wordCount": 186,
-      "order": 180,
-      "id": "9edd4051039d9cdc"
+      "order": 117,
+      "id": "d3b94a5eb8d6ca4a"
     },
     {
       "filename": "组织.json",
       "title": "组织",
       "description": "项目经理需要积极地与其他项目经理互动。其他独立项目或同一项目集的其他项目可能会对项目造成影响，原因包括（但不限于）：",
-      "category": "项目经理的角色",
+      "category": "软考/项目管理/项目经理的角色",
       "tags": [
         "项目经理的影响力范围"
       ],
       "wordCount": 634,
-      "order": 181,
-      "id": "6fc5de59c81aef45"
+      "order": 118,
+      "id": "dbae33470c84a57b"
     }
   ]
 }

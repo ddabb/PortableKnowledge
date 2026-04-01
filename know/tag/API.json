@@ -8,7 +8,7 @@
       "filename": "软件集成技术.json",
       "title": "软件集成技术",
       "description": "API、中间件、组件技术、SOA架构",
-      "category": "信息系统开发",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
         "软件集成",
         "中间件",
@@ -17,8 +17,8 @@
         "SOA"
       ],
       "wordCount": 1156,
-      "order": 272,
-      "id": "283d91916d3933e9"
+      "order": 255,
+      "id": "f8a4a873312b7ef4"
     }
   ]
 }

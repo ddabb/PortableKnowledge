@@ -8,7 +8,7 @@
       "filename": "应用架构.json",
       "title": "应用架构",
       "description": "应用架构模式、SOA与微服务",
-      "category": "系统集成基础",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
         "应用架构",
         "SOA",
@@ -17,8 +17,8 @@
         "分层分域"
       ],
       "wordCount": 844,
-      "order": 74,
-      "id": "d14347236723810a"
+      "order": 249,
+      "id": "e9f728e7f7a1ea26"
     }
   ]
 }

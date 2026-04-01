@@ -8,7 +8,7 @@
       "filename": "物联网.json",
       "title": "物联网",
       "description": "物联网的概念、架构、关键技术及应用场景",
-      "category": "引论",
+      "category": "软考/综合知识/引论",
       "tags": [
         "IoT",
         "感知层",
@@ -18,8 +18,8 @@
         "传感器"
       ],
       "wordCount": 941,
-      "order": 298,
-      "id": "75bfb20e2ea8ba92"
+      "order": 281,
+      "id": "b746bfdc85417ffd"
     }
   ]
 }

@@ -8,25 +8,25 @@
       "filename": "亲和图.json",
       "title": "亲和图",
       "description": "用来对大量创意进行分组的技术，以便进一步审查和分析。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "数据表现"
       ],
       "wordCount": 26,
-      "order": 34,
-      "id": "d6aff47f6d1b0dd1"
+      "order": 217,
+      "id": "2778377756582ebd"
     },
     {
       "filename": "思维导图.json",
       "title": "思维导图",
       "description": "把从头脑风暴中获得的创意整合成一张图，用以反映创意之间的共性与差异，激发新创意。",
-      "category": "工具与技术",
+      "category": "软考/综合知识/工具与技术",
       "tags": [
         "数据表现"
       ],
       "wordCount": 40,
-      "order": 35,
-      "id": "32579a4fd757c2ab"
+      "order": 218,
+      "id": "5eeefa24c55d2ad5"
     }
   ]
 }

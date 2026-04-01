@@ -8,7 +8,7 @@
       "filename": "创建WBS.json",
       "title": "创建WBS",
       "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
-      "category": "项目范围管理",
+      "category": "软考/项目管理/项目范围管理",
       "tags": [
         "规划过程组",
         "创建WBS",
@@ -16,21 +16,21 @@
         "PMP"
       ],
       "wordCount": 324,
-      "order": 107,
-      "id": "11338a534ff290a5"
+      "order": 44,
+      "id": "c4254a24136b8269"
     },
     {
       "filename": "wbs.json",
       "title": "创建WBS",
       "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
-      "category": "项目范围管理",
+      "category": "软考/项目管理/项目范围管理",
       "tags": [
         "WBS",
         "PMP"
       ],
       "wordCount": 377,
-      "order": 108,
-      "id": "8ffcac67410e7f57"
+      "order": 45,
+      "id": "819f0fba5f2d239e"
     }
   ]
 }

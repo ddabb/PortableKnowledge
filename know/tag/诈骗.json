@@ -8,7 +8,7 @@
       "filename": "谨防电信网络诈骗.json",
       "title": "谨防电信网络诈骗",
       "description": "常见电信网络诈骗类型、识别方法和防范技巧",
-      "category": "安全防范",
+      "category": "生活通识/安全防范",
       "tags": [
         "诈骗",
         "电信诈骗",
@@ -16,14 +16,14 @@
         "防骗"
       ],
       "wordCount": 1566,
-      "order": 1,
-      "id": "c1215c7f738d3a9b"
+      "order": 307,
+      "id": "444d4679ff7bbc0e"
     },
     {
       "filename": "日常生活诈骗防范.json",
       "title": "日常生活诈骗防范",
       "description": "生活中常见诈骗手段识别与防范技巧",
-      "category": "安全防范",
+      "category": "生活通识/安全防范",
       "tags": [
         "诈骗",
         "防范",
@@ -31,8 +31,8 @@
         "日常生活"
       ],
       "wordCount": 1473,
-      "order": 2,
-      "id": "a8fcf0de45f3197c"
+      "order": 308,
+      "id": "ec65bf0a0ca6a151"
     }
   ]
 }

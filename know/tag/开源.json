@@ -8,29 +8,29 @@
       "filename": "零成本开源.json",
       "title": "零成本+开源：个人开发者的组合拳",
       "description": "如何用零成本+开源打造个人产品矩阵",
-      "category": "开发实践",
+      "category": "产品研发/开发实践",
       "tags": [
         "开源",
         "零成本",
         "开发者工具"
       ],
       "wordCount": 2138,
-      "order": 47,
-      "id": "19d9988026b50aad"
+      "order": 11,
+      "id": "85230da0ee184fd6"
     },
     {
       "filename": "MIT开源协议.json",
       "title": "MIT 协议开源",
       "description": "为什么要选择 MIT 协议进行开源",
-      "category": "开发实践",
+      "category": "产品研发/开发实践",
       "tags": [
         "开源",
         "MIT协议",
         "许可证"
       ],
       "wordCount": 2626,
-      "order": 48,
-      "id": "3c41a63957a16518"
+      "order": 12,
+      "id": "dcac6956e293881e"
     }
   ]
 }

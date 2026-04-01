@@ -8,7 +8,7 @@
       "filename": "规划风险管理.json",
       "title": "规划风险管理",
       "description": "规划风险管理是定义如何实施项目风险管理活动的过程。",
-      "category": "项目风险管理",
+      "category": "软考/项目管理/项目风险管理",
       "tags": [
         "规划过程组",
         "规划风险管理",
@@ -16,8 +16,8 @@
         "PMP"
       ],
       "wordCount": 258,
-      "order": 128,
-      "id": "d13f0ec7a8b3ee5b"
+      "order": 65,
+      "id": "d068c1627934ffd0"
     }
   ]
 }

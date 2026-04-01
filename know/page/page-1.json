@@ -4,296 +4,284 @@
   "totalItems": 327,
   "items": [
     {
-      "filename": "谨防电信网络诈骗.json",
-      "title": "谨防电信网络诈骗",
-      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
-      "category": "安全防范",
-      "tags": [
-        "诈骗",
-        "电信诈骗",
-        "网络安全",
-        "防骗"
-      ],
-      "wordCount": 1566,
-      "order": 1,
-      "id": "c1215c7f738d3a9b"
-    },
-    {
-      "filename": "日常生活诈骗防范.json",
-      "title": "日常生活诈骗防范",
-      "description": "生活中常见诈骗手段识别与防范技巧",
-      "category": "安全防范",
-      "tags": [
-        "诈骗",
-        "防范",
-        "安全",
-        "日常生活"
-      ],
-      "wordCount": 1473,
-      "order": 2,
-      "id": "a8fcf0de45f3197c"
-    },
-    {
-      "filename": "远离黄赌毒.json",
-      "title": "远离黄赌毒",
-      "description": "了解黄赌毒的危害，树立健康生活态度",
-      "category": "安全防范",
-      "tags": [
-        "黄赌毒",
-        "法治",
-        "健康",
-        "安全"
-      ],
-      "wordCount": 1897,
-      "order": 3,
-      "id": "1238a8cd336d7fb9"
-    },
-    {
       "filename": "产品定位.json",
       "title": "FreeTools 产品定位",
       "description": "随身工具宝小程序的产品定位与差异化分析",
-      "category": "产品设计",
+      "category": "产品研发/产品设计",
       "tags": [
         "产品定位",
         "差异化",
         "竞品分析"
       ],
       "wordCount": 2194,
-      "order": 4,
-      "id": "02bd298f0457379c"
+      "order": 1,
+      "id": "ec3531e24d289fec"
     },
     {
       "filename": "开发思路.json",
       "title": "FreeTools 开发思路",
       "description": "随身工具宝小程序开发思路与技术选型分享",
-      "category": "产品设计",
+      "category": "产品研发/产品设计",
       "tags": [
         "开发",
         "技术选型",
         "产品"
       ],
       "wordCount": 3387,
-      "order": 5,
-      "id": "bd624d7197db141e"
+      "order": 2,
+      "id": "c31edf6c4c2b89f9"
     },
     {
       "filename": "使用场景.json",
       "title": "FreeTools 使用场景",
       "description": "随身工具宝小程序的各种使用场景详解",
-      "category": "产品设计",
+      "category": "产品研发/产品设计",
       "tags": [
         "使用场景",
         "用户场景"
       ],
       "wordCount": 2292,
-      "order": 6,
-      "id": "a01f66e6b343531d"
+      "order": 3,
+      "id": "d8afbb8b09234303"
     },
     {
       "filename": "转型之路.json",
       "title": "FreeTools 转型之路",
       "description": "从工具集合到知识查询的产品转型思考",
-      "category": "产品设计",
+      "category": "产品研发/产品设计",
       "tags": [
         "产品转型",
         "知识库",
         "产品迭代"
       ],
       "wordCount": 3684,
-      "order": 7,
-      "id": "6465122671357ffd"
+      "order": 4,
+      "id": "017e088e39d8d334"
     },
     {
       "filename": "用户使用指南.json",
       "title": "FreeTools 用户使用指南",
       "description": "随身工具宝小程序完整使用教程，从入门到精通",
-      "category": "产品使用",
+      "category": "产品研发/产品使用",
       "tags": [
         "使用指南",
         "教程",
         "工具宝"
       ],
       "wordCount": 2009,
-      "order": 8,
-      "id": "2e6aff0deffca040"
+      "order": 5,
+      "id": "0bd6f905fbf1dee0"
     },
     {
       "filename": "免费是最贵的.json",
       "title": "免费是最贵的",
       "description": "为什么说「免费」其实是最昂贵的商业模式",
-      "category": "产品思考",
+      "category": "产品研发/产品思考",
       "tags": [
         "商业模式",
         "免费",
         "产品思考"
       ],
       "wordCount": 1853,
-      "order": 9,
-      "id": "d19b4205a2c6afaa"
+      "order": 6,
+      "id": "4355ba7688987e8d"
     },
     {
       "filename": "认知科学解释工具焦虑.json",
       "title": "认知科学解释工具焦虑",
       "description": "用认知科学解释为什么人们总是「收藏=学会」",
-      "category": "产品思考",
+      "category": "产品研发/产品思考",
       "tags": [
         "认知科学",
         "心理学",
         "用户行为"
       ],
       "wordCount": 1933,
-      "order": 10,
-      "id": "2b9dc0ee2cbd1890"
+      "order": 7,
+      "id": "5498da70d3ac1468"
     },
     {
       "filename": "少即是多.json",
       "title": "少即是多：57个工具到5个核心",
       "description": "从「贪多求全」到「少即是多」，一个产品经理的认知升级",
-      "category": "产品思考",
+      "category": "产品研发/产品思考",
       "tags": [
         "产品思考",
         "少即是多",
         "产品哲学"
       ],
       "wordCount": 1878,
-      "order": 11,
-      "id": "efdc56472f22f42f"
+      "order": 8,
+      "id": "ff4d956d8f2f3762"
     },
     {
       "filename": "数据驱动产品决策.json",
       "title": "数据说话：用数据驱动产品决策",
       "description": "如何通过数据分析发现产品问题并优化",
-      "category": "产品思考",
+      "category": "产品研发/产品思考",
       "tags": [
         "数据分析",
         "数据驱动",
         "产品优化"
       ],
       "wordCount": 2216,
+      "order": 9,
+      "id": "b67bc9ff73f50389"
+    },
+    {
+      "filename": "开发踩坑记.json",
+      "title": "开发踩坑记",
+      "description": "小程序开发过程中的常见问题和解决方案",
+      "category": "产品研发/开发实践",
+      "tags": [
+        "踩坑",
+        "问题解决",
+        "开发经验"
+      ],
+      "wordCount": 3289,
+      "order": 10,
+      "id": "84c8799b3d499327"
+    },
+    {
+      "filename": "零成本开源.json",
+      "title": "零成本+开源：个人开发者的组合拳",
+      "description": "如何用零成本+开源打造个人产品矩阵",
+      "category": "产品研发/开发实践",
+      "tags": [
+        "开源",
+        "零成本",
+        "开发者工具"
+      ],
+      "wordCount": 2138,
+      "order": 11,
+      "id": "85230da0ee184fd6"
+    },
+    {
+      "filename": "MIT开源协议.json",
+      "title": "MIT 协议开源",
+      "description": "为什么要选择 MIT 协议进行开源",
+      "category": "产品研发/开发实践",
+      "tags": [
+        "开源",
+        "MIT协议",
+        "许可证"
+      ],
+      "wordCount": 2626,
       "order": 12,
-      "id": "cef6230aff8bc2d4"
+      "id": "dcac6956e293881e"
     },
     {
-      "filename": "被裁员了怎么办.json",
-      "title": "被裁员了怎么办",
-      "description": "公司裁员后的应对步骤、合法权益和注意事项",
-      "category": "法律常识",
+      "filename": "QClaw开发实践.json",
+      "title": "QClaw AI 辅助开发最佳实践",
+      "description": "使用 QClaw AI 助手辅助小程序开发的最佳实践",
+      "category": "产品研发/开发实践",
       "tags": [
-        "裁员",
-        "劳动法",
-        "维权",
-        "职场"
+        "AI辅助",
+        "QClaw",
+        "开发效率",
+        "最佳实践"
       ],
-      "wordCount": 1701,
+      "wordCount": 4262,
       "order": 13,
-      "id": "89a918439345be36"
+      "id": "2a42b732d44f7ca8"
     },
     {
-      "filename": "劳动仲裁全流程.json",
-      "title": "劳动仲裁全流程",
-      "description": "劳动仲裁从准备到开庭的完整流程，包括材料准备、注意事项和常见问题",
-      "category": "法律常识",
+      "filename": "深夜写代码.json",
+      "title": "深夜写代码的人",
+      "description": "程序员深夜coding的乐趣与坚持",
+      "category": "产品研发/开发者故事",
       "tags": [
-        "劳动仲裁",
-        "劳动法",
-        "维权",
-        "仲裁"
+        "开发者",
+        "编程",
+        "程序人生"
       ],
-      "wordCount": 2133,
+      "wordCount": 1849,
       "order": 14,
-      "id": "7581a43f87b74a86"
+      "id": "ac4c29a019944eb9"
     },
     {
-      "filename": "租房避坑指南.json",
-      "title": "租房避坑指南",
-      "description": "租房过程中需要注意的问题、常见陷阱和应对方法",
-      "category": "法律常识",
+      "filename": "采购策略.json",
+      "title": "采购策略",
+      "description": "一旦完成自制或外购分析，并决定从项目外部渠道采购，就应制定一套采购策略。应该在采购策略中规定项目交付方法、具有法律约束力的协议类型，以及如何在采购阶段推动采购进展。",
+      "category": "软考/项目管理/项目采购管理",
       "tags": [
-        "租房",
-        "房屋租赁",
-        "合同",
-        "维权"
+        "规划过程组",
+        "规划采购管理",
+        "采购管理"
       ],
-      "wordCount": 2002,
+      "wordCount": 599,
       "order": 15,
-      "id": "a31a0e6b2cc2b853"
+      "id": "9fcc2dd6613e23fa"
     },
     {
-      "filename": "法律法规体系.json",
-      "title": "法律法规体系",
-      "description": "信息系统集成项目相关的法律法规体系、法的效力层级及常用法律法规要点",
-      "category": "法律法规与标准",
+      "filename": "采购工作说明书.json",
+      "title": "采购工作说明书",
+      "description": "依据项目范围基准，为每次采购编制工作说明书（SOW），仅对将要包含在相关合同中的那一部分项目范围进行定义。",
+      "category": "软考/项目管理/项目采购管理",
       "tags": [
-        "法律体系",
-        "法的效力",
-        "民法典",
-        "招投标法",
-        "知识产权法",
-        "标准规范"
+        "规划过程组",
+        "规划采购管理",
+        "采购管理"
       ],
-      "wordCount": 2401,
+      "wordCount": 440,
       "order": 16,
-      "id": "75ac1b1161623b6a"
+      "id": "8cf027c4e9e7911b"
     },
     {
-      "filename": "合同法要点.json",
-      "title": "合同法要点",
-      "description": "软考中项合同法核心考点，包括合同的订立、履行、变更、违约责任及IT项目合同特殊条款。",
-      "category": "法律法规与标准",
+      "filename": "采购关闭.json",
+      "title": "采购关闭",
+      "description": "买方通常通过其授权的采购管理员，向卖方发出合同已经完成的正式书面通知。",
+      "category": "软考/项目管理/项目采购管理",
       "tags": [
-        "合同法",
-        "法律法规",
-        "中项核心",
-        "合同管理"
+        "监控过程组",
+        "控制采购",
+        "采购管理"
       ],
-      "wordCount": 1020,
+      "wordCount": 153,
       "order": 17,
-      "id": "e7cdafe29825ec98"
+      "id": "978b69b492153449"
     },
     {
-      "filename": "监理基础知识.json",
-      "title": "监理基础知识",
-      "description": "信息系统工程监理的概念、工作内容、角色定位及监理技术参考模型",
-      "category": "法律法规与标准",
+      "filename": "采购管理计划.json",
+      "title": "采购管理计划",
+      "description": "采购管理计划包含要在采购过程中开展的各种活动。",
+      "category": "软考/项目管理/项目采购管理",
       "tags": [
-        "信息系统监理",
-        "三控两管一协调",
-        "监理依据",
-        "监理内容"
+        "规划过程组",
+        "规划采购管理",
+        "采购管理"
       ],
-      "wordCount": 2569,
+      "wordCount": 359,
       "order": 18,
-      "id": "2bed8fc2e8774507"
+      "id": "862c516b5d49d4ef"
     },
     {
-      "filename": "信息系统相关法律法规.json",
-      "title": "信息系统相关法律法规",
-      "description": "软考中项必备法律法规汇总，包括网络安全法、电子签名法、数据安全法及相关标准规范。",
-      "category": "法律法规与标准",
+      "filename": "采购文档更新.json",
+      "title": "采购文档更新",
+      "description": "采购文档更新可包括用于支持合同的全部进度计划、已提出但未批准的合同变更，以及已批准的变更请求。",
+      "category": "软考/项目管理/项目采购管理",
       "tags": [
-        "法律法规",
-        "网络安全法",
-        "数据安全",
-        "中项核心"
+        "监控过程组",
+        "控制采购",
+        "采购管理"
       ],
-      "wordCount": 1264,
+      "wordCount": 127,
       "order": 19,
-      "id": "6f7b317bde783a63"
+      "id": "7423d565b9346a28"
     },
     {
-      "filename": "招标投标法.json",
-      "title": "招标投标法",
-      "description": "软考中项必考法律法规——《招标投标法》核心条款，包括招标范围、招标方式、投标要求及违规处理。",
-      "category": "法律法规与标准",
+      "filename": "独立成本估算.json",
+      "title": "独立成本估算",
+      "description": "对于大型的采购，采购组织可以自行准备独立估算，或聘用外部专业估算师做出成本估算，并将其作为评价卖方报价的对照基准。",
+      "category": "软考/项目管理/项目采购管理",
       "tags": [
-        "招标投标法",
-        "法律法规",
-        "中项核心",
-        "招投标"
+        "规划过程组",
+        "规划采购管理",
+        "成本管理"
       ],
-      "wordCount": 1036,
+      "wordCount": 114,
       "order": 20,
-      "id": "d52169342e57b216"
+      "id": "cfc7640d4e3a2598"
     }
   ]
 }

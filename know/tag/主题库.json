@@ -8,7 +8,7 @@
       "filename": "数据仓库.json",
       "title": "数据仓库",
       "description": "数据仓库概念、特点、架构与数据资产管理",
-      "category": "信息系统开发",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
         "数据仓库",
         "OLAP",
@@ -16,8 +16,8 @@
         "主题库"
       ],
       "wordCount": 1694,
-      "order": 276,
-      "id": "dfe8a50ee0aace8e"
+      "order": 259,
+      "id": "b049e1747ee3425b"
     }
   ]
 }
