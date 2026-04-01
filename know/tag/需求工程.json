@@ -2,18 +2,18 @@
   "meta": {
     "tag": "需求工程",
     "count": 1,
-    "generatedAt": "2026-04-01T06:30:16.734Z"
+    "generatedAt": "2026-04-01T07:07:25.110Z"
   },
   "articles": [
     {
-      "id": "article-1775025016657",
+      "id": "article-1775027244964",
       "filename": "需求工程.json",
       "title": "需求工程",
-      "description": "软考中项需求工程核心内容，包括需求分类、需求获取方法、需求分析与需求管理。",
+      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
       "category": "信息系统开发",
-      "wordCount": 1029,
-      "updateTime": "2026-03-31T11:23:32.381Z",
-      "order": 22
+      "wordCount": 1170,
+      "updateTime": "2026-04-01T06:51:11.271Z",
+      "order": 31
     }
   ]
 }

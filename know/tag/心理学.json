@@ -2,98 +2,98 @@
   "meta": {
     "tag": "心理学",
     "count": 9,
-    "generatedAt": "2026-04-01T06:30:16.703Z"
+    "generatedAt": "2026-04-01T07:07:25.143Z"
   },
   "articles": [
     {
-      "id": "article-1775025016617",
+      "id": "article-1775027244921",
       "filename": "可得性启发.json",
       "title": "可得性启发",
       "description": "为什么飞机失事新闻让你觉得坐飞机很危险？可得性启发解释了用易得性判断概率的心理偏差",
       "category": "心理学",
       "wordCount": 3619,
       "updateTime": "2026-04-01T04:32:23.453Z",
-      "order": 6
+      "order": 52
     },
     {
-      "id": "article-1775025016627",
+      "id": "article-1775027244931",
       "filename": "损失厌恶.json",
       "title": "损失厌恶",
       "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
       "category": "心理学",
       "wordCount": 3455,
       "updateTime": "2026-04-01T04:31:12.418Z",
-      "order": 7
+      "order": 53
     },
     {
-      "id": "article-1775025016653",
+      "id": "article-1775027244961",
       "filename": "邓宁-克鲁格效应.json",
       "title": "邓宁-克鲁格效应",
       "description": "为什么新手往往高估自己，而专家却常常低估自己？邓宁-克鲁格效应揭示了元认知的盲点",
       "category": "心理学",
       "wordCount": 3016,
       "updateTime": "2026-04-01T04:30:04.100Z",
-      "order": 8
+      "order": 54
     },
     {
-      "id": "article-1775025016632",
+      "id": "article-1775027244937",
       "filename": "沉没成本谬误.json",
       "title": "沉没成本谬误",
       "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
       "category": "心理学",
       "wordCount": 2478,
       "updateTime": "2026-03-31T07:50:17.014Z",
-      "order": 29
+      "order": 73
     },
     {
-      "id": "article-1775025016637",
+      "id": "article-1775027244942",
       "filename": "破窗效应.json",
       "title": "破窗效应",
       "description": "为什么小问题会演变成大灾难？破窗效应解释了环境对行为的影响",
       "category": "心理学",
       "wordCount": 2125,
       "updateTime": "2026-03-31T07:49:06.207Z",
-      "order": 30
+      "order": 74
     },
     {
-      "id": "article-1775025016656",
+      "id": "article-1775027244963",
       "filename": "锚定效应.json",
       "title": "锚定效应",
       "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
       "category": "心理学",
       "wordCount": 2537,
       "updateTime": "2026-03-31T07:48:12.927Z",
-      "order": 31
+      "order": 75
     },
     {
-      "id": "article-1775025016608",
+      "id": "article-1775027244909",
       "filename": "习得性无助.json",
       "title": "习得性无助",
       "description": "为什么有些人放弃努力？习得性无助解释了\"认命\"的心理机制",
       "category": "心理学",
       "wordCount": 2846,
       "updateTime": "2026-03-31T07:47:12.009Z",
-      "order": 32
+      "order": 76
     },
     {
-      "id": "article-1775025016647",
+      "id": "article-1775027244953",
       "filename": "认知失调.json",
       "title": "认知失调",
       "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
       "category": "心理学",
       "wordCount": 2271,
       "updateTime": "2026-03-31T07:46:02.562Z",
-      "order": 33
+      "order": 77
     },
     {
-      "id": "article-1775025016647",
+      "id": "article-1775027244953",
       "filename": "认知科学解释工具焦虑.json",
       "title": "认知科学解释工具焦虑",
       "description": "用认知科学解释为什么人们总是「收藏=学会」",
       "category": "产品思考",
       "wordCount": 1933,
       "updateTime": "2026-03-30T01:08:48.244Z",
-      "order": 115
+      "order": 159
     }
   ]
 }

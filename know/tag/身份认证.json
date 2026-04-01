@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "身份认证",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.009Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244956",
+      "filename": "身份认证.json",
+      "title": "身份认证",
+      "description": "认证技术、认证协议、身份管理、单点登录",
+      "category": "系统集成基础",
+      "wordCount": 1395,
+      "updateTime": "2026-04-01T06:57:51.549Z",
+      "order": 4
+    }
+  ]
+}

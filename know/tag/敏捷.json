@@ -2,18 +2,18 @@
   "meta": {
     "tag": "敏捷",
     "count": 1,
-    "generatedAt": "2026-04-01T06:30:16.833Z"
+    "generatedAt": "2026-04-01T07:07:25.287Z"
   },
   "articles": [
     {
-      "id": "article-1775025016630",
+      "id": "article-1775027244933",
       "filename": "敏捷发布规划.json",
       "title": "敏捷发布规划",
       "description": "敏捷发布规划基于项目路线图和产品发展愿景，提供了高度概括的发布进度时间轴（通常是 3 到 6个月）。",
       "category": "项目进度管理",
       "wordCount": 192,
       "updateTime": "2026-03-30T01:08:48.136Z",
-      "order": 183
+      "order": 227
     }
   ]
 }

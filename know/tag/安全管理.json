@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "安全管理",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.016Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244914",
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "系统集成基础",
+      "wordCount": 1272,
+      "updateTime": "2026-04-01T06:56:50.105Z",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "tag": "数据挖掘",
+    "count": 2,
+    "generatedAt": "2026-04-01T07:07:25.043Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244935",
+      "filename": "数据挖掘.json",
+      "title": "数据挖掘",
+      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
+      "category": "信息系统开发",
+      "wordCount": 1783,
+      "updateTime": "2026-04-01T06:54:48.720Z",
+      "order": 15
+    },
+    {
+      "id": "article-1775027244923",
+      "filename": "大数据.json",
+      "title": "大数据",
+      "description": "大数据特征、处理流程、关键技术及应用",
+      "category": "引论",
+      "wordCount": 932,
+      "updateTime": "2026-04-01T06:50:59.864Z",
+      "order": 32
+    }
+  ]
+}

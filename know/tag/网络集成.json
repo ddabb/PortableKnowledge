@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "网络集成",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.025Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244948",
+      "filename": "网络集成.json",
+      "title": "网络集成",
+      "description": "网络系统集成的技术、传输介质、交换技术",
+      "category": "系统集成基础",
+      "wordCount": 1269,
+      "updateTime": "2026-04-01T06:55:22.753Z",
+      "order": 9
+    }
+  ]
+}

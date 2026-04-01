@@ -1,7 +1,7 @@
 {
   "meta": {
-    "totalTags": 241,
-    "generatedAt": "2026-04-01T06:30:17.041Z"
+    "totalTags": 403,
+    "generatedAt": "2026-04-01T07:07:25.504Z"
   },
   "tags": [
     {
@@ -29,12 +29,12 @@
       "count": 12
     },
     {
-      "name": "风险管理",
+      "name": "软考备考",
       "count": 11
     },
     {
-      "name": "中项核心",
-      "count": 10
+      "name": "风险管理",
+      "count": 11
     },
     {
       "name": "启动过程组",
@@ -42,6 +42,10 @@
     },
     {
       "name": "心理学",
+      "count": 9
+    },
+    {
+      "name": "中项核心",
       "count": 9
     },
     {
@@ -85,10 +89,6 @@
       "count": 7
     },
     {
-      "name": "系统集成",
-      "count": 6
-    },
-    {
       "name": "指南的组成部分",
       "count": 6
     },
@@ -114,6 +114,10 @@
     },
     {
       "name": "配置管理",
+      "count": 5
+    },
+    {
+      "name": "系统集成",
       "count": 5
     },
     {
@@ -157,10 +161,6 @@
       "count": 4
     },
     {
-      "name": "软件开发",
-      "count": 4
-    },
-    {
       "name": "识别风险",
       "count": 4
     },
@@ -197,7 +197,23 @@
       "count": 4
     },
     {
+      "name": "SOA",
+      "count": 3
+    },
+    {
+      "name": "数据分析",
+      "count": 3
+    },
+    {
+      "name": "数字中国",
+      "count": 3
+    },
+    {
       "name": "计算题",
+      "count": 3
+    },
+    {
+      "name": "软件开发",
       "count": 3
     },
     {
@@ -243,6 +259,62 @@
     {
       "name": "结束项目或阶段",
       "count": 3
+    },
+    {
+      "name": "网络安全",
+      "count": 2
+    },
+    {
+      "name": "数据安全",
+      "count": 2
+    },
+    {
+      "name": "信息安全",
+      "count": 2
+    },
+    {
+      "name": "数据集成",
+      "count": 2
+    },
+    {
+      "name": "数据仓库",
+      "count": 2
+    },
+    {
+      "name": "数据挖掘",
+      "count": 2
+    },
+    {
+      "name": "ITSS",
+      "count": 2
+    },
+    {
+      "name": "软件测试",
+      "count": 2
+    },
+    {
+      "name": "信息系统监理",
+      "count": 2
+    },
+    {
+      "name": "IaaS",
+      "count": 2
+    },
+    {
+      "name": "虚拟化",
+      "count": 2
+    },
+    {
+      "name": "信息系统",
+      "count": 2
+    },
+    {
+      "name": "数字化转型",
+      "count": 2
+    },
+    {
+      "name": "信息与信息化",
+      "count": 2
     },
     {
       "name": "劳动法",
@@ -329,10 +401,6 @@
       "count": 2
     },
     {
-      "name": "数据分析",
-      "count": 2
-    },
-    {
       "name": "控制成本",
       "count": 2
     },
@@ -351,6 +419,634 @@
     {
       "name": "WBS",
       "count": 2
+    },
+    {
+      "name": "防火墙",
+      "count": 1
+    },
+    {
+      "name": "入侵检测与防御",
+      "count": 1
+    },
+    {
+      "name": "VPN",
+      "count": 1
+    },
+    {
+      "name": "安全防护",
+      "count": 1
+    },
+    {
+      "name": "隐私保护",
+      "count": 1
+    },
+    {
+      "name": "数据安全法",
+      "count": 1
+    },
+    {
+      "name": "个人信息保护",
+      "count": 1
+    },
+    {
+      "name": "访问控制",
+      "count": 1
+    },
+    {
+      "name": "DAC",
+      "count": 1
+    },
+    {
+      "name": "MAC",
+      "count": 1
+    },
+    {
+      "name": "RBAC",
+      "count": 1
+    },
+    {
+      "name": "ABAC",
+      "count": 1
+    },
+    {
+      "name": "身份认证",
+      "count": 1
+    },
+    {
+      "name": "认证技术",
+      "count": 1
+    },
+    {
+      "name": "认证协议",
+      "count": 1
+    },
+    {
+      "name": "单点登录",
+      "count": 1
+    },
+    {
+      "name": "密码技术",
+      "count": 1
+    },
+    {
+      "name": "加密",
+      "count": 1
+    },
+    {
+      "name": "数字签名",
+      "count": 1
+    },
+    {
+      "name": "PKI",
+      "count": 1
+    },
+    {
+      "name": "CA",
+      "count": 1
+    },
+    {
+      "name": "CIA",
+      "count": 1
+    },
+    {
+      "name": "安全管理",
+      "count": 1
+    },
+    {
+      "name": "等级保护",
+      "count": 1
+    },
+    {
+      "name": "应用集成",
+      "count": 1
+    },
+    {
+      "name": "EAI",
+      "count": 1
+    },
+    {
+      "name": "ESB",
+      "count": 1
+    },
+    {
+      "name": "业务应用集成",
+      "count": 1
+    },
+    {
+      "name": "数据集成方法",
+      "count": 1
+    },
+    {
+      "name": "ETL",
+      "count": 1
+    },
+    {
+      "name": "数据集成方案",
+      "count": 1
+    },
+    {
+      "name": "网络集成",
+      "count": 1
+    },
+    {
+      "name": "网络工程",
+      "count": 1
+    },
+    {
+      "name": "交换技术",
+      "count": 1
+    },
+    {
+      "name": "安全子系统",
+      "count": 1
+    },
+    {
+      "name": "安全架构",
+      "count": 1
+    },
+    {
+      "name": "WPDRRC",
+      "count": 1
+    },
+    {
+      "name": "威胁防护",
+      "count": 1
+    },
+    {
+      "name": "安全体系",
+      "count": 1
+    },
+    {
+      "name": "应用架构",
+      "count": 1
+    },
+    {
+      "name": "微服务",
+      "count": 1
+    },
+    {
+      "name": "MVC",
+      "count": 1
+    },
+    {
+      "name": "分层分域",
+      "count": 1
+    },
+    {
+      "name": "数据架构",
+      "count": 1
+    },
+    {
+      "name": "数据分层",
+      "count": 1
+    },
+    {
+      "name": "数据建模",
+      "count": 1
+    },
+    {
+      "name": "大数据",
+      "count": 1
+    },
+    {
+      "name": "网络架构",
+      "count": 1
+    },
+    {
+      "name": "局域网",
+      "count": 1
+    },
+    {
+      "name": "广域网",
+      "count": 1
+    },
+    {
+      "name": "移动通信网",
+      "count": 1
+    },
+    {
+      "name": "SDN",
+      "count": 1
+    },
+    {
+      "name": "系统架构",
+      "count": 1
+    },
+    {
+      "name": "架构设计",
+      "count": 1
+    },
+    {
+      "name": "TOGAF",
+      "count": 1
+    },
+    {
+      "name": "ADM",
+      "count": 1
+    },
+    {
+      "name": "价值驱动",
+      "count": 1
+    },
+    {
+      "name": "数据可视化",
+      "count": 1
+    },
+    {
+      "name": "数据治理",
+      "count": 1
+    },
+    {
+      "name": "数据标准化",
+      "count": 1
+    },
+    {
+      "name": "数据质量",
+      "count": 1
+    },
+    {
+      "name": "元数据",
+      "count": 1
+    },
+    {
+      "name": "OLAP",
+      "count": 1
+    },
+    {
+      "name": "数据资产",
+      "count": 1
+    },
+    {
+      "name": "主题库",
+      "count": 1
+    },
+    {
+      "name": "职业道德",
+      "count": 1
+    },
+    {
+      "name": "项目管理工程师",
+      "count": 1
+    },
+    {
+      "name": "岗位职责",
+      "count": 1
+    },
+    {
+      "name": "团队管理",
+      "count": 1
+    },
+    {
+      "name": "道德修养",
+      "count": 1
+    },
+    {
+      "name": "数据工程",
+      "count": 1
+    },
+    {
+      "name": "数据采集",
+      "count": 1
+    },
+    {
+      "name": "数据预处理",
+      "count": 1
+    },
+    {
+      "name": "数据存储",
+      "count": 1
+    },
+    {
+      "name": "服务标准化",
+      "count": 1
+    },
+    {
+      "name": "服务产品化",
+      "count": 1
+    },
+    {
+      "name": "服务产业化",
+      "count": 1
+    },
+    {
+      "name": "服务标准",
+      "count": 1
+    },
+    {
+      "name": "法律体系",
+      "count": 1
+    },
+    {
+      "name": "法的效力",
+      "count": 1
+    },
+    {
+      "name": "民法典",
+      "count": 1
+    },
+    {
+      "name": "招投标法",
+      "count": 1
+    },
+    {
+      "name": "知识产权法",
+      "count": 1
+    },
+    {
+      "name": "标准规范",
+      "count": 1
+    },
+    {
+      "name": "SDOR",
+      "count": 1
+    },
+    {
+      "name": "战略规划",
+      "count": 1
+    },
+    {
+      "name": "设计实现",
+      "count": 1
+    },
+    {
+      "name": "运营提升",
+      "count": 1
+    },
+    {
+      "name": "退役终止",
+      "count": 1
+    },
+    {
+      "name": "软件质量",
+      "count": 1
+    },
+    {
+      "name": "SQA",
+      "count": 1
+    },
+    {
+      "name": "CMMI",
+      "count": 1
+    },
+    {
+      "name": "IT服务",
+      "count": 1
+    },
+    {
+      "name": "PPTR",
+      "count": 1
+    },
+    {
+      "name": "服务特征",
+      "count": 1
+    },
+    {
+      "name": "人员",
+      "count": 1
+    },
+    {
+      "name": "过程",
+      "count": 1
+    },
+    {
+      "name": "技术",
+      "count": 1
+    },
+    {
+      "name": "资源",
+      "count": 1
+    },
+    {
+      "name": "三控两管一协调",
+      "count": 1
+    },
+    {
+      "name": "监理依据",
+      "count": 1
+    },
+    {
+      "name": "监理内容",
+      "count": 1
+    },
+    {
+      "name": "软件集成",
+      "count": 1
+    },
+    {
+      "name": "中间件",
+      "count": 1
+    },
+    {
+      "name": "API",
+      "count": 1
+    },
+    {
+      "name": "组件技术",
+      "count": 1
+    },
+    {
+      "name": "VR",
+      "count": 1
+    },
+    {
+      "name": "AR",
+      "count": 1
+    },
+    {
+      "name": "MR",
+      "count": 1
+    },
+    {
+      "name": "虚拟现实",
+      "count": 1
+    },
+    {
+      "name": "人机交互",
+      "count": 1
+    },
+    {
+      "name": "软件设计",
+      "count": 1
+    },
+    {
+      "name": "结构化设计",
+      "count": 1
+    },
+    {
+      "name": "OOD",
+      "count": 1
+    },
+    {
+      "name": "UML",
+      "count": 1
+    },
+    {
+      "name": "设计模式",
+      "count": 1
+    },
+    {
+      "name": "AI",
+      "count": 1
+    },
+    {
+      "name": "机器学习",
+      "count": 1
+    },
+    {
+      "name": "深度学习",
+      "count": 1
+    },
+    {
+      "name": "自然语言处理",
+      "count": 1
+    },
+    {
+      "name": "专家系统",
+      "count": 1
+    },
+    {
+      "name": "区块链",
+      "count": 1
+    },
+    {
+      "name": "共识机制",
+      "count": 1
+    },
+    {
+      "name": "智能合约",
+      "count": 1
+    },
+    {
+      "name": "分布式账本",
+      "count": 1
+    },
+    {
+      "name": "公有链",
+      "count": 1
+    },
+    {
+      "name": "私有链",
+      "count": 1
+    },
+    {
+      "name": "需求工程",
+      "count": 1
+    },
+    {
+      "name": "需求分析",
+      "count": 1
+    },
+    {
+      "name": "SRS",
+      "count": 1
+    },
+    {
+      "name": "需求变更",
+      "count": 1
+    },
+    {
+      "name": "5V特征",
+      "count": 1
+    },
+    {
+      "name": "数据处理",
+      "count": 1
+    },
+    {
+      "name": "Hadoop",
+      "count": 1
+    },
+    {
+      "name": "Spark",
+      "count": 1
+    },
+    {
+      "name": "软件工程",
+      "count": 1
+    },
+    {
+      "name": "过程管理",
+      "count": 1
+    },
+    {
+      "name": "开发活动",
+      "count": 1
+    },
+    {
+      "name": "PaaS",
+      "count": 1
+    },
+    {
+      "name": "SaaS",
+      "count": 1
+    },
+    {
+      "name": "云存储",
+      "count": 1
+    },
+    {
+      "name": "分布式计算",
+      "count": 1
+    },
+    {
+      "name": "IoT",
+      "count": 1
+    },
+    {
+      "name": "感知层",
+      "count": 1
+    },
+    {
+      "name": "网络层",
+      "count": 1
+    },
+    {
+      "name": "应用层",
+      "count": 1
+    },
+    {
+      "name": "RFID",
+      "count": 1
+    },
+    {
+      "name": "传感器",
+      "count": 1
+    },
+    {
+      "name": "元宇宙",
+      "count": 1
+    },
+    {
+      "name": "工业互联网",
+      "count": 1
+    },
+    {
+      "name": "数字政府",
+      "count": 1
+    },
+    {
+      "name": "数字社会",
+      "count": 1
+    },
+    {
+      "name": "智慧城市",
+      "count": 1
+    },
+    {
+      "name": "数字经济",
+      "count": 1
+    },
+    {
+      "name": "新基建",
+      "count": 1
+    },
+    {
+      "name": "两化融合",
+      "count": 1
+    },
+    {
+      "name": "工业现代化",
+      "count": 1
     },
     {
       "name": "可得性启发",
@@ -405,10 +1101,6 @@
       "count": 1
     },
     {
-      "name": "信息系统监理",
-      "count": 1
-    },
-    {
       "name": "质量管理",
       "count": 1
     },
@@ -453,10 +1145,6 @@
       "count": 1
     },
     {
-      "name": "数据安全",
-      "count": 1
-    },
-    {
       "name": "知识产权",
       "count": 1
     },
@@ -493,23 +1181,11 @@
       "count": 1
     },
     {
-      "name": "软件测试",
-      "count": 1
-    },
-    {
       "name": "黑盒测试",
       "count": 1
     },
     {
       "name": "白盒测试",
-      "count": 1
-    },
-    {
-      "name": "需求分析",
-      "count": 1
-    },
-    {
-      "name": "需求工程",
       "count": 1
     },
     {
@@ -529,18 +1205,6 @@
       "count": 1
     },
     {
-      "name": "虚拟化",
-      "count": 1
-    },
-    {
-      "name": "IaaS",
-      "count": 1
-    },
-    {
-      "name": "信息系统",
-      "count": 1
-    },
-    {
       "name": "集成资质",
       "count": 1
     },
@@ -554,18 +1218,6 @@
     },
     {
       "name": "备份",
-      "count": 1
-    },
-    {
-      "name": "信息安全",
-      "count": 1
-    },
-    {
-      "name": "加密",
-      "count": 1
-    },
-    {
-      "name": "防火墙",
       "count": 1
     },
     {
@@ -718,10 +1370,6 @@
     },
     {
       "name": "电信诈骗",
-      "count": 1
-    },
-    {
-      "name": "网络安全",
       "count": 1
     },
     {

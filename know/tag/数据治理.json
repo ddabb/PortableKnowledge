@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "数据治理",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.045Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244935",
+      "filename": "数据治理.json",
+      "title": "数据治理",
+      "description": "数据治理框架、数据标准化、数据质量管理",
+      "category": "信息系统开发",
+      "wordCount": 1613,
+      "updateTime": "2026-04-01T06:54:15.843Z",
+      "order": 16
+    }
+  ]
+}

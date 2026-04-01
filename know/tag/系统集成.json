@@ -1,69 +1,59 @@
 {
   "meta": {
     "tag": "系统集成",
-    "count": 6,
-    "generatedAt": "2026-04-01T06:30:16.712Z"
+    "count": 5,
+    "generatedAt": "2026-04-01T07:07:25.160Z"
   },
   "articles": [
     {
-      "id": "article-1775025016646",
+      "id": "article-1775027244953",
       "filename": "计算机网络基础.json",
       "title": "计算机网络基础",
       "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
       "category": "系统集成基础",
       "wordCount": 1085,
       "updateTime": "2026-03-31T11:29:15.728Z",
-      "order": 10
+      "order": 56
     },
     {
-      "id": "article-1775025016609",
+      "id": "article-1775027244910",
       "filename": "云计算与虚拟化.json",
       "title": "云计算与虚拟化",
       "description": "软考中项云计算核心知识，包括云计算三种服务模式、四种部署方式及虚拟化技术要点。",
       "category": "系统集成基础",
       "wordCount": 989,
       "updateTime": "2026-03-31T11:22:34.451Z",
-      "order": 24
+      "order": 69
     },
     {
-      "id": "article-1775025016639",
+      "id": "article-1775027244945",
       "filename": "系统集成概述.json",
       "title": "系统集成概述",
       "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
       "category": "系统集成基础",
       "wordCount": 954,
       "updateTime": "2026-03-31T11:22:13.355Z",
-      "order": 25
+      "order": 70
     },
     {
-      "id": "article-1775025016620",
+      "id": "article-1775027244923",
       "filename": "存储与备份技术.json",
       "title": "存储与备份技术",
       "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
       "category": "系统集成基础",
       "wordCount": 982,
       "updateTime": "2026-03-31T11:21:50.076Z",
-      "order": 26
+      "order": 71
     },
     {
-      "id": "article-1775025016612",
-      "filename": "信息安全基础.json",
-      "title": "信息安全基础",
-      "description": "软考中项信息安全核心知识，包括安全属性、加密技术、防火墙、入侵检测等常考内容。",
-      "category": "系统集成基础",
-      "wordCount": 1138,
-      "updateTime": "2026-03-31T11:21:26.326Z",
-      "order": 27
-    },
-    {
-      "id": "article-1775025016630",
+      "id": "article-1775027244934",
       "filename": "数据库基础.json",
       "title": "数据库基础",
       "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
       "category": "系统集成基础",
       "wordCount": 985,
       "updateTime": "2026-03-31T11:21:01.616Z",
-      "order": 28
+      "order": 72
     }
   ]
 }

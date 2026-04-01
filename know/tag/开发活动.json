@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "开发活动",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.116Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244957",
+      "filename": "软件工程过程.json",
+      "title": "软件工程过程",
+      "description": "软件工程过程的定义、组成要素和主要活动",
+      "category": "信息系统开发",
+      "wordCount": 705,
+      "updateTime": "2026-04-01T06:50:46.873Z",
+      "order": 33
+    }
+  ]
+}

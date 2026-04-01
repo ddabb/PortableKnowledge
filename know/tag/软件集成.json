@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "软件集成",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.088Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244958",
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "category": "信息系统开发",
+      "wordCount": 1156,
+      "updateTime": "2026-04-01T06:52:08.595Z",
+      "order": 26
+    }
+  ]
+}

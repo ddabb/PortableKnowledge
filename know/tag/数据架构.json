@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "数据架构",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.032Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244935",
+      "filename": "数据架构.json",
+      "title": "数据架构",
+      "description": "数据架构设计、数据建模",
+      "category": "系统集成基础",
+      "wordCount": 919,
+      "updateTime": "2026-04-01T06:54:55.221Z",
+      "order": 12
+    }
+  ]
+}

@@ -2,48 +2,48 @@
   "meta": {
     "tag": "认知偏差",
     "count": 4,
-    "generatedAt": "2026-04-01T06:30:16.704Z"
+    "generatedAt": "2026-04-01T07:07:25.144Z"
   },
   "articles": [
     {
-      "id": "article-1775025016617",
+      "id": "article-1775027244921",
       "filename": "可得性启发.json",
       "title": "可得性启发",
       "description": "为什么飞机失事新闻让你觉得坐飞机很危险？可得性启发解释了用易得性判断概率的心理偏差",
       "category": "心理学",
       "wordCount": 3619,
       "updateTime": "2026-04-01T04:32:23.453Z",
-      "order": 6
+      "order": 52
     },
     {
-      "id": "article-1775025016653",
+      "id": "article-1775027244961",
       "filename": "邓宁-克鲁格效应.json",
       "title": "邓宁-克鲁格效应",
       "description": "为什么新手往往高估自己，而专家却常常低估自己？邓宁-克鲁格效应揭示了元认知的盲点",
       "category": "心理学",
       "wordCount": 3016,
       "updateTime": "2026-04-01T04:30:04.100Z",
-      "order": 8
+      "order": 54
     },
     {
-      "id": "article-1775025016632",
+      "id": "article-1775027244937",
       "filename": "沉没成本谬误.json",
       "title": "沉没成本谬误",
       "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
       "category": "心理学",
       "wordCount": 2478,
       "updateTime": "2026-03-31T07:50:17.014Z",
-      "order": 29
+      "order": 73
     },
     {
-      "id": "article-1775025016656",
+      "id": "article-1775027244963",
       "filename": "锚定效应.json",
       "title": "锚定效应",
       "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
       "category": "心理学",
       "wordCount": 2537,
       "updateTime": "2026-03-31T07:48:12.927Z",
-      "order": 31
+      "order": 75
     }
   ]
 }

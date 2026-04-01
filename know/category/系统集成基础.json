@@ -1,12 +1,295 @@
 {
   "meta": {
     "category": "系统集成基础",
-    "count": 6,
-    "generatedAt": "2026-04-01T06:30:16.670Z"
+    "count": 23,
+    "generatedAt": "2026-04-01T07:07:24.975Z"
   },
   "articles": [
     {
-      "id": "article-1775025016646",
+      "id": "article-1775027244947",
+      "filename": "网络安全.json",
+      "title": "网络安全",
+      "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
+      "tags": [
+        "网络安全",
+        "防火墙",
+        "入侵检测与防御",
+        "VPN",
+        "安全防护"
+      ],
+      "wordCount": 1755,
+      "updateTime": "2026-04-01T07:05:54.764Z",
+      "order": 1
+    },
+    {
+      "id": "article-1775027244934",
+      "filename": "数据安全与隐私保护.json",
+      "title": "数据安全与隐私保护",
+      "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
+      "tags": [
+        "数据安全",
+        "隐私保护",
+        "数据安全法",
+        "个人信息保护"
+      ],
+      "wordCount": 1701,
+      "updateTime": "2026-04-01T06:59:36.726Z",
+      "order": 2
+    },
+    {
+      "id": "article-1775027244954",
+      "filename": "访问控制.json",
+      "title": "访问控制",
+      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
+      "tags": [
+        "访问控制",
+        "DAC",
+        "MAC",
+        "RBAC",
+        "ABAC"
+      ],
+      "wordCount": 1481,
+      "updateTime": "2026-04-01T06:58:23.639Z",
+      "order": 3
+    },
+    {
+      "id": "article-1775027244956",
+      "filename": "身份认证.json",
+      "title": "身份认证",
+      "description": "认证技术、认证协议、身份管理、单点登录",
+      "tags": [
+        "身份认证",
+        "认证技术",
+        "认证协议",
+        "单点登录"
+      ],
+      "wordCount": 1395,
+      "updateTime": "2026-04-01T06:57:51.549Z",
+      "order": 4
+    },
+    {
+      "id": "article-1775027244925",
+      "filename": "密码技术.json",
+      "title": "密码技术",
+      "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
+      "tags": [
+        "密码技术",
+        "加密",
+        "数字签名",
+        "PKI",
+        "CA"
+      ],
+      "wordCount": 1375,
+      "updateTime": "2026-04-01T06:57:20.894Z",
+      "order": 5
+    },
+    {
+      "id": "article-1775027244914",
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "tags": [
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
+      ],
+      "wordCount": 1272,
+      "updateTime": "2026-04-01T06:56:50.105Z",
+      "order": 6
+    },
+    {
+      "id": "article-1775027244927",
+      "filename": "应用集成.json",
+      "title": "应用集成",
+      "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
+      "tags": [
+        "应用集成",
+        "EAI",
+        "ESB",
+        "SOA",
+        "业务应用集成"
+      ],
+      "wordCount": 1505,
+      "updateTime": "2026-04-01T06:56:21.387Z",
+      "order": 7
+    },
+    {
+      "id": "article-1775027244935",
+      "filename": "数据集成.json",
+      "title": "数据集成",
+      "description": "数据集成方案、数据集成方法、数据访问接口",
+      "tags": [
+        "数据集成",
+        "数据集成方法",
+        "ETL",
+        "数据集成方案"
+      ],
+      "wordCount": 1615,
+      "updateTime": "2026-04-01T06:55:51.484Z",
+      "order": 8
+    },
+    {
+      "id": "article-1775027244948",
+      "filename": "网络集成.json",
+      "title": "网络集成",
+      "description": "网络系统集成的技术、传输介质、交换技术",
+      "tags": [
+        "网络集成",
+        "网络工程",
+        "交换技术",
+        "安全子系统"
+      ],
+      "wordCount": 1269,
+      "updateTime": "2026-04-01T06:55:22.753Z",
+      "order": 9
+    },
+    {
+      "id": "article-1775027244924",
+      "filename": "安全架构.json",
+      "title": "安全架构",
+      "description": "信息安全架构设计",
+      "tags": [
+        "安全架构",
+        "WPDRRC",
+        "信息安全",
+        "威胁防护",
+        "安全体系"
+      ],
+      "wordCount": 1067,
+      "updateTime": "2026-04-01T06:54:55.247Z",
+      "order": 10
+    },
+    {
+      "id": "article-1775027244926",
+      "filename": "应用架构.json",
+      "title": "应用架构",
+      "description": "应用架构模式、SOA与微服务",
+      "tags": [
+        "应用架构",
+        "SOA",
+        "微服务",
+        "MVC",
+        "分层分域"
+      ],
+      "wordCount": 844,
+      "updateTime": "2026-04-01T06:54:55.247Z",
+      "order": 11
+    },
+    {
+      "id": "article-1775027244935",
+      "filename": "数据架构.json",
+      "title": "数据架构",
+      "description": "数据架构设计、数据建模",
+      "tags": [
+        "数据架构",
+        "数据分层",
+        "数据建模",
+        "数据仓库",
+        "大数据"
+      ],
+      "wordCount": 919,
+      "updateTime": "2026-04-01T06:54:55.221Z",
+      "order": 12
+    },
+    {
+      "id": "article-1775027244947",
+      "filename": "网络架构.json",
+      "title": "网络架构",
+      "description": "网络架构设计、网络分层",
+      "tags": [
+        "网络架构",
+        "局域网",
+        "广域网",
+        "移动通信网",
+        "SDN"
+      ],
+      "wordCount": 1050,
+      "updateTime": "2026-04-01T06:54:55.220Z",
+      "order": 13
+    },
+    {
+      "id": "article-1775027244945",
+      "filename": "系统架构.json",
+      "title": "系统架构",
+      "description": "架构概论、系统架构设计原则",
+      "tags": [
+        "系统架构",
+        "架构设计",
+        "TOGAF",
+        "ADM",
+        "价值驱动"
+      ],
+      "wordCount": 1213,
+      "updateTime": "2026-04-01T06:54:54.902Z",
+      "order": 14
+    },
+    {
+      "id": "it",
+      "filename": "IT服务标准化.json",
+      "title": "IT服务标准化",
+      "description": "ITSS标准体系、服务标准及产业化",
+      "tags": [
+        "ITSS",
+        "服务标准化",
+        "服务产品化",
+        "服务产业化",
+        "服务标准"
+      ],
+      "wordCount": 1161,
+      "updateTime": "2026-04-01T06:53:01.930Z",
+      "order": 20
+    },
+    {
+      "id": "it",
+      "filename": "IT服务生命周期.json",
+      "title": "IT服务生命周期",
+      "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
+      "tags": [
+        "ITSS",
+        "SDOR",
+        "战略规划",
+        "设计实现",
+        "运营提升",
+        "退役终止"
+      ],
+      "wordCount": 1009,
+      "updateTime": "2026-04-01T06:52:45.614Z",
+      "order": 22
+    },
+    {
+      "id": "article-1775027244915",
+      "filename": "信息技术服务.json",
+      "title": "信息技术服务",
+      "description": "IT服务内涵、特征、原理与组成",
+      "tags": [
+        "IT服务",
+        "PPTR",
+        "服务特征",
+        "人员",
+        "过程",
+        "技术",
+        "资源"
+      ],
+      "wordCount": 991,
+      "updateTime": "2026-04-01T06:52:27.567Z",
+      "order": 24
+    },
+    {
+      "id": "article-1775027244915",
+      "filename": "信息系统及其特性.json",
+      "title": "信息系统及其特性",
+      "description": "信息系统是结合管理理论和方法，应用信息技术解决管理问题，提高生产效率的系统。信息系统具有开放性、脆弱性和健壮性等突出特性。",
+      "tags": [
+        "信息系统",
+        "软考备考"
+      ],
+      "wordCount": 543,
+      "updateTime": "2026-04-01T06:48:22.044Z",
+      "order": 36
+    },
+    {
+      "id": "article-1775027244953",
       "filename": "计算机网络基础.json",
       "title": "计算机网络基础",
       "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
@@ -18,10 +301,10 @@
       ],
       "wordCount": 1085,
       "updateTime": "2026-03-31T11:29:15.728Z",
-      "order": 10
+      "order": 56
     },
     {
-      "id": "article-1775025016609",
+      "id": "article-1775027244910",
       "filename": "云计算与虚拟化.json",
       "title": "云计算与虚拟化",
       "description": "软考中项云计算核心知识，包括云计算三种服务模式、四种部署方式及虚拟化技术要点。",
@@ -33,10 +316,10 @@
       ],
       "wordCount": 989,
       "updateTime": "2026-03-31T11:22:34.451Z",
-      "order": 24
+      "order": 69
     },
     {
-      "id": "article-1775025016639",
+      "id": "article-1775027244945",
       "filename": "系统集成概述.json",
       "title": "系统集成概述",
       "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
@@ -48,10 +331,10 @@
       ],
       "wordCount": 954,
       "updateTime": "2026-03-31T11:22:13.355Z",
-      "order": 25
+      "order": 70
     },
     {
-      "id": "article-1775025016620",
+      "id": "article-1775027244923",
       "filename": "存储与备份技术.json",
       "title": "存储与备份技术",
       "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
@@ -63,25 +346,10 @@
       ],
       "wordCount": 982,
       "updateTime": "2026-03-31T11:21:50.076Z",
-      "order": 26
+      "order": 71
     },
     {
-      "id": "article-1775025016612",
-      "filename": "信息安全基础.json",
-      "title": "信息安全基础",
-      "description": "软考中项信息安全核心知识，包括安全属性、加密技术、防火墙、入侵检测等常考内容。",
-      "tags": [
-        "信息安全",
-        "加密",
-        "防火墙",
-        "系统集成"
-      ],
-      "wordCount": 1138,
-      "updateTime": "2026-03-31T11:21:26.326Z",
-      "order": 27
-    },
-    {
-      "id": "article-1775025016630",
+      "id": "article-1775027244934",
       "filename": "数据库基础.json",
       "title": "数据库基础",
       "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
@@ -93,7 +361,7 @@
       ],
       "wordCount": 985,
       "updateTime": "2026-03-31T11:21:01.616Z",
-      "order": 28
+      "order": 72
     }
   ]
 }

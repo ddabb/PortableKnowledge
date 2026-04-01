@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "ADM",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.041Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244945",
+      "filename": "系统架构.json",
+      "title": "系统架构",
+      "description": "架构概论、系统架构设计原则",
+      "category": "系统集成基础",
+      "wordCount": 1213,
+      "updateTime": "2026-04-01T06:54:54.902Z",
+      "order": 14
+    }
+  ]
+}

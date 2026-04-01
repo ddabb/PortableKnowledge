@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "智能合约",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.107Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244919",
+      "filename": "区块链.json",
+      "title": "区块链",
+      "description": "区块链概念、核心技术、类型及应用",
+      "category": "引论",
+      "wordCount": 1001,
+      "updateTime": "2026-04-01T06:51:16.434Z",
+      "order": 30
+    }
+  ]
+}

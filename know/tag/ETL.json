@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "ETL",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.024Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244935",
+      "filename": "数据集成.json",
+      "title": "数据集成",
+      "description": "数据集成方案、数据集成方法、数据访问接口",
+      "category": "系统集成基础",
+      "wordCount": 1615,
+      "updateTime": "2026-04-01T06:55:51.484Z",
+      "order": 8
+    }
+  ]
+}

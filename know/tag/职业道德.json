@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "职业道德",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.049Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244948",
+      "filename": "职业道德规范.json",
+      "title": "职业道德规范",
+      "description": "项目管理工程师职业道德规范、岗位职责、团队管理责任及个人道德修养提升",
+      "category": "法律法规与标准",
+      "wordCount": 1786,
+      "updateTime": "2026-04-01T06:53:14.690Z",
+      "order": 18
+    }
+  ]
+}

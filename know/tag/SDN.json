@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "SDN",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.039Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244947",
+      "filename": "网络架构.json",
+      "title": "网络架构",
+      "description": "网络架构设计、网络分层",
+      "category": "系统集成基础",
+      "wordCount": 1050,
+      "updateTime": "2026-04-01T06:54:55.220Z",
+      "order": 13
+    }
+  ]
+}

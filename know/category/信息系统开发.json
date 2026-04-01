@@ -1,12 +1,148 @@
 {
   "meta": {
     "category": "信息系统开发",
-    "count": 4,
-    "generatedAt": "2026-04-01T06:30:16.674Z"
+    "count": 12,
+    "generatedAt": "2026-04-01T07:07:24.976Z"
   },
   "articles": [
     {
-      "id": "article-1775025016639",
+      "id": "article-1775027244935",
+      "filename": "数据挖掘.json",
+      "title": "数据挖掘",
+      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
+      "tags": [
+        "数据挖掘",
+        "数据分析",
+        "数据集成",
+        "数据可视化"
+      ],
+      "wordCount": 1783,
+      "updateTime": "2026-04-01T06:54:48.720Z",
+      "order": 15
+    },
+    {
+      "id": "article-1775027244935",
+      "filename": "数据治理.json",
+      "title": "数据治理",
+      "description": "数据治理框架、数据标准化、数据质量管理",
+      "tags": [
+        "数据治理",
+        "数据标准化",
+        "数据质量",
+        "元数据"
+      ],
+      "wordCount": 1613,
+      "updateTime": "2026-04-01T06:54:15.843Z",
+      "order": 16
+    },
+    {
+      "id": "article-1775027244934",
+      "filename": "数据仓库.json",
+      "title": "数据仓库",
+      "description": "数据仓库概念、特点、架构与数据资产管理",
+      "tags": [
+        "数据仓库",
+        "OLAP",
+        "数据资产",
+        "主题库"
+      ],
+      "wordCount": 1694,
+      "updateTime": "2026-04-01T06:53:47.016Z",
+      "order": 17
+    },
+    {
+      "id": "article-1775027244934",
+      "filename": "数据工程概述.json",
+      "title": "数据工程概述",
+      "description": "数据工程概念、数据采集与预处理、数据存储与管理",
+      "tags": [
+        "数据工程",
+        "数据采集",
+        "数据预处理",
+        "数据存储"
+      ],
+      "wordCount": 1434,
+      "updateTime": "2026-04-01T06:53:13.560Z",
+      "order": 19
+    },
+    {
+      "id": "article-1775027244958",
+      "filename": "软件质量保证.json",
+      "title": "软件质量保证",
+      "description": "软件质量管理、SQA活动、质量模型、测试方法",
+      "tags": [
+        "软件质量",
+        "SQA",
+        "CMMI",
+        "软件测试"
+      ],
+      "wordCount": 1456,
+      "updateTime": "2026-04-01T06:52:34.896Z",
+      "order": 23
+    },
+    {
+      "id": "article-1775027244958",
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "tags": [
+        "软件集成",
+        "中间件",
+        "API",
+        "组件技术",
+        "SOA"
+      ],
+      "wordCount": 1156,
+      "updateTime": "2026-04-01T06:52:08.595Z",
+      "order": 26
+    },
+    {
+      "id": "article-1775027244958",
+      "filename": "软件设计.json",
+      "title": "软件设计",
+      "description": "结构化设计、面向对象设计、UML、设计原则",
+      "tags": [
+        "软件设计",
+        "结构化设计",
+        "OOD",
+        "UML",
+        "设计模式"
+      ],
+      "wordCount": 1711,
+      "updateTime": "2026-04-01T06:51:46.193Z",
+      "order": 28
+    },
+    {
+      "id": "article-1775027244964",
+      "filename": "需求工程.json",
+      "title": "需求工程",
+      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
+      "tags": [
+        "需求工程",
+        "需求分析",
+        "SRS",
+        "需求变更"
+      ],
+      "wordCount": 1170,
+      "updateTime": "2026-04-01T06:51:11.271Z",
+      "order": 31
+    },
+    {
+      "id": "article-1775027244957",
+      "filename": "软件工程过程.json",
+      "title": "软件工程过程",
+      "description": "软件工程过程的定义、组成要素和主要活动",
+      "tags": [
+        "软件工程",
+        "过程管理",
+        "开发活动"
+      ],
+      "wordCount": 705,
+      "updateTime": "2026-04-01T06:50:46.873Z",
+      "order": 33
+    },
+    {
+      "id": "article-1775027244945",
       "filename": "系统运行与维护.json",
       "title": "系统运行与维护",
       "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
@@ -18,10 +154,10 @@
       ],
       "wordCount": 1220,
       "updateTime": "2026-03-31T11:24:23.239Z",
-      "order": 20
+      "order": 66
     },
     {
-      "id": "article-1775025016650",
+      "id": "article-1775027244958",
       "filename": "软件测试.json",
       "title": "软件测试",
       "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
@@ -33,25 +169,10 @@
       ],
       "wordCount": 1107,
       "updateTime": "2026-03-31T11:23:55.849Z",
-      "order": 21
+      "order": 67
     },
     {
-      "id": "article-1775025016657",
-      "filename": "需求工程.json",
-      "title": "需求工程",
-      "description": "软考中项需求工程核心内容，包括需求分类、需求获取方法、需求分析与需求管理。",
-      "tags": [
-        "需求分析",
-        "需求工程",
-        "软件开发",
-        "中项核心"
-      ],
-      "wordCount": 1029,
-      "updateTime": "2026-03-31T11:23:32.381Z",
-      "order": 22
-    },
-    {
-      "id": "article-1775025016650",
+      "id": "article-1775027244958",
       "filename": "软件开发模型.json",
       "title": "软件开发模型",
       "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷等模型的特点与适用场景。",
@@ -63,7 +184,7 @@
       ],
       "wordCount": 982,
       "updateTime": "2026-03-31T11:23:08.999Z",
-      "order": 23
+      "order": 68
     }
   ]
 }

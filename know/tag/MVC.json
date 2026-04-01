@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "MVC",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.031Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244926",
+      "filename": "应用架构.json",
+      "title": "应用架构",
+      "description": "应用架构模式、SOA与微服务",
+      "category": "系统集成基础",
+      "wordCount": 844,
+      "updateTime": "2026-04-01T06:54:55.247Z",
+      "order": 11
+    }
+  ]
+}

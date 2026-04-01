@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "监理内容",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.086Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775027244941",
+      "filename": "监理基础知识.json",
+      "title": "监理基础知识",
+      "description": "信息系统工程监理的概念、工作内容、角色定位及监理技术参考模型",
+      "category": "法律法规与标准",
+      "wordCount": 2569,
+      "updateTime": "2026-04-01T06:52:10.422Z",
+      "order": 25
+    }
+  ]
+}

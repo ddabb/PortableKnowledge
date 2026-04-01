@@ -1,19 +1,29 @@
 {
   "meta": {
     "tag": "虚拟化",
-    "count": 1,
-    "generatedAt": "2026-04-01T06:30:16.738Z"
+    "count": 2,
+    "generatedAt": "2026-04-01T07:07:25.119Z"
   },
   "articles": [
     {
-      "id": "article-1775025016609",
+      "id": "article-1775027244910",
+      "filename": "云计算.json",
+      "title": "云计算",
+      "description": "云计算概念、服务模式、部署模式及关键技术",
+      "category": "引论",
+      "wordCount": 994,
+      "updateTime": "2026-04-01T06:50:44.480Z",
+      "order": 34
+    },
+    {
+      "id": "article-1775027244910",
       "filename": "云计算与虚拟化.json",
       "title": "云计算与虚拟化",
       "description": "软考中项云计算核心知识，包括云计算三种服务模式、四种部署方式及虚拟化技术要点。",
       "category": "系统集成基础",
       "wordCount": 989,
       "updateTime": "2026-03-31T11:22:34.451Z",
-      "order": 24
+      "order": 69
     }
   ]
 }

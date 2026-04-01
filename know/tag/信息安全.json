@@ -1,19 +1,29 @@
 {
   "meta": {
     "tag": "信息安全",
-    "count": 1,
-    "generatedAt": "2026-04-01T06:30:16.742Z"
+    "count": 2,
+    "generatedAt": "2026-04-01T07:07:25.015Z"
   },
   "articles": [
     {
-      "id": "article-1775025016612",
+      "id": "article-1775027244914",
       "filename": "信息安全基础.json",
       "title": "信息安全基础",
-      "description": "软考中项信息安全核心知识，包括安全属性、加密技术、防火墙、入侵检测等常考内容。",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
       "category": "系统集成基础",
-      "wordCount": 1138,
-      "updateTime": "2026-03-31T11:21:26.326Z",
-      "order": 27
+      "wordCount": 1272,
+      "updateTime": "2026-04-01T06:56:50.105Z",
+      "order": 6
+    },
+    {
+      "id": "article-1775027244924",
+      "filename": "安全架构.json",
+      "title": "安全架构",
+      "description": "信息安全架构设计",
+      "category": "系统集成基础",
+      "wordCount": 1067,
+      "updateTime": "2026-04-01T06:54:55.247Z",
+      "order": 10
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "运营提升",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:07:25.068Z"
+  },
+  "articles": [
+    {
+      "id": "it",
+      "filename": "IT服务生命周期.json",
+      "title": "IT服务生命周期",
+      "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
+      "category": "系统集成基础",
+      "wordCount": 1009,
+      "updateTime": "2026-04-01T06:52:45.614Z",
+      "order": 22
+    }
+  ]
+}
