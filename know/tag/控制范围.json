@@ -2,18 +2,18 @@
   "meta": {
     "tag": "控制范围",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.289Z"
+    "generatedAt": "2026-04-01T07:34:16.950Z"
   },
   "articles": [
     {
-      "id": "article-1775027244931",
+      "id": "article-1775028856448",
       "filename": "控制范围.json",
       "title": "控制范围",
       "description": "控制范围是监督项目和产品的范围状态，管理范围基准变更的过程。",
       "category": "项目范围管理",
       "wordCount": 285,
       "updateTime": "2026-03-30T01:08:48.130Z",
-      "order": 234
+      "order": 251
     }
   ]
 }

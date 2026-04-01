@@ -2,18 +2,18 @@
   "meta": {
     "tag": "行为经济学",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.151Z"
+    "generatedAt": "2026-04-01T07:34:16.816Z"
   },
   "articles": [
     {
-      "id": "article-1775027244931",
+      "id": "article-1775028856447",
       "filename": "损失厌恶.json",
       "title": "损失厌恶",
       "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
       "category": "心理学",
       "wordCount": 3455,
       "updateTime": "2026-04-01T04:31:12.418Z",
-      "order": 53
+      "order": 72
     }
   ]
 }

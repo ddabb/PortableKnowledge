@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "项目评估",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:34:16.630Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775028856518",
+      "filename": "项目立项管理.json",
+      "title": "项目立项管理",
+      "description": "项目建议与立项申请、可行性研究、项目评估与决策",
+      "category": "引论",
+      "wordCount": 2367,
+      "updateTime": "2026-04-01T07:28:14.305Z",
+      "order": 13
+    }
+  ]
+}

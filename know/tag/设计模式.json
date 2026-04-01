@@ -2,18 +2,18 @@
   "meta": {
     "tag": "设计模式",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.101Z"
+    "generatedAt": "2026-04-01T07:34:16.764Z"
   },
   "articles": [
     {
-      "id": "article-1775027244958",
+      "id": "article-1775028856504",
       "filename": "软件设计.json",
       "title": "软件设计",
       "description": "结构化设计、面向对象设计、UML、设计原则",
       "category": "信息系统开发",
       "wordCount": 1711,
       "updateTime": "2026-04-01T06:51:46.193Z",
-      "order": 28
+      "order": 47
     }
   ]
 }

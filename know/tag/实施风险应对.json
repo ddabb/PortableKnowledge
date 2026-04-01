@@ -2,18 +2,18 @@
   "meta": {
     "tag": "实施风险应对",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.300Z"
+    "generatedAt": "2026-04-01T07:34:16.960Z"
   },
   "articles": [
     {
-      "id": "article-1775027244925",
+      "id": "article-1775028856436",
       "filename": "实施风险应对.json",
       "title": "实施风险应对",
       "description": "实施风险应对是执行商定的风险应对计划的过程。",
       "category": "项目风险管理",
       "wordCount": 304,
       "updateTime": "2026-03-30T01:08:48.042Z",
-      "order": 259
+      "order": 276
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "tag": "PMBOK",
+    "count": 4,
+    "generatedAt": "2026-04-01T07:34:16.579Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775028856410",
+      "filename": "价值交付系统.json",
+      "title": "价值交付系统",
+      "description": "价值创造方式、价值交付组件、信息流",
+      "category": "引论",
+      "wordCount": 2007,
+      "updateTime": "2026-04-01T07:29:52.093Z",
+      "order": 3
+    },
+    {
+      "id": "article-1775028856519",
+      "filename": "项目管理知识领域.json",
+      "title": "项目管理知识领域",
+      "description": "10个知识领域概述、5个过程组与知识领域的矩阵关系",
+      "category": "引论",
+      "wordCount": 1779,
+      "updateTime": "2026-04-01T07:29:19.202Z",
+      "order": 6
+    },
+    {
+      "id": "article-1775028856518",
+      "filename": "项目管理原则.json",
+      "title": "项目管理原则",
+      "description": "PMBOK第7版定义的12个项目管理原则",
+      "category": "引论",
+      "wordCount": 2301,
+      "updateTime": "2026-04-01T07:28:50.346Z",
+      "order": 9
+    },
+    {
+      "id": "pmbok",
+      "filename": "PMBOK的发展.json",
+      "title": "PMBOK的发展",
+      "description": "PMBOK各版本演变历程及关键变化",
+      "category": "引论",
+      "wordCount": 986,
+      "updateTime": "2026-04-01T07:26:07.909Z",
+      "order": 19
+    }
+  ]
+}

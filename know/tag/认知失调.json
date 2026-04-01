@@ -2,18 +2,18 @@
   "meta": {
     "tag": "认知失调",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.206Z"
+    "generatedAt": "2026-04-01T07:34:16.859Z"
   },
   "articles": [
     {
-      "id": "article-1775027244953",
+      "id": "article-1775028856499",
       "filename": "认知失调.json",
       "title": "认知失调",
       "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
       "category": "心理学",
       "wordCount": 2271,
       "updateTime": "2026-03-31T07:46:02.562Z",
-      "order": 77
+      "order": 96
     }
   ]
 }

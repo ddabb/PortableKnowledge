@@ -2,18 +2,18 @@
   "meta": {
     "tag": "法的效力",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.061Z"
+    "generatedAt": "2026-04-01T07:34:16.734Z"
   },
   "articles": [
     {
-      "id": "article-1775027244938",
+      "id": "article-1775028856465",
       "filename": "法律法规体系.json",
       "title": "法律法规体系",
       "description": "信息系统集成项目相关的法律法规体系、法的效力层级及常用法律法规要点",
       "category": "法律法规与标准",
       "wordCount": 2401,
       "updateTime": "2026-04-01T06:52:46.894Z",
-      "order": 21
+      "order": 40
     }
   ]
 }

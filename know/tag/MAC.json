@@ -2,18 +2,18 @@
   "meta": {
     "tag": "MAC",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.008Z"
+    "generatedAt": "2026-04-01T07:34:16.658Z"
   },
   "articles": [
     {
-      "id": "article-1775027244954",
+      "id": "article-1775028856500",
       "filename": "访问控制.json",
       "title": "访问控制",
       "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
       "category": "系统集成基础",
       "wordCount": 1481,
       "updateTime": "2026-04-01T06:58:23.639Z",
-      "order": 3
+      "order": 22
     }
   ]
 }

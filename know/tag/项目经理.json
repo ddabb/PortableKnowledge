@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "项目经理",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:34:16.642Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775028856520",
+      "filename": "项目经理的角色.json",
+      "title": "项目经理的角色",
+      "description": "项目经理定义、所需技能和特性、人际关系技能、成功标准",
+      "category": "引论",
+      "wordCount": 1359,
+      "updateTime": "2026-04-01T07:27:13.384Z",
+      "order": 17
+    }
+  ]
+}

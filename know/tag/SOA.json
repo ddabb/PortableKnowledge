@@ -2,38 +2,38 @@
   "meta": {
     "tag": "SOA",
     "count": 3,
-    "generatedAt": "2026-04-01T07:07:25.019Z"
+    "generatedAt": "2026-04-01T07:34:16.672Z"
   },
   "articles": [
     {
-      "id": "article-1775027244927",
+      "id": "article-1775028856441",
       "filename": "应用集成.json",
       "title": "应用集成",
       "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
       "category": "系统集成基础",
       "wordCount": 1505,
       "updateTime": "2026-04-01T06:56:21.387Z",
-      "order": 7
+      "order": 26
     },
     {
-      "id": "article-1775027244926",
+      "id": "article-1775028856441",
       "filename": "应用架构.json",
       "title": "应用架构",
       "description": "应用架构模式、SOA与微服务",
       "category": "系统集成基础",
       "wordCount": 844,
       "updateTime": "2026-04-01T06:54:55.247Z",
-      "order": 11
+      "order": 30
     },
     {
-      "id": "article-1775027244958",
+      "id": "article-1775028856504",
       "filename": "软件集成技术.json",
       "title": "软件集成技术",
       "description": "API、中间件、组件技术、SOA架构",
       "category": "信息系统开发",
       "wordCount": 1156,
       "updateTime": "2026-04-01T06:52:08.595Z",
-      "order": 26
+      "order": 45
     }
   ]
 }

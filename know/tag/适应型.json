@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "适应型",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:34:16.639Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775028856517",
+      "filename": "项目生命周期和项目阶段.json",
+      "title": "项目生命周期和项目阶段",
+      "description": "通用生命周期结构、特征、生命周期类型比较",
+      "category": "引论",
+      "wordCount": 1441,
+      "updateTime": "2026-04-01T07:27:36.401Z",
+      "order": 15
+    }
+  ]
+}

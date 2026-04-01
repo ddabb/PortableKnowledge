@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "知识领域",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:34:16.584Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775028856519",
+      "filename": "项目管理知识领域.json",
+      "title": "项目管理知识领域",
+      "description": "10个知识领域概述、5个过程组与知识领域的矩阵关系",
+      "category": "引论",
+      "wordCount": 1779,
+      "updateTime": "2026-04-01T07:29:19.202Z",
+      "order": 6
+    }
+  ]
+}

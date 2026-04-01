@@ -2,18 +2,18 @@
   "meta": {
     "tag": "数字政府",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.129Z"
+    "generatedAt": "2026-04-01T07:34:16.806Z"
   },
   "articles": [
     {
-      "id": "article-1775027244933",
+      "id": "article-1775028856451",
       "filename": "数字政府.json",
       "title": "数字政府",
       "description": "数字政府以新一代信息技术为支撑，以\"业务数据化、数据业务化\"为着力点，形成\"用数据决策、数据服务、数据创新\"的现代化治理模式。",
       "category": "引论",
       "wordCount": 544,
       "updateTime": "2026-04-01T06:48:22.044Z",
-      "order": 40
+      "order": 59
     }
   ]
 }

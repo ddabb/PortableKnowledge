@@ -2,18 +2,18 @@
   "meta": {
     "tag": "开发模型",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.191Z"
+    "generatedAt": "2026-04-01T07:34:16.842Z"
   },
   "articles": [
     {
-      "id": "article-1775027244958",
+      "id": "article-1775028856504",
       "filename": "软件开发模型.json",
       "title": "软件开发模型",
       "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷等模型的特点与适用场景。",
       "category": "信息系统开发",
       "wordCount": 982,
       "updateTime": "2026-03-31T11:23:08.999Z",
-      "order": 68
+      "order": 87
     }
   ]
 }

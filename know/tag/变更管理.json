@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "变更管理",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:34:16.581Z"
+  },
+  "articles": [
+    {
+      "id": "article-1775028856423",
+      "filename": "变更管理.json",
+      "title": "变更管理",
+      "description": "项目变更管理的基本概念、变更分类、角色职责、工作程序及变更控制方法",
+      "category": "项目整合管理",
+      "wordCount": 2235,
+      "updateTime": "2026-04-01T07:29:19.204Z",
+      "order": 5
+    }
+  ]
+}

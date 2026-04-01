@@ -2,18 +2,18 @@
   "meta": {
     "tag": "过程",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.079Z"
+    "generatedAt": "2026-04-01T07:34:16.750Z"
   },
   "articles": [
     {
-      "id": "article-1775027244915",
+      "id": "article-1775028856413",
       "filename": "信息技术服务.json",
       "title": "信息技术服务",
       "description": "IT服务内涵、特征、原理与组成",
       "category": "系统集成基础",
       "wordCount": 991,
       "updateTime": "2026-04-01T06:52:27.567Z",
-      "order": 24
+      "order": 43
     }
   ]
 }

@@ -2,18 +2,18 @@
   "meta": {
     "tag": "免费",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.303Z"
+    "generatedAt": "2026-04-01T07:34:16.963Z"
   },
   "articles": [
     {
-      "id": "article-1775027244916",
+      "id": "article-1775028856417",
       "filename": "免费是最贵的.json",
       "title": "免费是最贵的",
       "description": "为什么说「免费」其实是最昂贵的商业模式",
       "category": "产品思考",
       "wordCount": 1853,
       "updateTime": "2026-03-30T01:08:47.999Z",
-      "order": 291
+      "order": 305
     }
   ]
 }

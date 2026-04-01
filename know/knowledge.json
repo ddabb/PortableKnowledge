@@ -1,18 +1,18 @@
 {
   "meta": {
-    "generatedAt": "2026-04-01T07:07:25.505Z",
-    "totalArticles": 313,
-    "totalCategories": 33,
-    "totalTags": 403
+    "generatedAt": "2026-04-01T07:34:17.226Z",
+    "totalArticles": 327,
+    "totalCategories": 34,
+    "totalTags": 433
   },
   "categories": [
     {
       "name": "引论",
-      "count": 32
+      "count": 41
     },
     {
       "name": "项目整合管理",
-      "count": 31
+      "count": 33
     },
     {
       "name": "项目进度管理",
@@ -59,15 +59,15 @@
       "count": 10
     },
     {
+      "name": "项目相关方管理",
+      "count": 9
+    },
+    {
       "name": "心理学",
       "count": 8
     },
     {
       "name": "法律法规与标准",
-      "count": 7
-    },
-    {
-      "name": "项目相关方管理",
       "count": 7
     },
     {
@@ -115,6 +115,10 @@
       "count": 2
     },
     {
+      "name": "引言",
+      "count": 1
+    },
+    {
       "name": "软考备考",
       "count": 1
     },
@@ -141,44 +145,44 @@
   ],
   "recentArticles": [
     {
-      "id": "article-1775027244947",
-      "filename": "网络安全.json",
-      "title": "网络安全",
-      "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
-      "category": "系统集成基础",
-      "updateTime": "2026-04-01T07:05:54.764Z"
+      "id": "article-1775028856435",
+      "filename": "实施定量风险分析.json",
+      "title": "实施定量风险分析",
+      "description": "实施定量风险分析是就已识别的单个项目风险和不确定性的其他来源对整体项目目标的影响进行定量分析的过程。",
+      "category": "项目风险管理",
+      "updateTime": "2026-04-01T07:33:11.966Z"
     },
     {
-      "id": "article-1775027244934",
-      "filename": "数据安全与隐私保护.json",
-      "title": "数据安全与隐私保护",
-      "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
-      "category": "系统集成基础",
-      "updateTime": "2026-04-01T06:59:36.726Z"
+      "id": "article-1775028856419",
+      "filename": "制定进度计划.json",
+      "title": "制定进度计划",
+      "description": "制定进度计划是分析活动顺序、持续时间、资源需求和进度制约因素，创建进度模型，从而落实项目执行和监控的过程。",
+      "category": "项目进度管理",
+      "updateTime": "2026-04-01T07:29:52.140Z"
     },
     {
-      "id": "article-1775027244954",
-      "filename": "访问控制.json",
-      "title": "访问控制",
-      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
-      "category": "系统集成基础",
-      "updateTime": "2026-04-01T06:58:23.639Z"
+      "id": "article-1775028856410",
+      "filename": "价值交付系统.json",
+      "title": "价值交付系统",
+      "description": "价值创造方式、价值交付组件、信息流",
+      "category": "引论",
+      "updateTime": "2026-04-01T07:29:52.093Z"
     },
     {
-      "id": "article-1775027244956",
-      "filename": "身份认证.json",
-      "title": "身份认证",
-      "description": "认证技术、认证协议、身份管理、单点登录",
-      "category": "系统集成基础",
-      "updateTime": "2026-04-01T06:57:51.549Z"
+      "id": "article-1775028856419",
+      "filename": "制定项目管理计划.json",
+      "title": "制定项目管理计划",
+      "description": "制定项目管理计划是定义、准备和协调项目计划的所有组成部分，并把它们整合为一份综合项目管理计划的过程。",
+      "category": "项目整合管理",
+      "updateTime": "2026-04-01T07:29:25.939Z"
     },
     {
-      "id": "article-1775027244925",
-      "filename": "密码技术.json",
-      "title": "密码技术",
-      "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
-      "category": "系统集成基础",
-      "updateTime": "2026-04-01T06:57:20.894Z"
+      "id": "article-1775028856423",
+      "filename": "变更管理.json",
+      "title": "变更管理",
+      "description": "项目变更管理的基本概念、变更分类、角色职责、工作程序及变更控制方法",
+      "category": "项目整合管理",
+      "updateTime": "2026-04-01T07:29:19.204Z"
     }
   ],
   "popularTags": [
@@ -188,9 +192,9 @@
     "执行过程组",
     "监控过程组",
     "基本要素",
-    "软考备考",
     "风险管理",
     "启动过程组",
-    "心理学"
+    "软考备考",
+    "制定进度计划"
   ]
 }

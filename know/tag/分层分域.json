@@ -2,18 +2,18 @@
   "meta": {
     "tag": "分层分域",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.032Z"
+    "generatedAt": "2026-04-01T07:34:16.690Z"
   },
   "articles": [
     {
-      "id": "article-1775027244926",
+      "id": "article-1775028856441",
       "filename": "应用架构.json",
       "title": "应用架构",
       "description": "应用架构模式、SOA与微服务",
       "category": "系统集成基础",
       "wordCount": 844,
       "updateTime": "2026-04-01T06:54:55.247Z",
-      "order": 11
+      "order": 30
     }
   ]
 }

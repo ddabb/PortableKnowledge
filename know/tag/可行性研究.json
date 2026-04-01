@@ -1,19 +1,29 @@
 {
   "meta": {
     "tag": "可行性研究",
-    "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.164Z"
+    "count": 2,
+    "generatedAt": "2026-04-01T07:34:16.630Z"
   },
   "articles": [
     {
-      "id": "article-1775027244966",
+      "id": "article-1775028856518",
+      "filename": "项目立项管理.json",
+      "title": "项目立项管理",
+      "description": "项目建议与立项申请、可行性研究、项目评估与决策",
+      "category": "引论",
+      "wordCount": 2367,
+      "updateTime": "2026-04-01T07:28:14.305Z",
+      "order": 13
+    },
+    {
+      "id": "article-1775028856517",
       "filename": "项目立项与可行性研究.json",
       "title": "项目立项与可行性研究",
       "description": "软考中项项目立项核心内容，包括可行性研究的类型、内容、项目建议书及立项审批流程。",
       "category": "项目立项管理",
       "wordCount": 949,
       "updateTime": "2026-03-31T11:28:22.857Z",
-      "order": 58
+      "order": 77
     }
   ]
 }

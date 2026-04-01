@@ -2,78 +2,78 @@
   "meta": {
     "tag": "决策",
     "count": 7,
-    "generatedAt": "2026-04-01T07:07:25.152Z"
+    "generatedAt": "2026-04-01T07:34:16.818Z"
   },
   "articles": [
     {
-      "id": "article-1775027244931",
+      "id": "article-1775028856447",
       "filename": "损失厌恶.json",
       "title": "损失厌恶",
       "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
       "category": "心理学",
       "wordCount": 3455,
       "updateTime": "2026-04-01T04:31:12.418Z",
-      "order": 53
+      "order": 72
     },
     {
-      "id": "article-1775027244937",
+      "id": "article-1775028856465",
       "filename": "沉没成本谬误.json",
       "title": "沉没成本谬误",
       "description": "为什么越亏越不舍得放弃？沉没成本谬误解释了\"坚持错误\"的心理机制",
       "category": "心理学",
       "wordCount": 2478,
       "updateTime": "2026-03-31T07:50:17.014Z",
-      "order": 73
+      "order": 92
     },
     {
-      "id": "article-1775027244963",
+      "id": "article-1775028856514",
       "filename": "锚定效应.json",
       "title": "锚定效应",
       "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
       "category": "心理学",
       "wordCount": 2537,
       "updateTime": "2026-03-31T07:48:12.927Z",
-      "order": 75
+      "order": 94
     },
     {
-      "id": "article-1775027244953",
+      "id": "article-1775028856499",
       "filename": "认知失调.json",
       "title": "认知失调",
       "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
       "category": "心理学",
       "wordCount": 2271,
       "updateTime": "2026-03-31T07:46:02.562Z",
-      "order": 77
+      "order": 96
     },
     {
-      "id": "article-1775027244940",
+      "id": "article-1775028856470",
       "filename": "独裁型决策制定.json",
       "title": "独裁型决策制定",
       "description": "采用这种方法，将由一个人负责为整个集体制定决策。",
       "category": "工具与技术",
       "wordCount": 24,
       "updateTime": "2026-03-30T01:08:48.184Z",
-      "order": 206
+      "order": 223
     },
     {
-      "id": "article-1775027244930",
+      "id": "article-1775028856446",
       "filename": "投票.json",
       "title": "投票",
       "description": "投票是一种为达成某种期望结果，而对多个未来行动方案进行评估的集体决策技术和过程。",
       "category": "工具与技术",
       "wordCount": 185,
       "updateTime": "2026-03-30T01:08:48.072Z",
-      "order": 242
+      "order": 259
     },
     {
-      "id": "article-1775027244923",
+      "id": "article-1775028856427",
       "filename": "多标准决策分析.json",
       "title": "多标准决策分析",
       "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。",
       "category": "工具与技术",
       "wordCount": 55,
       "updateTime": "2026-03-30T01:08:48.030Z",
-      "order": 270
+      "order": 286
     }
   ]
 }

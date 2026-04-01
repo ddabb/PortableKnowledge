@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": "PMI",
+    "count": 1,
+    "generatedAt": "2026-04-01T07:34:16.648Z"
+  },
+  "articles": [
+    {
+      "id": "pmbok",
+      "filename": "PMBOK的发展.json",
+      "title": "PMBOK的发展",
+      "description": "PMBOK各版本演变历程及关键变化",
+      "category": "引论",
+      "wordCount": 986,
+      "updateTime": "2026-04-01T07:26:07.909Z",
+      "order": 19
+    }
+  ]
+}

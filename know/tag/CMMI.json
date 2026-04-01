@@ -2,18 +2,18 @@
   "meta": {
     "tag": "CMMI",
     "count": 1,
-    "generatedAt": "2026-04-01T07:07:25.073Z"
+    "generatedAt": "2026-04-01T07:34:16.745Z"
   },
   "articles": [
     {
-      "id": "article-1775027244958",
+      "id": "article-1775028856504",
       "filename": "软件质量保证.json",
       "title": "软件质量保证",
       "description": "软件质量管理、SQA活动、质量模型、测试方法",
       "category": "信息系统开发",
       "wordCount": 1456,
       "updateTime": "2026-04-01T06:52:34.896Z",
-      "order": 23
+      "order": 42
     }
   ]
 }

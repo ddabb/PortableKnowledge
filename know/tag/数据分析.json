@@ -2,38 +2,38 @@
   "meta": {
     "tag": "数据分析",
     "count": 3,
-    "generatedAt": "2026-04-01T07:07:25.044Z"
+    "generatedAt": "2026-04-01T07:34:16.713Z"
   },
   "articles": [
     {
-      "id": "article-1775027244935",
+      "id": "article-1775028856455",
       "filename": "数据挖掘.json",
       "title": "数据挖掘",
       "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
       "category": "信息系统开发",
       "wordCount": 1783,
       "updateTime": "2026-04-01T06:54:48.720Z",
-      "order": 15
+      "order": 34
     },
     {
-      "id": "article-1775027244936",
+      "id": "article-1775028856458",
       "filename": "数据驱动产品决策.json",
       "title": "数据说话：用数据驱动产品决策",
       "description": "如何通过数据分析发现产品问题并优化",
       "category": "产品思考",
       "wordCount": 2216,
       "updateTime": "2026-03-30T01:08:48.140Z",
-      "order": 222
+      "order": 239
     },
     {
-      "id": "article-1775027244928",
+      "id": "article-1775028856444",
       "filename": "成本效益分析.json",
       "title": "成本效益分析",
       "description": "成本效益分析是用来估算备选方案优势和劣势的财务分析工具，以确定可以创造最佳效益的备选方案。",
       "category": "工具与技术",
       "wordCount": 154,
       "updateTime": "2026-03-30T01:08:48.069Z",
-      "order": 245
+      "order": 262
     }
   ]
 }

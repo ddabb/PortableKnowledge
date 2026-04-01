@@ -2,28 +2,28 @@
   "meta": {
     "tag": "数据集成",
     "count": 2,
-    "generatedAt": "2026-04-01T07:07:25.021Z"
+    "generatedAt": "2026-04-01T07:34:16.674Z"
   },
   "articles": [
     {
-      "id": "article-1775027244935",
+      "id": "article-1775028856457",
       "filename": "数据集成.json",
       "title": "数据集成",
       "description": "数据集成方案、数据集成方法、数据访问接口",
       "category": "系统集成基础",
       "wordCount": 1615,
       "updateTime": "2026-04-01T06:55:51.484Z",
-      "order": 8
+      "order": 27
     },
     {
-      "id": "article-1775027244935",
+      "id": "article-1775028856455",
       "filename": "数据挖掘.json",
       "title": "数据挖掘",
       "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
       "category": "信息系统开发",
       "wordCount": 1783,
       "updateTime": "2026-04-01T06:54:48.720Z",
-      "order": 15
+      "order": 34
     }
   ]
 }
