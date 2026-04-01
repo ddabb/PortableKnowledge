@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "决策",
-    "count": 7
+    "count": 8
   },
   "articles": [
     {
@@ -13,7 +13,7 @@
         "决策"
       ],
       "wordCount": 24,
-      "order": 209,
+      "order": 223,
       "id": "a197252eeba2b9ab"
     },
     {
@@ -25,7 +25,7 @@
         "决策"
       ],
       "wordCount": 55,
-      "order": 210,
+      "order": 224,
       "id": "20cab351439d27fa"
     },
     {
@@ -37,7 +37,7 @@
         "决策"
       ],
       "wordCount": 185,
-      "order": 221,
+      "order": 235,
       "id": "eca1be53e721daa8"
     },
     {
@@ -52,7 +52,7 @@
         "认知偏差"
       ],
       "wordCount": 2478,
-      "order": 316,
+      "order": 331,
       "id": "2e0ad5e258ebe742"
     },
     {
@@ -67,7 +67,7 @@
         "认知偏差"
       ],
       "wordCount": 2537,
-      "order": 319,
+      "order": 334,
       "id": "ba08dfe51da0d7e6"
     },
     {
@@ -82,7 +82,7 @@
         "决策"
       ],
       "wordCount": 2271,
-      "order": 321,
+      "order": 336,
       "id": "417462f81acb5bce"
     },
     {
@@ -97,8 +97,22 @@
         "决策"
       ],
       "wordCount": 3455,
-      "order": 322,
+      "order": 337,
       "id": "fffb49d73ff4a2bc"
+    },
+    {
+      "filename": "反套路消费指南_如何识别商家的心理陷阱.json",
+      "title": "反套路消费指南：如何识别商家的心理陷阱",
+      "description": "反套路消费指南：如何识别商家的心理陷阱的核心知识点汇总",
+      "category": "消费心理学",
+      "tags": [
+        "消费心理学",
+        "决策",
+        "行为经济学"
+      ],
+      "wordCount": 10248,
+      "order": 343,
+      "id": "f1bed55fc7f1c87c"
     }
   ]
 }

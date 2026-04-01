@@ -15,7 +15,7 @@
         "开发经验"
       ],
       "wordCount": 3289,
-      "order": 10,
+      "order": 11,
       "id": "84c8799b3d499327"
     },
     {
@@ -28,8 +28,8 @@
         "零成本",
         "开发者工具"
       ],
-      "wordCount": 2138,
-      "order": 11,
+      "wordCount": 2126,
+      "order": 12,
       "id": "85230da0ee184fd6"
     },
     {
@@ -42,8 +42,8 @@
         "MIT协议",
         "许可证"
       ],
-      "wordCount": 2626,
-      "order": 12,
+      "wordCount": 2610,
+      "order": 13,
       "id": "dcac6956e293881e"
     },
     {
@@ -58,7 +58,7 @@
         "最佳实践"
       ],
       "wordCount": 4262,
-      "order": 13,
+      "order": 14,
       "id": "2a42b732d44f7ca8"
     }
   ]

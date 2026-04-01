@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "心理学",
-    "count": 9
+    "count": 11
   },
   "articles": [
     {
@@ -14,8 +14,8 @@
         "心理学",
         "用户行为"
       ],
-      "wordCount": 1933,
-      "order": 7,
+      "wordCount": 1925,
+      "order": 8,
       "id": "5498da70d3ac1468"
     },
     {
@@ -30,7 +30,7 @@
         "认知偏差"
       ],
       "wordCount": 2478,
-      "order": 316,
+      "order": 331,
       "id": "2e0ad5e258ebe742"
     },
     {
@@ -45,7 +45,7 @@
         "元认知"
       ],
       "wordCount": 3016,
-      "order": 317,
+      "order": 332,
       "id": "4439ddcee825c01a"
     },
     {
@@ -60,7 +60,7 @@
         "判断与决策"
       ],
       "wordCount": 3619,
-      "order": 318,
+      "order": 333,
       "id": "1a8557aa650e2ee9"
     },
     {
@@ -75,7 +75,7 @@
         "认知偏差"
       ],
       "wordCount": 2537,
-      "order": 319,
+      "order": 334,
       "id": "ba08dfe51da0d7e6"
     },
     {
@@ -90,7 +90,7 @@
         "环境影响"
       ],
       "wordCount": 2125,
-      "order": 320,
+      "order": 335,
       "id": "df8a66bba1299082"
     },
     {
@@ -105,7 +105,7 @@
         "决策"
       ],
       "wordCount": 2271,
-      "order": 321,
+      "order": 336,
       "id": "417462f81acb5bce"
     },
     {
@@ -120,7 +120,7 @@
         "决策"
       ],
       "wordCount": 3455,
-      "order": 322,
+      "order": 337,
       "id": "fffb49d73ff4a2bc"
     },
     {
@@ -135,8 +135,36 @@
         "动机"
       ],
       "wordCount": 2846,
-      "order": 323,
+      "order": 338,
       "id": "9ee3456d65c5bb57"
+    },
+    {
+      "filename": "如何正确面对拖延症.json",
+      "title": "如何正确面对拖延症",
+      "description": "如何正确面对拖延症的核心知识点汇总",
+      "category": "心理学",
+      "tags": [
+        "心理学",
+        "行为干预",
+        "拖延症"
+      ],
+      "wordCount": 262,
+      "order": 345,
+      "id": "62ff832845e3907b"
+    },
+    {
+      "filename": "拖延行为的心理机制与行为干预策略.json",
+      "title": "拖延行为的心理机制与行为干预策略",
+      "description": "拖延行为的心理机制与行为干预策略的核心知识点汇总",
+      "category": "心理学",
+      "tags": [
+        "心理学",
+        "行为干预",
+        "拖延症"
+      ],
+      "wordCount": 5473,
+      "order": 346,
+      "id": "043d5e252a4eeee0"
     }
   ]
 }

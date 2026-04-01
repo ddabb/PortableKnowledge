@@ -1,8 +1,14 @@
 {
   "name": "root",
   "path": "",
-  "count": 327,
+  "count": 350,
   "children": {
+    "财务知识": {
+      "name": "财务知识",
+      "path": "财务知识",
+      "count": 1,
+      "children": {}
+    },
     "产品研发": {
       "name": "产品研发",
       "path": "产品研发",
@@ -39,6 +45,42 @@
           "children": {}
         }
       }
+    },
+    "创业指南": {
+      "name": "创业指南",
+      "path": "创业指南",
+      "count": 1,
+      "children": {}
+    },
+    "个人成长": {
+      "name": "个人成长",
+      "path": "个人成长",
+      "count": 2,
+      "children": {}
+    },
+    "工具方法": {
+      "name": "工具方法",
+      "path": "工具方法",
+      "count": 1,
+      "children": {}
+    },
+    "积极心理学": {
+      "name": "积极心理学",
+      "path": "积极心理学",
+      "count": 1,
+      "children": {}
+    },
+    "健康养生": {
+      "name": "健康养生",
+      "path": "健康养生",
+      "count": 3,
+      "children": {}
+    },
+    "情绪管理": {
+      "name": "情绪管理",
+      "path": "情绪管理",
+      "count": 5,
+      "children": {}
     },
     "软考": {
       "name": "软考",
@@ -187,6 +229,12 @@
         }
       }
     },
+    "生活方式": {
+      "name": "生活方式",
+      "path": "生活方式",
+      "count": 1,
+      "children": {}
+    },
     "生活通识": {
       "name": "生活通识",
       "path": "生活通识",
@@ -229,6 +277,36 @@
           "children": {}
         }
       }
+    },
+    "消费心理学": {
+      "name": "消费心理学",
+      "path": "消费心理学",
+      "count": 1,
+      "children": {}
+    },
+    "心理学": {
+      "name": "心理学",
+      "path": "心理学",
+      "count": 3,
+      "children": {}
+    },
+    "学习方法": {
+      "name": "学习方法",
+      "path": "学习方法",
+      "count": 2,
+      "children": {}
+    },
+    "压力管理": {
+      "name": "压力管理",
+      "path": "压力管理",
+      "count": 1,
+      "children": {}
+    },
+    "知识管理": {
+      "name": "知识管理",
+      "path": "知识管理",
+      "count": 1,
+      "children": {}
     }
   }
 }

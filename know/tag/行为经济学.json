@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "行为经济学",
-    "count": 1
+    "count": 2
   },
   "articles": [
     {
@@ -16,8 +16,22 @@
         "决策"
       ],
       "wordCount": 3455,
-      "order": 322,
+      "order": 337,
       "id": "fffb49d73ff4a2bc"
+    },
+    {
+      "filename": "反套路消费指南_如何识别商家的心理陷阱.json",
+      "title": "反套路消费指南：如何识别商家的心理陷阱",
+      "description": "反套路消费指南：如何识别商家的心理陷阱的核心知识点汇总",
+      "category": "消费心理学",
+      "tags": [
+        "消费心理学",
+        "决策",
+        "行为经济学"
+      ],
+      "wordCount": 10248,
+      "order": 343,
+      "id": "f1bed55fc7f1c87c"
     }
   ]
 }
