@@ -2,7 +2,7 @@
   "meta": {
     "tag": "WBS",
     "count": 2,
-    "generatedAt": "2026-03-31T11:34:56.069Z"
+    "generatedAt": "2026-04-01T04:32:34.689Z"
   },
   "articles": [
     {
@@ -13,7 +13,7 @@
       "category": "项目范围管理",
       "wordCount": 324,
       "updateTime": "2026-03-30T01:08:48.001Z",
-      "order": 237
+      "order": 240
     },
     {
       "id": "wbs",
@@ -23,7 +23,7 @@
       "category": "未分类",
       "wordCount": 377,
       "updateTime": "2026-03-30T01:08:47.986Z",
-      "order": 259
+      "order": 262
     }
   ]
 }

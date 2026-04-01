@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T11:34:56.824Z",
-    "totalArticles": 261,
+    "generatedAt": "2026-04-01T04:32:34.832Z",
+    "totalArticles": 264,
     "totalCategories": 33,
-    "totalTags": 234
+    "totalTags": 240
   },
   "categories": [
     {
@@ -51,16 +51,16 @@
       "count": 10
     },
     {
+      "name": "心理学",
+      "count": 8
+    },
+    {
       "name": "项目相关方管理",
       "count": 7
     },
     {
       "name": "系统集成基础",
       "count": 6
-    },
-    {
-      "name": "心理学",
-      "count": 5
     },
     {
       "name": "项目运行环境",
@@ -141,7 +141,31 @@
   ],
   "recentArticles": [
     {
-      "id": "article-1774956895428",
+      "id": "article-1775017953128",
+      "filename": "可得性启发.json",
+      "title": "可得性启发",
+      "description": "为什么飞机失事新闻让你觉得坐飞机很危险？可得性启发解释了用易得性判断概率的心理偏差",
+      "category": "心理学",
+      "updateTime": "2026-04-01T04:32:23.453Z"
+    },
+    {
+      "id": "article-1775017953449",
+      "filename": "损失厌恶.json",
+      "title": "损失厌恶",
+      "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
+      "category": "心理学",
+      "updateTime": "2026-04-01T04:31:12.418Z"
+    },
+    {
+      "id": "article-1775017954257",
+      "filename": "邓宁-克鲁格效应.json",
+      "title": "邓宁-克鲁格效应",
+      "description": "为什么新手往往高估自己，而专家却常常低估自己？邓宁-克鲁格效应揭示了元认知的盲点",
+      "category": "心理学",
+      "updateTime": "2026-04-01T04:30:04.100Z"
+    },
+    {
+      "id": "article-1775017954215",
       "filename": "软考中项案例分析答题框架.json",
       "title": "软考中项案例分析答题框架",
       "description": "系统梳理案例分析各类题型的万能答题框架、常见失分原因、标准化答题步骤，配套各知识域典型案例答题模板，助你高效拿下案例分析。",
@@ -149,36 +173,12 @@
       "updateTime": "2026-03-31T11:34:23.465Z"
     },
     {
-      "id": "article-1774956895420",
+      "id": "article-1775017954072",
       "filename": "计算机网络基础.json",
       "title": "计算机网络基础",
       "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
       "category": "系统集成基础",
       "updateTime": "2026-03-31T11:29:15.728Z"
-    },
-    {
-      "id": "article-1774956895355",
-      "filename": "信息系统监理.json",
-      "title": "信息系统监理",
-      "description": "软考中项信息系统工程监理核心知识，包括监理的概念、职责范围、监理文档及监理人员要求。",
-      "category": "项目立项管理",
-      "updateTime": "2026-03-31T11:28:50.339Z"
-    },
-    {
-      "id": "article-1774956895439",
-      "filename": "项目立项与可行性研究.json",
-      "title": "项目立项与可行性研究",
-      "description": "软考中项项目立项核心内容，包括可行性研究的类型、内容、项目建议书及立项审批流程。",
-      "category": "项目立项管理",
-      "updateTime": "2026-03-31T11:28:22.857Z"
-    },
-    {
-      "id": "pert",
-      "filename": "PERT估算与其他计算专项.json",
-      "title": "PERT估算与其他计算专项",
-      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
-      "category": "计算题专项",
-      "updateTime": "2026-03-31T11:27:52.656Z"
     }
   ],
   "popularTags": [
@@ -191,6 +191,6 @@
     "风险管理",
     "中项核心",
     "启动过程组",
-    "制定进度计划"
+    "心理学"
   ]
 }

@@ -2,18 +2,18 @@
   "meta": {
     "tag": "监督风险",
     "count": 1,
-    "generatedAt": "2026-03-31T11:34:55.987Z"
+    "generatedAt": "2026-04-01T04:32:34.635Z"
   },
   "articles": [
     {
-      "id": "article-1774956895400",
+      "id": "article-1775017953801",
       "filename": "监督风险.json",
       "title": "监督风险",
       "description": "监督风险是在整个项目期间，监督商定的风险应对计划的实施、跟踪已识别风险、识别和分析新风险，以及评估风险管理有效性的过程。",
       "category": "项目风险管理",
       "wordCount": 391,
       "updateTime": "2026-03-30T01:08:48.187Z",
-      "order": 148
+      "order": 151
     }
   ]
 }

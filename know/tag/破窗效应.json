@@ -2,18 +2,18 @@
   "meta": {
     "tag": "破窗效应",
     "count": 1,
-    "generatedAt": "2026-03-31T11:34:55.634Z"
+    "generatedAt": "2026-04-01T04:32:34.574Z"
   },
   "articles": [
     {
-      "id": "article-1774956895402",
+      "id": "article-1775017953822",
       "filename": "破窗效应.json",
       "title": "破窗效应",
       "description": "为什么小问题会演变成大灾难？破窗效应解释了环境对行为的影响",
       "category": "心理学",
       "wordCount": 2125,
       "updateTime": "2026-03-31T07:49:06.207Z",
-      "order": 22
+      "order": 25
     }
   ]
 }

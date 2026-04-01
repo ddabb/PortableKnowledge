@@ -2,11 +2,11 @@
   "meta": {
     "category": "信息系统开发",
     "count": 4,
-    "generatedAt": "2026-03-31T11:34:55.477Z"
+    "generatedAt": "2026-04-01T04:32:34.515Z"
   },
   "articles": [
     {
-      "id": "article-1774956895405",
+      "id": "article-1775017953879",
       "filename": "系统运行与维护.json",
       "title": "系统运行与维护",
       "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
@@ -18,10 +18,10 @@
       ],
       "wordCount": 1220,
       "updateTime": "2026-03-31T11:24:23.239Z",
-      "order": 12
+      "order": 15
     },
     {
-      "id": "article-1774956895427",
+      "id": "article-1775017954200",
       "filename": "软件测试.json",
       "title": "软件测试",
       "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
@@ -33,10 +33,10 @@
       ],
       "wordCount": 1107,
       "updateTime": "2026-03-31T11:23:55.849Z",
-      "order": 13
+      "order": 16
     },
     {
-      "id": "article-1774956895436",
+      "id": "article-1775017954336",
       "filename": "需求工程.json",
       "title": "需求工程",
       "description": "软考中项需求工程核心内容，包括需求分类、需求获取方法、需求分析与需求管理。",
@@ -48,10 +48,10 @@
       ],
       "wordCount": 1029,
       "updateTime": "2026-03-31T11:23:32.381Z",
-      "order": 14
+      "order": 17
     },
     {
-      "id": "article-1774956895427",
+      "id": "article-1775017954197",
       "filename": "软件开发模型.json",
       "title": "软件开发模型",
       "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷等模型的特点与适用场景。",
@@ -63,7 +63,7 @@
       ],
       "wordCount": 982,
       "updateTime": "2026-03-31T11:23:08.999Z",
-      "order": 15
+      "order": 18
     }
   ]
 }

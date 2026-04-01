@@ -2,68 +2,68 @@
   "meta": {
     "tag": "指导与管理项目工作",
     "count": 6,
-    "generatedAt": "2026-03-31T11:34:55.859Z"
+    "generatedAt": "2026-04-01T04:32:34.612Z"
   },
   "articles": [
     {
-      "id": "article-1774956895440",
+      "id": "article-1775017954413",
       "filename": "项目管理信息系统.json",
       "title": "项目管理信息系统",
       "description": "PMIS 提供信息技术 (IT) 软件工具，例如进度计划软件工具、工作授权系统、配置管理系统、信息收集与发布系统，以及进入其他在线自动化系统（如公司知识库）的界面。",
       "category": "项目整合管理",
       "wordCount": 109,
       "updateTime": "2026-03-30T01:08:48.352Z",
-      "order": 57
+      "order": 60
     },
     {
-      "id": "article-1774956895435",
+      "id": "article-1775017954316",
       "filename": "问题日志.json",
       "title": "问题日志",
       "description": "在整个项目生命周期中，项目经理通常会遇到问题、差距、不一致或意外冲突。",
       "category": "项目整合管理",
       "wordCount": 257,
       "updateTime": "2026-03-30T01:08:48.262Z",
-      "order": 71
+      "order": 74
     },
     {
-      "id": "article-1774956895390",
+      "id": "article-1775017953439",
       "filename": "指导与管理项目工作.json",
       "title": "指导与管理项目工作",
       "description": "指导与管理项目工作是为实现项目目标而领导和执行项目管理计划中所确定的工作，并实施已批准变更的过程。",
       "category": "项目整合管理",
       "wordCount": 520,
       "updateTime": "2026-03-30T01:08:48.075Z",
-      "order": 186
+      "order": 189
     },
     {
-      "id": "article-1774956895383",
+      "id": "article-1775017953308",
       "filename": "工作绩效数据.json",
       "title": "工作绩效数据",
       "description": "工作绩效数据是在执行项目工作的过程中，从每个正在执行的活动中收集到的原始观察结果和测量值。",
       "category": "项目整合管理",
       "wordCount": 210,
       "updateTime": "2026-03-30T01:08:48.046Z",
-      "order": 204
+      "order": 207
     },
     {
-      "id": "article-1774956895361",
+      "id": "article-1775017953122",
       "filename": "变更请求.json",
       "title": "变更请求",
       "description": "变更请求是关于修改任何文件、可交付成果或基准的正式提议。",
       "category": "项目整合管理",
       "wordCount": 362,
       "updateTime": "2026-03-30T01:08:48.010Z",
-      "order": 226
+      "order": 229
     },
     {
-      "id": "article-1774956895361",
+      "id": "article-1775017953125",
       "filename": "可交付成果.json",
       "title": "可交付成果",
       "description": "可交付成果是在某一过程、阶段或项目完成时，必须产出的任何独特并可核实的产品、成果或服务能力。",
       "category": "项目整合管理",
       "wordCount": 137,
       "updateTime": "2026-03-30T01:08:48.010Z",
-      "order": 227
+      "order": 230
     }
   ]
 }

@@ -2,18 +2,18 @@
   "meta": {
     "tag": "监督沟通",
     "count": 1,
-    "generatedAt": "2026-03-31T11:34:55.988Z"
+    "generatedAt": "2026-04-01T04:32:34.636Z"
   },
   "articles": [
     {
-      "id": "article-1774956895400",
+      "id": "article-1775017953794",
       "filename": "监督沟通.json",
       "title": "监督沟通",
       "description": "监督沟通是确保满足项目及其相关方的信息需求的过程。",
       "category": "项目沟通管理",
       "wordCount": 405,
       "updateTime": "2026-03-30T01:08:48.186Z",
-      "order": 151
+      "order": 154
     }
   ]
 }
