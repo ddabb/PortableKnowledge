@@ -13,7 +13,7 @@
         "决策"
       ],
       "wordCount": 24,
-      "order": 223,
+      "order": 209,
       "id": "a197252eeba2b9ab"
     },
     {
@@ -25,7 +25,7 @@
         "决策"
       ],
       "wordCount": 55,
-      "order": 224,
+      "order": 210,
       "id": "20cab351439d27fa"
     },
     {
@@ -37,8 +37,22 @@
         "决策"
       ],
       "wordCount": 185,
-      "order": 235,
+      "order": 221,
       "id": "eca1be53e721daa8"
+    },
+    {
+      "filename": "反套路消费指南_如何识别商家的心理陷阱.json",
+      "title": "反套路消费指南：如何识别商家的心理陷阱",
+      "description": "反套路消费指南：如何识别商家的心理陷阱的核心知识点汇总",
+      "category": "生活通识/财务理财",
+      "tags": [
+        "消费心理学",
+        "决策",
+        "行为经济学"
+      ],
+      "wordCount": 10248,
+      "order": 312,
+      "id": "da4299c0fe275f24"
     },
     {
       "filename": "沉没成本谬误.json",
@@ -52,7 +66,7 @@
         "认知偏差"
       ],
       "wordCount": 2478,
-      "order": 331,
+      "order": 323,
       "id": "2e0ad5e258ebe742"
     },
     {
@@ -67,7 +81,7 @@
         "认知偏差"
       ],
       "wordCount": 2537,
-      "order": 334,
+      "order": 326,
       "id": "ba08dfe51da0d7e6"
     },
     {
@@ -82,7 +96,7 @@
         "决策"
       ],
       "wordCount": 2271,
-      "order": 336,
+      "order": 329,
       "id": "417462f81acb5bce"
     },
     {
@@ -99,20 +113,6 @@
       "wordCount": 3455,
       "order": 337,
       "id": "fffb49d73ff4a2bc"
-    },
-    {
-      "filename": "反套路消费指南_如何识别商家的心理陷阱.json",
-      "title": "反套路消费指南：如何识别商家的心理陷阱",
-      "description": "反套路消费指南：如何识别商家的心理陷阱的核心知识点汇总",
-      "category": "消费心理学",
-      "tags": [
-        "消费心理学",
-        "决策",
-        "行为经济学"
-      ],
-      "wordCount": 10248,
-      "order": 343,
-      "id": "f1bed55fc7f1c87c"
     }
   ]
 }

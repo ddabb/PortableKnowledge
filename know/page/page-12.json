@@ -4,175 +4,6 @@
   "totalItems": 350,
   "items": [
     {
-      "filename": "成本效益分析.json",
-      "title": "成本效益分析",
-      "description": "成本效益分析是用来估算备选方案优势和劣势的财务分析工具，以确定可以创造最佳效益的备选方案。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据分析",
-        "成本管理"
-      ],
-      "wordCount": 154,
-      "order": 221,
-      "id": "8e8ec6fab964e8fd"
-    },
-    {
-      "filename": "冲突管理.json",
-      "title": "冲突管理",
-      "description": "在项目环境中，冲突不可避免。冲突的来源包括资源稀缺、进度优先级排序和个人工作风格差异等。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能"
-      ],
-      "wordCount": 250,
-      "order": 222,
-      "id": "3a26dcfeeff022f8"
-    },
-    {
-      "filename": "独裁型决策制定.json",
-      "title": "独裁型决策制定",
-      "description": "采用这种方法，将由一个人负责为整个集体制定决策。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "决策"
-      ],
-      "wordCount": 24,
-      "order": 223,
-      "id": "a197252eeba2b9ab"
-    },
-    {
-      "filename": "多标准决策分析.json",
-      "title": "多标准决策分析",
-      "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "决策"
-      ],
-      "wordCount": 55,
-      "order": 224,
-      "id": "20cab351439d27fa"
-    },
-    {
-      "filename": "访谈.json",
-      "title": "访谈",
-      "description": "访谈是通过与相关方直接交谈，来获取信息的正式或非正式的方法。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集"
-      ],
-      "wordCount": 174,
-      "order": 225,
-      "id": "714a8a83d55f2657"
-    },
-    {
-      "filename": "观察和交谈.json",
-      "title": "观察和交谈",
-      "description": "观察和交谈是指直接察看个人在各自的环境中如何执行工作（或任务）和实施流程。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能"
-      ],
-      "wordCount": 169,
-      "order": 226,
-      "id": "19724bb75dd76706"
-    },
-    {
-      "filename": "核对单.json",
-      "title": "核对单",
-      "description": "核对单是包括需要考虑的项目、行动或要点的清单。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集"
-      ],
-      "wordCount": 263,
-      "order": 227,
-      "id": "fa10b174d54144c2"
-    },
-    {
-      "filename": "焦点小组.json",
-      "title": "焦点小组",
-      "description": "焦点小组是召集预定的相关方和主题专家，了解他们对所讨论的产品、服务或成果的期望和态度。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集"
-      ],
-      "wordCount": 85,
-      "order": 228,
-      "id": "1dd9f21d6057f4f4"
-    },
-    {
-      "filename": "联合应用设计或开发.json",
-      "title": "联合应用设计或开发",
-      "description": "联合应用设计或开发 JAD 会议适用于软件开发行业。这种研讨会注重把业务主题专家和开发团队集中在一起，以收集需求和改进软件开发过程。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能"
-      ],
-      "wordCount": 64,
-      "order": 229,
-      "id": "e307f585652ce8e2"
-    },
-    {
-      "filename": "名义小组技术.json",
-      "title": "名义小组技术",
-      "description": "名义小组技术是用于促进头脑风暴的一种技术，通过投票排列最有用的创意，以便进一步开展头脑风暴或优先排序。名义小组技术是一种结构化的头脑风暴形式，由四个步骤组成：",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能"
-      ],
-      "wordCount": 235,
-      "order": 230,
-      "id": "e1a056cecb167c5e"
-    },
-    {
-      "filename": "亲和图.json",
-      "title": "亲和图",
-      "description": "用来对大量创意进行分组的技术，以便进一步审查和分析。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据表现"
-      ],
-      "wordCount": 26,
-      "order": 231,
-      "id": "2778377756582ebd"
-    },
-    {
-      "filename": "思维导图.json",
-      "title": "思维导图",
-      "description": "把从头脑风暴中获得的创意整合成一张图，用以反映创意之间的共性与差异，激发新创意。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据表现"
-      ],
-      "wordCount": 40,
-      "order": 232,
-      "id": "5eeefa24c55d2ad5"
-    },
-    {
-      "filename": "统计抽样.json",
-      "title": "统计抽样",
-      "description": "统计抽样是指从目标总体中选取部分样本用于检查（如从 75 张工程图纸中随机抽取10 张）。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集"
-      ],
-      "wordCount": 78,
-      "order": 233,
-      "id": "90e7eee2b90850f3"
-    },
-    {
-      "filename": "头脑风暴.json",
-      "title": "头脑风暴",
-      "description": "本技术用于在短时间内获得大量创意，适用于团队环境，需要引导者进行引导。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集"
-      ],
-      "wordCount": 100,
-      "order": 234,
-      "id": "913b8543d21f1108"
-    },
-    {
       "filename": "投票.json",
       "title": "投票",
       "description": "投票是一种为达成某种期望结果，而对多个未来行动方案进行评估的集体决策技术和过程。",
@@ -181,7 +12,7 @@
         "决策"
       ],
       "wordCount": 185,
-      "order": 235,
+      "order": 221,
       "id": "eca1be53e721daa8"
     },
     {
@@ -193,7 +24,7 @@
         "数据收集"
       ],
       "wordCount": 156,
-      "order": 236,
+      "order": 222,
       "id": "b20cf68b7c8f9fe2"
     },
     {
@@ -205,7 +36,7 @@
         "人际关系与团队技能"
       ],
       "wordCount": 99,
-      "order": 237,
+      "order": 223,
       "id": "4f37d4cbc7ffb497"
     },
     {
@@ -217,7 +48,7 @@
         "人际关系与团队技能"
       ],
       "wordCount": 85,
-      "order": 238,
+      "order": 224,
       "id": "adf996186008b004"
     },
     {
@@ -232,7 +63,7 @@
         "计算题"
       ],
       "wordCount": 1130,
-      "order": 239,
+      "order": 225,
       "id": "31c4b9b088ef715f"
     },
     {
@@ -247,8 +78,218 @@
         "中项核心"
       ],
       "wordCount": 1240,
-      "order": 240,
+      "order": 226,
       "id": "261aaa76fbd66b9b"
+    },
+    {
+      "filename": "PERT估算与其他计算专项.json",
+      "title": "PERT估算与其他计算专项",
+      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
+      "category": "软考/综合知识/计算题专项",
+      "tags": [
+        "PERT",
+        "三点估算",
+        "计算题",
+        "中项核心"
+      ],
+      "wordCount": 1298,
+      "order": 227,
+      "id": "9b2fbbd00f6b1f16"
+    },
+    {
+      "filename": "软考中项案例分析答题框架.json",
+      "title": "软考中项案例分析答题框架",
+      "description": "系统梳理案例分析各类题型的万能答题框架、常见失分原因、标准化答题步骤，配套各知识域典型案例答题模板，助你高效拿下案例分析。",
+      "category": "软考/综合知识/软考备考",
+      "tags": [
+        "案例分析",
+        "答题框架",
+        "万能模板",
+        "应试技巧"
+      ],
+      "wordCount": 6777,
+      "order": 228,
+      "id": "9534a6bb08b66667"
+    },
+    {
+      "filename": "数据流向图.json",
+      "title": "数据流向图",
+      "description": "数据流向图（DFD）的概念、组成元素与绘制要点",
+      "category": "软考/综合知识/数据流向图",
+      "tags": [],
+      "wordCount": 288,
+      "order": 229,
+      "id": "c33b6fbcde05c601"
+    },
+    {
+      "filename": "安全架构.json",
+      "title": "安全架构",
+      "description": "信息安全架构设计",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "安全架构",
+        "WPDRRC",
+        "信息安全",
+        "威胁防护",
+        "安全体系"
+      ],
+      "wordCount": 1067,
+      "order": 230,
+      "id": "c7cce54551349698"
+    },
+    {
+      "filename": "存储与备份技术.json",
+      "title": "存储与备份技术",
+      "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "存储技术",
+        "RAID",
+        "备份",
+        "系统集成"
+      ],
+      "wordCount": 982,
+      "order": 231,
+      "id": "df35da523c5af5d5"
+    },
+    {
+      "filename": "访问控制.json",
+      "title": "访问控制",
+      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "访问控制",
+        "DAC",
+        "MAC",
+        "RBAC",
+        "ABAC"
+      ],
+      "wordCount": 1481,
+      "order": 232,
+      "id": "a4acf88dba3cb424"
+    },
+    {
+      "filename": "计算机网络基础.json",
+      "title": "计算机网络基础",
+      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "网络基础",
+        "OSI模型",
+        "TCP-IP协议",
+        "系统集成"
+      ],
+      "wordCount": 1085,
+      "order": 233,
+      "id": "9b3e767751872604"
+    },
+    {
+      "filename": "密码技术.json",
+      "title": "密码技术",
+      "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "密码技术",
+        "加密",
+        "数字签名",
+        "PKI",
+        "CA"
+      ],
+      "wordCount": 1375,
+      "order": 234,
+      "id": "022c47ea42e3243e"
+    },
+    {
+      "filename": "身份认证.json",
+      "title": "身份认证",
+      "description": "认证技术、认证协议、身份管理、单点登录",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "身份认证",
+        "认证技术",
+        "认证协议",
+        "单点登录"
+      ],
+      "wordCount": 1395,
+      "order": 235,
+      "id": "e5a2802f2cb0eb4e"
+    },
+    {
+      "filename": "数据安全与隐私保护.json",
+      "title": "数据安全与隐私保护",
+      "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "数据安全",
+        "隐私保护",
+        "数据安全法",
+        "个人信息保护"
+      ],
+      "wordCount": 1701,
+      "order": 236,
+      "id": "6be8c5f466c39d08"
+    },
+    {
+      "filename": "数据集成.json",
+      "title": "数据集成",
+      "description": "数据集成方案、数据集成方法、数据访问接口",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "数据集成",
+        "数据集成方法",
+        "ETL",
+        "数据集成方案"
+      ],
+      "wordCount": 1615,
+      "order": 237,
+      "id": "7137f6238a7839b4"
+    },
+    {
+      "filename": "数据架构.json",
+      "title": "数据架构",
+      "description": "数据架构设计、数据建模",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "数据架构",
+        "数据分层",
+        "数据建模",
+        "数据仓库",
+        "大数据"
+      ],
+      "wordCount": 919,
+      "order": 238,
+      "id": "e4d7f2ae9837e94e"
+    },
+    {
+      "filename": "数据库基础.json",
+      "title": "数据库基础",
+      "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "数据库",
+        "SQL",
+        "范式",
+        "系统集成"
+      ],
+      "wordCount": 985,
+      "order": 239,
+      "id": "03ba6ce84d86c148"
+    },
+    {
+      "filename": "网络安全.json",
+      "title": "网络安全",
+      "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "网络安全",
+        "防火墙",
+        "入侵检测与防御",
+        "VPN",
+        "安全防护"
+      ],
+      "wordCount": 1755,
+      "order": 240,
+      "id": "1c8b5f928be1d3f9"
     }
   ]
 }

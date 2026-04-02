@@ -1,7 +1,7 @@
 {
   "meta": {
     "totalArticles": 350,
-    "totalCategories": 45,
+    "totalCategories": 36,
     "totalTags": 476
   },
   "categories": [
@@ -34,6 +34,10 @@
       "count": 18
     },
     {
+      "name": "生活通识/心理学",
+      "count": 18
+    },
+    {
       "name": "软考/项目管理/项目采购管理",
       "count": 16
     },
@@ -62,16 +66,12 @@
       "count": 9
     },
     {
-      "name": "生活通识/心理学",
-      "count": 8
-    },
-    {
       "name": "软考/综合知识/法律法规与标准",
       "count": 7
     },
     {
-      "name": "情绪管理",
-      "count": 5
+      "name": "生活通识/学习成长",
+      "count": 6
     },
     {
       "name": "软考/项目管理/项目运行环境",
@@ -98,10 +98,6 @@
       "count": 4
     },
     {
-      "name": "健康养生",
-      "count": 3
-    },
-    {
       "name": "软考/综合知识/计算题专项",
       "count": 3
     },
@@ -110,16 +106,16 @@
       "count": 3
     },
     {
+      "name": "生活通识/财务理财",
+      "count": 3
+    },
+    {
       "name": "生活通识/法律常识",
       "count": 3
     },
     {
-      "name": "心理学",
+      "name": "生活通识/健康养生",
       "count": 3
-    },
-    {
-      "name": "个人成长",
-      "count": 2
     },
     {
       "name": "软考/项目管理/项目立项管理",
@@ -130,31 +126,11 @@
       "count": 2
     },
     {
-      "name": "学习方法",
-      "count": 2
-    },
-    {
-      "name": "财务知识",
-      "count": 1
-    },
-    {
       "name": "产品研发/产品使用",
       "count": 1
     },
     {
       "name": "产品研发/开发者故事",
-      "count": 1
-    },
-    {
-      "name": "创业指南",
-      "count": 1
-    },
-    {
-      "name": "工具方法",
-      "count": 1
-    },
-    {
-      "name": "积极心理学",
       "count": 1
     },
     {
@@ -166,41 +142,15 @@
       "count": 1
     },
     {
-      "name": "生活方式",
-      "count": 1
-    },
-    {
       "name": "生活通识/急救知识",
       "count": 1
     },
     {
-      "name": "消费心理学",
-      "count": 1
-    },
-    {
-      "name": "压力管理",
-      "count": 1
-    },
-    {
-      "name": "知识管理",
+      "name": "生活通识/生活方式",
       "count": 1
     }
   ],
   "recentArticles": [
-    {
-      "filename": "财务管理与财富自由_从零开始的财务规划指南.json",
-      "title": "财务管理与财富自由：从零开始的财务规划指南",
-      "description": "财务管理与财富自由：从零开始的财务规划指南的核心知识点汇总",
-      "category": "财务知识",
-      "tags": [
-        "财富自由",
-        "财务管理",
-        "理财"
-      ],
-      "wordCount": 1904,
-      "order": 1,
-      "id": "eeccf5626e7df80a"
-    },
     {
       "filename": "产品定位.json",
       "title": "随身工具宝 产品定位",
@@ -212,7 +162,7 @@
         "竞品分析"
       ],
       "wordCount": 2190,
-      "order": 2,
+      "order": 1,
       "id": "ec3531e24d289fec"
     },
     {
@@ -226,7 +176,7 @@
         "产品"
       ],
       "wordCount": 3383,
-      "order": 3,
+      "order": 2,
       "id": "c31edf6c4c2b89f9"
     },
     {
@@ -239,7 +189,7 @@
         "用户场景"
       ],
       "wordCount": 2276,
-      "order": 4,
+      "order": 3,
       "id": "d8afbb8b09234303"
     },
     {
@@ -253,8 +203,22 @@
         "产品迭代"
       ],
       "wordCount": 3648,
-      "order": 5,
+      "order": 4,
       "id": "017e088e39d8d334"
+    },
+    {
+      "filename": "用户使用指南.json",
+      "title": "随身工具宝 用户使用指南",
+      "description": "随身工具宝小程序完整使用教程，从入门到精通",
+      "category": "产品研发/产品使用",
+      "tags": [
+        "使用指南",
+        "教程",
+        "工具宝"
+      ],
+      "wordCount": 1985,
+      "order": 5,
+      "id": "0bd6f905fbf1dee0"
     }
   ],
   "popularTags": [

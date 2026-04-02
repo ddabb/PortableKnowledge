@@ -15,7 +15,7 @@
         "产品优化"
       ],
       "wordCount": 2212,
-      "order": 10,
+      "order": 9,
       "id": "b67bc9ff73f50389"
     },
     {
@@ -28,7 +28,7 @@
         "成本管理"
       ],
       "wordCount": 154,
-      "order": 221,
+      "order": 207,
       "id": "8e8ec6fab964e8fd"
     },
     {
@@ -43,7 +43,7 @@
         "数据可视化"
       ],
       "wordCount": 1783,
-      "order": 275,
+      "order": 261,
       "id": "4d49fa1d72cc021d"
     }
   ]

@@ -4,216 +4,6 @@
   "totalItems": 350,
   "items": [
     {
-      "filename": "PERT估算与其他计算专项.json",
-      "title": "PERT估算与其他计算专项",
-      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
-      "category": "软考/综合知识/计算题专项",
-      "tags": [
-        "PERT",
-        "三点估算",
-        "计算题",
-        "中项核心"
-      ],
-      "wordCount": 1298,
-      "order": 241,
-      "id": "9b2fbbd00f6b1f16"
-    },
-    {
-      "filename": "软考中项案例分析答题框架.json",
-      "title": "软考中项案例分析答题框架",
-      "description": "系统梳理案例分析各类题型的万能答题框架、常见失分原因、标准化答题步骤，配套各知识域典型案例答题模板，助你高效拿下案例分析。",
-      "category": "软考/综合知识/软考备考",
-      "tags": [
-        "案例分析",
-        "答题框架",
-        "万能模板",
-        "应试技巧"
-      ],
-      "wordCount": 6777,
-      "order": 242,
-      "id": "9534a6bb08b66667"
-    },
-    {
-      "filename": "数据流向图.json",
-      "title": "数据流向图",
-      "description": "数据流向图（DFD）的概念、组成元素与绘制要点",
-      "category": "软考/综合知识/数据流向图",
-      "tags": [],
-      "wordCount": 288,
-      "order": 243,
-      "id": "c33b6fbcde05c601"
-    },
-    {
-      "filename": "安全架构.json",
-      "title": "安全架构",
-      "description": "信息安全架构设计",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "安全架构",
-        "WPDRRC",
-        "信息安全",
-        "威胁防护",
-        "安全体系"
-      ],
-      "wordCount": 1067,
-      "order": 244,
-      "id": "c7cce54551349698"
-    },
-    {
-      "filename": "存储与备份技术.json",
-      "title": "存储与备份技术",
-      "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "存储技术",
-        "RAID",
-        "备份",
-        "系统集成"
-      ],
-      "wordCount": 982,
-      "order": 245,
-      "id": "df35da523c5af5d5"
-    },
-    {
-      "filename": "访问控制.json",
-      "title": "访问控制",
-      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "访问控制",
-        "DAC",
-        "MAC",
-        "RBAC",
-        "ABAC"
-      ],
-      "wordCount": 1481,
-      "order": 246,
-      "id": "a4acf88dba3cb424"
-    },
-    {
-      "filename": "计算机网络基础.json",
-      "title": "计算机网络基础",
-      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "网络基础",
-        "OSI模型",
-        "TCP-IP协议",
-        "系统集成"
-      ],
-      "wordCount": 1085,
-      "order": 247,
-      "id": "9b3e767751872604"
-    },
-    {
-      "filename": "密码技术.json",
-      "title": "密码技术",
-      "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "密码技术",
-        "加密",
-        "数字签名",
-        "PKI",
-        "CA"
-      ],
-      "wordCount": 1375,
-      "order": 248,
-      "id": "022c47ea42e3243e"
-    },
-    {
-      "filename": "身份认证.json",
-      "title": "身份认证",
-      "description": "认证技术、认证协议、身份管理、单点登录",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "身份认证",
-        "认证技术",
-        "认证协议",
-        "单点登录"
-      ],
-      "wordCount": 1395,
-      "order": 249,
-      "id": "e5a2802f2cb0eb4e"
-    },
-    {
-      "filename": "数据安全与隐私保护.json",
-      "title": "数据安全与隐私保护",
-      "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "数据安全",
-        "隐私保护",
-        "数据安全法",
-        "个人信息保护"
-      ],
-      "wordCount": 1701,
-      "order": 250,
-      "id": "6be8c5f466c39d08"
-    },
-    {
-      "filename": "数据集成.json",
-      "title": "数据集成",
-      "description": "数据集成方案、数据集成方法、数据访问接口",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "数据集成",
-        "数据集成方法",
-        "ETL",
-        "数据集成方案"
-      ],
-      "wordCount": 1615,
-      "order": 251,
-      "id": "7137f6238a7839b4"
-    },
-    {
-      "filename": "数据架构.json",
-      "title": "数据架构",
-      "description": "数据架构设计、数据建模",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "数据架构",
-        "数据分层",
-        "数据建模",
-        "数据仓库",
-        "大数据"
-      ],
-      "wordCount": 919,
-      "order": 252,
-      "id": "e4d7f2ae9837e94e"
-    },
-    {
-      "filename": "数据库基础.json",
-      "title": "数据库基础",
-      "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "数据库",
-        "SQL",
-        "范式",
-        "系统集成"
-      ],
-      "wordCount": 985,
-      "order": 253,
-      "id": "03ba6ce84d86c148"
-    },
-    {
-      "filename": "网络安全.json",
-      "title": "网络安全",
-      "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "网络安全",
-        "防火墙",
-        "入侵检测与防御",
-        "VPN",
-        "安全防护"
-      ],
-      "wordCount": 1755,
-      "order": 254,
-      "id": "1c8b5f928be1d3f9"
-    },
-    {
       "filename": "网络集成.json",
       "title": "网络集成",
       "description": "网络系统集成的技术、传输介质、交换技术",
@@ -225,7 +15,7 @@
         "安全子系统"
       ],
       "wordCount": 1269,
-      "order": 255,
+      "order": 241,
       "id": "56186a279e496b3f"
     },
     {
@@ -241,7 +31,7 @@
         "SDN"
       ],
       "wordCount": 1050,
-      "order": 256,
+      "order": 242,
       "id": "57f12946f1cedfe6"
     },
     {
@@ -256,7 +46,7 @@
         "中项核心"
       ],
       "wordCount": 954,
-      "order": 257,
+      "order": 243,
       "id": "424f5eb505d95974"
     },
     {
@@ -272,7 +62,7 @@
         "价值驱动"
       ],
       "wordCount": 1213,
-      "order": 258,
+      "order": 244,
       "id": "4d18d608c6f5855a"
     },
     {
@@ -287,7 +77,7 @@
         "等级保护"
       ],
       "wordCount": 1272,
-      "order": 259,
+      "order": 245,
       "id": "0abfa84f1b5a76b3"
     },
     {
@@ -305,8 +95,222 @@
         "资源"
       ],
       "wordCount": 991,
-      "order": 260,
+      "order": 246,
       "id": "794574c48071d0bb"
+    },
+    {
+      "filename": "信息系统及其特性.json",
+      "title": "信息系统及其特性",
+      "description": "信息系统是结合管理理论和方法，应用信息技术解决管理问题，提高生产效率的系统。信息系统具有开放性、脆弱性和健壮性等突出特性。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息系统",
+        "软考备考"
+      ],
+      "wordCount": 543,
+      "order": 247,
+      "id": "1cd8778c4ef5a853"
+    },
+    {
+      "filename": "应用集成.json",
+      "title": "应用集成",
+      "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "应用集成",
+        "EAI",
+        "ESB",
+        "SOA",
+        "业务应用集成"
+      ],
+      "wordCount": 1505,
+      "order": 248,
+      "id": "44ad11c8fc4dfbff"
+    },
+    {
+      "filename": "应用架构.json",
+      "title": "应用架构",
+      "description": "应用架构模式、SOA与微服务",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "应用架构",
+        "SOA",
+        "微服务",
+        "MVC",
+        "分层分域"
+      ],
+      "wordCount": 844,
+      "order": 249,
+      "id": "e9f728e7f7a1ea26"
+    },
+    {
+      "filename": "云计算与虚拟化.json",
+      "title": "云计算与虚拟化",
+      "description": "软考中项云计算核心知识，包括云计算三种服务模式、四种部署方式及虚拟化技术要点。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "云计算",
+        "虚拟化",
+        "IaaS",
+        "系统集成"
+      ],
+      "wordCount": 989,
+      "order": 250,
+      "id": "668c8b1ad8186950"
+    },
+    {
+      "filename": "IT服务标准化.json",
+      "title": "IT服务标准化",
+      "description": "ITSS标准体系、服务标准及产业化",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "ITSS",
+        "服务标准化",
+        "服务产品化",
+        "服务产业化",
+        "服务标准"
+      ],
+      "wordCount": 1161,
+      "order": 251,
+      "id": "d10daa126be329b3"
+    },
+    {
+      "filename": "IT服务生命周期.json",
+      "title": "IT服务生命周期",
+      "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "ITSS",
+        "SDOR",
+        "战略规划",
+        "设计实现",
+        "运营提升",
+        "退役终止"
+      ],
+      "wordCount": 1009,
+      "order": 252,
+      "id": "38d665afd4e8415a"
+    },
+    {
+      "filename": "软件测试.json",
+      "title": "软件测试",
+      "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件测试",
+        "黑盒测试",
+        "白盒测试",
+        "软件开发"
+      ],
+      "wordCount": 1107,
+      "order": 253,
+      "id": "192a488ce8718492"
+    },
+    {
+      "filename": "软件工程过程.json",
+      "title": "软件工程过程",
+      "description": "软件工程过程的定义、组成要素和主要活动",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件工程",
+        "过程管理",
+        "开发活动"
+      ],
+      "wordCount": 705,
+      "order": 254,
+      "id": "65185a18e8df025f"
+    },
+    {
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件集成",
+        "中间件",
+        "API",
+        "组件技术",
+        "SOA"
+      ],
+      "wordCount": 1156,
+      "order": 255,
+      "id": "f8a4a873312b7ef4"
+    },
+    {
+      "filename": "软件开发模型.json",
+      "title": "软件开发模型",
+      "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷等模型的特点与适用场景。",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件开发",
+        "开发模型",
+        "瀑布模型",
+        "敏捷开发"
+      ],
+      "wordCount": 982,
+      "order": 256,
+      "id": "ec7d44d960838dac"
+    },
+    {
+      "filename": "软件设计.json",
+      "title": "软件设计",
+      "description": "结构化设计、面向对象设计、UML、设计原则",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件设计",
+        "结构化设计",
+        "OOD",
+        "UML",
+        "设计模式"
+      ],
+      "wordCount": 1711,
+      "order": 257,
+      "id": "008f8f7950c935c7"
+    },
+    {
+      "filename": "软件质量保证.json",
+      "title": "软件质量保证",
+      "description": "软件质量管理、SQA活动、质量模型、测试方法",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件质量",
+        "SQA",
+        "CMMI",
+        "软件测试"
+      ],
+      "wordCount": 1456,
+      "order": 258,
+      "id": "2a9e91bd4e628181"
+    },
+    {
+      "filename": "数据仓库.json",
+      "title": "数据仓库",
+      "description": "数据仓库概念、特点、架构与数据资产管理",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "数据仓库",
+        "OLAP",
+        "数据资产",
+        "主题库"
+      ],
+      "wordCount": 1694,
+      "order": 259,
+      "id": "b049e1747ee3425b"
+    },
+    {
+      "filename": "数据工程概述.json",
+      "title": "数据工程概述",
+      "description": "数据工程概念、数据采集与预处理、数据存储与管理",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "数据工程",
+        "数据采集",
+        "数据预处理",
+        "数据存储"
+      ],
+      "wordCount": 1434,
+      "order": 260,
+      "id": "5abc3a58e7e58910"
     }
   ]
 }
