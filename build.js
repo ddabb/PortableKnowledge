@@ -157,7 +157,7 @@ function generatePagination(items, pageSize) {
   return pages;
 }
 
-// 生成搜索索引
+// 生成搜索索引（不含 content，只保留搜索必需字段以减小体积）
 function generateSearchIndex(articles) {
   return articles.map(article => ({
     id: article.id,
@@ -165,7 +165,6 @@ function generateSearchIndex(articles) {
     description: article.description,
     category: article.category,
     tags: article.tags,
-    content: article.body.substring(0, 1000),
     filename: article.filename
   }));
 }
