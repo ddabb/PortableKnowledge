@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "成本管理",
-    "count": 9
+    "count": 8
   },
   "articles": [
     {
@@ -119,19 +119,6 @@
       "wordCount": 192,
       "order": 74,
       "id": "5dc841d1121775f1"
-    },
-    {
-      "filename": "成本效益分析.json",
-      "title": "成本效益分析",
-      "description": "成本效益分析是用来估算备选方案优势和劣势的财务分析工具，以确定可以创造最佳效益的备选方案。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据分析",
-        "成本管理"
-      ],
-      "wordCount": 154,
-      "order": 240,
-      "id": "8e8ec6fab964e8fd"
     }
   ]
 }

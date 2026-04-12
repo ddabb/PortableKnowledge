@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "项目管理",
-    "count": 35
+    "count": 36
   },
   "articles": [
     {
@@ -291,6 +291,21 @@
       "wordCount": 71,
       "order": 223,
       "id": "19afb3691bd370d0"
+    },
+    {
+      "filename": "冲突管理.json",
+      "title": "冲突管理完全指南",
+      "description": "冲突的定义、来源、五种冲突解决方法及适用场景",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "人际关系与团队技能",
+        "冲突管理",
+        "项目管理",
+        "团队协作"
+      ],
+      "wordCount": 2692,
+      "order": 241,
+      "id": "3a26dcfeeff022f8"
     },
     {
       "filename": "项目成功标准.json",

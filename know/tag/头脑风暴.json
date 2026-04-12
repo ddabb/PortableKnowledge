@@ -1,24 +1,9 @@
 {
   "meta": {
-    "tag": "决策工具",
+    "tag": "头脑风暴",
     "count": 2
   },
   "articles": [
-    {
-      "filename": "fermi-estimation.json",
-      "title": "费米估算",
-      "description": "在信息不足时做出合理估算的思维方法，通过分解问题、合理假设来逼近真实答案",
-      "category": "认知思维/思维工具",
-      "tags": [
-        "费米问题",
-        "估算思维",
-        "量化分析",
-        "决策工具"
-      ],
-      "wordCount": 3718,
-      "order": 42,
-      "id": "f8c2ba84343993b8"
-    },
     {
       "filename": "名义小组技术.json",
       "title": "名义小组技术完全指南",
@@ -33,6 +18,21 @@
       "wordCount": 2882,
       "order": 249,
       "id": "e1a056cecb167c5e"
+    },
+    {
+      "filename": "头脑风暴.json",
+      "title": "头脑风暴完全指南",
+      "description": "头脑风暴的核心方法、流程、技巧与常见误区",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "数据收集",
+        "头脑风暴",
+        "创意",
+        "会议"
+      ],
+      "wordCount": 1194,
+      "order": 253,
+      "id": "913b8543d21f1108"
     }
   ]
 }

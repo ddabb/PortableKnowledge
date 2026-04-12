@@ -1,7 +1,7 @@
 {
   "meta": {
-    "tag": "需求分析",
-    "count": 2
+    "tag": "QFD",
+    "count": 1
   },
   "articles": [
     {
@@ -19,21 +19,6 @@
       "wordCount": 2988,
       "order": 257,
       "id": "adf996186008b004"
-    },
-    {
-      "filename": "需求工程.json",
-      "title": "需求工程",
-      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "需求工程",
-        "需求分析",
-        "SRS",
-        "需求变更"
-      ],
-      "wordCount": 1170,
-      "order": 297,
-      "id": "e6e021df007bc16e"
     }
   ]
 }
