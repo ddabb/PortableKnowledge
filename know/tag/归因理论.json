@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "归因理论",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "归因理论.json",
+      "title": "归因理论专题",
+      "description": "基本归因错误、协变原理、Kelley的归因维度、自我服务偏差",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "归因理论",
+        "基本归因错误",
+        "归因维度",
+        "自我服务偏差"
+      ],
+      "wordCount": 920,
+      "order": 367,
+      "id": "9bbad1b3c61c60a0"
+    }
+  ]
+}

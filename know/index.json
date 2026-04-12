@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 389,
-    "totalCategories": 53,
-    "totalTags": 662
+    "totalArticles": 395,
+    "totalCategories": 51,
+    "totalTags": 687
   },
   "categories": [
     {
@@ -94,6 +94,10 @@
       "count": 5
     },
     {
+      "name": "心理学/基础心理学",
+      "count": 5
+    },
+    {
       "name": "产品研发/产品设计",
       "count": 4
     },
@@ -126,6 +130,10 @@
       "count": 3
     },
     {
+      "name": "心理学/行为心理学",
+      "count": 3
+    },
+    {
       "name": "营销增长/内容创作",
       "count": 3
     },
@@ -151,6 +159,14 @@
     },
     {
       "name": "生活通识/社保公积金",
+      "count": 2
+    },
+    {
+      "name": "心理学/发展心理学",
+      "count": 2
+    },
+    {
+      "name": "心理学/社会心理学",
       "count": 2
     },
     {
@@ -186,35 +202,11 @@
       "count": 1
     },
     {
-      "name": "心理学/备考综合",
-      "count": 1
-    },
-    {
-      "name": "心理学/发展心理学",
-      "count": 1
-    },
-    {
-      "name": "心理学/基础心理学",
-      "count": 1
-    },
-    {
       "name": "心理学/情绪心理学",
       "count": 1
     },
     {
       "name": "心理学/认知心理学",
-      "count": 1
-    },
-    {
-      "name": "心理学/社会心理学",
-      "count": 1
-    },
-    {
-      "name": "心理学/心理测量",
-      "count": 1
-    },
-    {
-      "name": "心理学/行为心理学",
       "count": 1
     }
   ],
