@@ -1,7 +1,7 @@
 {
   "name": "root",
   "path": "",
-  "count": 395,
+  "count": 413,
   "children": {
     "产品研发": {
       "name": "产品研发",
@@ -295,42 +295,60 @@
     "心理学": {
       "name": "心理学",
       "path": "心理学",
-      "count": 14,
+      "count": 32,
       "children": {
+        "备考综合": {
+          "name": "备考综合",
+          "path": "心理学/备考综合",
+          "count": 1,
+          "children": {}
+        },
         "发展心理学": {
           "name": "发展心理学",
           "path": "心理学/发展心理学",
-          "count": 2,
+          "count": 4,
           "children": {}
         },
         "基础心理学": {
           "name": "基础心理学",
           "path": "心理学/基础心理学",
-          "count": 5,
+          "count": 6,
           "children": {}
         },
         "情绪心理学": {
           "name": "情绪心理学",
           "path": "心理学/情绪心理学",
+          "count": 3,
+          "children": {}
+        },
+        "人格心理学": {
+          "name": "人格心理学",
+          "path": "心理学/人格心理学",
           "count": 1,
           "children": {}
         },
         "认知心理学": {
           "name": "认知心理学",
           "path": "心理学/认知心理学",
-          "count": 1,
+          "count": 4,
           "children": {}
         },
         "社会心理学": {
           "name": "社会心理学",
           "path": "心理学/社会心理学",
-          "count": 2,
+          "count": 6,
+          "children": {}
+        },
+        "心理测量": {
+          "name": "心理测量",
+          "path": "心理学/心理测量",
+          "count": 3,
           "children": {}
         },
         "行为心理学": {
           "name": "行为心理学",
           "path": "心理学/行为心理学",
-          "count": 3,
+          "count": 4,
           "children": {}
         }
       }

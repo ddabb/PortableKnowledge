@@ -1,9 +1,24 @@
 {
   "meta": {
     "category": "心理学/情绪心理学",
-    "count": 1
+    "count": 3
   },
   "articles": [
+    {
+      "filename": "情绪调节与情商.json",
+      "title": "情绪调节与情商专题",
+      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
+      "category": "心理学/情绪心理学",
+      "tags": [
+        "情绪调节",
+        "情商",
+        "Gross模型",
+        "Goleman"
+      ],
+      "wordCount": 1222,
+      "order": 369,
+      "id": "5816314001b8e360"
+    },
     {
       "filename": "情绪理论.json",
       "title": "情绪理论专题",
@@ -16,8 +31,23 @@
         "认知评价"
       ],
       "wordCount": 807,
-      "order": 365,
+      "order": 370,
       "id": "b167ac6bea8adc57"
+    },
+    {
+      "filename": "压力与应对.json",
+      "title": "压力与应对专题",
+      "description": "压力的定义与类型、压力反应、生理应激机制、应对策略",
+      "category": "心理学/情绪心理学",
+      "tags": [
+        "压力",
+        "应对策略",
+        "应激",
+        "压力源"
+      ],
+      "wordCount": 1241,
+      "order": 371,
+      "id": "5c5c24851901db22"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "心理学/发展心理学",
-    "count": 2
+    "count": 4
   },
   "articles": [
     {
@@ -16,8 +16,24 @@
         "信任"
       ],
       "wordCount": 1331,
-      "order": 358,
+      "order": 359,
       "id": "4ffa80d1b2387788"
+    },
+    {
+      "filename": "道德发展.json",
+      "title": "道德发展专题",
+      "description": "科尔伯格三水平六阶段理论、Piaget的道德发展理论、道德发展与认知发展的关系",
+      "category": "心理学/发展心理学",
+      "tags": [
+        "道德发展",
+        "科尔伯格",
+        "前习俗",
+        "习俗",
+        "后习俗"
+      ],
+      "wordCount": 1102,
+      "order": 360,
+      "id": "d726a2e255cb8b6d"
     },
     {
       "filename": "皮亚杰认知发展阶段.json",
@@ -33,8 +49,23 @@
         "守恒"
       ],
       "wordCount": 1213,
-      "order": 359,
+      "order": 361,
       "id": "e70d25c2fa2cd36d"
+    },
+    {
+      "filename": "依恋理论.json",
+      "title": "依恋理论专题",
+      "description": "依恋的定义与类型（A型、B型、C型）、依恋的形成机制、依恋对发展的影响",
+      "category": "心理学/发展心理学",
+      "tags": [
+        "依恋",
+        "Ainsworth",
+        "安全依恋",
+        "依恋类型"
+      ],
+      "wordCount": 1137,
+      "order": 362,
+      "id": "f96a38b160190976"
     }
   ]
 }

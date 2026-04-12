@@ -1,9 +1,24 @@
 {
   "meta": {
     "tag": "情商",
-    "count": 3
+    "count": 4
   },
   "articles": [
+    {
+      "filename": "情绪调节与情商.json",
+      "title": "情绪调节与情商专题",
+      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
+      "category": "心理学/情绪心理学",
+      "tags": [
+        "情绪调节",
+        "情商",
+        "Gross模型",
+        "Goleman"
+      ],
+      "wordCount": 1222,
+      "order": 369,
+      "id": "5816314001b8e360"
+    },
     {
       "filename": "情绪调节的科学方法.json",
       "title": "情绪调节的科学方法",
@@ -15,7 +30,7 @@
         "情绪调节"
       ],
       "wordCount": 3768,
-      "order": 386,
+      "order": 404,
       "id": "88b19b1e76c62bb8"
     },
     {
@@ -31,7 +46,7 @@
         "心理健康"
       ],
       "wordCount": 2513,
-      "order": 387,
+      "order": 405,
       "id": "33c67d344e6f722e"
     },
     {
@@ -47,7 +62,7 @@
         "应对策略"
       ],
       "wordCount": 6892,
-      "order": 395,
+      "order": 413,
       "id": "dd3da769e5257b55"
     }
   ]

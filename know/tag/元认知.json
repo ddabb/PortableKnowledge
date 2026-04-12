@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "元认知",
-    "count": 1
+    "count": 2
   },
   "articles": [
     {
@@ -18,6 +18,21 @@
       "wordCount": 3016,
       "order": 34,
       "id": "da6e17856c62065a"
+    },
+    {
+      "filename": "元认知.json",
+      "title": "元认知专题",
+      "description": "元认知的定义与构成（Flavell）、元认知知识、元认知监控、元认知调节策略",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "元认知",
+        "元认知知识",
+        "元认知监控",
+        "学习策略"
+      ],
+      "wordCount": 1179,
+      "order": 376,
+      "id": "36295f2c1ae09532"
     }
   ]
 }

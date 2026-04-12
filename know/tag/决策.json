@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "决策",
-    "count": 9
+    "count": 10
   },
   "articles": [
     {
@@ -131,6 +131,22 @@
       "wordCount": 1310,
       "order": 254,
       "id": "eca1be53e721daa8"
+    },
+    {
+      "filename": "决策与判断偏差.json",
+      "title": "决策与判断偏差专题",
+      "description": "启发法、确认偏差、后见之明偏差、可得性启发、框架效应等认知偏差",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "决策",
+        "判断偏差",
+        "启发法",
+        "确认偏差",
+        "后见之明"
+      ],
+      "wordCount": 915,
+      "order": 374,
+      "id": "0e29e4e2423aa86a"
     }
   ]
 }
