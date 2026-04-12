@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 431,
-    "totalCategories": 63,
-    "totalTags": 814
+    "totalArticles": 430,
+    "totalCategories": 62,
+    "totalTags": 811
   },
   "categories": [
     {
@@ -203,10 +203,6 @@
     },
     {
       "name": "创业指南/消费心理",
-      "count": 1
-    },
-    {
-      "name": "法律职业资格考试",
       "count": 1
     },
     {

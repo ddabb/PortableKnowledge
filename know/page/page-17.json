@@ -1,22 +1,8 @@
 {
   "page": 17,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
-    {
-      "filename": "项目成功标准.json",
-      "title": "项目成功标准",
-      "description": "确定项目是否成功是项目管理中最常见的挑战之一。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 692,
-      "order": 321,
-      "id": "6ec0aaca1247a97f"
-    },
     {
       "filename": "项目管理标准.json",
       "title": "项目管理标准",
@@ -28,7 +14,7 @@
         "PMP"
       ],
       "wordCount": 496,
-      "order": 322,
+      "order": 321,
       "id": "d1462ae426957806"
     },
     {
@@ -41,7 +27,7 @@
         "项目管理"
       ],
       "wordCount": 570,
-      "order": 323,
+      "order": 322,
       "id": "28fbf90f2e86835c"
     },
     {
@@ -57,7 +43,7 @@
         "项目管理知识体系"
       ],
       "wordCount": 466,
-      "order": 324,
+      "order": 323,
       "id": "be6b15a9b2452508"
     },
     {
@@ -72,7 +58,7 @@
         "项目管理知识体系"
       ],
       "wordCount": 421,
-      "order": 325,
+      "order": 324,
       "id": "f0df280cd576e7ae"
     },
     {
@@ -86,7 +72,7 @@
         "项目管理"
       ],
       "wordCount": 500,
-      "order": 326,
+      "order": 325,
       "id": "f329a5f6998c2a5a"
     },
     {
@@ -100,7 +86,7 @@
         "PMBOK"
       ],
       "wordCount": 2301,
-      "order": 327,
+      "order": 326,
       "id": "aa80d2be512fd91a"
     },
     {
@@ -115,7 +101,7 @@
         "项目管理"
       ],
       "wordCount": 1779,
-      "order": 328,
+      "order": 327,
       "id": "21c05eebccbacefb"
     },
     {
@@ -129,7 +115,7 @@
         "项目管理"
       ],
       "wordCount": 810,
-      "order": 329,
+      "order": 328,
       "id": "d3a5008427d010e5"
     },
     {
@@ -145,7 +131,7 @@
         "运营管理"
       ],
       "wordCount": 2365,
-      "order": 330,
+      "order": 329,
       "id": "72a85e59bcb1b224"
     },
     {
@@ -159,7 +145,7 @@
         "项目管理"
       ],
       "wordCount": 577,
-      "order": 331,
+      "order": 330,
       "id": "a88a820aea654258"
     },
     {
@@ -174,7 +160,7 @@
         "项目管理"
       ],
       "wordCount": 1359,
-      "order": 332,
+      "order": 331,
       "id": "902a832c9bbc0bdb"
     },
     {
@@ -188,7 +174,7 @@
         "项目评估"
       ],
       "wordCount": 2367,
-      "order": 333,
+      "order": 332,
       "id": "97c4ef457af336d5"
     },
     {
@@ -202,7 +188,7 @@
         "项目管理"
       ],
       "wordCount": 1007,
-      "order": 334,
+      "order": 333,
       "id": "5f441e7a3c4020d7"
     },
     {
@@ -218,7 +204,7 @@
         "PMP"
       ],
       "wordCount": 1441,
-      "order": 335,
+      "order": 334,
       "id": "90699525b351c656"
     },
     {
@@ -232,7 +218,7 @@
         "项目管理"
       ],
       "wordCount": 630,
-      "order": 336,
+      "order": 335,
       "id": "eab70acdfe7615a2"
     },
     {
@@ -246,7 +232,7 @@
         "项目管理"
       ],
       "wordCount": 103,
-      "order": 337,
+      "order": 336,
       "id": "4c7b7662d15add9d"
     },
     {
@@ -259,7 +245,7 @@
         "软考备考"
       ],
       "wordCount": 397,
-      "order": 338,
+      "order": 337,
       "id": "b30fee4ba33b7b01"
     },
     {
@@ -272,7 +258,7 @@
         "软考备考"
       ],
       "wordCount": 465,
-      "order": 339,
+      "order": 338,
       "id": "011dc00feb20c036"
     },
     {
@@ -285,8 +271,24 @@
         "软考备考"
       ],
       "wordCount": 302,
-      "order": 340,
+      "order": 339,
       "id": "3e5307a35c773706"
+    },
+    {
+      "filename": "虚拟现实.json",
+      "title": "虚拟现实",
+      "description": "VR/AR/MR概念、关键技术及应用",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "VR",
+        "AR",
+        "MR",
+        "虚拟现实",
+        "人机交互"
+      ],
+      "wordCount": 880,
+      "order": 340,
+      "id": "61bb1bdbf5d1614e"
     }
   ]
 }

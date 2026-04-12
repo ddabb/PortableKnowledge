@@ -1,24 +1,8 @@
 {
   "page": 11,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
-    {
-      "filename": "指导与管理项目工作.json",
-      "title": "指导与管理项目工作",
-      "description": "指导与管理项目工作是为实现项目目标而领导和执行项目管理计划中所确定的工作，并实施已批准变更的过程。",
-      "category": "软考/项目管理/项目整合管理",
-      "tags": [
-        "执行过程组",
-        "指导与管理项目工作",
-        "项目管理",
-        "PMP",
-        "项目管理知识体系"
-      ],
-      "wordCount": 520,
-      "order": 201,
-      "id": "14ea8c91bcef0af7"
-    },
     {
       "filename": "制定项目管理计划.json",
       "title": "制定项目管理计划",
@@ -31,7 +15,7 @@
         "PMP"
       ],
       "wordCount": 744,
-      "order": 202,
+      "order": 201,
       "id": "a82dbfd2b93fd44d"
     },
     {
@@ -46,7 +30,7 @@
         "PMP"
       ],
       "wordCount": 156,
-      "order": 203,
+      "order": 202,
       "id": "63162142f65518b1"
     },
     {
@@ -60,7 +44,7 @@
         "项目管理知识体系"
       ],
       "wordCount": 179,
-      "order": 204,
+      "order": 203,
       "id": "8634320e182bffe2"
     },
     {
@@ -73,7 +57,7 @@
         "结束项目或阶段"
       ],
       "wordCount": 407,
-      "order": 205,
+      "order": 204,
       "id": "b99bdbdee9471a6f"
     },
     {
@@ -86,7 +70,7 @@
         "结束项目或阶段"
       ],
       "wordCount": 315,
-      "order": 206,
+      "order": 205,
       "id": "e54a0c340fec4444"
     },
     {
@@ -99,7 +83,7 @@
         "规划质量管理"
       ],
       "wordCount": 130,
-      "order": 207,
+      "order": 206,
       "id": "7097caaca7bf9743"
     },
     {
@@ -112,7 +96,7 @@
         "管理质量"
       ],
       "wordCount": 74,
-      "order": 208,
+      "order": 207,
       "id": "bc3fbb2dd384223f"
     },
     {
@@ -126,7 +110,7 @@
         "PMP"
       ],
       "wordCount": 795,
-      "order": 209,
+      "order": 208,
       "id": "f38088e7842c42d1"
     },
     {
@@ -140,7 +124,7 @@
         "PMP"
       ],
       "wordCount": 282,
-      "order": 210,
+      "order": 209,
       "id": "c6e7dc35d4c8568a"
     },
     {
@@ -153,7 +137,7 @@
         "控制质量"
       ],
       "wordCount": 119,
-      "order": 211,
+      "order": 210,
       "id": "37684b8ed8578972"
     },
     {
@@ -167,7 +151,7 @@
         "PMP"
       ],
       "wordCount": 487,
-      "order": 212,
+      "order": 211,
       "id": "e663371ad497f4b4"
     },
     {
@@ -180,7 +164,7 @@
         "管理质量"
       ],
       "wordCount": 137,
-      "order": 213,
+      "order": 212,
       "id": "ab06f4cc3a79b6e3"
     },
     {
@@ -193,7 +177,7 @@
         "管理质量"
       ],
       "wordCount": 224,
-      "order": 214,
+      "order": 213,
       "id": "15132b980e98ad35"
     },
     {
@@ -206,7 +190,7 @@
         "规划质量管理"
       ],
       "wordCount": 136,
-      "order": 215,
+      "order": 214,
       "id": "9363d42bace0eda2"
     },
     {
@@ -219,7 +203,7 @@
         "规划质量管理"
       ],
       "wordCount": 339,
-      "order": 216,
+      "order": 215,
       "id": "52b37bd8c2407c25"
     },
     {
@@ -232,7 +216,7 @@
         "控制质量"
       ],
       "wordCount": 45,
-      "order": 217,
+      "order": 216,
       "id": "acca4c93708b3a9e"
     },
     {
@@ -246,7 +230,7 @@
         "PMP"
       ],
       "wordCount": 333,
-      "order": 218,
+      "order": 217,
       "id": "9878126e40a3f0dc"
     },
     {
@@ -259,7 +243,7 @@
         "估算活动资源"
       ],
       "wordCount": 165,
-      "order": 219,
+      "order": 218,
       "id": "0fd6ba19450b9fc0"
     },
     {
@@ -273,8 +257,21 @@
         "PMP"
       ],
       "wordCount": 328,
-      "order": 220,
+      "order": 219,
       "id": "9661e913d265860b"
+    },
+    {
+      "filename": "规划资源管理.json",
+      "title": "规划资源管理",
+      "description": "规划资源管理是定义如何估算、获取、管理和利用团队以及实物资源的过程。",
+      "category": "软考/项目管理/项目资源管理",
+      "tags": [
+        "规划过程组",
+        "规划资源管理"
+      ],
+      "wordCount": 279,
+      "order": 220,
+      "id": "01a63edd5d738307"
     }
   ]
 }

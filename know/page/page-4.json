@@ -1,21 +1,8 @@
 {
   "page": 4,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
-    {
-      "filename": "供方选择分析.json",
-      "title": "供方选择分析",
-      "description": "在确定选择方法前，有必要审查项目竞争性需求的优先级。由于竞争性选择方法可能要求卖方在事前投入大量时间和资源，因此，应该在采购文件中写明评估方法，让投标人了解将会被如何评估。常用的选择方法包括：",
-      "category": "软考/项目管理/项目采购管理",
-      "tags": [
-        "规划过程组",
-        "规划采购管理"
-      ],
-      "wordCount": 709,
-      "order": 61,
-      "id": "308a5eef20844165"
-    },
     {
       "filename": "规划采购管理.json",
       "title": "规划采购管理",
@@ -28,7 +15,7 @@
         "PMP"
       ],
       "wordCount": 572,
-      "order": 62,
+      "order": 61,
       "id": "4e1cf37abc645ede"
     },
     {
@@ -42,7 +29,7 @@
         "采购管理"
       ],
       "wordCount": 819,
-      "order": 63,
+      "order": 62,
       "id": "e0adfdc0ddbf8e7f"
     },
     {
@@ -55,7 +42,7 @@
         "实施采购"
       ],
       "wordCount": 124,
-      "order": 64,
+      "order": 63,
       "id": "72381eb9662998a5"
     },
     {
@@ -70,7 +57,7 @@
         "PMP"
       ],
       "wordCount": 144,
-      "order": 65,
+      "order": 64,
       "id": "22aeda92d9eed2d8"
     },
     {
@@ -84,7 +71,7 @@
         "沟通管理"
       ],
       "wordCount": 101,
-      "order": 66,
+      "order": 65,
       "id": "e71bd9a86b0884c3"
     },
     {
@@ -97,7 +84,7 @@
         "实施采购"
       ],
       "wordCount": 228,
-      "order": 67,
+      "order": 66,
       "id": "f13aa9db6c9b5539"
     },
     {
@@ -111,7 +98,7 @@
         "采购管理"
       ],
       "wordCount": 562,
-      "order": 68,
+      "order": 67,
       "id": "9a1158ca7bcd1e07"
     },
     {
@@ -124,7 +111,7 @@
         "规划采购管理"
       ],
       "wordCount": 45,
-      "order": 69,
+      "order": 68,
       "id": "68f88beb26c7eb2b"
     },
     {
@@ -138,7 +125,7 @@
         "成本管理"
       ],
       "wordCount": 714,
-      "order": 70,
+      "order": 69,
       "id": "017f915b2c12e450"
     },
     {
@@ -152,7 +139,7 @@
         "成本管理"
       ],
       "wordCount": 55,
-      "order": 71,
+      "order": 70,
       "id": "496e1211d7f556a0"
     },
     {
@@ -166,7 +153,7 @@
         "成本管理"
       ],
       "wordCount": 370,
-      "order": 72,
+      "order": 71,
       "id": "1c79a882c451bb39"
     },
     {
@@ -181,7 +168,7 @@
         "PMP"
       ],
       "wordCount": 626,
-      "order": 73,
+      "order": 72,
       "id": "0d7ed7d87effec02"
     },
     {
@@ -196,7 +183,7 @@
         "PMP"
       ],
       "wordCount": 132,
-      "order": 74,
+      "order": 73,
       "id": "8522a691164308e6"
     },
     {
@@ -211,7 +198,7 @@
         "PMP"
       ],
       "wordCount": 494,
-      "order": 75,
+      "order": 74,
       "id": "1e682198df36b92b"
     },
     {
@@ -224,7 +211,7 @@
         "制定预算"
       ],
       "wordCount": 230,
-      "order": 76,
+      "order": 75,
       "id": "e91cd242e098f3d4"
     },
     {
@@ -237,7 +224,7 @@
         "制定预算"
       ],
       "wordCount": 69,
-      "order": 77,
+      "order": 76,
       "id": "0c27af636d6c3c63"
     },
     {
@@ -251,7 +238,7 @@
         "绩效管理"
       ],
       "wordCount": 494,
-      "order": 78,
+      "order": 77,
       "id": "82eb8041f152a6d1"
     },
     {
@@ -265,7 +252,7 @@
         "项目管理"
       ],
       "wordCount": 133,
-      "order": 79,
+      "order": 78,
       "id": "daa3243b5d47985f"
     },
     {
@@ -280,8 +267,21 @@
         "PMP"
       ],
       "wordCount": 192,
-      "order": 80,
+      "order": 79,
       "id": "5dc841d1121775f1"
+    },
+    {
+      "filename": "资金限制平衡.json",
+      "title": "资金限制平衡",
+      "description": "应该根据对项目资金的任何限制，来平衡资金支出。",
+      "category": "软考/项目管理/项目成本管理",
+      "tags": [
+        "规划过程组",
+        "制定预算"
+      ],
+      "wordCount": 90,
+      "order": 80,
+      "id": "114b7225d5813c39"
     }
   ]
 }

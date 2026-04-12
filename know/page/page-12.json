@@ -1,21 +1,8 @@
 {
   "page": 12,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
-    {
-      "filename": "规划资源管理.json",
-      "title": "规划资源管理",
-      "description": "规划资源管理是定义如何估算、获取、管理和利用团队以及实物资源的过程。",
-      "category": "软考/项目管理/项目资源管理",
-      "tags": [
-        "规划过程组",
-        "规划资源管理"
-      ],
-      "wordCount": 279,
-      "order": 221,
-      "id": "01a63edd5d738307"
-    },
     {
       "filename": "获取资源.json",
       "title": "获取资源",
@@ -26,7 +13,7 @@
         "获取资源"
       ],
       "wordCount": 548,
-      "order": 222,
+      "order": 221,
       "id": "a8fa10d83c9eb9d3"
     },
     {
@@ -39,7 +26,7 @@
         "建设团队"
       ],
       "wordCount": 126,
-      "order": 223,
+      "order": 222,
       "id": "ead4fa70837712ff"
     },
     {
@@ -52,7 +39,7 @@
         "建设团队"
       ],
       "wordCount": 1298,
-      "order": 224,
+      "order": 223,
       "id": "36b362c4aee4aee4"
     },
     {
@@ -65,7 +52,7 @@
         "控制资源"
       ],
       "wordCount": 444,
-      "order": 225,
+      "order": 224,
       "id": "cceca3c534f2abc2"
     },
     {
@@ -78,7 +65,7 @@
         "获取资源"
       ],
       "wordCount": 35,
-      "order": 226,
+      "order": 225,
       "id": "1e0202fa5984cddd"
     },
     {
@@ -92,7 +79,7 @@
         "绩效管理"
       ],
       "wordCount": 305,
-      "order": 227,
+      "order": 226,
       "id": "a0673db1bcac24d9"
     },
     {
@@ -105,7 +92,7 @@
         "规划资源管理"
       ],
       "wordCount": 268,
-      "order": 228,
+      "order": 227,
       "id": "5b78e02d470ba08d"
     },
     {
@@ -119,7 +106,7 @@
         "项目管理"
       ],
       "wordCount": 71,
-      "order": 229,
+      "order": 228,
       "id": "19afb3691bd370d0"
     },
     {
@@ -132,7 +119,7 @@
         "获取资源"
       ],
       "wordCount": 362,
-      "order": 230,
+      "order": 229,
       "id": "cc062b219cbffafb"
     },
     {
@@ -145,7 +132,7 @@
         "获取资源"
       ],
       "wordCount": 112,
-      "order": 231,
+      "order": 230,
       "id": "cc1096db754309d3"
     },
     {
@@ -158,7 +145,7 @@
         "规划资源管理"
       ],
       "wordCount": 398,
-      "order": 232,
+      "order": 231,
       "id": "8079f0e39b64ebf2"
     },
     {
@@ -171,7 +158,7 @@
         "估算活动资源"
       ],
       "wordCount": 146,
-      "order": 233,
+      "order": 232,
       "id": "f9b38973e9224d01"
     },
     {
@@ -184,7 +171,7 @@
         "规划资源管理"
       ],
       "wordCount": 747,
-      "order": 234,
+      "order": 233,
       "id": "987cb32455f8fe24"
     },
     {
@@ -197,7 +184,7 @@
         "获取资源"
       ],
       "wordCount": 161,
-      "order": 235,
+      "order": 234,
       "id": "4f9fc69f9d7a0617"
     },
     {
@@ -210,7 +197,7 @@
         "估算活动资源"
       ],
       "wordCount": 129,
-      "order": 236,
+      "order": 235,
       "id": "2b707efeafa1dd18"
     },
     {
@@ -223,7 +210,7 @@
         "规划资源管理"
       ],
       "wordCount": 139,
-      "order": 237,
+      "order": 236,
       "id": "b0c177fa33b187d4"
     },
     {
@@ -240,7 +227,7 @@
         "标准规范"
       ],
       "wordCount": 2401,
-      "order": 238,
+      "order": 237,
       "id": "42186c2eabc50a99"
     },
     {
@@ -255,7 +242,7 @@
         "合同管理"
       ],
       "wordCount": 1020,
-      "order": 239,
+      "order": 238,
       "id": "e4c6cd48577acb3a"
     },
     {
@@ -270,8 +257,23 @@
         "监理内容"
       ],
       "wordCount": 2569,
-      "order": 240,
+      "order": 239,
       "id": "39b7fc7cf3d2a90d"
+    },
+    {
+      "filename": "信息系统相关法律法规.json",
+      "title": "信息系统相关法律法规",
+      "description": "软考中项必备法律法规汇总，包括网络安全法、电子签名法、数据安全法及相关标准规范。",
+      "category": "软考/综合知识/法律法规与标准",
+      "tags": [
+        "法律法规",
+        "网络安全法",
+        "数据安全",
+        "中项核心"
+      ],
+      "wordCount": 1264,
+      "order": 240,
+      "id": "ddaa51fcc8bcde7e"
     }
   ]
 }

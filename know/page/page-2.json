@@ -1,7 +1,7 @@
 {
   "page": 2,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
     {
       "filename": "交通事故处理完全指南.json",
@@ -82,20 +82,6 @@
     },
     {
       "filename": "核心考点.json",
-      "title": "法律职业资格考试核心考点",
-      "description": "法考备考知识体系：民法、刑法、行政法、商经法、理论法、三国法核心考点",
-      "category": "法律职业资格考试",
-      "tags": [
-        "法考",
-        "民法",
-        "刑法"
-      ],
-      "wordCount": 31,
-      "order": 26,
-      "id": "c4080d3ae8bea3ff"
-    },
-    {
-      "filename": "核心考点.json",
       "title": "公务员考试核心考点",
       "description": "公考备考知识体系：行测、申论核心考点",
       "category": "公务员",
@@ -105,7 +91,7 @@
         "申论"
       ],
       "wordCount": 28,
-      "order": 27,
+      "order": 26,
       "id": "7a8272032cf6c22c"
     },
     {
@@ -121,7 +107,7 @@
         "重疾险"
       ],
       "wordCount": 1748,
-      "order": 28,
+      "order": 27,
       "id": "1a1765f5f82e8c9b"
     },
     {
@@ -136,7 +122,7 @@
         "汇算清缴"
       ],
       "wordCount": 2219,
-      "order": 29,
+      "order": 28,
       "id": "313befdbd2156ccb"
     },
     {
@@ -151,7 +137,7 @@
         "价值投资"
       ],
       "wordCount": 871,
-      "order": 30,
+      "order": 29,
       "id": "09a2db743a62a947"
     },
     {
@@ -166,7 +152,7 @@
         "合法节税"
       ],
       "wordCount": 2057,
-      "order": 31,
+      "order": 30,
       "id": "8918cf37f7e3d190"
     },
     {
@@ -181,7 +167,7 @@
         "资产配置"
       ],
       "wordCount": 1735,
-      "order": 32,
+      "order": 31,
       "id": "2dbf3ed33b83b24c"
     },
     {
@@ -196,7 +182,7 @@
         "家庭财务"
       ],
       "wordCount": 2223,
-      "order": 33,
+      "order": 32,
       "id": "6f7af19d56814a8a"
     },
     {
@@ -211,7 +197,7 @@
         "免息期"
       ],
       "wordCount": 2142,
-      "order": 34,
+      "order": 33,
       "id": "7143f08329e2f263"
     },
     {
@@ -225,7 +211,7 @@
         "二建"
       ],
       "wordCount": 28,
-      "order": 35,
+      "order": 34,
       "id": "891b181955bf8c6c"
     },
     {
@@ -239,7 +225,7 @@
         "心理学"
       ],
       "wordCount": 30,
-      "order": 36,
+      "order": 35,
       "id": "bd7849ae8f9e3d7a"
     },
     {
@@ -253,7 +239,7 @@
         "教育学"
       ],
       "wordCount": 28,
-      "order": 37,
+      "order": 36,
       "id": "0f7696138546b52b"
     },
     {
@@ -267,7 +253,7 @@
         "劳动法"
       ],
       "wordCount": 30,
-      "order": 38,
+      "order": 37,
       "id": "89130bc5d5b8903d"
     },
     {
@@ -282,7 +268,7 @@
         "认知偏差"
       ],
       "wordCount": 2478,
-      "order": 39,
+      "order": 38,
       "id": "91043131be67efa9"
     },
     {
@@ -297,8 +283,23 @@
         "元认知"
       ],
       "wordCount": 3016,
-      "order": 40,
+      "order": 39,
       "id": "da6e17856c62065a"
+    },
+    {
+      "filename": "可得性启发.json",
+      "title": "可得性启发",
+      "description": "为什么飞机失事新闻让你觉得坐飞机很危险？可得性启发解释了用易得性判断概率的心理偏差",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "可得性启发",
+        "心理学",
+        "认知偏差",
+        "判断与决策"
+      ],
+      "wordCount": 3619,
+      "order": 40,
+      "id": "4675ecc37817b94d"
     }
   ]
 }

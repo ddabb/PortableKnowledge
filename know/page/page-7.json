@@ -1,22 +1,8 @@
 {
   "page": 7,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
-    {
-      "filename": "定义活动.json",
-      "title": "定义活动",
-      "description": "定义活动是识别和记录为完成项目可交付成果而须采取的具体行动的过程。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "定义活动",
-        "PMP"
-      ],
-      "wordCount": 126,
-      "order": 121,
-      "id": "da2fa860be6604ed"
-    },
     {
       "filename": "估算活动持续时间.json",
       "title": "估算活动持续时间",
@@ -28,7 +14,7 @@
         "PMP"
       ],
       "wordCount": 258,
-      "order": 122,
+      "order": 121,
       "id": "19f8bf003aed33b3"
     },
     {
@@ -42,7 +28,7 @@
         "关键路径法"
       ],
       "wordCount": 824,
-      "order": 123,
+      "order": 122,
       "id": "6555826d5375b606"
     },
     {
@@ -56,7 +42,7 @@
         "PMP"
       ],
       "wordCount": 85,
-      "order": 124,
+      "order": 123,
       "id": "8a3549654510436e"
     },
     {
@@ -69,7 +55,7 @@
         "定义活动"
       ],
       "wordCount": 93,
-      "order": 125,
+      "order": 124,
       "id": "1a15255290fa30d5"
     },
     {
@@ -82,7 +68,7 @@
         "定义活动"
       ],
       "wordCount": 246,
-      "order": 126,
+      "order": 125,
       "id": "75fce6e89231ebd5"
     },
     {
@@ -95,7 +81,7 @@
         "排列活动顺序"
       ],
       "wordCount": 584,
-      "order": 127,
+      "order": 126,
       "id": "1fb4174840625f14"
     },
     {
@@ -108,7 +94,7 @@
         "规划进度管理"
       ],
       "wordCount": 718,
-      "order": 128,
+      "order": 127,
       "id": "8e4cff5ed8131a5a"
     },
     {
@@ -121,7 +107,7 @@
         "制定进度计划"
       ],
       "wordCount": 138,
-      "order": 129,
+      "order": 128,
       "id": "2825916f24013eba"
     },
     {
@@ -134,7 +120,7 @@
         "制定进度计划"
       ],
       "wordCount": 240,
-      "order": 130,
+      "order": 129,
       "id": "102170aee25e0d92"
     },
     {
@@ -147,7 +133,7 @@
         "制定进度计划"
       ],
       "wordCount": 242,
-      "order": 131,
+      "order": 130,
       "id": "3060f80b88c4fcfe"
     },
     {
@@ -160,7 +146,7 @@
         "制定进度计划"
       ],
       "wordCount": 474,
-      "order": 132,
+      "order": 131,
       "id": "5ddcd88950326e7e"
     },
     {
@@ -173,7 +159,7 @@
         "控制进度"
       ],
       "wordCount": 137,
-      "order": 133,
+      "order": 132,
       "id": "d6db94806b6a7a3e"
     },
     {
@@ -187,7 +173,7 @@
         "PMP"
       ],
       "wordCount": 571,
-      "order": 134,
+      "order": 133,
       "id": "d635afeb4ca8807b"
     },
     {
@@ -200,7 +186,7 @@
         "估算活动持续时间"
       ],
       "wordCount": 387,
-      "order": 135,
+      "order": 134,
       "id": "bd1a0f152e0876e8"
     },
     {
@@ -214,7 +200,7 @@
         "里程碑"
       ],
       "wordCount": 121,
-      "order": 136,
+      "order": 135,
       "id": "88cad64868415f9f"
     },
     {
@@ -229,7 +215,7 @@
         "Sprint"
       ],
       "wordCount": 192,
-      "order": 137,
+      "order": 136,
       "id": "4d8307b3d976ce48"
     },
     {
@@ -243,7 +229,7 @@
         "PMP"
       ],
       "wordCount": 288,
-      "order": 138,
+      "order": 137,
       "id": "b83a5f22404ca111"
     },
     {
@@ -256,7 +242,7 @@
         "排列活动顺序"
       ],
       "wordCount": 843,
-      "order": 139,
+      "order": 138,
       "id": "532f410512e9c743"
     },
     {
@@ -269,8 +255,21 @@
         "估算活动持续时间"
       ],
       "wordCount": 335,
-      "order": 140,
+      "order": 139,
       "id": "0d29dc98f6439f7d"
+    },
+    {
+      "filename": "提前量和滞后量.json",
+      "title": "提前量和滞后量",
+      "description": "提前量是相对于紧前活动，紧后活动可以提前的时间量。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "排列活动顺序"
+      ],
+      "wordCount": 111,
+      "order": 140,
+      "id": "444b1c4edb821983"
     }
   ]
 }

@@ -1,24 +1,8 @@
 {
   "page": 15,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
-    {
-      "filename": "网络架构.json",
-      "title": "网络架构",
-      "description": "网络架构设计、网络分层",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "网络架构",
-        "局域网",
-        "广域网",
-        "移动通信网",
-        "SDN"
-      ],
-      "wordCount": 1050,
-      "order": 281,
-      "id": "57f12946f1cedfe6"
-    },
     {
       "filename": "系统集成概述.json",
       "title": "系统集成概述",
@@ -31,7 +15,7 @@
         "中项核心"
       ],
       "wordCount": 954,
-      "order": 282,
+      "order": 281,
       "id": "424f5eb505d95974"
     },
     {
@@ -47,7 +31,7 @@
         "价值驱动"
       ],
       "wordCount": 1213,
-      "order": 283,
+      "order": 282,
       "id": "4d18d608c6f5855a"
     },
     {
@@ -62,7 +46,7 @@
         "等级保护"
       ],
       "wordCount": 1272,
-      "order": 284,
+      "order": 283,
       "id": "0abfa84f1b5a76b3"
     },
     {
@@ -80,7 +64,7 @@
         "资源"
       ],
       "wordCount": 991,
-      "order": 285,
+      "order": 284,
       "id": "794574c48071d0bb"
     },
     {
@@ -93,7 +77,7 @@
         "软考备考"
       ],
       "wordCount": 543,
-      "order": 286,
+      "order": 285,
       "id": "1cd8778c4ef5a853"
     },
     {
@@ -109,7 +93,7 @@
         "业务应用集成"
       ],
       "wordCount": 1505,
-      "order": 287,
+      "order": 286,
       "id": "44ad11c8fc4dfbff"
     },
     {
@@ -125,7 +109,7 @@
         "分层分域"
       ],
       "wordCount": 844,
-      "order": 288,
+      "order": 287,
       "id": "e9f728e7f7a1ea26"
     },
     {
@@ -140,7 +124,7 @@
         "系统集成"
       ],
       "wordCount": 989,
-      "order": 289,
+      "order": 288,
       "id": "668c8b1ad8186950"
     },
     {
@@ -156,7 +140,7 @@
         "服务标准"
       ],
       "wordCount": 1161,
-      "order": 290,
+      "order": 289,
       "id": "d10daa126be329b3"
     },
     {
@@ -173,7 +157,7 @@
         "退役终止"
       ],
       "wordCount": 1009,
-      "order": 291,
+      "order": 290,
       "id": "38d665afd4e8415a"
     },
     {
@@ -188,7 +172,7 @@
         "软件开发"
       ],
       "wordCount": 1107,
-      "order": 292,
+      "order": 291,
       "id": "192a488ce8718492"
     },
     {
@@ -202,7 +186,7 @@
         "开发活动"
       ],
       "wordCount": 705,
-      "order": 293,
+      "order": 292,
       "id": "65185a18e8df025f"
     },
     {
@@ -218,7 +202,7 @@
         "SOA"
       ],
       "wordCount": 1156,
-      "order": 294,
+      "order": 293,
       "id": "f8a4a873312b7ef4"
     },
     {
@@ -233,7 +217,7 @@
         "敏捷开发"
       ],
       "wordCount": 982,
-      "order": 295,
+      "order": 294,
       "id": "ec7d44d960838dac"
     },
     {
@@ -249,7 +233,7 @@
         "设计模式"
       ],
       "wordCount": 1711,
-      "order": 296,
+      "order": 295,
       "id": "008f8f7950c935c7"
     },
     {
@@ -264,7 +248,7 @@
         "软件测试"
       ],
       "wordCount": 1456,
-      "order": 297,
+      "order": 296,
       "id": "2a9e91bd4e628181"
     },
     {
@@ -279,7 +263,7 @@
         "主题库"
       ],
       "wordCount": 1694,
-      "order": 298,
+      "order": 297,
       "id": "b049e1747ee3425b"
     },
     {
@@ -294,7 +278,7 @@
         "数据存储"
       ],
       "wordCount": 1434,
-      "order": 299,
+      "order": 298,
       "id": "5abc3a58e7e58910"
     },
     {
@@ -309,8 +293,23 @@
         "数据可视化"
       ],
       "wordCount": 1783,
-      "order": 300,
+      "order": 299,
       "id": "4d49fa1d72cc021d"
+    },
+    {
+      "filename": "数据治理.json",
+      "title": "数据治理",
+      "description": "数据治理框架、数据标准化、数据质量管理",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "数据治理",
+        "数据标准化",
+        "数据质量",
+        "元数据"
+      ],
+      "wordCount": 1613,
+      "order": 300,
+      "id": "8f6593ae23dbd0c8"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "root",
   "path": "",
-  "count": 431,
+  "count": 430,
   "children": {
     "产品研发": {
       "name": "产品研发",
@@ -75,12 +75,6 @@
       "name": "法律常识",
       "path": "法律常识",
       "count": 7,
-      "children": {}
-    },
-    "法律职业资格考试": {
-      "name": "法律职业资格考试",
-      "path": "法律职业资格考试",
-      "count": 1,
       "children": {}
     },
     "公务员": {

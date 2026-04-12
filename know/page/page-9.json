@@ -1,22 +1,8 @@
 {
   "page": 9,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
-    {
-      "filename": "管理相关方参与.json",
-      "title": "管理相关方参与",
-      "description": "管理相关方参与是与相关方进行沟通和协作以满足其需求与期望、处理问题，并促进相关方合理参与的过程。",
-      "category": "软考/项目管理/项目相关方管理",
-      "tags": [
-        "执行过程组",
-        "管理相关方参与",
-        "干系人管理"
-      ],
-      "wordCount": 284,
-      "order": 161,
-      "id": "72514a4d3e030deb"
-    },
     {
       "filename": "规划相关方参与.json",
       "title": "规划相关方参与",
@@ -29,7 +15,7 @@
         "PMP"
       ],
       "wordCount": 758,
-      "order": 162,
+      "order": 161,
       "id": "438b63195512e8e3"
     },
     {
@@ -42,7 +28,7 @@
         "管理相关方参与"
       ],
       "wordCount": 47,
-      "order": 163,
+      "order": 162,
       "id": "f91eeaa8dbbea6ee"
     },
     {
@@ -57,7 +43,7 @@
         "PMP"
       ],
       "wordCount": 1506,
-      "order": 164,
+      "order": 163,
       "id": "f35731be72028bdd"
     },
     {
@@ -71,7 +57,7 @@
         "干系人管理"
       ],
       "wordCount": 102,
-      "order": 165,
+      "order": 164,
       "id": "c13edd1e2d41a88d"
     },
     {
@@ -86,7 +72,7 @@
         "PMP"
       ],
       "wordCount": 946,
-      "order": 166,
+      "order": 165,
       "id": "6c9a12a5b02fd37d"
     },
     {
@@ -100,7 +86,7 @@
         "干系人管理"
       ],
       "wordCount": 125,
-      "order": 167,
+      "order": 166,
       "id": "dff38ea467d9ec02"
     },
     {
@@ -114,7 +100,7 @@
         "干系人管理"
       ],
       "wordCount": 186,
-      "order": 168,
+      "order": 167,
       "id": "d9baa58c15d344a5"
     },
     {
@@ -126,7 +112,7 @@
         "事业环境因素"
       ],
       "wordCount": 228,
-      "order": 169,
+      "order": 168,
       "id": "d721b4503eb78770"
     },
     {
@@ -140,7 +126,7 @@
         "项目管理"
       ],
       "wordCount": 804,
-      "order": 170,
+      "order": 169,
       "id": "d1f34039b53443b6"
     },
     {
@@ -152,7 +138,7 @@
         "组织过程资产"
       ],
       "wordCount": 440,
-      "order": 171,
+      "order": 170,
       "id": "a95bb39eac989d91"
     },
     {
@@ -165,7 +151,7 @@
         "组织结构类型"
       ],
       "wordCount": 254,
-      "order": 172,
+      "order": 171,
       "id": "ee59cb9b92b9319e"
     },
     {
@@ -177,7 +163,7 @@
         "组织过程资产"
       ],
       "wordCount": 309,
-      "order": 173,
+      "order": 172,
       "id": "cea613f50d45af29"
     },
     {
@@ -194,7 +180,7 @@
         "版本发布"
       ],
       "wordCount": 2235,
-      "order": 174,
+      "order": 173,
       "id": "5272ad22c97769c4"
     },
     {
@@ -207,7 +193,7 @@
         "实施整体变更控制"
       ],
       "wordCount": 504,
-      "order": 175,
+      "order": 174,
       "id": "9cb4a96f3754083f"
     },
     {
@@ -220,7 +206,7 @@
         "指导与管理项目工作"
       ],
       "wordCount": 362,
-      "order": 176,
+      "order": 175,
       "id": "27fd21c181b893a9"
     },
     {
@@ -234,7 +220,7 @@
         "绩效管理"
       ],
       "wordCount": 255,
-      "order": 177,
+      "order": 176,
       "id": "0e976695340adbb2"
     },
     {
@@ -249,7 +235,7 @@
         "绩效指标"
       ],
       "wordCount": 210,
-      "order": 178,
+      "order": 177,
       "id": "12cfe09b1ae79faa"
     },
     {
@@ -263,7 +249,7 @@
         "绩效管理"
       ],
       "wordCount": 357,
-      "order": 179,
+      "order": 178,
       "id": "24e58ebee613bbbb"
     },
     {
@@ -278,8 +264,21 @@
         "PMP"
       ],
       "wordCount": 733,
-      "order": 180,
+      "order": 179,
       "id": "4f5b8de293ca7fc2"
+    },
+    {
+      "filename": "假设日志.json",
+      "title": "假设日志",
+      "description": "通常，在项目启动之前编制商业论证时，识别高层级的战略和运营假设条件与制约因素。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "启动过程组",
+        "制定项目章程"
+      ],
+      "wordCount": 136,
+      "order": 180,
+      "id": "7c8c40999a6d1bda"
     }
   ]
 }

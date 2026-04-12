@@ -1,23 +1,8 @@
 {
   "page": 16,
   "totalPages": 22,
-  "totalItems": 431,
+  "totalItems": 430,
   "items": [
-    {
-      "filename": "数据治理.json",
-      "title": "数据治理",
-      "description": "数据治理框架、数据标准化、数据质量管理",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "数据治理",
-        "数据标准化",
-        "数据质量",
-        "元数据"
-      ],
-      "wordCount": 1613,
-      "order": 301,
-      "id": "8f6593ae23dbd0c8"
-    },
     {
       "filename": "系统运行与维护.json",
       "title": "系统运行与维护",
@@ -30,7 +15,7 @@
         "软件开发"
       ],
       "wordCount": 1220,
-      "order": 302,
+      "order": 301,
       "id": "7fdb4b2adeb101bf"
     },
     {
@@ -45,7 +30,7 @@
         "需求变更"
       ],
       "wordCount": 1170,
-      "order": 303,
+      "order": 302,
       "id": "e6e021df007bc16e"
     },
     {
@@ -59,7 +44,7 @@
         "PMP"
       ],
       "wordCount": 642,
-      "order": 304,
+      "order": 303,
       "id": "fd1269f820880db7"
     },
     {
@@ -75,7 +60,7 @@
         "数据挖掘"
       ],
       "wordCount": 932,
-      "order": 305,
+      "order": 304,
       "id": "efd97da51b1af147"
     },
     {
@@ -87,7 +72,7 @@
         "指南概述和目的"
       ],
       "wordCount": 326,
-      "order": 306,
+      "order": 305,
       "id": "2f4ed6e3b5fc22fc"
     },
     {
@@ -100,7 +85,7 @@
         "软考备考"
       ],
       "wordCount": 544,
-      "order": 307,
+      "order": 306,
       "id": "3e722211e2851ef8"
     },
     {
@@ -114,7 +99,7 @@
         "PMBOK"
       ],
       "wordCount": 2007,
-      "order": 308,
+      "order": 307,
       "id": "736351a7ddd126ce"
     },
     {
@@ -127,7 +112,7 @@
         "指南的组成部分"
       ],
       "wordCount": 238,
-      "order": 309,
+      "order": 308,
       "id": "880fb41ab2ba7f95"
     },
     {
@@ -141,7 +126,7 @@
         "软考备考"
       ],
       "wordCount": 576,
-      "order": 310,
+      "order": 309,
       "id": "4469c5c0f3aaeb4e"
     },
     {
@@ -155,7 +140,7 @@
         "过程组"
       ],
       "wordCount": 1243,
-      "order": 311,
+      "order": 310,
       "id": "af83fb68563e0eb6"
     },
     {
@@ -172,7 +157,7 @@
         "私有链"
       ],
       "wordCount": 1001,
-      "order": 312,
+      "order": 311,
       "id": "258e3511c26a1d04"
     },
     {
@@ -188,7 +173,7 @@
         "专家系统"
       ],
       "wordCount": 854,
-      "order": 313,
+      "order": 312,
       "id": "5656b4a271e0fc8f"
     },
     {
@@ -202,7 +187,7 @@
         "过程组"
       ],
       "wordCount": 2654,
-      "order": 314,
+      "order": 313,
       "id": "0a1544ca6c74418b"
     },
     {
@@ -215,7 +200,7 @@
         "软考备考"
       ],
       "wordCount": 521,
-      "order": 315,
+      "order": 314,
       "id": "85c4495592491abf"
     },
     {
@@ -229,7 +214,7 @@
         "软考备考"
       ],
       "wordCount": 522,
-      "order": 316,
+      "order": 315,
       "id": "76e270fb7d4ada85"
     },
     {
@@ -244,7 +229,7 @@
         "软考备考"
       ],
       "wordCount": 513,
-      "order": 317,
+      "order": 316,
       "id": "fa5577833374eb8f"
     },
     {
@@ -258,7 +243,7 @@
         "软考备考"
       ],
       "wordCount": 544,
-      "order": 318,
+      "order": 317,
       "id": "0f7b8ce0aa2240ca"
     },
     {
@@ -270,7 +255,7 @@
         "指南概述和目的"
       ],
       "wordCount": 142,
-      "order": 319,
+      "order": 318,
       "id": "5c0b2ba4743c97f2"
     },
     {
@@ -287,8 +272,22 @@
         "传感器"
       ],
       "wordCount": 941,
-      "order": 320,
+      "order": 319,
       "id": "b746bfdc85417ffd"
+    },
+    {
+      "filename": "项目成功标准.json",
+      "title": "项目成功标准",
+      "description": "确定项目是否成功是项目管理中最常见的挑战之一。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "项目管理商业文件",
+        "项目管理"
+      ],
+      "wordCount": 692,
+      "order": 320,
+      "id": "6ec0aaca1247a97f"
     }
   ]
 }
