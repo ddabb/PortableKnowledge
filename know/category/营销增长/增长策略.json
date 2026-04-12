@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "category": "营销增长/增长策略",
+    "count": 3
+  },
+  "articles": [
+    {
+      "filename": "内容创作者涨粉完全指南.json",
+      "title": "内容创作者涨粉完全指南",
+      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "涨粉策略",
+        "粉丝增长",
+        "私域运营",
+        "账号运营"
+      ],
+      "wordCount": 3526,
+      "order": 356,
+      "id": "f88a1a6202a67dc7"
+    },
+    {
+      "filename": "私域流量运营完全指南.json",
+      "title": "私域流量运营完全指南",
+      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "私域流量",
+        "社群运营",
+        "用户运营",
+        "变现转化",
+        "微信生态"
+      ],
+      "wordCount": 4183,
+      "order": 357,
+      "id": "178fee16517bbef8"
+    },
+    {
+      "filename": "用户增长黑客AARRR模型指南.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 3364,
+      "order": 358,
+      "id": "b75bd2fc0a3bc9fc"
+    }
+  ]
+}

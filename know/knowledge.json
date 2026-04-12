@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 370,
-    "totalCategories": 43,
-    "totalTags": 566
+    "totalArticles": 376,
+    "totalCategories": 45,
+    "totalTags": 594
   },
   "categories": [
     {
@@ -123,6 +123,14 @@
     },
     {
       "name": "生活通识/健康养生",
+      "count": 3
+    },
+    {
+      "name": "营销增长/内容创作",
+      "count": 3
+    },
+    {
+      "name": "营销增长/增长策略",
       "count": 3
     },
     {
