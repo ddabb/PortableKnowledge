@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 376,
+    "totalArticles": 381,
     "totalCategories": 45,
-    "totalTags": 598
+    "totalTags": 623
   },
   "categories": [
     {
@@ -70,6 +70,10 @@
       "count": 8
     },
     {
+      "name": "生活通识/健康养生",
+      "count": 8
+    },
+    {
       "name": "法律常识",
       "count": 7
     },
@@ -119,10 +123,6 @@
     },
     {
       "name": "生活通识/安全防范",
-      "count": 3
-    },
-    {
-      "name": "生活通识/健康养生",
       "count": 3
     },
     {

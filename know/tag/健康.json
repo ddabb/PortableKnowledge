@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "健康",
-    "count": 4
+    "count": 3
   },
   "articles": [
     {
@@ -20,20 +20,6 @@
       "id": "e9687edd5b3a26f2"
     },
     {
-      "filename": "如何培养健康的睡眠习惯.json",
-      "title": "如何培养健康的睡眠习惯",
-      "description": "如何培养健康的睡眠习惯的核心知识点汇总",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "精力管理",
-        "睡眠",
-        "健康"
-      ],
-      "wordCount": 0,
-      "order": 344,
-      "id": "c4808af2f4cd96c9"
-    },
-    {
       "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
       "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",
       "description": "睡眠革命：从科学睡眠到能量管理的高效生活方式的核心知识点汇总",
@@ -44,7 +30,7 @@
         "健康"
       ],
       "wordCount": 5551,
-      "order": 345,
+      "order": 347,
       "id": "2cb0a104bfd0e6b4"
     },
     {
@@ -58,7 +44,7 @@
         "养生"
       ],
       "wordCount": 2923,
-      "order": 346,
+      "order": 348,
       "id": "e2e1ee67a7f1ddc6"
     }
   ]
