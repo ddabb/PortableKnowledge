@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "category": "职场生存/劳动权益",
+    "count": 6
+  },
+  "articles": [
+    {
+      "filename": "被裁员了怎么办.json",
+      "title": "被裁员了怎么办",
+      "description": "公司裁员后的应对步骤、合法权益和注意事项",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "裁员",
+        "劳动法",
+        "维权",
+        "职场"
+      ],
+      "wordCount": 1701,
+      "order": 355,
+      "id": "86d3a9ab107e00e0"
+    },
+    {
+      "filename": "labor-contract-guide.json",
+      "title": "劳动合同避坑指南",
+      "description": "详解签订劳动合同时的关键条款、常见陷阱与法律风险，助你避开职场法律坑洞",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "劳动合同",
+        "合同陷阱",
+        "职场法律",
+        "劳动权益",
+        "合同条款"
+      ],
+      "wordCount": 6124,
+      "order": 356,
+      "id": "a1da627e70381d38"
+    },
+    {
+      "filename": "劳动仲裁全流程.json",
+      "title": "劳动仲裁全流程",
+      "description": "劳动仲裁从准备到开庭的完整流程，包括材料准备、注意事项和常见问题",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "劳动仲裁",
+        "劳动法",
+        "维权",
+        "仲裁"
+      ],
+      "wordCount": 2133,
+      "order": 357,
+      "id": "e0293d6f0bd952ed"
+    },
+    {
+      "filename": "severance-and-bonus.json",
+      "title": "年终奖与离职补偿",
+      "description": "详解经济补偿金N、N+1、2N的计算标准，年终奖与期权处理规则，离职时的权益清单",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 6009,
+      "order": 358,
+      "id": "13576302b0338b96"
+    },
+    {
+      "filename": "social-insurance-guide.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
+      ],
+      "wordCount": 4647,
+      "order": 359,
+      "id": "4da3cd7439aa62f2"
+    },
+    {
+      "filename": "租房避坑指南.json",
+      "title": "租房避坑指南",
+      "description": "租房过程中需要注意的问题、常见陷阱和应对方法",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "租房",
+        "房屋租赁",
+        "合同",
+        "维权"
+      ],
+      "wordCount": 2002,
+      "order": 360,
+      "id": "ce7ac980fb29b413"
+    }
+  ]
+}

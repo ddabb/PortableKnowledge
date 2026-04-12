@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "category": "认知思维/思维工具",
+    "count": 4
+  },
+  "articles": [
+    {
+      "filename": "first-principles-thinking.json",
+      "title": "第一性原理思维",
+      "description": "从最基本的事实和假设出发，而非类比和模仿，重新构建认知和解决问题的思维方式",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "第一性原理",
+        "马斯克",
+        "创新思维",
+        "本质思考"
+      ],
+      "wordCount": 4577,
+      "order": 41,
+      "id": "0c6d7250e35c10e8"
+    },
+    {
+      "filename": "fermi-estimation.json",
+      "title": "费米估算",
+      "description": "在信息不足时做出合理估算的思维方法，通过分解问题、合理假设来逼近真实答案",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "费米问题",
+        "估算思维",
+        "量化分析",
+        "决策工具"
+      ],
+      "wordCount": 3718,
+      "order": 42,
+      "id": "f8c2ba84343993b8"
+    },
+    {
+      "filename": "six-thinking-hats.json",
+      "title": "六顶思考帽",
+      "description": "爱德华·德博诺博士创立的平行思维工具，通过六种颜色帽子代表六种思维模式，帮助团队高效决策",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "六顶思考帽",
+        "德博诺",
+        "团队决策",
+        "平行思维",
+        "会议工具"
+      ],
+      "wordCount": 5106,
+      "order": 43,
+      "id": "ff7e5c9787f9a609"
+    },
+    {
+      "filename": "思维导图应用_从思考到表达的可视化工具.json",
+      "title": "思维导图应用：从思考到表达的可视化工具",
+      "description": "思维导图应用：从思考到表达的可视化工具的核心知识点汇总",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "工具",
+        "可视化",
+        "思维导图"
+      ],
+      "wordCount": 1336,
+      "order": 44,
+      "id": "3aa1f3c2e74dd1cb"
+    }
+  ]
+}

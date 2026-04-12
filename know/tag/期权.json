@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "tag": "期权",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "severance-and-bonus.json",
+      "title": "年终奖与离职补偿",
+      "description": "详解经济补偿金N、N+1、2N的计算标准，年终奖与期权处理规则，离职时的权益清单",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 6009,
+      "order": 358,
+      "id": "13576302b0338b96"
+    }
+  ]
+}

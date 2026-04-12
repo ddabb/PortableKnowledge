@@ -15,7 +15,7 @@
         "采购管理"
       ],
       "wordCount": 599,
-      "order": 15,
+      "order": 48,
       "id": "9fcc2dd6613e23fa"
     },
     {
@@ -29,7 +29,7 @@
         "采购管理"
       ],
       "wordCount": 440,
-      "order": 16,
+      "order": 49,
       "id": "8cf027c4e9e7911b"
     },
     {
@@ -43,7 +43,7 @@
         "采购管理"
       ],
       "wordCount": 359,
-      "order": 18,
+      "order": 51,
       "id": "862c516b5d49d4ef"
     },
     {
@@ -57,7 +57,7 @@
         "成本管理"
       ],
       "wordCount": 114,
-      "order": 20,
+      "order": 53,
       "id": "cfc7640d4e3a2598"
     },
     {
@@ -70,7 +70,7 @@
         "规划采购管理"
       ],
       "wordCount": 307,
-      "order": 21,
+      "order": 54,
       "id": "aa5d1da7604d0cb5"
     },
     {
@@ -83,7 +83,7 @@
         "规划采购管理"
       ],
       "wordCount": 709,
-      "order": 22,
+      "order": 55,
       "id": "308a5eef20844165"
     },
     {
@@ -98,7 +98,7 @@
         "PMP"
       ],
       "wordCount": 572,
-      "order": 23,
+      "order": 56,
       "id": "4e1cf37abc645ede"
     },
     {
@@ -112,7 +112,7 @@
         "采购管理"
       ],
       "wordCount": 562,
-      "order": 29,
+      "order": 62,
       "id": "9a1158ca7bcd1e07"
     },
     {
@@ -125,7 +125,7 @@
         "规划采购管理"
       ],
       "wordCount": 45,
-      "order": 30,
+      "order": 63,
       "id": "68f88beb26c7eb2b"
     },
     {
@@ -139,7 +139,7 @@
         "成本管理"
       ],
       "wordCount": 714,
-      "order": 31,
+      "order": 64,
       "id": "017f915b2c12e450"
     },
     {
@@ -153,7 +153,7 @@
         "成本管理"
       ],
       "wordCount": 55,
-      "order": 32,
+      "order": 65,
       "id": "496e1211d7f556a0"
     },
     {
@@ -167,7 +167,7 @@
         "成本管理"
       ],
       "wordCount": 370,
-      "order": 33,
+      "order": 66,
       "id": "1c79a882c451bb39"
     },
     {
@@ -182,7 +182,7 @@
         "PMP"
       ],
       "wordCount": 626,
-      "order": 34,
+      "order": 67,
       "id": "0d7ed7d87effec02"
     },
     {
@@ -197,7 +197,7 @@
         "PMP"
       ],
       "wordCount": 132,
-      "order": 35,
+      "order": 68,
       "id": "8522a691164308e6"
     },
     {
@@ -210,7 +210,7 @@
         "制定预算"
       ],
       "wordCount": 230,
-      "order": 37,
+      "order": 70,
       "id": "e91cd242e098f3d4"
     },
     {
@@ -223,7 +223,7 @@
         "制定预算"
       ],
       "wordCount": 69,
-      "order": 38,
+      "order": 71,
       "id": "0c27af636d6c3c63"
     },
     {
@@ -237,7 +237,7 @@
         "项目管理"
       ],
       "wordCount": 133,
-      "order": 40,
+      "order": 73,
       "id": "daa3243b5d47985f"
     },
     {
@@ -252,7 +252,7 @@
         "PMP"
       ],
       "wordCount": 192,
-      "order": 41,
+      "order": 74,
       "id": "5dc841d1121775f1"
     },
     {
@@ -265,7 +265,7 @@
         "制定预算"
       ],
       "wordCount": 90,
-      "order": 42,
+      "order": 75,
       "id": "114b7225d5813c39"
     },
     {
@@ -279,7 +279,7 @@
         "产品经理"
       ],
       "wordCount": 182,
-      "order": 43,
+      "order": 76,
       "id": "0b97af8af28a4b5d"
     },
     {
@@ -294,7 +294,7 @@
         "PMP"
       ],
       "wordCount": 324,
-      "order": 44,
+      "order": 77,
       "id": "c4254a24136b8269"
     },
     {
@@ -308,7 +308,7 @@
         "PMP"
       ],
       "wordCount": 430,
-      "order": 46,
+      "order": 79,
       "id": "e9fcd2f975d3c694"
     },
     {
@@ -321,7 +321,7 @@
         "规划范围管理"
       ],
       "wordCount": 164,
-      "order": 47,
+      "order": 80,
       "id": "3b9161719c8a5d33"
     },
     {
@@ -334,7 +334,7 @@
         "创建WBS"
       ],
       "wordCount": 692,
-      "order": 48,
+      "order": 81,
       "id": "29d37eb97533efe1"
     },
     {
@@ -348,7 +348,7 @@
         "用户故事"
       ],
       "wordCount": 984,
-      "order": 49,
+      "order": 82,
       "id": "ef244496537a3cd2"
     },
     {
@@ -362,7 +362,7 @@
         "PMP"
       ],
       "wordCount": 298,
-      "order": 50,
+      "order": 83,
       "id": "7b6962fb2c1401bd"
     },
     {
@@ -376,7 +376,7 @@
         "PMP"
       ],
       "wordCount": 409,
-      "order": 53,
+      "order": 86,
       "id": "928246fd02149744"
     },
     {
@@ -389,7 +389,7 @@
         "收集需求"
       ],
       "wordCount": 115,
-      "order": 54,
+      "order": 87,
       "id": "a5cf3af1537b080a"
     },
     {
@@ -403,7 +403,7 @@
         "项目管理"
       ],
       "wordCount": 593,
-      "order": 55,
+      "order": 88,
       "id": "3b087e393c7e5877"
     },
     {
@@ -416,7 +416,7 @@
         "收集需求"
       ],
       "wordCount": 420,
-      "order": 56,
+      "order": 89,
       "id": "51001911022c597c"
     },
     {
@@ -429,7 +429,7 @@
         "规划范围管理"
       ],
       "wordCount": 211,
-      "order": 57,
+      "order": 90,
       "id": "7bf93afba4857c0b"
     },
     {
@@ -442,7 +442,7 @@
         "收集需求"
       ],
       "wordCount": 667,
-      "order": 58,
+      "order": 91,
       "id": "2e7081bcce679687"
     },
     {
@@ -455,7 +455,7 @@
         "收集需求"
       ],
       "wordCount": 316,
-      "order": 60,
+      "order": 93,
       "id": "e9bccdb0e43fed18"
     },
     {
@@ -468,7 +468,7 @@
         "实时定量风险分析"
       ],
       "wordCount": 375,
-      "order": 61,
+      "order": 94,
       "id": "f658eea5a3dd9086"
     },
     {
@@ -482,7 +482,7 @@
         "风险管理"
       ],
       "wordCount": 282,
-      "order": 62,
+      "order": 95,
       "id": "4d6365b8d14d49cc"
     },
     {
@@ -496,7 +496,7 @@
         "风险管理"
       ],
       "wordCount": 542,
-      "order": 63,
+      "order": 96,
       "id": "28fc22cb0d199fd4"
     },
     {
@@ -510,7 +510,7 @@
         "风险管理"
       ],
       "wordCount": 239,
-      "order": 64,
+      "order": 97,
       "id": "56fb9255815a34de"
     },
     {
@@ -525,7 +525,7 @@
         "PMP"
       ],
       "wordCount": 258,
-      "order": 65,
+      "order": 98,
       "id": "d068c1627934ffd0"
     },
     {
@@ -540,7 +540,7 @@
         "PMP"
       ],
       "wordCount": 692,
-      "order": 66,
+      "order": 99,
       "id": "209be3ae252eca20"
     },
     {
@@ -553,7 +553,7 @@
         "规划风险应对"
       ],
       "wordCount": 937,
-      "order": 67,
+      "order": 100,
       "id": "8b38bd1c3853acff"
     },
     {
@@ -568,7 +568,7 @@
         "PMP"
       ],
       "wordCount": 633,
-      "order": 69,
+      "order": 102,
       "id": "57ee24b1c0b9ab2f"
     },
     {
@@ -583,7 +583,7 @@
         "PMP"
       ],
       "wordCount": 1454,
-      "order": 70,
+      "order": 103,
       "id": "635fd39d6b9e5c81"
     },
     {
@@ -598,7 +598,7 @@
         "PMP"
       ],
       "wordCount": 575,
-      "order": 71,
+      "order": 104,
       "id": "57d35c318329aec5"
     },
     {
@@ -611,7 +611,7 @@
         "识别风险"
       ],
       "wordCount": 204,
-      "order": 73,
+      "order": 106,
       "id": "3ff25bbfbac781ff"
     },
     {
@@ -624,7 +624,7 @@
         "规划风险应对"
       ],
       "wordCount": 1101,
-      "order": 74,
+      "order": 107,
       "id": "2a4481f95be504d2"
     },
     {
@@ -637,7 +637,7 @@
         "规划风险应对"
       ],
       "wordCount": 193,
-      "order": 75,
+      "order": 108,
       "id": "f1480cb5bfd40872"
     },
     {
@@ -652,7 +652,7 @@
         "风险管理"
       ],
       "wordCount": 967,
-      "order": 76,
+      "order": 109,
       "id": "0a4634e4ade91002"
     },
     {
@@ -666,7 +666,7 @@
         "沟通管理"
       ],
       "wordCount": 430,
-      "order": 77,
+      "order": 110,
       "id": "2fb4a5543ab1ac1f"
     },
     {
@@ -680,7 +680,7 @@
         "沟通管理"
       ],
       "wordCount": 379,
-      "order": 79,
+      "order": 112,
       "id": "3c11c39f9425112d"
     },
     {
@@ -693,7 +693,7 @@
         "估算活动持续时间"
       ],
       "wordCount": 316,
-      "order": 81,
+      "order": 114,
       "id": "16861c0cd508cab0"
     },
     {
@@ -707,7 +707,7 @@
         "PMP"
       ],
       "wordCount": 126,
-      "order": 82,
+      "order": 115,
       "id": "da2fa860be6604ed"
     },
     {
@@ -721,7 +721,7 @@
         "PMP"
       ],
       "wordCount": 258,
-      "order": 83,
+      "order": 116,
       "id": "19f8bf003aed33b3"
     },
     {
@@ -735,7 +735,7 @@
         "关键路径法"
       ],
       "wordCount": 824,
-      "order": 84,
+      "order": 117,
       "id": "6555826d5375b606"
     },
     {
@@ -749,7 +749,7 @@
         "PMP"
       ],
       "wordCount": 85,
-      "order": 85,
+      "order": 118,
       "id": "8a3549654510436e"
     },
     {
@@ -762,7 +762,7 @@
         "定义活动"
       ],
       "wordCount": 93,
-      "order": 86,
+      "order": 119,
       "id": "1a15255290fa30d5"
     },
     {
@@ -775,7 +775,7 @@
         "定义活动"
       ],
       "wordCount": 246,
-      "order": 87,
+      "order": 120,
       "id": "75fce6e89231ebd5"
     },
     {
@@ -788,7 +788,7 @@
         "排列活动顺序"
       ],
       "wordCount": 584,
-      "order": 88,
+      "order": 121,
       "id": "1fb4174840625f14"
     },
     {
@@ -801,7 +801,7 @@
         "规划进度管理"
       ],
       "wordCount": 718,
-      "order": 89,
+      "order": 122,
       "id": "8e4cff5ed8131a5a"
     },
     {
@@ -814,7 +814,7 @@
         "制定进度计划"
       ],
       "wordCount": 138,
-      "order": 90,
+      "order": 123,
       "id": "2825916f24013eba"
     },
     {
@@ -827,7 +827,7 @@
         "制定进度计划"
       ],
       "wordCount": 240,
-      "order": 91,
+      "order": 124,
       "id": "102170aee25e0d92"
     },
     {
@@ -840,7 +840,7 @@
         "制定进度计划"
       ],
       "wordCount": 242,
-      "order": 92,
+      "order": 125,
       "id": "3060f80b88c4fcfe"
     },
     {
@@ -853,7 +853,7 @@
         "制定进度计划"
       ],
       "wordCount": 474,
-      "order": 93,
+      "order": 126,
       "id": "5ddcd88950326e7e"
     },
     {
@@ -866,7 +866,7 @@
         "估算活动持续时间"
       ],
       "wordCount": 387,
-      "order": 96,
+      "order": 129,
       "id": "bd1a0f152e0876e8"
     },
     {
@@ -880,7 +880,7 @@
         "里程碑"
       ],
       "wordCount": 121,
-      "order": 97,
+      "order": 130,
       "id": "88cad64868415f9f"
     },
     {
@@ -895,7 +895,7 @@
         "Sprint"
       ],
       "wordCount": 192,
-      "order": 98,
+      "order": 131,
       "id": "4d8307b3d976ce48"
     },
     {
@@ -909,7 +909,7 @@
         "PMP"
       ],
       "wordCount": 288,
-      "order": 99,
+      "order": 132,
       "id": "b83a5f22404ca111"
     },
     {
@@ -922,7 +922,7 @@
         "排列活动顺序"
       ],
       "wordCount": 843,
-      "order": 100,
+      "order": 133,
       "id": "532f410512e9c743"
     },
     {
@@ -935,7 +935,7 @@
         "估算活动持续时间"
       ],
       "wordCount": 335,
-      "order": 101,
+      "order": 134,
       "id": "0d29dc98f6439f7d"
     },
     {
@@ -948,7 +948,7 @@
         "排列活动顺序"
       ],
       "wordCount": 111,
-      "order": 102,
+      "order": 135,
       "id": "444b1c4edb821983"
     },
     {
@@ -962,7 +962,7 @@
         "项目管理"
       ],
       "wordCount": 834,
-      "order": 103,
+      "order": 136,
       "id": "59d8d780a40f80fa"
     },
     {
@@ -976,7 +976,7 @@
         "项目管理"
       ],
       "wordCount": 289,
-      "order": 104,
+      "order": 137,
       "id": "413e6895808be0d1"
     },
     {
@@ -990,7 +990,7 @@
         "项目管理"
       ],
       "wordCount": 134,
-      "order": 105,
+      "order": 138,
       "id": "69cd523233f1e5bd"
     },
     {
@@ -1004,7 +1004,7 @@
         "PMP"
       ],
       "wordCount": 1407,
-      "order": 106,
+      "order": 139,
       "id": "184356d41951ee82"
     },
     {
@@ -1017,7 +1017,7 @@
         "制定进度计划"
       ],
       "wordCount": 443,
-      "order": 107,
+      "order": 140,
       "id": "01ef55951df58c9e"
     },
     {
@@ -1030,7 +1030,7 @@
         "估算活动持续时间"
       ],
       "wordCount": 188,
-      "order": 108,
+      "order": 141,
       "id": "fcd73f1215a8cb4e"
     },
     {
@@ -1045,7 +1045,7 @@
         "PMP"
       ],
       "wordCount": 758,
-      "order": 123,
+      "order": 156,
       "id": "438b63195512e8e3"
     },
     {
@@ -1059,7 +1059,7 @@
         "干系人管理"
       ],
       "wordCount": 125,
-      "order": 128,
+      "order": 161,
       "id": "dff38ea467d9ec02"
     },
     {
@@ -1074,7 +1074,7 @@
         "PMP"
       ],
       "wordCount": 590,
-      "order": 147,
+      "order": 180,
       "id": "6bf029d6073301b2"
     },
     {
@@ -1088,7 +1088,7 @@
         "项目管理"
       ],
       "wordCount": 1070,
-      "order": 158,
+      "order": 191,
       "id": "6244dedc08adfad0"
     },
     {
@@ -1103,7 +1103,7 @@
         "PMP"
       ],
       "wordCount": 744,
-      "order": 163,
+      "order": 196,
       "id": "a82dbfd2b93fd44d"
     },
     {
@@ -1116,7 +1116,7 @@
         "规划质量管理"
       ],
       "wordCount": 130,
-      "order": 168,
+      "order": 201,
       "id": "7097caaca7bf9743"
     },
     {
@@ -1130,7 +1130,7 @@
         "PMP"
       ],
       "wordCount": 282,
-      "order": 171,
+      "order": 204,
       "id": "c6e7dc35d4c8568a"
     },
     {
@@ -1143,7 +1143,7 @@
         "规划质量管理"
       ],
       "wordCount": 136,
-      "order": 176,
+      "order": 209,
       "id": "9363d42bace0eda2"
     },
     {
@@ -1156,7 +1156,7 @@
         "规划质量管理"
       ],
       "wordCount": 339,
-      "order": 177,
+      "order": 210,
       "id": "52b37bd8c2407c25"
     },
     {
@@ -1170,7 +1170,7 @@
         "PMP"
       ],
       "wordCount": 333,
-      "order": 179,
+      "order": 212,
       "id": "9878126e40a3f0dc"
     },
     {
@@ -1183,7 +1183,7 @@
         "估算活动资源"
       ],
       "wordCount": 165,
-      "order": 180,
+      "order": 213,
       "id": "0fd6ba19450b9fc0"
     },
     {
@@ -1196,7 +1196,7 @@
         "规划资源管理"
       ],
       "wordCount": 279,
-      "order": 182,
+      "order": 215,
       "id": "01a63edd5d738307"
     },
     {
@@ -1209,7 +1209,7 @@
         "规划资源管理"
       ],
       "wordCount": 268,
-      "order": 189,
+      "order": 222,
       "id": "5b78e02d470ba08d"
     },
     {
@@ -1222,7 +1222,7 @@
         "规划资源管理"
       ],
       "wordCount": 398,
-      "order": 193,
+      "order": 226,
       "id": "8079f0e39b64ebf2"
     },
     {
@@ -1235,7 +1235,7 @@
         "估算活动资源"
       ],
       "wordCount": 146,
-      "order": 194,
+      "order": 227,
       "id": "f9b38973e9224d01"
     },
     {
@@ -1248,7 +1248,7 @@
         "规划资源管理"
       ],
       "wordCount": 747,
-      "order": 195,
+      "order": 228,
       "id": "987cb32455f8fe24"
     },
     {
@@ -1261,7 +1261,7 @@
         "估算活动资源"
       ],
       "wordCount": 129,
-      "order": 197,
+      "order": 230,
       "id": "2b707efeafa1dd18"
     },
     {
@@ -1274,7 +1274,7 @@
         "规划资源管理"
       ],
       "wordCount": 139,
-      "order": 198,
+      "order": 231,
       "id": "b0c177fa33b187d4"
     }
   ]

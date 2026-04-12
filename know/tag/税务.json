@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "税务",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "个人所得税申报完全指南.json",
+      "title": "个人所得税申报完全指南",
+      "description": "个税专项附加扣除填报、年终奖计税、汇算清缴操作指南",
+      "category": "家庭理财",
+      "tags": [
+        "个人所得税",
+        "税务",
+        "省钱",
+        "汇算清缴"
+      ],
+      "wordCount": 2219,
+      "order": 27,
+      "id": "313befdbd2156ccb"
+    }
+  ]
+}

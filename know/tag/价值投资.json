@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "价值投资",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "股票投资入门指南.json",
+      "title": "股票投资入门指南",
+      "description": "A股、港股、美股基础知识，开户流程，价值投资策略",
+      "category": "家庭理财",
+      "tags": [
+        "股票",
+        "投资理财",
+        "A股",
+        "价值投资"
+      ],
+      "wordCount": 871,
+      "order": 28,
+      "id": "09a2db743a62a947"
+    }
+  ]
+}

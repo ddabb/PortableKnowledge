@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "量化分析",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "fermi-estimation.json",
+      "title": "费米估算",
+      "description": "在信息不足时做出合理估算的思维方法，通过分解问题、合理假设来逼近真实答案",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "费米问题",
+        "估算思维",
+        "量化分析",
+        "决策工具"
+      ],
+      "wordCount": 3718,
+      "order": 42,
+      "id": "f8c2ba84343993b8"
+    }
+  ]
+}

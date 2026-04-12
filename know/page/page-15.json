@@ -1,296 +1,310 @@
 {
   "page": 15,
-  "totalPages": 18,
-  "totalItems": 350,
+  "totalPages": 19,
+  "totalItems": 370,
   "items": [
     {
-      "filename": "物联网.json",
-      "title": "物联网",
-      "description": "物联网的概念、架构、关键技术及应用场景",
-      "category": "软考/综合知识/引论",
+      "filename": "应用集成.json",
+      "title": "应用集成",
+      "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "IoT",
-        "感知层",
-        "网络层",
-        "应用层",
-        "RFID",
-        "传感器"
+        "应用集成",
+        "EAI",
+        "ESB",
+        "SOA",
+        "业务应用集成"
       ],
-      "wordCount": 941,
+      "wordCount": 1505,
       "order": 281,
-      "id": "b746bfdc85417ffd"
+      "id": "44ad11c8fc4dfbff"
     },
     {
-      "filename": "项目成功标准.json",
-      "title": "项目成功标准",
-      "description": "确定项目是否成功是项目管理中最常见的挑战之一。",
-      "category": "软考/综合知识/引论",
+      "filename": "应用架构.json",
+      "title": "应用架构",
+      "description": "应用架构模式、SOA与微服务",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
+        "应用架构",
+        "SOA",
+        "微服务",
+        "MVC",
+        "分层分域"
       ],
-      "wordCount": 692,
+      "wordCount": 844,
       "order": 282,
-      "id": "6ec0aaca1247a97f"
+      "id": "e9f728e7f7a1ea26"
     },
     {
-      "filename": "项目管理标准.json",
-      "title": "项目管理标准",
-      "description": "本指南基于《项目管理标准》[1]。标准是基于权威、惯例或共识而建立并用作模式或范例的文件。",
-      "category": "软考/综合知识/引论",
+      "filename": "云计算与虚拟化.json",
+      "title": "云计算与虚拟化",
+      "description": "软考中项云计算核心知识，包括云计算三种服务模式、四种部署方式及虚拟化技术要点。",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "指南概述和目的",
-        "项目管理",
-        "PMP"
+        "云计算",
+        "虚拟化",
+        "IaaS",
+        "系统集成"
       ],
-      "wordCount": 496,
+      "wordCount": 989,
       "order": 283,
-      "id": "d1462ae426957806"
+      "id": "668c8b1ad8186950"
     },
     {
-      "filename": "项目管理的重要性.json",
-      "title": "项目管理的重要性",
-      "description": "项目管理就是将知识、技能、工具与技术应用于项目活动，以满足项目的要求。",
-      "category": "软考/综合知识/引论",
+      "filename": "IT服务标准化.json",
+      "title": "IT服务标准化",
+      "description": "ITSS标准体系、服务标准及产业化",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "基本要素",
-        "项目管理"
+        "ITSS",
+        "服务标准化",
+        "服务产品化",
+        "服务产业化",
+        "服务标准"
       ],
-      "wordCount": 570,
+      "wordCount": 1161,
       "order": 284,
-      "id": "28fbf90f2e86835c"
+      "id": "d10daa126be329b3"
     },
     {
-      "filename": "项目管理过程.json",
-      "title": "项目管理过程",
-      "description": "项目生命周期是通过一系列项目管理活动进行的，即项目管理过程。",
-      "category": "软考/综合知识/引论",
+      "filename": "IT服务生命周期.json",
+      "title": "IT服务生命周期",
+      "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理",
-        "PMP",
-        "项目管理知识体系"
+        "ITSS",
+        "SDOR",
+        "战略规划",
+        "设计实现",
+        "运营提升",
+        "退役终止"
       ],
-      "wordCount": 466,
+      "wordCount": 1009,
       "order": 285,
-      "id": "be6b15a9b2452508"
+      "id": "38d665afd4e8415a"
     },
     {
-      "filename": "项目管理过程组.json",
-      "title": "项目管理过程组",
-      "description": "项目管理过程组指对项目管理过程进行逻辑分组，以达成项目的特定目标。过程组不同于项目阶段。项目管理过程可分为以下五个项目管理过程组：",
-      "category": "软考/综合知识/引论",
+      "filename": "软件测试.json",
+      "title": "软件测试",
+      "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理",
-        "项目管理知识体系"
+        "软件测试",
+        "黑盒测试",
+        "白盒测试",
+        "软件开发"
       ],
-      "wordCount": 421,
+      "wordCount": 1107,
       "order": 286,
-      "id": "f0df280cd576e7ae"
+      "id": "192a488ce8718492"
     },
     {
-      "filename": "项目管理数据和信息.json",
-      "title": "项目管理数据和信息",
-      "description": "整个项目生命周期需要收集、分析和转化大量的数据。",
-      "category": "软考/综合知识/引论",
+      "filename": "软件工程过程.json",
+      "title": "软件工程过程",
+      "description": "软件工程过程的定义、组成要素和主要活动",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理"
+        "软件工程",
+        "过程管理",
+        "开发活动"
       ],
-      "wordCount": 500,
+      "wordCount": 705,
       "order": 287,
-      "id": "f329a5f6998c2a5a"
+      "id": "65185a18e8df025f"
     },
     {
-      "filename": "项目管理原则.json",
-      "title": "项目管理原则",
-      "description": "PMBOK第7版定义的12个项目管理原则",
-      "category": "软考/综合知识/引论",
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "项目管理原则",
-        "PMP",
-        "PMBOK"
+        "软件集成",
+        "中间件",
+        "API",
+        "组件技术",
+        "SOA"
       ],
-      "wordCount": 2301,
+      "wordCount": 1156,
       "order": 288,
-      "id": "aa80d2be512fd91a"
+      "id": "f8a4a873312b7ef4"
     },
     {
-      "filename": "项目管理知识领域.json",
-      "title": "项目管理知识领域",
-      "description": "10个知识领域概述、5个过程组与知识领域的矩阵关系",
-      "category": "软考/综合知识/引论",
+      "filename": "软件开发模型.json",
+      "title": "软件开发模型",
+      "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷等模型的特点与适用场景。",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "知识领域",
-        "PMP",
-        "PMBOK",
-        "项目管理"
+        "软件开发",
+        "开发模型",
+        "瀑布模型",
+        "敏捷开发"
       ],
-      "wordCount": 1779,
+      "wordCount": 982,
       "order": 289,
-      "id": "21c05eebccbacefb"
+      "id": "ec7d44d960838dac"
     },
     {
-      "filename": "项目和开发生命周期.json",
-      "title": "项目和开发生命周期",
-      "description": "项目生命周期指项目从启动到完成所经历的一系列阶段。",
-      "category": "软考/综合知识/引论",
+      "filename": "软件设计.json",
+      "title": "软件设计",
+      "description": "结构化设计、面向对象设计、UML、设计原则",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理"
+        "软件设计",
+        "结构化设计",
+        "OOD",
+        "UML",
+        "设计模式"
       ],
-      "wordCount": 810,
+      "wordCount": 1711,
       "order": 290,
-      "id": "d3a5008427d010e5"
+      "id": "008f8f7950c935c7"
     },
     {
-      "filename": "项目基本要素.json",
-      "title": "项目基本要素",
-      "description": "项目基础概念、项目管理定义与作用、项目成功标准",
-      "category": "软考/综合知识/引论",
+      "filename": "软件质量保证.json",
+      "title": "软件质量保证",
+      "description": "软件质量管理、SQA活动、质量模型、测试方法",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "项目管理",
-        "项目基本要素",
-        "项目组合",
-        "项目集",
-        "运营管理"
+        "软件质量",
+        "SQA",
+        "CMMI",
+        "软件测试"
       ],
-      "wordCount": 2365,
+      "wordCount": 1456,
       "order": 291,
-      "id": "72a85e59bcb1b224"
+      "id": "2a9e91bd4e628181"
     },
     {
-      "filename": "项目阶段.json",
-      "title": "项目阶段",
-      "description": "项目阶段是一组具有逻辑关系的项目活动的集合，通常以一个或多个可交付成果的完成为结束。",
-      "category": "软考/综合知识/引论",
+      "filename": "数据仓库.json",
+      "title": "数据仓库",
+      "description": "数据仓库概念、特点、架构与数据资产管理",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理"
+        "数据仓库",
+        "OLAP",
+        "数据资产",
+        "主题库"
       ],
-      "wordCount": 577,
+      "wordCount": 1694,
       "order": 292,
-      "id": "a88a820aea654258"
+      "id": "b049e1747ee3425b"
     },
     {
-      "filename": "项目经理的角色.json",
-      "title": "项目经理的角色",
-      "description": "项目经理定义、所需技能和特性、人际关系技能、成功标准",
-      "category": "软考/综合知识/引论",
+      "filename": "数据工程概述.json",
+      "title": "数据工程概述",
+      "description": "数据工程概念、数据采集与预处理、数据存储与管理",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "项目经理",
-        "PMP",
-        "领导力",
-        "项目管理"
+        "数据工程",
+        "数据采集",
+        "数据预处理",
+        "数据存储"
       ],
-      "wordCount": 1359,
+      "wordCount": 1434,
       "order": 293,
-      "id": "902a832c9bbc0bdb"
+      "id": "5abc3a58e7e58910"
     },
     {
-      "filename": "项目立项管理.json",
-      "title": "项目立项管理",
-      "description": "项目建议与立项申请、可行性研究、项目评估与决策",
-      "category": "软考/综合知识/引论",
+      "filename": "数据挖掘.json",
+      "title": "数据挖掘",
+      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "项目立项",
-        "可行性研究",
-        "项目评估"
+        "数据挖掘",
+        "数据分析",
+        "数据集成",
+        "数据可视化"
       ],
-      "wordCount": 2367,
+      "wordCount": 1783,
       "order": 294,
-      "id": "97c4ef457af336d5"
+      "id": "4d49fa1d72cc021d"
     },
     {
-      "filename": "项目商业论证.json",
-      "title": "项目商业论证",
-      "description": "项目商业论证指文档化的经济可行性研究报告，用来对尚缺乏充分定义的所选方案的收益进行有效性论证，是启动后续项目管理活动的依据。",
+      "filename": "数据治理.json",
+      "title": "数据治理",
+      "description": "数据治理框架、数据标准化、数据质量管理",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "数据治理",
+        "数据标准化",
+        "数据质量",
+        "元数据"
+      ],
+      "wordCount": 1613,
+      "order": 295,
+      "id": "8f6593ae23dbd0c8"
+    },
+    {
+      "filename": "系统运行与维护.json",
+      "title": "系统运行与维护",
+      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "系统运维",
+        "SLA",
+        "ITIL",
+        "软件开发"
+      ],
+      "wordCount": 1220,
+      "order": 296,
+      "id": "7fdb4b2adeb101bf"
+    },
+    {
+      "filename": "需求工程.json",
+      "title": "需求工程",
+      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "需求工程",
+        "需求分析",
+        "SRS",
+        "需求变更"
+      ],
+      "wordCount": 1170,
+      "order": 297,
+      "id": "e6e021df007bc16e"
+    },
+    {
+      "filename": "裁剪.json",
+      "title": "裁剪",
+      "description": "项目经理通常将项目管理方法论应用于工作。方法论是由专门的从业人员所采用的实践、技术、程序和规则所组成的体系。根据这一定义，本指南本身并不是方法论。",
       "category": "软考/综合知识/引论",
       "tags": [
         "基本要素",
         "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 1007,
-      "order": 295,
-      "id": "5f441e7a3c4020d7"
-    },
-    {
-      "filename": "项目生命周期和项目阶段.json",
-      "title": "项目生命周期和项目阶段",
-      "description": "通用生命周期结构、特征、生命周期类型比较",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "项目生命周期",
-        "预测型",
-        "适应型",
-        "敏捷",
         "PMP"
       ],
-      "wordCount": 1441,
-      "order": 296,
-      "id": "90699525b351c656"
-    },
-    {
-      "filename": "项目效益管理计划.json",
-      "title": "项目效益管理计划",
-      "description": "项目效益管理计划描述了项目实现效益的方式和时间，以及应制定的效益衡量机制。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 630,
-      "order": 297,
-      "id": "eab70acdfe7615a2"
-    },
-    {
-      "filename": "项目章程和项目管理计划.json",
-      "title": "项目章程和项目管理计划",
-      "description": "项目章程是由项目发起人发布的，正式批准项目成立，并授权项目经理动用组织资源开展项目活动的文件。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 103,
+      "wordCount": 642,
       "order": 298,
-      "id": "4c7b7662d15add9d"
+      "id": "fd1269f820880db7"
     },
     {
-      "filename": "新型基础设施建设.json",
-      "title": "新型基础设施建设",
-      "description": "新型基础设施是以新发展理念为引领，以技术创新为驱动，以信息网络为基础，面向高质量发展需要，提供数字转型、智能升级、融合创新等服务的基础设施体系。",
+      "filename": "大数据.json",
+      "title": "大数据",
+      "description": "大数据特征、处理流程、关键技术及应用",
       "category": "软考/综合知识/引论",
       "tags": [
-        "新基建",
-        "软考备考"
+        "5V特征",
+        "数据处理",
+        "Hadoop",
+        "Spark",
+        "数据挖掘"
       ],
-      "wordCount": 397,
+      "wordCount": 932,
       "order": 299,
-      "id": "b30fee4ba33b7b01"
+      "id": "efd97da51b1af147"
     },
     {
-      "filename": "信息化基础.json",
-      "title": "信息化基础",
-      "description": "信息化是指培养、发展以计算机为主的智能化工具为代表的新生产力，并使之造福于社会的历史过程。国家信息化体系包括信息技术应用、信息资源、信息网络、信息技术和产业、信息化人才、信息化政策法规和标准规范6个要素。",
+      "filename": "道德与专业行为规范.json",
+      "title": "道德与专业行为规范",
+      "description": "PMI 发布了《道德与专业行为规范》[5]，为项目管理专业人员增强了信心并帮助个人做出明智的决策，尤其是在面对被要求违背正直诚信或价值观的困境时。",
       "category": "软考/综合知识/引论",
       "tags": [
-        "信息与信息化",
-        "软考备考"
+        "指南概述和目的"
       ],
-      "wordCount": 465,
+      "wordCount": 326,
       "order": 300,
-      "id": "011dc00feb20c036"
+      "id": "2f4ed6e3b5fc22fc"
     }
   ]
 }

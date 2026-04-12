@@ -1,14 +1,29 @@
 {
   "meta": {
     "tag": "劳动法",
-    "count": 2
+    "count": 3
   },
   "articles": [
+    {
+      "filename": "劳动合同法核心条款解读.json",
+      "title": "劳动合同法核心条款解读",
+      "description": "劳动者必知的劳动合同法核心条款解读，涵盖签订、履行、解除、赔偿等关键知识点",
+      "category": "法律常识",
+      "tags": [
+        "劳动合同法",
+        "劳动法",
+        "维权",
+        "职场"
+      ],
+      "wordCount": 1284,
+      "order": 22,
+      "id": "9caf5b452193904f"
+    },
     {
       "filename": "被裁员了怎么办.json",
       "title": "被裁员了怎么办",
       "description": "公司裁员后的应对步骤、合法权益和注意事项",
-      "category": "生活通识/法律常识",
+      "category": "职场生存/劳动权益",
       "tags": [
         "裁员",
         "劳动法",
@@ -16,14 +31,14 @@
         "职场"
       ],
       "wordCount": 1701,
-      "order": 313,
-      "id": "4bef0c41e8c64d74"
+      "order": 355,
+      "id": "86d3a9ab107e00e0"
     },
     {
       "filename": "劳动仲裁全流程.json",
       "title": "劳动仲裁全流程",
       "description": "劳动仲裁从准备到开庭的完整流程，包括材料准备、注意事项和常见问题",
-      "category": "生活通识/法律常识",
+      "category": "职场生存/劳动权益",
       "tags": [
         "劳动仲裁",
         "劳动法",
@@ -31,8 +46,8 @@
         "仲裁"
       ],
       "wordCount": 2133,
-      "order": 314,
-      "id": "d935d6041d76562b"
+      "order": 357,
+      "id": "e0293d6f0bd952ed"
     }
   ]
 }

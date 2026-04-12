@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "劳动保障",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "social-insurance-guide.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
+      ],
+      "wordCount": 4647,
+      "order": 359,
+      "id": "4da3cd7439aa62f2"
+    }
+  ]
+}

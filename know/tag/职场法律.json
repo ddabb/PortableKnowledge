@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "职场法律",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "labor-contract-guide.json",
+      "title": "劳动合同避坑指南",
+      "description": "详解签订劳动合同时的关键条款、常见陷阱与法律风险，助你避开职场法律坑洞",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "劳动合同",
+        "合同陷阱",
+        "职场法律",
+        "劳动权益",
+        "合同条款"
+      ],
+      "wordCount": 6124,
+      "order": 356,
+      "id": "a1da627e70381d38"
+    }
+  ]
+}
