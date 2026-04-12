@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "药师",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "核心考点.json",
+      "title": "执业药师核心考点",
+      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
+      "category": "执业药师",
+      "tags": [
+        "药师",
+        "药学",
+        "法规"
+      ],
+      "wordCount": 27,
+      "order": 411,
+      "id": "1ad4d4522a1af0f5"
+    }
+  ]
+}

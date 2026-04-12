@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "教资",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "核心考点.json",
+      "title": "教师资格证考试核心考点",
+      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
+      "category": "教师资格证",
+      "tags": [
+        "教资",
+        "教育学",
+        "心理学"
+      ],
+      "wordCount": 30,
+      "order": 36,
+      "id": "bd7849ae8f9e3d7a"
+    }
+  ]
+}

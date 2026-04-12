@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "民法",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "核心考点.json",
+      "title": "法律职业资格考试核心考点",
+      "description": "法考备考知识体系：民法、刑法、行政法、商经法、理论法、三国法核心考点",
+      "category": "法律职业资格考试",
+      "tags": [
+        "法考",
+        "民法",
+        "刑法"
+      ],
+      "wordCount": 31,
+      "order": 26,
+      "id": "c4080d3ae8bea3ff"
+    }
+  ]
+}

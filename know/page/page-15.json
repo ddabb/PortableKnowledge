@@ -1,8 +1,101 @@
 {
   "page": 15,
   "totalPages": 22,
-  "totalItems": 422,
+  "totalItems": 431,
   "items": [
+    {
+      "filename": "网络架构.json",
+      "title": "网络架构",
+      "description": "网络架构设计、网络分层",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "网络架构",
+        "局域网",
+        "广域网",
+        "移动通信网",
+        "SDN"
+      ],
+      "wordCount": 1050,
+      "order": 281,
+      "id": "57f12946f1cedfe6"
+    },
+    {
+      "filename": "系统集成概述.json",
+      "title": "系统集成概述",
+      "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "系统集成",
+        "信息系统",
+        "集成资质",
+        "中项核心"
+      ],
+      "wordCount": 954,
+      "order": 282,
+      "id": "424f5eb505d95974"
+    },
+    {
+      "filename": "系统架构.json",
+      "title": "系统架构",
+      "description": "架构概论、系统架构设计原则",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "系统架构",
+        "架构设计",
+        "TOGAF",
+        "ADM",
+        "价值驱动"
+      ],
+      "wordCount": 1213,
+      "order": 283,
+      "id": "4d18d608c6f5855a"
+    },
+    {
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
+      ],
+      "wordCount": 1272,
+      "order": 284,
+      "id": "0abfa84f1b5a76b3"
+    },
+    {
+      "filename": "信息技术服务.json",
+      "title": "信息技术服务",
+      "description": "IT服务内涵、特征、原理与组成",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "IT服务",
+        "PPTR",
+        "服务特征",
+        "人员",
+        "过程",
+        "技术",
+        "资源"
+      ],
+      "wordCount": 991,
+      "order": 285,
+      "id": "794574c48071d0bb"
+    },
+    {
+      "filename": "信息系统及其特性.json",
+      "title": "信息系统及其特性",
+      "description": "信息系统是结合管理理论和方法，应用信息技术解决管理问题，提高生产效率的系统。信息系统具有开放性、脆弱性和健壮性等突出特性。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息系统",
+        "软考备考"
+      ],
+      "wordCount": 543,
+      "order": 286,
+      "id": "1cd8778c4ef5a853"
+    },
     {
       "filename": "应用集成.json",
       "title": "应用集成",
@@ -16,7 +109,7 @@
         "业务应用集成"
       ],
       "wordCount": 1505,
-      "order": 281,
+      "order": 287,
       "id": "44ad11c8fc4dfbff"
     },
     {
@@ -32,7 +125,7 @@
         "分层分域"
       ],
       "wordCount": 844,
-      "order": 282,
+      "order": 288,
       "id": "e9f728e7f7a1ea26"
     },
     {
@@ -47,7 +140,7 @@
         "系统集成"
       ],
       "wordCount": 989,
-      "order": 283,
+      "order": 289,
       "id": "668c8b1ad8186950"
     },
     {
@@ -63,7 +156,7 @@
         "服务标准"
       ],
       "wordCount": 1161,
-      "order": 284,
+      "order": 290,
       "id": "d10daa126be329b3"
     },
     {
@@ -80,7 +173,7 @@
         "退役终止"
       ],
       "wordCount": 1009,
-      "order": 285,
+      "order": 291,
       "id": "38d665afd4e8415a"
     },
     {
@@ -95,7 +188,7 @@
         "软件开发"
       ],
       "wordCount": 1107,
-      "order": 286,
+      "order": 292,
       "id": "192a488ce8718492"
     },
     {
@@ -109,7 +202,7 @@
         "开发活动"
       ],
       "wordCount": 705,
-      "order": 287,
+      "order": 293,
       "id": "65185a18e8df025f"
     },
     {
@@ -125,7 +218,7 @@
         "SOA"
       ],
       "wordCount": 1156,
-      "order": 288,
+      "order": 294,
       "id": "f8a4a873312b7ef4"
     },
     {
@@ -140,7 +233,7 @@
         "敏捷开发"
       ],
       "wordCount": 982,
-      "order": 289,
+      "order": 295,
       "id": "ec7d44d960838dac"
     },
     {
@@ -156,7 +249,7 @@
         "设计模式"
       ],
       "wordCount": 1711,
-      "order": 290,
+      "order": 296,
       "id": "008f8f7950c935c7"
     },
     {
@@ -171,7 +264,7 @@
         "软件测试"
       ],
       "wordCount": 1456,
-      "order": 291,
+      "order": 297,
       "id": "2a9e91bd4e628181"
     },
     {
@@ -186,7 +279,7 @@
         "主题库"
       ],
       "wordCount": 1694,
-      "order": 292,
+      "order": 298,
       "id": "b049e1747ee3425b"
     },
     {
@@ -201,7 +294,7 @@
         "数据存储"
       ],
       "wordCount": 1434,
-      "order": 293,
+      "order": 299,
       "id": "5abc3a58e7e58910"
     },
     {
@@ -216,95 +309,8 @@
         "数据可视化"
       ],
       "wordCount": 1783,
-      "order": 294,
-      "id": "4d49fa1d72cc021d"
-    },
-    {
-      "filename": "数据治理.json",
-      "title": "数据治理",
-      "description": "数据治理框架、数据标准化、数据质量管理",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "数据治理",
-        "数据标准化",
-        "数据质量",
-        "元数据"
-      ],
-      "wordCount": 1613,
-      "order": 295,
-      "id": "8f6593ae23dbd0c8"
-    },
-    {
-      "filename": "系统运行与维护.json",
-      "title": "系统运行与维护",
-      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "系统运维",
-        "SLA",
-        "ITIL",
-        "软件开发"
-      ],
-      "wordCount": 1220,
-      "order": 296,
-      "id": "7fdb4b2adeb101bf"
-    },
-    {
-      "filename": "需求工程.json",
-      "title": "需求工程",
-      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "需求工程",
-        "需求分析",
-        "SRS",
-        "需求变更"
-      ],
-      "wordCount": 1170,
-      "order": 297,
-      "id": "e6e021df007bc16e"
-    },
-    {
-      "filename": "裁剪.json",
-      "title": "裁剪",
-      "description": "项目经理通常将项目管理方法论应用于工作。方法论是由专门的从业人员所采用的实践、技术、程序和规则所组成的体系。根据这一定义，本指南本身并不是方法论。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "PMP"
-      ],
-      "wordCount": 642,
-      "order": 298,
-      "id": "fd1269f820880db7"
-    },
-    {
-      "filename": "大数据.json",
-      "title": "大数据",
-      "description": "大数据特征、处理流程、关键技术及应用",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "5V特征",
-        "数据处理",
-        "Hadoop",
-        "Spark",
-        "数据挖掘"
-      ],
-      "wordCount": 932,
-      "order": 299,
-      "id": "efd97da51b1af147"
-    },
-    {
-      "filename": "道德与专业行为规范.json",
-      "title": "道德与专业行为规范",
-      "description": "PMI 发布了《道德与专业行为规范》[5]，为项目管理专业人员增强了信心并帮助个人做出明智的决策，尤其是在面对被要求违背正直诚信或价值观的困境时。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "指南概述和目的"
-      ],
-      "wordCount": 326,
       "order": 300,
-      "id": "2f4ed6e3b5fc22fc"
+      "id": "4d49fa1d72cc021d"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "劳动法",
-    "count": 3
+    "count": 4
   },
   "articles": [
     {
@@ -20,6 +20,20 @@
       "id": "9caf5b452193904f"
     },
     {
+      "filename": "核心考点.json",
+      "title": "人力资源管理师核心考点",
+      "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源",
+        "HR",
+        "劳动法"
+      ],
+      "wordCount": 30,
+      "order": 38,
+      "id": "89130bc5d5b8903d"
+    },
+    {
       "filename": "被裁员了怎么办.json",
       "title": "被裁员了怎么办",
       "description": "公司裁员后的应对步骤、合法权益和注意事项",
@@ -31,7 +45,7 @@
         "职场"
       ],
       "wordCount": 1701,
-      "order": 407,
+      "order": 414,
       "id": "86d3a9ab107e00e0"
     },
     {
@@ -46,7 +60,7 @@
         "仲裁"
       ],
       "wordCount": 2133,
-      "order": 409,
+      "order": 416,
       "id": "e0293d6f0bd952ed"
     }
   ]

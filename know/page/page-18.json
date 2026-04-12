@@ -1,8 +1,98 @@
 {
   "page": 18,
   "totalPages": 22,
-  "totalItems": 422,
+  "totalItems": 431,
   "items": [
+    {
+      "filename": "虚拟现实.json",
+      "title": "虚拟现实",
+      "description": "VR/AR/MR概念、关键技术及应用",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "VR",
+        "AR",
+        "MR",
+        "虚拟现实",
+        "人机交互"
+      ],
+      "wordCount": 880,
+      "order": 341,
+      "id": "61bb1bdbf5d1614e"
+    },
+    {
+      "filename": "元宇宙.json",
+      "title": "元宇宙",
+      "description": "元宇宙是利用科技手段进行链接与创造的，与现实世界映射与交互的虚拟世界，具备新型社会体系的数字生活空间。主要特征包括沉浸式体验、虚拟身份、虚拟经济和虚拟社会治理。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "元宇宙",
+        "数字化转型",
+        "软考备考"
+      ],
+      "wordCount": 409,
+      "order": 342,
+      "id": "be384342350e68e2"
+    },
+    {
+      "filename": "云计算.json",
+      "title": "云计算",
+      "description": "云计算概念、服务模式、部署模式及关键技术",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "虚拟化",
+        "云存储",
+        "分布式计算"
+      ],
+      "wordCount": 994,
+      "order": 343,
+      "id": "51de51bc04ef8c7d"
+    },
+    {
+      "filename": "指南概述和目的.json",
+      "title": "指南概述和目的",
+      "description": "项目管理并非新概念，它已存在数百年之久。项目成果的例子包括：",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "指南概述和目的",
+        "PMP"
+      ],
+      "wordCount": 918,
+      "order": 344,
+      "id": "8105ec5194a73f2f"
+    },
+    {
+      "filename": "PMBOK的发展.json",
+      "title": "PMBOK的发展",
+      "description": "PMBOK各版本演变历程及关键变化",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "PMBOK",
+        "PMI",
+        "项目管理",
+        "版本演变"
+      ],
+      "wordCount": 986,
+      "order": 345,
+      "id": "e5768cb7ba885bba"
+    },
+    {
+      "filename": "谨防电信网络诈骗.json",
+      "title": "谨防电信网络诈骗",
+      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
+      "category": "生活通识/安全防范",
+      "tags": [
+        "诈骗",
+        "电信诈骗",
+        "网络安全",
+        "防骗"
+      ],
+      "wordCount": 1566,
+      "order": 346,
+      "id": "444d4679ff7bbc0e"
+    },
     {
       "filename": "日常生活诈骗防范.json",
       "title": "日常生活诈骗防范",
@@ -15,7 +105,7 @@
         "日常生活"
       ],
       "wordCount": 1473,
-      "order": 341,
+      "order": 347,
       "id": "ec65bf0a0ca6a151"
     },
     {
@@ -30,7 +120,7 @@
         "安全"
       ],
       "wordCount": 1897,
-      "order": 342,
+      "order": 348,
       "id": "e9687edd5b3a26f2"
     },
     {
@@ -45,7 +135,7 @@
         "急救技能"
       ],
       "wordCount": 1823,
-      "order": 343,
+      "order": 349,
       "id": "d5eb1e186390fa52"
     },
     {
@@ -61,7 +151,7 @@
         "致癌物"
       ],
       "wordCount": 2436,
-      "order": 344,
+      "order": 350,
       "id": "1bec7e1390f5bba6"
     },
     {
@@ -79,7 +169,7 @@
         "哮喘"
       ],
       "wordCount": 2823,
-      "order": 345,
+      "order": 351,
       "id": "ccdb2bcab32054e3"
     },
     {
@@ -94,7 +184,7 @@
         "睡眠质量"
       ],
       "wordCount": 1004,
-      "order": 346,
+      "order": 352,
       "id": "c4808af2f4cd96c9"
     },
     {
@@ -108,7 +198,7 @@
         "健康"
       ],
       "wordCount": 5551,
-      "order": 347,
+      "order": 353,
       "id": "2cb0a104bfd0e6b4"
     },
     {
@@ -122,7 +212,7 @@
         "养生"
       ],
       "wordCount": 2923,
-      "order": 348,
+      "order": 354,
       "id": "e2e1ee67a7f1ddc6"
     },
     {
@@ -138,7 +228,7 @@
         "三高"
       ],
       "wordCount": 2781,
-      "order": 349,
+      "order": 355,
       "id": "df2f529f056f18fc"
     },
     {
@@ -155,7 +245,7 @@
         "肠胃炎"
       ],
       "wordCount": 2992,
-      "order": 350,
+      "order": 356,
       "id": "b3353719b26acdc3"
     },
     {
@@ -172,7 +262,7 @@
         "冠心病"
       ],
       "wordCount": 2001,
-      "order": 351,
+      "order": 357,
       "id": "4f6a963b4988b3f5"
     },
     {
@@ -187,7 +277,7 @@
         "购房"
       ],
       "wordCount": 1696,
-      "order": 352,
+      "order": 358,
       "id": "09d203625e2ca62b"
     },
     {
@@ -202,7 +292,7 @@
         "社保"
       ],
       "wordCount": 1827,
-      "order": 353,
+      "order": 359,
       "id": "408af5b0b3d2eb72"
     },
     {
@@ -217,99 +307,8 @@
         "逃生"
       ],
       "wordCount": 877,
-      "order": 354,
-      "id": "be8e5050f8013cf0"
-    },
-    {
-      "filename": "洪水防范与应对.json",
-      "title": "洪水防范与应对",
-      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "洪水",
-        "自然灾害",
-        "防汛",
-        "应急"
-      ],
-      "wordCount": 842,
-      "order": 355,
-      "id": "ba444651c5345d81"
-    },
-    {
-      "filename": "火灾防范与逃生.json",
-      "title": "火灾防范与逃生",
-      "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "火灾",
-        "消防",
-        "逃生",
-        "安全"
-      ],
-      "wordCount": 1265,
-      "order": 356,
-      "id": "33c5e8b303ea8044"
-    },
-    {
-      "filename": "台风防范指南.json",
-      "title": "台风防范指南",
-      "description": "台风的形成、预警等级及防范措施",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "台风",
-        "自然灾害",
-        "风暴",
-        "防汛"
-      ],
-      "wordCount": 943,
-      "order": 357,
-      "id": "2411eb1484625054"
-    },
-    {
-      "filename": "心理学备考综合指南.json",
-      "title": "心理学备考综合指南",
-      "description": "心理学高频考点速查表、计算题公式汇总、简答论述答题模板、备考策略",
-      "category": "心理学/备考综合",
-      "tags": [
-        "心理学备考",
-        "高频考点",
-        "计算公式",
-        "答题模板"
-      ],
-      "wordCount": 2110,
-      "order": 358,
-      "id": "60572f522b335764"
-    },
-    {
-      "filename": "埃里克森心理社会发展阶段.json",
-      "title": "埃里克森心理社会发展阶段专题",
-      "description": "埃里克森八阶段论：每阶段的心理危机、发展任务及与皮亚杰的对应关系",
-      "category": "心理学/发展心理学",
-      "tags": [
-        "埃里克森",
-        "心理社会发展",
-        "自我同一性",
-        "信任"
-      ],
-      "wordCount": 1331,
-      "order": 359,
-      "id": "4ffa80d1b2387788"
-    },
-    {
-      "filename": "道德发展.json",
-      "title": "道德发展专题",
-      "description": "科尔伯格三水平六阶段理论、Piaget的道德发展理论、道德发展与认知发展的关系",
-      "category": "心理学/发展心理学",
-      "tags": [
-        "道德发展",
-        "科尔伯格",
-        "前习俗",
-        "习俗",
-        "后习俗"
-      ],
-      "wordCount": 1102,
       "order": 360,
-      "id": "d726a2e255cb8b6d"
+      "id": "be8e5050f8013cf0"
     }
   ]
 }

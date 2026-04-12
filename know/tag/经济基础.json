@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "经济基础",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "核心考点.json",
+      "title": "中级经济师核心考点",
+      "description": "经济师备考知识体系：经济基础、人力、金融、财政税收、工商管理",
+      "category": "中级经济师",
+      "tags": [
+        "经济师",
+        "经济基础",
+        "null"
+      ],
+      "wordCount": 28,
+      "order": 430,
+      "id": "c26b861be7d55dbf"
+    }
+  ]
+}

@@ -1,8 +1,94 @@
 {
   "page": 17,
   "totalPages": 22,
-  "totalItems": 422,
+  "totalItems": 431,
   "items": [
+    {
+      "filename": "项目成功标准.json",
+      "title": "项目成功标准",
+      "description": "确定项目是否成功是项目管理中最常见的挑战之一。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "项目管理商业文件",
+        "项目管理"
+      ],
+      "wordCount": 692,
+      "order": 321,
+      "id": "6ec0aaca1247a97f"
+    },
+    {
+      "filename": "项目管理标准.json",
+      "title": "项目管理标准",
+      "description": "本指南基于《项目管理标准》[1]。标准是基于权威、惯例或共识而建立并用作模式或范例的文件。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "指南概述和目的",
+        "项目管理",
+        "PMP"
+      ],
+      "wordCount": 496,
+      "order": 322,
+      "id": "d1462ae426957806"
+    },
+    {
+      "filename": "项目管理的重要性.json",
+      "title": "项目管理的重要性",
+      "description": "项目管理就是将知识、技能、工具与技术应用于项目活动，以满足项目的要求。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "项目管理"
+      ],
+      "wordCount": 570,
+      "order": 323,
+      "id": "28fbf90f2e86835c"
+    },
+    {
+      "filename": "项目管理过程.json",
+      "title": "项目管理过程",
+      "description": "项目生命周期是通过一系列项目管理活动进行的，即项目管理过程。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分",
+        "项目管理",
+        "PMP",
+        "项目管理知识体系"
+      ],
+      "wordCount": 466,
+      "order": 324,
+      "id": "be6b15a9b2452508"
+    },
+    {
+      "filename": "项目管理过程组.json",
+      "title": "项目管理过程组",
+      "description": "项目管理过程组指对项目管理过程进行逻辑分组，以达成项目的特定目标。过程组不同于项目阶段。项目管理过程可分为以下五个项目管理过程组：",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分",
+        "项目管理",
+        "项目管理知识体系"
+      ],
+      "wordCount": 421,
+      "order": 325,
+      "id": "f0df280cd576e7ae"
+    },
+    {
+      "filename": "项目管理数据和信息.json",
+      "title": "项目管理数据和信息",
+      "description": "整个项目生命周期需要收集、分析和转化大量的数据。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分",
+        "项目管理"
+      ],
+      "wordCount": 500,
+      "order": 326,
+      "id": "f329a5f6998c2a5a"
+    },
     {
       "filename": "项目管理原则.json",
       "title": "项目管理原则",
@@ -14,7 +100,7 @@
         "PMBOK"
       ],
       "wordCount": 2301,
-      "order": 321,
+      "order": 327,
       "id": "aa80d2be512fd91a"
     },
     {
@@ -29,7 +115,7 @@
         "项目管理"
       ],
       "wordCount": 1779,
-      "order": 322,
+      "order": 328,
       "id": "21c05eebccbacefb"
     },
     {
@@ -43,7 +129,7 @@
         "项目管理"
       ],
       "wordCount": 810,
-      "order": 323,
+      "order": 329,
       "id": "d3a5008427d010e5"
     },
     {
@@ -59,7 +145,7 @@
         "运营管理"
       ],
       "wordCount": 2365,
-      "order": 324,
+      "order": 330,
       "id": "72a85e59bcb1b224"
     },
     {
@@ -73,7 +159,7 @@
         "项目管理"
       ],
       "wordCount": 577,
-      "order": 325,
+      "order": 331,
       "id": "a88a820aea654258"
     },
     {
@@ -88,7 +174,7 @@
         "项目管理"
       ],
       "wordCount": 1359,
-      "order": 326,
+      "order": 332,
       "id": "902a832c9bbc0bdb"
     },
     {
@@ -102,7 +188,7 @@
         "项目评估"
       ],
       "wordCount": 2367,
-      "order": 327,
+      "order": 333,
       "id": "97c4ef457af336d5"
     },
     {
@@ -116,7 +202,7 @@
         "项目管理"
       ],
       "wordCount": 1007,
-      "order": 328,
+      "order": 334,
       "id": "5f441e7a3c4020d7"
     },
     {
@@ -132,7 +218,7 @@
         "PMP"
       ],
       "wordCount": 1441,
-      "order": 329,
+      "order": 335,
       "id": "90699525b351c656"
     },
     {
@@ -146,7 +232,7 @@
         "项目管理"
       ],
       "wordCount": 630,
-      "order": 330,
+      "order": 336,
       "id": "eab70acdfe7615a2"
     },
     {
@@ -160,7 +246,7 @@
         "项目管理"
       ],
       "wordCount": 103,
-      "order": 331,
+      "order": 337,
       "id": "4c7b7662d15add9d"
     },
     {
@@ -173,7 +259,7 @@
         "软考备考"
       ],
       "wordCount": 397,
-      "order": 332,
+      "order": 338,
       "id": "b30fee4ba33b7b01"
     },
     {
@@ -186,7 +272,7 @@
         "软考备考"
       ],
       "wordCount": 465,
-      "order": 333,
+      "order": 339,
       "id": "011dc00feb20c036"
     },
     {
@@ -199,98 +285,8 @@
         "软考备考"
       ],
       "wordCount": 302,
-      "order": 334,
-      "id": "3e5307a35c773706"
-    },
-    {
-      "filename": "虚拟现实.json",
-      "title": "虚拟现实",
-      "description": "VR/AR/MR概念、关键技术及应用",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "VR",
-        "AR",
-        "MR",
-        "虚拟现实",
-        "人机交互"
-      ],
-      "wordCount": 880,
-      "order": 335,
-      "id": "61bb1bdbf5d1614e"
-    },
-    {
-      "filename": "元宇宙.json",
-      "title": "元宇宙",
-      "description": "元宇宙是利用科技手段进行链接与创造的，与现实世界映射与交互的虚拟世界，具备新型社会体系的数字生活空间。主要特征包括沉浸式体验、虚拟身份、虚拟经济和虚拟社会治理。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "元宇宙",
-        "数字化转型",
-        "软考备考"
-      ],
-      "wordCount": 409,
-      "order": 336,
-      "id": "be384342350e68e2"
-    },
-    {
-      "filename": "云计算.json",
-      "title": "云计算",
-      "description": "云计算概念、服务模式、部署模式及关键技术",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "IaaS",
-        "PaaS",
-        "SaaS",
-        "虚拟化",
-        "云存储",
-        "分布式计算"
-      ],
-      "wordCount": 994,
-      "order": 337,
-      "id": "51de51bc04ef8c7d"
-    },
-    {
-      "filename": "指南概述和目的.json",
-      "title": "指南概述和目的",
-      "description": "项目管理并非新概念，它已存在数百年之久。项目成果的例子包括：",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "指南概述和目的",
-        "PMP"
-      ],
-      "wordCount": 918,
-      "order": 338,
-      "id": "8105ec5194a73f2f"
-    },
-    {
-      "filename": "PMBOK的发展.json",
-      "title": "PMBOK的发展",
-      "description": "PMBOK各版本演变历程及关键变化",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "PMBOK",
-        "PMI",
-        "项目管理",
-        "版本演变"
-      ],
-      "wordCount": 986,
-      "order": 339,
-      "id": "e5768cb7ba885bba"
-    },
-    {
-      "filename": "谨防电信网络诈骗.json",
-      "title": "谨防电信网络诈骗",
-      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
-      "category": "生活通识/安全防范",
-      "tags": [
-        "诈骗",
-        "电信诈骗",
-        "网络安全",
-        "防骗"
-      ],
-      "wordCount": 1566,
       "order": 340,
-      "id": "444d4679ff7bbc0e"
+      "id": "3e5307a35c773706"
     }
   ]
 }

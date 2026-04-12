@@ -1,7 +1,7 @@
 {
   "page": 2,
   "totalPages": 22,
-  "totalItems": 422,
+  "totalItems": 431,
   "items": [
     {
       "filename": "交通事故处理完全指南.json",
@@ -81,6 +81,34 @@
       "id": "ae37741ccee767b0"
     },
     {
+      "filename": "核心考点.json",
+      "title": "法律职业资格考试核心考点",
+      "description": "法考备考知识体系：民法、刑法、行政法、商经法、理论法、三国法核心考点",
+      "category": "法律职业资格考试",
+      "tags": [
+        "法考",
+        "民法",
+        "刑法"
+      ],
+      "wordCount": 31,
+      "order": 26,
+      "id": "c4080d3ae8bea3ff"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "公务员考试核心考点",
+      "description": "公考备考知识体系：行测、申论核心考点",
+      "category": "公务员",
+      "tags": [
+        "公考",
+        "行测",
+        "申论"
+      ],
+      "wordCount": 28,
+      "order": 27,
+      "id": "7a8272032cf6c22c"
+    },
+    {
       "filename": "保险配置完全指南.json",
       "title": "保险配置完全指南",
       "description": "普通人必买的保险类型、配置原则和避坑指南",
@@ -93,7 +121,7 @@
         "重疾险"
       ],
       "wordCount": 1748,
-      "order": 26,
+      "order": 28,
       "id": "1a1765f5f82e8c9b"
     },
     {
@@ -108,7 +136,7 @@
         "汇算清缴"
       ],
       "wordCount": 2219,
-      "order": 27,
+      "order": 29,
       "id": "313befdbd2156ccb"
     },
     {
@@ -123,7 +151,7 @@
         "价值投资"
       ],
       "wordCount": 871,
-      "order": 28,
+      "order": 30,
       "id": "09a2db743a62a947"
     },
     {
@@ -138,7 +166,7 @@
         "合法节税"
       ],
       "wordCount": 2057,
-      "order": 29,
+      "order": 31,
       "id": "8918cf37f7e3d190"
     },
     {
@@ -153,7 +181,7 @@
         "资产配置"
       ],
       "wordCount": 1735,
-      "order": 30,
+      "order": 32,
       "id": "2dbf3ed33b83b24c"
     },
     {
@@ -168,7 +196,7 @@
         "家庭财务"
       ],
       "wordCount": 2223,
-      "order": 31,
+      "order": 33,
       "id": "6f7af19d56814a8a"
     },
     {
@@ -183,8 +211,64 @@
         "免息期"
       ],
       "wordCount": 2142,
-      "order": 32,
+      "order": 34,
       "id": "7143f08329e2f263"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "建造师考试核心考点",
+      "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
+      "category": "建造师",
+      "tags": [
+        "建造师",
+        "一建",
+        "二建"
+      ],
+      "wordCount": 28,
+      "order": 35,
+      "id": "891b181955bf8c6c"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "教师资格证考试核心考点",
+      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
+      "category": "教师资格证",
+      "tags": [
+        "教资",
+        "教育学",
+        "心理学"
+      ],
+      "wordCount": 30,
+      "order": 36,
+      "id": "bd7849ae8f9e3d7a"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "考研专业课核心考点",
+      "description": "考研专业课：408计算机、311教育学、199管理类联考核心考点",
+      "category": "考研专业课",
+      "tags": [
+        "考研",
+        "计算机",
+        "教育学"
+      ],
+      "wordCount": 28,
+      "order": 37,
+      "id": "0f7696138546b52b"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "人力资源管理师核心考点",
+      "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源",
+        "HR",
+        "劳动法"
+      ],
+      "wordCount": 30,
+      "order": 38,
+      "id": "89130bc5d5b8903d"
     },
     {
       "filename": "沉没成本谬误.json",
@@ -198,7 +282,7 @@
         "认知偏差"
       ],
       "wordCount": 2478,
-      "order": 33,
+      "order": 39,
       "id": "91043131be67efa9"
     },
     {
@@ -213,98 +297,8 @@
         "元认知"
       ],
       "wordCount": 3016,
-      "order": 34,
-      "id": "da6e17856c62065a"
-    },
-    {
-      "filename": "可得性启发.json",
-      "title": "可得性启发",
-      "description": "为什么飞机失事新闻让你觉得坐飞机很危险？可得性启发解释了用易得性判断概率的心理偏差",
-      "category": "认知思维/认知偏差",
-      "tags": [
-        "可得性启发",
-        "心理学",
-        "认知偏差",
-        "判断与决策"
-      ],
-      "wordCount": 3619,
-      "order": 35,
-      "id": "4675ecc37817b94d"
-    },
-    {
-      "filename": "锚定效应.json",
-      "title": "锚定效应",
-      "description": "为什么第一印象如此重要？锚定效应解释了决策中的参照点偏差",
-      "category": "认知思维/认知偏差",
-      "tags": [
-        "锚定效应",
-        "心理学",
-        "决策",
-        "认知偏差"
-      ],
-      "wordCount": 2537,
-      "order": 36,
-      "id": "4f5314a5b9d0b6e8"
-    },
-    {
-      "filename": "破窗效应.json",
-      "title": "破窗效应",
-      "description": "为什么小问题会演变成大灾难？破窗效应解释了环境对行为的影响",
-      "category": "认知思维/认知偏差",
-      "tags": [
-        "破窗效应",
-        "心理学",
-        "社会心理",
-        "环境影响"
-      ],
-      "wordCount": 2125,
-      "order": 37,
-      "id": "796930636e0a62b7"
-    },
-    {
-      "filename": "认知失调.json",
-      "title": "认知失调",
-      "description": "为什么人会为自己的错误找借口？认知失调理论解释了人类自我合理化的心理机制",
-      "category": "认知思维/认知偏差",
-      "tags": [
-        "认知失调",
-        "心理学",
-        "自我认知",
-        "决策"
-      ],
-      "wordCount": 2271,
-      "order": 38,
-      "id": "5ca0965b90878ae0"
-    },
-    {
-      "filename": "损失厌恶.json",
-      "title": "损失厌恶",
-      "description": "为什么丢了100元的痛苦比捡到100元的快乐更强烈？损失厌恶揭示了人类对损失的强烈规避",
-      "category": "认知思维/认知偏差",
-      "tags": [
-        "损失厌恶",
-        "心理学",
-        "行为经济学",
-        "决策"
-      ],
-      "wordCount": 3455,
-      "order": 39,
-      "id": "157b97b670131781"
-    },
-    {
-      "filename": "习得性无助.json",
-      "title": "习得性无助",
-      "description": "为什么有些人放弃努力？习得性无助解释了\"认命\"的心理机制",
-      "category": "认知思维/认知偏差",
-      "tags": [
-        "习得性无助",
-        "心理学",
-        "抑郁",
-        "动机"
-      ],
-      "wordCount": 2846,
       "order": 40,
-      "id": "77c940dccbf39cd0"
+      "id": "da6e17856c62065a"
     }
   ]
 }

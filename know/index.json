@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 422,
-    "totalCategories": 54,
-    "totalTags": 790
+    "totalArticles": 431,
+    "totalCategories": 63,
+    "totalTags": 814
   },
   "categories": [
     {
@@ -206,6 +206,30 @@
       "count": 1
     },
     {
+      "name": "法律职业资格考试",
+      "count": 1
+    },
+    {
+      "name": "公务员",
+      "count": 1
+    },
+    {
+      "name": "建造师",
+      "count": 1
+    },
+    {
+      "name": "教师资格证",
+      "count": 1
+    },
+    {
+      "name": "考研专业课",
+      "count": 1
+    },
+    {
+      "name": "人力资源管理师",
+      "count": 1
+    },
+    {
       "name": "软考/综合知识/软考备考",
       "count": 1
     },
@@ -219,6 +243,18 @@
     },
     {
       "name": "心理学/备考综合",
+      "count": 1
+    },
+    {
+      "name": "执业药师",
+      "count": 1
+    },
+    {
+      "name": "中级经济师",
+      "count": 1
+    },
+    {
+      "name": "注册会计师",
       "count": 1
     }
   ],

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "tag": "教育学",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "核心考点.json",
+      "title": "教师资格证考试核心考点",
+      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
+      "category": "教师资格证",
+      "tags": [
+        "教资",
+        "教育学",
+        "心理学"
+      ],
+      "wordCount": 30,
+      "order": 36,
+      "id": "bd7849ae8f9e3d7a"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "考研专业课核心考点",
+      "description": "考研专业课：408计算机、311教育学、199管理类联考核心考点",
+      "category": "考研专业课",
+      "tags": [
+        "考研",
+        "计算机",
+        "教育学"
+      ],
+      "wordCount": 28,
+      "order": 37,
+      "id": "0f7696138546b52b"
+    }
+  ]
+}
