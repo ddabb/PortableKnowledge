@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "金融资产",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "金融资产.json",
+      "title": "金融资产",
+      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "金融资产",
+        "分类"
+      ],
+      "wordCount": 1398,
+      "order": 638,
+      "id": "0568b7fcfb220ec9"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "施工管理",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "建设工程施工管理.json",
+      "title": "建设工程施工管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "施工管理",
+        "建造师"
+      ],
+      "wordCount": 451,
+      "order": 49,
+      "id": "6a8179b10f109354"
+    }
+  ]
+}

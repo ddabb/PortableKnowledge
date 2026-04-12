@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tag": "内部控制",
+    "count": 6
+  },
+  "articles": [
+    {
+      "filename": "内部控制.json",
+      "title": "内部控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "内部控制",
+        "COSO框架",
+        "CPA"
+      ],
+      "wordCount": 353,
+      "order": 626,
+      "id": "2f119a4f008efbc3"
+    },
+    {
+      "filename": "采购与付款循环审计.json",
+      "title": "采购与付款循环审计",
+      "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "采购与付款循环",
+        "内部控制"
+      ],
+      "wordCount": 1060,
+      "order": 665,
+      "id": "5e0a4dc4e760fc53"
+    },
+    {
+      "filename": "货币资金审计.json",
+      "title": "货币资金审计",
+      "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "货币资金",
+        "内部控制"
+      ],
+      "wordCount": 784,
+      "order": 668,
+      "id": "bd85c1e789684a32"
+    },
+    {
+      "filename": "内部控制审计.json",
+      "title": "内部控制审计",
+      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "内部控制审计",
+        "内部控制"
+      ],
+      "wordCount": 1156,
+      "order": 669,
+      "id": "85b4de9995f649ea"
+    },
+    {
+      "filename": "生产与存货循环审计.json",
+      "title": "生产与存货循环审计",
+      "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "生产与存货循环",
+        "内部控制"
+      ],
+      "wordCount": 964,
+      "order": 676,
+      "id": "facd964c35ef171a"
+    },
+    {
+      "filename": "销售与收款循环审计.json",
+      "title": "销售与收款循环审计",
+      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "销售与收款循环",
+        "内部控制"
+      ],
+      "wordCount": 1067,
+      "order": 678,
+      "id": "883f48c880c7679e"
+    }
+  ]
+}

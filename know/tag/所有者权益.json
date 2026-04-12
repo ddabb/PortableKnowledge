@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "所有者权益",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "所有者权益概述.json",
+      "title": "所有者权益概述",
+      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "所有者权益",
+        "构成"
+      ],
+      "wordCount": 1132,
+      "order": 640,
+      "id": "602d76b9bea46d42"
+    }
+  ]
+}

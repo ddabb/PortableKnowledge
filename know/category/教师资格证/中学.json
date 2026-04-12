@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "category": "教师资格证/中学",
+    "count": 15
+  },
+  "articles": [
+    {
+      "filename": "班级管理案例分析.json",
+      "title": "班级管理案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "班级管理",
+        "案例分析",
+        "学生管理"
+      ],
+      "wordCount": 4327,
+      "order": 101,
+      "id": "ef11e36b15cfb901"
+    },
+    {
+      "filename": "班级管理与教育沟通.json",
+      "title": "班级管理与教育沟通",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "班级管理",
+        "教育沟通",
+        "师生关系"
+      ],
+      "wordCount": 4356,
+      "order": 102,
+      "id": "993359eb18a0dd0b"
+    },
+    {
+      "filename": "教学设计案例分析.json",
+      "title": "教学设计案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教学设计",
+        "案例分析",
+        "教学实践"
+      ],
+      "wordCount": 4608,
+      "order": 103,
+      "id": "a2ac6236dac775d6"
+    },
+    {
+      "filename": "教学设计与实施.json",
+      "title": "教学设计与实施",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教学设计",
+        "教学实施",
+        "教学策略"
+      ],
+      "wordCount": 3865,
+      "order": 104,
+      "id": "ef27e31f6e22c582"
+    },
+    {
+      "filename": "教育创新与改革.json",
+      "title": "教育创新与改革",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育创新",
+        "教育改革",
+        "素质教育"
+      ],
+      "wordCount": 3390,
+      "order": 105,
+      "id": "a984c08f238b1def"
+    },
+    {
+      "filename": "教育法律法规案例分析.json",
+      "title": "教育法律法规案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "案例分析",
+        "法律责任"
+      ],
+      "wordCount": 4480,
+      "order": 106,
+      "id": "4c465f57472777a5"
+    },
+    {
+      "filename": "教育法律法规与教师职业道德.json",
+      "title": "教育法律法规与教师职业道德",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "教师职业道德",
+        "法律责任"
+      ],
+      "wordCount": 4917,
+      "order": 107,
+      "id": "606effbf3fd22802"
+    },
+    {
+      "filename": "教育技术应用.json",
+      "title": "教育技术应用",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育技术",
+        "信息技术",
+        "教学创新"
+      ],
+      "wordCount": 3883,
+      "order": 108,
+      "id": "d5ada9171e523b31"
+    },
+    {
+      "filename": "教育教学实践案例分析.json",
+      "title": "教育教学实践案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育教学",
+        "案例分析",
+        "实践经验"
+      ],
+      "wordCount": 4364,
+      "order": 109,
+      "id": "b896301fbe80b9af"
+    },
+    {
+      "filename": "教育评价与反思.json",
+      "title": "教育评价与反思",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育评价",
+        "教学反思",
+        "专业发展"
+      ],
+      "wordCount": 3348,
+      "order": 110,
+      "id": "09a6af8a8a2a3cd0"
+    },
+    {
+      "filename": "教育心理学案例分析.json",
+      "title": "教育心理学案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育心理学",
+        "案例分析",
+        "教学实践"
+      ],
+      "wordCount": 4160,
+      "order": 111,
+      "id": "a2c3c35dc85d4b1c"
+    },
+    {
+      "filename": "教育心理学知识.json",
+      "title": "教育心理学知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育心理学",
+        "学习理论",
+        "学生心理"
+      ],
+      "wordCount": 5273,
+      "order": 112,
+      "id": "3f7a8875e981abc4"
+    },
+    {
+      "filename": "教育学基础知识.json",
+      "title": "教育学基础知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育学",
+        "基础知识",
+        "教育理论"
+      ],
+      "wordCount": 2777,
+      "order": 113,
+      "id": "f0460d10e2cbd9fe"
+    },
+    {
+      "filename": "教育研究方法.json",
+      "title": "教育研究方法",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育研究",
+        "研究方法",
+        "教师专业发展"
+      ],
+      "wordCount": 4369,
+      "order": 114,
+      "id": "e259e78f89d8bb0a"
+    },
+    {
+      "filename": "学科知识与教学能力.json",
+      "title": "学科知识与教学能力",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "学科知识",
+        "教学能力",
+        "专业素养"
+      ],
+      "wordCount": 3972,
+      "order": 115,
+      "id": "cdfec0b48388b79b"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "公司法",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "公司法概述.json",
+      "title": "公司法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "公司法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 294,
+      "order": 655,
+      "id": "ff86ecb868f095ee"
+    }
+  ]
+}

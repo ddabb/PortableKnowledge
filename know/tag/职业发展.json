@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "tag": "职业发展",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "人力资源管理师职业发展.json",
+      "title": "人力资源管理师职业发展",
+      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "职业发展"
+      ],
+      "wordCount": 932,
+      "order": 169,
+      "id": "b003aff1861bb29f"
+    },
+    {
+      "filename": "执业药师职业发展.json",
+      "title": "执业药师职业发展",
+      "description": "执业药师的职业发展路径、能力要求和发展策略",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "职业发展"
+      ],
+      "wordCount": 966,
+      "order": 562,
+      "id": "b9eedacd274ec4f7"
+    }
+  ]
+}

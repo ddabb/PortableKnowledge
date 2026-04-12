@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "tag": "战略",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "国际化经营战略.json",
+      "title": "国际化经营战略",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "国际化经营",
+        "战略",
+        "CPA"
+      ],
+      "wordCount": 305,
+      "order": 625,
+      "id": "d60db92a0a1e612d"
+    },
+    {
+      "filename": "数字化转型战略.json",
+      "title": "数字化转型战略",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "数字化转型",
+        "战略",
+        "CPA"
+      ],
+      "wordCount": 395,
+      "order": 627,
+      "id": "905b4983f825a260"
+    }
+  ]
+}

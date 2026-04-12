@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "学科知识",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "学科知识与教学能力.json",
+      "title": "学科知识与教学能力",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "学科知识",
+        "教学能力",
+        "专业素养"
+      ],
+      "wordCount": 3972,
+      "order": 115,
+      "id": "cdfec0b48388b79b"
+    }
+  ]
+}

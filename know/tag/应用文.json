@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "应用文",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "应用文.json",
+      "title": "应用文",
+      "description": "",
+      "category": "公务员/申论",
+      "tags": [
+        "申论",
+        "应用文",
+        "公文写作",
+        "格式规范"
+      ],
+      "wordCount": 3120,
+      "order": 30,
+      "id": "35ea85e707da7a91"
+    }
+  ]
+}

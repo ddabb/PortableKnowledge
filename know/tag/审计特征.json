@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "审计特征",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "审计概述.json",
+      "title": "审计概述",
+      "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计概述",
+        "审计特征"
+      ],
+      "wordCount": 1070,
+      "order": 672,
+      "id": "7a8da7e20b2b1e63"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "tag": "施工技术",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "施工技术与管理.json",
+      "title": "施工技术与管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "施工技术",
+        "管理",
+        "建造师"
+      ],
+      "wordCount": 173,
+      "order": 51,
+      "id": "2cf94587fbc8d89b"
+    },
+    {
+      "filename": "施工技术与管理.json",
+      "title": "施工技术与管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "施工技术",
+        "管理",
+        "建造师"
+      ],
+      "wordCount": 173,
+      "order": 66,
+      "id": "24279326babd9df0"
+    }
+  ]
+}

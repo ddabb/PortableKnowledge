@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "薪酬管理",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "薪酬管理.json",
+      "title": "薪酬管理",
+      "description": "薪酬管理的体系、设计和实施策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "薪酬管理"
+      ],
+      "wordCount": 733,
+      "order": 172,
+      "id": "c450ac405a5ae475"
+    }
+  ]
+}

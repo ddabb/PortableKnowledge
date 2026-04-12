@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "tag": "科技",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "常识判断.json",
+      "title": "常识判断",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "常识判断",
+        "政治",
+        "经济",
+        "法律",
+        "科技",
+        "历史",
+        "地理"
+      ],
+      "wordCount": 195,
+      "order": 32,
+      "id": "ad827cbb8bf8f659"
+    }
+  ]
+}

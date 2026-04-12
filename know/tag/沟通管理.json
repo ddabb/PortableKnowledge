@@ -1,9 +1,24 @@
 {
   "meta": {
     "tag": "沟通管理",
-    "count": 5
+    "count": 6
   },
   "articles": [
+    {
+      "filename": "项目沟通管理.json",
+      "title": "项目沟通管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "沟通管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 224,
+      "order": 72,
+      "id": "cecb4e65997daedd"
+    },
     {
       "filename": "投标人会议.json",
       "title": "投标人会议",
@@ -15,7 +30,7 @@
         "沟通管理"
       ],
       "wordCount": 101,
-      "order": 65,
+      "order": 204,
       "id": "e71bd9a86b0884c3"
     },
     {
@@ -29,7 +44,7 @@
         "沟通管理"
       ],
       "wordCount": 430,
-      "order": 115,
+      "order": 254,
       "id": "2fb4a5543ab1ac1f"
     },
     {
@@ -43,7 +58,7 @@
         "沟通管理"
       ],
       "wordCount": 647,
-      "order": 116,
+      "order": 255,
       "id": "eca0d2ad3e74e7fa"
     },
     {
@@ -57,7 +72,7 @@
         "沟通管理"
       ],
       "wordCount": 379,
-      "order": 117,
+      "order": 256,
       "id": "3c11c39f9425112d"
     },
     {
@@ -71,7 +86,7 @@
         "沟通管理"
       ],
       "wordCount": 405,
-      "order": 118,
+      "order": 257,
       "id": "c527ca340e276e10"
     }
   ]

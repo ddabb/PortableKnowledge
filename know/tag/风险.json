@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "风险",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "风险与风险管理.json",
+      "title": "风险与风险管理",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "风险",
+        "风险管理",
+        "CPA"
+      ],
+      "wordCount": 325,
+      "order": 623,
+      "id": "c8ef74778c2a8653"
+    }
+  ]
+}

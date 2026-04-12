@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "其他应付款",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "其他应付款.json",
+      "title": "其他应付款",
+      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "其他应付款",
+        "核算"
+      ],
+      "wordCount": 525,
+      "order": 639,
+      "id": "23ba7ef0a40abfe7"
+    }
+  ]
+}

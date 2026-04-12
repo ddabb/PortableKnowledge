@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "COSO框架",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "内部控制.json",
+      "title": "内部控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "内部控制",
+        "COSO框架",
+        "CPA"
+      ],
+      "wordCount": 353,
+      "order": 626,
+      "id": "2f119a4f008efbc3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "幼儿艺术",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "幼儿艺术教育.json",
+      "title": "幼儿艺术教育",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "艺术教育",
+        "幼儿艺术",
+        "教资"
+      ],
+      "wordCount": 2978,
+      "order": 99,
+      "id": "d5b6dfdba330ba4a"
+    }
+  ]
+}

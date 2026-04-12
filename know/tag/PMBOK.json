@@ -1,9 +1,24 @@
 {
   "meta": {
     "tag": "PMBOK",
-    "count": 4
+    "count": 5
   },
   "articles": [
+    {
+      "filename": "建设工程项目管理.json",
+      "title": "建设工程项目管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "项目管理",
+        "PMBOK",
+        "建造师"
+      ],
+      "wordCount": 629,
+      "order": 64,
+      "id": "7159a8aa660324b4"
+    },
     {
       "filename": "价值交付系统.json",
       "title": "价值交付系统",
@@ -15,7 +30,7 @@
         "PMBOK"
       ],
       "wordCount": 2007,
-      "order": 307,
+      "order": 446,
       "id": "736351a7ddd126ce"
     },
     {
@@ -29,7 +44,7 @@
         "PMBOK"
       ],
       "wordCount": 2301,
-      "order": 326,
+      "order": 465,
       "id": "aa80d2be512fd91a"
     },
     {
@@ -44,7 +59,7 @@
         "项目管理"
       ],
       "wordCount": 1779,
-      "order": 327,
+      "order": 466,
       "id": "21c05eebccbacefb"
     },
     {
@@ -59,7 +74,7 @@
         "版本演变"
       ],
       "wordCount": 986,
-      "order": 344,
+      "order": 483,
       "id": "e5768cb7ba885bba"
     }
   ]

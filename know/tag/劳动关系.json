@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "劳动关系",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "劳动关系.json",
+      "title": "劳动关系",
+      "description": "劳动关系的概念、管理和协调策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "劳动关系"
+      ],
+      "wordCount": 774,
+      "order": 166,
+      "id": "fd236277fb520467"
+    }
+  ]
+}

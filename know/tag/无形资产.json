@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "无形资产",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "无形资产.json",
+      "title": "无形资产",
+      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "无形资产",
+        "摊销"
+      ],
+      "wordCount": 1259,
+      "order": 642,
+      "id": "b2a8b4a2135a7253"
+    }
+  ]
+}

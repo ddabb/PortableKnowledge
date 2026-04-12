@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "教育教学",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "教育教学实践案例分析.json",
+      "title": "教育教学实践案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育教学",
+        "案例分析",
+        "实践经验"
+      ],
+      "wordCount": 4364,
+      "order": 109,
+      "id": "b896301fbe80b9af"
+    }
+  ]
+}

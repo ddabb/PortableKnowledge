@@ -1,287 +1,302 @@
 {
   "page": 4,
-  "totalPages": 22,
-  "totalItems": 430,
+  "totalPages": 35,
+  "totalItems": 694,
   "items": [
     {
-      "filename": "规划采购管理.json",
-      "title": "规划采购管理",
-      "description": "规划采购管理是记录项目采购决策、明确采购方法，及识别潜在卖方的过程。",
-      "category": "软考/项目管理/项目采购管理",
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "规划采购管理",
-        "采购管理",
-        "PMP"
+        "一建",
+        "法规",
+        "建造师"
       ],
-      "wordCount": 572,
+      "wordCount": 559,
       "order": 61,
-      "id": "4e1cf37abc645ede"
+      "id": "7eef789c72cc2e71"
     },
     {
-      "filename": "控制采购.json",
-      "title": "控制采购",
-      "description": "控制采购是管理采购关系，监督合同绩效，实施必要的变更和纠偏，以及关闭合同的过程。",
-      "category": "软考/项目管理/项目采购管理",
+      "filename": "建设工程法律法规实务.json",
+      "title": "建设工程法律法规实务",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "监控过程组",
-        "控制采购",
-        "采购管理"
+        "一建",
+        "法律法规",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 819,
+      "wordCount": 279,
       "order": 62,
-      "id": "e0adfdc0ddbf8e7f"
+      "id": "fa1244339a69ec42"
     },
     {
-      "filename": "卖方建议书.json",
-      "title": "卖方建议书",
-      "description": "卖方为响应采购文件包而编制的建议书，其中包含的基本信息将被评估团队用于选定一个或多个投标人（卖方）。",
-      "category": "软考/项目管理/项目采购管理",
+      "filename": "建设工程经济.json",
+      "title": "建设工程经济",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "执行过程组",
-        "实施采购"
+        "一建",
+        "工程经济",
+        "建造师"
       ],
-      "wordCount": 124,
+      "wordCount": 214,
       "order": 63,
-      "id": "72381eb9662998a5"
+      "id": "ca0d0ae8cf075c84"
     },
     {
-      "filename": "实施采购.json",
-      "title": "实施采购",
-      "description": "实施采购是获取卖方应答、选择卖方并授予合同的过程。",
-      "category": "软考/项目管理/项目采购管理",
+      "filename": "建设工程项目管理.json",
+      "title": "建设工程项目管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "执行过程组",
-        "实施采购",
-        "采购管理",
-        "PMP"
+        "一建",
+        "项目管理",
+        "PMBOK",
+        "建造师"
       ],
-      "wordCount": 144,
+      "wordCount": 629,
       "order": 64,
-      "id": "22aeda92d9eed2d8"
+      "id": "7159a8aa660324b4"
     },
     {
-      "filename": "投标人会议.json",
-      "title": "投标人会议",
-      "description": "投标人会议（又称承包商会议、供应商会议或投标前会议）是在卖方提交建议书之前，  在买方和潜在卖方之间召开的会议，其目的是确保所有潜在投标人对采购要求都有清楚且一致的理解，并确保没有任何投标人会得到特别...",
-      "category": "软考/项目管理/项目采购管理",
+      "filename": "建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "执行过程组",
-        "实施采购",
-        "沟通管理"
+        "一建",
+        "建筑工程",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 101,
+      "wordCount": 156,
       "order": 65,
-      "id": "e71bd9a86b0884c3"
+      "id": "30f9152bdb630791"
     },
     {
-      "filename": "协议.json",
-      "title": "协议",
-      "description": "它强制卖方提供规定的产品、服务或成果，强制买方向卖方支付相应的报酬。",
-      "category": "软考/项目管理/项目采购管理",
+      "filename": "施工技术与管理.json",
+      "title": "施工技术与管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "执行过程组",
-        "实施采购"
+        "一建",
+        "施工技术",
+        "管理",
+        "建造师"
       ],
-      "wordCount": 228,
+      "wordCount": 173,
       "order": 66,
-      "id": "f13aa9db6c9b5539"
+      "id": "24279326babd9df0"
     },
     {
-      "filename": "招标文件.json",
-      "title": "招标文件",
-      "description": "如果主要依据价格来选择卖方（如购买商业或标准产品时），通常就使用标书、投标或报价等术语；如果其他考虑因素（如技术能力或技术方法）至关重要，则通常使用建议书之类的术语。",
-      "category": "软考/项目管理/项目采购管理",
+      "filename": "市政公用工程管理与实务.json",
+      "title": "市政公用工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "规划采购管理",
-        "采购管理"
+        "一建",
+        "市政工程",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 562,
+      "wordCount": 274,
       "order": 67,
-      "id": "9a1158ca7bcd1e07"
+      "id": "5793250af66a75fb"
     },
     {
-      "filename": "自制或外购决策.json",
-      "title": "自制或外购决策",
-      "description": "通过自制或外购分析，做出某项特定工作最好由项目团队自己完成，还是需要从外部渠道采购的决策。",
-      "category": "软考/项目管理/项目采购管理",
+      "filename": "水利水电工程管理与实务.json",
+      "title": "水利水电工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "规划采购管理"
+        "一建",
+        "水利水电工程",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 45,
+      "wordCount": 299,
       "order": 68,
-      "id": "68f88beb26c7eb2b"
+      "id": "c1e52e11bb2d17af"
     },
     {
-      "filename": "成本管理计划.json",
-      "title": "成本管理计划",
-      "description": "成本管理计划是项目管理计划的组成部分，描述将如何规划、安排和控制项目成本。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目安全管理.json",
+      "title": "项目安全管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "规划成本管理",
-        "成本管理"
+        "一建",
+        "安全管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 714,
+      "wordCount": 200,
       "order": 69,
-      "id": "017f915b2c12e450"
+      "id": "45de03bdcf1f0f2c"
     },
     {
-      "filename": "成本汇总.json",
-      "title": "成本汇总",
-      "description": "先把成本估算汇总到 WBS 中的工作包，再由工作包汇总至 WBS 的更高层次（如控制账户），最终得出整个项目的总成本。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目成本管理.json",
+      "title": "项目成本管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "制定预算",
-        "成本管理"
+        "一建",
+        "成本管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 55,
+      "wordCount": 205,
       "order": 70,
-      "id": "496e1211d7f556a0"
+      "id": "37ba86cbdaa95f4c"
     },
     {
-      "filename": "成本基准.json",
-      "title": "成本基准",
-      "description": "成本基准是经过批准的、按时间段分配的项目预算，不包括任何管理储备，只有通过正式的变更控制程序才能变更，用作与实际结果进行比较的依据。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目风险管理.json",
+      "title": "项目风险管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "制定预算",
-        "成本管理"
+        "一建",
+        "风险管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 370,
+      "wordCount": 247,
       "order": 71,
-      "id": "1c79a882c451bb39"
+      "id": "8c658d432fcf62f0"
     },
     {
-      "filename": "估算成本.json",
-      "title": "估算成本",
-      "description": "估算成本是对完成项目工作所需资源成本进行近似估算的过程。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目沟通管理.json",
+      "title": "项目沟通管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "估算成本",
-        "成本管理",
-        "PMP"
+        "一建",
+        "沟通管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 626,
+      "wordCount": 224,
       "order": 72,
-      "id": "0d7ed7d87effec02"
+      "id": "cecb4e65997daedd"
     },
     {
-      "filename": "规划成本管理.json",
-      "title": "规划成本管理",
-      "description": "规划成本管理是确定如何估算、预算、管理、监督和控制项目成本的过程。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目管理实务.json",
+      "title": "项目管理实务",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "规划成本管理",
-        "成本管理",
-        "PMP"
+        "一建",
+        "项目管理",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 132,
+      "wordCount": 255,
       "order": 73,
-      "id": "8522a691164308e6"
+      "id": "592f2ac643888a83"
     },
     {
-      "filename": "控制成本.json",
-      "title": "控制成本",
-      "description": "控制成本是监督项目状态，以更新项目成本和管理成本基准变更的过程。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目合同管理.json",
+      "title": "项目合同管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "监控过程组",
-        "控制成本",
-        "成本管理",
-        "PMP"
+        "一建",
+        "合同管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 494,
+      "wordCount": 280,
       "order": 74,
-      "id": "1e682198df36b92b"
+      "id": "26b9c0766862828c"
     },
     {
-      "filename": "历史信息审核.json",
-      "title": "历史信息审核",
-      "description": "审核历史信息有助于进行参数估算或类比估算。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目进度管理.json",
+      "title": "项目进度管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "制定预算"
+        "一建",
+        "进度管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 230,
+      "wordCount": 166,
       "order": 75,
-      "id": "e91cd242e098f3d4"
+      "id": "d3e3167c6698282e"
     },
     {
-      "filename": "融资.json",
-      "title": "融资",
-      "description": "长期的基础设施、工业和公共服务项目通常会寻求外部融资。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目收尾管理.json",
+      "title": "项目收尾管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "规划过程组",
-        "制定预算"
+        "一建",
+        "收尾管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 69,
+      "wordCount": 233,
       "order": 76,
-      "id": "0c27af636d6c3c63"
+      "id": "ae4580952208ff40"
     },
     {
-      "filename": "完工尚需绩效指数.json",
-      "title": "完工尚需绩效指数",
-      "description": "完工尚需绩效指数（TCPI）是一种为了实现特定的管理目标，剩余资源的使用必须达到的成本绩效指标，是完成剩余工作所需的成本与剩余预算之比。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "监控过程组",
-        "控制成本",
-        "绩效管理"
+        "一建",
+        "质量管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 494,
+      "wordCount": 199,
       "order": 77,
-      "id": "82eb8041f152a6d1"
+      "id": "ef5aeb98d5443572"
     },
     {
-      "filename": "项目资金需求.json",
-      "title": "项目资金需求",
-      "description": "根据成本基准，确定总资金需求和阶段性（如季度或年度）资金需求。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "核心考点.json",
+      "title": "教师资格证考试核心考点",
+      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
+      "category": "教师资格证",
       "tags": [
-        "规划过程组",
-        "制定预算",
-        "项目管理"
+        "教资",
+        "教育学",
+        "心理学"
       ],
-      "wordCount": 133,
+      "wordCount": 3569,
       "order": 78,
-      "id": "daa3243b5d47985f"
+      "id": "bd7849ae8f9e3d7a"
     },
     {
-      "filename": "制定预算.json",
-      "title": "制定预算",
-      "description": "制定预算是汇总所有单个活动或工作包的估算成本，建立一个经批准的成本基准的过程。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "小学班级管理.json",
+      "title": "小学班级管理",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "制定预算",
-        "成本管理",
-        "PMP"
+        "小学教育",
+        "班级管理",
+        "学生管理"
       ],
-      "wordCount": 192,
+      "wordCount": 3662,
       "order": 79,
-      "id": "5dc841d1121775f1"
+      "id": "f83ca1688447cb2a"
     },
     {
-      "filename": "资金限制平衡.json",
-      "title": "资金限制平衡",
-      "description": "应该根据对项目资金的任何限制，来平衡资金支出。",
-      "category": "软考/项目管理/项目成本管理",
+      "filename": "小学教师职业道德.json",
+      "title": "小学教师职业道德",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "制定预算"
+        "小学教育",
+        "教师职业道德",
+        "师德师风"
       ],
-      "wordCount": 90,
+      "wordCount": 2833,
       "order": 80,
-      "id": "114b7225d5813c39"
+      "id": "562e4f8f9266c0bb"
     }
   ]
 }

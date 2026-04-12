@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "药物分类",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "常见药物分类.json",
+      "title": "常见药物分类",
+      "description": "常见药物的分类方法和代表药物",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物分类"
+      ],
+      "wordCount": 1356,
+      "order": 549,
+      "id": "b75b5e129e44e042"
+    }
+  ]
+}

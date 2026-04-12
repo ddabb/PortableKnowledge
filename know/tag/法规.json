@@ -1,9 +1,37 @@
 {
   "meta": {
     "tag": "法规",
-    "count": 1
+    "count": 3
   },
   "articles": [
+    {
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "法规",
+        "建造师"
+      ],
+      "wordCount": 559,
+      "order": 47,
+      "id": "db168e021cb0af71"
+    },
+    {
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "法规",
+        "建造师"
+      ],
+      "wordCount": 559,
+      "order": 61,
+      "id": "7eef789c72cc2e71"
+    },
     {
       "filename": "核心考点.json",
       "title": "执业药师核心考点",
@@ -14,8 +42,8 @@
         "药学",
         "法规"
       ],
-      "wordCount": 27,
-      "order": 410,
+      "wordCount": 2516,
+      "order": 561,
       "id": "1ad4d4522a1af0f5"
     }
   ]

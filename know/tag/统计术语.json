@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "统计术语",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "资料分析.json",
+      "title": "资料分析",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "资料分析",
+        "统计术语",
+        "速算技巧",
+        "图表分析"
+      ],
+      "wordCount": 152,
+      "order": 36,
+      "id": "edd1848040ae9fb2"
+    }
+  ]
+}

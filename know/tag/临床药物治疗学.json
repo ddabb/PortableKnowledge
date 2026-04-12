@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "临床药物治疗学",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "临床药物治疗学.json",
+      "title": "临床药物治疗学",
+      "description": "临床药物治疗学的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "临床药物治疗学"
+      ],
+      "wordCount": 1068,
+      "order": 551,
+      "id": "0cc7be10dd883bdd"
+    }
+  ]
+}

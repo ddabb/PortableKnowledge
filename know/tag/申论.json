@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "申论",
-    "count": 1
+    "count": 6
   },
   "articles": [
     {
@@ -14,9 +14,84 @@
         "行测",
         "申论"
       ],
-      "wordCount": 28,
+      "wordCount": 2401,
       "order": 26,
       "id": "7a8272032cf6c22c"
+    },
+    {
+      "filename": "大作文框架.json",
+      "title": "大作文框架",
+      "description": "",
+      "category": "公务员/申论",
+      "tags": [
+        "申论",
+        "大作文",
+        "议论文",
+        "写作框架"
+      ],
+      "wordCount": 135,
+      "order": 27,
+      "id": "80662090c6f5d919"
+    },
+    {
+      "filename": "对策建议.json",
+      "title": "对策建议",
+      "description": "",
+      "category": "公务员/申论",
+      "tags": [
+        "申论",
+        "对策建议",
+        "解决问题",
+        "措施制定"
+      ],
+      "wordCount": 2939,
+      "order": 28,
+      "id": "3b8d0537d2f4bd43"
+    },
+    {
+      "filename": "归纳概括.json",
+      "title": "归纳概括",
+      "description": "",
+      "category": "公务员/申论",
+      "tags": [
+        "申论",
+        "归纳概括",
+        "概括方法",
+        "要点提取"
+      ],
+      "wordCount": 121,
+      "order": 29,
+      "id": "27e061e7e872d489"
+    },
+    {
+      "filename": "应用文.json",
+      "title": "应用文",
+      "description": "",
+      "category": "公务员/申论",
+      "tags": [
+        "申论",
+        "应用文",
+        "公文写作",
+        "格式规范"
+      ],
+      "wordCount": 3120,
+      "order": 30,
+      "id": "35ea85e707da7a91"
+    },
+    {
+      "filename": "综合分析.json",
+      "title": "综合分析",
+      "description": "",
+      "category": "公务员/申论",
+      "tags": [
+        "申论",
+        "综合分析",
+        "分析方法",
+        "逻辑思维"
+      ],
+      "wordCount": 115,
+      "order": 31,
+      "id": "85fd8260bcc67102"
     }
   ]
 }

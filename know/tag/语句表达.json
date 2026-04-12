@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "语句表达",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "言语理解.json",
+      "title": "言语理解",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "言语理解",
+        "逻辑填空",
+        "片段阅读",
+        "语句表达"
+      ],
+      "wordCount": 177,
+      "order": 35,
+      "id": "915e1a246acfeb53"
+    }
+  ]
+}

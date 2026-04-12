@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "幼儿游戏",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "游戏指导.json",
+      "title": "游戏指导",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "游戏指导",
+        "幼儿游戏",
+        "教资"
+      ],
+      "wordCount": 2505,
+      "order": 92,
+      "id": "237e21b131ef5c8e"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "树",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "树.json",
+      "title": "树",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "树",
+        "408",
+        "考研"
+      ],
+      "wordCount": 131,
+      "order": 137,
+      "id": "0ed1ab0ce7f84752"
+    }
+  ]
+}

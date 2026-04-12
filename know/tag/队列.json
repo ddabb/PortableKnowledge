@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "队列",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "栈和队列.json",
+      "title": "栈和队列",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "栈",
+        "队列",
+        "408",
+        "考研"
+      ],
+      "wordCount": 123,
+      "order": 146,
+      "id": "9379ac44a55a40e5"
+    }
+  ]
+}

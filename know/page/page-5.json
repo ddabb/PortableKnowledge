@@ -1,279 +1,287 @@
 {
   "page": 5,
-  "totalPages": 22,
-  "totalItems": 430,
+  "totalPages": 35,
+  "totalItems": 694,
   "items": [
     {
-      "filename": "产品分析.json",
-      "title": "产品分析",
-      "description": "产品分析可用于定义产品和服务，包括针对产品或服务提问并回答，以描述要交付的产品的用途、特征及其他方面。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育法律法规.json",
+      "title": "小学教育法律法规",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "定义范围",
-        "产品经理"
+        "小学教育",
+        "教育法律法规",
+        "法律责任"
       ],
-      "wordCount": 182,
+      "wordCount": 4252,
       "order": 81,
-      "id": "0b97af8af28a4b5d"
+      "id": "13661ad8ab96940a"
     },
     {
-      "filename": "创建WBS.json",
-      "title": "创建WBS",
-      "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育方法.json",
+      "title": "小学教育方法",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "创建WBS",
-        "WBS",
-        "PMP"
+        "小学教育",
+        "教育方法",
+        "教学策略"
       ],
-      "wordCount": 324,
+      "wordCount": 3351,
       "order": 82,
-      "id": "c4254a24136b8269"
+      "id": "f9709b09b7ff200c"
     },
     {
-      "filename": "wbs.json",
-      "title": "创建WBS",
-      "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育改革与发展.json",
+      "title": "小学教育改革与发展",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "WBS",
-        "PMP"
+        "小学教育",
+        "教育改革",
+        "素质教育"
       ],
-      "wordCount": 377,
+      "wordCount": 3181,
       "order": 83,
-      "id": "819f0fba5f2d239e"
+      "id": "3fd4088869a93ee9"
     },
     {
-      "filename": "定义范围.json",
-      "title": "定义范围",
-      "description": "本过程的主要作用是，描述产品、服务或成果的边界和验收标准。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育技术应用.json",
+      "title": "小学教育技术应用",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "定义范围",
-        "PMP"
+        "小学教育",
+        "教育技术",
+        "信息技术"
       ],
-      "wordCount": 430,
+      "wordCount": 3477,
       "order": 84,
-      "id": "e9fcd2f975d3c694"
+      "id": "75e1c1a7f150c824"
     },
     {
-      "filename": "范围管理计划.json",
-      "title": "范围管理计划",
-      "description": "范围管理计划是项目管理计划的组成部分，描述将如何定义、制定、监督、控制和确认项目范围。范围管理计划要对将用于下列工作的管理过程做出规定：",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育教学实践案例分析.json",
+      "title": "小学教育教学实践案例分析",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "规划范围管理"
+        "小学教育",
+        "教学实践",
+        "案例分析"
       ],
-      "wordCount": 164,
+      "wordCount": 4457,
       "order": 85,
-      "id": "3b9161719c8a5d33"
+      "id": "831afd4414eced23"
     },
     {
-      "filename": "范围基准.json",
-      "title": "范围基准",
-      "description": "范围基准是经过批准的范围说明书、WBS 和相应的 WBS 词典，只有通过正式的变更控制程序才能进行变更，它被用作比较的基础。范围基准是项目管理计划的组成部分，包括：",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育科研.json",
+      "title": "小学教育科研",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "创建WBS"
+        "小学教育",
+        "教育科研",
+        "教师专业发展"
       ],
-      "wordCount": 692,
+      "wordCount": 4389,
       "order": 86,
-      "id": "29d37eb97533efe1"
+      "id": "8a3bdad264b87987"
     },
     {
-      "filename": "分解.json",
-      "title": "分解",
-      "description": "分解是一种把项目范围和项目可交付成果逐步划分为更小、更便于管理的组成部分的技术；工作包是 WBS 最低层的工作，可对其成本和持续时间进行估算和管理。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育科研方法.json",
+      "title": "小学教育科研方法",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "创建WBS",
-        "用户故事"
+        "小学教育",
+        "教育科研",
+        "研究方法"
       ],
-      "wordCount": 984,
+      "wordCount": 3692,
       "order": 87,
-      "id": "ef244496537a3cd2"
+      "id": "32c63f0d34200f06"
     },
     {
-      "filename": "规划范围管理.json",
-      "title": "规划范围管理",
-      "description": "规划范围管理是为记录如何定义、确认和控制项目范围及产品范围，而创建范围管理计划的过程。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育评价.json",
+      "title": "小学教育评价",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "规划过程组",
-        "规划范围管理",
-        "PMP"
+        "小学教育",
+        "教育评价",
+        "学生评价"
       ],
-      "wordCount": 298,
+      "wordCount": 3105,
       "order": 88,
-      "id": "7b6962fb2c1401bd"
+      "id": "3086d2831fabf871"
     },
     {
-      "filename": "控制范围.json",
-      "title": "控制范围",
-      "description": "控制范围是监督项目和产品的范围状态，管理范围基准变更的过程。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育心理学知识.json",
+      "title": "小学教育心理学知识",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "监控过程组",
-        "控制范围",
-        "PMP"
+        "小学教育",
+        "教育心理学",
+        "学生心理"
       ],
-      "wordCount": 285,
+      "wordCount": 3742,
       "order": 89,
-      "id": "1e6a185c75ecd1d6"
+      "id": "b73086b5633432e6"
     },
     {
-      "filename": "确认范围.json",
-      "title": "确认范围",
-      "description": "确认范围是正式验收已完成的项目可交付成果的过程。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "小学教育学基础知识.json",
+      "title": "小学教育学基础知识",
+      "description": "",
+      "category": "教师资格证/小学",
       "tags": [
-        "监控过程组",
-        "确认范围",
-        "PMP",
-        "项目管理知识体系"
+        "小学教育",
+        "教育学",
+        "基础知识"
       ],
-      "wordCount": 362,
+      "wordCount": 2654,
       "order": 90,
-      "id": "5a2efec968f5a87e"
+      "id": "b6f3ffb99693b5a1"
     },
     {
-      "filename": "收集需求.json",
-      "title": "收集需求",
-      "description": "收集需求是为实现目标而确定、记录并管理相关方的需要和需求的过程。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "安全卫生.json",
+      "title": "安全卫生",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "收集需求",
-        "PMP"
+        "安全卫生",
+        "幼儿安全",
+        "教资"
       ],
-      "wordCount": 409,
+      "wordCount": 1906,
       "order": 91,
-      "id": "928246fd02149744"
+      "id": "b5ad38e86ee32c6d"
     },
     {
-      "filename": "系统交互图.json",
-      "title": "系统交互图",
-      "description": "系统交互图是范围模型的一个例子，它是对产品范围的可视化描绘，显示业务系统（过程、设备、计算机系统等）及其与人和其他系统（行动者）之间的交互方式（见图 5-6）。系统交互图显示了业务系统的输入、输入提供...",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "游戏指导.json",
+      "title": "游戏指导",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "收集需求"
+        "游戏指导",
+        "幼儿游戏",
+        "教资"
       ],
-      "wordCount": 115,
+      "wordCount": 2505,
       "order": 92,
-      "id": "a5cf3af1537b080a"
+      "id": "237e21b131ef5c8e"
     },
     {
-      "filename": "项目范围说明书.json",
-      "title": "项目范围说明书",
-      "description": "项目范围说明书是对项目范围、主要可交付成果、假设条件和制约因素的描述。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "幼儿发展特点.json",
+      "title": "幼儿发展特点",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "定义范围",
-        "项目管理"
+        "幼儿发展",
+        "发展特点",
+        "教资"
       ],
-      "wordCount": 593,
+      "wordCount": 4133,
       "order": 93,
-      "id": "3b087e393c7e5877"
+      "id": "d99d8a2101ee1257"
     },
     {
-      "filename": "需求跟踪矩阵.json",
-      "title": "需求跟踪矩阵",
-      "description": "需求跟踪矩阵是把产品需求从其来源连接到能满足需求的可交付成果的一种表格。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "幼儿教育方法.json",
+      "title": "幼儿教育方法",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "收集需求"
+        "教育方法",
+        "幼儿教育",
+        "教资"
       ],
-      "wordCount": 420,
+      "wordCount": 1553,
       "order": 94,
-      "id": "51001911022c597c"
+      "id": "b4e643bc15376f7f"
     },
     {
-      "filename": "需求管理计划.json",
-      "title": "需求管理计划",
-      "description": "需求管理计划是项目管理计划的组成部分，描述将如何分析、记录和管理项目和产品需求。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "幼儿科学教育.json",
+      "title": "幼儿科学教育",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "规划范围管理"
+        "科学教育",
+        "幼儿科学",
+        "教资"
       ],
-      "wordCount": 211,
+      "wordCount": 3370,
       "order": 95,
-      "id": "7bf93afba4857c0b"
+      "id": "085a0987c5052b3e"
     },
     {
-      "filename": "需求文件.json",
-      "title": "需求文件",
-      "description": "需求文件描述各种单一需求将如何满足与项目相关的业务需求。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "幼儿情绪发展.json",
+      "title": "幼儿情绪发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "收集需求"
+        "情绪发展",
+        "幼儿情绪",
+        "教资"
       ],
-      "wordCount": 667,
+      "wordCount": 3574,
       "order": 96,
-      "id": "2e7081bcce679687"
+      "id": "41ccc8cea733cbca"
     },
     {
-      "filename": "验收的可交付成果.json",
-      "title": "验收的可交付成果",
-      "description": "符合验收标准的可交付成果应该由客户或发起人正式签字批准。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "幼儿认知发展.json",
+      "title": "幼儿认知发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "监控过程组",
-        "确认范围"
+        "认知发展",
+        "幼儿认知",
+        "教资"
       ],
-      "wordCount": 90,
+      "wordCount": 3651,
       "order": 97,
-      "id": "065cf7b37960ad51"
+      "id": "c000081953871a25"
     },
     {
-      "filename": "原型法.json",
-      "title": "原型法",
-      "description": "原型法是指在实际制造预期产品之前，先造出该产品的模型，并据此征求对需求的早期反馈。",
-      "category": "软考/项目管理/项目范围管理",
+      "filename": "幼儿社会性发展.json",
+      "title": "幼儿社会性发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "收集需求"
+        "社会性发展",
+        "幼儿社会",
+        "教资"
       ],
-      "wordCount": 316,
+      "wordCount": 3897,
       "order": 98,
-      "id": "e9bccdb0e43fed18"
+      "id": "1af5319899764194"
     },
     {
-      "filename": "不确定性表现方式.json",
-      "title": "不确定性表现方式",
-      "description": "要开展定量风险分析，就需要建立能反映单个项目风险和其他不确定性来源的定量风险分析模型，并为之提供输入。",
-      "category": "软考/项目管理/项目风险管理",
+      "filename": "幼儿艺术教育.json",
+      "title": "幼儿艺术教育",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "实时定量风险分析"
+        "艺术教育",
+        "幼儿艺术",
+        "教资"
       ],
-      "wordCount": 375,
+      "wordCount": 2978,
       "order": 99,
-      "id": "f658eea5a3dd9086"
+      "id": "d5b6dfdba330ba4a"
     },
     {
-      "filename": "风险报告.json",
-      "title": "风险报告",
-      "description": "风险报告提供关于整体项目风险的信息，以及关于已识别的单个项目风险的概述信息。",
-      "category": "软考/项目管理/项目风险管理",
+      "filename": "幼儿语言发展.json",
+      "title": "幼儿语言发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "规划过程组",
-        "识别风险",
-        "风险管理"
+        "语言发展",
+        "幼儿语言",
+        "教资"
       ],
-      "wordCount": 282,
+      "wordCount": 3186,
       "order": 100,
-      "id": "4d6365b8d14d49cc"
+      "id": "762f6db947ac0a60"
     }
   ]
 }

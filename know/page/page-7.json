@@ -1,275 +1,300 @@
 {
   "page": 7,
-  "totalPages": 22,
-  "totalItems": 430,
+  "totalPages": 35,
+  "totalItems": 694,
   "items": [
     {
-      "filename": "估算活动持续时间.json",
-      "title": "估算活动持续时间",
-      "description": "估算活动持续时间是根据资源估算的结果，估算完成单项活动所需工作时段数的过程。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "论证有效性分析.json",
+      "title": "论证有效性分析",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "规划过程组",
-        "估算活动持续时间",
-        "PMP"
+        "管理类联考",
+        "写作",
+        "论证有效性分析",
+        "考研"
       ],
-      "wordCount": 258,
+      "wordCount": 659,
       "order": 121,
-      "id": "19f8bf003aed33b3"
+      "id": "7b2912b39b505a2a"
     },
     {
-      "filename": "关键路径法.json",
-      "title": "关键路径法",
-      "description": "关键路径法用于在进度模型中估算项目最短工期，确定逻辑网络路径的进度灵活性大小。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "逻辑推理概述.json",
+      "title": "逻辑推理概述",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "规划过程组",
-        "制定进度计划",
-        "关键路径法"
+        "管理类联考",
+        "逻辑",
+        "考研"
       ],
-      "wordCount": 824,
+      "wordCount": 535,
       "order": 122,
-      "id": "6555826d5375b606"
+      "id": "f7cba9894be0249b"
     },
     {
-      "filename": "规划进度管理.json",
-      "title": "规划进度管理",
-      "description": "规划进度管理是为规划、编制、管理、执行和控制项目进度而制定政策、程序和文档的过程。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "数据分析.json",
+      "title": "数据分析",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "规划过程组",
-        "规划进度管理",
-        "PMP"
+        "管理类联考",
+        "数学",
+        "数据分析",
+        "考研"
       ],
-      "wordCount": 85,
+      "wordCount": 615,
       "order": 123,
-      "id": "8a3549654510436e"
+      "id": "56d2551109480057"
     },
     {
-      "filename": "活动清单.json",
-      "title": "活动清单",
-      "description": "对于使用滚动式规划或敏捷技术的项目，活动清单会在项目进展过程中得到定期更新。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "数学基础概述.json",
+      "title": "数学基础概述",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "规划过程组",
-        "定义活动"
+        "管理类联考",
+        "数学",
+        "考研"
       ],
-      "wordCount": 93,
+      "wordCount": 512,
       "order": 124,
-      "id": "1a15255290fa30d5"
+      "id": "fbac4cc196455609"
     },
     {
-      "filename": "活动属性.json",
-      "title": "活动属性",
-      "description": "活动属性是指每项活动所具有的多重属性，用来扩充对活动的描述，活动属性随时间演进。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "算术.json",
+      "title": "算术",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "规划过程组",
-        "定义活动"
+        "管理类联考",
+        "数学",
+        "算术",
+        "考研"
       ],
-      "wordCount": 246,
+      "wordCount": 452,
       "order": 125,
-      "id": "75fce6e89231ebd5"
+      "id": "c7264cd59e76d049"
     },
     {
-      "filename": "紧前关系绘图法.json",
-      "title": "紧前关系绘图法",
-      "description": "紧前关系绘图法（PDM）是创建进度模型的一种技术，用节点表示活动，用一种或多种逻辑关系连接活动，以显示活动的实施顺序。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "写作概述.json",
+      "title": "写作概述",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "规划过程组",
-        "排列活动顺序"
+        "管理类联考",
+        "写作",
+        "考研"
       ],
-      "wordCount": 584,
+      "wordCount": 587,
       "order": 126,
-      "id": "1fb4174840625f14"
+      "id": "6f4d5a8c7a82f6f0"
     },
     {
-      "filename": "进度管理计划.json",
-      "title": "进度管理计划",
-      "description": "进度管理计划是项目管理计划的组成部分，为编制、监督和控制项目进度建立准则和明确活动。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "形式逻辑.json",
+      "title": "形式逻辑",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "规划过程组",
-        "规划进度管理"
+        "管理类联考",
+        "逻辑",
+        "形式逻辑",
+        "考研"
       ],
-      "wordCount": 718,
+      "wordCount": 540,
       "order": 127,
-      "id": "8e4cff5ed8131a5a"
+      "id": "ad79d4df010e1540"
     },
     {
-      "filename": "进度基准.json",
-      "title": "进度基准",
-      "description": "进度基准是经过批准的进度模型，只有通过正式的变更控制程序才能进行变更，用作与实际结果进行比较的依据。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "综合推理.json",
+      "title": "综合推理",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "规划过程组",
-        "制定进度计划"
+        "管理类联考",
+        "逻辑",
+        "综合推理",
+        "考研"
+      ],
+      "wordCount": 651,
+      "order": 128,
+      "id": "bcc6026be1636404"
+    },
+    {
+      "filename": "操作系统概述.json",
+      "title": "操作系统概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "操作系统",
+        "408",
+        "考研"
+      ],
+      "wordCount": 161,
+      "order": 129,
+      "id": "ee98917a80aa4155"
+    },
+    {
+      "filename": "查找算法.json",
+      "title": "查找算法",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "查找",
+        "408",
+        "考研"
+      ],
+      "wordCount": 154,
+      "order": 130,
+      "id": "54b3ad88cd6618a8"
+    },
+    {
+      "filename": "传输层.json",
+      "title": "传输层",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "计算机网络",
+        "传输层",
+        "408",
+        "考研"
+      ],
+      "wordCount": 187,
+      "order": 131,
+      "id": "37c87308d58b4869"
+    },
+    {
+      "filename": "计算机网络概述.json",
+      "title": "计算机网络概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "计算机网络",
+        "408",
+        "考研"
+      ],
+      "wordCount": 145,
+      "order": 132,
+      "id": "90ce455fd157a579"
+    },
+    {
+      "filename": "计算机组成原理概述.json",
+      "title": "计算机组成原理概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "计算机组成原理",
+        "408",
+        "考研"
+      ],
+      "wordCount": 139,
+      "order": 133,
+      "id": "f99cc86c21ab1f18"
+    },
+    {
+      "filename": "进程管理.json",
+      "title": "进程管理",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "操作系统",
+        "进程管理",
+        "408",
+        "考研"
+      ],
+      "wordCount": 190,
+      "order": 134,
+      "id": "c78d53258cb98569"
+    },
+    {
+      "filename": "内存管理.json",
+      "title": "内存管理",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "操作系统",
+        "内存管理",
+        "408",
+        "考研"
+      ],
+      "wordCount": 171,
+      "order": 135,
+      "id": "f95ae7d536f29a88"
+    },
+    {
+      "filename": "排序算法.json",
+      "title": "排序算法",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "排序",
+        "408",
+        "考研"
+      ],
+      "wordCount": 136,
+      "order": 136,
+      "id": "12144fd93355449c"
+    },
+    {
+      "filename": "树.json",
+      "title": "树",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "树",
+        "408",
+        "考研"
+      ],
+      "wordCount": 131,
+      "order": 137,
+      "id": "0ed1ab0ce7f84752"
+    },
+    {
+      "filename": "数据结构概述.json",
+      "title": "数据结构概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "408",
+        "考研"
       ],
       "wordCount": 138,
-      "order": 128,
-      "id": "2825916f24013eba"
-    },
-    {
-      "filename": "进度数据.json",
-      "title": "进度数据",
-      "description": "项目进度模型中的进度数据是用以描述和控制进度计划的信息集合。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "制定进度计划"
-      ],
-      "wordCount": 240,
-      "order": 129,
-      "id": "102170aee25e0d92"
-    },
-    {
-      "filename": "进度网络分析.json",
-      "title": "进度网络分析",
-      "description": "进度网络分析是创建项目进度模型的一种综合技术，它采用了其他几种技术，例如关键路径法（见6.5.2.2 节）、资源优化技术（见 6.5.2.3 节）和建模技术（见 6.5.2.4 节）。其他分析包括（但...",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "制定进度计划"
-      ],
-      "wordCount": 242,
-      "order": 130,
-      "id": "3060f80b88c4fcfe"
-    },
-    {
-      "filename": "进度压缩.json",
-      "title": "进度压缩",
-      "description": "进度压缩技术是指在不缩减项目范围的前提下，缩短或加快进度工期，以满足进度制约因素、强制日期或其他进度目标。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "制定进度计划"
-      ],
-      "wordCount": 474,
-      "order": 131,
-      "id": "5ddcd88950326e7e"
-    },
-    {
-      "filename": "进度预测.json",
-      "title": "进度预测",
-      "description": "进度更新即进度预测，指根据已有的信息和知识，对项目未来的情况和事件进行的估算或预计。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "监控过程组",
-        "控制进度"
-      ],
-      "wordCount": 137,
-      "order": 132,
-      "id": "d6db94806b6a7a3e"
-    },
-    {
-      "filename": "控制进度.json",
-      "title": "控制进度",
-      "description": "控制进度是监督项目状态，以更新项目进度和管理进度基准变更的过程。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "监控过程组",
-        "控制进度",
-        "PMP"
-      ],
-      "wordCount": 571,
-      "order": 133,
-      "id": "d635afeb4ca8807b"
-    },
-    {
-      "filename": "类比估算.json",
-      "title": "类比估算",
-      "description": "类比估算是一种使用相似活动或项目的历史数据，来估算当前活动或项目的持续时间或成本的技术。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "估算活动持续时间"
-      ],
-      "wordCount": 387,
-      "order": 134,
-      "id": "bd1a0f152e0876e8"
-    },
-    {
-      "filename": "里程碑清单.json",
-      "title": "里程碑清单",
-      "description": "里程碑是项目中的重要时点或事件，里程碑清单列出了$\\color{red}{所有项目里程碑}$，并指明每个里程碑是强制性的（如合同要求的）还是选择性的（如根据历史信息确定的）。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "定义活动",
-        "里程碑"
-      ],
-      "wordCount": 121,
-      "order": 135,
-      "id": "88cad64868415f9f"
-    },
-    {
-      "filename": "敏捷发布规划.json",
-      "title": "敏捷发布规划",
-      "description": "敏捷发布规划基于项目路线图和产品发展愿景，提供了高度概括的发布进度时间轴（通常是 3 到 6个月）。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "估算活动持续时间",
-        "敏捷",
-        "Sprint"
-      ],
-      "wordCount": 192,
-      "order": 136,
-      "id": "4d8307b3d976ce48"
-    },
-    {
-      "filename": "排列活动顺序.json",
-      "title": "排列活动顺序",
-      "description": "排列活动顺序是识别和记录项目活动之间的关系的过程，本过程的主要作用是定义工作之间的逻辑顺序，以便在既定的所有项目制约因素下获得最高的效率。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "排列活动顺序",
-        "PMP"
-      ],
-      "wordCount": 288,
-      "order": 137,
-      "id": "b83a5f22404ca111"
-    },
-    {
-      "filename": "确定和整合依赖关系.json",
-      "title": "确定和整合依赖关系",
-      "description": "如下所述，依赖关系可能是强制或选择的，内部或外部的。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "排列活动顺序"
-      ],
-      "wordCount": 843,
       "order": 138,
-      "id": "532f410512e9c743"
+      "id": "90c8fa0fe1292c08"
     },
     {
-      "filename": "三点估算.json",
-      "title": "三点估算",
-      "description": "通过考虑估算中的$\\color{red}{不确定性}$和风险，可以提高持续时间估算的准确性。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "数据链路层.json",
+      "title": "数据链路层",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "规划过程组",
-        "估算活动持续时间"
+        "计算机网络",
+        "数据链路层",
+        "408",
+        "考研"
       ],
-      "wordCount": 335,
+      "wordCount": 181,
       "order": 139,
-      "id": "0d29dc98f6439f7d"
+      "id": "b782d30d9b66d714"
     },
     {
-      "filename": "提前量和滞后量.json",
-      "title": "提前量和滞后量",
-      "description": "提前量是相对于紧前活动，紧后活动可以提前的时间量。",
-      "category": "软考/项目管理/项目进度管理",
+      "filename": "图.json",
+      "title": "图",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "规划过程组",
-        "排列活动顺序"
+        "数据结构",
+        "图",
+        "408",
+        "考研"
       ],
-      "wordCount": 111,
+      "wordCount": 145,
       "order": 140,
-      "id": "444b1c4edb821983"
+      "id": "188f1c029dd46c19"
     }
   ]
 }

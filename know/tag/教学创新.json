@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "教学创新",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "教育技术应用.json",
+      "title": "教育技术应用",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育技术",
+        "信息技术",
+        "教学创新"
+      ],
+      "wordCount": 3883,
+      "order": 108,
+      "id": "d5ada9171e523b31"
+    }
+  ]
+}

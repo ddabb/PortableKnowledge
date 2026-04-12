@@ -1,9 +1,22 @@
 {
   "meta": {
     "tag": "绩效管理",
-    "count": 5
+    "count": 6
   },
   "articles": [
+    {
+      "filename": "绩效管理.json",
+      "title": "绩效管理",
+      "description": "绩效管理的体系、方法和实施策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "绩效管理"
+      ],
+      "wordCount": 756,
+      "order": 164,
+      "id": "3df6d718c061ee27"
+    },
     {
       "filename": "完工尚需绩效指数.json",
       "title": "完工尚需绩效指数",
@@ -15,7 +28,7 @@
         "绩效管理"
       ],
       "wordCount": 494,
-      "order": 77,
+      "order": 216,
       "id": "82eb8041f152a6d1"
     },
     {
@@ -29,7 +42,7 @@
         "绩效管理"
       ],
       "wordCount": 255,
-      "order": 176,
+      "order": 315,
       "id": "0e976695340adbb2"
     },
     {
@@ -44,7 +57,7 @@
         "绩效指标"
       ],
       "wordCount": 210,
-      "order": 177,
+      "order": 316,
       "id": "12cfe09b1ae79faa"
     },
     {
@@ -58,7 +71,7 @@
         "绩效管理"
       ],
       "wordCount": 357,
-      "order": 178,
+      "order": 317,
       "id": "24e58ebee613bbbb"
     },
     {
@@ -72,7 +85,7 @@
         "绩效管理"
       ],
       "wordCount": 305,
-      "order": 226,
+      "order": 365,
       "id": "a0673db1bcac24d9"
     }
   ]

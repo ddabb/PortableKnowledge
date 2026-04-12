@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "tag": "教学设计",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "教学设计案例分析.json",
+      "title": "教学设计案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教学设计",
+        "案例分析",
+        "教学实践"
+      ],
+      "wordCount": 4608,
+      "order": 103,
+      "id": "a2ac6236dac775d6"
+    },
+    {
+      "filename": "教学设计与实施.json",
+      "title": "教学设计与实施",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教学设计",
+        "教学实施",
+        "教学策略"
+      ],
+      "wordCount": 3865,
+      "order": 104,
+      "id": "ef27e31f6e22c582"
+    }
+  ]
+}

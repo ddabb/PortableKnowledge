@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "应纳税所得额",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "企业所得税应纳税所得额.json",
+      "title": "企业所得税应纳税所得额",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "应纳税所得额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 941,
+      "order": 687,
+      "id": "2307cec8cfad239d"
+    }
+  ]
+}

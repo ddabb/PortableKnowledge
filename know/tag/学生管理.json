@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "tag": "学生管理",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "小学班级管理.json",
+      "title": "小学班级管理",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "班级管理",
+        "学生管理"
+      ],
+      "wordCount": 3662,
+      "order": 79,
+      "id": "f83ca1688447cb2a"
+    },
+    {
+      "filename": "班级管理案例分析.json",
+      "title": "班级管理案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "班级管理",
+        "案例分析",
+        "学生管理"
+      ],
+      "wordCount": 4327,
+      "order": 101,
+      "id": "ef11e36b15cfb901"
+    }
+  ]
+}

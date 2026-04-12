@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "公司战略",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "战略管理概述.json",
+      "title": "战略管理概述",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略管理",
+        "公司战略",
+        "CPA"
+      ],
+      "wordCount": 272,
+      "order": 629,
+      "id": "fc146a253ac6f230"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "个人所得税",
-    "count": 1
+    "count": 4
   },
   "articles": [
     {
@@ -16,8 +16,52 @@
         "汇算清缴"
       ],
       "wordCount": 2219,
-      "order": 28,
+      "order": 38,
       "id": "313befdbd2156ccb"
+    },
+    {
+      "filename": "个人所得税概述.json",
+      "title": "个人所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 550,
+      "order": 682,
+      "id": "9ddf90f68934eb79"
+    },
+    {
+      "filename": "个人所得税税收优惠.json",
+      "title": "个人所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 549,
+      "order": 683,
+      "id": "215c769b099e3c2f"
+    },
+    {
+      "filename": "个人所得税应纳税额计算.json",
+      "title": "个人所得税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "应纳税额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 759,
+      "order": 684,
+      "id": "978350a148cbae33"
     }
   ]
 }

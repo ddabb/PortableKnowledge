@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "审计报告",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "审计报告.json",
+      "title": "审计报告",
+      "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计报告",
+        "审计意见"
+      ],
+      "wordCount": 1485,
+      "order": 670,
+      "id": "201dbca9f226ac57"
+    }
+  ]
+}

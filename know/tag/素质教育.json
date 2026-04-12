@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "tag": "素质教育",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "小学教育改革与发展.json",
+      "title": "小学教育改革与发展",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育改革",
+        "素质教育"
+      ],
+      "wordCount": 3181,
+      "order": 83,
+      "id": "3fd4088869a93ee9"
+    },
+    {
+      "filename": "教育创新与改革.json",
+      "title": "教育创新与改革",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育创新",
+        "教育改革",
+        "素质教育"
+      ],
+      "wordCount": 3390,
+      "order": 105,
+      "id": "a984c08f238b1def"
+    }
+  ]
+}

@@ -1,9 +1,39 @@
 {
   "meta": {
     "tag": "质量管理",
-    "count": 2
+    "count": 5
   },
   "articles": [
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "order": 58,
+      "id": "71c39f516c268fd1"
+    },
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "order": 77,
+      "id": "ef5aeb98d5443572"
+    },
     {
       "filename": "信息系统监理.json",
       "title": "信息系统监理",
@@ -16,7 +46,7 @@
         "质量管理"
       ],
       "wordCount": 1051,
-      "order": 158,
+      "order": 297,
       "id": "8e0ddbe56e10793f"
     },
     {
@@ -31,8 +61,22 @@
         "质量管理"
       ],
       "wordCount": 1862,
-      "order": 251,
+      "order": 390,
       "id": "fa10b174d54144c2"
+    },
+    {
+      "filename": "亲和图.json",
+      "title": "亲和图",
+      "description": "一种用于组织和分析大量创意或信息的技术，通过分组整理以便进一步审查和分析。",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "数据表现",
+        "项目管理",
+        "质量管理"
+      ],
+      "wordCount": 1490,
+      "order": 394,
+      "id": "2778377756582ebd"
     }
   ]
 }

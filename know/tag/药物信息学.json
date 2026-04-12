@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "药物信息学",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "药物信息学.json",
+      "title": "药物信息学",
+      "description": "药物信息学的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物信息学"
+      ],
+      "wordCount": 627,
+      "order": 558,
+      "id": "ec33fb671d75b331"
+    }
+  ]
+}

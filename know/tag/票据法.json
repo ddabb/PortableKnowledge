@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "票据法",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "票据法概述.json",
+      "title": "票据法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "票据法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 215,
+      "order": 658,
+      "id": "b2f548bfa3843e2b"
+    }
+  ]
+}

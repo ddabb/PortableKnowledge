@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "监事会",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "公司治理.json",
+      "title": "公司治理",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "公司治理",
+        "董事会",
+        "监事会",
+        "CPA"
+      ],
+      "wordCount": 319,
+      "order": 624,
+      "id": "e25e79384e2ea402"
+    }
+  ]
+}

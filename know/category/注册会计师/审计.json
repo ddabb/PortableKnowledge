@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "category": "注册会计师/审计",
+    "count": 15
+  },
+  "articles": [
+    {
+      "filename": "采购与付款循环审计.json",
+      "title": "采购与付款循环审计",
+      "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "采购与付款循环",
+        "内部控制"
+      ],
+      "wordCount": 1060,
+      "order": 665,
+      "id": "5e0a4dc4e760fc53"
+    },
+    {
+      "filename": "风险评估.json",
+      "title": "风险评估",
+      "description": "CPA审计风险评估章节核心知识点，包括风险评估程序和重大错报风险评估",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "风险评估",
+        "重大错报风险"
+      ],
+      "wordCount": 925,
+      "order": 666,
+      "id": "05e487191787af09"
+    },
+    {
+      "filename": "会计师事务所质量控制.json",
+      "title": "会计师事务所质量控制",
+      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "质量控制",
+        "要素程序"
+      ],
+      "wordCount": 1634,
+      "order": 667,
+      "id": "6382ed54c5889567"
+    },
+    {
+      "filename": "货币资金审计.json",
+      "title": "货币资金审计",
+      "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "货币资金",
+        "内部控制"
+      ],
+      "wordCount": 784,
+      "order": 668,
+      "id": "bd85c1e789684a32"
+    },
+    {
+      "filename": "内部控制审计.json",
+      "title": "内部控制审计",
+      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "内部控制审计",
+        "内部控制"
+      ],
+      "wordCount": 1156,
+      "order": 669,
+      "id": "85b4de9995f649ea"
+    },
+    {
+      "filename": "审计报告.json",
+      "title": "审计报告",
+      "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计报告",
+        "审计意见"
+      ],
+      "wordCount": 1485,
+      "order": 670,
+      "id": "201dbca9f226ac57"
+    },
+    {
+      "filename": "审计抽样.json",
+      "title": "审计抽样",
+      "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计抽样",
+        "抽样方法"
+      ],
+      "wordCount": 843,
+      "order": 671,
+      "id": "b7a7524c3b959377"
+    },
+    {
+      "filename": "审计概述.json",
+      "title": "审计概述",
+      "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计概述",
+        "审计特征"
+      ],
+      "wordCount": 1070,
+      "order": 672,
+      "id": "7a8da7e20b2b1e63"
+    },
+    {
+      "filename": "审计工作底稿.json",
+      "title": "审计工作底稿",
+      "description": "CPA审计审计工作底稿章节核心知识点，包括审计工作底稿的编制和管理",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计工作底稿",
+        "编制管理"
+      ],
+      "wordCount": 1329,
+      "order": 673,
+      "id": "6a3934d6df0f2af4"
+    },
+    {
+      "filename": "审计计划.json",
+      "title": "审计计划",
+      "description": "CPA审计审计计划章节核心知识点，包括总体审计策略和具体审计计划",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计计划",
+        "总体审计策略"
+      ],
+      "wordCount": 969,
+      "order": 674,
+      "id": "f842f0242988dace"
+    },
+    {
+      "filename": "审计证据.json",
+      "title": "审计证据",
+      "description": "CPA审计审计证据章节核心知识点，包括审计证据的性质、获取方法和评价",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计证据",
+        "审计程序"
+      ],
+      "wordCount": 976,
+      "order": 675,
+      "id": "6286087c31894704"
+    },
+    {
+      "filename": "生产与存货循环审计.json",
+      "title": "生产与存货循环审计",
+      "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "生产与存货循环",
+        "内部控制"
+      ],
+      "wordCount": 964,
+      "order": 676,
+      "id": "facd964c35ef171a"
+    },
+    {
+      "filename": "特殊项目审计.json",
+      "title": "特殊项目审计",
+      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "特殊项目",
+        "舞弊风险"
+      ],
+      "wordCount": 1074,
+      "order": 677,
+      "id": "ad003efcd7a46dec"
+    },
+    {
+      "filename": "销售与收款循环审计.json",
+      "title": "销售与收款循环审计",
+      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "销售与收款循环",
+        "内部控制"
+      ],
+      "wordCount": 1067,
+      "order": 678,
+      "id": "883f48c880c7679e"
+    },
+    {
+      "filename": "注册会计师职业道德.json",
+      "title": "注册会计师职业道德",
+      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "职业道德",
+        "基本原则"
+      ],
+      "wordCount": 1126,
+      "order": 679,
+      "id": "a1173c0d033fea11"
+    }
+  ]
+}

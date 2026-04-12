@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "tag": "建筑工程",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "建筑工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 156,
+      "order": 50,
+      "id": "a1bcf29ecea453db"
+    },
+    {
+      "filename": "建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "建筑工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 156,
+      "order": 65,
+      "id": "30f9152bdb630791"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "tag": "消费税",
+    "count": 3
+  },
+  "articles": [
+    {
+      "filename": "消费税概述.json",
+      "title": "消费税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "消费税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 489,
+      "order": 689,
+      "id": "8a60a154349ac4a8"
+    },
+    {
+      "filename": "消费税税收优惠.json",
+      "title": "消费税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "消费税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "order": 690,
+      "id": "c8ecba9b705482cf"
+    },
+    {
+      "filename": "消费税应纳税额计算.json",
+      "title": "消费税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "消费税",
+        "应纳税额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 647,
+      "order": 691,
+      "id": "6894c86a560d13be"
+    }
+  ]
+}

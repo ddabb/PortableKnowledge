@@ -1,9 +1,234 @@
 {
   "meta": {
     "tag": "项目管理",
-    "count": 36
+    "count": 53
   },
   "articles": [
+    {
+      "filename": "项目安全管理.json",
+      "title": "项目安全管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "安全管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 200,
+      "order": 54,
+      "id": "8fe4ea7995d306b2"
+    },
+    {
+      "filename": "项目成本管理.json",
+      "title": "项目成本管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "成本管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 205,
+      "order": 55,
+      "id": "b8d7bb2f2668fe1b"
+    },
+    {
+      "filename": "项目管理实务.json",
+      "title": "项目管理实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "项目管理",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 255,
+      "order": 56,
+      "id": "af4d0bf7f7db151a"
+    },
+    {
+      "filename": "项目进度管理.json",
+      "title": "项目进度管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "进度管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 166,
+      "order": 57,
+      "id": "c7c752a4767c2f39"
+    },
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "order": 58,
+      "id": "71c39f516c268fd1"
+    },
+    {
+      "filename": "建设工程项目管理.json",
+      "title": "建设工程项目管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "项目管理",
+        "PMBOK",
+        "建造师"
+      ],
+      "wordCount": 629,
+      "order": 64,
+      "id": "7159a8aa660324b4"
+    },
+    {
+      "filename": "项目安全管理.json",
+      "title": "项目安全管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "安全管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 200,
+      "order": 69,
+      "id": "45de03bdcf1f0f2c"
+    },
+    {
+      "filename": "项目成本管理.json",
+      "title": "项目成本管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "成本管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 205,
+      "order": 70,
+      "id": "37ba86cbdaa95f4c"
+    },
+    {
+      "filename": "项目风险管理.json",
+      "title": "项目风险管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "风险管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 247,
+      "order": 71,
+      "id": "8c658d432fcf62f0"
+    },
+    {
+      "filename": "项目沟通管理.json",
+      "title": "项目沟通管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "沟通管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 224,
+      "order": 72,
+      "id": "cecb4e65997daedd"
+    },
+    {
+      "filename": "项目管理实务.json",
+      "title": "项目管理实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "项目管理",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 255,
+      "order": 73,
+      "id": "592f2ac643888a83"
+    },
+    {
+      "filename": "项目合同管理.json",
+      "title": "项目合同管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "合同管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 280,
+      "order": 74,
+      "id": "26b9c0766862828c"
+    },
+    {
+      "filename": "项目进度管理.json",
+      "title": "项目进度管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "进度管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 166,
+      "order": 75,
+      "id": "d3e3167c6698282e"
+    },
+    {
+      "filename": "项目收尾管理.json",
+      "title": "项目收尾管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "收尾管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 233,
+      "order": 76,
+      "id": "ae4580952208ff40"
+    },
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "order": 77,
+      "id": "ef5aeb98d5443572"
+    },
     {
       "filename": "项目资金需求.json",
       "title": "项目资金需求",
@@ -15,7 +240,7 @@
         "项目管理"
       ],
       "wordCount": 133,
-      "order": 78,
+      "order": 217,
       "id": "daa3243b5d47985f"
     },
     {
@@ -29,7 +254,7 @@
         "项目管理"
       ],
       "wordCount": 593,
-      "order": 93,
+      "order": 232,
       "id": "3b087e393c7e5877"
     },
     {
@@ -44,7 +269,7 @@
         "风险管理"
       ],
       "wordCount": 967,
-      "order": 114,
+      "order": 253,
       "id": "0a4634e4ade91002"
     },
     {
@@ -58,7 +283,7 @@
         "项目管理"
       ],
       "wordCount": 834,
-      "order": 141,
+      "order": 280,
       "id": "59d8d780a40f80fa"
     },
     {
@@ -72,7 +297,7 @@
         "项目管理"
       ],
       "wordCount": 289,
-      "order": 142,
+      "order": 281,
       "id": "413e6895808be0d1"
     },
     {
@@ -86,7 +311,7 @@
         "项目管理"
       ],
       "wordCount": 134,
-      "order": 143,
+      "order": 282,
       "id": "69cd523233f1e5bd"
     },
     {
@@ -100,7 +325,7 @@
         "项目管理知识体系"
       ],
       "wordCount": 317,
-      "order": 148,
+      "order": 287,
       "id": "56950ad99ae2d171"
     },
     {
@@ -113,7 +338,7 @@
         "项目管理"
       ],
       "wordCount": 653,
-      "order": 150,
+      "order": 289,
       "id": "c120e881e023dead"
     },
     {
@@ -128,7 +353,7 @@
         "质量管理"
       ],
       "wordCount": 1051,
-      "order": 158,
+      "order": 297,
       "id": "8e0ddbe56e10793f"
     },
     {
@@ -142,7 +367,7 @@
         "项目管理"
       ],
       "wordCount": 804,
-      "order": 169,
+      "order": 308,
       "id": "d1f34039b53443b6"
     },
     {
@@ -157,7 +382,7 @@
         "PMP"
       ],
       "wordCount": 733,
-      "order": 179,
+      "order": 318,
       "id": "4f5b8de293ca7fc2"
     },
     {
@@ -171,7 +396,7 @@
         "项目管理"
       ],
       "wordCount": 477,
-      "order": 181,
+      "order": 320,
       "id": "1f7b55cc50d192b7"
     },
     {
@@ -186,7 +411,7 @@
         "PMP"
       ],
       "wordCount": 696,
-      "order": 182,
+      "order": 321,
       "id": "d5d05dcc12b872d9"
     },
     {
@@ -200,7 +425,7 @@
         "项目管理"
       ],
       "wordCount": 1070,
-      "order": 196,
+      "order": 335,
       "id": "6244dedc08adfad0"
     },
     {
@@ -215,7 +440,7 @@
         "绩效指标"
       ],
       "wordCount": 109,
-      "order": 197,
+      "order": 336,
       "id": "0e4a0c5479a15d30"
     },
     {
@@ -229,7 +454,7 @@
         "项目管理"
       ],
       "wordCount": 462,
-      "order": 198,
+      "order": 337,
       "id": "793d9aba41414423"
     },
     {
@@ -245,7 +470,7 @@
         "项目管理知识体系"
       ],
       "wordCount": 520,
-      "order": 200,
+      "order": 339,
       "id": "14ea8c91bcef0af7"
     },
     {
@@ -260,7 +485,7 @@
         "PMP"
       ],
       "wordCount": 744,
-      "order": 201,
+      "order": 340,
       "id": "a82dbfd2b93fd44d"
     },
     {
@@ -275,7 +500,7 @@
         "PMP"
       ],
       "wordCount": 156,
-      "order": 202,
+      "order": 341,
       "id": "63162142f65518b1"
     },
     {
@@ -289,7 +514,7 @@
         "项目管理"
       ],
       "wordCount": 71,
-      "order": 228,
+      "order": 367,
       "id": "19afb3691bd370d0"
     },
     {
@@ -304,8 +529,36 @@
         "团队协作"
       ],
       "wordCount": 2692,
-      "order": 246,
+      "order": 385,
       "id": "3a26dcfeeff022f8"
+    },
+    {
+      "filename": "独裁型决策制定.json",
+      "title": "独裁型决策制定",
+      "description": "一种由单一决策者主导的决策方法，适用于需要快速决策的场景。",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "决策",
+        "项目管理",
+        "领导风格"
+      ],
+      "wordCount": 1229,
+      "order": 386,
+      "id": "a197252eeba2b9ab"
+    },
+    {
+      "filename": "亲和图.json",
+      "title": "亲和图",
+      "description": "一种用于组织和分析大量创意或信息的技术，通过分组整理以便进一步审查和分析。",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "数据表现",
+        "项目管理",
+        "质量管理"
+      ],
+      "wordCount": 1490,
+      "order": 394,
+      "id": "2778377756582ebd"
     },
     {
       "filename": "项目成功标准.json",
@@ -318,7 +571,7 @@
         "项目管理"
       ],
       "wordCount": 692,
-      "order": 320,
+      "order": 459,
       "id": "6ec0aaca1247a97f"
     },
     {
@@ -332,7 +585,7 @@
         "PMP"
       ],
       "wordCount": 496,
-      "order": 321,
+      "order": 460,
       "id": "d1462ae426957806"
     },
     {
@@ -345,7 +598,7 @@
         "项目管理"
       ],
       "wordCount": 570,
-      "order": 322,
+      "order": 461,
       "id": "28fbf90f2e86835c"
     },
     {
@@ -361,7 +614,7 @@
         "项目管理知识体系"
       ],
       "wordCount": 466,
-      "order": 323,
+      "order": 462,
       "id": "be6b15a9b2452508"
     },
     {
@@ -376,7 +629,7 @@
         "项目管理知识体系"
       ],
       "wordCount": 421,
-      "order": 324,
+      "order": 463,
       "id": "f0df280cd576e7ae"
     },
     {
@@ -390,7 +643,7 @@
         "项目管理"
       ],
       "wordCount": 500,
-      "order": 325,
+      "order": 464,
       "id": "f329a5f6998c2a5a"
     },
     {
@@ -405,7 +658,7 @@
         "项目管理"
       ],
       "wordCount": 1779,
-      "order": 327,
+      "order": 466,
       "id": "21c05eebccbacefb"
     },
     {
@@ -419,7 +672,7 @@
         "项目管理"
       ],
       "wordCount": 810,
-      "order": 328,
+      "order": 467,
       "id": "d3a5008427d010e5"
     },
     {
@@ -435,7 +688,7 @@
         "运营管理"
       ],
       "wordCount": 2365,
-      "order": 329,
+      "order": 468,
       "id": "72a85e59bcb1b224"
     },
     {
@@ -449,7 +702,7 @@
         "项目管理"
       ],
       "wordCount": 577,
-      "order": 330,
+      "order": 469,
       "id": "a88a820aea654258"
     },
     {
@@ -464,7 +717,7 @@
         "项目管理"
       ],
       "wordCount": 1359,
-      "order": 331,
+      "order": 470,
       "id": "902a832c9bbc0bdb"
     },
     {
@@ -478,7 +731,7 @@
         "项目管理"
       ],
       "wordCount": 1007,
-      "order": 333,
+      "order": 472,
       "id": "5f441e7a3c4020d7"
     },
     {
@@ -492,7 +745,7 @@
         "项目管理"
       ],
       "wordCount": 630,
-      "order": 335,
+      "order": 474,
       "id": "eab70acdfe7615a2"
     },
     {
@@ -506,7 +759,7 @@
         "项目管理"
       ],
       "wordCount": 103,
-      "order": 336,
+      "order": 475,
       "id": "4c7b7662d15add9d"
     },
     {
@@ -521,7 +774,7 @@
         "版本演变"
       ],
       "wordCount": 986,
-      "order": 344,
+      "order": 483,
       "id": "e5768cb7ba885bba"
     }
   ]

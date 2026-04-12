@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "内部控制审计",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "内部控制审计.json",
+      "title": "内部控制审计",
+      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "内部控制审计",
+        "内部控制"
+      ],
+      "wordCount": 1156,
+      "order": 669,
+      "id": "85b4de9995f649ea"
+    }
+  ]
+}

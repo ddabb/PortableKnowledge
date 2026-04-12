@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "药事法规",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "药事法规.json",
+      "title": "药事法规",
+      "description": "药事法规的基本内容和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药事法规"
+      ],
+      "wordCount": 1102,
+      "order": 554,
+      "id": "96e5785a6604edbe"
+    }
+  ]
+}

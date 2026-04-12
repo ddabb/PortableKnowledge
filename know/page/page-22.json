@@ -1,159 +1,315 @@
 {
   "page": 22,
-  "totalPages": 22,
-  "totalItems": 430,
+  "totalPages": 35,
+  "totalItems": 694,
   "items": [
     {
-      "filename": "如何缓解焦虑_寻找内心的平静.json",
-      "title": "如何缓解焦虑",
-      "description": "从焦虑的本质到实用的缓解方法，找回内心的平静",
-      "category": "职场生存/情绪与压力",
+      "filename": "系统架构.json",
+      "title": "系统架构",
+      "description": "架构概论、系统架构设计原则",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "焦虑",
-        "情绪调节",
-        "心理学",
-        "心理健康",
-        "冥想"
+        "系统架构",
+        "架构设计",
+        "TOGAF",
+        "ADM",
+        "价值驱动"
       ],
-      "wordCount": 2775,
+      "wordCount": 1213,
       "order": 421,
-      "id": "ae313beb8c38e2d5"
+      "id": "4d18d608c6f5855a"
     },
     {
-      "filename": "如何克服悲伤_在失落中寻找光明.json",
-      "title": "如何克服悲伤",
-      "description": "在失落中寻找光明，科学面对悲伤情绪，走出心理困境",
-      "category": "职场生存/情绪与压力",
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "悲伤处理",
-        "心理学",
-        "心理健康",
-        "情绪调节",
-        "心理韧性"
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
       ],
-      "wordCount": 2884,
+      "wordCount": 1272,
       "order": 422,
-      "id": "42095ba3a8860a7f"
+      "id": "0abfa84f1b5a76b3"
     },
     {
-      "filename": "如何培养积极心态_转变思维的艺术.json",
-      "title": "如何培养积极心态：转变思维的艺术",
-      "description": "如何培养积极心态：转变思维的艺术的核心知识点汇总",
-      "category": "职场生存/情绪与压力",
+      "filename": "信息技术服务.json",
+      "title": "信息技术服务",
+      "description": "IT服务内涵、特征、原理与组成",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "幸福感",
-        "积极心理学",
-        "心态"
+        "IT服务",
+        "PPTR",
+        "服务特征",
+        "人员",
+        "过程",
+        "技术",
+        "资源"
       ],
-      "wordCount": 4159,
+      "wordCount": 991,
       "order": 423,
-      "id": "34b5cfe0c7ce8657"
+      "id": "794574c48071d0bb"
     },
     {
-      "filename": "如何培养自我接纳.json",
-      "title": "如何培养自我接纳",
-      "description": "学会接受真实的自己，建立健康的自尊，活出自在人生",
-      "category": "职场生存/情绪与压力",
+      "filename": "信息系统及其特性.json",
+      "title": "信息系统及其特性",
+      "description": "信息系统是结合管理理论和方法，应用信息技术解决管理问题，提高生产效率的系统。信息系统具有开放性、脆弱性和健壮性等突出特性。",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "自我接纳",
-        "自尊",
-        "心理健康",
-        "心理学",
-        "积极心态"
+        "信息系统",
+        "软考备考"
       ],
-      "wordCount": 2756,
+      "wordCount": 543,
       "order": 424,
-      "id": "7767527b5bac1040"
+      "id": "1cd8778c4ef5a853"
     },
     {
-      "filename": "如何应对压力_在风暴中保持平衡.json",
-      "title": "如何应对压力",
-      "description": "从压力的本质到实用的压力管理方法，在风暴中保持平衡",
-      "category": "职场生存/情绪与压力",
+      "filename": "应用集成.json",
+      "title": "应用集成",
+      "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "压力管理",
-        "心理学",
-        "心理健康",
-        "情绪调节",
-        "心理韧性"
+        "应用集成",
+        "EAI",
+        "ESB",
+        "SOA",
+        "业务应用集成"
       ],
-      "wordCount": 3294,
+      "wordCount": 1505,
       "order": 425,
-      "id": "a3d4504c4f9577cd"
+      "id": "44ad11c8fc4dfbff"
     },
     {
-      "filename": "如何正确面对拖延症.json",
-      "title": "如何正确面对拖延症",
-      "description": "从心理机制到实用方法，系统解决拖延问题",
-      "category": "职场生存/情绪与压力",
+      "filename": "应用架构.json",
+      "title": "应用架构",
+      "description": "应用架构模式、SOA与微服务",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "拖延症",
-        "自我管理",
-        "时间管理",
-        "行为干预",
-        "心理学"
+        "应用架构",
+        "SOA",
+        "微服务",
+        "MVC",
+        "分层分域"
       ],
-      "wordCount": 1966,
+      "wordCount": 844,
       "order": 426,
-      "id": "bb7502f622413c7c"
+      "id": "e9f728e7f7a1ea26"
     },
     {
-      "filename": "拖延行为的心理机制与行为干预策略.json",
-      "title": "拖延行为的心理机制与行为干预策略",
-      "description": "拖延行为的心理机制与行为干预策略的核心知识点汇总",
-      "category": "职场生存/情绪与压力",
+      "filename": "云计算与虚拟化.json",
+      "title": "云计算与虚拟化",
+      "description": "软考中项云计算核心知识，包括云计算三种服务模式、四种部署方式及虚拟化技术要点。",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "心理学",
-        "行为干预",
-        "拖延症"
+        "云计算",
+        "虚拟化",
+        "IaaS",
+        "系统集成"
       ],
-      "wordCount": 5473,
+      "wordCount": 989,
       "order": 427,
-      "id": "97835b8cd56ba0ae"
+      "id": "668c8b1ad8186950"
     },
     {
-      "filename": "职场情绪管理_从压力应对到情绪智慧的完整体系.json",
-      "title": "职场情绪管理：从压力应对到情绪智慧的完整体系",
-      "description": "职场情绪管理：从压力应对到情绪智慧的完整体系的核心知识点汇总",
-      "category": "职场生存/情绪与压力",
+      "filename": "IT服务标准化.json",
+      "title": "IT服务标准化",
+      "description": "ITSS标准体系、服务标准及产业化",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "压力管理",
-        "情商",
-        "心理健康",
-        "职场",
-        "应对策略"
+        "ITSS",
+        "服务标准化",
+        "服务产品化",
+        "服务产业化",
+        "服务标准"
       ],
-      "wordCount": 6892,
+      "wordCount": 1161,
       "order": 428,
-      "id": "dd3da769e5257b55"
+      "id": "d10daa126be329b3"
     },
     {
-      "filename": "核心考点.json",
-      "title": "中级经济师核心考点",
-      "description": "经济师备考知识体系：经济基础、人力、金融、财政税收、工商管理",
-      "category": "中级经济师",
+      "filename": "IT服务生命周期.json",
+      "title": "IT服务生命周期",
+      "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "经济师",
-        "经济基础",
-        "null"
+        "ITSS",
+        "SDOR",
+        "战略规划",
+        "设计实现",
+        "运营提升",
+        "退役终止"
       ],
-      "wordCount": 28,
+      "wordCount": 1009,
       "order": 429,
-      "id": "c26b861be7d55dbf"
+      "id": "38d665afd4e8415a"
     },
     {
-      "filename": "核心考点.json",
-      "title": "注册会计师考试核心考点",
-      "description": "CPA备考知识体系：会计、审计、财管、税法、经济法、公司战略核心考点",
-      "category": "注册会计师",
+      "filename": "软件测试.json",
+      "title": "软件测试",
+      "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "CPA",
-        "会计",
-        "审计"
+        "软件测试",
+        "黑盒测试",
+        "白盒测试",
+        "软件开发"
       ],
-      "wordCount": 30,
+      "wordCount": 1107,
       "order": 430,
-      "id": "f6856ff8e910a234"
+      "id": "192a488ce8718492"
+    },
+    {
+      "filename": "软件工程过程.json",
+      "title": "软件工程过程",
+      "description": "软件工程过程的定义、组成要素和主要活动",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件工程",
+        "过程管理",
+        "开发活动"
+      ],
+      "wordCount": 705,
+      "order": 431,
+      "id": "65185a18e8df025f"
+    },
+    {
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件集成",
+        "中间件",
+        "API",
+        "组件技术",
+        "SOA"
+      ],
+      "wordCount": 1156,
+      "order": 432,
+      "id": "f8a4a873312b7ef4"
+    },
+    {
+      "filename": "软件开发模型.json",
+      "title": "软件开发模型",
+      "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷等模型的特点与适用场景。",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件开发",
+        "开发模型",
+        "瀑布模型",
+        "敏捷开发"
+      ],
+      "wordCount": 982,
+      "order": 433,
+      "id": "ec7d44d960838dac"
+    },
+    {
+      "filename": "软件设计.json",
+      "title": "软件设计",
+      "description": "结构化设计、面向对象设计、UML、设计原则",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件设计",
+        "结构化设计",
+        "OOD",
+        "UML",
+        "设计模式"
+      ],
+      "wordCount": 1711,
+      "order": 434,
+      "id": "008f8f7950c935c7"
+    },
+    {
+      "filename": "软件质量保证.json",
+      "title": "软件质量保证",
+      "description": "软件质量管理、SQA活动、质量模型、测试方法",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件质量",
+        "SQA",
+        "CMMI",
+        "软件测试"
+      ],
+      "wordCount": 1456,
+      "order": 435,
+      "id": "2a9e91bd4e628181"
+    },
+    {
+      "filename": "数据仓库.json",
+      "title": "数据仓库",
+      "description": "数据仓库概念、特点、架构与数据资产管理",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "数据仓库",
+        "OLAP",
+        "数据资产",
+        "主题库"
+      ],
+      "wordCount": 1694,
+      "order": 436,
+      "id": "b049e1747ee3425b"
+    },
+    {
+      "filename": "数据工程概述.json",
+      "title": "数据工程概述",
+      "description": "数据工程概念、数据采集与预处理、数据存储与管理",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "数据工程",
+        "数据采集",
+        "数据预处理",
+        "数据存储"
+      ],
+      "wordCount": 1434,
+      "order": 437,
+      "id": "5abc3a58e7e58910"
+    },
+    {
+      "filename": "数据挖掘.json",
+      "title": "数据挖掘",
+      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "数据挖掘",
+        "数据分析",
+        "数据集成",
+        "数据可视化"
+      ],
+      "wordCount": 1783,
+      "order": 438,
+      "id": "4d49fa1d72cc021d"
+    },
+    {
+      "filename": "数据治理.json",
+      "title": "数据治理",
+      "description": "数据治理框架、数据标准化、数据质量管理",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "数据治理",
+        "数据标准化",
+        "数据质量",
+        "元数据"
+      ],
+      "wordCount": 1613,
+      "order": 439,
+      "id": "8f6593ae23dbd0c8"
+    },
+    {
+      "filename": "系统运行与维护.json",
+      "title": "系统运行与维护",
+      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "系统运维",
+        "SLA",
+        "ITIL",
+        "软件开发"
+      ],
+      "wordCount": 1220,
+      "order": 440,
+      "id": "7fdb4b2adeb101bf"
     }
   ]
 }

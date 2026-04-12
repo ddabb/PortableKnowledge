@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "员工关系",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "员工关系管理.json",
+      "title": "员工关系管理",
+      "description": "员工关系管理的概念、方法和实施策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "员工关系"
+      ],
+      "wordCount": 994,
+      "order": 174,
+      "id": "a2b4325c1626edca"
+    }
+  ]
+}

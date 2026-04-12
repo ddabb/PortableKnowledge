@@ -1,0 +1,14 @@
+{
+  "filename": "传输层.json",
+  "title": "传输层",
+  "description": "",
+  "category": "考研专业课/计算机学科专业基础综合",
+  "tags": [
+    "计算机网络",
+    "传输层",
+    "408",
+    "考研"
+  ],
+  "wordCount": 187,
+  "content": "\n\n# 传输层\n\n## 传输层的基本概念\n- 传输层的功能\n- 端口的概念\n- 复用与分用\n\n## UDP协议\n- UDP的特点\n- UDP的分组格式\n- UDP的校验\n- UDP的应用场景\n\n## TCP协议\n- TCP的特点\n- TCP的分组格式\n- TCP的可靠传输机制\n- TCP的流量控制\n- TCP的拥塞控制\n- TCP的连接管理（三次握手、四次挥手）\n\n## TCP的状态机\n- TCP的状态转换\n- TIME_WAIT状态\n- CLOSE_WAIT状态"
+}

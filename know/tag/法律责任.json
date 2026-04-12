@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "tag": "法律责任",
+    "count": 3
+  },
+  "articles": [
+    {
+      "filename": "小学教育法律法规.json",
+      "title": "小学教育法律法规",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育法律法规",
+        "法律责任"
+      ],
+      "wordCount": 4252,
+      "order": 81,
+      "id": "13661ad8ab96940a"
+    },
+    {
+      "filename": "教育法律法规案例分析.json",
+      "title": "教育法律法规案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "案例分析",
+        "法律责任"
+      ],
+      "wordCount": 4480,
+      "order": 106,
+      "id": "4c465f57472777a5"
+    },
+    {
+      "filename": "教育法律法规与教师职业道德.json",
+      "title": "教育法律法规与教师职业道德",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "教师职业道德",
+        "法律责任"
+      ],
+      "wordCount": 4917,
+      "order": 107,
+      "id": "606effbf3fd22802"
+    }
+  ]
+}

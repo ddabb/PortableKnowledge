@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "总体审计策略",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "审计计划.json",
+      "title": "审计计划",
+      "description": "CPA审计审计计划章节核心知识点，包括总体审计策略和具体审计计划",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计计划",
+        "总体审计策略"
+      ],
+      "wordCount": 969,
+      "order": 674,
+      "id": "f842f0242988dace"
+    }
+  ]
+}

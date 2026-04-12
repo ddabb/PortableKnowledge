@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "tag": "教育方法",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "小学教育方法.json",
+      "title": "小学教育方法",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育方法",
+        "教学策略"
+      ],
+      "wordCount": 3351,
+      "order": 82,
+      "id": "f9709b09b7ff200c"
+    },
+    {
+      "filename": "幼儿教育方法.json",
+      "title": "幼儿教育方法",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "教育方法",
+        "幼儿教育",
+        "教资"
+      ],
+      "wordCount": 1553,
+      "order": 94,
+      "id": "b4e643bc15376f7f"
+    }
+  ]
+}

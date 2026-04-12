@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "tag": "教师职业道德",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "小学教师职业道德.json",
+      "title": "小学教师职业道德",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教师职业道德",
+        "师德师风"
+      ],
+      "wordCount": 2833,
+      "order": 80,
+      "id": "562e4f8f9266c0bb"
+    },
+    {
+      "filename": "教育法律法规与教师职业道德.json",
+      "title": "教育法律法规与教师职业道德",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "教师职业道德",
+        "法律责任"
+      ],
+      "wordCount": 4917,
+      "order": 107,
+      "id": "606effbf3fd22802"
+    }
+  ]
+}

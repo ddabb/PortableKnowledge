@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "tag": "数据结构",
+    "count": 7
+  },
+  "articles": [
+    {
+      "filename": "查找算法.json",
+      "title": "查找算法",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "查找",
+        "408",
+        "考研"
+      ],
+      "wordCount": 154,
+      "order": 130,
+      "id": "54b3ad88cd6618a8"
+    },
+    {
+      "filename": "排序算法.json",
+      "title": "排序算法",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "排序",
+        "408",
+        "考研"
+      ],
+      "wordCount": 136,
+      "order": 136,
+      "id": "12144fd93355449c"
+    },
+    {
+      "filename": "树.json",
+      "title": "树",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "树",
+        "408",
+        "考研"
+      ],
+      "wordCount": 131,
+      "order": 137,
+      "id": "0ed1ab0ce7f84752"
+    },
+    {
+      "filename": "数据结构概述.json",
+      "title": "数据结构概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "408",
+        "考研"
+      ],
+      "wordCount": 138,
+      "order": 138,
+      "id": "90c8fa0fe1292c08"
+    },
+    {
+      "filename": "图.json",
+      "title": "图",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "图",
+        "408",
+        "考研"
+      ],
+      "wordCount": 145,
+      "order": 140,
+      "id": "188f1c029dd46c19"
+    },
+    {
+      "filename": "线性表.json",
+      "title": "线性表",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "线性表",
+        "408",
+        "考研"
+      ],
+      "wordCount": 110,
+      "order": 144,
+      "id": "ee37212ca7a6548e"
+    },
+    {
+      "filename": "栈和队列.json",
+      "title": "栈和队列",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
+      "tags": [
+        "数据结构",
+        "栈",
+        "队列",
+        "408",
+        "考研"
+      ],
+      "wordCount": 123,
+      "order": 146,
+      "id": "9379ac44a55a40e5"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "职业道德",
-    "count": 1
+    "count": 2
   },
   "articles": [
     {
@@ -17,8 +17,23 @@
         "道德修养"
       ],
       "wordCount": 1786,
-      "order": 243,
+      "order": 382,
       "id": "7571d6c20b4dac1c"
+    },
+    {
+      "filename": "注册会计师职业道德.json",
+      "title": "注册会计师职业道德",
+      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "职业道德",
+        "基本原则"
+      ],
+      "wordCount": 1126,
+      "order": 679,
+      "id": "a1173c0d033fea11"
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "tag": "水利水电工程",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "水利水电工程管理与实务.json",
+      "title": "水利水电工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "水利水电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 299,
+      "order": 53,
+      "id": "2a47b56568900495"
+    },
+    {
+      "filename": "水利水电工程管理与实务.json",
+      "title": "水利水电工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "水利水电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 299,
+      "order": 68,
+      "id": "c1e52e11bb2d17af"
+    }
+  ]
+}

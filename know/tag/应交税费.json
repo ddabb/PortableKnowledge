@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "应交税费",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
+      ],
+      "wordCount": 1207,
+      "order": 647,
+      "id": "42db45ed35059dd0"
+    }
+  ]
+}

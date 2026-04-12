@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "战略控制",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "战略控制.json",
+      "title": "战略控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略控制",
+        "预算控制",
+        "平衡计分卡",
+        "CPA"
+      ],
+      "wordCount": 276,
+      "order": 630,
+      "id": "f49cbddb991d1ae2"
+    }
+  ]
+}

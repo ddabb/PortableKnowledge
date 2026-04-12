@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "外部环境",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "战略分析.json",
+      "title": "战略分析",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略分析",
+        "外部环境",
+        "内部环境",
+        "CPA"
+      ],
+      "wordCount": 391,
+      "order": 628,
+      "id": "d20a69426118ea9f"
+    }
+  ]
+}

@@ -30,7 +30,7 @@
         "认知偏差"
       ],
       "wordCount": 2478,
-      "order": 38,
+      "order": 177,
       "id": "91043131be67efa9"
     },
     {
@@ -45,7 +45,7 @@
         "认知偏差"
       ],
       "wordCount": 2537,
-      "order": 41,
+      "order": 180,
       "id": "4f5314a5b9d0b6e8"
     },
     {
@@ -60,7 +60,7 @@
         "决策"
       ],
       "wordCount": 2271,
-      "order": 43,
+      "order": 182,
       "id": "5ca0965b90878ae0"
     },
     {
@@ -75,7 +75,7 @@
         "决策"
       ],
       "wordCount": 3455,
-      "order": 44,
+      "order": 183,
       "id": "157b97b670131781"
     },
     {
@@ -90,19 +90,21 @@
         "投资分析"
       ],
       "wordCount": 2247,
-      "order": 245,
+      "order": 384,
       "id": "8e8ec6fab964e8fd"
     },
     {
       "filename": "独裁型决策制定.json",
       "title": "独裁型决策制定",
-      "description": "采用这种方法，将由一个人负责为整个集体制定决策。",
+      "description": "一种由单一决策者主导的决策方法，适用于需要快速决策的场景。",
       "category": "软考/综合知识/工具与技术",
       "tags": [
-        "决策"
+        "决策",
+        "项目管理",
+        "领导风格"
       ],
-      "wordCount": 24,
-      "order": 247,
+      "wordCount": 1229,
+      "order": 386,
       "id": "a197252eeba2b9ab"
     },
     {
@@ -114,7 +116,7 @@
         "决策"
       ],
       "wordCount": 55,
-      "order": 248,
+      "order": 387,
       "id": "20cab351439d27fa"
     },
     {
@@ -129,7 +131,7 @@
         "团队决策"
       ],
       "wordCount": 1310,
-      "order": 259,
+      "order": 398,
       "id": "eca1be53e721daa8"
     },
     {
@@ -145,7 +147,7 @@
         "后见之明"
       ],
       "wordCount": 915,
-      "order": 383,
+      "order": 522,
       "id": "0e29e4e2423aa86a"
     }
   ]

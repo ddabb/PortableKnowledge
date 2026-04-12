@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "审计工作底稿",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "审计工作底稿.json",
+      "title": "审计工作底稿",
+      "description": "CPA审计审计工作底稿章节核心知识点，包括审计工作底稿的编制和管理",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计工作底稿",
+        "编制管理"
+      ],
+      "wordCount": 1329,
+      "order": 673,
+      "id": "6a3934d6df0f2af4"
+    }
+  ]
+}

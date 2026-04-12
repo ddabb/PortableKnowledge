@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "tag": "机电工程",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "机电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 211,
+      "order": 46,
+      "id": "bfe11c4860e52603"
+    },
+    {
+      "filename": "机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "机电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 211,
+      "order": 60,
+      "id": "a7b57ed1618be4bb"
+    }
+  ]
+}

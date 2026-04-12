@@ -1,9 +1,26 @@
 {
   "meta": {
     "tag": "会计",
-    "count": 1
+    "count": 22
   },
   "articles": [
+    {
+      "filename": "会计基础知识.json",
+      "title": "会计基础知识",
+      "description": "中级经济师会计章节核心知识点，包括会计基本概念、会计要素、会计等式和会计核算方法",
+      "category": "中级经济师/基础知识",
+      "tags": [
+        "中级经济师",
+        "基础知识",
+        "会计",
+        "会计要素",
+        "会计等式",
+        "会计核算"
+      ],
+      "wordCount": 2035,
+      "order": 592,
+      "id": "d8775c080d4c94d2"
+    },
     {
       "filename": "核心考点.json",
       "title": "注册会计师考试核心考点",
@@ -15,8 +32,308 @@
         "审计"
       ],
       "wordCount": 30,
-      "order": 430,
+      "order": 607,
       "id": "f6856ff8e910a234"
+    },
+    {
+      "filename": "存货.json",
+      "title": "存货",
+      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "存货",
+        "计量方法"
+      ],
+      "wordCount": 1214,
+      "order": 633,
+      "id": "f4d27b56c0abc7b6"
+    },
+    {
+      "filename": "短期借款.json",
+      "title": "短期借款",
+      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "短期借款",
+        "利息核算"
+      ],
+      "wordCount": 674,
+      "order": 634,
+      "id": "2ce4bfe39200714a"
+    },
+    {
+      "filename": "负债概述.json",
+      "title": "负债概述",
+      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "负债",
+        "确认计量"
+      ],
+      "wordCount": 707,
+      "order": 635,
+      "id": "2a8d3bc844708f18"
+    },
+    {
+      "filename": "固定资产.json",
+      "title": "固定资产",
+      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "固定资产",
+        "折旧"
+      ],
+      "wordCount": 1300,
+      "order": 636,
+      "id": "44317f6c09f098d5"
+    },
+    {
+      "filename": "货币资金.json",
+      "title": "货币资金",
+      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "货币资金",
+        "现金管理"
+      ],
+      "wordCount": 1178,
+      "order": 637,
+      "id": "33408f637aca0506"
+    },
+    {
+      "filename": "金融资产.json",
+      "title": "金融资产",
+      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "金融资产",
+        "分类"
+      ],
+      "wordCount": 1398,
+      "order": 638,
+      "id": "0568b7fcfb220ec9"
+    },
+    {
+      "filename": "其他应付款.json",
+      "title": "其他应付款",
+      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "其他应付款",
+        "核算"
+      ],
+      "wordCount": 525,
+      "order": 639,
+      "id": "23ba7ef0a40abfe7"
+    },
+    {
+      "filename": "所有者权益概述.json",
+      "title": "所有者权益概述",
+      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "所有者权益",
+        "构成"
+      ],
+      "wordCount": 1132,
+      "order": 640,
+      "id": "602d76b9bea46d42"
+    },
+    {
+      "filename": "投资性房地产.json",
+      "title": "投资性房地产",
+      "description": "CPA会计投资性房地产章节核心知识点，包括投资性房地产的确认、计量和转换",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "投资性房地产",
+        "计量模式"
+      ],
+      "wordCount": 1634,
+      "order": 641,
+      "id": "6459a2efc0496b74"
+    },
+    {
+      "filename": "无形资产.json",
+      "title": "无形资产",
+      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "无形资产",
+        "摊销"
+      ],
+      "wordCount": 1259,
+      "order": 642,
+      "id": "b2a8b4a2135a7253"
+    },
+    {
+      "filename": "应付利息和应付股利.json",
+      "title": "应付利息和应付股利",
+      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付利息",
+        "应付股利"
+      ],
+      "wordCount": 668,
+      "order": 643,
+      "id": "548bdca14739cb31"
+    },
+    {
+      "filename": "应付票据.json",
+      "title": "应付票据",
+      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付票据",
+        "商业汇票"
+      ],
+      "wordCount": 762,
+      "order": 644,
+      "id": "b6bd3ee4d13fca56"
+    },
+    {
+      "filename": "应付账款.json",
+      "title": "应付账款",
+      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付账款",
+        "现金折扣"
+      ],
+      "wordCount": 1044,
+      "order": 645,
+      "id": "2350ee48d8cc9b5b"
+    },
+    {
+      "filename": "应付职工薪酬.json",
+      "title": "应付职工薪酬",
+      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付职工薪酬",
+        "核算"
+      ],
+      "wordCount": 1144,
+      "order": 646,
+      "id": "568e00039dccb6b5"
+    },
+    {
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
+      ],
+      "wordCount": 1207,
+      "order": 647,
+      "id": "42db45ed35059dd0"
+    },
+    {
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应收账款",
+        "应收票据"
+      ],
+      "wordCount": 1285,
+      "order": 648,
+      "id": "b149d1a5237bfb5f"
+    },
+    {
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "预收账款",
+        "核算"
+      ],
+      "wordCount": 702,
+      "order": 649,
+      "id": "5a1db8a8635278a1"
+    },
+    {
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
+      ],
+      "wordCount": 1636,
+      "order": 650,
+      "id": "ea6795870a4ab109"
+    },
+    {
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
+      ],
+      "wordCount": 1007,
+      "order": 651,
+      "id": "f71eb9e8b48a6518"
+    },
+    {
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
+      ],
+      "wordCount": 665,
+      "order": 652,
+      "id": "0d0c571d57a88cef"
     }
   ]
 }

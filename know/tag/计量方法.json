@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "计量方法",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "存货.json",
+      "title": "存货",
+      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "存货",
+        "计量方法"
+      ],
+      "wordCount": 1214,
+      "order": 633,
+      "id": "f4d27b56c0abc7b6"
+    }
+  ]
+}

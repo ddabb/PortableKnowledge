@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "收尾管理",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "项目收尾管理.json",
+      "title": "项目收尾管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "收尾管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 233,
+      "order": 76,
+      "id": "ae4580952208ff40"
+    }
+  ]
+}

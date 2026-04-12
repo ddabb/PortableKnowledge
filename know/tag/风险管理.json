@@ -1,9 +1,24 @@
 {
   "meta": {
     "tag": "风险管理",
-    "count": 11
+    "count": 13
   },
   "articles": [
+    {
+      "filename": "项目风险管理.json",
+      "title": "项目风险管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "风险管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 247,
+      "order": 71,
+      "id": "8c658d432fcf62f0"
+    },
     {
       "filename": "风险报告.json",
       "title": "风险报告",
@@ -15,7 +30,7 @@
         "风险管理"
       ],
       "wordCount": 282,
-      "order": 100,
+      "order": 239,
       "id": "4d6365b8d14d49cc"
     },
     {
@@ -29,7 +44,7 @@
         "风险管理"
       ],
       "wordCount": 542,
-      "order": 101,
+      "order": 240,
       "id": "28fc22cb0d199fd4"
     },
     {
@@ -43,7 +58,7 @@
         "风险管理"
       ],
       "wordCount": 239,
-      "order": 102,
+      "order": 241,
       "id": "56fb9255815a34de"
     },
     {
@@ -58,7 +73,7 @@
         "PMP"
       ],
       "wordCount": 258,
-      "order": 103,
+      "order": 242,
       "id": "d068c1627934ffd0"
     },
     {
@@ -73,7 +88,7 @@
         "PMP"
       ],
       "wordCount": 692,
-      "order": 104,
+      "order": 243,
       "id": "209be3ae252eca20"
     },
     {
@@ -88,7 +103,7 @@
         "PMP"
       ],
       "wordCount": 391,
-      "order": 106,
+      "order": 245,
       "id": "23ef1fe06f776588"
     },
     {
@@ -103,7 +118,7 @@
         "PMP"
       ],
       "wordCount": 633,
-      "order": 107,
+      "order": 246,
       "id": "57ee24b1c0b9ab2f"
     },
     {
@@ -118,7 +133,7 @@
         "PMP"
       ],
       "wordCount": 1454,
-      "order": 108,
+      "order": 247,
       "id": "635fd39d6b9e5c81"
     },
     {
@@ -133,7 +148,7 @@
         "PMP"
       ],
       "wordCount": 575,
-      "order": 109,
+      "order": 248,
       "id": "57d35c318329aec5"
     },
     {
@@ -148,7 +163,7 @@
         "PMP"
       ],
       "wordCount": 304,
-      "order": 110,
+      "order": 249,
       "id": "69ec112cfa793374"
     },
     {
@@ -163,8 +178,22 @@
         "风险管理"
       ],
       "wordCount": 967,
-      "order": 114,
+      "order": 253,
       "id": "0a4634e4ade91002"
+    },
+    {
+      "filename": "风险与风险管理.json",
+      "title": "风险与风险管理",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "风险",
+        "风险管理",
+        "CPA"
+      ],
+      "wordCount": 325,
+      "order": 623,
+      "id": "c8ef74778c2a8653"
     }
   ]
 }

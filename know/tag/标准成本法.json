@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "标准成本法",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "标准成本法.json",
+      "title": "标准成本法",
+      "description": "CPA财务成本管理标准成本法章节核心知识点，包括标准成本的制定和差异分析",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "标准成本法",
+        "差异分析"
+      ],
+      "wordCount": 1197,
+      "order": 609,
+      "id": "ada36c7df44cfc8c"
+    }
+  ]
+}

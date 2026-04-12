@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "教育理论",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "教育学基础知识.json",
+      "title": "教育学基础知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育学",
+        "基础知识",
+        "教育理论"
+      ],
+      "wordCount": 2777,
+      "order": 113,
+      "id": "f0460d10e2cbd9fe"
+    }
+  ]
+}

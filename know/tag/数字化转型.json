@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "数字化转型",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
@@ -14,7 +14,7 @@
         "软考备考"
       ],
       "wordCount": 521,
-      "order": 314,
+      "order": 453,
       "id": "85c4495592491abf"
     },
     {
@@ -28,8 +28,22 @@
         "软考备考"
       ],
       "wordCount": 409,
-      "order": 341,
+      "order": 480,
       "id": "be384342350e68e2"
+    },
+    {
+      "filename": "数字化转型战略.json",
+      "title": "数字化转型战略",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "数字化转型",
+        "战略",
+        "CPA"
+      ],
+      "wordCount": 395,
+      "order": 627,
+      "id": "905b4983f825a260"
     }
   ]
 }

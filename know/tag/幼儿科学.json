@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "幼儿科学",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "幼儿科学教育.json",
+      "title": "幼儿科学教育",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "科学教育",
+        "幼儿科学",
+        "教资"
+      ],
+      "wordCount": 3370,
+      "order": 95,
+      "id": "085a0987c5052b3e"
+    }
+  ]
+}

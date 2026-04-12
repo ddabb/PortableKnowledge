@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "抽样方法",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "审计抽样.json",
+      "title": "审计抽样",
+      "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计抽样",
+        "抽样方法"
+      ],
+      "wordCount": 843,
+      "order": 671,
+      "id": "b7a7524c3b959377"
+    }
+  ]
+}

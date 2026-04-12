@@ -1,6 +1,6 @@
 {
   "meta": {
-    "tag": "null",
+    "tag": "人力",
     "count": 1
   },
   "articles": [
@@ -12,10 +12,13 @@
       "tags": [
         "经济师",
         "经济基础",
-        "null"
+        "人力",
+        "金融",
+        "财政税收",
+        "工商管理"
       ],
-      "wordCount": 28,
-      "order": 429,
+      "wordCount": 3563,
+      "order": 582,
       "id": "c26b861be7d55dbf"
     }
   ]

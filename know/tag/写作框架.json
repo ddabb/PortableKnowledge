@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "写作框架",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "大作文框架.json",
+      "title": "大作文框架",
+      "description": "",
+      "category": "公务员/申论",
+      "tags": [
+        "申论",
+        "大作文",
+        "议论文",
+        "写作框架"
+      ],
+      "wordCount": 135,
+      "order": 27,
+      "id": "80662090c6f5d919"
+    }
+  ]
+}

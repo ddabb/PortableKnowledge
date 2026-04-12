@@ -1,9 +1,23 @@
 {
   "meta": {
     "tag": "认知发展",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "幼儿认知发展.json",
+      "title": "幼儿认知发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "认知发展",
+        "幼儿认知",
+        "教资"
+      ],
+      "wordCount": 3651,
+      "order": 97,
+      "id": "c000081953871a25"
+    },
     {
       "filename": "皮亚杰认知发展阶段.json",
       "title": "皮亚杰认知发展阶段专题",
@@ -16,7 +30,7 @@
         "去自我中心"
       ],
       "wordCount": 1996,
-      "order": 366,
+      "order": 505,
       "id": "e70d25c2fa2cd36d"
     }
   ]

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "临床药理学",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "临床药理学.json",
+      "title": "临床药理学",
+      "description": "临床药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "临床药理学"
+      ],
+      "wordCount": 928,
+      "order": 550,
+      "id": "019a37c34d921c94"
+    }
+  ]
+}

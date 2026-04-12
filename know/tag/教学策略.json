@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "tag": "教学策略",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "小学教育方法.json",
+      "title": "小学教育方法",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育方法",
+        "教学策略"
+      ],
+      "wordCount": 3351,
+      "order": 82,
+      "id": "f9709b09b7ff200c"
+    },
+    {
+      "filename": "教学设计与实施.json",
+      "title": "教学设计与实施",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教学设计",
+        "教学实施",
+        "教学策略"
+      ],
+      "wordCount": 3865,
+      "order": 104,
+      "id": "ef27e31f6e22c582"
+    }
+  ]
+}

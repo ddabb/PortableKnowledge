@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "学校管理",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "学校管理.json",
+      "title": "学校管理",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "学校管理",
+        "考研"
+      ],
+      "wordCount": 509,
+      "order": 162,
+      "id": "5739365a0d864529"
+    }
+  ]
+}
