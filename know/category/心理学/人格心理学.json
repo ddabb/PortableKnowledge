@@ -1,9 +1,25 @@
 {
   "meta": {
     "category": "心理学/人格心理学",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "人格评估方法.json",
+      "title": "人格评估方法专题",
+      "description": "人格评估的主要方法：自陈量表、投射测验、行为观察、评价量表",
+      "category": "心理学/人格心理学",
+      "tags": [
+        "人格评估",
+        "MMPI",
+        "投射测验",
+        "罗夏墨迹",
+        "16PF"
+      ],
+      "wordCount": 1495,
+      "order": 375,
+      "id": "f38c16be70111a8a"
+    },
     {
       "filename": "人格理论.json",
       "title": "人格心理学专题",
@@ -17,7 +33,7 @@
         "精神分析"
       ],
       "wordCount": 1276,
-      "order": 372,
+      "order": 376,
       "id": "6c75413d33c4ba6a"
     }
   ]
