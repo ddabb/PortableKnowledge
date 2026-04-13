@@ -1,294 +1,246 @@
 {
   "page": 14,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "问题解决与推理.json",
-      "title": "问题解决与推理专题",
-      "description": "问题解决的定义、问题空间、启发法与算法、推理类型（演绎、归纳）、影响因素",
-      "category": "心理学/认知心理学",
+      "filename": "学习理论.json",
+      "title": "学习理论",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
       "tags": [
-        "问题解决",
-        "推理",
-        "启发法",
-        "算法",
-        "演绎推理",
-        "归纳推理"
+        "教育学",
+        "学习理论",
+        "考研"
       ],
-      "wordCount": 1140,
-      "id": "ba655ebf8847089f"
+      "wordCount": 557,
+      "id": "9e9ce2126377fc96"
     },
     {
-      "filename": "元认知.json",
-      "title": "元认知专题",
-      "description": "元认知的定义与构成（Flavell）、元认知知识、元认知监控、元认知调节策略",
-      "category": "心理学/认知心理学",
+      "filename": "学校管理.json",
+      "title": "学校管理",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
       "tags": [
-        "元认知",
-        "元认知知识",
-        "元认知监控",
-        "学习策略"
+        "教育学",
+        "学校管理",
+        "考研"
       ],
-      "wordCount": 1179,
-      "id": "36295f2c1ae09532"
+      "wordCount": 509,
+      "id": "5739365a0d864529"
     },
     {
-      "filename": "注意理论与选择性注意.json",
-      "title": "注意理论与选择性注意专题",
-      "description": "注意的定义与类型、过滤器理论、衰减理论、注意的资源理论、注意的选择性",
-      "category": "心理学/认知心理学",
+      "filename": "中国教育史概述.json",
+      "title": "中国教育史概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
       "tags": [
-        "注意",
-        "过滤器理论",
-        "资源理论",
-        "选择性注意"
+        "教育学",
+        "中国教育史",
+        "考研"
       ],
-      "wordCount": 1321,
-      "id": "371ab4ad929d5fa1"
+      "wordCount": 373,
+      "id": "4c97f0f84e412346"
     },
     {
-      "filename": "攻击行为.json",
-      "title": "攻击行为专题",
-      "description": "攻击行为的定义与分类、挫折-攻击理论、社会学习理论、减少攻击的方法",
-      "category": "心理学/社会心理学",
+      "filename": "心理学备考综合指南.json",
+      "title": "心理学备考综合指南",
+      "description": "心理学高频考点速查表、计算题公式汇总、简答论述答题模板、备考策略",
+      "category": "考研专业课/心理学备考",
       "tags": [
-        "攻击行为",
-        "挫折-攻击",
-        "暴力媒体",
-        "敌意性攻击"
+        "心理学备考",
+        "高频考点",
+        "计算公式",
+        "答题模板"
       ],
-      "wordCount": 1300,
-      "id": "3500bca6e4ba2570"
+      "wordCount": 2110,
+      "id": "f964c9fe63d8c5c3"
     },
     {
-      "filename": "沟通与人际交往.json",
-      "title": "沟通与人际交往专题",
-      "description": "沟通的基本要素、言语沟通与非言语沟通、沟通障碍与改善、人际交往原则",
-      "category": "心理学/社会心理学",
+      "filename": "绩效管理.json",
+      "title": "绩效管理",
+      "description": "绩效管理的体系、方法和实施策略",
+      "category": "人力资源管理师",
       "tags": [
-        "沟通",
-        "非言语沟通",
-        "人际交往",
-        "沟通障碍"
+        "人力资源管理师",
+        "绩效管理"
       ],
-      "wordCount": 1477,
-      "id": "5f9c4f61aff092d3"
+      "wordCount": 756,
+      "id": "3df6d718c061ee27"
     },
     {
-      "filename": "归因理论.json",
-      "title": "归因理论专题",
-      "description": "基本归因错误、协变原理、Kelley的归因维度、自我服务偏差",
-      "category": "心理学/社会心理学",
+      "filename": "劳动法规.json",
+      "title": "劳动法规",
+      "description": "劳动法规的基本内容、应用和合规管理",
+      "category": "人力资源管理师",
       "tags": [
-        "归因理论",
-        "基本归因错误",
-        "归因维度",
-        "自我服务偏差"
+        "人力资源管理师",
+        "劳动法规"
       ],
-      "wordCount": 920,
-      "id": "9bbad1b3c61c60a0"
+      "wordCount": 1072,
+      "id": "40b246defbcf3d65"
     },
     {
-      "filename": "偏见与歧视.json",
-      "title": "偏见与歧视专题",
-      "description": "偏见、歧视、刻板印象的概念；偏见产生的原因与减少方法",
-      "category": "心理学/社会心理学",
+      "filename": "劳动关系.json",
+      "title": "劳动关系",
+      "description": "劳动关系的概念、管理和协调策略",
+      "category": "人力资源管理师",
       "tags": [
-        "偏见",
-        "歧视",
-        "刻板印象",
-        "偏见减少"
+        "人力资源管理师",
+        "劳动关系"
       ],
-      "wordCount": 970,
-      "id": "e2378d627eb653c0"
+      "wordCount": 774,
+      "id": "fd236277fb520467"
     },
     {
-      "filename": "亲社会行为与助人行为.json",
-      "title": "亲社会行为与助人行为专题",
-      "description": "亲社会行为的定义、旁观者效应、影响因素、四种亲社会理论",
-      "category": "心理学/社会心理学",
+      "filename": "培训开发.json",
+      "title": "培训开发",
+      "description": "培训开发的体系、方法和实施策略",
+      "category": "人力资源管理师",
       "tags": [
-        "亲社会行为",
-        "助人行为",
-        "旁观者效应",
-        "社会责任"
+        "人力资源管理师",
+        "培训",
+        "开发"
       ],
-      "wordCount": 1256,
-      "id": "d449fad4e76db37d"
+      "wordCount": 697,
+      "id": "4b0e8eca0f576f1d"
     },
     {
-      "filename": "群体心理现象.json",
-      "title": "群体心理现象专题",
-      "description": "群体极化、群体思维、去个体化、社会懈怠的概念、原因与经典实验",
-      "category": "心理学/社会心理学",
+      "filename": "核心考点.json",
+      "title": "人力资源管理师核心考点",
+      "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
+      "category": "人力资源管理师",
       "tags": [
-        "群体极化",
-        "群体思维",
-        "去个体化",
-        "社会懈怠",
-        "群体影响"
+        "人力资源",
+        "HR",
+        "劳动法"
       ],
-      "wordCount": 1372,
-      "id": "349434d472e5818d"
+      "wordCount": 30,
+      "id": "89130bc5d5b8903d"
     },
     {
-      "filename": "人际吸引与爱情.json",
-      "title": "人际吸引与爱情专题",
-      "description": "人际吸引的规则（接近性、熟悉性、相似性、互补性）、爱情三角理论、依恋风格",
-      "category": "心理学/社会心理学",
+      "filename": "人力资源管理师职业发展.json",
+      "title": "人力资源管理师职业发展",
+      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
+      "category": "人力资源管理师",
       "tags": [
-        "人际吸引",
-        "爱情三角",
-        "接近性",
-        "相似性"
+        "人力资源管理师",
+        "职业发展"
       ],
-      "wordCount": 1216,
-      "id": "0f579c8c18d3e31a"
+      "wordCount": 932,
+      "id": "b003aff1861bb29f"
     },
     {
-      "filename": "社会影响_从众与服从.json",
-      "title": "社会影响：从众与服从专题",
-      "description": "从众的定义与原因、服从的Milgram实验、顺从与登门槛效应",
-      "category": "心理学/社会心理学",
+      "filename": "人力资源规划.json",
+      "title": "人力资源规划",
+      "description": "人力资源规划的核心概念、流程和实践方法",
+      "category": "人力资源管理师",
       "tags": [
-        "从众",
-        "服从",
-        "顺从",
-        "Milgram",
-        "社会影响"
+        "人力资源管理师",
+        "人力资源规划"
       ],
-      "wordCount": 1001,
-      "id": "96a40a23aa600945"
+      "wordCount": 523,
+      "id": "7d04338392048966"
     },
     {
-      "filename": "态度与态度改变.json",
-      "title": "态度与态度改变专题",
-      "description": "态度的ABC成分、态度与行为的关系、说服的两种路径（精细加工可能性模型）",
-      "category": "心理学/社会心理学",
+      "filename": "人力资源信息化.json",
+      "title": "人力资源信息化",
+      "description": "人力资源信息化的概念、实施和管理策略",
+      "category": "人力资源管理师",
       "tags": [
-        "态度",
-        "态度改变",
-        "说服",
-        "精细加工可能性模型"
+        "人力资源管理师",
+        "人力资源信息化"
       ],
-      "wordCount": 1105,
-      "id": "f3717a4e30e52c25"
+      "wordCount": 873,
+      "id": "22b9ef7332fc03a9"
     },
     {
-      "filename": "印象形成与社会认知.json",
-      "title": "印象形成与社会认知专题",
-      "description": "印象形成的线索与效应、首因效应、近因效应、光环效应、社会认知偏差",
-      "category": "心理学/社会心理学",
+      "filename": "薪酬管理.json",
+      "title": "薪酬管理",
+      "description": "薪酬管理的体系、设计和实施策略",
+      "category": "人力资源管理师",
       "tags": [
-        "印象形成",
-        "首因效应",
-        "光环效应",
-        "社会认知"
+        "人力资源管理师",
+        "薪酬管理"
       ],
-      "wordCount": 1387,
-      "id": "27cd97f465ad0abd"
+      "wordCount": 733,
+      "id": "c450ac405a5ae475"
     },
     {
-      "filename": "反套路消费指南_如何识别商家的心理陷阱.json",
-      "title": "反套路消费指南：如何识别商家的心理陷阱",
-      "description": "反套路消费指南：如何识别商家的心理陷阱的核心知识点汇总",
-      "category": "心理学/消费心理学",
+      "filename": "员工福利管理.json",
+      "title": "员工福利管理",
+      "description": "员工福利管理的体系、设计和实施策略",
+      "category": "人力资源管理师",
       "tags": [
-        "消费心理学",
-        "决策",
-        "行为经济学"
+        "人力资源管理师",
+        "员工福利"
       ],
-      "wordCount": 10248,
-      "id": "65db8e72e2c0e453"
+      "wordCount": 828,
+      "id": "6e92b5ebeb4989fb"
     },
     {
-      "filename": "标准化与常模.json",
-      "title": "标准化与常模专题",
-      "description": "标准化施测程序、常模类型（年龄常模、年级常模、百分位常模）、分数解释",
-      "category": "心理学/心理测量",
+      "filename": "员工关系管理.json",
+      "title": "员工关系管理",
+      "description": "员工关系管理的概念、方法和实施策略",
+      "category": "人力资源管理师",
       "tags": [
-        "标准化",
-        "常模",
-        "百分位",
-        "心理测量"
+        "人力资源管理师",
+        "员工关系"
       ],
-      "wordCount": 1229,
-      "id": "5aabc0dedf9caa17"
+      "wordCount": 994,
+      "id": "a2b4325c1626edca"
     },
     {
-      "filename": "难度与区分度.json",
-      "title": "难度与区分度专题",
-      "description": "难度的定义与计算、区分度的定义与计算、难度与信效度的关系",
-      "category": "心理学/心理测量",
+      "filename": "战略性人力资源管理.json",
+      "title": "战略性人力资源管理",
+      "description": "战略性人力资源管理的概念、实施和管理策略",
+      "category": "人力资源管理师",
       "tags": [
-        "难度",
-        "区分度",
-        "项目分析",
-        "心理测量"
+        "人力资源管理师",
+        "战略性人力资源管理"
       ],
-      "wordCount": 1154,
-      "id": "88755c157dc033c9"
+      "wordCount": 883,
+      "id": "4e0c2768a54f324e"
     },
     {
-      "filename": "信度与效度.json",
-      "title": "心理测量基础专题",
-      "description": "信度的定义与类型、效度的定义与类型、信度与效度的关系及计算方法",
-      "category": "心理学/心理测量",
+      "filename": "招聘与配置.json",
+      "title": "招聘与配置",
+      "description": "招聘与配置的流程、方法和最佳实践",
+      "category": "人力资源管理师",
       "tags": [
-        "信度",
-        "效度",
-        "重测信度",
-        "内容效度",
-        "结构效度"
+        "人力资源管理师",
+        "招聘",
+        "配置"
       ],
-      "wordCount": 1529,
-      "id": "8df86894a83d77e6"
+      "wordCount": 720,
+      "id": "5c83fb187aec2197"
     },
     {
-      "filename": "操作性条件反射.json",
-      "title": "操作性条件反射专题",
-      "description": "桑代克效果率、斯金纳实验、四种强化与惩罚、消退与维持",
-      "category": "心理学/行为心理学",
-      "tags": [
-        "操作性条件反射",
-        "强化",
-        "惩罚",
-        "消退",
-        "斯金纳"
-      ],
-      "wordCount": 1204,
-      "id": "8645d8be37792e64"
+      "filename": "二、什么是邓宁-克鲁格效应.json",
+      "title": "二、什么是邓宁-克鲁格效应",
+      "description": "二、什么是邓宁-克鲁格效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 212,
+      "id": "3eab9c3d911e8a79"
     },
     {
-      "filename": "观察学习与社会学习.json",
-      "title": "观察学习与社会学习专题",
-      "description": "班杜拉观察学习四过程、直接强化与替代强化、自我强化",
-      "category": "心理学/行为心理学",
-      "tags": [
-        "观察学习",
-        "班杜拉",
-        "社会学习理论",
-        "替代强化"
-      ],
-      "wordCount": 652,
-      "id": "0186b616b1f60c25"
+      "filename": "二、什么是锚定效应.json",
+      "title": "二、什么是锚定效应",
+      "description": "二、什么是锚定效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 136,
+      "id": "384cd6145da01a34"
     },
     {
-      "filename": "经典条件反射.json",
-      "title": "经典条件反射专题",
-      "description": "巴甫洛夫实验、基本概念（UCS/UCR/CS/CR）、习得与消退、泛化与分化",
-      "category": "心理学/行为心理学",
-      "tags": [
-        "经典条件反射",
-        "巴甫洛夫",
-        "条件反射",
-        "消退",
-        "泛化",
-        "分化"
-      ],
-      "wordCount": 1022,
-      "id": "4709c7b94aaf1b3b"
+      "filename": "二、什么是破窗效应.json",
+      "title": "二、什么是破窗效应",
+      "description": "二、什么是破窗效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 149,
+      "id": "f9f0436fa1ebe7d3"
     }
   ]
 }

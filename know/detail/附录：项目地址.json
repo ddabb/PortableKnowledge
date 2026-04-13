@@ -1,0 +1,9 @@
+{
+  "filename": "附录：项目地址.json",
+  "title": "附录：项目地址",
+  "description": "附录：项目地址",
+  "category": "产品研发/开源生态",
+  "tags": [],
+  "wordCount": 140,
+  "content": "\n\n## 附录：项目地址\r\n\r\n**GitHub 仓库：** `github.com/ddabb/随身工具宝`\r\n\r\n**开源协议：** MIT License\r\n\r\n**使用方式：**\r\n1. Clone 或 Fork 项目\r\n2. 导入微信开发者工具\r\n3. 修改 AppID（用自己的）\r\n4. 编译运行\r\n\r\n**如果觉得有用，欢迎给个 Star ⭐**\n"
+}

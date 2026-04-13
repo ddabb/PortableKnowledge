@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "投资理财",
-    "count": 2
+    "count": 1
   },
   "articles": [
     {
@@ -17,20 +17,6 @@
       ],
       "wordCount": 871,
       "id": "09a2db743a62a947"
-    },
-    {
-      "filename": "基金投资入门完全指南.json",
-      "title": "基金投资入门完全指南",
-      "description": "从零了解基金类型、购买渠道、选择方法和投资策略",
-      "category": "家庭理财",
-      "tags": [
-        "基金",
-        "投资理财",
-        "被动收入",
-        "资产配置"
-      ],
-      "wordCount": 1735,
-      "id": "2dbf3ed33b83b24c"
     }
   ]
 }

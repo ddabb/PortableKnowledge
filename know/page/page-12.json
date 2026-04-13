@@ -1,284 +1,280 @@
 {
   "page": 12,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "实际应用.json",
-      "title": "实际应用",
+      "filename": "论证有效性分析.json",
+      "title": "论证有效性分析",
       "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 20,
-      "id": "1336a80ff70a9bb5"
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "写作",
+        "论证有效性分析",
+        "考研"
+      ],
+      "wordCount": 659,
+      "id": "7b2912b39b505a2a"
     },
     {
-      "filename": "相关资源.json",
-      "title": "相关资源",
+      "filename": "逻辑推理概述.json",
+      "title": "逻辑推理概述",
       "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 39,
-      "id": "02f0b83724eaef56"
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "逻辑",
+        "考研"
+      ],
+      "wordCount": 535,
+      "id": "f7cba9894be0249b"
     },
     {
-      "filename": "详细说明.json",
-      "title": "详细说明",
+      "filename": "数据分析.json",
+      "title": "数据分析",
       "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 18,
-      "id": "53f43299e784fc12"
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "数学",
+        "数据分析",
+        "考研"
+      ],
+      "wordCount": 615,
+      "id": "56d2551109480057"
     },
     {
-      "filename": "谨防电信网络诈骗.json",
-      "title": "谨防电信网络诈骗",
-      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
-      "category": "生活通识/安全防范",
+      "filename": "数学基础概述.json",
+      "title": "数学基础概述",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "诈骗",
-        "电信诈骗",
-        "网络安全",
-        "防骗"
+        "管理类联考",
+        "数学",
+        "考研"
       ],
-      "wordCount": 1566,
-      "id": "444d4679ff7bbc0e"
+      "wordCount": 512,
+      "id": "fbac4cc196455609"
     },
     {
-      "filename": "日常生活诈骗防范.json",
-      "title": "日常生活诈骗防范",
-      "description": "生活中常见诈骗手段识别与防范技巧",
-      "category": "生活通识/安全防范",
+      "filename": "算术.json",
+      "title": "算术",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "诈骗",
-        "防范",
-        "安全",
-        "日常生活"
+        "管理类联考",
+        "数学",
+        "算术",
+        "考研"
       ],
-      "wordCount": 1473,
-      "id": "ec65bf0a0ca6a151"
+      "wordCount": 452,
+      "id": "c7264cd59e76d049"
     },
     {
-      "filename": "远离黄赌毒.json",
-      "title": "远离黄赌毒",
-      "description": "了解黄赌毒的危害，树立健康生活态度",
-      "category": "生活通识/安全防范",
+      "filename": "写作概述.json",
+      "title": "写作概述",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "黄赌毒",
-        "法治",
-        "健康",
-        "安全"
+        "管理类联考",
+        "写作",
+        "考研"
       ],
-      "wordCount": 1897,
-      "id": "e9687edd5b3a26f2"
+      "wordCount": 587,
+      "id": "6f4d5a8c7a82f6f0"
     },
     {
-      "filename": "心肺复苏步骤.json",
-      "title": "心肺复苏步骤",
-      "description": "心肺复苏（CPR）的正确操作步骤和注意事项",
-      "category": "生活通识/急救知识",
+      "filename": "形式逻辑.json",
+      "title": "形式逻辑",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "心肺复苏",
-        "CPR",
-        "急救",
-        "急救技能"
+        "管理类联考",
+        "逻辑",
+        "形式逻辑",
+        "考研"
       ],
-      "wordCount": 1823,
-      "id": "d5eb1e186390fa52"
+      "wordCount": 540,
+      "id": "ad79d4df010e1540"
     },
     {
-      "filename": "癌症预防完全指南.json",
-      "title": "癌症预防完全指南",
-      "description": "常见癌症类型、危险因素、预防措施和早期筛查方法",
-      "category": "生活通识/健康养生",
+      "filename": "综合推理.json",
+      "title": "综合推理",
+      "description": "",
+      "category": "考研专业课/管理类联考",
       "tags": [
-        "癌症预防",
-        "肿瘤",
-        "早筛",
-        "健康管理",
-        "致癌物"
+        "管理类联考",
+        "逻辑",
+        "综合推理",
+        "考研"
       ],
-      "wordCount": 2436,
-      "id": "1bec7e1390f5bba6"
+      "wordCount": 651,
+      "id": "bcc6026be1636404"
     },
     {
-      "filename": "呼吸系统疾病预防指南.json",
-      "title": "呼吸系统疾病预防完全指南",
-      "description": "感冒、流感、肺炎、慢阻肺、哮喘等常见呼吸系统疾病的预防措施",
-      "category": "生活通识/健康养生",
+      "filename": "操作系统概述.json",
+      "title": "操作系统概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "呼吸系统",
-        "疾病预防",
-        "感冒",
-        "流感",
-        "肺炎",
-        "慢阻肺",
-        "哮喘"
+        "操作系统",
+        "408",
+        "考研"
       ],
-      "wordCount": 2823,
-      "id": "ccdb2bcab32054e3"
+      "wordCount": 161,
+      "id": "ee98917a80aa4155"
     },
     {
-      "filename": "如何培养健康的睡眠习惯.json",
-      "title": "如何培养健康的睡眠习惯",
-      "description": "从睡眠机制到实用方法，建立科学睡眠模式，提升睡眠质量",
-      "category": "生活通识/健康养生",
+      "filename": "查找算法.json",
+      "title": "查找算法",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "睡眠",
-        "健康管理",
-        "作息",
-        "睡眠质量"
+        "数据结构",
+        "查找",
+        "408",
+        "考研"
       ],
-      "wordCount": 1004,
-      "id": "c4808af2f4cd96c9"
+      "wordCount": 154,
+      "id": "54b3ad88cd6618a8"
     },
     {
-      "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
-      "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",
-      "description": "睡眠革命：从科学睡眠到能量管理的高效生活方式的核心知识点汇总",
-      "category": "生活通识/健康养生",
+      "filename": "传输层.json",
+      "title": "传输层",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "精力管理",
-        "睡眠",
-        "健康"
+        "计算机网络",
+        "传输层",
+        "408",
+        "考研"
       ],
-      "wordCount": 5551,
-      "id": "2cb0a104bfd0e6b4"
+      "wordCount": 187,
+      "id": "37c87308d58b4869"
     },
     {
-      "filename": "四季养生指南_科学调理身体健康.json",
-      "title": "四季养生指南：科学调理身体健康",
-      "description": "四季养生指南：科学调理身体健康的核心知识点汇总",
-      "category": "生活通识/健康养生",
+      "filename": "计算机网络概述.json",
+      "title": "计算机网络概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "四季",
-        "健康",
-        "养生"
+        "计算机网络",
+        "408",
+        "考研"
       ],
-      "wordCount": 2923,
-      "id": "e2e1ee67a7f1ddc6"
+      "wordCount": 145,
+      "id": "90ce455fd157a579"
     },
     {
-      "filename": "糖尿病预防完全指南.json",
-      "title": "糖尿病预防完全指南",
-      "description": "糖尿病的类型、危险因素、预防措施和血糖管理方法",
-      "category": "生活通识/健康养生",
+      "filename": "计算机组成原理概述.json",
+      "title": "计算机组成原理概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "糖尿病",
-        "血糖管理",
-        "疾病预防",
-        "健康管理",
-        "三高"
+        "计算机组成原理",
+        "408",
+        "考研"
       ],
-      "wordCount": 2781,
-      "id": "df2f529f056f18fc"
+      "wordCount": 139,
+      "id": "f99cc86c21ab1f18"
     },
     {
-      "filename": "消化系统疾病预防指南.json",
-      "title": "消化系统疾病预防完全指南",
-      "description": "胃病、肝炎、肠炎、脂肪肝等常见消化系统疾病的预防和养护",
-      "category": "生活通识/健康养生",
+      "filename": "进程管理.json",
+      "title": "进程管理",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "消化系统",
-        "疾病预防",
-        "胃病",
-        "肝炎",
-        "脂肪肝",
-        "肠胃炎"
+        "操作系统",
+        "进程管理",
+        "408",
+        "考研"
       ],
-      "wordCount": 2992,
-      "id": "b3353719b26acdc3"
+      "wordCount": 190,
+      "id": "c78d53258cb98569"
     },
     {
-      "filename": "心脑血管疾病预防指南.json",
-      "title": "心脑血管疾病预防完全指南",
-      "description": "心脑血管疾病的类型、危险因素、预防措施和早期信号识别",
-      "category": "生活通识/健康养生",
+      "filename": "内存管理.json",
+      "title": "内存管理",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "心脑血管",
-        "疾病预防",
-        "健康管理",
-        "三高",
-        "脑卒中",
-        "冠心病"
+        "操作系统",
+        "内存管理",
+        "408",
+        "考研"
       ],
-      "wordCount": 2001,
-      "id": "4f6a963b4988b3f5"
+      "wordCount": 171,
+      "id": "f95ae7d536f29a88"
     },
     {
-      "filename": "社保公积金使用全攻略.json",
-      "title": "社保公积金使用全攻略",
-      "description": "住房公积金提取与医疗保险报销的完整指南，涵盖提取条件、流程、注意事项及常见问题解答",
-      "category": "生活通识/社保公积金",
+      "filename": "排序算法.json",
+      "title": "排序算法",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "社保",
-        "公积金",
-        "住房公积金",
-        "医保",
-        "医疗保险",
-        "报销",
-        "提取",
-        "购房",
-        "五险一金"
+        "数据结构",
+        "排序",
+        "408",
+        "考研"
       ],
-      "wordCount": 3546,
-      "id": "506269662fa83742"
+      "wordCount": 136,
+      "id": "12144fd93355449c"
     },
     {
-      "filename": "地震防范与应急.json",
-      "title": "地震防范与应急",
-      "description": "地震发生时的应对措施、逃生技巧和日常准备",
-      "category": "生活通识/自然灾害",
+      "filename": "树.json",
+      "title": "树",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "地震",
-        "自然灾害",
-        "应急",
-        "逃生"
+        "数据结构",
+        "树",
+        "408",
+        "考研"
       ],
-      "wordCount": 877,
-      "id": "be8e5050f8013cf0"
+      "wordCount": 131,
+      "id": "0ed1ab0ce7f84752"
     },
     {
-      "filename": "洪水防范与应对.json",
-      "title": "洪水防范与应对",
-      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
-      "category": "生活通识/自然灾害",
+      "filename": "数据结构概述.json",
+      "title": "数据结构概述",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "洪水",
-        "自然灾害",
-        "防汛",
-        "应急"
+        "数据结构",
+        "408",
+        "考研"
       ],
-      "wordCount": 842,
-      "id": "ba444651c5345d81"
+      "wordCount": 138,
+      "id": "90c8fa0fe1292c08"
     },
     {
-      "filename": "火灾防范与逃生.json",
-      "title": "火灾防范与逃生",
-      "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "生活通识/自然灾害",
+      "filename": "数据链路层.json",
+      "title": "数据链路层",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "火灾",
-        "消防",
-        "逃生",
-        "安全"
+        "计算机网络",
+        "数据链路层",
+        "408",
+        "考研"
       ],
-      "wordCount": 1265,
-      "id": "33c5e8b303ea8044"
+      "wordCount": 181,
+      "id": "b782d30d9b66d714"
     },
     {
-      "filename": "台风防范指南.json",
-      "title": "台风防范指南",
-      "description": "台风的形成、预警等级及防范措施",
-      "category": "生活通识/自然灾害",
+      "filename": "图.json",
+      "title": "图",
+      "description": "",
+      "category": "考研专业课/计算机学科专业基础综合",
       "tags": [
-        "台风",
-        "自然灾害",
-        "风暴",
-        "防汛"
+        "数据结构",
+        "图",
+        "408",
+        "考研"
       ],
-      "wordCount": 943,
-      "id": "2411eb1484625054"
+      "wordCount": 145,
+      "id": "188f1c029dd46c19"
     }
   ]
 }

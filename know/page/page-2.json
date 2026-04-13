@@ -1,264 +1,187 @@
 {
   "page": 2,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "初创企业税务入门.json",
-      "title": "初创企业税务入门",
-      "description": "中国创业者在公司成立后必须了解的基础税务知识，包括主要税种、申报流程、税收优惠与常见误区",
-      "category": "创业指南/财务规划",
-      "tags": [
-        "税务",
-        "企业所得税",
-        "增值税",
-        "个人所得税",
-        "创业财务"
-      ],
-      "wordCount": 1217,
-      "id": "233747d5370cb4da"
-    },
-    {
-      "filename": "创业前必须完成的六个准备功课_从0到1的全方位指南.json",
-      "title": "创业前必须完成的六个准备功课：从0到1的全方位指南",
-      "description": "创业前必须完成的六个准备功课：从0到1的全方位指南的核心知识点汇总",
-      "category": "创业指南/创业准备",
-      "tags": [
-        "商业",
-        "创业",
-        "规划"
-      ],
-      "wordCount": 1722,
-      "id": "d4e0b5625f50de09"
-    },
-    {
-      "filename": "创业融资基础知识.json",
-      "title": "创业融资基础知识",
-      "description": "从天使轮到IPO的完整融资路径、各轮次特点、估值逻辑以及创业者在融资过程中必须掌握的核心概念",
-      "category": "创业指南/创业准备",
-      "tags": [
-        "融资",
-        "股权融资",
-        "估值",
-        "天使投资",
-        "VC",
-        "创业资本"
-      ],
-      "wordCount": 3238,
-      "id": "b61a78b3a451aca6"
-    },
-    {
-      "filename": "二、BP的标准结构.json",
-      "title": "二、BP的标准结构",
-      "description": "",
-      "category": "创业指南/创业准备",
+      "filename": "六、写在最后.json",
+      "title": "六、写在最后",
+      "description": "六、写在最后",
+      "category": "产品研发/产品思考",
       "tags": [],
-      "wordCount": 1569,
-      "id": "571113721481cb08"
+      "wordCount": 162,
+      "id": "b0d5efc935d5cc9e"
     },
     {
-      "filename": "极简生活实践手册_从断舍离到可持续生活.json",
-      "title": "极简生活实践手册：从断舍离到可持续生活",
-      "description": "极简生活实践手册：从断舍离到可持续生活的核心知识点汇总",
-      "category": "创业指南/创业准备",
-      "tags": [
-        "生活方式",
-        "极简主义",
-        "断舍离"
-      ],
-      "wordCount": 4095,
-      "id": "81676dc754485af1"
-    },
-    {
-      "filename": "三、BP写作的常见错误.json",
-      "title": "三、BP写作的常见错误",
-      "description": "",
-      "category": "创业指南/创业准备",
+      "filename": "七、写在最后.json",
+      "title": "七、写在最后",
+      "description": "七、写在最后",
+      "category": "产品研发/产品思考",
       "tags": [],
-      "wordCount": 486,
-      "id": "998c7805dd7f4639"
+      "wordCount": 152,
+      "id": "5d31e84ffb4f275b"
     },
     {
-      "filename": "四、BP的格式建议.json",
-      "title": "四、BP的格式建议",
-      "description": "",
-      "category": "创业指南/创业准备",
+      "filename": "三、「工具焦虑」的真相.json",
+      "title": "三、「工具焦虑」的真相",
+      "description": "三、「工具焦虑」的真相",
+      "category": "产品研发/产品思考",
       "tags": [],
-      "wordCount": 153,
-      "id": "3301d92fcb7bab76"
+      "wordCount": 292,
+      "id": "a4c6dd793e593969"
     },
     {
-      "filename": "五、总结.json",
-      "title": "五、总结",
-      "description": "",
-      "category": "创业指南/创业准备",
+      "filename": "三、认知升级：少即是多.json",
+      "title": "三、认知升级：少即是多",
+      "description": "三、认知升级：少即是多",
+      "category": "产品研发/产品思考",
       "tags": [],
-      "wordCount": 232,
-      "id": "dfd904fd6e80192c"
+      "wordCount": 272,
+      "id": "83a661ba9c598777"
     },
     {
-      "filename": "一、商业计划书的本质.json",
-      "title": "一、商业计划书的本质",
-      "description": "",
-      "category": "创业指南/创业准备",
+      "filename": "三、数据改变的产品决策.json",
+      "title": "三、数据改变的产品决策",
+      "description": "三、数据改变的产品决策",
+      "category": "产品研发/产品思考",
       "tags": [],
-      "wordCount": 200,
-      "id": "98afc723a2b765ed"
+      "wordCount": 315,
+      "id": "51b2df4331459849"
     },
     {
-      "filename": "个人信息保护法核心要点.json",
-      "title": "个人信息保护法核心要点",
-      "description": "《个人信息保护法》核心条款解读，保护个人隐私安全",
-      "category": "法律常识",
-      "tags": [
-        "个人信息",
-        "隐私权",
-        "信息安全",
-        "维权"
-      ],
-      "wordCount": 795,
-      "id": "fe2ea7ca433ca37e"
+      "filename": "三、为什么我还要坚持免费？.json",
+      "title": "三、为什么我还要坚持免费？",
+      "description": "三、为什么我还要坚持免费？",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 359,
+      "id": "8e6ce097d8e10995"
     },
     {
-      "filename": "家庭暴力防护与应对指南.json",
-      "title": "家庭暴力防护与应对指南",
-      "description": "识别家庭暴力类型、保存证据、寻求帮助的完整指南",
-      "category": "法律常识",
-      "tags": [
-        "家庭暴力",
-        "人身安全",
-        "法律援助",
-        "维权"
-      ],
-      "wordCount": 586,
-      "id": "7d4c1af2befa69b5"
+      "filename": "四、「免费」什么时候不值得？.json",
+      "title": "四、「免费」什么时候不值得？",
+      "description": "四、「免费」什么时候不值得？",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 265,
+      "id": "66086ff1029f4210"
     },
     {
-      "filename": "交通事故处理完全指南.json",
-      "title": "交通事故处理完全指南",
-      "description": "交通事故责任认定、赔偿标准、处理流程详解",
-      "category": "法律常识",
-      "tags": [
-        "交通事故",
-        "责任认定",
-        "保险理赔",
-        "维权"
-      ],
-      "wordCount": 830,
-      "id": "3dee55e20c226268"
+      "filename": "四、如何对抗「工具焦虑」？.json",
+      "title": "四、如何对抗「工具焦虑」？",
+      "description": "四、如何对抗「工具焦虑」？",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 418,
+      "id": "3e8779fb8fb29da1"
     },
     {
-      "filename": "劳动合同法核心条款解读.json",
-      "title": "劳动合同法核心条款解读",
-      "description": "劳动者必知的劳动合同法核心条款解读，涵盖签订、履行、解除、赔偿等关键知识点",
-      "category": "法律常识",
-      "tags": [
-        "劳动合同法",
-        "劳动法",
-        "维权",
-        "职场"
-      ],
-      "wordCount": 1284,
-      "id": "9caf5b452193904f"
+      "filename": "四、少即是多的三个层次.json",
+      "title": "四、少即是多的三个层次",
+      "description": "四、少即是多的三个层次",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 316,
+      "id": "4e0e742e95e04ae3"
     },
     {
-      "filename": "年终奖与经济补偿金完全指南.json",
-      "title": "年终奖与经济补偿金完全指南",
-      "description": "年终奖发放规则、N+1/2N计算、期权归属等职场薪资核心问题",
-      "category": "法律常识",
-      "tags": [
-        "年终奖",
-        "经济补偿",
-        "N+1",
-        "2N",
-        "离职赔偿",
-        "劳动合同"
-      ],
-      "wordCount": 945,
-      "id": "0756f25d881f419e"
+      "filename": "四、数据教会我的 4 件事.json",
+      "title": "四、数据教会我的 4 件事",
+      "description": "四、数据教会我的 4 件事",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 531,
+      "id": "e4c3b245444f688c"
     },
     {
-      "filename": "人身安全保护令申请指南.json",
-      "title": "人身安全保护令申请指南",
-      "description": "遭遇家庭暴力或人身威胁时的法律保护途径，保护令申请流程和要点",
-      "category": "法律常识",
-      "tags": [
-        "人身安全保护令",
-        "家庭暴力",
-        "法律保护",
-        "维权"
-      ],
-      "wordCount": 724,
-      "id": "aa9f0c5232eb64d2"
+      "filename": "五、「免费」的正确姿势.json",
+      "title": "五、「免费」的正确姿势",
+      "description": "五、「免费」的正确姿势",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 301,
+      "id": "6c70d20ec4850ee0"
     },
     {
-      "filename": "消费者权益保护法核心条款解读.json",
-      "title": "消费者权益保护法核心条款解读",
-      "description": "消费者必知的权益保护法条款，涵盖退货、赔偿、维权途径",
-      "category": "法律常识",
-      "tags": [
-        "消费者权益",
-        "维权",
-        "退货",
-        "三包"
-      ],
-      "wordCount": 677,
-      "id": "ae37741ccee767b0"
+      "filename": "五、产品如此，人生亦然.json",
+      "title": "五、产品如此，人生亦然",
+      "description": "五、产品如此，人生亦然",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 316,
+      "id": "23ec7018c3e1d477"
     },
     {
-      "filename": "核心考点.json",
-      "title": "公务员考试核心考点",
-      "description": "公考备考知识体系：行测、申论核心考点",
-      "category": "公务员",
-      "tags": [
-        "公考",
-        "行测",
-        "申论"
-      ],
-      "wordCount": 2401,
-      "id": "7a8272032cf6c22c"
+      "filename": "五、产品设计者的视角.json",
+      "title": "五、产品设计者的视角",
+      "description": "五、产品设计者的视角",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 305,
+      "id": "1a1ccb8d79f3b6ae"
     },
     {
-      "filename": "大作文框架.json",
-      "title": "大作文框架",
-      "description": "",
-      "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "大作文",
-        "议论文",
-        "写作框架"
-      ],
-      "wordCount": 135,
-      "id": "80662090c6f5d919"
+      "filename": "五、我的数据复盘方法.json",
+      "title": "五、我的数据复盘方法",
+      "description": "五、我的数据复盘方法",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 201,
+      "id": "dc3fadfae5a11f99"
     },
     {
-      "filename": "对策建议.json",
-      "title": "对策建议",
-      "description": "",
-      "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "对策建议",
-        "解决问题",
-        "措施制定"
-      ],
-      "wordCount": 2939,
-      "id": "3b8d0537d2f4bd43"
+      "filename": "一、为什么我要做「免费」？.json",
+      "title": "一、为什么我要做「免费」？",
+      "description": "一、为什么我要做「免费」？",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 185,
+      "id": "13d89ffde4f9083a"
     },
     {
-      "filename": "归纳概括.json",
-      "title": "归纳概括",
-      "description": "",
-      "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "归纳概括",
-        "概括方法",
-        "要点提取"
-      ],
-      "wordCount": 121,
-      "id": "27e061e7e872d489"
+      "filename": "一、我的「工具收集癖」.json",
+      "title": "一、我的「工具收集癖」",
+      "description": "一、我的「工具收集癖」",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 285,
+      "id": "be70e7b696d416d3"
+    },
+    {
+      "filename": "一、我以为我知道，但数据告诉我我错了.json",
+      "title": "一、我以为我知道，但数据告诉我我错了",
+      "description": "一、我以为我知道，但数据告诉我我错了",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 379,
+      "id": "871e6bb804b9be51"
+    },
+    {
+      "filename": "一、一个普遍的现象.json",
+      "title": "一、一个普遍的现象",
+      "description": "一、一个普遍的现象",
+      "category": "产品研发/产品思考",
+      "tags": [],
+      "wordCount": 188,
+      "id": "265448c1b4237854"
+    },
+    {
+      "filename": "二、我踩过的 10 个坑.json",
+      "title": "二、我踩过的 10 个坑",
+      "description": "二、我踩过的 10 个坑",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 2894,
+      "id": "96b0ec3664bf24a4"
+    },
+    {
+      "filename": "三、总结：避坑指南.json",
+      "title": "三、总结：避坑指南",
+      "description": "三、总结：避坑指南",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 131,
+      "id": "be6e4c6ba8253fd2"
     }
   ]
 }

@@ -7,25 +7,11 @@
     {
       "filename": "二、核心方法论.json",
       "title": "二、核心方法论",
-      "description": "",
+      "description": "二、核心方法论",
       "category": "认知思维/思维工具",
       "tags": [],
-      "wordCount": 846,
+      "wordCount": 627,
       "id": "37bed835d1e8db83"
-    },
-    {
-      "filename": "fermi-estimation.json",
-      "title": "费米估算",
-      "description": "在信息不足时做出合理估算的思维方法，通过分解问题、合理假设来逼近真实答案",
-      "category": "认知思维/思维工具",
-      "tags": [
-        "费米问题",
-        "估算思维",
-        "量化分析",
-        "决策工具"
-      ],
-      "wordCount": 3718,
-      "id": "f8c2ba84343993b8"
     },
     {
       "filename": "决策矩阵分析法.json",
@@ -44,19 +30,19 @@
     {
       "filename": "六、总结.json",
       "title": "六、总结",
-      "description": "",
+      "description": "六、总结",
       "category": "认知思维/思维工具",
       "tags": [],
-      "wordCount": 463,
+      "wordCount": 452,
       "id": "d548e72fc9c6c2af"
     },
     {
       "filename": "三、应用场景与案例.json",
       "title": "三、应用场景与案例",
-      "description": "",
+      "description": "三、应用场景与案例",
       "category": "认知思维/思维工具",
       "tags": [],
-      "wordCount": 1186,
+      "wordCount": 742,
       "id": "c4bb2b1e6d4fa336"
     },
     {
@@ -75,10 +61,10 @@
     {
       "filename": "四、操作步骤详解.json",
       "title": "四、操作步骤详解",
-      "description": "",
+      "description": "四、操作步骤详解",
       "category": "认知思维/思维工具",
       "tags": [],
-      "wordCount": 682,
+      "wordCount": 566,
       "id": "8e3e56e14203d0c2"
     },
     {
@@ -91,12 +77,21 @@
       "id": "085f90a6cdcd3ada"
     },
     {
-      "filename": "一、定义与起源.json",
-      "title": "一、定义与起源",
-      "description": "",
+      "filename": "五、局限性与注意事项.json",
+      "title": "五、局限性与注意事项",
+      "description": "五、局限性与注意事项",
       "category": "认知思维/思维工具",
       "tags": [],
-      "wordCount": 849,
+      "wordCount": 418,
+      "id": "fa4b07945dfcf8dc"
+    },
+    {
+      "filename": "一、定义与起源.json",
+      "title": "一、定义与起源",
+      "description": "一、定义与起源",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 770,
       "id": "93ecaaf33d632f5b"
     },
     {

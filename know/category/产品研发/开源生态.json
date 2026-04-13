@@ -1,34 +1,161 @@
 {
   "meta": {
     "category": "产品研发/开源生态",
-    "count": 2
+    "count": 17
   },
   "articles": [
     {
-      "filename": "零成本开源.json",
-      "title": "零成本+开源：个人开发者的组合拳",
-      "description": "如何用零成本+开源打造个人产品矩阵",
+      "filename": "二、零服务器的架构设计.json",
+      "title": "二、零服务器的架构设计",
+      "description": "二、零服务器的架构设计",
       "category": "产品研发/开源生态",
-      "tags": [
-        "开源",
-        "零成本",
-        "开发者工具"
-      ],
-      "wordCount": 2126,
-      "id": "50688fdba1ff0965"
+      "tags": [],
+      "wordCount": 409,
+      "id": "1b227b0c4bb214af"
     },
     {
-      "filename": "MIT开源协议.json",
-      "title": "MIT 协议开源",
-      "description": "为什么要选择 MIT 协议进行开源",
+      "filename": "二、为什么选择 MIT？.json",
+      "title": "二、为什么选择 MIT？",
+      "description": "二、为什么选择 MIT？",
       "category": "产品研发/开源生态",
-      "tags": [
-        "开源",
-        "MIT协议",
-        "许可证"
-      ],
-      "wordCount": 2610,
-      "id": "424075765447bf54"
+      "tags": [],
+      "wordCount": 300,
+      "id": "4271b888b5dd9508"
+    },
+    {
+      "filename": "附录：项目地址.json",
+      "title": "附录：项目地址",
+      "description": "附录：项目地址",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 140,
+      "id": "eeecc2653bac6f7c"
+    },
+    {
+      "filename": "功能.json",
+      "title": "功能",
+      "description": "功能",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 12,
+      "id": "0337b7ec9e160ff1"
+    },
+    {
+      "filename": "六、你可以做什么？.json",
+      "title": "六、你可以做什么？",
+      "description": "六、你可以做什么？",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 150,
+      "id": "e218a93b6d3a1bcb"
+    },
+    {
+      "filename": "六、写给想开源的你.json",
+      "title": "六、写给想开源的你",
+      "description": "六、写给想开源的你",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 185,
+      "id": "35a30a3d62924998"
+    },
+    {
+      "filename": "七、写在最后.json",
+      "title": "七、写在最后",
+      "description": "七、写在最后",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 182,
+      "id": "8f7fba380fb5de1e"
+    },
+    {
+      "filename": "三、开源：MIT 协议.json",
+      "title": "三、开源：MIT 协议",
+      "description": "三、开源：MIT 协议",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 418,
+      "id": "c20aa1eb9b0b023f"
+    },
+    {
+      "filename": "三、开源的「得与失」.json",
+      "title": "三、开源的「得与失」",
+      "description": "三、开源的「得与失」",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 270,
+      "id": "d9f29afc40d77937"
+    },
+    {
+      "filename": "使用.json",
+      "title": "使用",
+      "description": "使用",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 8,
+      "id": "3f8790b456d489ca"
+    },
+    {
+      "filename": "四、开源的正确姿势.json",
+      "title": "四、开源的正确姿势",
+      "description": "四、开源的正确姿势",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 218,
+      "id": "ec3d38fac6d6ac7e"
+    },
+    {
+      "filename": "四、零成本的运营模式.json",
+      "title": "四、零成本的运营模式",
+      "description": "四、零成本的运营模式",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 279,
+      "id": "f88511f4bbcccc37"
+    },
+    {
+      "filename": "五、开源项目的生存之道.json",
+      "title": "五、开源项目的生存之道",
+      "description": "五、开源项目的生存之道",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 311,
+      "id": "05bff7a6163ad637"
+    },
+    {
+      "filename": "五、如果你想开源.json",
+      "title": "五、如果你想开源",
+      "description": "五、如果你想开源",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 282,
+      "id": "28f658338ef046e2"
+    },
+    {
+      "filename": "协议.json",
+      "title": "协议",
+      "description": "协议",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 20,
+      "id": "bceb49b0143d3353"
+    },
+    {
+      "filename": "一、什么是 MIT 协议？.json",
+      "title": "一、什么是 MIT 协议？",
+      "description": "一、什么是 MIT 协议？",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 1111,
+      "id": "da1432b1e62f1fab"
+    },
+    {
+      "filename": "一、一个「离谱」的产品.json",
+      "title": "一、一个「离谱」的产品",
+      "description": "一、一个「离谱」的产品",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 210,
+      "id": "0fd0307b21433abd"
     }
   ]
 }

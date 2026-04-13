@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "个人所得税",
-    "count": 5
+    "count": 4
   },
   "articles": [
     {
@@ -18,20 +18,6 @@
       ],
       "wordCount": 1217,
       "id": "233747d5370cb4da"
-    },
-    {
-      "filename": "个人所得税申报完全指南.json",
-      "title": "个人所得税申报完全指南",
-      "description": "个税专项附加扣除填报、年终奖计税、汇算清缴操作指南",
-      "category": "家庭理财",
-      "tags": [
-        "个人所得税",
-        "税务",
-        "省钱",
-        "汇算清缴"
-      ],
-      "wordCount": 2219,
-      "id": "313befdbd2156ccb"
     },
     {
       "filename": "个人所得税概述.json",

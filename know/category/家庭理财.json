@@ -1,37 +1,107 @@
 {
   "meta": {
     "category": "家庭理财",
-    "count": 7
+    "count": 49
   },
   "articles": [
     {
-      "filename": "保险配置完全指南.json",
-      "title": "保险配置完全指南",
-      "description": "普通人必买的保险类型、配置原则和避坑指南",
+      "filename": "八、安全使用.json",
+      "title": "八、安全使用",
+      "description": "八、安全使用",
       "category": "家庭理财",
-      "tags": [
-        "保险",
-        "风险保障",
-        "家庭理财",
-        "医疗险",
-        "重疾险"
-      ],
-      "wordCount": 1748,
-      "id": "1a1765f5f82e8c9b"
+      "tags": [],
+      "wordCount": 218,
+      "id": "5fb9fb2a0a1fcfe3"
     },
     {
-      "filename": "个人所得税申报完全指南.json",
-      "title": "个人所得税申报完全指南",
-      "description": "个税专项附加扣除填报、年终奖计税、汇算清缴操作指南",
+      "filename": "八、常见问题.json",
+      "title": "八、常见问题",
+      "description": "八、常见问题",
       "category": "家庭理财",
-      "tags": [
-        "个人所得税",
-        "税务",
-        "省钱",
-        "汇算清缴"
-      ],
-      "wordCount": 2219,
-      "id": "313befdbd2156ccb"
+      "tags": [],
+      "wordCount": 128,
+      "id": "13b1dcc05a2626ce"
+    },
+    {
+      "filename": "八、工具推荐.json",
+      "title": "八、工具推荐",
+      "description": "八、工具推荐",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 91,
+      "id": "9be7f6150b6a738f"
+    },
+    {
+      "filename": "八、年收入避税规划.json",
+      "title": "八、年收入避税规划",
+      "description": "八、年收入避税规划",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 189,
+      "id": "a4f3840eb30671ad"
+    },
+    {
+      "filename": "八、实操步骤.json",
+      "title": "八、实操步骤",
+      "description": "八、实操步骤",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 135,
+      "id": "a13539b1d59fce9b"
+    },
+    {
+      "filename": "二、保险类型.json",
+      "title": "二、保险类型",
+      "description": "二、保险类型",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 495,
+      "id": "384a241d7edcb218"
+    },
+    {
+      "filename": "二、不同生命周期的配置.json",
+      "title": "二、不同生命周期的配置",
+      "description": "二、不同生命周期的配置",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 752,
+      "id": "5ea3e5dc20ab9fc6"
+    },
+    {
+      "filename": "二、费用解析.json",
+      "title": "二、费用解析",
+      "description": "二、费用解析",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 289,
+      "id": "a62bce547bbe65c1"
+    },
+    {
+      "filename": "二、工薪族合法节税.json",
+      "title": "二、工薪族合法节税",
+      "description": "二、工薪族合法节税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 416,
+      "id": "4461269a5ae0c7b3"
+    },
+    {
+      "filename": "二、基金类型.json",
+      "title": "二、基金类型",
+      "description": "二、基金类型",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 415,
+      "id": "952e3d1ffa1914a7"
+    },
+    {
+      "filename": "二、专项附加扣除（6项）.json",
+      "title": "二、专项附加扣除（6项）",
+      "description": "二、专项附加扣除（6项）",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 666,
+      "id": "5fae6a0e744c55d5"
     },
     {
       "filename": "股票投资入门指南.json",
@@ -48,60 +118,337 @@
       "id": "09a2db743a62a947"
     },
     {
-      "filename": "合理避税与税务规划指南.json",
-      "title": "合理避税与税务规划指南",
-      "description": "合法降低税负的税务规划方法、个人所得税优化技巧",
+      "filename": "九、常见问题.json",
+      "title": "九、常见问题",
+      "description": "九、常见问题",
       "category": "家庭理财",
-      "tags": [
-        "税务规划",
-        "合理避税",
-        "个税优化",
-        "合法节税"
-      ],
-      "wordCount": 2057,
-      "id": "8918cf37f7e3d190"
+      "tags": [],
+      "wordCount": 139,
+      "id": "eaea4f3ad1fa641d"
     },
     {
-      "filename": "基金投资入门完全指南.json",
-      "title": "基金投资入门完全指南",
-      "description": "从零了解基金类型、购买渠道、选择方法和投资策略",
+      "filename": "六、常见错误.json",
+      "title": "六、常见错误",
+      "description": "六、常见错误",
       "category": "家庭理财",
-      "tags": [
-        "基金",
-        "投资理财",
-        "被动收入",
-        "资产配置"
-      ],
-      "wordCount": 1735,
-      "id": "2dbf3ed33b83b24c"
+      "tags": [],
+      "wordCount": 170,
+      "id": "b966fef68b168018"
     },
     {
-      "filename": "家庭资产配置完全指南.json",
-      "title": "家庭资产配置完全指南",
-      "description": "不同生命周期的资产配置策略、理财规划建议",
+      "filename": "六、费用详解.json",
+      "title": "六、费用详解",
+      "description": "六、费用详解",
       "category": "家庭理财",
-      "tags": [
-        "资产配置",
-        "理财规划",
-        "分散投资",
-        "家庭财务"
-      ],
-      "wordCount": 2223,
-      "id": "6f7af19d56814a8a"
+      "tags": [],
+      "wordCount": 145,
+      "id": "c8460213f4672f05"
     },
     {
-      "filename": "信用卡使用完全指南.json",
-      "title": "信用卡使用完全指南",
-      "description": "信用卡基础知识、免息期、还款技巧和避坑指南",
+      "filename": "六、公益捐赠抵税.json",
+      "title": "六、公益捐赠抵税",
+      "description": "六、公益捐赠抵税",
       "category": "家庭理财",
-      "tags": [
-        "信用卡",
-        "信用记录",
-        "理财",
-        "免息期"
-      ],
-      "wordCount": 2142,
-      "id": "7143f08329e2f263"
+      "tags": [],
+      "wordCount": 155,
+      "id": "a2dee609885dbf50"
+    },
+    {
+      "filename": "六、购买渠道.json",
+      "title": "六、购买渠道",
+      "description": "六、购买渠道",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 74,
+      "id": "9c7398610059e8f1"
+    },
+    {
+      "filename": "六、汇算清缴.json",
+      "title": "六、汇算清缴",
+      "description": "六、汇算清缴",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 244,
+      "id": "ada1def05d17e4d3"
+    },
+    {
+      "filename": "六、养卡提额.json",
+      "title": "六、养卡提额",
+      "description": "六、养卡提额",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 218,
+      "id": "7a125e5e00a1a40b"
+    },
+    {
+      "filename": "七、创业投资节税.json",
+      "title": "七、创业投资节税",
+      "description": "七、创业投资节税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 196,
+      "id": "7e1d649b6e92a7dd"
+    },
+    {
+      "filename": "七、定期检视.json",
+      "title": "七、定期检视",
+      "description": "七、定期检视",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 149,
+      "id": "8f3fddb07cf72379"
+    },
+    {
+      "filename": "七、多卡管理.json",
+      "title": "七、多卡管理",
+      "description": "七、多卡管理",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 186,
+      "id": "5490269aa81580cf"
+    },
+    {
+      "filename": "七、风险提示.json",
+      "title": "七、风险提示",
+      "description": "七、风险提示",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 130,
+      "id": "b41fbef73d7449c7"
+    },
+    {
+      "filename": "七、省税技巧.json",
+      "title": "七、省税技巧",
+      "description": "七、省税技巧",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 265,
+      "id": "bf389a0d13d3151c"
+    },
+    {
+      "filename": "七、实操建议.json",
+      "title": "七、实操建议",
+      "description": "七、实操建议",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 100,
+      "id": "163e8534ea0b4e07"
+    },
+    {
+      "filename": "三、不同风险偏好配置.json",
+      "title": "三、不同风险偏好配置",
+      "description": "三、不同风险偏好配置",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 254,
+      "id": "3eceb301af2931b2"
+    },
+    {
+      "filename": "三、不同人群配置.json",
+      "title": "三、不同人群配置",
+      "description": "三、不同人群配置",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 322,
+      "id": "f2e40cf25f92e60d"
+    },
+    {
+      "filename": "三、购买渠道.json",
+      "title": "三、购买渠道",
+      "description": "三、购买渠道",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 184,
+      "id": "903f745f72e85390"
+    },
+    {
+      "filename": "三、还款技巧.json",
+      "title": "三、还款技巧",
+      "description": "三、还款技巧",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 289,
+      "id": "0e92cb79efc0b5a4"
+    },
+    {
+      "filename": "三、婴幼儿照护（2023年新增）.json",
+      "title": "三、婴幼儿照护（2023年新增）",
+      "description": "三、婴幼儿照护（2023年新增）",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 85,
+      "id": "6f8d9617e10865cc"
+    },
+    {
+      "filename": "三、自由职业者节税.json",
+      "title": "三、自由职业者节税",
+      "description": "三、自由职业者节税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 258,
+      "id": "262f375129290cea"
+    },
+    {
+      "filename": "十、风险提示.json",
+      "title": "十、风险提示",
+      "description": "十、风险提示",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 76,
+      "id": "c3169e7c5fdbec92"
+    },
+    {
+      "filename": "四、积分与权益.json",
+      "title": "四、积分与权益",
+      "description": "四、积分与权益",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 278,
+      "id": "7812b8d3f4353cb4"
+    },
+    {
+      "filename": "四、基金选择方法.json",
+      "title": "四、基金选择方法",
+      "description": "四、基金选择方法",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 233,
+      "id": "19a6c16aadc4e9bd"
+    },
+    {
+      "filename": "四、配置原则.json",
+      "title": "四、配置原则",
+      "description": "四、配置原则",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 258,
+      "id": "70f4e0d7e611bd8c"
+    },
+    {
+      "filename": "四、申报操作.json",
+      "title": "四、申报操作",
+      "description": "四、申报操作",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 234,
+      "id": "fc5544e3bc7e7f44"
+    },
+    {
+      "filename": "四、投资理财节税.json",
+      "title": "四、投资理财节税",
+      "description": "四、投资理财节税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 247,
+      "id": "93fd580dfb333d37"
+    },
+    {
+      "filename": "四、资金用途分类.json",
+      "title": "四、资金用途分类",
+      "description": "四、资金用途分类",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 343,
+      "id": "0d7e5656f3c8ad5a"
+    },
+    {
+      "filename": "五、避坑指南.json",
+      "title": "五、避坑指南",
+      "description": "五、避坑指南",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 254,
+      "id": "908fe26b45fe38a7"
+    },
+    {
+      "filename": "五、年终奖计税.json",
+      "title": "五、年终奖计税",
+      "description": "五、年终奖计税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 191,
+      "id": "db26ec6a9f36ccf9"
+    },
+    {
+      "filename": "五、配置实操.json",
+      "title": "五、配置实操",
+      "description": "五、配置实操",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 229,
+      "id": "904a186d333a8579"
+    },
+    {
+      "filename": "五、投资策略.json",
+      "title": "五、投资策略",
+      "description": "五、投资策略",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 284,
+      "id": "0d544c6569512ac9"
+    },
+    {
+      "filename": "五、住房相关税务.json",
+      "title": "五、住房相关税务",
+      "description": "五、住房相关税务",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 183,
+      "id": "8a147e85a5994b6d"
+    },
+    {
+      "filename": "一、避税vs偷税漏税.json",
+      "title": "一、避税vs偷税漏税",
+      "description": "一、避税vs偷税漏税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 166,
+      "id": "363597d3e4d20d1d"
+    },
+    {
+      "filename": "一、个税基础.json",
+      "title": "一、个税基础",
+      "description": "一、个税基础",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 367,
+      "id": "ee52aeb6c2cb25fd"
+    },
+    {
+      "filename": "一、基金是什么.json",
+      "title": "一、基金是什么",
+      "description": "一、基金是什么",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 177,
+      "id": "bb6c5e0a67793c65"
+    },
+    {
+      "filename": "一、为什么要买保险.json",
+      "title": "一、为什么要买保险",
+      "description": "一、为什么要买保险",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 213,
+      "id": "a443f0a99c3d4bee"
+    },
+    {
+      "filename": "一、为什么要资产配置.json",
+      "title": "一、为什么要资产配置",
+      "description": "一、为什么要资产配置",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 199,
+      "id": "d500e443303de88e"
+    },
+    {
+      "filename": "一、信用卡基础.json",
+      "title": "一、信用卡基础",
+      "description": "一、信用卡基础",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 248,
+      "id": "5a62cf4940394226"
     }
   ]
 }

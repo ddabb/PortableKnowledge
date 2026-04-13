@@ -1,266 +1,200 @@
 {
   "page": 18,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "临床药物治疗学.json",
-      "title": "临床药物治疗学",
-      "description": "临床药物治疗学的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "临床药物治疗学"
-      ],
-      "wordCount": 1068,
-      "id": "0cc7be10dd883bdd"
+      "filename": "一、定义与起源.json",
+      "title": "一、定义与起源",
+      "description": "一、定义与起源",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 770,
+      "id": "93ecaaf33d632f5b"
     },
     {
-      "filename": "药剂学.json",
-      "title": "药剂学",
-      "description": "药剂学的基本概念、剂型设计和质量控制",
-      "category": "执业药师",
+      "filename": "SWOT分析法.json",
+      "title": "SWOT分析法",
+      "description": "经典的战略规划工具，通过分析优势、劣势、机会与威胁四个维度，系统评估个人或组织的竞争态势",
+      "category": "认知思维/思维工具",
       "tags": [
-        "执业药师",
-        "药剂学"
+        "SWOT",
+        "战略分析",
+        "自我认知",
+        "竞争分析"
       ],
-      "wordCount": 895,
-      "id": "c9af10b06a7a5fdc"
+      "wordCount": 992,
+      "id": "0420b484bf891bed"
     },
     {
-      "filename": "药理学.json",
-      "title": "药理学",
-      "description": "药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药理学"
-      ],
-      "wordCount": 765,
-      "id": "778ba3a88cb777e6"
+      "filename": "01_专业领域.json",
+      "title": "01_专业领域",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 62,
+      "id": "83f96c05cb77dab8"
     },
     {
-      "filename": "药事法规.json",
-      "title": "药事法规",
-      "description": "药事法规的基本内容和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药事法规"
-      ],
-      "wordCount": 1102,
-      "id": "96e5785a6604edbe"
+      "filename": "02_兴趣爱好.json",
+      "title": "02_兴趣爱好",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 59,
+      "id": "84bea3f998d50be1"
     },
     {
-      "filename": "药物分析.json",
-      "title": "药物分析",
-      "description": "药物分析的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物分析"
-      ],
-      "wordCount": 687,
-      "id": "f827d9c6e100d0c6"
+      "filename": "03_生活技能.json",
+      "title": "03_生活技能",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 58,
+      "id": "a8e07c7281123e2d"
     },
     {
-      "filename": "药物化学.json",
-      "title": "药物化学",
-      "description": "药物化学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物化学"
-      ],
-      "wordCount": 712,
-      "id": "283f7d749ab0a9bd"
+      "filename": "04_个人成长.json",
+      "title": "04_个人成长",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 157,
+      "id": "249a897652b5eb5b"
     },
     {
-      "filename": "药物流行病学.json",
-      "title": "药物流行病学",
-      "description": "药物流行病学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物流行病学"
-      ],
-      "wordCount": 785,
-      "id": "479906c22a84c019"
+      "filename": "二、艾宾浩斯遗忘曲线：记忆的自然法则.json",
+      "title": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
+      "description": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 180,
+      "id": "8cc367a2b483e819"
     },
     {
-      "filename": "药物信息学.json",
-      "title": "药物信息学",
-      "description": "药物信息学的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物信息学"
-      ],
-      "wordCount": 627,
-      "id": "ec33fb671d75b331"
+      "filename": "二、刻意练习的六个核心特征.json",
+      "title": "二、刻意练习的六个核心特征",
+      "description": "二、刻意练习的六个核心特征",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 742,
+      "id": "fb7ad3b76e78caf7"
     },
     {
-      "filename": "药学综合知识.json",
-      "title": "药学综合知识",
-      "description": "药学综合知识的核心内容和实践应用",
-      "category": "执业药师",
+      "filename": "费曼学习法实践_通过教授他人深化理解.json",
+      "title": "费曼学习法实践：通过教授他人深化理解",
+      "description": "费曼学习法实践：通过教授他人深化理解的核心知识点汇总",
+      "category": "认知思维/学习方法",
       "tags": [
-        "执业药师",
-        "药学综合知识"
+        "学习方法",
+        "知识留存",
+        "费曼学习法"
       ],
-      "wordCount": 751,
-      "id": "744569747e72cf13"
+      "wordCount": 2710,
+      "id": "5187e8e01dea0bea"
     },
     {
-      "filename": "用药安全.json",
-      "title": "用药安全",
-      "description": "用药安全的重要性、常见问题和防范措施",
-      "category": "执业药师",
+      "filename": "高效学习方法_科学提升学习能力的实用指南.json",
+      "title": "高效学习方法：科学提升学习能力的实用指南",
+      "description": "高效学习方法：科学提升学习能力的实用指南的核心知识点汇总",
+      "category": "认知思维/学习方法",
       "tags": [
-        "执业药师",
-        "用药安全"
+        "学习方法",
+        "效率",
+        "认知科学"
       ],
-      "wordCount": 1386,
-      "id": "5026e3c2e834005f"
+      "wordCount": 2011,
+      "id": "fa4f0bdcc55522ad"
     },
     {
-      "filename": "核心考点.json",
-      "title": "执业药师核心考点",
-      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
-      "category": "执业药师",
-      "tags": [
-        "药师",
-        "药学",
-        "法规"
-      ],
-      "wordCount": 2516,
-      "id": "1ad4d4522a1af0f5"
+      "filename": "个人思考.json",
+      "title": "个人思考",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 16,
+      "id": "08f40b4a9752a3d2"
     },
     {
-      "filename": "执业药师职业发展.json",
-      "title": "执业药师职业发展",
-      "description": "执业药师的职业发展路径、能力要求和发展策略",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "职业发展"
-      ],
-      "wordCount": 966,
-      "id": "b9eedacd274ec4f7"
+      "filename": "关联知识.json",
+      "title": "关联知识",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 1576,
+      "id": "4f57d8bf2cc133f1"
     },
     {
-      "filename": "中药药理学.json",
-      "title": "中药药理学",
-      "description": "中药药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "中药药理学"
-      ],
-      "wordCount": 830,
-      "id": "9b066dbcc5222aa4"
+      "filename": "核心内容.json",
+      "title": "核心内容",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 18,
+      "id": "53e013ed02d34a1f"
     },
     {
-      "filename": "打造个人品牌的实用攻略_从0到1建立影响力资产.json",
-      "title": "打造个人品牌的实用攻略：从0到1建立影响力资产",
-      "description": "打造个人品牌的实用攻略：从0到1建立影响力资产的核心知识点汇总",
-      "category": "职场生存/个人品牌",
-      "tags": [
-        "个人品牌",
-        "IP",
-        "影响力"
-      ],
-      "wordCount": 2991,
-      "id": "07f49de7bf796592"
+      "filename": "六、间隔重复适合学什么.json",
+      "title": "六、间隔重复适合学什么",
+      "description": "六、间隔重复适合学什么",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 120,
+      "id": "79b9770ad3ad29d8"
     },
     {
-      "filename": "个人品牌定位与变现_细分赛道选择与价值打造.json",
-      "title": "个人品牌定位与变现：细分赛道选择与价值打造",
-      "description": "个人品牌定位与变现：细分赛道选择与价值打造的核心知识点汇总",
-      "category": "职场生存/个人品牌",
-      "tags": [
-        "个人品牌",
-        "IP",
-        "影响力"
-      ],
-      "wordCount": 6630,
-      "id": "08f76f2d89263def"
+      "filename": "六、刻意练习的常见陷阱.json",
+      "title": "六、刻意练习的常见陷阱",
+      "description": "六、刻意练习的常见陷阱",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 319,
+      "id": "f2975033c685ad40"
     },
     {
-      "filename": "保密条款与知识产权归属.json",
-      "title": "保密条款与知识产权归属",
-      "description": "保密条款与知识产权归属",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 276,
-      "id": "82cc35c1cf010a39"
+      "filename": "七、制作高效闪卡的技巧.json",
+      "title": "七、制作高效闪卡的技巧",
+      "description": "七、制作高效闪卡的技巧",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 137,
+      "id": "1c77573df7a1d467"
     },
     {
-      "filename": "被裁员了怎么办.json",
-      "title": "被裁员了怎么办",
-      "description": "公司裁员后的应对步骤、合法权益和注意事项",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "裁员",
-        "劳动法",
-        "维权",
-        "职场"
-      ],
-      "wordCount": 1701,
-      "id": "86d3a9ab107e00e0"
+      "filename": "三、集中复习为什么低效.json",
+      "title": "三、集中复习为什么低效",
+      "description": "三、集中复习为什么低效",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 169,
+      "id": "de2b3cf532191810"
     },
     {
-      "filename": "工时制度与加班费计算.json",
-      "title": "工时制度与加班费计算",
-      "description": "工时制度与加班费计算",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 657,
-      "id": "0debc9b5d8c63213"
+      "filename": "三、刻意练习 vs 天赋.json",
+      "title": "三、刻意练习 vs 天赋",
+      "description": "三、刻意练习 vs 天赋",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 278,
+      "id": "957af2675ee18b5b"
     },
     {
-      "filename": "经济补偿金基础概念.json",
-      "title": "经济补偿金基础概念",
-      "description": "经济补偿金基础概念",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 200,
-      "id": "5bc9496bb71ebbb6"
+      "filename": "实际应用.json",
+      "title": "实际应用",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 20,
+      "id": "1336a80ff70a9bb5"
     },
     {
-      "filename": "经济补偿金计算实例.json",
-      "title": "经济补偿金计算实例",
-      "description": "经济补偿金计算实例",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 708,
-      "id": "6ebe2d71766f2163"
+      "filename": "四、刻意练习在不同领域的应用.json",
+      "title": "四、刻意练习在不同领域的应用",
+      "description": "四、刻意练习在不同领域的应用",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 394,
+      "id": "4669edc12a0162fb"
     }
   ]
 }

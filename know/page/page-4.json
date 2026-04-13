@@ -1,285 +1,225 @@
 {
   "page": 4,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "建筑工程管理与实务.json",
-      "title": "建筑工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "财务管理与财富自由_从零开始的财务规划指南.json",
+      "title": "财务管理与财富自由：从零开始的财务规划指南",
+      "description": "财务管理与财富自由：从零开始的财务规划指南的核心知识点汇总",
+      "category": "创业指南/财务规划",
       "tags": [
-        "二建",
-        "建筑工程",
-        "实务",
-        "建造师"
+        "财富自由",
+        "财务管理",
+        "理财"
       ],
-      "wordCount": 156,
-      "id": "a1bcf29ecea453db"
+      "wordCount": 1904,
+      "id": "344415675d41a97d"
     },
     {
-      "filename": "施工技术与管理.json",
-      "title": "施工技术与管理",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "初创企业税务入门.json",
+      "title": "初创企业税务入门",
+      "description": "中国创业者在公司成立后必须了解的基础税务知识，包括主要税种、申报流程、税收优惠与常见误区",
+      "category": "创业指南/财务规划",
       "tags": [
-        "二建",
-        "施工技术",
-        "管理",
-        "建造师"
+        "税务",
+        "企业所得税",
+        "增值税",
+        "个人所得税",
+        "创业财务"
       ],
-      "wordCount": 173,
-      "id": "2cf94587fbc8d89b"
+      "wordCount": 1217,
+      "id": "233747d5370cb4da"
     },
     {
-      "filename": "市政公用工程管理与实务.json",
-      "title": "市政公用工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "创业前必须完成的六个准备功课_从0到1的全方位指南.json",
+      "title": "创业前必须完成的六个准备功课：从0到1的全方位指南",
+      "description": "创业前必须完成的六个准备功课：从0到1的全方位指南的核心知识点汇总",
+      "category": "创业指南/创业准备",
       "tags": [
-        "二建",
-        "市政工程",
-        "实务",
-        "建造师"
+        "商业",
+        "创业",
+        "规划"
       ],
-      "wordCount": 274,
-      "id": "f936e49ca2584e1f"
+      "wordCount": 1722,
+      "id": "d4e0b5625f50de09"
     },
     {
-      "filename": "水利水电工程管理与实务.json",
-      "title": "水利水电工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "水利水电工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 299,
-      "id": "2a47b56568900495"
+      "filename": "二、融资的轮次体系.json",
+      "title": "二、融资的轮次体系",
+      "description": "二、融资的轮次体系",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 834,
+      "id": "62851bde2bae9d62"
     },
     {
-      "filename": "项目安全管理.json",
-      "title": "项目安全管理",
+      "filename": "二、BP的标准结构.json",
+      "title": "二、BP的标准结构",
       "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "安全管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 200,
-      "id": "8fe4ea7995d306b2"
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 1569,
+      "id": "571113721481cb08"
     },
     {
-      "filename": "项目成本管理.json",
-      "title": "项目成本管理",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "极简生活实践手册_从断舍离到可持续生活.json",
+      "title": "极简生活实践手册：从断舍离到可持续生活",
+      "description": "极简生活实践手册：从断舍离到可持续生活的核心知识点汇总",
+      "category": "创业指南/创业准备",
       "tags": [
-        "二建",
-        "成本管理",
-        "项目管理",
-        "建造师"
+        "生活方式",
+        "极简主义",
+        "断舍离"
       ],
-      "wordCount": 205,
-      "id": "b8d7bb2f2668fe1b"
+      "wordCount": 4095,
+      "id": "81676dc754485af1"
     },
     {
-      "filename": "项目管理实务.json",
-      "title": "项目管理实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "项目管理",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 255,
-      "id": "af4d0bf7f7db151a"
+      "filename": "六、融资的时机.json",
+      "title": "六、融资的时机",
+      "description": "六、融资的时机",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 170,
+      "id": "85215e3f268f23ad"
     },
     {
-      "filename": "项目进度管理.json",
-      "title": "项目进度管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "进度管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 166,
-      "id": "c7c752a4767c2f39"
+      "filename": "三、估值的基本概念.json",
+      "title": "三、估值的基本概念",
+      "description": "三、估值的基本概念",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 530,
+      "id": "3585c2aa59c3cc46"
     },
     {
-      "filename": "项目质量管理.json",
-      "title": "项目质量管理",
+      "filename": "三、BP写作的常见错误.json",
+      "title": "三、BP写作的常见错误",
       "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "质量管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 199,
-      "id": "71c39f516c268fd1"
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 486,
+      "id": "998c7805dd7f4639"
     },
     {
-      "filename": "公路工程管理与实务.json",
-      "title": "公路工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "公路工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 207,
-      "id": "fc359992b46f3ed3"
+      "filename": "四、核心术语.json",
+      "title": "四、核心术语",
+      "description": "四、核心术语",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 682,
+      "id": "efedda72e8fc7d31"
     },
     {
-      "filename": "机电工程管理与实务.json",
-      "title": "机电工程管理与实务",
+      "filename": "四、BP的格式建议.json",
+      "title": "四、BP的格式建议",
       "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "机电工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 211,
-      "id": "a7b57ed1618be4bb"
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 153,
+      "id": "3301d92fcb7bab76"
     },
     {
-      "filename": "建设工程法规及相关知识.json",
-      "title": "建设工程法规及相关知识",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "法规",
-        "建造师"
-      ],
+      "filename": "五、融资流程.json",
+      "title": "五、融资流程",
+      "description": "五、融资流程",
+      "category": "创业指南/创业准备",
+      "tags": [],
       "wordCount": 559,
-      "id": "7eef789c72cc2e71"
+      "id": "176c6cd51e95907b"
     },
     {
-      "filename": "建设工程法律法规实务.json",
-      "title": "建设工程法律法规实务",
+      "filename": "五、总结.json",
+      "title": "五、总结",
       "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "法律法规",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 279,
-      "id": "fa1244339a69ec42"
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 232,
+      "id": "dfd904fd6e80192c"
     },
     {
-      "filename": "建设工程经济.json",
-      "title": "建设工程经济",
+      "filename": "一、商业计划书的本质.json",
+      "title": "一、商业计划书的本质",
       "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "工程经济",
-        "建造师"
-      ],
-      "wordCount": 214,
-      "id": "ca0d0ae8cf075c84"
-    },
-    {
-      "filename": "建设工程项目管理.json",
-      "title": "建设工程项目管理",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "项目管理",
-        "PMBOK",
-        "建造师"
-      ],
-      "wordCount": 629,
-      "id": "7159a8aa660324b4"
-    },
-    {
-      "filename": "建筑工程管理与实务.json",
-      "title": "建筑工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "建筑工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 156,
-      "id": "30f9152bdb630791"
-    },
-    {
-      "filename": "施工技术与管理.json",
-      "title": "施工技术与管理",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "施工技术",
-        "管理",
-        "建造师"
-      ],
-      "wordCount": 173,
-      "id": "24279326babd9df0"
-    },
-    {
-      "filename": "市政公用工程管理与实务.json",
-      "title": "市政公用工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "市政工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 274,
-      "id": "5793250af66a75fb"
-    },
-    {
-      "filename": "水利水电工程管理与实务.json",
-      "title": "水利水电工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "水利水电工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 299,
-      "id": "c1e52e11bb2d17af"
-    },
-    {
-      "filename": "项目安全管理.json",
-      "title": "项目安全管理",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "安全管理",
-        "项目管理",
-        "建造师"
-      ],
+      "category": "创业指南/创业准备",
+      "tags": [],
       "wordCount": 200,
-      "id": "45de03bdcf1f0f2c"
+      "id": "98afc723a2b765ed"
+    },
+    {
+      "filename": "一、为什么要融资.json",
+      "title": "一、为什么要融资",
+      "description": "一、为什么要融资",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 207,
+      "id": "c8fc6525c6bdc700"
+    },
+    {
+      "filename": "总结.json",
+      "title": "总结",
+      "description": "总结",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 193,
+      "id": "a1ca2c28b57a7b11"
+    },
+    {
+      "filename": "个人信息保护法核心要点.json",
+      "title": "个人信息保护法核心要点",
+      "description": "《个人信息保护法》核心条款解读，保护个人隐私安全",
+      "category": "法律常识",
+      "tags": [
+        "个人信息",
+        "隐私权",
+        "信息安全",
+        "维权"
+      ],
+      "wordCount": 795,
+      "id": "fe2ea7ca433ca37e"
+    },
+    {
+      "filename": "家庭暴力防护与应对指南.json",
+      "title": "家庭暴力防护与应对指南",
+      "description": "识别家庭暴力类型、保存证据、寻求帮助的完整指南",
+      "category": "法律常识",
+      "tags": [
+        "家庭暴力",
+        "人身安全",
+        "法律援助",
+        "维权"
+      ],
+      "wordCount": 586,
+      "id": "7d4c1af2befa69b5"
+    },
+    {
+      "filename": "交通事故处理完全指南.json",
+      "title": "交通事故处理完全指南",
+      "description": "交通事故责任认定、赔偿标准、处理流程详解",
+      "category": "法律常识",
+      "tags": [
+        "交通事故",
+        "责任认定",
+        "保险理赔",
+        "维权"
+      ],
+      "wordCount": 830,
+      "id": "3dee55e20c226268"
+    },
+    {
+      "filename": "劳动合同法核心条款解读.json",
+      "title": "劳动合同法核心条款解读",
+      "description": "劳动者必知的劳动合同法核心条款解读，涵盖签订、履行、解除、赔偿等关键知识点",
+      "category": "法律常识",
+      "tags": [
+        "劳动合同法",
+        "劳动法",
+        "维权",
+        "职场"
+      ],
+      "wordCount": 1284,
+      "id": "9caf5b452193904f"
     }
   ]
 }

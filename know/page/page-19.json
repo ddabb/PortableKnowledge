@@ -1,314 +1,187 @@
 {
   "page": 19,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "经济补偿金N的计算详解.json",
-      "title": "经济补偿金N的计算详解",
-      "description": "经济补偿金N的计算详解",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 643,
-      "id": "62e227c3dda4593c"
+      "filename": "四、什么是间隔重复.json",
+      "title": "四、什么是间隔重复",
+      "description": "四、什么是间隔重复",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 156,
+      "id": "696e29f6317beed1"
     },
     {
-      "filename": "经济补偿金N的适用情形.json",
-      "title": "经济补偿金N的适用情形",
-      "description": "经济补偿金N的适用情形",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 812,
-      "id": "947ca87edbfb92e9"
+      "filename": "五、如何设计自己的刻意练习计划.json",
+      "title": "五、如何设计自己的刻意练习计划",
+      "description": "五、如何设计自己的刻意练习计划",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 694,
+      "id": "1ebf9180528e2f31"
     },
     {
-      "filename": "竞业限制条款与实务.json",
-      "title": "竞业限制条款与实务",
-      "description": "竞业限制条款与实务",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 561,
-      "id": "ac36bddf1b32137d"
+      "filename": "五、如何使用间隔重复.json",
+      "title": "五、如何使用间隔重复",
+      "description": "五、如何使用间隔重复",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 270,
+      "id": "a1e778cb963f701f"
     },
     {
-      "filename": "劳动报酬条款与薪资陷阱.json",
-      "title": "劳动报酬条款与薪资陷阱",
-      "description": "劳动报酬条款与薪资陷阱",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 568,
-      "id": "d68d365c44e7a85a"
+      "filename": "相关资源.json",
+      "title": "相关资源",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 39,
+      "id": "02f0b83724eaef56"
     },
     {
-      "filename": "劳动合同必备条款详解.json",
-      "title": "劳动合同必备条款详解",
-      "description": "劳动合同必备条款详解",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 377,
-      "id": "d895aebf656c9d86"
+      "filename": "详细说明.json",
+      "title": "详细说明",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 18,
+      "id": "53f43299e784fc12"
     },
     {
-      "filename": "工作地点与岗位变更条款.json",
-      "title": "劳动合同避坑指南",
-      "description": "详解签订劳动合同时的关键条款、常见陷阱与法律风险，助你避开职场法律坑洞",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 472,
-      "id": "61874ff9d0c05562"
+      "filename": "一、被误解的·一万小时定律·.json",
+      "title": "一、被误解的·一万小时定律·",
+      "description": "一、被误解的·一万小时定律·",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 253,
+      "id": "dec51d28a342100a"
     },
     {
-      "filename": "劳动合同避坑总结.json",
-      "title": "劳动合同避坑总结",
-      "description": "劳动合同避坑总结",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 264,
-      "id": "49e6ff99f606b68c"
+      "filename": "一、为什么你学的东西总是记不住.json",
+      "title": "一、为什么你学的东西总是记不住",
+      "description": "一、为什么你学的东西总是记不住",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 106,
+      "id": "4edcb268b01b6db4"
     },
     {
-      "filename": "劳动合同典型案例分析.json",
-      "title": "劳动合同典型案例分析",
-      "description": "劳动合同典型案例分析",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 624,
-      "id": "68b76291421ac296"
+      "filename": "总结.json",
+      "title": "总结",
+      "description": "总结",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 167,
+      "id": "6d5cdb444816eb7c"
     },
     {
-      "filename": "劳动合同法基础与签订要求.json",
-      "title": "劳动合同法基础与签订要求",
-      "description": "劳动合同法基础与签订要求",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 318,
-      "id": "a54449997dee2704"
+      "filename": "二、常见诈骗类型.json",
+      "title": "二、常见诈骗类型",
+      "description": "二、常见诈骗类型",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 657,
+      "id": "629f6b2a5047f4d8"
     },
     {
-      "filename": "劳动合同解除与终止.json",
-      "title": "劳动合同解除与终止",
-      "description": "劳动合同解除与终止",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 945,
-      "id": "e95276a8694f4d97"
+      "filename": "二、赌博防范.json",
+      "title": "二、赌博防范",
+      "description": "二、赌博防范",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 560,
+      "id": "51b494cf85407150"
     },
     {
-      "filename": "劳动合同签订与维权清单.json",
-      "title": "劳动合同签订与维权清单",
-      "description": "劳动合同签订与维权清单",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 403,
-      "id": "7d066a41bae3d5ac"
+      "filename": "二、网络诈骗.json",
+      "title": "二、网络诈骗",
+      "description": "二、网络诈骗",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 320,
+      "id": "646464a36c798ef2"
     },
     {
-      "filename": "劳动维权途径与时效.json",
-      "title": "劳动维权途径与时效",
-      "description": "劳动维权途径与时效",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 451,
-      "id": "ced905541cd846ce"
+      "filename": "六、保护个人信息.json",
+      "title": "六、保护个人信息",
+      "description": "六、保护个人信息",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 116,
+      "id": "bb22bb274895c7f8"
     },
     {
-      "filename": "劳动仲裁全流程.json",
-      "title": "劳动仲裁全流程",
-      "description": "劳动仲裁从准备到开庭的完整流程，包括材料准备、注意事项和常见问题",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动仲裁",
-        "劳动法",
-        "维权",
-        "仲裁"
-      ],
-      "wordCount": 2133,
-      "id": "e0293d6f0bd952ed"
+      "filename": "六、遭遇诈骗后的处理.json",
+      "title": "六、遭遇诈骗后的处理",
+      "description": "六、遭遇诈骗后的处理",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 116,
+      "id": "4cc01f0018a39b81"
     },
     {
-      "filename": "离职补偿完整总结.json",
-      "title": "离职补偿完整总结",
-      "description": "离职补偿完整总结",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 429,
-      "id": "d5ebe8d18c1c59b5"
+      "filename": "七、国家反诈中心APP.json",
+      "title": "七、国家反诈中心APP",
+      "description": "七、国家反诈中心APP",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 167,
+      "id": "851a588047637e1c"
     },
     {
-      "filename": "离职权益清单汇总.json",
-      "title": "离职权益清单汇总",
-      "description": "离职权益清单汇总",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 462,
-      "id": "7cfe2b6a7c64f4fb"
+      "filename": "七、总结.json",
+      "title": "七、总结",
+      "description": "七、总结",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 110,
+      "id": "cdadc0c360452131"
     },
     {
-      "filename": "年终奖法律问题与维权.json",
-      "title": "年终奖法律问题与维权",
-      "description": "年终奖法律问题与维权",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 711,
-      "id": "8ec45ae676387dab"
+      "filename": "三、防诈骗·八个凡是·.json",
+      "title": "三、防诈骗·八个凡是·",
+      "description": "三、防诈骗·八个凡是·",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 199,
+      "id": "cdc63b2554cdf44e"
     },
     {
-      "filename": "培训服务期与违约金.json",
-      "title": "培训服务期与违约金",
-      "description": "培训服务期与违约金",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 434,
-      "id": "a0164fb09a1f8216"
+      "filename": "三、老年人诈骗.json",
+      "title": "三、老年人诈骗",
+      "description": "三、老年人诈骗",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 232,
+      "id": "24b58ddac7edae2a"
     },
     {
-      "filename": "期权与股权激励处理.json",
-      "title": "期权与股权激励处理",
-      "description": "期权与股权激励处理",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 580,
-      "id": "3558cbe969fd7732"
+      "filename": "三、色情防范.json",
+      "title": "三、色情防范",
+      "description": "三、色情防范",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 385,
+      "id": "e09ec72ac9c84ceb"
     },
     {
-      "filename": "试用期陷阱与法律保护.json",
-      "title": "试用期陷阱与法律保护",
-      "description": "试用期陷阱与法律保护",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 593,
-      "id": "cd01dc71ff9d89df"
+      "filename": "四、·三不一多·原则.json",
+      "title": "四、·三不一多·原则",
+      "description": "四、·三不一多·原则",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 121,
+      "id": "72f224f0bbb82b37"
     },
     {
-      "filename": "违法解除赔偿金2N详解.json",
-      "title": "违法解除赔偿金2N详解",
-      "description": "违法解除赔偿金2N详解",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 726,
-      "id": "16e5e52a458788a5"
+      "filename": "四、如何寻求帮助.json",
+      "title": "四、如何寻求帮助",
+      "description": "四、如何寻求帮助",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 161,
+      "id": "4d1dfeaf9ab5271a"
     }
   ]
 }

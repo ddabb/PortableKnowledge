@@ -1,23 +1,9 @@
 {
   "meta": {
     "tag": "健康",
-    "count": 3
+    "count": 2
   },
   "articles": [
-    {
-      "filename": "远离黄赌毒.json",
-      "title": "远离黄赌毒",
-      "description": "了解黄赌毒的危害，树立健康生活态度",
-      "category": "生活通识/安全防范",
-      "tags": [
-        "黄赌毒",
-        "法治",
-        "健康",
-        "安全"
-      ],
-      "wordCount": 1897,
-      "id": "e9687edd5b3a26f2"
-    },
     {
       "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
       "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",

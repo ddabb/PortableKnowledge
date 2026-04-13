@@ -1,277 +1,187 @@
 {
   "page": 7,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "教育评价与反思.json",
-      "title": "教育评价与反思",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "教育评价",
-        "教学反思",
-        "专业发展"
-      ],
-      "wordCount": 3348,
-      "id": "09a6af8a8a2a3cd0"
+      "filename": "三、不同人群配置.json",
+      "title": "三、不同人群配置",
+      "description": "三、不同人群配置",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 322,
+      "id": "f2e40cf25f92e60d"
     },
     {
-      "filename": "教育心理学案例分析.json",
-      "title": "教育心理学案例分析",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "教育心理学",
-        "案例分析",
-        "教学实践"
-      ],
-      "wordCount": 4160,
-      "id": "a2c3c35dc85d4b1c"
+      "filename": "三、购买渠道.json",
+      "title": "三、购买渠道",
+      "description": "三、购买渠道",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 184,
+      "id": "903f745f72e85390"
     },
     {
-      "filename": "教育心理学知识.json",
-      "title": "教育心理学知识",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "教育心理学",
-        "学习理论",
-        "学生心理"
-      ],
-      "wordCount": 5273,
-      "id": "3f7a8875e981abc4"
+      "filename": "三、还款技巧.json",
+      "title": "三、还款技巧",
+      "description": "三、还款技巧",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 289,
+      "id": "0e92cb79efc0b5a4"
     },
     {
-      "filename": "教育学基础知识.json",
-      "title": "教育学基础知识",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "教育学",
-        "基础知识",
-        "教育理论"
-      ],
-      "wordCount": 2777,
-      "id": "f0460d10e2cbd9fe"
+      "filename": "三、婴幼儿照护（2023年新增）.json",
+      "title": "三、婴幼儿照护（2023年新增）",
+      "description": "三、婴幼儿照护（2023年新增）",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 85,
+      "id": "6f8d9617e10865cc"
     },
     {
-      "filename": "教育研究方法.json",
-      "title": "教育研究方法",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "教育研究",
-        "研究方法",
-        "教师专业发展"
-      ],
-      "wordCount": 4369,
-      "id": "e259e78f89d8bb0a"
+      "filename": "三、自由职业者节税.json",
+      "title": "三、自由职业者节税",
+      "description": "三、自由职业者节税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 258,
+      "id": "262f375129290cea"
     },
     {
-      "filename": "学科知识与教学能力.json",
-      "title": "学科知识与教学能力",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "学科知识",
-        "教学能力",
-        "专业素养"
-      ],
-      "wordCount": 3972,
-      "id": "cdfec0b48388b79b"
+      "filename": "十、风险提示.json",
+      "title": "十、风险提示",
+      "description": "十、风险提示",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 76,
+      "id": "c3169e7c5fdbec92"
     },
     {
-      "filename": "核心考点.json",
-      "title": "考研专业课核心考点",
-      "description": "考研专业课：408计算机、311教育学、199管理类联考核心考点",
-      "category": "考研专业课",
-      "tags": [
-        "考研",
-        "计算机",
-        "教育学",
-        "管理类联考"
-      ],
-      "wordCount": 3969,
-      "id": "0f7696138546b52b"
+      "filename": "四、积分与权益.json",
+      "title": "四、积分与权益",
+      "description": "四、积分与权益",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 278,
+      "id": "7812b8d3f4353cb4"
     },
     {
-      "filename": "代数.json",
-      "title": "代数",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "代数",
-        "考研"
-      ],
-      "wordCount": 816,
-      "id": "80ba64830a2d44a1"
+      "filename": "四、基金选择方法.json",
+      "title": "四、基金选择方法",
+      "description": "四、基金选择方法",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 233,
+      "id": "19a6c16aadc4e9bd"
     },
     {
-      "filename": "非形式逻辑.json",
-      "title": "非形式逻辑",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "非形式逻辑",
-        "考研"
-      ],
-      "wordCount": 669,
-      "id": "ec71a12e2ef3cabc"
+      "filename": "四、配置原则.json",
+      "title": "四、配置原则",
+      "description": "四、配置原则",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 258,
+      "id": "70f4e0d7e611bd8c"
     },
     {
-      "filename": "几何.json",
-      "title": "几何",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "几何",
-        "考研"
-      ],
-      "wordCount": 604,
-      "id": "fb93a8679cfddcb3"
+      "filename": "四、申报操作.json",
+      "title": "四、申报操作",
+      "description": "四、申报操作",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 234,
+      "id": "fc5544e3bc7e7f44"
     },
     {
-      "filename": "论说文.json",
-      "title": "论说文",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "论说文",
-        "考研"
-      ],
-      "wordCount": 827,
-      "id": "d899dd3b1c2b58da"
+      "filename": "四、投资理财节税.json",
+      "title": "四、投资理财节税",
+      "description": "四、投资理财节税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 247,
+      "id": "93fd580dfb333d37"
     },
     {
-      "filename": "论证有效性分析.json",
-      "title": "论证有效性分析",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "论证有效性分析",
-        "考研"
-      ],
-      "wordCount": 659,
-      "id": "7b2912b39b505a2a"
+      "filename": "四、资金用途分类.json",
+      "title": "四、资金用途分类",
+      "description": "四、资金用途分类",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 343,
+      "id": "0d7e5656f3c8ad5a"
     },
     {
-      "filename": "逻辑推理概述.json",
-      "title": "逻辑推理概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "考研"
-      ],
-      "wordCount": 535,
-      "id": "f7cba9894be0249b"
+      "filename": "五、避坑指南.json",
+      "title": "五、避坑指南",
+      "description": "五、避坑指南",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 254,
+      "id": "908fe26b45fe38a7"
     },
     {
-      "filename": "数据分析.json",
-      "title": "数据分析",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "数据分析",
-        "考研"
-      ],
-      "wordCount": 615,
-      "id": "56d2551109480057"
+      "filename": "五、年终奖计税.json",
+      "title": "五、年终奖计税",
+      "description": "五、年终奖计税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 191,
+      "id": "db26ec6a9f36ccf9"
     },
     {
-      "filename": "数学基础概述.json",
-      "title": "数学基础概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "考研"
-      ],
-      "wordCount": 512,
-      "id": "fbac4cc196455609"
+      "filename": "五、配置实操.json",
+      "title": "五、配置实操",
+      "description": "五、配置实操",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 229,
+      "id": "904a186d333a8579"
     },
     {
-      "filename": "算术.json",
-      "title": "算术",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "算术",
-        "考研"
-      ],
-      "wordCount": 452,
-      "id": "c7264cd59e76d049"
+      "filename": "五、投资策略.json",
+      "title": "五、投资策略",
+      "description": "五、投资策略",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 284,
+      "id": "0d544c6569512ac9"
     },
     {
-      "filename": "写作概述.json",
-      "title": "写作概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "考研"
-      ],
-      "wordCount": 587,
-      "id": "6f4d5a8c7a82f6f0"
+      "filename": "五、住房相关税务.json",
+      "title": "五、住房相关税务",
+      "description": "五、住房相关税务",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 183,
+      "id": "8a147e85a5994b6d"
     },
     {
-      "filename": "形式逻辑.json",
-      "title": "形式逻辑",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "形式逻辑",
-        "考研"
-      ],
-      "wordCount": 540,
-      "id": "ad79d4df010e1540"
+      "filename": "一、避税vs偷税漏税.json",
+      "title": "一、避税vs偷税漏税",
+      "description": "一、避税vs偷税漏税",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 166,
+      "id": "363597d3e4d20d1d"
     },
     {
-      "filename": "综合推理.json",
-      "title": "综合推理",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "综合推理",
-        "考研"
-      ],
-      "wordCount": 651,
-      "id": "bcc6026be1636404"
+      "filename": "一、个税基础.json",
+      "title": "一、个税基础",
+      "description": "一、个税基础",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 367,
+      "id": "ee52aeb6c2cb25fd"
     },
     {
-      "filename": "操作系统概述.json",
-      "title": "操作系统概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "操作系统",
-        "408",
-        "考研"
-      ],
-      "wordCount": 161,
-      "id": "ee98917a80aa4155"
+      "filename": "一、基金是什么.json",
+      "title": "一、基金是什么",
+      "description": "一、基金是什么",
+      "category": "家庭理财",
+      "tags": [],
+      "wordCount": 177,
+      "id": "bb6c5e0a67793c65"
     }
   ]
 }

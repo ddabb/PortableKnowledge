@@ -1,303 +1,210 @@
 {
   "page": 20,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "八、实际案例分析.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 396,
-      "id": "4bcd90a2b8ec94fb"
+      "filename": "四、学生群体诈骗.json",
+      "title": "四、学生群体诈骗",
+      "description": "四、学生群体诈骗",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 216,
+      "id": "37bb1a4f434f958b"
     },
     {
-      "filename": "二、养老保险.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 632,
-      "id": "ea908dfc8cd34d6f"
+      "filename": "五、防范技巧汇总.json",
+      "title": "五、防范技巧汇总",
+      "description": "五、防范技巧汇总",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 196,
+      "id": "2bbbac34ef523b8e"
     },
     {
-      "filename": "九、操作建议.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 262,
-      "id": "2848c888767dbec2"
+      "filename": "五、遭遇诈骗后的处理.json",
+      "title": "五、遭遇诈骗后的处理",
+      "description": "五、遭遇诈骗后的处理",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 142,
+      "id": "31c06b9d4f0b8252"
     },
     {
-      "filename": "六、生育保险.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 435,
-      "id": "708e93ae4d0c39e2"
+      "filename": "五、总结.json",
+      "title": "五、总结",
+      "description": "五、总结",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 147,
+      "id": "d71dfbbffdcdbddf"
     },
     {
-      "filename": "七、住房公积金.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 601,
-      "id": "9ceacbd554ec6e4e"
-    },
-    {
-      "filename": "三、医疗保险.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 508,
-      "id": "749145059a8968a3"
-    },
-    {
-      "filename": "十、总结.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 302,
-      "id": "78f49f8334c88ee6"
-    },
-    {
-      "filename": "四、失业保险.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 505,
-      "id": "5920f7884dcab5b1"
-    },
-    {
-      "filename": "五、工伤保险.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 648,
-      "id": "5695651ec4461fd5"
-    },
-    {
-      "filename": "一、什么是·五险一金·.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 266,
-      "id": "71d249f63fa522fa"
-    },
-    {
-      "filename": "租房避坑指南.json",
-      "title": "租房避坑指南",
-      "description": "租房过程中需要注意的问题、常见陷阱和应对方法",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "租房",
-        "房屋租赁",
-        "合同",
-        "维权"
-      ],
-      "wordCount": 2002,
-      "id": "ce7ac980fb29b413"
-    },
-    {
-      "filename": "N+1代通知金适用情形.json",
-      "title": "N+1代通知金适用情形",
-      "description": "N+1代通知金适用情形",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
+      "filename": "一、毒品防范.json",
+      "title": "一、毒品防范",
+      "description": "一、毒品防范",
+      "category": "生活通识/安全防范",
+      "tags": [],
       "wordCount": 605,
-      "id": "a200fef44e616fea"
+      "id": "add53a872c46c50b"
     },
     {
-      "filename": "情绪调节的科学方法.json",
-      "title": "情绪调节的科学方法",
-      "description": "情绪调节的科学方法的核心知识点汇总",
-      "category": "职场生存/情绪与压力",
-      "tags": [
-        "情商",
-        "心理健康",
-        "情绪调节"
-      ],
-      "wordCount": 3768,
-      "id": "88b19b1e76c62bb8"
+      "filename": "一、街头诈骗.json",
+      "title": "一、街头诈骗",
+      "description": "一、街头诈骗",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 259,
+      "id": "0ec48cb21c9199ae"
     },
     {
-      "filename": "如何管理愤怒情绪_平息内心的火焰.json",
-      "title": "如何管理愤怒情绪",
-      "description": "从愤怒的生理机制到实用的情绪调节方法，学会健康地处理愤怒",
-      "category": "职场生存/情绪与压力",
-      "tags": [
-        "愤怒管理",
-        "情绪调节",
-        "心理学",
-        "情商",
-        "心理健康"
-      ],
-      "wordCount": 2513,
-      "id": "33c67d344e6f722e"
+      "filename": "一、诈骗形势.json",
+      "title": "一、诈骗形势",
+      "description": "一、诈骗形势",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 132,
+      "id": "3bd2d5bd6211d8f4"
     },
     {
-      "filename": "如何缓解焦虑_寻找内心的平静.json",
-      "title": "如何缓解焦虑",
-      "description": "从焦虑的本质到实用的缓解方法，找回内心的平静",
-      "category": "职场生存/情绪与压力",
-      "tags": [
-        "焦虑",
-        "情绪调节",
-        "心理学",
-        "心理健康",
-        "冥想"
-      ],
-      "wordCount": 2775,
-      "id": "ae313beb8c38e2d5"
+      "filename": "八、施救者的保护.json",
+      "title": "八、施救者的保护",
+      "description": "八、施救者的保护",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 118,
+      "id": "ae1abf25b1f04899"
     },
     {
-      "filename": "如何克服悲伤_在失落中寻找光明.json",
-      "title": "如何克服悲伤",
-      "description": "在失落中寻找光明，科学面对悲伤情绪，走出心理困境",
-      "category": "职场生存/情绪与压力",
-      "tags": [
-        "悲伤处理",
-        "心理学",
-        "心理健康",
-        "情绪调节",
-        "心理韧性"
-      ],
-      "wordCount": 2884,
-      "id": "42095ba3a8860a7f"
+      "filename": "二、什么情况需要心肺复苏.json",
+      "title": "二、什么情况需要心肺复苏",
+      "description": "二、什么情况需要心肺复苏",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 220,
+      "id": "b41e0c37d9da0de3"
     },
     {
-      "filename": "如何培养积极心态_转变思维的艺术.json",
-      "title": "如何培养积极心态：转变思维的艺术",
-      "description": "如何培养积极心态：转变思维的艺术的核心知识点汇总",
-      "category": "职场生存/情绪与压力",
-      "tags": [
-        "幸福感",
-        "积极心理学",
-        "心态"
-      ],
-      "wordCount": 4159,
-      "id": "34b5cfe0c7ce8657"
+      "filename": "九、学习建议.json",
+      "title": "九、学习建议",
+      "description": "九、学习建议",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 147,
+      "id": "de4a3a8408d134ca"
     },
     {
-      "filename": "如何培养自我接纳.json",
-      "title": "如何培养自我接纳",
-      "description": "学会接受真实的自己，建立健康的自尊，活出自在人生",
-      "category": "职场生存/情绪与压力",
-      "tags": [
-        "自我接纳",
-        "自尊",
-        "心理健康",
-        "心理学",
-        "积极心态"
-      ],
-      "wordCount": 2756,
-      "id": "7767527b5bac1040"
+      "filename": "六、特殊情况.json",
+      "title": "六、特殊情况",
+      "description": "六、特殊情况",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 116,
+      "id": "273037aa4d4b5c24"
     },
     {
-      "filename": "如何应对压力_在风暴中保持平衡.json",
-      "title": "如何应对压力",
-      "description": "从压力的本质到实用的压力管理方法，在风暴中保持平衡",
-      "category": "职场生存/情绪与压力",
-      "tags": [
-        "压力管理",
-        "心理学",
-        "心理健康",
-        "情绪调节",
-        "心理韧性"
-      ],
-      "wordCount": 3294,
-      "id": "a3d4504c4f9577cd"
+      "filename": "七、常见错误.json",
+      "title": "七、常见错误",
+      "description": "七、常见错误",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 171,
+      "id": "fce7fc0f6e356809"
     },
     {
-      "filename": "如何正确面对拖延症.json",
-      "title": "如何正确面对拖延症",
-      "description": "从心理机制到实用方法，系统解决拖延问题",
-      "category": "职场生存/情绪与压力",
+      "filename": "三、心肺复苏步骤.json",
+      "title": "三、心肺复苏步骤",
+      "description": "三、心肺复苏步骤",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 587,
+      "id": "f9dcecfb29481ed1"
+    },
+    {
+      "filename": "四、只做按压的CPR.json",
+      "title": "四、只做按压的CPR",
+      "description": "四、只做按压的CPR",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 114,
+      "id": "b98a51c8701c1c08"
+    },
+    {
+      "filename": "五、使用AED.json",
+      "title": "五、使用AED",
+      "description": "五、使用AED",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 194,
+      "id": "14918168cebd9624"
+    },
+    {
+      "filename": "一、什么是心肺复苏.json",
+      "title": "一、什么是心肺复苏",
+      "description": "一、什么是心肺复苏",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 129,
+      "id": "7306bfcf7a46229a"
+    },
+    {
+      "filename": "癌症预防完全指南.json",
+      "title": "癌症预防完全指南",
+      "description": "常见癌症类型、危险因素、预防措施和早期筛查方法",
+      "category": "生活通识/健康养生",
       "tags": [
-        "拖延症",
-        "自我管理",
-        "时间管理",
-        "行为干预",
-        "心理学"
+        "癌症预防",
+        "肿瘤",
+        "早筛",
+        "健康管理",
+        "致癌物"
       ],
-      "wordCount": 1966,
-      "id": "bb7502f622413c7c"
+      "wordCount": 2436,
+      "id": "1bec7e1390f5bba6"
+    },
+    {
+      "filename": "呼吸系统疾病预防指南.json",
+      "title": "呼吸系统疾病预防完全指南",
+      "description": "感冒、流感、肺炎、慢阻肺、哮喘等常见呼吸系统疾病的预防措施",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "呼吸系统",
+        "疾病预防",
+        "感冒",
+        "流感",
+        "肺炎",
+        "慢阻肺",
+        "哮喘"
+      ],
+      "wordCount": 2823,
+      "id": "ccdb2bcab32054e3"
+    },
+    {
+      "filename": "如何培养健康的睡眠习惯.json",
+      "title": "如何培养健康的睡眠习惯",
+      "description": "从睡眠机制到实用方法，建立科学睡眠模式，提升睡眠质量",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "睡眠",
+        "健康管理",
+        "作息",
+        "睡眠质量"
+      ],
+      "wordCount": 1004,
+      "id": "c4808af2f4cd96c9"
+    },
+    {
+      "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
+      "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",
+      "description": "睡眠革命：从科学睡眠到能量管理的高效生活方式的核心知识点汇总",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "精力管理",
+        "睡眠",
+        "健康"
+      ],
+      "wordCount": 5551,
+      "id": "2cb0a104bfd0e6b4"
     }
   ]
 }

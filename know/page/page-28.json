@@ -1,0 +1,276 @@
+{
+  "page": 28,
+  "totalPages": 40,
+  "totalItems": 789,
+  "items": [
+    {
+      "filename": "六、推荐（Referral）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 333,
+      "id": "1d831cfe85c0ae81"
+    },
+    {
+      "filename": "七、AARRR优化顺序.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 290,
+      "id": "b99fc178867c3e17"
+    },
+    {
+      "filename": "三、激活（Activation）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 310,
+      "id": "bac81368c8afecc4"
+    },
+    {
+      "filename": "十、增长避坑.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 232,
+      "id": "cc6965f683fca4c5"
+    },
+    {
+      "filename": "四、留存（Retention）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 398,
+      "id": "c89248ff9fd131bd"
+    },
+    {
+      "filename": "五、变现（Revenue）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 379,
+      "id": "c06658b380aa59f7"
+    },
+    {
+      "filename": "一、AARRR模型概述.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 434,
+      "id": "85b82cb3699e3070"
+    },
+    {
+      "filename": "常见药物分类.json",
+      "title": "常见药物分类",
+      "description": "常见药物的分类方法和代表药物",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物分类"
+      ],
+      "wordCount": 1356,
+      "id": "b75b5e129e44e042"
+    },
+    {
+      "filename": "临床药理学.json",
+      "title": "临床药理学",
+      "description": "临床药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "临床药理学"
+      ],
+      "wordCount": 928,
+      "id": "019a37c34d921c94"
+    },
+    {
+      "filename": "临床药物治疗学.json",
+      "title": "临床药物治疗学",
+      "description": "临床药物治疗学的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "临床药物治疗学"
+      ],
+      "wordCount": 1068,
+      "id": "0cc7be10dd883bdd"
+    },
+    {
+      "filename": "药剂学.json",
+      "title": "药剂学",
+      "description": "药剂学的基本概念、剂型设计和质量控制",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药剂学"
+      ],
+      "wordCount": 895,
+      "id": "c9af10b06a7a5fdc"
+    },
+    {
+      "filename": "药理学.json",
+      "title": "药理学",
+      "description": "药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药理学"
+      ],
+      "wordCount": 765,
+      "id": "778ba3a88cb777e6"
+    },
+    {
+      "filename": "药事法规.json",
+      "title": "药事法规",
+      "description": "药事法规的基本内容和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药事法规"
+      ],
+      "wordCount": 1102,
+      "id": "96e5785a6604edbe"
+    },
+    {
+      "filename": "药物分析.json",
+      "title": "药物分析",
+      "description": "药物分析的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物分析"
+      ],
+      "wordCount": 687,
+      "id": "f827d9c6e100d0c6"
+    },
+    {
+      "filename": "药物化学.json",
+      "title": "药物化学",
+      "description": "药物化学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物化学"
+      ],
+      "wordCount": 712,
+      "id": "283f7d749ab0a9bd"
+    },
+    {
+      "filename": "药物流行病学.json",
+      "title": "药物流行病学",
+      "description": "药物流行病学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物流行病学"
+      ],
+      "wordCount": 785,
+      "id": "479906c22a84c019"
+    },
+    {
+      "filename": "药物信息学.json",
+      "title": "药物信息学",
+      "description": "药物信息学的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物信息学"
+      ],
+      "wordCount": 627,
+      "id": "ec33fb671d75b331"
+    },
+    {
+      "filename": "药学综合知识.json",
+      "title": "药学综合知识",
+      "description": "药学综合知识的核心内容和实践应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药学综合知识"
+      ],
+      "wordCount": 751,
+      "id": "744569747e72cf13"
+    },
+    {
+      "filename": "用药安全.json",
+      "title": "用药安全",
+      "description": "用药安全的重要性、常见问题和防范措施",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "用药安全"
+      ],
+      "wordCount": 1386,
+      "id": "5026e3c2e834005f"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "执业药师核心考点",
+      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
+      "category": "执业药师",
+      "tags": [
+        "药师",
+        "药学",
+        "法规"
+      ],
+      "wordCount": 2516,
+      "id": "1ad4d4522a1af0f5"
+    }
+  ]
+}

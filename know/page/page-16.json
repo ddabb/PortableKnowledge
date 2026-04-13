@@ -1,295 +1,187 @@
 {
   "page": 16,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "十二、内容规划表.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 268,
-      "id": "4261f8974ca6d17d"
+      "filename": "三、日常生活中的锚定效应.json",
+      "title": "三、日常生活中的锚定效应",
+      "description": "三、日常生活中的锚定效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 414,
+      "id": "7d059e6a3a9210a7"
     },
     {
-      "filename": "十一、常见问题.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 242,
-      "id": "612da376bb1ad1fe"
+      "filename": "三、生活中的沉没成本谬误.json",
+      "title": "三、生活中的沉没成本谬误",
+      "description": "三、生活中的沉没成本谬误",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 404,
+      "id": "1be319c7c8fd9c67"
     },
     {
-      "filename": "四、标题技巧.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 410,
-      "id": "565c3a55b5534166"
+      "filename": "三、生活中的可得性启发.json",
+      "title": "三、生活中的可得性启发",
+      "description": "三、生活中的可得性启发",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 541,
+      "id": "12f7b1f7d7681382"
     },
     {
-      "filename": "五、封面图设计.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 396,
-      "id": "b0c45fe0e4f4b451"
+      "filename": "三、损失厌恶的表现形式.json",
+      "title": "三、损失厌恶的表现形式",
+      "description": "三、损失厌恶的表现形式",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 435,
+      "id": "94a608f0d57ab50e"
     },
     {
-      "filename": "一、小红书平台特性.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 377,
-      "id": "2a541f5614393606"
+      "filename": "三、习得性无助的形成机制.json",
+      "title": "三、习得性无助的形成机制",
+      "description": "三、习得性无助的形成机制",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 226,
+      "id": "698fd5132e930643"
     },
     {
-      "filename": "八、增长黑客策略.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 276,
-      "id": "1138a8d26caa4e1a"
-    },
-    {
-      "filename": "二、涨粉策略分类.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 334,
-      "id": "e1e856c130bb873f"
-    },
-    {
-      "filename": "九、数据分析.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 255,
-      "id": "3fb9cec42822065b"
-    },
-    {
-      "filename": "六、多平台引流.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 358,
-      "id": "29e1c98ba25ab06c"
-    },
-    {
-      "filename": "七、内容涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 397,
-      "id": "7f75d0cbeb6948f0"
-    },
-    {
-      "filename": "三、爆款涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 341,
-      "id": "f803283a33849dd6"
-    },
-    {
-      "filename": "十、涨粉避坑.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 261,
-      "id": "ccd5186d13a73568"
-    },
-    {
-      "filename": "十二、案例拆解.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 244,
-      "id": "21aa1f03137929a2"
-    },
-    {
-      "filename": "十一、涨粉目标制定.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 265,
-      "id": "b6692aaca67d8efd"
-    },
-    {
-      "filename": "四、私域涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 270,
-      "id": "496ef0e6170ec71a"
-    },
-    {
-      "filename": "五、互推涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 287,
-      "id": "d1452f5d0dfb93d1"
-    },
-    {
-      "filename": "一、涨粉底层逻辑.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 199,
-      "id": "7e16d875bab31b95"
-    },
-    {
-      "filename": "八、私域数据运营.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
+      "filename": "三、原始研究的关键发现.json",
+      "title": "三、原始研究的关键发现",
+      "description": "三、原始研究的关键发现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
       "wordCount": 313,
-      "id": "d873e57fe76a5292"
+      "id": "05d22f76c3d3c47c"
     },
     {
-      "filename": "二、私域流量池搭建.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 478,
-      "id": "31d07a0b40fb50f9"
+      "filename": "四、经典的沉没成本实验.json",
+      "title": "四、经典的沉没成本实验",
+      "description": "四、经典的沉没成本实验",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 198,
+      "id": "7a66f69e13d64fad"
     },
     {
-      "filename": "九、私域避坑指南.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 252,
-      "id": "f642bd1daf2c6a24"
+      "filename": "四、可得性启发与可得性偏误的区别.json",
+      "title": "四、可得性启发与可得性偏误的区别",
+      "description": "四、可得性启发与可得性偏误的区别",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 168,
+      "id": "3cb639b9a152bd72"
+    },
+    {
+      "filename": "四、锚定效应的心理学机制.json",
+      "title": "四、锚定效应的心理学机制",
+      "description": "四、锚定效应的心理学机制",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 185,
+      "id": "5852e88282cee554"
+    },
+    {
+      "filename": "四、生活中的破窗效应.json",
+      "title": "四、生活中的破窗效应",
+      "description": "四、生活中的破窗效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 306,
+      "id": "b387dd47b685465b"
+    },
+    {
+      "filename": "四、生活中的认知失调.json",
+      "title": "四、生活中的认知失调",
+      "description": "四、生活中的认知失调",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 498,
+      "id": "78d6dea3e91bad89"
+    },
+    {
+      "filename": "四、损失厌恶的进化根源.json",
+      "title": "四、损失厌恶的进化根源",
+      "description": "四、损失厌恶的进化根源",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 206,
+      "id": "710411cd80a2df07"
+    },
+    {
+      "filename": "四、为什么会有邓宁-克鲁格效应.json",
+      "title": "四、为什么会有邓宁-克鲁格效应",
+      "description": "四、为什么会有邓宁-克鲁格效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 219,
+      "id": "52c696f75e1786c1"
+    },
+    {
+      "filename": "四、习得性无助在生活中的表现.json",
+      "title": "四、习得性无助在生活中的表现",
+      "description": "四、习得性无助在生活中的表现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 182,
+      "id": "7aed38d8f7a2d7c8"
+    },
+    {
+      "filename": "五、破窗效应的正向应用.json",
+      "title": "五、破窗效应的正向应用",
+      "description": "五、破窗效应的正向应用",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 287,
+      "id": "2a33231d968e9918"
+    },
+    {
+      "filename": "五、认知失调与自我辩护.json",
+      "title": "五、认知失调与自我辩护",
+      "description": "五、认知失调与自我辩护",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 209,
+      "id": "77446a752c3e8382"
+    },
+    {
+      "filename": "五、如何对抗可得性启发.json",
+      "title": "五、如何对抗可得性启发",
+      "description": "五、如何对抗可得性启发",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 430,
+      "id": "66e1567fe8ed5148"
+    },
+    {
+      "filename": "五、如何对抗锚定效应.json",
+      "title": "五、如何对抗锚定效应",
+      "description": "五、如何对抗锚定效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 428,
+      "id": "5ed9880a2ab3dcb9"
+    },
+    {
+      "filename": "五、如何克服沉没成本谬误.json",
+      "title": "五、如何克服沉没成本谬误",
+      "description": "五、如何克服沉没成本谬误",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 534,
+      "id": "02db14f325f7ecca"
+    },
+    {
+      "filename": "五、如何利用损失厌恶.json",
+      "title": "五、如何利用损失厌恶",
+      "description": "五、如何利用损失厌恶",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 356,
+      "id": "f1323ee60f2b87b0"
     }
   ]
 }

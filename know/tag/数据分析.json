@@ -1,22 +1,9 @@
 {
   "meta": {
     "tag": "数据分析",
-    "count": 2
+    "count": 1
   },
   "articles": [
-    {
-      "filename": "数据驱动产品决策.json",
-      "title": "数据说话：用数据驱动产品决策",
-      "description": "如何通过数据分析发现产品问题并优化",
-      "category": "产品研发/产品思考",
-      "tags": [
-        "数据分析",
-        "数据驱动",
-        "产品优化"
-      ],
-      "wordCount": 2212,
-      "id": "b67bc9ff73f50389"
-    },
     {
       "filename": "数据分析.json",
       "title": "数据分析",

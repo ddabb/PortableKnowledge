@@ -1,282 +1,248 @@
 {
   "page": 23,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "资本成本.json",
-      "title": "资本成本",
-      "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "资本成本",
-        "加权平均资本成本"
-      ],
-      "wordCount": 1077,
-      "id": "b92a62598fbda8c6"
+      "filename": "四、测验法.json",
+      "title": "四、测验法",
+      "description": "四、测验法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 184,
+      "id": "685bf7590447b77a"
     },
     {
-      "filename": "资本结构.json",
-      "title": "资本结构",
-      "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "资本结构",
-        "最优资本结构"
-      ],
-      "wordCount": 1105,
-      "id": "132d229e1b8c363c"
+      "filename": "四、费希纳定律（对数定律）.json",
+      "title": "四、费希纳定律（对数定律）",
+      "description": "四、费希纳定律（对数定律）",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 105,
+      "id": "dd932e31953ab43a"
     },
     {
-      "filename": "作业成本法.json",
-      "title": "作业成本法",
-      "description": "CPA财务成本管理作业成本法章节核心知识点，包括作业成本的计算和应用",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "作业成本法",
-        "作业成本计算"
-      ],
-      "wordCount": 1082,
-      "id": "95515ebefa36205d"
+      "filename": "四、遗忘规律.json",
+      "title": "四、遗忘规律",
+      "description": "四、遗忘规律",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 202,
+      "id": "5b389d479c6166f8"
     },
     {
-      "filename": "风险与风险管理.json",
-      "title": "风险与风险管理",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "风险",
-        "风险管理",
-        "CPA"
-      ],
-      "wordCount": 325,
-      "id": "c8ef74778c2a8653"
+      "filename": "五、个案法.json",
+      "title": "五、个案法",
+      "description": "五、个案法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 103,
+      "id": "e5b408c26cf6468e"
     },
     {
-      "filename": "公司治理.json",
-      "title": "公司治理",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "公司治理",
-        "董事会",
-        "监事会",
-        "CPA"
-      ],
-      "wordCount": 319,
-      "id": "e25e79384e2ea402"
+      "filename": "五、遗忘的原因.json",
+      "title": "五、遗忘的原因",
+      "description": "五、遗忘的原因",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 317,
+      "id": "e6db170f684cb32f"
     },
     {
-      "filename": "国际化经营战略.json",
-      "title": "国际化经营战略",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "国际化经营",
-        "战略",
-        "CPA"
-      ],
-      "wordCount": 305,
-      "id": "d60db92a0a1e612d"
+      "filename": "五、知觉概述.json",
+      "title": "五、知觉概述",
+      "description": "五、知觉概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 136,
+      "id": "c659224809a19c0a"
     },
     {
-      "filename": "内部控制.json",
-      "title": "内部控制",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "filename": "心理生理基础.json",
+      "title": "心理生理基础专题",
+      "description": "神经元结构、神经系统分类、大脑皮层功能区、内分泌系统与行为",
+      "category": "心理学/基础心理学",
       "tags": [
-        "内部控制",
-        "COSO框架",
-        "CPA"
+        "神经元",
+        "大脑皮层",
+        "神经系统",
+        "内分泌系统"
       ],
-      "wordCount": 353,
-      "id": "2f119a4f008efbc3"
+      "wordCount": 1233,
+      "id": "f2e412fe55237ca5"
     },
     {
-      "filename": "数字化转型战略.json",
-      "title": "数字化转型战略",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "数字化转型",
-        "战略",
-        "CPA"
-      ],
-      "wordCount": 395,
-      "id": "905b4983f825a260"
+      "filename": "一、感觉概述.json",
+      "title": "一、感觉概述",
+      "description": "一、感觉概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 124,
+      "id": "38ab9a2897ea1cb6"
     },
     {
-      "filename": "战略分析.json",
-      "title": "战略分析",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略分析",
-        "外部环境",
-        "内部环境",
-        "CPA"
-      ],
-      "wordCount": 391,
-      "id": "d20a69426118ea9f"
+      "filename": "一、观察法.json",
+      "title": "一、观察法",
+      "description": "一、观察法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 240,
+      "id": "3e319e8c5fd302f6"
     },
     {
-      "filename": "战略管理概述.json",
-      "title": "战略管理概述",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略管理",
-        "公司战略",
-        "CPA"
-      ],
-      "wordCount": 272,
-      "id": "fc146a253ac6f230"
+      "filename": "一、记忆概述.json",
+      "title": "一、记忆概述",
+      "description": "一、记忆概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 57,
+      "id": "d2cbef5b1fddad78"
     },
     {
-      "filename": "战略控制.json",
-      "title": "战略控制",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "filename": "注意品质与分类.json",
+      "title": "注意品质与分类专题",
+      "description": "无意注意、有意注意、有意后注意；注意的四种品质（广度、稳定性、分配、转移）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "战略控制",
-        "预算控制",
-        "平衡计分卡",
-        "CPA"
+        "注意",
+        "注意分类",
+        "注意品质",
+        "无意注意",
+        "有意注意"
       ],
-      "wordCount": 276,
-      "id": "f49cbddb991d1ae2"
+      "wordCount": 1042,
+      "id": "8a74799c73e25f42"
     },
     {
-      "filename": "战略实施.json",
-      "title": "战略实施",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "filename": "情绪调节与情商.json",
+      "title": "情绪调节与情商专题",
+      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "战略实施",
-        "组织结构",
-        "企业文化",
-        "CPA"
+        "情绪调节",
+        "情商",
+        "Gross模型",
+        "Goleman"
       ],
-      "wordCount": 260,
-      "id": "43412207cdc7f6c8"
+      "wordCount": 1222,
+      "id": "5816314001b8e360"
     },
     {
-      "filename": "战略选择.json",
-      "title": "战略选择",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "filename": "情绪理论.json",
+      "title": "情绪理论专题",
+      "description": "詹姆斯-兰格理论、坎农-巴德理论、沙赫特-辛格认知理论、拉扎勒斯认知评价理论",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "战略选择",
-        "总体战略",
-        "业务单位战略",
-        "CPA"
+        "情绪理论",
+        "詹姆斯-兰格",
+        "沙赫特-辛格",
+        "认知评价"
       ],
-      "wordCount": 335,
-      "id": "e8dbbb72eb78980a"
+      "wordCount": 807,
+      "id": "b167ac6bea8adc57"
     },
     {
-      "filename": "存货.json",
-      "title": "存货",
-      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
-      "category": "注册会计师/会计",
+      "filename": "压力与应对.json",
+      "title": "压力与应对专题",
+      "description": "压力的定义与类型、压力反应、生理应激机制、应对策略",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "存货",
-        "计量方法"
+        "压力",
+        "应对策略",
+        "应激",
+        "压力源"
       ],
-      "wordCount": 1214,
-      "id": "f4d27b56c0abc7b6"
+      "wordCount": 1241,
+      "id": "5c5c24851901db22"
     },
     {
-      "filename": "短期借款.json",
-      "title": "短期借款",
-      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
-      "category": "注册会计师/会计",
+      "filename": "人格评估方法.json",
+      "title": "人格评估方法专题",
+      "description": "人格评估的主要方法：自陈量表、投射测验、行为观察、评价量表",
+      "category": "心理学/人格心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "短期借款",
-        "利息核算"
+        "人格评估",
+        "MMPI",
+        "投射测验",
+        "罗夏墨迹",
+        "16PF"
       ],
-      "wordCount": 674,
-      "id": "2ce4bfe39200714a"
+      "wordCount": 1495,
+      "id": "f38c16be70111a8a"
     },
     {
-      "filename": "负债概述.json",
-      "title": "负债概述",
-      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
-      "category": "注册会计师/会计",
+      "filename": "人格理论.json",
+      "title": "人格心理学专题",
+      "description": "人格的定义、特质理论（大五人格）、精神分析人格理论（弗洛伊德）、人格评估方法",
+      "category": "心理学/人格心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "负债",
-        "确认计量"
+        "人格",
+        "特质理论",
+        "大五人格",
+        "弗洛伊德",
+        "精神分析"
       ],
-      "wordCount": 707,
-      "id": "2a8d3bc844708f18"
+      "wordCount": 1276,
+      "id": "6c75413d33c4ba6a"
     },
     {
-      "filename": "固定资产.json",
-      "title": "固定资产",
-      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
-      "category": "注册会计师/会计",
+      "filename": "记忆模型与认知存储.json",
+      "title": "记忆模型与认知存储专题",
+      "description": "三级记忆模型、工作记忆模型（Baddeley）、编码与存储策略",
+      "category": "心理学/认知心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "固定资产",
-        "折旧"
+        "记忆模型",
+        "工作记忆",
+        "编码",
+        "存储"
       ],
-      "wordCount": 1300,
-      "id": "44317f6c09f098d5"
+      "wordCount": 848,
+      "id": "8b0569b108265dfc"
     },
     {
-      "filename": "货币资金.json",
-      "title": "货币资金",
-      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
-      "category": "注册会计师/会计",
+      "filename": "决策与判断偏差.json",
+      "title": "决策与判断偏差专题",
+      "description": "启发法、确认偏差、后见之明偏差、可得性启发、框架效应等认知偏差",
+      "category": "心理学/认知心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "货币资金",
-        "现金管理"
+        "决策",
+        "判断偏差",
+        "启发法",
+        "确认偏差",
+        "后见之明"
       ],
-      "wordCount": 1178,
-      "id": "33408f637aca0506"
+      "wordCount": 915,
+      "id": "0e29e4e2423aa86a"
     },
     {
-      "filename": "金融资产.json",
-      "title": "金融资产",
-      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
-      "category": "注册会计师/会计",
+      "filename": "问题解决与推理.json",
+      "title": "问题解决与推理专题",
+      "description": "问题解决的定义、问题空间、启发法与算法、推理类型（演绎、归纳）、影响因素",
+      "category": "心理学/认知心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "金融资产",
-        "分类"
+        "问题解决",
+        "推理",
+        "启发法",
+        "算法",
+        "演绎推理",
+        "归纳推理"
       ],
-      "wordCount": 1398,
-      "id": "0568b7fcfb220ec9"
+      "wordCount": 1140,
+      "id": "ba655ebf8847089f"
     },
     {
-      "filename": "其他应付款.json",
-      "title": "其他应付款",
-      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
-      "category": "注册会计师/会计",
+      "filename": "元认知.json",
+      "title": "元认知专题",
+      "description": "元认知的定义与构成（Flavell）、元认知知识、元认知监控、元认知调节策略",
+      "category": "心理学/认知心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "其他应付款",
-        "核算"
+        "元认知",
+        "元认知知识",
+        "元认知监控",
+        "学习策略"
       ],
-      "wordCount": 525,
-      "id": "23ba7ef0a40abfe7"
+      "wordCount": 1179,
+      "id": "36295f2c1ae09532"
     }
   ]
 }

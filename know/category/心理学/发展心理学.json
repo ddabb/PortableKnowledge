@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "心理学/发展心理学",
-    "count": 7
+    "count": 19
   },
   "articles": [
     {
@@ -19,6 +19,15 @@
       "id": "4ffa80d1b2387788"
     },
     {
+      "filename": "备考重点.json",
+      "title": "备考重点",
+      "description": "备考重点",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 86,
+      "id": "65688bbdb0dcc3d7"
+    },
+    {
       "filename": "道德发展.json",
       "title": "道德发展专题",
       "description": "科尔伯格三水平六阶段理论、Piaget的道德发展理论、道德发展与认知发展的关系",
@@ -34,32 +43,121 @@
       "id": "d726a2e255cb8b6d"
     },
     {
-      "filename": "皮亚杰认知发展阶段.json",
-      "title": "皮亚杰认知发展阶段专题",
-      "description": "皮亚杰认知发展四阶段详解：感觉运动、前运算、具体运算、形式运算",
+      "filename": "二，第一阶段：感觉运动期（0-2岁）.json",
+      "title": "二，第一阶段：感觉运动期（0-2岁）",
+      "description": "二，第一阶段：感觉运动期（0-2岁）",
       "category": "心理学/发展心理学",
-      "tags": [
-        "皮亚杰",
-        "认知发展",
-        "守恒",
-        "去自我中心"
-      ],
-      "wordCount": 1996,
-      "id": "e70d25c2fa2cd36d"
+      "tags": [],
+      "wordCount": 363,
+      "id": "a57a6c1c1414145b"
     },
     {
-      "filename": "维果茨基与社会文化理论.json",
-      "title": "维果茨基与社会文化理论专题",
-      "description": "维果茨基的社会文化理论、最近发展区、脚手架、内化、高级心理机能",
+      "filename": "二，最近发展区（ZPD）.json",
+      "title": "二，最近发展区（ZPD）",
+      "description": "二，最近发展区（ZPD）",
       "category": "心理学/发展心理学",
-      "tags": [
-        "维果茨基",
-        "社会文化理论",
-        "最近发展区",
-        "脚手架"
-      ],
-      "wordCount": 1548,
-      "id": "9eeca6977d2edf3d"
+      "tags": [],
+      "wordCount": 279,
+      "id": "489c2eb19011a5fa"
+    },
+    {
+      "filename": "六，各阶段对比.json",
+      "title": "六，各阶段对比",
+      "description": "六，各阶段对比",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 148,
+      "id": "834f71fd1934278e"
+    },
+    {
+      "filename": "六，维果茨基 vs 皮亚杰.json",
+      "title": "六，维果茨基 vs 皮亚杰",
+      "description": "六，维果茨基 vs 皮亚杰",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 135,
+      "id": "e7c688f8f7a1f9d1"
+    },
+    {
+      "filename": "七，相关概念：元认知与自我调节.json",
+      "title": "七，相关概念：元认知与自我调节",
+      "description": "七，相关概念：元认知与自我调节",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 87,
+      "id": "f889d15d83da4b12"
+    },
+    {
+      "filename": "三，第二阶段：前运算期（2-7岁）.json",
+      "title": "三，第二阶段：前运算期（2-7岁）",
+      "description": "三，第二阶段：前运算期（2-7岁）",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 490,
+      "id": "e5edeac0be5efa7b"
+    },
+    {
+      "filename": "三，脚手架（Scaffolding）.json",
+      "title": "三，脚手架（Scaffolding）",
+      "description": "三，脚手架（Scaffolding）",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 285,
+      "id": "19e74ca235498bd4"
+    },
+    {
+      "filename": "四，第三阶段：具体运算期（7-11岁）.json",
+      "title": "四，第三阶段：具体运算期（7-11岁）",
+      "description": "四，第三阶段：具体运算期（7-11岁）",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 301,
+      "id": "6f51a1e819c832ac"
+    },
+    {
+      "filename": "四，内化.json",
+      "title": "四，内化",
+      "description": "四，内化",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 166,
+      "id": "d71abfddecfb3809"
+    },
+    {
+      "filename": "五，第四阶段：形式运算期（11岁+）.json",
+      "title": "五，第四阶段：形式运算期（11岁+）",
+      "description": "五，第四阶段：形式运算期（11岁+）",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 343,
+      "id": "735e0beb3b9b794e"
+    },
+    {
+      "filename": "五，高级心理机能.json",
+      "title": "五，高级心理机能",
+      "description": "五，高级心理机能",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 214,
+      "id": "2bcc7d88abfcdee6"
+    },
+    {
+      "filename": "一，核心概念.json",
+      "title": "一，核心概念",
+      "description": "一，核心概念",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 196,
+      "id": "a7f13d42f60bb38e"
+    },
+    {
+      "filename": "一，社会文化理论的核心.json",
+      "title": "一，社会文化理论的核心",
+      "description": "一，社会文化理论的核心",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 226,
+      "id": "c4a4e98bebb6174b"
     },
     {
       "filename": "依恋理论.json",

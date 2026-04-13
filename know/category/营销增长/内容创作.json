@@ -1,9 +1,27 @@
 {
   "meta": {
     "category": "营销增长/内容创作",
-    "count": 24
+    "count": 32
   },
   "articles": [
+    {
+      "filename": "八、选题时间管理.json",
+      "title": "八、选题时间管理",
+      "description": "八、选题时间管理",
+      "category": "营销增长/内容创作",
+      "tags": [],
+      "wordCount": 239,
+      "id": "272d6c8f60ce7fd9"
+    },
+    {
+      "filename": "二、选题来源.json",
+      "title": "二、选题来源",
+      "description": "二、选题来源",
+      "category": "营销增长/内容创作",
+      "tags": [],
+      "wordCount": 388,
+      "id": "4d2389681efe7759"
+    },
     {
       "filename": "八、排版：视觉体验.json",
       "title": "公众号爆款文章写作完全指南",
@@ -181,18 +199,58 @@
       "id": "595fdd5e7b477eea"
     },
     {
-      "filename": "内容选题策划完全指南.json",
-      "title": "内容选题策划完全指南",
-      "description": "如何发现好选题、建立选题库、用选题矩阵找到流量密码",
+      "filename": "九、选题复盘.json",
+      "title": "九、选题复盘",
+      "description": "九、选题复盘",
       "category": "营销增长/内容创作",
-      "tags": [
-        "选题策划",
-        "内容选题",
-        "选题库",
-        "爆款选题"
-      ],
-      "wordCount": 2921,
-      "id": "aaa8a385d9f6e7ac"
+      "tags": [],
+      "wordCount": 199,
+      "id": "00f688dc81aad28e"
+    },
+    {
+      "filename": "六、选题执行流程.json",
+      "title": "六、选题执行流程",
+      "description": "六、选题执行流程",
+      "category": "营销增长/内容创作",
+      "tags": [],
+      "wordCount": 321,
+      "id": "016c551657dbbae1"
+    },
+    {
+      "filename": "七、选题常见问题.json",
+      "title": "七、选题常见问题",
+      "description": "七、选题常见问题",
+      "category": "营销增长/内容创作",
+      "tags": [],
+      "wordCount": 250,
+      "id": "f95ebe0f5c082172"
+    },
+    {
+      "filename": "三、选题评估方法.json",
+      "title": "三、选题评估方法",
+      "description": "三、选题评估方法",
+      "category": "营销增长/内容创作",
+      "tags": [],
+      "wordCount": 452,
+      "id": "e292ca70457063f6"
+    },
+    {
+      "filename": "四、选题库建设.json",
+      "title": "四、选题库建设",
+      "description": "四、选题库建设",
+      "category": "营销增长/内容创作",
+      "tags": [],
+      "wordCount": 367,
+      "id": "af2a5f3595e8e0e9"
+    },
+    {
+      "filename": "五、选题方向库.json",
+      "title": "五、选题方向库",
+      "description": "五、选题方向库",
+      "category": "营销增长/内容创作",
+      "tags": [],
+      "wordCount": 370,
+      "id": "eec9386c3a496203"
     },
     {
       "filename": "八、发布时间.json",
@@ -373,6 +431,15 @@
       ],
       "wordCount": 377,
       "id": "2a541f5614393606"
+    },
+    {
+      "filename": "一、选题的本质.json",
+      "title": "一、选题的本质",
+      "description": "一、选题的本质",
+      "category": "营销增长/内容创作",
+      "tags": [],
+      "wordCount": 297,
+      "id": "788098b5cd1a8a49"
     }
   ]
 }

@@ -1,267 +1,282 @@
 {
   "page": 9,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "教师与学生.json",
-      "title": "教师与学生",
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "教师",
-        "学生",
-        "考研"
+        "一建",
+        "法规",
+        "建造师"
       ],
-      "wordCount": 471,
-      "id": "e9dfd65e1316b9ea"
+      "wordCount": 559,
+      "id": "7eef789c72cc2e71"
     },
     {
-      "filename": "教学理论与方法.json",
-      "title": "教学理论与方法",
+      "filename": "建设工程法律法规实务.json",
+      "title": "建设工程法律法规实务",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "教学",
-        "考研"
+        "一建",
+        "法律法规",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 567,
-      "id": "0f451ce6149b0900"
+      "wordCount": 279,
+      "id": "fa1244339a69ec42"
     },
     {
-      "filename": "教育目的.json",
-      "title": "教育目的",
+      "filename": "建设工程经济.json",
+      "title": "建设工程经济",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "教育目的",
-        "考研"
+        "一建",
+        "工程经济",
+        "建造师"
       ],
-      "wordCount": 341,
-      "id": "d6c2d2d167c2f571"
+      "wordCount": 214,
+      "id": "ca0d0ae8cf075c84"
     },
     {
-      "filename": "教育现代化与教育改革.json",
-      "title": "教育现代化与教育改革",
+      "filename": "建设工程项目管理.json",
+      "title": "建设工程项目管理",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "教育现代化",
-        "教育改革",
-        "考研"
+        "一建",
+        "项目管理",
+        "PMBOK",
+        "建造师"
       ],
-      "wordCount": 634,
-      "id": "09957b419e9fd41b"
+      "wordCount": 629,
+      "id": "7159a8aa660324b4"
     },
     {
-      "filename": "教育心理学概述.json",
-      "title": "教育心理学概述",
+      "filename": "建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "教育心理学",
-        "考研"
+        "一建",
+        "建筑工程",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 440,
-      "id": "190810ca16151813"
+      "wordCount": 156,
+      "id": "30f9152bdb630791"
     },
     {
-      "filename": "教育学原理概述.json",
-      "title": "教育学原理概述",
+      "filename": "施工技术与管理.json",
+      "title": "施工技术与管理",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "原理",
-        "考研"
+        "一建",
+        "施工技术",
+        "管理",
+        "建造师"
       ],
-      "wordCount": 271,
-      "id": "9f7678e998c22920"
+      "wordCount": 173,
+      "id": "24279326babd9df0"
     },
     {
-      "filename": "教育研究方法概述.json",
-      "title": "教育研究方法概述",
+      "filename": "市政公用工程管理与实务.json",
+      "title": "市政公用工程管理与实务",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "研究方法",
-        "考研"
+        "一建",
+        "市政工程",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 462,
-      "id": "cb76ac3d73313f7a"
+      "wordCount": 274,
+      "id": "5793250af66a75fb"
     },
     {
-      "filename": "教育与人的发展.json",
-      "title": "教育与人的发展",
+      "filename": "水利水电工程管理与实务.json",
+      "title": "水利水电工程管理与实务",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "人的发展",
-        "考研"
+        "一建",
+        "水利水电工程",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 344,
-      "id": "17f5df24d454b3d5"
+      "wordCount": 299,
+      "id": "c1e52e11bb2d17af"
     },
     {
-      "filename": "课程理论与实践.json",
-      "title": "课程理论与实践",
+      "filename": "项目安全管理.json",
+      "title": "项目安全管理",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "课程",
-        "考研"
+        "一建",
+        "安全管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 555,
-      "id": "66fc11554d006482"
+      "wordCount": 200,
+      "id": "45de03bdcf1f0f2c"
     },
     {
-      "filename": "外国教育史概述.json",
-      "title": "外国教育史概述",
+      "filename": "项目成本管理.json",
+      "title": "项目成本管理",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "外国教育史",
-        "考研"
+        "一建",
+        "成本管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 388,
-      "id": "dcfd9d081cf9e3fd"
+      "wordCount": 205,
+      "id": "37ba86cbdaa95f4c"
     },
     {
-      "filename": "学习动机.json",
-      "title": "学习动机",
+      "filename": "项目风险管理.json",
+      "title": "项目风险管理",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "学习动机",
-        "考研"
+        "一建",
+        "风险管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 597,
-      "id": "bafe8524c17a0580"
+      "wordCount": 247,
+      "id": "8c658d432fcf62f0"
     },
     {
-      "filename": "学习理论.json",
-      "title": "学习理论",
+      "filename": "项目沟通管理.json",
+      "title": "项目沟通管理",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "学习理论",
-        "考研"
+        "一建",
+        "沟通管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 557,
-      "id": "9e9ce2126377fc96"
+      "wordCount": 224,
+      "id": "cecb4e65997daedd"
     },
     {
-      "filename": "学校管理.json",
-      "title": "学校管理",
+      "filename": "项目管理实务.json",
+      "title": "项目管理实务",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "学校管理",
-        "考研"
+        "一建",
+        "项目管理",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 509,
-      "id": "5739365a0d864529"
+      "wordCount": 255,
+      "id": "592f2ac643888a83"
     },
     {
-      "filename": "中国教育史概述.json",
-      "title": "中国教育史概述",
+      "filename": "项目合同管理.json",
+      "title": "项目合同管理",
       "description": "",
-      "category": "考研专业课/教育学专业基础综合",
+      "category": "建造师/一级建造师",
       "tags": [
-        "教育学",
-        "中国教育史",
-        "考研"
+        "一建",
+        "合同管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 373,
-      "id": "4c97f0f84e412346"
+      "wordCount": 280,
+      "id": "26b9c0766862828c"
     },
     {
-      "filename": "心理学备考综合指南.json",
-      "title": "心理学备考综合指南",
-      "description": "心理学高频考点速查表、计算题公式汇总、简答论述答题模板、备考策略",
-      "category": "考研专业课/心理学备考",
+      "filename": "项目进度管理.json",
+      "title": "项目进度管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "心理学备考",
-        "高频考点",
-        "计算公式",
-        "答题模板"
+        "一建",
+        "进度管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 2110,
-      "id": "f964c9fe63d8c5c3"
+      "wordCount": 166,
+      "id": "d3e3167c6698282e"
     },
     {
-      "filename": "绩效管理.json",
-      "title": "绩效管理",
-      "description": "绩效管理的体系、方法和实施策略",
-      "category": "人力资源管理师",
+      "filename": "项目收尾管理.json",
+      "title": "项目收尾管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "人力资源管理师",
-        "绩效管理"
+        "一建",
+        "收尾管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 756,
-      "id": "3df6d718c061ee27"
+      "wordCount": 233,
+      "id": "ae4580952208ff40"
     },
     {
-      "filename": "劳动法规.json",
-      "title": "劳动法规",
-      "description": "劳动法规的基本内容、应用和合规管理",
-      "category": "人力资源管理师",
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/一级建造师",
       "tags": [
-        "人力资源管理师",
-        "劳动法规"
+        "一建",
+        "质量管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 1072,
-      "id": "40b246defbcf3d65"
-    },
-    {
-      "filename": "劳动关系.json",
-      "title": "劳动关系",
-      "description": "劳动关系的概念、管理和协调策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "劳动关系"
-      ],
-      "wordCount": 774,
-      "id": "fd236277fb520467"
-    },
-    {
-      "filename": "培训开发.json",
-      "title": "培训开发",
-      "description": "培训开发的体系、方法和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "培训",
-        "开发"
-      ],
-      "wordCount": 697,
-      "id": "4b0e8eca0f576f1d"
+      "wordCount": 199,
+      "id": "ef5aeb98d5443572"
     },
     {
       "filename": "核心考点.json",
-      "title": "人力资源管理师核心考点",
-      "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
-      "category": "人力资源管理师",
+      "title": "教师资格证考试核心考点",
+      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
+      "category": "教师资格证",
       "tags": [
-        "人力资源",
-        "HR",
-        "劳动法"
+        "教资",
+        "教育学",
+        "心理学"
       ],
-      "wordCount": 30,
-      "id": "89130bc5d5b8903d"
+      "wordCount": 3569,
+      "id": "bd7849ae8f9e3d7a"
+    },
+    {
+      "filename": "小学班级管理.json",
+      "title": "小学班级管理",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "班级管理",
+        "学生管理"
+      ],
+      "wordCount": 3662,
+      "id": "f83ca1688447cb2a"
+    },
+    {
+      "filename": "小学教师职业道德.json",
+      "title": "小学教师职业道德",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教师职业道德",
+        "师德师风"
+      ],
+      "wordCount": 2833,
+      "id": "562e4f8f9266c0bb"
     }
   ]
 }

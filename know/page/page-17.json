@@ -1,311 +1,201 @@
 {
   "page": 17,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "六、私域变现路径.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 408,
-      "id": "0e19c44aec97ca19"
-    },
-    {
-      "filename": "七、朋友圈运营.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 448,
-      "id": "381638e127b6dc7e"
-    },
-    {
-      "filename": "三、社群运营.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 439,
-      "id": "219fceda69b9f459"
-    },
-    {
-      "filename": "十、私域工具.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 270,
-      "id": "359df2dbe4aa8c4a"
-    },
-    {
-      "filename": "十一、案例拆解.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 197,
-      "id": "13eb663930df5355"
-    },
-    {
-      "filename": "四、社群运营SOP.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 511,
-      "id": "544e02490a3c2e73"
-    },
-    {
-      "filename": "五、用户分层运营.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 471,
-      "id": "d7197c53083a0ecf"
-    },
-    {
-      "filename": "一、私域流量基础.json",
-      "title": "私域流量运营完全指南",
-      "description": "如何搭建私域流量池、运营社群、提升用户价值和变现转化",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "私域流量",
-        "社群运营",
-        "用户运营",
-        "变现转化",
-        "微信生态"
-      ],
-      "wordCount": 354,
-      "id": "54e3c3103e00b338"
-    },
-    {
-      "filename": "八、数据分析.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
-      "wordCount": 245,
-      "id": "3e8c1eaada72e115"
-    },
-    {
-      "filename": "二、获客（Acquisition）.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
-      "wordCount": 424,
-      "id": "7ebf73c3583211eb"
-    },
-    {
-      "filename": "九、增长案例.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
-      "wordCount": 276,
-      "id": "9d5a1a68bab84a46"
-    },
-    {
-      "filename": "六、推荐（Referral）.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
-      "wordCount": 333,
-      "id": "1d831cfe85c0ae81"
-    },
-    {
-      "filename": "七、AARRR优化顺序.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
-      "wordCount": 290,
-      "id": "b99fc178867c3e17"
-    },
-    {
-      "filename": "三、激活（Activation）.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
-      "wordCount": 310,
-      "id": "bac81368c8afecc4"
-    },
-    {
-      "filename": "十、增长避坑.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
-      "wordCount": 232,
-      "id": "cc6965f683fca4c5"
-    },
-    {
-      "filename": "四、留存（Retention）.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
+      "filename": "五、生活中的邓宁-克鲁格效应.json",
+      "title": "五、生活中的邓宁-克鲁格效应",
+      "description": "五、生活中的邓宁-克鲁格效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
       "wordCount": 398,
-      "id": "c89248ff9fd131bd"
+      "id": "afbc9ca802a9f77e"
     },
     {
-      "filename": "五、变现（Revenue）.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
-      ],
-      "wordCount": 379,
-      "id": "c06658b380aa59f7"
+      "filename": "五、习得性无助与抑郁.json",
+      "title": "五、习得性无助与抑郁",
+      "description": "五、习得性无助与抑郁",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 129,
+      "id": "b988093bcbc5776a"
     },
     {
-      "filename": "一、AARRR模型概述.json",
-      "title": "用户增长黑客AARRR模型完全指南",
-      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
-      "category": "营销增长/增长策略",
+      "filename": "幸存者偏差.json",
+      "title": "幸存者偏差",
+      "description": "只看到成功者而忽略失败者的统计陷阱，是认知偏差中最常见也最危险的思维误区之一",
+      "category": "认知思维/认知偏差",
       "tags": [
-        "AARRR模型",
-        "用户增长",
-        "增长黑客",
-        "获客",
-        "留存",
-        "变现"
+        "幸存者偏差",
+        "认知偏差",
+        "逻辑谬误",
+        "统计思维"
       ],
+      "wordCount": 792,
+      "id": "94fa6e61ebadf164"
+    },
+    {
+      "filename": "一、锚定效应的发现.json",
+      "title": "一、锚定效应的发现",
+      "description": "一、锚定效应的发现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 226,
+      "id": "6b275cfb099fb3b7"
+    },
+    {
+      "filename": "一、起源：一个警察局局长的直觉.json",
+      "title": "一、起源：一个警察局局长的直觉",
+      "description": "一、起源：一个警察局局长的直觉",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 193,
+      "id": "677c543fa4ba3512"
+    },
+    {
+      "filename": "一、什么是沉没成本谬误.json",
+      "title": "一、什么是沉没成本谬误",
+      "description": "一、什么是沉没成本谬误",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 174,
+      "id": "f4412286524a7e40"
+    },
+    {
+      "filename": "一、什么是可得性启发.json",
+      "title": "一、什么是可得性启发",
+      "description": "一、什么是可得性启发",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 173,
+      "id": "c81e453dab1921a8"
+    },
+    {
+      "filename": "一、损失厌恶的发现.json",
+      "title": "一、损失厌恶的发现",
+      "description": "一、损失厌恶的发现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 333,
+      "id": "4f5b75b00f904016"
+    },
+    {
+      "filename": "一、一个改变心理学的问题.json",
+      "title": "一、一个改变心理学的问题",
+      "description": "一、一个改变心理学的问题",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 201,
+      "id": "33d4221f3d54db2d"
+    },
+    {
+      "filename": "一、一个改变心理学历史的实验.json",
+      "title": "一、一个改变心理学历史的实验",
+      "description": "一、一个改变心理学历史的实验",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 240,
+      "id": "0e32d57a77d3c40d"
+    },
+    {
+      "filename": "一、一个荒谬的实验发现.json",
+      "title": "一、一个荒谬的实验发现",
+      "description": "一、一个荒谬的实验发现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 287,
+      "id": "f6c1ed80c2778812"
+    },
+    {
+      "filename": "总结.json",
+      "title": "总结",
+      "description": "总结",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 313,
+      "id": "4d8385802e3b96e3"
+    },
+    {
+      "filename": "二、核心方法论.json",
+      "title": "二、核心方法论",
+      "description": "二、核心方法论",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 627,
+      "id": "37bed835d1e8db83"
+    },
+    {
+      "filename": "决策矩阵分析法.json",
+      "title": "决策矩阵分析法",
+      "description": "通过系统化评估选项的多个维度，用加权评分做出更理性的重大决策",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "决策",
+        "矩阵分析",
+        "加权评分",
+        "理性思维"
+      ],
+      "wordCount": 839,
+      "id": "c9329cb08bddeb48"
+    },
+    {
+      "filename": "六、总结.json",
+      "title": "六、总结",
+      "description": "六、总结",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 452,
+      "id": "d548e72fc9c6c2af"
+    },
+    {
+      "filename": "三、应用场景与案例.json",
+      "title": "三、应用场景与案例",
+      "description": "三、应用场景与案例",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 742,
+      "id": "c4bb2b1e6d4fa336"
+    },
+    {
+      "filename": "思维导图应用_从思考到表达的可视化工具.json",
+      "title": "思维导图应用：从思考到表达的可视化工具",
+      "description": "思维导图应用：从思考到表达的可视化工具的核心知识点汇总",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "工具",
+        "可视化",
+        "思维导图"
+      ],
+      "wordCount": 1336,
+      "id": "3aa1f3c2e74dd1cb"
+    },
+    {
+      "filename": "四、操作步骤详解.json",
+      "title": "四、操作步骤详解",
+      "description": "四、操作步骤详解",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 566,
+      "id": "8e3e56e14203d0c2"
+    },
+    {
+      "filename": "五、局限性.json",
+      "title": "五、局限性",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
       "wordCount": 434,
-      "id": "85b82cb3699e3070"
+      "id": "085f90a6cdcd3ada"
     },
     {
-      "filename": "常见药物分类.json",
-      "title": "常见药物分类",
-      "description": "常见药物的分类方法和代表药物",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物分类"
-      ],
-      "wordCount": 1356,
-      "id": "b75b5e129e44e042"
-    },
-    {
-      "filename": "临床药理学.json",
-      "title": "临床药理学",
-      "description": "临床药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "临床药理学"
-      ],
-      "wordCount": 928,
-      "id": "019a37c34d921c94"
+      "filename": "五、局限性与注意事项.json",
+      "title": "五、局限性与注意事项",
+      "description": "五、局限性与注意事项",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 418,
+      "id": "fa4b07945dfcf8dc"
     }
   ]
 }

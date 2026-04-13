@@ -1,0 +1,9 @@
+{
+  "filename": "五、如果你想开源.json",
+  "title": "五、如果你想开源",
+  "description": "五、如果你想开源",
+  "category": "产品研发/开源生态",
+  "tags": [],
+  "wordCount": 282,
+  "content": "\n\n## 五、如果你想开源\r\n\r\n### 1. 选择协议\r\n\r\n| 你的需求 | 推荐协议 |\r\n|---------|---------|\r\n| 最宽松，随便用 | MIT |\r\n| 需要专利保护 | Apache |\r\n| 强制开源 | GPL |\r\n| 学术用途 | BSD |\r\n\r\n### 2. 准备文件\r\n\r\n**必须文件：**\r\n\r\n- `LICENSE` - 协议文件\r\n- `README.md` - 项目说明\r\n- `.gitignore` - Git 忽略文件\r\n\r\n**可选文件：**\r\n\r\n- `CONTRIBUTING.md` - 贡献指南\r\n- `CODE_OF_CONDUCT.md` - 行为准则\r\n- `CHANGELOG.md` - 更新日志\r\n\r\n### 3. 写好 README\r\n\r\n```markdown\r\n# 项目名称\r\n\r\n一句话描述\n"
+}

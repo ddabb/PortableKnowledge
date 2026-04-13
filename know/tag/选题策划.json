@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "选题策划",
-    "count": 12
+    "count": 11
   },
   "articles": [
     {
@@ -179,20 +179,6 @@
       ],
       "wordCount": 478,
       "id": "595fdd5e7b477eea"
-    },
-    {
-      "filename": "内容选题策划完全指南.json",
-      "title": "内容选题策划完全指南",
-      "description": "如何发现好选题、建立选题库、用选题矩阵找到流量密码",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "选题策划",
-        "内容选题",
-        "选题库",
-        "爆款选题"
-      ],
-      "wordCount": 2921,
-      "id": "aaa8a385d9f6e7ac"
     }
   ]
 }

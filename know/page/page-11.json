@@ -1,225 +1,272 @@
 {
   "page": 11,
-  "totalPages": 26,
-  "totalItems": 515,
+  "totalPages": 40,
+  "totalItems": 789,
   "items": [
     {
-      "filename": "fermi-estimation.json",
-      "title": "费米估算",
-      "description": "在信息不足时做出合理估算的思维方法，通过分解问题、合理假设来逼近真实答案",
-      "category": "认知思维/思维工具",
+      "filename": "班级管理案例分析.json",
+      "title": "班级管理案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "费米问题",
-        "估算思维",
-        "量化分析",
-        "决策工具"
+        "班级管理",
+        "案例分析",
+        "学生管理"
       ],
-      "wordCount": 3718,
-      "id": "f8c2ba84343993b8"
+      "wordCount": 4327,
+      "id": "ef11e36b15cfb901"
     },
     {
-      "filename": "决策矩阵分析法.json",
-      "title": "决策矩阵分析法",
-      "description": "通过系统化评估选项的多个维度，用加权评分做出更理性的重大决策",
-      "category": "认知思维/思维工具",
+      "filename": "班级管理与教育沟通.json",
+      "title": "班级管理与教育沟通",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "决策",
-        "矩阵分析",
-        "加权评分",
-        "理性思维"
+        "班级管理",
+        "教育沟通",
+        "师生关系"
       ],
-      "wordCount": 839,
-      "id": "c9329cb08bddeb48"
+      "wordCount": 4356,
+      "id": "993359eb18a0dd0b"
     },
     {
-      "filename": "六、总结.json",
-      "title": "六、总结",
+      "filename": "教学设计案例分析.json",
+      "title": "教学设计案例分析",
       "description": "",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 463,
-      "id": "d548e72fc9c6c2af"
-    },
-    {
-      "filename": "三、应用场景与案例.json",
-      "title": "三、应用场景与案例",
-      "description": "",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 1186,
-      "id": "c4bb2b1e6d4fa336"
-    },
-    {
-      "filename": "思维导图应用_从思考到表达的可视化工具.json",
-      "title": "思维导图应用：从思考到表达的可视化工具",
-      "description": "思维导图应用：从思考到表达的可视化工具的核心知识点汇总",
-      "category": "认知思维/思维工具",
+      "category": "教师资格证/中学",
       "tags": [
-        "工具",
-        "可视化",
-        "思维导图"
+        "教学设计",
+        "案例分析",
+        "教学实践"
       ],
-      "wordCount": 1336,
-      "id": "3aa1f3c2e74dd1cb"
+      "wordCount": 4608,
+      "id": "a2ac6236dac775d6"
     },
     {
-      "filename": "四、操作步骤详解.json",
-      "title": "四、操作步骤详解",
+      "filename": "教学设计与实施.json",
+      "title": "教学设计与实施",
       "description": "",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 682,
-      "id": "8e3e56e14203d0c2"
-    },
-    {
-      "filename": "五、局限性.json",
-      "title": "五、局限性",
-      "description": "",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 434,
-      "id": "085f90a6cdcd3ada"
-    },
-    {
-      "filename": "一、定义与起源.json",
-      "title": "一、定义与起源",
-      "description": "",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 849,
-      "id": "93ecaaf33d632f5b"
-    },
-    {
-      "filename": "SWOT分析法.json",
-      "title": "SWOT分析法",
-      "description": "经典的战略规划工具，通过分析优势、劣势、机会与威胁四个维度，系统评估个人或组织的竞争态势",
-      "category": "认知思维/思维工具",
+      "category": "教师资格证/中学",
       "tags": [
-        "SWOT",
-        "战略分析",
-        "自我认知",
-        "竞争分析"
+        "教学设计",
+        "教学实施",
+        "教学策略"
       ],
-      "wordCount": 992,
-      "id": "0420b484bf891bed"
+      "wordCount": 3865,
+      "id": "ef27e31f6e22c582"
     },
     {
-      "filename": "01_专业领域.json",
-      "title": "01_专业领域",
+      "filename": "教育创新与改革.json",
+      "title": "教育创新与改革",
       "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 62,
-      "id": "83f96c05cb77dab8"
-    },
-    {
-      "filename": "02_兴趣爱好.json",
-      "title": "02_兴趣爱好",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 59,
-      "id": "84bea3f998d50be1"
-    },
-    {
-      "filename": "03_生活技能.json",
-      "title": "03_生活技能",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 58,
-      "id": "a8e07c7281123e2d"
-    },
-    {
-      "filename": "04_个人成长.json",
-      "title": "04_个人成长",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 157,
-      "id": "249a897652b5eb5b"
-    },
-    {
-      "filename": "费曼学习法实践_通过教授他人深化理解.json",
-      "title": "费曼学习法实践：通过教授他人深化理解",
-      "description": "费曼学习法实践：通过教授他人深化理解的核心知识点汇总",
-      "category": "认知思维/学习方法",
+      "category": "教师资格证/中学",
       "tags": [
-        "学习方法",
-        "知识留存",
-        "费曼学习法"
+        "教育创新",
+        "教育改革",
+        "素质教育"
       ],
-      "wordCount": 2710,
-      "id": "5187e8e01dea0bea"
+      "wordCount": 3390,
+      "id": "a984c08f238b1def"
     },
     {
-      "filename": "高效学习方法_科学提升学习能力的实用指南.json",
-      "title": "高效学习方法：科学提升学习能力的实用指南",
-      "description": "高效学习方法：科学提升学习能力的实用指南的核心知识点汇总",
-      "category": "认知思维/学习方法",
-      "tags": [
-        "学习方法",
-        "效率",
-        "认知科学"
-      ],
-      "wordCount": 2011,
-      "id": "fa4f0bdcc55522ad"
-    },
-    {
-      "filename": "个人思考.json",
-      "title": "个人思考",
+      "filename": "教育法律法规案例分析.json",
+      "title": "教育法律法规案例分析",
       "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 16,
-      "id": "08f40b4a9752a3d2"
-    },
-    {
-      "filename": "关联知识.json",
-      "title": "关联知识",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 1576,
-      "id": "4f57d8bf2cc133f1"
-    },
-    {
-      "filename": "核心内容.json",
-      "title": "核心内容",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 18,
-      "id": "53e013ed02d34a1f"
-    },
-    {
-      "filename": "间隔重复.json",
-      "title": "间隔重复：对抗遗忘的最强武器",
-      "description": "利用记忆的自然衰减规律，通过科学安排复习时间，大幅提升长期记忆效率的学习方法",
-      "category": "认知思维/学习方法",
+      "category": "教师资格证/中学",
       "tags": [
-        "间隔重复",
-        "记忆",
-        "遗忘曲线",
-        "Anki",
-        "学习效率"
+        "教育法律法规",
+        "案例分析",
+        "法律责任"
       ],
-      "wordCount": 1364,
-      "id": "056a509efde85023"
+      "wordCount": 4480,
+      "id": "4c465f57472777a5"
     },
     {
-      "filename": "刻意练习.json",
-      "title": "刻意练习：如何从普通到卓越",
-      "description": "基于心理学研究的高效技能提升方法，通过有目的、有反馈、高度专注的练习，实现从新手到专家的跨越",
-      "category": "认知思维/学习方法",
+      "filename": "教育法律法规与教师职业道德.json",
+      "title": "教育法律法规与教师职业道德",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "刻意练习",
-        "技能提升",
-        "一万小时定律",
-        "专家养成"
+        "教育法律法规",
+        "教师职业道德",
+        "法律责任"
       ],
-      "wordCount": 3000,
-      "id": "9999e9abdb4f9107"
+      "wordCount": 4917,
+      "id": "606effbf3fd22802"
+    },
+    {
+      "filename": "教育技术应用.json",
+      "title": "教育技术应用",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育技术",
+        "信息技术",
+        "教学创新"
+      ],
+      "wordCount": 3883,
+      "id": "d5ada9171e523b31"
+    },
+    {
+      "filename": "教育教学实践案例分析.json",
+      "title": "教育教学实践案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育教学",
+        "案例分析",
+        "实践经验"
+      ],
+      "wordCount": 4364,
+      "id": "b896301fbe80b9af"
+    },
+    {
+      "filename": "教育评价与反思.json",
+      "title": "教育评价与反思",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育评价",
+        "教学反思",
+        "专业发展"
+      ],
+      "wordCount": 3348,
+      "id": "09a6af8a8a2a3cd0"
+    },
+    {
+      "filename": "教育心理学案例分析.json",
+      "title": "教育心理学案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育心理学",
+        "案例分析",
+        "教学实践"
+      ],
+      "wordCount": 4160,
+      "id": "a2c3c35dc85d4b1c"
+    },
+    {
+      "filename": "教育心理学知识.json",
+      "title": "教育心理学知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育心理学",
+        "学习理论",
+        "学生心理"
+      ],
+      "wordCount": 5273,
+      "id": "3f7a8875e981abc4"
+    },
+    {
+      "filename": "教育学基础知识.json",
+      "title": "教育学基础知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育学",
+        "基础知识",
+        "教育理论"
+      ],
+      "wordCount": 2777,
+      "id": "f0460d10e2cbd9fe"
+    },
+    {
+      "filename": "教育研究方法.json",
+      "title": "教育研究方法",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育研究",
+        "研究方法",
+        "教师专业发展"
+      ],
+      "wordCount": 4369,
+      "id": "e259e78f89d8bb0a"
+    },
+    {
+      "filename": "学科知识与教学能力.json",
+      "title": "学科知识与教学能力",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "学科知识",
+        "教学能力",
+        "专业素养"
+      ],
+      "wordCount": 3972,
+      "id": "cdfec0b48388b79b"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "考研专业课核心考点",
+      "description": "考研专业课：408计算机、311教育学、199管理类联考核心考点",
+      "category": "考研专业课",
+      "tags": [
+        "考研",
+        "计算机",
+        "教育学",
+        "管理类联考"
+      ],
+      "wordCount": 3969,
+      "id": "0f7696138546b52b"
+    },
+    {
+      "filename": "代数.json",
+      "title": "代数",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "数学",
+        "代数",
+        "考研"
+      ],
+      "wordCount": 816,
+      "id": "80ba64830a2d44a1"
+    },
+    {
+      "filename": "非形式逻辑.json",
+      "title": "非形式逻辑",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "逻辑",
+        "非形式逻辑",
+        "考研"
+      ],
+      "wordCount": 669,
+      "id": "ec71a12e2ef3cabc"
+    },
+    {
+      "filename": "几何.json",
+      "title": "几何",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "数学",
+        "几何",
+        "考研"
+      ],
+      "wordCount": 604,
+      "id": "fb93a8679cfddcb3"
+    },
+    {
+      "filename": "论说文.json",
+      "title": "论说文",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "写作",
+        "论说文",
+        "考研"
+      ],
+      "wordCount": 827,
+      "id": "d899dd3b1c2b58da"
     }
   ]
 }
