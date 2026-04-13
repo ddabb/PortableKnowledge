@@ -1,8 +1,22 @@
 {
   "page": 25,
   "totalPages": 36,
-  "totalItems": 704,
+  "totalItems": 705,
   "items": [
+    {
+      "filename": "项目经理的角色.json",
+      "title": "项目经理的角色",
+      "description": "项目经理定义、所需技能和特性、人际关系技能、成功标准",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "项目经理",
+        "PMP",
+        "领导力",
+        "项目管理"
+      ],
+      "wordCount": 1359,
+      "id": "902a832c9bbc0bdb"
+    },
     {
       "filename": "项目立项管理.json",
       "title": "项目立项管理",
@@ -14,7 +28,6 @@
         "项目评估"
       ],
       "wordCount": 2367,
-      "order": 481,
       "id": "97c4ef457af336d5"
     },
     {
@@ -28,7 +41,6 @@
         "项目管理"
       ],
       "wordCount": 1007,
-      "order": 482,
       "id": "5f441e7a3c4020d7"
     },
     {
@@ -44,7 +56,6 @@
         "PMP"
       ],
       "wordCount": 1441,
-      "order": 483,
       "id": "90699525b351c656"
     },
     {
@@ -58,7 +69,6 @@
         "项目管理"
       ],
       "wordCount": 630,
-      "order": 484,
       "id": "eab70acdfe7615a2"
     },
     {
@@ -72,7 +82,6 @@
         "项目管理"
       ],
       "wordCount": 103,
-      "order": 485,
       "id": "4c7b7662d15add9d"
     },
     {
@@ -85,7 +94,6 @@
         "软考备考"
       ],
       "wordCount": 397,
-      "order": 486,
       "id": "b30fee4ba33b7b01"
     },
     {
@@ -98,7 +106,6 @@
         "软考备考"
       ],
       "wordCount": 465,
-      "order": 487,
       "id": "011dc00feb20c036"
     },
     {
@@ -111,7 +118,6 @@
         "软考备考"
       ],
       "wordCount": 302,
-      "order": 488,
       "id": "3e5307a35c773706"
     },
     {
@@ -127,7 +133,6 @@
         "人机交互"
       ],
       "wordCount": 880,
-      "order": 489,
       "id": "61bb1bdbf5d1614e"
     },
     {
@@ -141,7 +146,6 @@
         "软考备考"
       ],
       "wordCount": 409,
-      "order": 490,
       "id": "be384342350e68e2"
     },
     {
@@ -158,7 +162,6 @@
         "分布式计算"
       ],
       "wordCount": 994,
-      "order": 491,
       "id": "51de51bc04ef8c7d"
     },
     {
@@ -171,7 +174,6 @@
         "PMP"
       ],
       "wordCount": 918,
-      "order": 492,
       "id": "8105ec5194a73f2f"
     },
     {
@@ -186,7 +188,6 @@
         "版本演变"
       ],
       "wordCount": 986,
-      "order": 493,
       "id": "e5768cb7ba885bba"
     },
     {
@@ -201,7 +202,6 @@
         "防骗"
       ],
       "wordCount": 1566,
-      "order": 494,
       "id": "444d4679ff7bbc0e"
     },
     {
@@ -216,7 +216,6 @@
         "日常生活"
       ],
       "wordCount": 1473,
-      "order": 495,
       "id": "ec65bf0a0ca6a151"
     },
     {
@@ -231,7 +230,6 @@
         "安全"
       ],
       "wordCount": 1897,
-      "order": 496,
       "id": "e9687edd5b3a26f2"
     },
     {
@@ -246,7 +244,6 @@
         "急救技能"
       ],
       "wordCount": 1823,
-      "order": 497,
       "id": "d5eb1e186390fa52"
     },
     {
@@ -262,7 +259,6 @@
         "致癌物"
       ],
       "wordCount": 2436,
-      "order": 498,
       "id": "1bec7e1390f5bba6"
     },
     {
@@ -280,23 +276,7 @@
         "哮喘"
       ],
       "wordCount": 2823,
-      "order": 499,
       "id": "ccdb2bcab32054e3"
-    },
-    {
-      "filename": "如何培养健康的睡眠习惯.json",
-      "title": "如何培养健康的睡眠习惯",
-      "description": "从睡眠机制到实用方法，建立科学睡眠模式，提升睡眠质量",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "睡眠",
-        "健康管理",
-        "作息",
-        "睡眠质量"
-      ],
-      "wordCount": 1004,
-      "order": 500,
-      "id": "c4808af2f4cd96c9"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 704,
+    "totalArticles": 705,
     "totalCategories": 83,
-    "totalTags": 1246
+    "totalTags": 1251
   },
   "categories": [
     {
@@ -222,6 +222,10 @@
       "count": 4
     },
     {
+      "name": "产品研发/开发实践",
+      "count": 3
+    },
+    {
       "name": "软考/综合知识/计算题专项",
       "count": 3
     },
@@ -244,10 +248,6 @@
     {
       "name": "营销增长/增长策略",
       "count": 3
-    },
-    {
-      "name": "产品研发/开发实践",
-      "count": 2
     },
     {
       "name": "产品研发/开源生态",
@@ -350,7 +350,6 @@
         "竞品分析"
       ],
       "wordCount": 2190,
-      "order": 1,
       "id": "ec3531e24d289fec"
     },
     {
@@ -364,7 +363,6 @@
         "产品"
       ],
       "wordCount": 3383,
-      "order": 2,
       "id": "c31edf6c4c2b89f9"
     },
     {
@@ -377,7 +375,6 @@
         "用户场景"
       ],
       "wordCount": 2276,
-      "order": 3,
       "id": "d8afbb8b09234303"
     },
     {
@@ -391,7 +388,6 @@
         "产品迭代"
       ],
       "wordCount": 3648,
-      "order": 4,
       "id": "017e088e39d8d334"
     },
     {
@@ -405,7 +401,6 @@
         "工具宝"
       ],
       "wordCount": 1985,
-      "order": 5,
       "id": "0bd6f905fbf1dee0"
     }
   ],

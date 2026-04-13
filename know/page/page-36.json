@@ -1,8 +1,22 @@
 {
   "page": 36,
   "totalPages": 36,
-  "totalItems": 704,
+  "totalItems": 705,
   "items": [
+    {
+      "filename": "消费税税收优惠.json",
+      "title": "消费税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "消费税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "id": "c8ecba9b705482cf"
+    },
     {
       "filename": "消费税应纳税额计算.json",
       "title": "消费税应纳税额计算",
@@ -15,7 +29,6 @@
         "CPA"
       ],
       "wordCount": 647,
-      "order": 701,
       "id": "6894c86a560d13be"
     },
     {
@@ -29,7 +42,6 @@
         "CPA"
       ],
       "wordCount": 393,
-      "order": 702,
       "id": "4c1eeec0434a501d"
     },
     {
@@ -44,7 +56,6 @@
         "CPA"
       ],
       "wordCount": 1223,
-      "order": 703,
       "id": "541e58286de87b05"
     },
     {
@@ -59,7 +70,6 @@
         "CPA"
       ],
       "wordCount": 511,
-      "order": 704,
       "id": "acaeaa880437f40f"
     }
   ]

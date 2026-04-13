@@ -1,8 +1,22 @@
 {
   "page": 4,
   "totalPages": 36,
-  "totalItems": 704,
+  "totalItems": 705,
   "items": [
+    {
+      "filename": "项目进度管理.json",
+      "title": "项目进度管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "进度管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 166,
+      "id": "c7c752a4767c2f39"
+    },
     {
       "filename": "项目质量管理.json",
       "title": "项目质量管理",
@@ -15,7 +29,6 @@
         "建造师"
       ],
       "wordCount": 199,
-      "order": 61,
       "id": "71c39f516c268fd1"
     },
     {
@@ -30,7 +43,6 @@
         "建造师"
       ],
       "wordCount": 207,
-      "order": 62,
       "id": "fc359992b46f3ed3"
     },
     {
@@ -45,7 +57,6 @@
         "建造师"
       ],
       "wordCount": 211,
-      "order": 63,
       "id": "a7b57ed1618be4bb"
     },
     {
@@ -59,7 +70,6 @@
         "建造师"
       ],
       "wordCount": 559,
-      "order": 64,
       "id": "7eef789c72cc2e71"
     },
     {
@@ -74,7 +84,6 @@
         "建造师"
       ],
       "wordCount": 279,
-      "order": 65,
       "id": "fa1244339a69ec42"
     },
     {
@@ -88,7 +97,6 @@
         "建造师"
       ],
       "wordCount": 214,
-      "order": 66,
       "id": "ca0d0ae8cf075c84"
     },
     {
@@ -103,7 +111,6 @@
         "建造师"
       ],
       "wordCount": 629,
-      "order": 67,
       "id": "7159a8aa660324b4"
     },
     {
@@ -118,7 +125,6 @@
         "建造师"
       ],
       "wordCount": 156,
-      "order": 68,
       "id": "30f9152bdb630791"
     },
     {
@@ -133,7 +139,6 @@
         "建造师"
       ],
       "wordCount": 173,
-      "order": 69,
       "id": "24279326babd9df0"
     },
     {
@@ -148,7 +153,6 @@
         "建造师"
       ],
       "wordCount": 274,
-      "order": 70,
       "id": "5793250af66a75fb"
     },
     {
@@ -163,7 +167,6 @@
         "建造师"
       ],
       "wordCount": 299,
-      "order": 71,
       "id": "c1e52e11bb2d17af"
     },
     {
@@ -178,7 +181,6 @@
         "建造师"
       ],
       "wordCount": 200,
-      "order": 72,
       "id": "45de03bdcf1f0f2c"
     },
     {
@@ -193,7 +195,6 @@
         "建造师"
       ],
       "wordCount": 205,
-      "order": 73,
       "id": "37ba86cbdaa95f4c"
     },
     {
@@ -208,7 +209,6 @@
         "建造师"
       ],
       "wordCount": 247,
-      "order": 74,
       "id": "8c658d432fcf62f0"
     },
     {
@@ -223,7 +223,6 @@
         "建造师"
       ],
       "wordCount": 224,
-      "order": 75,
       "id": "cecb4e65997daedd"
     },
     {
@@ -238,7 +237,6 @@
         "建造师"
       ],
       "wordCount": 255,
-      "order": 76,
       "id": "592f2ac643888a83"
     },
     {
@@ -253,7 +251,6 @@
         "建造师"
       ],
       "wordCount": 280,
-      "order": 77,
       "id": "26b9c0766862828c"
     },
     {
@@ -268,7 +265,6 @@
         "建造师"
       ],
       "wordCount": 166,
-      "order": 78,
       "id": "d3e3167c6698282e"
     },
     {
@@ -283,23 +279,7 @@
         "建造师"
       ],
       "wordCount": 233,
-      "order": 79,
       "id": "ae4580952208ff40"
-    },
-    {
-      "filename": "项目质量管理.json",
-      "title": "项目质量管理",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "质量管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 199,
-      "order": 80,
-      "id": "ef5aeb98d5443572"
     }
   ]
 }

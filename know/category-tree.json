@@ -1,12 +1,12 @@
 {
   "name": "root",
   "path": "",
-  "count": 704,
+  "count": 705,
   "children": {
     "产品研发": {
       "name": "产品研发",
       "path": "产品研发",
-      "count": 14,
+      "count": 15,
       "children": {
         "产品设计": {
           "name": "产品设计",
@@ -29,7 +29,7 @@
         "开发实践": {
           "name": "开发实践",
           "path": "产品研发/开发实践",
-          "count": 2,
+          "count": 3,
           "children": {}
         },
         "开发者故事": {

@@ -1,8 +1,21 @@
 {
   "page": 6,
   "totalPages": 36,
-  "totalItems": 704,
+  "totalItems": 705,
   "items": [
+    {
+      "filename": "幼儿认知发展.json",
+      "title": "幼儿认知发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "认知发展",
+        "幼儿认知",
+        "教资"
+      ],
+      "wordCount": 3651,
+      "id": "c000081953871a25"
+    },
     {
       "filename": "幼儿社会性发展.json",
       "title": "幼儿社会性发展",
@@ -14,7 +27,6 @@
         "教资"
       ],
       "wordCount": 3897,
-      "order": 101,
       "id": "1af5319899764194"
     },
     {
@@ -28,7 +40,6 @@
         "教资"
       ],
       "wordCount": 2978,
-      "order": 102,
       "id": "d5b6dfdba330ba4a"
     },
     {
@@ -42,7 +53,6 @@
         "教资"
       ],
       "wordCount": 3186,
-      "order": 103,
       "id": "762f6db947ac0a60"
     },
     {
@@ -56,7 +66,6 @@
         "学生管理"
       ],
       "wordCount": 4327,
-      "order": 104,
       "id": "ef11e36b15cfb901"
     },
     {
@@ -70,7 +79,6 @@
         "师生关系"
       ],
       "wordCount": 4356,
-      "order": 105,
       "id": "993359eb18a0dd0b"
     },
     {
@@ -84,7 +92,6 @@
         "教学实践"
       ],
       "wordCount": 4608,
-      "order": 106,
       "id": "a2ac6236dac775d6"
     },
     {
@@ -98,7 +105,6 @@
         "教学策略"
       ],
       "wordCount": 3865,
-      "order": 107,
       "id": "ef27e31f6e22c582"
     },
     {
@@ -112,7 +118,6 @@
         "素质教育"
       ],
       "wordCount": 3390,
-      "order": 108,
       "id": "a984c08f238b1def"
     },
     {
@@ -126,7 +131,6 @@
         "法律责任"
       ],
       "wordCount": 4480,
-      "order": 109,
       "id": "4c465f57472777a5"
     },
     {
@@ -140,7 +144,6 @@
         "法律责任"
       ],
       "wordCount": 4917,
-      "order": 110,
       "id": "606effbf3fd22802"
     },
     {
@@ -154,7 +157,6 @@
         "教学创新"
       ],
       "wordCount": 3883,
-      "order": 111,
       "id": "d5ada9171e523b31"
     },
     {
@@ -168,7 +170,6 @@
         "实践经验"
       ],
       "wordCount": 4364,
-      "order": 112,
       "id": "b896301fbe80b9af"
     },
     {
@@ -182,7 +183,6 @@
         "专业发展"
       ],
       "wordCount": 3348,
-      "order": 113,
       "id": "09a6af8a8a2a3cd0"
     },
     {
@@ -196,7 +196,6 @@
         "教学实践"
       ],
       "wordCount": 4160,
-      "order": 114,
       "id": "a2c3c35dc85d4b1c"
     },
     {
@@ -210,7 +209,6 @@
         "学生心理"
       ],
       "wordCount": 5273,
-      "order": 115,
       "id": "3f7a8875e981abc4"
     },
     {
@@ -224,7 +222,6 @@
         "教育理论"
       ],
       "wordCount": 2777,
-      "order": 116,
       "id": "f0460d10e2cbd9fe"
     },
     {
@@ -238,7 +235,6 @@
         "教师专业发展"
       ],
       "wordCount": 4369,
-      "order": 117,
       "id": "e259e78f89d8bb0a"
     },
     {
@@ -252,7 +248,6 @@
         "专业素养"
       ],
       "wordCount": 3972,
-      "order": 118,
       "id": "cdfec0b48388b79b"
     },
     {
@@ -267,23 +262,7 @@
         "管理类联考"
       ],
       "wordCount": 3969,
-      "order": 119,
       "id": "0f7696138546b52b"
-    },
-    {
-      "filename": "代数.json",
-      "title": "代数",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "代数",
-        "考研"
-      ],
-      "wordCount": 816,
-      "order": 120,
-      "id": "80ba64830a2d44a1"
     }
   ]
 }

@@ -125,8 +125,7 @@ function buildListItem(article, includeId = false) {
     description: article.description,
     category: article.category,
     tags: article.tags,
-    wordCount: article.wordCount,
-    order: article.order
+    wordCount: article.wordCount
   };
 
   if (includeId) {

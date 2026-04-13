@@ -17,7 +17,6 @@
         "致癌物"
       ],
       "wordCount": 2436,
-      "order": 498,
       "id": "1bec7e1390f5bba6"
     },
     {
@@ -35,7 +34,6 @@
         "哮喘"
       ],
       "wordCount": 2823,
-      "order": 499,
       "id": "ccdb2bcab32054e3"
     },
     {
@@ -50,7 +48,6 @@
         "睡眠质量"
       ],
       "wordCount": 1004,
-      "order": 500,
       "id": "c4808af2f4cd96c9"
     },
     {
@@ -64,7 +61,6 @@
         "健康"
       ],
       "wordCount": 5551,
-      "order": 501,
       "id": "2cb0a104bfd0e6b4"
     },
     {
@@ -78,7 +74,6 @@
         "养生"
       ],
       "wordCount": 2923,
-      "order": 502,
       "id": "e2e1ee67a7f1ddc6"
     },
     {
@@ -94,7 +89,6 @@
         "三高"
       ],
       "wordCount": 2781,
-      "order": 503,
       "id": "df2f529f056f18fc"
     },
     {
@@ -111,7 +105,6 @@
         "肠胃炎"
       ],
       "wordCount": 2992,
-      "order": 504,
       "id": "b3353719b26acdc3"
     },
     {
@@ -128,7 +121,6 @@
         "冠心病"
       ],
       "wordCount": 2001,
-      "order": 505,
       "id": "4f6a963b4988b3f5"
     }
   ]

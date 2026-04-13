@@ -16,7 +16,6 @@
         "建造师"
       ],
       "wordCount": 629,
-      "order": 67,
       "id": "7159a8aa660324b4"
     },
     {
@@ -30,7 +29,6 @@
         "PMBOK"
       ],
       "wordCount": 2007,
-      "order": 456,
       "id": "736351a7ddd126ce"
     },
     {
@@ -44,7 +42,6 @@
         "PMBOK"
       ],
       "wordCount": 2301,
-      "order": 475,
       "id": "aa80d2be512fd91a"
     },
     {
@@ -59,7 +56,6 @@
         "项目管理"
       ],
       "wordCount": 1779,
-      "order": 476,
       "id": "21c05eebccbacefb"
     },
     {
@@ -74,7 +70,6 @@
         "版本演变"
       ],
       "wordCount": 986,
-      "order": 493,
       "id": "e5768cb7ba885bba"
     }
   ]

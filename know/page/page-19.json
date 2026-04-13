@@ -1,8 +1,21 @@
 {
   "page": 19,
   "totalPages": 36,
-  "totalItems": 704,
+  "totalItems": 705,
   "items": [
+    {
+      "filename": "控制质量.json",
+      "title": "控制质量",
+      "description": "控制质量是为了评估绩效，确保项目输出完整、正确且满足客户期望，而监督和记录质量管理活动执行结果的过程。",
+      "category": "软考/项目管理/项目质量管理",
+      "tags": [
+        "监控过程组",
+        "控制质量",
+        "PMP"
+      ],
+      "wordCount": 487,
+      "id": "e663371ad497f4b4"
+    },
     {
       "filename": "面向 X 的设计.json",
       "title": "面向 X 的设计",
@@ -13,7 +26,6 @@
         "管理质量"
       ],
       "wordCount": 137,
-      "order": 361,
       "id": "ab06f4cc3a79b6e3"
     },
     {
@@ -26,7 +38,6 @@
         "管理质量"
       ],
       "wordCount": 224,
-      "order": 362,
       "id": "15132b980e98ad35"
     },
     {
@@ -39,7 +50,6 @@
         "规划质量管理"
       ],
       "wordCount": 136,
-      "order": 363,
       "id": "9363d42bace0eda2"
     },
     {
@@ -52,7 +62,6 @@
         "规划质量管理"
       ],
       "wordCount": 339,
-      "order": 364,
       "id": "52b37bd8c2407c25"
     },
     {
@@ -65,7 +74,6 @@
         "控制质量"
       ],
       "wordCount": 45,
-      "order": 365,
       "id": "acca4c93708b3a9e"
     },
     {
@@ -79,7 +87,6 @@
         "PMP"
       ],
       "wordCount": 333,
-      "order": 366,
       "id": "9878126e40a3f0dc"
     },
     {
@@ -92,7 +99,6 @@
         "估算活动资源"
       ],
       "wordCount": 165,
-      "order": 367,
       "id": "0fd6ba19450b9fc0"
     },
     {
@@ -106,7 +112,6 @@
         "PMP"
       ],
       "wordCount": 328,
-      "order": 368,
       "id": "9661e913d265860b"
     },
     {
@@ -119,7 +124,6 @@
         "规划资源管理"
       ],
       "wordCount": 279,
-      "order": 369,
       "id": "01a63edd5d738307"
     },
     {
@@ -132,7 +136,6 @@
         "获取资源"
       ],
       "wordCount": 548,
-      "order": 370,
       "id": "a8fa10d83c9eb9d3"
     },
     {
@@ -145,7 +148,6 @@
         "建设团队"
       ],
       "wordCount": 126,
-      "order": 371,
       "id": "ead4fa70837712ff"
     },
     {
@@ -158,7 +160,6 @@
         "建设团队"
       ],
       "wordCount": 1298,
-      "order": 372,
       "id": "36b362c4aee4aee4"
     },
     {
@@ -171,7 +172,6 @@
         "控制资源"
       ],
       "wordCount": 444,
-      "order": 373,
       "id": "cceca3c534f2abc2"
     },
     {
@@ -184,7 +184,6 @@
         "获取资源"
       ],
       "wordCount": 35,
-      "order": 374,
       "id": "1e0202fa5984cddd"
     },
     {
@@ -198,7 +197,6 @@
         "绩效管理"
       ],
       "wordCount": 305,
-      "order": 375,
       "id": "a0673db1bcac24d9"
     },
     {
@@ -211,7 +209,6 @@
         "规划资源管理"
       ],
       "wordCount": 268,
-      "order": 376,
       "id": "5b78e02d470ba08d"
     },
     {
@@ -225,7 +222,6 @@
         "项目管理"
       ],
       "wordCount": 71,
-      "order": 377,
       "id": "19afb3691bd370d0"
     },
     {
@@ -238,7 +234,6 @@
         "获取资源"
       ],
       "wordCount": 362,
-      "order": 378,
       "id": "cc062b219cbffafb"
     },
     {
@@ -251,21 +246,7 @@
         "获取资源"
       ],
       "wordCount": 112,
-      "order": 379,
       "id": "cc1096db754309d3"
-    },
-    {
-      "filename": "责任分配矩阵.json",
-      "title": "责任分配矩阵",
-      "description": "责任分配矩阵。责任分配矩阵展示项目资源在各个工作包中的任务分配。",
-      "category": "软考/项目管理/项目资源管理",
-      "tags": [
-        "规划过程组",
-        "规划资源管理"
-      ],
-      "wordCount": 398,
-      "order": 380,
-      "id": "8079f0e39b64ebf2"
     }
   ]
 }
