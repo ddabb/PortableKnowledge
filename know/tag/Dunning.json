@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "tag": "Dunning",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "三、原始研究的关键发现.json",
+      "title": "达克效应的3个关键发现：最差的人最自信，最好的人反而谦虚",
+      "description": "Dunning和Kruger的原始研究3个关键发现：底部25%的人系统性高估自己（以为在前50%）、顶部25%的人反而低估自己、经过训练后低能力者能正确评估自己。",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "邓宁-克鲁格效应",
+        "达克效应",
+        "元认知",
+        "Dunning",
+        "Kruger",
+        "自我评估"
+      ],
+      "wordCount": 1012,
+      "id": "05d22f76c3d3c47c"
+    },
+    {
+      "filename": "一、一个荒谬的实验发现.json",
+      "title": "达克效应的荒诞起源：涂了柠檬汁去抢银行的劫匪",
+      "description": "1995年McArthur Wheeler用柠檬汁涂脸去抢银行，真的以为自己隐形了。这个荒诞案例启发了Dunning和Kruger研究：能力不足的人能否正确评估自己的能力？",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "邓宁-克鲁格效应",
+        "达克效应",
+        "Dunning",
+        "Kruger",
+        "柠檬汁劫匪",
+        "自我评估"
+      ],
+      "wordCount": 845,
+      "id": "f6c1ed80c2778812"
+    }
+  ]
+}

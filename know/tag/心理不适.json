@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "心理不适",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "二、什么是认知失调.json",
+      "title": "认知失调是什么？为什么你知道吸烟有害却还是戒不掉",
+      "description": "认知失调（Cognitive Dissonance）：同时持有两个矛盾的认知时，人会感到心理不适，并倾向于改变其中一个来减少不适。减少失调的方法：改变行为、改变信念、或找合理化解释。",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "认知失调",
+        "Cognitive Dissonance",
+        "Festinger",
+        "认知偏差",
+        "自我合理化",
+        "心理不适"
+      ],
+      "wordCount": 1022,
+      "id": "d64ff01497c10d20"
+    }
+  ]
+}

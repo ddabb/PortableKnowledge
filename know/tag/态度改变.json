@@ -1,9 +1,25 @@
 {
   "meta": {
     "tag": "态度改变",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "三、认知失调的经典实验.json",
+      "title": "认知失调的2个经典实验：选了差的却说好、拿1块钱说谎反而更真诚",
+      "description": "认知失调的两个经典实验：Brehm的吸管实验（选择后调整态度减少失调）、Festinger的1美元vs20美元实验（外在理由越少，内在态度改变越大）。",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "认知失调",
+        "Festinger",
+        "Brehm",
+        "心理学实验",
+        "经典实验",
+        "态度改变"
+      ],
+      "wordCount": 924,
+      "id": "bba3fa842d7a7589"
+    },
     {
       "filename": "态度与态度改变.json",
       "title": "态度与态度改变专题",

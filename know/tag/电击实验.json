@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "电击实验",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "一、一个改变心理学历史的实验.json",
+      "title": "习得性无助的发现：为什么被电击的狗不再逃跑？",
+      "description": "1967年Seligman电击实验：不可控电击组的狗在可以逃脱时也不再挣扎——它们学会了无助。这就是习得性无助（Learned Helplessness）的发现，改变了整个心理学。",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "习得性无助",
+        "Seligman",
+        "心理学实验",
+        "电击实验",
+        "Learned Helplessness",
+        "可控感"
+      ],
+      "wordCount": 737,
+      "id": "0e32d57a77d3c40d"
+    }
+  ]
+}

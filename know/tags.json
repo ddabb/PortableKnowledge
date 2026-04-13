@@ -1,6 +1,6 @@
 {
   "meta": {
-    "totalTags": 703
+    "totalTags": 1046
   },
   "tags": [
     {
@@ -40,8 +40,24 @@
       "count": 19
     },
     {
+      "name": "个人所得税",
+      "count": 18
+    },
+    {
       "name": "基础知识",
       "count": 18
+    },
+    {
+      "name": "税务规划",
+      "count": 17
+    },
+    {
+      "name": "年终奖",
+      "count": 16
+    },
+    {
+      "name": "认知偏差",
+      "count": 16
     },
     {
       "name": "审计",
@@ -76,6 +92,10 @@
       "count": 13
     },
     {
+      "name": "行为经济学",
+      "count": 13
+    },
+    {
       "name": "合同陷阱",
       "count": 13
     },
@@ -92,10 +112,6 @@
       "count": 13
     },
     {
-      "name": "年终奖",
-      "count": 12
-    },
-    {
       "name": "经济补偿",
       "count": 12
     },
@@ -109,6 +125,10 @@
     },
     {
       "name": "离职赔偿",
+      "count": 12
+    },
+    {
+      "name": "公积金",
       "count": 12
     },
     {
@@ -208,6 +228,10 @@
       "count": 11
     },
     {
+      "name": "基金投资",
+      "count": 10
+    },
+    {
       "name": "AARRR模型",
       "count": 10
     },
@@ -240,10 +264,6 @@
       "count": 10
     },
     {
-      "name": "公积金",
-      "count": 10
-    },
-    {
       "name": "职场权益",
       "count": 10
     },
@@ -252,7 +272,43 @@
       "count": 10
     },
     {
+      "name": "专项附加扣除",
+      "count": 9
+    },
+    {
+      "name": "个人理财",
+      "count": 8
+    },
+    {
+      "name": "认知失调",
+      "count": 8
+    },
+    {
+      "name": "资产配置",
+      "count": 7
+    },
+    {
+      "name": "保险配置",
+      "count": 7
+    },
+    {
       "name": "数据结构",
+      "count": 7
+    },
+    {
+      "name": "损失厌恶",
+      "count": 7
+    },
+    {
+      "name": "邓宁-克鲁格效应",
+      "count": 7
+    },
+    {
+      "name": "锚定效应",
+      "count": 7
+    },
+    {
+      "name": "习得性无助",
       "count": 7
     },
     {
@@ -268,6 +324,10 @@
       "count": 6
     },
     {
+      "name": "信用卡",
+      "count": 6
+    },
+    {
       "name": "案例分析",
       "count": 6
     },
@@ -276,11 +336,43 @@
       "count": 6
     },
     {
+      "name": "沉没成本谬误",
+      "count": 6
+    },
+    {
+      "name": "达克效应",
+      "count": 6
+    },
+    {
+      "name": "元认知",
+      "count": 6
+    },
+    {
+      "name": "可得性启发",
+      "count": 6
+    },
+    {
+      "name": "破窗效应",
+      "count": 6
+    },
+    {
       "name": "内部控制",
       "count": 6
     },
     {
+      "name": "企业所得税",
+      "count": 5
+    },
+    {
       "name": "增值税",
+      "count": 5
+    },
+    {
+      "name": "投资理财",
+      "count": 5
+    },
+    {
+      "name": "税收优惠",
       "count": 5
     },
     {
@@ -296,15 +388,43 @@
       "count": 5
     },
     {
-      "name": "企业所得税",
-      "count": 4
+      "name": "心理学实验",
+      "count": 5
     },
     {
-      "name": "个人所得税",
-      "count": 4
+      "name": "自我评估",
+      "count": 5
+    },
+    {
+      "name": "Kahneman",
+      "count": 5
+    },
+    {
+      "name": "批判性思维",
+      "count": 5
     },
     {
       "name": "申论",
+      "count": 4
+    },
+    {
+      "name": "重疾险",
+      "count": 4
+    },
+    {
+      "name": "意外险",
+      "count": 4
+    },
+    {
+      "name": "指数基金",
+      "count": 4
+    },
+    {
+      "name": "家庭理财",
+      "count": 4
+    },
+    {
+      "name": "风险管理",
       "count": 4
     },
     {
@@ -316,7 +436,27 @@
       "count": 4
     },
     {
-      "name": "税收优惠",
+      "name": "决策偏差",
+      "count": 4
+    },
+    {
+      "name": "过度自信",
+      "count": 4
+    },
+    {
+      "name": "判断偏差",
+      "count": 4
+    },
+    {
+      "name": "Tversky",
+      "count": 4
+    },
+    {
+      "name": "前景理论",
+      "count": 4
+    },
+    {
+      "name": "Seligman",
       "count": 4
     },
     {
@@ -326,6 +466,14 @@
     {
       "name": "计算",
       "count": 4
+    },
+    {
+      "name": "职场",
+      "count": 3
+    },
+    {
+      "name": "税务合规",
+      "count": 3
     },
     {
       "name": "法规",
@@ -341,6 +489,10 @@
     },
     {
       "name": "法律责任",
+      "count": 3
+    },
+    {
+      "name": "教育方法",
       "count": 3
     },
     {
@@ -364,7 +516,35 @@
       "count": 3
     },
     {
-      "name": "认知偏差",
+      "name": "止损",
+      "count": 3
+    },
+    {
+      "name": "自我认知",
+      "count": 3
+    },
+    {
+      "name": "个人品牌",
+      "count": 3
+    },
+    {
+      "name": "社会心理学",
+      "count": 3
+    },
+    {
+      "name": "习惯养成",
+      "count": 3
+    },
+    {
+      "name": "Festinger",
+      "count": 3
+    },
+    {
+      "name": "合理化",
+      "count": 3
+    },
+    {
+      "name": "心理韧性",
       "count": 3
     },
     {
@@ -408,7 +588,63 @@
       "count": 2
     },
     {
-      "name": "职场",
+      "name": "子女教育",
+      "count": 2
+    },
+    {
+      "name": "综合所得税",
+      "count": 2
+    },
+    {
+      "name": "个税APP",
+      "count": 2
+    },
+    {
+      "name": "公益捐赠",
+      "count": 2
+    },
+    {
+      "name": "基金入门",
+      "count": 2
+    },
+    {
+      "name": "基金定投",
+      "count": 2
+    },
+    {
+      "name": "购买渠道",
+      "count": 2
+    },
+    {
+      "name": "寿险",
+      "count": 2
+    },
+    {
+      "name": "医疗险",
+      "count": 2
+    },
+    {
+      "name": "理财实操",
+      "count": 2
+    },
+    {
+      "name": "信用卡还款",
+      "count": 2
+    },
+    {
+      "name": "账单日",
+      "count": 2
+    },
+    {
+      "name": "住房租金",
+      "count": 2
+    },
+    {
+      "name": "赡养老人",
+      "count": 2
+    },
+    {
+      "name": "个体工商户",
       "count": 2
     },
     {
@@ -460,10 +696,6 @@
       "count": 2
     },
     {
-      "name": "风险管理",
-      "count": 2
-    },
-    {
       "name": "心理学",
       "count": 2
     },
@@ -473,10 +705,6 @@
     },
     {
       "name": "教师职业道德",
-      "count": 2
-    },
-    {
-      "name": "教育方法",
       "count": 2
     },
     {
@@ -529,6 +757,78 @@
     },
     {
       "name": "职业发展",
+      "count": 2
+    },
+    {
+      "name": "承诺升级",
+      "count": 2
+    },
+    {
+      "name": "自我辩护",
+      "count": 2
+    },
+    {
+      "name": "Dunning",
+      "count": 2
+    },
+    {
+      "name": "Kruger",
+      "count": 2
+    },
+    {
+      "name": "理论局限",
+      "count": 2
+    },
+    {
+      "name": "谈判技巧",
+      "count": 2
+    },
+    {
+      "name": "决策心理",
+      "count": 2
+    },
+    {
+      "name": "Anchoring Effect",
+      "count": 2
+    },
+    {
+      "name": "首因效应",
+      "count": 2
+    },
+    {
+      "name": "Broken Windows",
+      "count": 2
+    },
+    {
+      "name": "态度改变",
+      "count": 2
+    },
+    {
+      "name": "自我合理化",
+      "count": 2
+    },
+    {
+      "name": "决策优化",
+      "count": 2
+    },
+    {
+      "name": "成长型思维",
+      "count": 2
+    },
+    {
+      "name": "自我效能感",
+      "count": 2
+    },
+    {
+      "name": "框架效应",
+      "count": 2
+    },
+    {
+      "name": "Learned Helplessness",
+      "count": 2
+    },
+    {
+      "name": "归因方式",
       "count": 2
     },
     {
@@ -589,10 +889,6 @@
     },
     {
       "name": "斯金纳",
-      "count": 2
-    },
-    {
-      "name": "个人品牌",
       "count": 2
     },
     {
@@ -892,11 +1188,147 @@
       "count": 1
     },
     {
-      "name": "股票",
+      "name": "婴幼儿照护",
       "count": 1
     },
     {
-      "name": "投资理财",
+      "name": "个税抵扣",
+      "count": 1
+    },
+    {
+      "name": "3岁以下",
+      "count": 1
+    },
+    {
+      "name": "风险偏好",
+      "count": 1
+    },
+    {
+      "name": "保守型投资",
+      "count": 1
+    },
+    {
+      "name": "平衡型投资",
+      "count": 1
+    },
+    {
+      "name": "进取型投资",
+      "count": 1
+    },
+    {
+      "name": "基金配置",
+      "count": 1
+    },
+    {
+      "name": "避税",
+      "count": 1
+    },
+    {
+      "name": "节税",
+      "count": 1
+    },
+    {
+      "name": "逃税",
+      "count": 1
+    },
+    {
+      "name": "偷税",
+      "count": 1
+    },
+    {
+      "name": "避税问题",
+      "count": 1
+    },
+    {
+      "name": "私人转账",
+      "count": 1
+    },
+    {
+      "name": "发票报销",
+      "count": 1
+    },
+    {
+      "name": "跨境避税",
+      "count": 1
+    },
+    {
+      "name": "避税策略",
+      "count": 1
+    },
+    {
+      "name": "年收入避税",
+      "count": 1
+    },
+    {
+      "name": "成人保险",
+      "count": 1
+    },
+    {
+      "name": "儿童保险",
+      "count": 1
+    },
+    {
+      "name": "老人保险",
+      "count": 1
+    },
+    {
+      "name": "防癌险",
+      "count": 1
+    },
+    {
+      "name": "创业税务",
+      "count": 1
+    },
+    {
+      "name": "小微企业",
+      "count": 1
+    },
+    {
+      "name": "高新技术企业",
+      "count": 1
+    },
+    {
+      "name": "创业投资",
+      "count": 1
+    },
+    {
+      "name": "个税计算",
+      "count": 1
+    },
+    {
+      "name": "个税起征点",
+      "count": 1
+    },
+    {
+      "name": "税率表",
+      "count": 1
+    },
+    {
+      "name": "个税汇算",
+      "count": 1
+    },
+    {
+      "name": "退税",
+      "count": 1
+    },
+    {
+      "name": "补税",
+      "count": 1
+    },
+    {
+      "name": "个税申报",
+      "count": 1
+    },
+    {
+      "name": "税务操作",
+      "count": 1
+    },
+    {
+      "name": "工薪族节税",
+      "count": 1
+    },
+    {
+      "name": "股票",
       "count": 1
     },
     {
@@ -905,6 +1337,522 @@
     },
     {
       "name": "价值投资",
+      "count": 1
+    },
+    {
+      "name": "省税技巧",
+      "count": 1
+    },
+    {
+      "name": "基金类型",
+      "count": 1
+    },
+    {
+      "name": "货币基金",
+      "count": 1
+    },
+    {
+      "name": "债券基金",
+      "count": 1
+    },
+    {
+      "name": "股票基金",
+      "count": 1
+    },
+    {
+      "name": "ETF",
+      "count": 1
+    },
+    {
+      "name": "基金基础",
+      "count": 1
+    },
+    {
+      "name": "分散风险",
+      "count": 1
+    },
+    {
+      "name": "投资检视",
+      "count": 1
+    },
+    {
+      "name": "投资复盘",
+      "count": 1
+    },
+    {
+      "name": "定期调整",
+      "count": 1
+    },
+    {
+      "name": "定投策略",
+      "count": 1
+    },
+    {
+      "name": "止盈止损",
+      "count": 1
+    },
+    {
+      "name": "投资策略",
+      "count": 1
+    },
+    {
+      "name": "资金分配",
+      "count": 1
+    },
+    {
+      "name": "紧急备用金",
+      "count": 1
+    },
+    {
+      "name": "养老规划",
+      "count": 1
+    },
+    {
+      "name": "子女教育金",
+      "count": 1
+    },
+    {
+      "name": "梦想基金",
+      "count": 1
+    },
+    {
+      "name": "线上保险",
+      "count": 1
+    },
+    {
+      "name": "保险经纪人",
+      "count": 1
+    },
+    {
+      "name": "保险原则",
+      "count": 1
+    },
+    {
+      "name": "保额计算",
+      "count": 1
+    },
+    {
+      "name": "保费预算",
+      "count": 1
+    },
+    {
+      "name": "避坑指南",
+      "count": 1
+    },
+    {
+      "name": "消费型保险",
+      "count": 1
+    },
+    {
+      "name": "保险误区",
+      "count": 1
+    },
+    {
+      "name": "定期保险",
+      "count": 1
+    },
+    {
+      "name": "基金费用",
+      "count": 1
+    },
+    {
+      "name": "申购费",
+      "count": 1
+    },
+    {
+      "name": "赎回费",
+      "count": 1
+    },
+    {
+      "name": "管理费",
+      "count": 1
+    },
+    {
+      "name": "托管费",
+      "count": 1
+    },
+    {
+      "name": "基金成本",
+      "count": 1
+    },
+    {
+      "name": "支付宝基金",
+      "count": 1
+    },
+    {
+      "name": "天天基金",
+      "count": 1
+    },
+    {
+      "name": "证券开户",
+      "count": 1
+    },
+    {
+      "name": "基金费率",
+      "count": 1
+    },
+    {
+      "name": "个税计税",
+      "count": 1
+    },
+    {
+      "name": "单独计税",
+      "count": 1
+    },
+    {
+      "name": "并入综合所得",
+      "count": 1
+    },
+    {
+      "name": "年终奖节税",
+      "count": 1
+    },
+    {
+      "name": "理财工具",
+      "count": 1
+    },
+    {
+      "name": "记账软件",
+      "count": 1
+    },
+    {
+      "name": "股票开户",
+      "count": 1
+    },
+    {
+      "name": "保险购买",
+      "count": 1
+    },
+    {
+      "name": "理财误区",
+      "count": 1
+    },
+    {
+      "name": "理财错误",
+      "count": 1
+    },
+    {
+      "name": "追涨杀跌",
+      "count": 1
+    },
+    {
+      "name": "理财心态",
+      "count": 1
+    },
+    {
+      "name": "实操指南",
+      "count": 1
+    },
+    {
+      "name": "定期寿险",
+      "count": 1
+    },
+    {
+      "name": "家庭保障",
+      "count": 1
+    },
+    {
+      "name": "单身期",
+      "count": 1
+    },
+    {
+      "name": "家庭形成期",
+      "count": 1
+    },
+    {
+      "name": "家庭成长期",
+      "count": 1
+    },
+    {
+      "name": "退休期",
+      "count": 1
+    },
+    {
+      "name": "生命周期",
+      "count": 1
+    },
+    {
+      "name": "基金选择",
+      "count": 1
+    },
+    {
+      "name": "主动基金",
+      "count": 1
+    },
+    {
+      "name": "基金经理",
+      "count": 1
+    },
+    {
+      "name": "基金挑选",
+      "count": 1
+    },
+    {
+      "name": "定投教程",
+      "count": 1
+    },
+    {
+      "name": "投资入门",
+      "count": 1
+    },
+    {
+      "name": "收支管理",
+      "count": 1
+    },
+    {
+      "name": "净资产",
+      "count": 1
+    },
+    {
+      "name": "储蓄计划",
+      "count": 1
+    },
+    {
+      "name": "避税红线",
+      "count": 1
+    },
+    {
+      "name": "税务师",
+      "count": 1
+    },
+    {
+      "name": "合法避税",
+      "count": 1
+    },
+    {
+      "name": "投资风险",
+      "count": 1
+    },
+    {
+      "name": "风险提示",
+      "count": 1
+    },
+    {
+      "name": "理财亏损",
+      "count": 1
+    },
+    {
+      "name": "长期持有",
+      "count": 1
+    },
+    {
+      "name": "分散投资",
+      "count": 1
+    },
+    {
+      "name": "投资节税",
+      "count": 1
+    },
+    {
+      "name": "国债免税",
+      "count": 1
+    },
+    {
+      "name": "基金免税",
+      "count": 1
+    },
+    {
+      "name": "税优健康险",
+      "count": 1
+    },
+    {
+      "name": "企业年金",
+      "count": 1
+    },
+    {
+      "name": "标准普尔配置",
+      "count": 1
+    },
+    {
+      "name": "投资组合",
+      "count": 1
+    },
+    {
+      "name": "家庭财务",
+      "count": 1
+    },
+    {
+      "name": "保险原理",
+      "count": 1
+    },
+    {
+      "name": "信用卡安全",
+      "count": 1
+    },
+    {
+      "name": "防盗刷",
+      "count": 1
+    },
+    {
+      "name": "信用卡盗刷",
+      "count": 1
+    },
+    {
+      "name": "信用卡使用",
+      "count": 1
+    },
+    {
+      "name": "金融安全",
+      "count": 1
+    },
+    {
+      "name": "信用卡费用",
+      "count": 1
+    },
+    {
+      "name": "年费",
+      "count": 1
+    },
+    {
+      "name": "逾期利息",
+      "count": 1
+    },
+    {
+      "name": "分期手续费",
+      "count": 1
+    },
+    {
+      "name": "取现手续费",
+      "count": 1
+    },
+    {
+      "name": "多卡管理",
+      "count": 1
+    },
+    {
+      "name": "销卡",
+      "count": 1
+    },
+    {
+      "name": "全额还款",
+      "count": 1
+    },
+    {
+      "name": "最低还款",
+      "count": 1
+    },
+    {
+      "name": "分期还款",
+      "count": 1
+    },
+    {
+      "name": "自动还款",
+      "count": 1
+    },
+    {
+      "name": "信用卡积分",
+      "count": 1
+    },
+    {
+      "name": "航空里程",
+      "count": 1
+    },
+    {
+      "name": "信用卡权益",
+      "count": 1
+    },
+    {
+      "name": "返现卡",
+      "count": 1
+    },
+    {
+      "name": "信用卡入门",
+      "count": 1
+    },
+    {
+      "name": "免息期",
+      "count": 1
+    },
+    {
+      "name": "还款日",
+      "count": 1
+    },
+    {
+      "name": "信用额度",
+      "count": 1
+    },
+    {
+      "name": "信用卡提额",
+      "count": 1
+    },
+    {
+      "name": "养卡",
+      "count": 1
+    },
+    {
+      "name": "信用卡额度",
+      "count": 1
+    },
+    {
+      "name": "用卡技巧",
+      "count": 1
+    },
+    {
+      "name": "四大基础险种",
+      "count": 1
+    },
+    {
+      "name": "保险类型",
+      "count": 1
+    },
+    {
+      "name": "房贷利息",
+      "count": 1
+    },
+    {
+      "name": "住房税务",
+      "count": 1
+    },
+    {
+      "name": "住房贷款利息",
+      "count": 1
+    },
+    {
+      "name": "大病医疗",
+      "count": 1
+    },
+    {
+      "name": "继续教育",
+      "count": 1
+    },
+    {
+      "name": "个税问题",
+      "count": 1
+    },
+    {
+      "name": "房贷扣除",
+      "count": 1
+    },
+    {
+      "name": "租金扣除",
+      "count": 1
+    },
+    {
+      "name": "自由职业者",
+      "count": 1
+    },
+    {
+      "name": "灵活用工",
+      "count": 1
+    },
+    {
+      "name": "劳务报酬",
+      "count": 1
+    },
+    {
+      "name": "节税技巧",
+      "count": 1
+    },
+    {
+      "name": "捐赠抵税",
+      "count": 1
+    },
+    {
+      "name": "慈善",
+      "count": 1
+    },
+    {
+      "name": "税前扣除",
       "count": 1
     },
     {
@@ -1296,11 +2244,59 @@
       "count": 1
     },
     {
-      "name": "后见之明偏差",
+      "name": "Sunk Cost",
       "count": 1
     },
     {
-      "name": "过度自信",
+      "name": "放弃成本",
+      "count": 1
+    },
+    {
+      "name": "生活场景",
+      "count": 1
+    },
+    {
+      "name": "机会成本",
+      "count": 1
+    },
+    {
+      "name": "系统性偏差",
+      "count": 1
+    },
+    {
+      "name": "赌徒谬误",
+      "count": 1
+    },
+    {
+      "name": "过度投资",
+      "count": 1
+    },
+    {
+      "name": "网络舆论",
+      "count": 1
+    },
+    {
+      "name": "初学者",
+      "count": 1
+    },
+    {
+      "name": "专业定价",
+      "count": 1
+    },
+    {
+      "name": "柠檬汁劫匪",
+      "count": 1
+    },
+    {
+      "name": "认知盲区",
+      "count": 1
+    },
+    {
+      "name": "Dunning-Kruger",
+      "count": 1
+    },
+    {
+      "name": "后见之明偏差",
       "count": 1
     },
     {
@@ -1309,6 +2305,206 @@
     },
     {
       "name": "学习幻觉",
+      "count": 1
+    },
+    {
+      "name": "可得性偏误",
+      "count": 1
+    },
+    {
+      "name": "认知捷径",
+      "count": 1
+    },
+    {
+      "name": "启发式",
+      "count": 1
+    },
+    {
+      "name": "Availability Heuristic",
+      "count": 1
+    },
+    {
+      "name": "公共沟通",
+      "count": 1
+    },
+    {
+      "name": "记忆技巧",
+      "count": 1
+    },
+    {
+      "name": "故事营销",
+      "count": 1
+    },
+    {
+      "name": "择业",
+      "count": 1
+    },
+    {
+      "name": "投资",
+      "count": 1
+    },
+    {
+      "name": "风险感知",
+      "count": 1
+    },
+    {
+      "name": "社会问题",
+      "count": 1
+    },
+    {
+      "name": "媒体偏差",
+      "count": 1
+    },
+    {
+      "name": "生动性效应",
+      "count": 1
+    },
+    {
+      "name": "近期效应",
+      "count": 1
+    },
+    {
+      "name": "定价策略",
+      "count": 1
+    },
+    {
+      "name": "心理定价",
+      "count": 1
+    },
+    {
+      "name": "自我呈现",
+      "count": 1
+    },
+    {
+      "name": "促销",
+      "count": 1
+    },
+    {
+      "name": "薪资谈判",
+      "count": 1
+    },
+    {
+      "name": "房产中介",
+      "count": 1
+    },
+    {
+      "name": "砍价",
+      "count": 1
+    },
+    {
+      "name": "日常生活",
+      "count": 1
+    },
+    {
+      "name": "转盘实验",
+      "count": 1
+    },
+    {
+      "name": "心理学机制",
+      "count": 1
+    },
+    {
+      "name": "认知调整",
+      "count": 1
+    },
+    {
+      "name": "可及性启发",
+      "count": 1
+    },
+    {
+      "name": "总结",
+      "count": 1
+    },
+    {
+      "name": "公共政策",
+      "count": 1
+    },
+    {
+      "name": "零容忍",
+      "count": 1
+    },
+    {
+      "name": "纽约犯罪率",
+      "count": 1
+    },
+    {
+      "name": "因果谬误",
+      "count": 1
+    },
+    {
+      "name": "社会规范",
+      "count": 1
+    },
+    {
+      "name": "心理许可",
+      "count": 1
+    },
+    {
+      "name": "环境暗示",
+      "count": 1
+    },
+    {
+      "name": "行为规范",
+      "count": 1
+    },
+    {
+      "name": "生活应用",
+      "count": 1
+    },
+    {
+      "name": "团队文化",
+      "count": 1
+    },
+    {
+      "name": "财务纪律",
+      "count": 1
+    },
+    {
+      "name": "舆论极化",
+      "count": 1
+    },
+    {
+      "name": "Wilson",
+      "count": 1
+    },
+    {
+      "name": "Kelling",
+      "count": 1
+    },
+    {
+      "name": "犯罪预防",
+      "count": 1
+    },
+    {
+      "name": "纽约",
+      "count": 1
+    },
+    {
+      "name": "环境设计",
+      "count": 1
+    },
+    {
+      "name": "团队管理",
+      "count": 1
+    },
+    {
+      "name": "社区治理",
+      "count": 1
+    },
+    {
+      "name": "正向心理学",
+      "count": 1
+    },
+    {
+      "name": "环境心理学",
+      "count": 1
+    },
+    {
+      "name": "行为暗示",
+      "count": 1
+    },
+    {
+      "name": "秩序维护",
       "count": 1
     },
     {
@@ -1324,7 +2520,207 @@
       "count": 1
     },
     {
-      "name": "批判性思维",
+      "name": "Brehm",
+      "count": 1
+    },
+    {
+      "name": "经典实验",
+      "count": 1
+    },
+    {
+      "name": "吸烟",
+      "count": 1
+    },
+    {
+      "name": "消费决策",
+      "count": 1
+    },
+    {
+      "name": "减肥",
+      "count": 1
+    },
+    {
+      "name": "职业选择",
+      "count": 1
+    },
+    {
+      "name": "信仰",
+      "count": 1
+    },
+    {
+      "name": "Cognitive Dissonance",
+      "count": 1
+    },
+    {
+      "name": "心理不适",
+      "count": 1
+    },
+    {
+      "name": "自尊维护",
+      "count": 1
+    },
+    {
+      "name": "自我形象",
+      "count": 1
+    },
+    {
+      "name": "反思",
+      "count": 1
+    },
+    {
+      "name": "统计数据",
+      "count": 1
+    },
+    {
+      "name": "基准概率",
+      "count": 1
+    },
+    {
+      "name": "信息来源",
+      "count": 1
+    },
+    {
+      "name": "反向锚定",
+      "count": 1
+    },
+    {
+      "name": "零基准思考",
+      "count": 1
+    },
+    {
+      "name": "零基思考",
+      "count": 1
+    },
+    {
+      "name": "决策日志",
+      "count": 1
+    },
+    {
+      "name": "归因训练",
+      "count": 1
+    },
+    {
+      "name": "营销策略",
+      "count": 1
+    },
+    {
+      "name": "行为改变态度",
+      "count": 1
+    },
+    {
+      "name": "承诺一致性",
+      "count": 1
+    },
+    {
+      "name": "营销技巧",
+      "count": 1
+    },
+    {
+      "name": "试用期",
+      "count": 1
+    },
+    {
+      "name": "承诺机制",
+      "count": 1
+    },
+    {
+      "name": "抑郁预防",
+      "count": 1
+    },
+    {
+      "name": "投资偏差",
+      "count": 1
+    },
+    {
+      "name": "沉没成本",
+      "count": 1
+    },
+    {
+      "name": "风险规避",
+      "count": 1
+    },
+    {
+      "name": "进化心理学",
+      "count": 1
+    },
+    {
+      "name": "适应性",
+      "count": 1
+    },
+    {
+      "name": "风险厌恶",
+      "count": 1
+    },
+    {
+      "name": "风险寻求",
+      "count": 1
+    },
+    {
+      "name": "损失厌恶系数",
+      "count": 1
+    },
+    {
+      "name": "理性决策",
+      "count": 1
+    },
+    {
+      "name": "生活表现",
+      "count": 1
+    },
+    {
+      "name": "学习放弃",
+      "count": 1
+    },
+    {
+      "name": "职场躺平",
+      "count": 1
+    },
+    {
+      "name": "社交退缩",
+      "count": 1
+    },
+    {
+      "name": "健康放弃",
+      "count": 1
+    },
+    {
+      "name": "电击实验",
+      "count": 1
+    },
+    {
+      "name": "可控感",
+      "count": 1
+    },
+    {
+      "name": "抑郁症",
+      "count": 1
+    },
+    {
+      "name": "心理疾病",
+      "count": 1
+    },
+    {
+      "name": "认知扭曲",
+      "count": 1
+    },
+    {
+      "name": "抑郁",
+      "count": 1
+    },
+    {
+      "name": "放弃",
+      "count": 1
+    },
+    {
+      "name": "认知归因",
+      "count": 1
+    },
+    {
+      "name": "动机抑制",
+      "count": 1
+    },
+    {
+      "name": "心理机制",
       "count": 1
     },
     {
@@ -1365,10 +2761,6 @@
     },
     {
       "name": "SWOT",
-      "count": 1
-    },
-    {
-      "name": "自我认知",
       "count": 1
     },
     {
@@ -1664,10 +3056,6 @@
       "count": 1
     },
     {
-      "name": "判断偏差",
-      "count": 1
-    },
-    {
       "name": "确认偏差",
       "count": 1
     },
@@ -1689,10 +3077,6 @@
     },
     {
       "name": "归纳推理",
-      "count": 1
-    },
-    {
-      "name": "元认知",
       "count": 1
     },
     {
@@ -1860,10 +3244,6 @@
       "count": 1
     },
     {
-      "name": "态度改变",
-      "count": 1
-    },
-    {
       "name": "说服",
       "count": 1
     },
@@ -1876,10 +3256,6 @@
       "count": 1
     },
     {
-      "name": "首因效应",
-      "count": 1
-    },
-    {
       "name": "光环效应",
       "count": 1
     },
@@ -1889,10 +3265,6 @@
     },
     {
       "name": "消费心理学",
-      "count": 1
-    },
-    {
-      "name": "行为经济学",
       "count": 1
     },
     {

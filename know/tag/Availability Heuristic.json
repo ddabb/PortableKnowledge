@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "Availability Heuristic",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "一、什么是可得性启发.json",
+      "title": "可得性启发：为什么你总觉得飞机比汽车危险？",
+      "description": "可得性启发（Availability Heuristic）：人们根据信息的易获取程度判断事件概率——越容易被想起的事，越觉得更可能发生。飞机事故新闻多所以觉得危险，实际上汽车事故概率高得多。",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "可得性启发",
+        "Availability Heuristic",
+        "认知偏差",
+        "Kahneman",
+        "Tversky",
+        "判断偏差"
+      ],
+      "wordCount": 1119,
+      "id": "c81e453dab1921a8"
+    }
+  ]
+}
