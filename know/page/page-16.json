@@ -1,8 +1,164 @@
 {
   "page": 16,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
+    {
+      "filename": "二、为什么可得性启发会出错.json",
+      "title": "二、为什么可得性启发会出错",
+      "description": "二、为什么可得性启发会出错",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 496,
+      "id": "86248b92fb624fd1"
+    },
+    {
+      "filename": "后见之明偏差.json",
+      "title": "后见之明偏差",
+      "description": "当结果发生后，我们会系统性地高估自己在事前预测这个结果的准确程度，这种认知偏差被称为事后诸葛亮",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "后见之明偏差",
+        "认知偏差",
+        "过度自信",
+        "决策质量",
+        "学习幻觉"
+      ],
+      "wordCount": 1038,
+      "id": "fe9367505f71d028"
+    },
+    {
+      "filename": "六、沉没成本 vs 承诺升级.json",
+      "title": "六、沉没成本 vs 承诺升级",
+      "description": "六、沉没成本 vs 承诺升级",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 143,
+      "id": "33cf2f677288ad7f"
+    },
+    {
+      "filename": "六、警惕破窗效应的滥用.json",
+      "title": "六、警惕破窗效应的滥用",
+      "description": "六、警惕破窗效应的滥用",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 118,
+      "id": "eb930723ec67cc8d"
+    },
+    {
+      "filename": "六、可得性启发的·逆向应用·.json",
+      "title": "六、可得性启发的·逆向应用·",
+      "description": "六、可得性启发的·逆向应用·",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 192,
+      "id": "e5f0bc56ca8cfaa2"
+    },
+    {
+      "filename": "六、锚定效应的战略性应用.json",
+      "title": "六、锚定效应的战略性应用",
+      "description": "六、锚定效应的战略性应用",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 297,
+      "id": "13d92a1a8ce018e7"
+    },
+    {
+      "filename": "六、如何减少损失厌恶对你决策的影响.json",
+      "title": "六、如何减少损失厌恶对你决策的影响",
+      "description": "六、如何减少损失厌恶对你决策的影响",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 330,
+      "id": "3671e2a3ea76d854"
+    },
+    {
+      "filename": "六、如何克服习得性无助.json",
+      "title": "六、如何克服习得性无助",
+      "description": "六、如何克服习得性无助",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 361,
+      "id": "a7bc81802e04690f"
+    },
+    {
+      "filename": "六、如何利用认知失调.json",
+      "title": "六、如何利用认知失调",
+      "description": "六、如何利用认知失调",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 258,
+      "id": "3c2f422acd0863a5"
+    },
+    {
+      "filename": "六、如何应对邓宁-克鲁格效应.json",
+      "title": "六、如何应对邓宁-克鲁格效应",
+      "description": "六、如何应对邓宁-克鲁格效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 528,
+      "id": "bda839cabe23e4c0"
+    },
+    {
+      "filename": "七、邓宁-克鲁格效应的局限.json",
+      "title": "七、邓宁-克鲁格效应的局限",
+      "description": "七、邓宁-克鲁格效应的局限",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 160,
+      "id": "dbf25c97dec143f1"
+    },
+    {
+      "filename": "七、如何减少认知失调对判断的负面影响.json",
+      "title": "七、如何减少认知失调对判断的负面影响",
+      "description": "七、如何减少认知失调对判断的负面影响",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 224,
+      "id": "055f52962f1bef42"
+    },
+    {
+      "filename": "七、习得性无助的预防.json",
+      "title": "七、习得性无助的预防",
+      "description": "七、习得性无助的预防",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 61,
+      "id": "1c72aaa8e6b3f7e8"
+    },
+    {
+      "filename": "确认偏误.json",
+      "title": "确认偏误",
+      "description": "人类倾向于寻找、解释和记忆那些证实自己已有信念的信息，同时忽略或贬低与既有信念相矛盾的信息",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "确认偏误",
+        "认知偏差",
+        "信息过滤",
+        "信念维护",
+        "批判性思维"
+      ],
+      "wordCount": 950,
+      "id": "f980fe7ba612131c"
+    },
+    {
+      "filename": "三、破窗效应的心理机制.json",
+      "title": "三、破窗效应的心理机制",
+      "description": "三、破窗效应的心理机制",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 357,
+      "id": "4100b6173eb5152e"
+    },
+    {
+      "filename": "三、认知失调的经典实验.json",
+      "title": "三、认知失调的经典实验",
+      "description": "三、认知失调的经典实验",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 381,
+      "id": "bba3fa842d7a7589"
+    },
     {
       "filename": "三、日常生活中的锚定效应.json",
       "title": "三、日常生活中的锚定效应",
@@ -38,150 +194,6 @@
       "tags": [],
       "wordCount": 435,
       "id": "94a608f0d57ab50e"
-    },
-    {
-      "filename": "三、习得性无助的形成机制.json",
-      "title": "三、习得性无助的形成机制",
-      "description": "三、习得性无助的形成机制",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 226,
-      "id": "698fd5132e930643"
-    },
-    {
-      "filename": "三、原始研究的关键发现.json",
-      "title": "三、原始研究的关键发现",
-      "description": "三、原始研究的关键发现",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 313,
-      "id": "05d22f76c3d3c47c"
-    },
-    {
-      "filename": "四、经典的沉没成本实验.json",
-      "title": "四、经典的沉没成本实验",
-      "description": "四、经典的沉没成本实验",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 198,
-      "id": "7a66f69e13d64fad"
-    },
-    {
-      "filename": "四、可得性启发与可得性偏误的区别.json",
-      "title": "四、可得性启发与可得性偏误的区别",
-      "description": "四、可得性启发与可得性偏误的区别",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 168,
-      "id": "3cb639b9a152bd72"
-    },
-    {
-      "filename": "四、锚定效应的心理学机制.json",
-      "title": "四、锚定效应的心理学机制",
-      "description": "四、锚定效应的心理学机制",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 185,
-      "id": "5852e88282cee554"
-    },
-    {
-      "filename": "四、生活中的破窗效应.json",
-      "title": "四、生活中的破窗效应",
-      "description": "四、生活中的破窗效应",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 306,
-      "id": "b387dd47b685465b"
-    },
-    {
-      "filename": "四、生活中的认知失调.json",
-      "title": "四、生活中的认知失调",
-      "description": "四、生活中的认知失调",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 498,
-      "id": "78d6dea3e91bad89"
-    },
-    {
-      "filename": "四、损失厌恶的进化根源.json",
-      "title": "四、损失厌恶的进化根源",
-      "description": "四、损失厌恶的进化根源",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 206,
-      "id": "710411cd80a2df07"
-    },
-    {
-      "filename": "四、为什么会有邓宁-克鲁格效应.json",
-      "title": "四、为什么会有邓宁-克鲁格效应",
-      "description": "四、为什么会有邓宁-克鲁格效应",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 219,
-      "id": "52c696f75e1786c1"
-    },
-    {
-      "filename": "四、习得性无助在生活中的表现.json",
-      "title": "四、习得性无助在生活中的表现",
-      "description": "四、习得性无助在生活中的表现",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 182,
-      "id": "7aed38d8f7a2d7c8"
-    },
-    {
-      "filename": "五、破窗效应的正向应用.json",
-      "title": "五、破窗效应的正向应用",
-      "description": "五、破窗效应的正向应用",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 287,
-      "id": "2a33231d968e9918"
-    },
-    {
-      "filename": "五、认知失调与自我辩护.json",
-      "title": "五、认知失调与自我辩护",
-      "description": "五、认知失调与自我辩护",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 209,
-      "id": "77446a752c3e8382"
-    },
-    {
-      "filename": "五、如何对抗可得性启发.json",
-      "title": "五、如何对抗可得性启发",
-      "description": "五、如何对抗可得性启发",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 430,
-      "id": "66e1567fe8ed5148"
-    },
-    {
-      "filename": "五、如何对抗锚定效应.json",
-      "title": "五、如何对抗锚定效应",
-      "description": "五、如何对抗锚定效应",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 428,
-      "id": "5ed9880a2ab3dcb9"
-    },
-    {
-      "filename": "五、如何克服沉没成本谬误.json",
-      "title": "五、如何克服沉没成本谬误",
-      "description": "五、如何克服沉没成本谬误",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 534,
-      "id": "02db14f325f7ecca"
-    },
-    {
-      "filename": "五、如何利用损失厌恶.json",
-      "title": "五、如何利用损失厌恶",
-      "description": "五、如何利用损失厌恶",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 356,
-      "id": "f1323ee60f2b87b0"
     }
   ]
 }

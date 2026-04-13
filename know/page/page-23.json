@@ -1,248 +1,195 @@
 {
   "page": 23,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
     {
-      "filename": "四、测验法.json",
-      "title": "四、测验法",
-      "description": "四、测验法",
-      "category": "心理学/基础心理学",
+      "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
+      "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",
+      "description": "睡眠革命：从科学睡眠到能量管理的高效生活方式的核心知识点汇总",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "精力管理",
+        "睡眠",
+        "健康"
+      ],
+      "wordCount": 5551,
+      "id": "2cb0a104bfd0e6b4"
+    },
+    {
+      "filename": "四、常见癌症筛查.json",
+      "title": "四、常见癌症筛查",
+      "description": "四、常见癌症筛查",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 184,
-      "id": "685bf7590447b77a"
+      "wordCount": 503,
+      "id": "f9c029af39b6a723"
     },
     {
-      "filename": "四、费希纳定律（对数定律）.json",
-      "title": "四、费希纳定律（对数定律）",
-      "description": "四、费希纳定律（对数定律）",
-      "category": "心理学/基础心理学",
+      "filename": "四、肝脏疾病.json",
+      "title": "四、肝脏疾病",
+      "description": "四、肝脏疾病",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 105,
-      "id": "dd932e31953ab43a"
+      "wordCount": 561,
+      "id": "d684a38e7e6ee49d"
     },
     {
-      "filename": "四、遗忘规律.json",
-      "title": "四、遗忘规律",
-      "description": "四、遗忘规律",
-      "category": "心理学/基础心理学",
+      "filename": "四、科学预防措施.json",
+      "title": "四、科学预防措施",
+      "description": "四、科学预防措施",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 202,
-      "id": "5b389d479c6166f8"
+      "wordCount": 914,
+      "id": "64d02790bc3fe306"
     },
     {
-      "filename": "五、个案法.json",
-      "title": "五、个案法",
-      "description": "五、个案法",
-      "category": "心理学/基础心理学",
+      "filename": "四、控制三高.json",
+      "title": "四、控制三高",
+      "description": "四、控制三高",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 103,
-      "id": "e5b408c26cf6468e"
+      "wordCount": 329,
+      "id": "65953dd195b98044"
     },
     {
-      "filename": "五、遗忘的原因.json",
-      "title": "五、遗忘的原因",
-      "description": "五、遗忘的原因",
-      "category": "心理学/基础心理学",
+      "filename": "四、慢阻肺（COPD）.json",
+      "title": "四、慢阻肺（COPD）",
+      "description": "四、慢阻肺（COPD）",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 317,
-      "id": "e6db170f684cb32f"
+      "wordCount": 329,
+      "id": "36ade4a6c6d512b2"
     },
     {
-      "filename": "五、知觉概述.json",
-      "title": "五、知觉概述",
-      "description": "五、知觉概述",
-      "category": "心理学/基础心理学",
+      "filename": "四季养生指南_科学调理身体健康.json",
+      "title": "四季养生指南：科学调理身体健康",
+      "description": "四季养生指南：科学调理身体健康的核心知识点汇总",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "四季",
+        "健康",
+        "养生"
+      ],
+      "wordCount": 2923,
+      "id": "e2e1ee67a7f1ddc6"
+    },
+    {
+      "filename": "五、癌症早期信号.json",
+      "title": "五、癌症早期信号",
+      "description": "五、癌症早期信号",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 136,
-      "id": "c659224809a19c0a"
+      "wordCount": 247,
+      "id": "749af18baff1883f"
     },
     {
-      "filename": "心理生理基础.json",
-      "title": "心理生理基础专题",
-      "description": "神经元结构、神经系统分类、大脑皮层功能区、内分泌系统与行为",
-      "category": "心理学/基础心理学",
-      "tags": [
-        "神经元",
-        "大脑皮层",
-        "神经系统",
-        "内分泌系统"
-      ],
-      "wordCount": 1233,
-      "id": "f2e412fe55237ca5"
-    },
-    {
-      "filename": "一、感觉概述.json",
-      "title": "一、感觉概述",
-      "description": "一、感觉概述",
-      "category": "心理学/基础心理学",
+      "filename": "五、胆囊和胰腺.json",
+      "title": "五、胆囊和胰腺",
+      "description": "五、胆囊和胰腺",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 124,
-      "id": "38ab9a2897ea1cb6"
+      "wordCount": 333,
+      "id": "656775dc6e963595"
     },
     {
-      "filename": "一、观察法.json",
-      "title": "一、观察法",
-      "description": "一、观察法",
-      "category": "心理学/基础心理学",
+      "filename": "五、哮喘.json",
+      "title": "五、哮喘",
+      "description": "五、哮喘",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 240,
-      "id": "3e319e8c5fd302f6"
+      "wordCount": 305,
+      "id": "feca3297a425031b"
     },
     {
-      "filename": "一、记忆概述.json",
-      "title": "一、记忆概述",
-      "description": "一、记忆概述",
-      "category": "心理学/基础心理学",
+      "filename": "五、血糖监测.json",
+      "title": "五、血糖监测",
+      "description": "五、血糖监测",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 57,
-      "id": "d2cbef5b1fddad78"
+      "wordCount": 282,
+      "id": "750826afd976ff1a"
     },
     {
-      "filename": "注意品质与分类.json",
-      "title": "注意品质与分类专题",
-      "description": "无意注意、有意注意、有意后注意；注意的四种品质（广度、稳定性、分配、转移）",
-      "category": "心理学/基础心理学",
-      "tags": [
-        "注意",
-        "注意分类",
-        "注意品质",
-        "无意注意",
-        "有意注意"
-      ],
-      "wordCount": 1042,
-      "id": "8a74799c73e25f42"
+      "filename": "五、早期信号识别.json",
+      "title": "五、早期信号识别",
+      "description": "五、早期信号识别",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 294,
+      "id": "2448fac2fc90c5c4"
     },
     {
-      "filename": "情绪调节与情商.json",
-      "title": "情绪调节与情商专题",
-      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
-      "category": "心理学/情绪心理学",
-      "tags": [
-        "情绪调节",
-        "情商",
-        "Gross模型",
-        "Goleman"
-      ],
-      "wordCount": 1222,
-      "id": "5816314001b8e360"
+      "filename": "一，消化系统基础知识.json",
+      "title": "一，消化系统基础知识",
+      "description": "一，消化系统基础知识",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 257,
+      "id": "b0a04e7f62fdefb3"
     },
     {
-      "filename": "情绪理论.json",
-      "title": "情绪理论专题",
-      "description": "詹姆斯-兰格理论、坎农-巴德理论、沙赫特-辛格认知理论、拉扎勒斯认知评价理论",
-      "category": "心理学/情绪心理学",
-      "tags": [
-        "情绪理论",
-        "詹姆斯-兰格",
-        "沙赫特-辛格",
-        "认知评价"
-      ],
-      "wordCount": 807,
-      "id": "b167ac6bea8adc57"
+      "filename": "一、癌症基础知识.json",
+      "title": "一、癌症基础知识",
+      "description": "一、癌症基础知识",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 215,
+      "id": "7d227d1f52a2af9b"
     },
     {
-      "filename": "压力与应对.json",
-      "title": "压力与应对专题",
-      "description": "压力的定义与类型、压力反应、生理应激机制、应对策略",
-      "category": "心理学/情绪心理学",
-      "tags": [
-        "压力",
-        "应对策略",
-        "应激",
-        "压力源"
-      ],
-      "wordCount": 1241,
-      "id": "5c5c24851901db22"
+      "filename": "一、呼吸系统基础知识.json",
+      "title": "一、呼吸系统基础知识",
+      "description": "一、呼吸系统基础知识",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 228,
+      "id": "ffae55cdde786fa6"
     },
     {
-      "filename": "人格评估方法.json",
-      "title": "人格评估方法专题",
-      "description": "人格评估的主要方法：自陈量表、投射测验、行为观察、评价量表",
-      "category": "心理学/人格心理学",
-      "tags": [
-        "人格评估",
-        "MMPI",
-        "投射测验",
-        "罗夏墨迹",
-        "16PF"
-      ],
-      "wordCount": 1495,
-      "id": "f38c16be70111a8a"
+      "filename": "一、糖尿病基础知识.json",
+      "title": "一、糖尿病基础知识",
+      "description": "一、糖尿病基础知识",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 363,
+      "id": "97467d35a992a4ef"
     },
     {
-      "filename": "人格理论.json",
-      "title": "人格心理学专题",
-      "description": "人格的定义、特质理论（大五人格）、精神分析人格理论（弗洛伊德）、人格评估方法",
-      "category": "心理学/人格心理学",
-      "tags": [
-        "人格",
-        "特质理论",
-        "大五人格",
-        "弗洛伊德",
-        "精神分析"
-      ],
-      "wordCount": 1276,
-      "id": "6c75413d33c4ba6a"
+      "filename": "一、心脑血管疾病概述.json",
+      "title": "一、心脑血管疾病概述",
+      "description": "一、心脑血管疾病概述",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 206,
+      "id": "cac4fde4aba158b4"
     },
     {
-      "filename": "记忆模型与认知存储.json",
-      "title": "记忆模型与认知存储专题",
-      "description": "三级记忆模型、工作记忆模型（Baddeley）、编码与存储策略",
-      "category": "心理学/认知心理学",
-      "tags": [
-        "记忆模型",
-        "工作记忆",
-        "编码",
-        "存储"
-      ],
-      "wordCount": 848,
-      "id": "8b0569b108265dfc"
+      "filename": "八、实用技巧.json",
+      "title": "八、实用技巧",
+      "description": "八、实用技巧",
+      "category": "生活通识/社保公积金",
+      "tags": [],
+      "wordCount": 195,
+      "id": "431a8c7a22b6059f"
     },
     {
-      "filename": "决策与判断偏差.json",
-      "title": "决策与判断偏差专题",
-      "description": "启发法、确认偏差、后见之明偏差、可得性启发、框架效应等认知偏差",
-      "category": "心理学/认知心理学",
-      "tags": [
-        "决策",
-        "判断偏差",
-        "启发法",
-        "确认偏差",
-        "后见之明"
-      ],
-      "wordCount": 915,
-      "id": "0e29e4e2423aa86a"
+      "filename": "八、医保缴费标准（参考）.json",
+      "title": "八、医保缴费标准（参考）",
+      "description": "八、医保缴费标准（参考）",
+      "category": "生活通识/社保公积金",
+      "tags": [],
+      "wordCount": 123,
+      "id": "2297147bba7f84c2"
     },
     {
-      "filename": "问题解决与推理.json",
-      "title": "问题解决与推理专题",
-      "description": "问题解决的定义、问题空间、启发法与算法、推理类型（演绎、归纳）、影响因素",
-      "category": "心理学/认知心理学",
-      "tags": [
-        "问题解决",
-        "推理",
-        "启发法",
-        "算法",
-        "演绎推理",
-        "归纳推理"
-      ],
-      "wordCount": 1140,
-      "id": "ba655ebf8847089f"
-    },
-    {
-      "filename": "元认知.json",
-      "title": "元认知专题",
-      "description": "元认知的定义与构成（Flavell）、元认知知识、元认知监控、元认知调节策略",
-      "category": "心理学/认知心理学",
-      "tags": [
-        "元认知",
-        "元认知知识",
-        "元认知监控",
-        "学习策略"
-      ],
-      "wordCount": 1179,
-      "id": "36295f2c1ae09532"
+      "filename": "二、可以提取的情形.json",
+      "title": "二、可以提取的情形",
+      "description": "二、可以提取的情形",
+      "category": "生活通识/社保公积金",
+      "tags": [],
+      "wordCount": 285,
+      "id": "1945a64dc3ccc86d"
     }
   ]
 }

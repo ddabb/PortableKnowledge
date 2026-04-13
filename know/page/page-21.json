@@ -1,252 +1,187 @@
 {
   "page": 21,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
     {
-      "filename": "四季养生指南_科学调理身体健康.json",
-      "title": "四季养生指南：科学调理身体健康",
-      "description": "四季养生指南：科学调理身体健康的核心知识点汇总",
+      "filename": "一、毒品防范.json",
+      "title": "一、毒品防范",
+      "description": "一、毒品防范",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 605,
+      "id": "add53a872c46c50b"
+    },
+    {
+      "filename": "一、街头诈骗.json",
+      "title": "一、街头诈骗",
+      "description": "一、街头诈骗",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 259,
+      "id": "0ec48cb21c9199ae"
+    },
+    {
+      "filename": "一、诈骗形势.json",
+      "title": "一、诈骗形势",
+      "description": "一、诈骗形势",
+      "category": "生活通识/安全防范",
+      "tags": [],
+      "wordCount": 132,
+      "id": "3bd2d5bd6211d8f4"
+    },
+    {
+      "filename": "八、施救者的保护.json",
+      "title": "八、施救者的保护",
+      "description": "八、施救者的保护",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 118,
+      "id": "ae1abf25b1f04899"
+    },
+    {
+      "filename": "二、什么情况需要心肺复苏.json",
+      "title": "二、什么情况需要心肺复苏",
+      "description": "二、什么情况需要心肺复苏",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 220,
+      "id": "b41e0c37d9da0de3"
+    },
+    {
+      "filename": "九、学习建议.json",
+      "title": "九、学习建议",
+      "description": "九、学习建议",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 147,
+      "id": "de4a3a8408d134ca"
+    },
+    {
+      "filename": "六、特殊情况.json",
+      "title": "六、特殊情况",
+      "description": "六、特殊情况",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 116,
+      "id": "273037aa4d4b5c24"
+    },
+    {
+      "filename": "七、常见错误.json",
+      "title": "七、常见错误",
+      "description": "七、常见错误",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 171,
+      "id": "fce7fc0f6e356809"
+    },
+    {
+      "filename": "三、心肺复苏步骤.json",
+      "title": "三、心肺复苏步骤",
+      "description": "三、心肺复苏步骤",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 587,
+      "id": "f9dcecfb29481ed1"
+    },
+    {
+      "filename": "四、只做按压的CPR.json",
+      "title": "四、只做按压的CPR",
+      "description": "四、只做按压的CPR",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 114,
+      "id": "b98a51c8701c1c08"
+    },
+    {
+      "filename": "五、使用AED.json",
+      "title": "五、使用AED",
+      "description": "五、使用AED",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 194,
+      "id": "14918168cebd9624"
+    },
+    {
+      "filename": "一、什么是心肺复苏.json",
+      "title": "一、什么是心肺复苏",
+      "description": "一、什么是心肺复苏",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 129,
+      "id": "7306bfcf7a46229a"
+    },
+    {
+      "filename": "八、常见误区.json",
+      "title": "八、常见误区",
+      "description": "八、常见误区",
       "category": "生活通识/健康养生",
-      "tags": [
-        "四季",
-        "健康",
-        "养生"
-      ],
-      "wordCount": 2923,
-      "id": "e2e1ee67a7f1ddc6"
+      "tags": [],
+      "wordCount": 151,
+      "id": "d0fb3ef80ddfd4a1"
     },
     {
-      "filename": "糖尿病预防完全指南.json",
-      "title": "糖尿病预防完全指南",
-      "description": "糖尿病的类型、危险因素、预防措施和血糖管理方法",
+      "filename": "八、生活方式养护.json",
+      "title": "八、生活方式养护",
+      "description": "八、生活方式养护",
       "category": "生活通识/健康养生",
-      "tags": [
-        "糖尿病",
-        "血糖管理",
-        "疾病预防",
-        "健康管理",
-        "三高"
-      ],
-      "wordCount": 2781,
-      "id": "df2f529f056f18fc"
+      "tags": [],
+      "wordCount": 252,
+      "id": "e26c8a5fd7c9ae1c"
     },
     {
-      "filename": "消化系统疾病预防指南.json",
-      "title": "消化系统疾病预防完全指南",
-      "description": "胃病、肝炎、肠炎、脂肪肝等常见消化系统疾病的预防和养护",
+      "filename": "八、疫情防护（传染病）.json",
+      "title": "八、疫情防护（传染病）",
+      "description": "八、疫情防护（传染病）",
       "category": "生活通识/健康养生",
-      "tags": [
-        "消化系统",
-        "疾病预防",
-        "胃病",
-        "肝炎",
-        "脂肪肝",
-        "肠胃炎"
-      ],
-      "wordCount": 2992,
-      "id": "b3353719b26acdc3"
+      "tags": [],
+      "wordCount": 292,
+      "id": "ca07856d3420b289"
     },
     {
-      "filename": "心脑血管疾病预防指南.json",
-      "title": "心脑血管疾病预防完全指南",
-      "description": "心脑血管疾病的类型、危险因素、预防措施和早期信号识别",
+      "filename": "八、执行清单.json",
+      "title": "八、执行清单",
+      "description": "八、执行清单",
       "category": "生活通识/健康养生",
-      "tags": [
-        "心脑血管",
-        "疾病预防",
-        "健康管理",
-        "三高",
-        "脑卒中",
-        "冠心病"
-      ],
-      "wordCount": 2001,
-      "id": "4f6a963b4988b3f5"
-    },
-    {
-      "filename": "社保公积金使用全攻略.json",
-      "title": "社保公积金使用全攻略",
-      "description": "住房公积金提取与医疗保险报销的完整指南，涵盖提取条件、流程、注意事项及常见问题解答",
-      "category": "生活通识/社保公积金",
-      "tags": [
-        "社保",
-        "公积金",
-        "住房公积金",
-        "医保",
-        "医疗保险",
-        "报销",
-        "提取",
-        "购房",
-        "五险一金"
-      ],
-      "wordCount": 3546,
-      "id": "506269662fa83742"
-    },
-    {
-      "filename": "地震防范与应急.json",
-      "title": "地震防范与应急",
-      "description": "地震发生时的应对措施、逃生技巧和日常准备",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "地震",
-        "自然灾害",
-        "应急",
-        "逃生"
-      ],
-      "wordCount": 877,
-      "id": "be8e5050f8013cf0"
-    },
-    {
-      "filename": "洪水防范与应对.json",
-      "title": "洪水防范与应对",
-      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "洪水",
-        "自然灾害",
-        "防汛",
-        "应急"
-      ],
-      "wordCount": 842,
-      "id": "ba444651c5345d81"
-    },
-    {
-      "filename": "火灾防范与逃生.json",
-      "title": "火灾防范与逃生",
-      "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "火灾",
-        "消防",
-        "逃生",
-        "安全"
-      ],
-      "wordCount": 1265,
-      "id": "33c5e8b303ea8044"
-    },
-    {
-      "filename": "台风防范指南.json",
-      "title": "台风防范指南",
-      "description": "台风的形成、预警等级及防范措施",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "台风",
-        "自然灾害",
-        "风暴",
-        "防汛"
-      ],
-      "wordCount": 943,
-      "id": "2411eb1484625054"
-    },
-    {
-      "filename": "埃里克森心理社会发展阶段.json",
-      "title": "埃里克森心理社会发展阶段专题",
-      "description": "埃里克森八阶段论：每阶段的心理危机、发展任务及与皮亚杰的对应关系",
-      "category": "心理学/发展心理学",
-      "tags": [
-        "埃里克森",
-        "心理社会发展",
-        "自我同一性",
-        "信任"
-      ],
-      "wordCount": 1331,
-      "id": "4ffa80d1b2387788"
-    },
-    {
-      "filename": "备考重点.json",
-      "title": "备考重点",
-      "description": "备考重点",
-      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 86,
-      "id": "65688bbdb0dcc3d7"
+      "wordCount": 92,
+      "id": "9c134175266814e0"
     },
     {
-      "filename": "道德发展.json",
-      "title": "道德发展专题",
-      "description": "科尔伯格三水平六阶段理论、Piaget的道德发展理论、道德发展与认知发展的关系",
-      "category": "心理学/发展心理学",
-      "tags": [
-        "道德发展",
-        "科尔伯格",
-        "前习俗",
-        "习俗",
-        "后习俗"
-      ],
-      "wordCount": 1102,
-      "id": "d726a2e255cb8b6d"
-    },
-    {
-      "filename": "二，第一阶段：感觉运动期（0-2岁）.json",
-      "title": "二，第一阶段：感觉运动期（0-2岁）",
-      "description": "二，第一阶段：感觉运动期（0-2岁）",
-      "category": "心理学/发展心理学",
+      "filename": "二、感冒和流感.json",
+      "title": "二、感冒和流感",
+      "description": "二、感冒和流感",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 363,
-      "id": "a57a6c1c1414145b"
+      "wordCount": 370,
+      "id": "42b326b7c3282264"
     },
     {
-      "filename": "二，最近发展区（ZPD）.json",
-      "title": "二，最近发展区（ZPD）",
-      "description": "二，最近发展区（ZPD）",
-      "category": "心理学/发展心理学",
+      "filename": "二、糖尿病前期.json",
+      "title": "二、糖尿病前期",
+      "description": "二、糖尿病前期",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 279,
-      "id": "489c2eb19011a5fa"
+      "wordCount": 306,
+      "id": "bb64351cac5c4cf0"
     },
     {
-      "filename": "六，各阶段对比.json",
-      "title": "六，各阶段对比",
-      "description": "六，各阶段对比",
-      "category": "心理学/发展心理学",
+      "filename": "二、危险因素.json",
+      "title": "二、危险因素",
+      "description": "二、危险因素",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 148,
-      "id": "834f71fd1934278e"
+      "wordCount": 249,
+      "id": "c6812dd6d2479193"
     },
     {
-      "filename": "六，维果茨基 vs 皮亚杰.json",
-      "title": "六，维果茨基 vs 皮亚杰",
-      "description": "六，维果茨基 vs 皮亚杰",
-      "category": "心理学/发展心理学",
+      "filename": "二、胃部疾病.json",
+      "title": "二、胃部疾病",
+      "description": "二、胃部疾病",
+      "category": "生活通识/健康养生",
       "tags": [],
-      "wordCount": 135,
-      "id": "e7c688f8f7a1f9d1"
-    },
-    {
-      "filename": "七，相关概念：元认知与自我调节.json",
-      "title": "七，相关概念：元认知与自我调节",
-      "description": "七，相关概念：元认知与自我调节",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 87,
-      "id": "f889d15d83da4b12"
-    },
-    {
-      "filename": "三，第二阶段：前运算期（2-7岁）.json",
-      "title": "三，第二阶段：前运算期（2-7岁）",
-      "description": "三，第二阶段：前运算期（2-7岁）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 490,
-      "id": "e5edeac0be5efa7b"
-    },
-    {
-      "filename": "三，脚手架（Scaffolding）.json",
-      "title": "三，脚手架（Scaffolding）",
-      "description": "三，脚手架（Scaffolding）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 285,
-      "id": "19e74ca235498bd4"
-    },
-    {
-      "filename": "四，第三阶段：具体运算期（7-11岁）.json",
-      "title": "四，第三阶段：具体运算期（7-11岁）",
-      "description": "四，第三阶段：具体运算期（7-11岁）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 301,
-      "id": "6f51a1e819c832ac"
+      "wordCount": 401,
+      "id": "3288dc79c1e927f3"
     }
   ]
 }

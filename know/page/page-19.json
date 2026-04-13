@@ -1,8 +1,160 @@
 {
   "page": 19,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
+    {
+      "filename": "03_生活技能.json",
+      "title": "03_生活技能",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 58,
+      "id": "a8e07c7281123e2d"
+    },
+    {
+      "filename": "04_个人成长.json",
+      "title": "04_个人成长",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 157,
+      "id": "249a897652b5eb5b"
+    },
+    {
+      "filename": "二、艾宾浩斯遗忘曲线：记忆的自然法则.json",
+      "title": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
+      "description": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 180,
+      "id": "8cc367a2b483e819"
+    },
+    {
+      "filename": "二、刻意练习的六个核心特征.json",
+      "title": "二、刻意练习的六个核心特征",
+      "description": "二、刻意练习的六个核心特征",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 742,
+      "id": "fb7ad3b76e78caf7"
+    },
+    {
+      "filename": "费曼学习法实践_通过教授他人深化理解.json",
+      "title": "费曼学习法实践：通过教授他人深化理解",
+      "description": "费曼学习法实践：通过教授他人深化理解的核心知识点汇总",
+      "category": "认知思维/学习方法",
+      "tags": [
+        "学习方法",
+        "知识留存",
+        "费曼学习法"
+      ],
+      "wordCount": 2710,
+      "id": "5187e8e01dea0bea"
+    },
+    {
+      "filename": "高效学习方法_科学提升学习能力的实用指南.json",
+      "title": "高效学习方法：科学提升学习能力的实用指南",
+      "description": "高效学习方法：科学提升学习能力的实用指南的核心知识点汇总",
+      "category": "认知思维/学习方法",
+      "tags": [
+        "学习方法",
+        "效率",
+        "认知科学"
+      ],
+      "wordCount": 2011,
+      "id": "fa4f0bdcc55522ad"
+    },
+    {
+      "filename": "个人思考.json",
+      "title": "个人思考",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 16,
+      "id": "08f40b4a9752a3d2"
+    },
+    {
+      "filename": "关联知识.json",
+      "title": "关联知识",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 1576,
+      "id": "4f57d8bf2cc133f1"
+    },
+    {
+      "filename": "核心内容.json",
+      "title": "核心内容",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 18,
+      "id": "53e013ed02d34a1f"
+    },
+    {
+      "filename": "六、间隔重复适合学什么.json",
+      "title": "六、间隔重复适合学什么",
+      "description": "六、间隔重复适合学什么",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 120,
+      "id": "79b9770ad3ad29d8"
+    },
+    {
+      "filename": "六、刻意练习的常见陷阱.json",
+      "title": "六、刻意练习的常见陷阱",
+      "description": "六、刻意练习的常见陷阱",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 319,
+      "id": "f2975033c685ad40"
+    },
+    {
+      "filename": "七、制作高效闪卡的技巧.json",
+      "title": "七、制作高效闪卡的技巧",
+      "description": "七、制作高效闪卡的技巧",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 137,
+      "id": "1c77573df7a1d467"
+    },
+    {
+      "filename": "三、集中复习为什么低效.json",
+      "title": "三、集中复习为什么低效",
+      "description": "三、集中复习为什么低效",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 169,
+      "id": "de2b3cf532191810"
+    },
+    {
+      "filename": "三、刻意练习 vs 天赋.json",
+      "title": "三、刻意练习 vs 天赋",
+      "description": "三、刻意练习 vs 天赋",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 278,
+      "id": "957af2675ee18b5b"
+    },
+    {
+      "filename": "实际应用.json",
+      "title": "实际应用",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 20,
+      "id": "1336a80ff70a9bb5"
+    },
+    {
+      "filename": "四、刻意练习在不同领域的应用.json",
+      "title": "四、刻意练习在不同领域的应用",
+      "description": "四、刻意练习在不同领域的应用",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 394,
+      "id": "4669edc12a0162fb"
+    },
     {
       "filename": "四、什么是间隔重复.json",
       "title": "四、什么是间隔重复",
@@ -38,150 +190,6 @@
       "tags": [],
       "wordCount": 39,
       "id": "02f0b83724eaef56"
-    },
-    {
-      "filename": "详细说明.json",
-      "title": "详细说明",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 18,
-      "id": "53f43299e784fc12"
-    },
-    {
-      "filename": "一、被误解的·一万小时定律·.json",
-      "title": "一、被误解的·一万小时定律·",
-      "description": "一、被误解的·一万小时定律·",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 253,
-      "id": "dec51d28a342100a"
-    },
-    {
-      "filename": "一、为什么你学的东西总是记不住.json",
-      "title": "一、为什么你学的东西总是记不住",
-      "description": "一、为什么你学的东西总是记不住",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 106,
-      "id": "4edcb268b01b6db4"
-    },
-    {
-      "filename": "总结.json",
-      "title": "总结",
-      "description": "总结",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 167,
-      "id": "6d5cdb444816eb7c"
-    },
-    {
-      "filename": "二、常见诈骗类型.json",
-      "title": "二、常见诈骗类型",
-      "description": "二、常见诈骗类型",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 657,
-      "id": "629f6b2a5047f4d8"
-    },
-    {
-      "filename": "二、赌博防范.json",
-      "title": "二、赌博防范",
-      "description": "二、赌博防范",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 560,
-      "id": "51b494cf85407150"
-    },
-    {
-      "filename": "二、网络诈骗.json",
-      "title": "二、网络诈骗",
-      "description": "二、网络诈骗",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 320,
-      "id": "646464a36c798ef2"
-    },
-    {
-      "filename": "六、保护个人信息.json",
-      "title": "六、保护个人信息",
-      "description": "六、保护个人信息",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 116,
-      "id": "bb22bb274895c7f8"
-    },
-    {
-      "filename": "六、遭遇诈骗后的处理.json",
-      "title": "六、遭遇诈骗后的处理",
-      "description": "六、遭遇诈骗后的处理",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 116,
-      "id": "4cc01f0018a39b81"
-    },
-    {
-      "filename": "七、国家反诈中心APP.json",
-      "title": "七、国家反诈中心APP",
-      "description": "七、国家反诈中心APP",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 167,
-      "id": "851a588047637e1c"
-    },
-    {
-      "filename": "七、总结.json",
-      "title": "七、总结",
-      "description": "七、总结",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 110,
-      "id": "cdadc0c360452131"
-    },
-    {
-      "filename": "三、防诈骗·八个凡是·.json",
-      "title": "三、防诈骗·八个凡是·",
-      "description": "三、防诈骗·八个凡是·",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 199,
-      "id": "cdc63b2554cdf44e"
-    },
-    {
-      "filename": "三、老年人诈骗.json",
-      "title": "三、老年人诈骗",
-      "description": "三、老年人诈骗",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 232,
-      "id": "24b58ddac7edae2a"
-    },
-    {
-      "filename": "三、色情防范.json",
-      "title": "三、色情防范",
-      "description": "三、色情防范",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 385,
-      "id": "e09ec72ac9c84ceb"
-    },
-    {
-      "filename": "四、·三不一多·原则.json",
-      "title": "四、·三不一多·原则",
-      "description": "四、·三不一多·原则",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 121,
-      "id": "72f224f0bbb82b37"
-    },
-    {
-      "filename": "四、如何寻求帮助.json",
-      "title": "四、如何寻求帮助",
-      "description": "四、如何寻求帮助",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 161,
-      "id": "4d1dfeaf9ab5271a"
     }
   ]
 }

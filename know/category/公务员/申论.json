@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "公务员/申论",
-    "count": 5
+    "count": 14
   },
   "articles": [
     {
@@ -19,18 +19,13 @@
       "id": "80662090c6f5d919"
     },
     {
-      "filename": "对策建议.json",
-      "title": "对策建议",
-      "description": "",
+      "filename": "二、解题技巧.json",
+      "title": "二、解题技巧",
+      "description": "二、解题技巧",
       "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "对策建议",
-        "解决问题",
-        "措施制定"
-      ],
-      "wordCount": 2939,
-      "id": "3b8d0537d2f4bd43"
+      "tags": [],
+      "wordCount": 377,
+      "id": "134ff34fd9ca7688"
     },
     {
       "filename": "归纳概括.json",
@@ -47,18 +42,94 @@
       "id": "27e061e7e872d489"
     },
     {
-      "filename": "应用文.json",
-      "title": "应用文",
-      "description": "",
+      "filename": "六、注意事项.json",
+      "title": "六、注意事项",
+      "description": "六、注意事项",
       "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "应用文",
-        "公文写作",
-        "格式规范"
-      ],
-      "wordCount": 3120,
-      "id": "35ea85e707da7a91"
+      "tags": [],
+      "wordCount": 217,
+      "id": "7c6e18404fecf75d"
+    },
+    {
+      "filename": "六、总结.json",
+      "title": "六、总结",
+      "description": "六、总结",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 116,
+      "id": "2e14f9788e5eb7d5"
+    },
+    {
+      "filename": "七、总结.json",
+      "title": "七、总结",
+      "description": "七、总结",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 113,
+      "id": "995d3c3480b143e7"
+    },
+    {
+      "filename": "三、对策类型与示例.json",
+      "title": "三、对策类型与示例",
+      "description": "三、对策类型与示例",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 889,
+      "id": "cdba32e1e5dbb0c9"
+    },
+    {
+      "filename": "三、写作模板.json",
+      "title": "三、写作模板",
+      "description": "三、写作模板",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 648,
+      "id": "ab067a400f5581cd"
+    },
+    {
+      "filename": "四、实例分析.json",
+      "title": "四、实例分析",
+      "description": "四、实例分析",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 380,
+      "id": "4b364c1588273a7b"
+    },
+    {
+      "filename": "四、写作结构.json",
+      "title": "四、写作结构",
+      "description": "四、写作结构",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 201,
+      "id": "a8ac3d7c526ecf75"
+    },
+    {
+      "filename": "五、实例分析.json",
+      "title": "五、实例分析",
+      "description": "五、实例分析",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 407,
+      "id": "9e4fb7314bc3f860"
+    },
+    {
+      "filename": "五、注意事项.json",
+      "title": "五、注意事项",
+      "description": "五、注意事项",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 265,
+      "id": "74dfba907dfb76ec"
+    },
+    {
+      "filename": "一、核心考点.json",
+      "title": "一、核心考点",
+      "description": "一、核心考点",
+      "category": "公务员/申论",
+      "tags": [],
+      "wordCount": 1326,
+      "id": "af7978997694bb01"
     },
     {
       "filename": "综合分析.json",

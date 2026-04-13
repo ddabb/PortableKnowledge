@@ -1,8 +1,221 @@
 {
   "page": 12,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
+    {
+      "filename": "教育创新与改革.json",
+      "title": "教育创新与改革",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育创新",
+        "教育改革",
+        "素质教育"
+      ],
+      "wordCount": 3390,
+      "id": "a984c08f238b1def"
+    },
+    {
+      "filename": "教育法律法规案例分析.json",
+      "title": "教育法律法规案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "案例分析",
+        "法律责任"
+      ],
+      "wordCount": 4480,
+      "id": "4c465f57472777a5"
+    },
+    {
+      "filename": "教育法律法规与教师职业道德.json",
+      "title": "教育法律法规与教师职业道德",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "教师职业道德",
+        "法律责任"
+      ],
+      "wordCount": 4917,
+      "id": "606effbf3fd22802"
+    },
+    {
+      "filename": "教育技术应用.json",
+      "title": "教育技术应用",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育技术",
+        "信息技术",
+        "教学创新"
+      ],
+      "wordCount": 3883,
+      "id": "d5ada9171e523b31"
+    },
+    {
+      "filename": "教育教学实践案例分析.json",
+      "title": "教育教学实践案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育教学",
+        "案例分析",
+        "实践经验"
+      ],
+      "wordCount": 4364,
+      "id": "b896301fbe80b9af"
+    },
+    {
+      "filename": "教育评价与反思.json",
+      "title": "教育评价与反思",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育评价",
+        "教学反思",
+        "专业发展"
+      ],
+      "wordCount": 3348,
+      "id": "09a6af8a8a2a3cd0"
+    },
+    {
+      "filename": "教育心理学案例分析.json",
+      "title": "教育心理学案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育心理学",
+        "案例分析",
+        "教学实践"
+      ],
+      "wordCount": 4160,
+      "id": "a2c3c35dc85d4b1c"
+    },
+    {
+      "filename": "教育心理学知识.json",
+      "title": "教育心理学知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育心理学",
+        "学习理论",
+        "学生心理"
+      ],
+      "wordCount": 5273,
+      "id": "3f7a8875e981abc4"
+    },
+    {
+      "filename": "教育学基础知识.json",
+      "title": "教育学基础知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育学",
+        "基础知识",
+        "教育理论"
+      ],
+      "wordCount": 2777,
+      "id": "f0460d10e2cbd9fe"
+    },
+    {
+      "filename": "教育研究方法.json",
+      "title": "教育研究方法",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育研究",
+        "研究方法",
+        "教师专业发展"
+      ],
+      "wordCount": 4369,
+      "id": "e259e78f89d8bb0a"
+    },
+    {
+      "filename": "学科知识与教学能力.json",
+      "title": "学科知识与教学能力",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "学科知识",
+        "教学能力",
+        "专业素养"
+      ],
+      "wordCount": 3972,
+      "id": "cdfec0b48388b79b"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "考研专业课核心考点",
+      "description": "考研专业课：408计算机、311教育学、199管理类联考核心考点",
+      "category": "考研专业课",
+      "tags": [
+        "考研",
+        "计算机",
+        "教育学",
+        "管理类联考"
+      ],
+      "wordCount": 3969,
+      "id": "0f7696138546b52b"
+    },
+    {
+      "filename": "代数.json",
+      "title": "代数",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "数学",
+        "代数",
+        "考研"
+      ],
+      "wordCount": 816,
+      "id": "80ba64830a2d44a1"
+    },
+    {
+      "filename": "非形式逻辑.json",
+      "title": "非形式逻辑",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "逻辑",
+        "非形式逻辑",
+        "考研"
+      ],
+      "wordCount": 669,
+      "id": "ec71a12e2ef3cabc"
+    },
+    {
+      "filename": "几何.json",
+      "title": "几何",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "数学",
+        "几何",
+        "考研"
+      ],
+      "wordCount": 604,
+      "id": "fb93a8679cfddcb3"
+    },
+    {
+      "filename": "论说文.json",
+      "title": "论说文",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "写作",
+        "论说文",
+        "考研"
+      ],
+      "wordCount": 827,
+      "id": "d899dd3b1c2b58da"
+    },
     {
       "filename": "论证有效性分析.json",
       "title": "论证有效性分析",
@@ -56,225 +269,6 @@
       ],
       "wordCount": 512,
       "id": "fbac4cc196455609"
-    },
-    {
-      "filename": "算术.json",
-      "title": "算术",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "算术",
-        "考研"
-      ],
-      "wordCount": 452,
-      "id": "c7264cd59e76d049"
-    },
-    {
-      "filename": "写作概述.json",
-      "title": "写作概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "考研"
-      ],
-      "wordCount": 587,
-      "id": "6f4d5a8c7a82f6f0"
-    },
-    {
-      "filename": "形式逻辑.json",
-      "title": "形式逻辑",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "形式逻辑",
-        "考研"
-      ],
-      "wordCount": 540,
-      "id": "ad79d4df010e1540"
-    },
-    {
-      "filename": "综合推理.json",
-      "title": "综合推理",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "综合推理",
-        "考研"
-      ],
-      "wordCount": 651,
-      "id": "bcc6026be1636404"
-    },
-    {
-      "filename": "操作系统概述.json",
-      "title": "操作系统概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "操作系统",
-        "408",
-        "考研"
-      ],
-      "wordCount": 161,
-      "id": "ee98917a80aa4155"
-    },
-    {
-      "filename": "查找算法.json",
-      "title": "查找算法",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "查找",
-        "408",
-        "考研"
-      ],
-      "wordCount": 154,
-      "id": "54b3ad88cd6618a8"
-    },
-    {
-      "filename": "传输层.json",
-      "title": "传输层",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机网络",
-        "传输层",
-        "408",
-        "考研"
-      ],
-      "wordCount": 187,
-      "id": "37c87308d58b4869"
-    },
-    {
-      "filename": "计算机网络概述.json",
-      "title": "计算机网络概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机网络",
-        "408",
-        "考研"
-      ],
-      "wordCount": 145,
-      "id": "90ce455fd157a579"
-    },
-    {
-      "filename": "计算机组成原理概述.json",
-      "title": "计算机组成原理概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机组成原理",
-        "408",
-        "考研"
-      ],
-      "wordCount": 139,
-      "id": "f99cc86c21ab1f18"
-    },
-    {
-      "filename": "进程管理.json",
-      "title": "进程管理",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "操作系统",
-        "进程管理",
-        "408",
-        "考研"
-      ],
-      "wordCount": 190,
-      "id": "c78d53258cb98569"
-    },
-    {
-      "filename": "内存管理.json",
-      "title": "内存管理",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "操作系统",
-        "内存管理",
-        "408",
-        "考研"
-      ],
-      "wordCount": 171,
-      "id": "f95ae7d536f29a88"
-    },
-    {
-      "filename": "排序算法.json",
-      "title": "排序算法",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "排序",
-        "408",
-        "考研"
-      ],
-      "wordCount": 136,
-      "id": "12144fd93355449c"
-    },
-    {
-      "filename": "树.json",
-      "title": "树",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "树",
-        "408",
-        "考研"
-      ],
-      "wordCount": 131,
-      "id": "0ed1ab0ce7f84752"
-    },
-    {
-      "filename": "数据结构概述.json",
-      "title": "数据结构概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "408",
-        "考研"
-      ],
-      "wordCount": 138,
-      "id": "90c8fa0fe1292c08"
-    },
-    {
-      "filename": "数据链路层.json",
-      "title": "数据链路层",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机网络",
-        "数据链路层",
-        "408",
-        "考研"
-      ],
-      "wordCount": 181,
-      "id": "b782d30d9b66d714"
-    },
-    {
-      "filename": "图.json",
-      "title": "图",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "图",
-        "408",
-        "考研"
-      ],
-      "wordCount": 145,
-      "id": "188f1c029dd46c19"
     }
   ]
 }

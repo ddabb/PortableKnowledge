@@ -1,276 +1,202 @@
 {
   "page": 25,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
     {
-      "filename": "经典条件反射.json",
-      "title": "经典条件反射专题",
-      "description": "巴甫洛夫实验、基本概念（UCS/UCR/CS/CR）、习得与消退、泛化与分化",
-      "category": "心理学/行为心理学",
-      "tags": [
-        "经典条件反射",
-        "巴甫洛夫",
-        "条件反射",
-        "消退",
-        "泛化",
-        "分化"
-      ],
-      "wordCount": 1022,
-      "id": "4709c7b94aaf1b3b"
-    },
-    {
-      "filename": "强化程序表.json",
-      "title": "强化程序表专题",
-      "description": "连续强化与间隔强化、固定比率与变动比率、强化程序表的行为效果对比",
-      "category": "心理学/行为心理学",
-      "tags": [
-        "强化程序表",
-        "比率强化",
-        "时距强化",
-        "斯金纳"
-      ],
-      "wordCount": 1116,
-      "id": "f7c8da8366627d21"
-    },
-    {
-      "filename": "八、选题时间管理.json",
-      "title": "八、选题时间管理",
-      "description": "八、选题时间管理",
-      "category": "营销增长/内容创作",
+      "filename": "二，第一阶段：感觉运动期（0-2岁）.json",
+      "title": "二，第一阶段：感觉运动期（0-2岁）",
+      "description": "二，第一阶段：感觉运动期（0-2岁）",
+      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 239,
-      "id": "272d6c8f60ce7fd9"
+      "wordCount": 363,
+      "id": "a57a6c1c1414145b"
     },
     {
-      "filename": "二、选题来源.json",
-      "title": "二、选题来源",
-      "description": "二、选题来源",
-      "category": "营销增长/内容创作",
+      "filename": "二，最近发展区（ZPD）.json",
+      "title": "二，最近发展区（ZPD）",
+      "description": "二，最近发展区（ZPD）",
+      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 388,
-      "id": "4d2389681efe7759"
+      "wordCount": 279,
+      "id": "489c2eb19011a5fa"
     },
     {
-      "filename": "八、排版：视觉体验.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 278,
-      "id": "a354859c2d6a8479"
-    },
-    {
-      "filename": "二、标题：决定打开率.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 344,
-      "id": "3918a6517c6b9416"
-    },
-    {
-      "filename": "九、发布时间.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 221,
-      "id": "3a440b316c4a3192"
-    },
-    {
-      "filename": "六、结尾：引导行动.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 239,
-      "id": "015359c356580982"
-    },
-    {
-      "filename": "七、选题方向参考.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 271,
-      "id": "86b92dc4a0d4ac3c"
-    },
-    {
-      "filename": "三、开头：留住读者.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 243,
-      "id": "2148a075433a90f9"
-    },
-    {
-      "filename": "十、数据复盘.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 216,
-      "id": "9788158bd3c7e5e0"
-    },
-    {
-      "filename": "十一、写作习惯.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 300,
-      "id": "75dc50cb2089afef"
-    },
-    {
-      "filename": "四、结构：让文章可读.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 410,
-      "id": "5298ba12fe2d70f0"
-    },
-    {
-      "filename": "五、金句：让读者想转发.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 360,
-      "id": "160d4e202348a62c"
-    },
-    {
-      "filename": "一、选题：爆款的起点.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
-      ],
-      "wordCount": 478,
-      "id": "595fdd5e7b477eea"
-    },
-    {
-      "filename": "九、选题复盘.json",
-      "title": "九、选题复盘",
-      "description": "九、选题复盘",
-      "category": "营销增长/内容创作",
+      "filename": "六，各阶段对比.json",
+      "title": "六，各阶段对比",
+      "description": "六，各阶段对比",
+      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 199,
-      "id": "00f688dc81aad28e"
+      "wordCount": 148,
+      "id": "834f71fd1934278e"
     },
     {
-      "filename": "六、选题执行流程.json",
-      "title": "六、选题执行流程",
-      "description": "六、选题执行流程",
-      "category": "营销增长/内容创作",
+      "filename": "六，维果茨基 vs 皮亚杰.json",
+      "title": "六，维果茨基 vs 皮亚杰",
+      "description": "六，维果茨基 vs 皮亚杰",
+      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 321,
-      "id": "016c551657dbbae1"
+      "wordCount": 135,
+      "id": "e7c688f8f7a1f9d1"
     },
     {
-      "filename": "七、选题常见问题.json",
-      "title": "七、选题常见问题",
-      "description": "七、选题常见问题",
-      "category": "营销增长/内容创作",
+      "filename": "七，相关概念：元认知与自我调节.json",
+      "title": "七，相关概念：元认知与自我调节",
+      "description": "七，相关概念：元认知与自我调节",
+      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 250,
-      "id": "f95ebe0f5c082172"
+      "wordCount": 87,
+      "id": "f889d15d83da4b12"
     },
     {
-      "filename": "三、选题评估方法.json",
-      "title": "三、选题评估方法",
-      "description": "三、选题评估方法",
-      "category": "营销增长/内容创作",
+      "filename": "三，第二阶段：前运算期（2-7岁）.json",
+      "title": "三，第二阶段：前运算期（2-7岁）",
+      "description": "三，第二阶段：前运算期（2-7岁）",
+      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 452,
-      "id": "e292ca70457063f6"
+      "wordCount": 490,
+      "id": "e5edeac0be5efa7b"
     },
     {
-      "filename": "四、选题库建设.json",
-      "title": "四、选题库建设",
-      "description": "四、选题库建设",
-      "category": "营销增长/内容创作",
+      "filename": "三，脚手架（Scaffolding）.json",
+      "title": "三，脚手架（Scaffolding）",
+      "description": "三，脚手架（Scaffolding）",
+      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 367,
-      "id": "af2a5f3595e8e0e9"
+      "wordCount": 285,
+      "id": "19e74ca235498bd4"
+    },
+    {
+      "filename": "四，第三阶段：具体运算期（7-11岁）.json",
+      "title": "四，第三阶段：具体运算期（7-11岁）",
+      "description": "四，第三阶段：具体运算期（7-11岁）",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 301,
+      "id": "6f51a1e819c832ac"
+    },
+    {
+      "filename": "四，内化.json",
+      "title": "四，内化",
+      "description": "四，内化",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 166,
+      "id": "d71abfddecfb3809"
+    },
+    {
+      "filename": "五，第四阶段：形式运算期（11岁+）.json",
+      "title": "五，第四阶段：形式运算期（11岁+）",
+      "description": "五，第四阶段：形式运算期（11岁+）",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 343,
+      "id": "735e0beb3b9b794e"
+    },
+    {
+      "filename": "五，高级心理机能.json",
+      "title": "五，高级心理机能",
+      "description": "五，高级心理机能",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 214,
+      "id": "2bcc7d88abfcdee6"
+    },
+    {
+      "filename": "一，核心概念.json",
+      "title": "一，核心概念",
+      "description": "一，核心概念",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 196,
+      "id": "a7f13d42f60bb38e"
+    },
+    {
+      "filename": "一，社会文化理论的核心.json",
+      "title": "一，社会文化理论的核心",
+      "description": "一，社会文化理论的核心",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 226,
+      "id": "c4a4e98bebb6174b"
+    },
+    {
+      "filename": "依恋理论.json",
+      "title": "依恋理论专题",
+      "description": "依恋的定义与类型（A型、B型、C型）、依恋的形成机制、依恋对发展的影响",
+      "category": "心理学/发展心理学",
+      "tags": [
+        "依恋",
+        "Ainsworth",
+        "安全依恋",
+        "依恋类型"
+      ],
+      "wordCount": 1137,
+      "id": "f96a38b160190976"
+    },
+    {
+      "filename": "语言发展.json",
+      "title": "语言发展专题",
+      "description": "语言发展的阶段（语音、词汇、语法、语用）、词汇爆发、电报句、Wh-问题",
+      "category": "心理学/发展心理学",
+      "tags": [
+        "语言发展",
+        "词汇爆发",
+        "语法发展",
+        "心理语言学"
+      ],
+      "wordCount": 1421,
+      "id": "549cd0033cf48b52"
+    },
+    {
+      "filename": "智力理论.json",
+      "title": "智力理论专题",
+      "description": "智力一元论与多元论、斯皮尔曼二因素论、卡特流体-晶体智力、智力的PASS模型",
+      "category": "心理学/发展心理学",
+      "tags": [
+        "智力理论",
+        "流体智力",
+        "晶体智力",
+        "多元智力"
+      ],
+      "wordCount": 1589,
+      "id": "79149e885e4e0570"
+    },
+    {
+      "filename": "备考重点.json",
+      "title": "备考重点",
+      "description": "备考重点",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 100,
+      "id": "58f91aed28b49c57"
+    },
+    {
+      "filename": "二、感受性与感觉阈限.json",
+      "title": "二、感受性与感觉阈限",
+      "description": "二、感受性与感觉阈限",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 298,
+      "id": "a2cda800be17364e"
+    },
+    {
+      "filename": "二、记忆的三级加工模型.json",
+      "title": "二、记忆的三级加工模型",
+      "description": "二、记忆的三级加工模型",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 427,
+      "id": "d75fb22bbcf89806"
+    },
+    {
+      "filename": "二、实验法.json",
+      "title": "二、实验法",
+      "description": "二、实验法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 511,
+      "id": "63796385bbd58eca"
     }
   ]
 }

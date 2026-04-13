@@ -1,8 +1,161 @@
 {
   "page": 18,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
+    {
+      "filename": "一、起源：一个警察局局长的直觉.json",
+      "title": "一、起源：一个警察局局长的直觉",
+      "description": "一、起源：一个警察局局长的直觉",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 193,
+      "id": "677c543fa4ba3512"
+    },
+    {
+      "filename": "一、什么是沉没成本谬误.json",
+      "title": "一、什么是沉没成本谬误",
+      "description": "一、什么是沉没成本谬误",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 174,
+      "id": "f4412286524a7e40"
+    },
+    {
+      "filename": "一、什么是可得性启发.json",
+      "title": "一、什么是可得性启发",
+      "description": "一、什么是可得性启发",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 173,
+      "id": "c81e453dab1921a8"
+    },
+    {
+      "filename": "一、损失厌恶的发现.json",
+      "title": "一、损失厌恶的发现",
+      "description": "一、损失厌恶的发现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 333,
+      "id": "4f5b75b00f904016"
+    },
+    {
+      "filename": "一、一个改变心理学的问题.json",
+      "title": "一、一个改变心理学的问题",
+      "description": "一、一个改变心理学的问题",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 201,
+      "id": "33d4221f3d54db2d"
+    },
+    {
+      "filename": "一、一个改变心理学历史的实验.json",
+      "title": "一、一个改变心理学历史的实验",
+      "description": "一、一个改变心理学历史的实验",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 240,
+      "id": "0e32d57a77d3c40d"
+    },
+    {
+      "filename": "一、一个荒谬的实验发现.json",
+      "title": "一、一个荒谬的实验发现",
+      "description": "一、一个荒谬的实验发现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 287,
+      "id": "f6c1ed80c2778812"
+    },
+    {
+      "filename": "总结.json",
+      "title": "总结",
+      "description": "总结",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 313,
+      "id": "4d8385802e3b96e3"
+    },
+    {
+      "filename": "二、核心方法论.json",
+      "title": "二、核心方法论",
+      "description": "二、核心方法论",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 627,
+      "id": "37bed835d1e8db83"
+    },
+    {
+      "filename": "决策矩阵分析法.json",
+      "title": "决策矩阵分析法",
+      "description": "通过系统化评估选项的多个维度，用加权评分做出更理性的重大决策",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "决策",
+        "矩阵分析",
+        "加权评分",
+        "理性思维"
+      ],
+      "wordCount": 839,
+      "id": "c9329cb08bddeb48"
+    },
+    {
+      "filename": "六、总结.json",
+      "title": "六、总结",
+      "description": "六、总结",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 452,
+      "id": "d548e72fc9c6c2af"
+    },
+    {
+      "filename": "三、应用场景与案例.json",
+      "title": "三、应用场景与案例",
+      "description": "三、应用场景与案例",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 742,
+      "id": "c4bb2b1e6d4fa336"
+    },
+    {
+      "filename": "思维导图应用_从思考到表达的可视化工具.json",
+      "title": "思维导图应用：从思考到表达的可视化工具",
+      "description": "思维导图应用：从思考到表达的可视化工具的核心知识点汇总",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "工具",
+        "可视化",
+        "思维导图"
+      ],
+      "wordCount": 1336,
+      "id": "3aa1f3c2e74dd1cb"
+    },
+    {
+      "filename": "四、操作步骤详解.json",
+      "title": "四、操作步骤详解",
+      "description": "四、操作步骤详解",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 566,
+      "id": "8e3e56e14203d0c2"
+    },
+    {
+      "filename": "五、局限性.json",
+      "title": "五、局限性",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 434,
+      "id": "085f90a6cdcd3ada"
+    },
+    {
+      "filename": "五、局限性与注意事项.json",
+      "title": "五、局限性与注意事项",
+      "description": "五、局限性与注意事项",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 418,
+      "id": "fa4b07945dfcf8dc"
+    },
     {
       "filename": "一、定义与起源.json",
       "title": "一、定义与起源",
@@ -43,158 +196,6 @@
       "tags": [],
       "wordCount": 59,
       "id": "84bea3f998d50be1"
-    },
-    {
-      "filename": "03_生活技能.json",
-      "title": "03_生活技能",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 58,
-      "id": "a8e07c7281123e2d"
-    },
-    {
-      "filename": "04_个人成长.json",
-      "title": "04_个人成长",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 157,
-      "id": "249a897652b5eb5b"
-    },
-    {
-      "filename": "二、艾宾浩斯遗忘曲线：记忆的自然法则.json",
-      "title": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
-      "description": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 180,
-      "id": "8cc367a2b483e819"
-    },
-    {
-      "filename": "二、刻意练习的六个核心特征.json",
-      "title": "二、刻意练习的六个核心特征",
-      "description": "二、刻意练习的六个核心特征",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 742,
-      "id": "fb7ad3b76e78caf7"
-    },
-    {
-      "filename": "费曼学习法实践_通过教授他人深化理解.json",
-      "title": "费曼学习法实践：通过教授他人深化理解",
-      "description": "费曼学习法实践：通过教授他人深化理解的核心知识点汇总",
-      "category": "认知思维/学习方法",
-      "tags": [
-        "学习方法",
-        "知识留存",
-        "费曼学习法"
-      ],
-      "wordCount": 2710,
-      "id": "5187e8e01dea0bea"
-    },
-    {
-      "filename": "高效学习方法_科学提升学习能力的实用指南.json",
-      "title": "高效学习方法：科学提升学习能力的实用指南",
-      "description": "高效学习方法：科学提升学习能力的实用指南的核心知识点汇总",
-      "category": "认知思维/学习方法",
-      "tags": [
-        "学习方法",
-        "效率",
-        "认知科学"
-      ],
-      "wordCount": 2011,
-      "id": "fa4f0bdcc55522ad"
-    },
-    {
-      "filename": "个人思考.json",
-      "title": "个人思考",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 16,
-      "id": "08f40b4a9752a3d2"
-    },
-    {
-      "filename": "关联知识.json",
-      "title": "关联知识",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 1576,
-      "id": "4f57d8bf2cc133f1"
-    },
-    {
-      "filename": "核心内容.json",
-      "title": "核心内容",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 18,
-      "id": "53e013ed02d34a1f"
-    },
-    {
-      "filename": "六、间隔重复适合学什么.json",
-      "title": "六、间隔重复适合学什么",
-      "description": "六、间隔重复适合学什么",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 120,
-      "id": "79b9770ad3ad29d8"
-    },
-    {
-      "filename": "六、刻意练习的常见陷阱.json",
-      "title": "六、刻意练习的常见陷阱",
-      "description": "六、刻意练习的常见陷阱",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 319,
-      "id": "f2975033c685ad40"
-    },
-    {
-      "filename": "七、制作高效闪卡的技巧.json",
-      "title": "七、制作高效闪卡的技巧",
-      "description": "七、制作高效闪卡的技巧",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 137,
-      "id": "1c77573df7a1d467"
-    },
-    {
-      "filename": "三、集中复习为什么低效.json",
-      "title": "三、集中复习为什么低效",
-      "description": "三、集中复习为什么低效",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 169,
-      "id": "de2b3cf532191810"
-    },
-    {
-      "filename": "三、刻意练习 vs 天赋.json",
-      "title": "三、刻意练习 vs 天赋",
-      "description": "三、刻意练习 vs 天赋",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 278,
-      "id": "957af2675ee18b5b"
-    },
-    {
-      "filename": "实际应用.json",
-      "title": "实际应用",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 20,
-      "id": "1336a80ff70a9bb5"
-    },
-    {
-      "filename": "四、刻意练习在不同领域的应用.json",
-      "title": "四、刻意练习在不同领域的应用",
-      "description": "四、刻意练习在不同领域的应用",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 394,
-      "id": "4669edc12a0162fb"
     }
   ]
 }

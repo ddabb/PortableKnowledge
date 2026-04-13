@@ -1,289 +1,209 @@
 {
   "page": 26,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
     {
-      "filename": "五、选题方向库.json",
-      "title": "五、选题方向库",
-      "description": "五、选题方向库",
-      "category": "营销增长/内容创作",
+      "filename": "六、记忆策略.json",
+      "title": "六、记忆策略",
+      "description": "六、记忆策略",
+      "category": "心理学/基础心理学",
       "tags": [],
-      "wordCount": 370,
-      "id": "eec9386c3a496203"
+      "wordCount": 126,
+      "id": "2a748f077f1ed0bc"
     },
     {
-      "filename": "八、发布时间.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 214,
-      "id": "8ed0b02306fbd5be"
-    },
-    {
-      "filename": "二、账号定位.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 509,
-      "id": "b4693c8c15dc266a"
-    },
-    {
-      "filename": "九、数据分析.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 243,
-      "id": "dec0ce914a6014a0"
-    },
-    {
-      "filename": "六、正文写作.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 389,
-      "id": "2567622770907deb"
-    },
-    {
-      "filename": "七、话题标签.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 195,
-      "id": "2476a65332a04cda"
-    },
-    {
-      "filename": "三、选题策划.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 363,
-      "id": "420573966fbfee40"
-    },
-    {
-      "filename": "十、涨粉策略.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 259,
-      "id": "bdaf701e76fbde18"
-    },
-    {
-      "filename": "十二、内容规划表.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 268,
-      "id": "4261f8974ca6d17d"
-    },
-    {
-      "filename": "十一、常见问题.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 242,
-      "id": "612da376bb1ad1fe"
-    },
-    {
-      "filename": "四、标题技巧.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 410,
-      "id": "565c3a55b5534166"
-    },
-    {
-      "filename": "五、封面图设计.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 396,
-      "id": "b0c45fe0e4f4b451"
-    },
-    {
-      "filename": "一、小红书平台特性.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
-      "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
-      ],
-      "wordCount": 377,
-      "id": "2a541f5614393606"
-    },
-    {
-      "filename": "一、选题的本质.json",
-      "title": "一、选题的本质",
-      "description": "一、选题的本质",
-      "category": "营销增长/内容创作",
+      "filename": "六、研究方法的选择.json",
+      "title": "六、研究方法的选择",
+      "description": "六、研究方法的选择",
+      "category": "心理学/基础心理学",
       "tags": [],
-      "wordCount": 297,
-      "id": "788098b5cd1a8a49"
+      "wordCount": 135,
+      "id": "705b63ff1ef710d8"
     },
     {
-      "filename": "八、增长黑客策略.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 276,
-      "id": "1138a8d26caa4e1a"
+      "filename": "六、知觉的四大特性.json",
+      "title": "六、知觉的四大特性",
+      "description": "六、知觉的四大特性",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 483,
+      "id": "ff7ded374ed7dfd5"
     },
     {
-      "filename": "二、涨粉策略分类.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 334,
-      "id": "e1e856c130bb873f"
+      "filename": "七、知觉的种类.json",
+      "title": "七、知觉的种类",
+      "description": "七、知觉的种类",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 131,
+      "id": "b5fc7325c7226cf1"
     },
     {
-      "filename": "九、数据分析.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 255,
-      "id": "3fb9cec42822065b"
+      "filename": "三、调查法.json",
+      "title": "三、调查法",
+      "description": "三、调查法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 278,
+      "id": "ddf55f64f248a294"
     },
     {
-      "filename": "六、多平台引流.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 358,
-      "id": "29e1c98ba25ab06c"
+      "filename": "三、工作记忆模型.json",
+      "title": "三、工作记忆模型",
+      "description": "三、工作记忆模型",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 201,
+      "id": "903b9b862d1e336a"
     },
     {
-      "filename": "七、内容涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
-      "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
-      ],
-      "wordCount": 397,
-      "id": "7f75d0cbeb6948f0"
+      "filename": "三、韦伯定律.json",
+      "title": "三、韦伯定律",
+      "description": "三、韦伯定律",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 231,
+      "id": "fdc45ae4873ca7d5"
     },
     {
-      "filename": "三、爆款涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "思维与问题解决.json",
+      "title": "思维与问题解决专题",
+      "description": "思维的种类、表征、问题解决策略、影响因素（定势与功能固着）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "思维",
+        "问题解决",
+        "定势",
+        "功能固着",
+        "表征"
       ],
-      "wordCount": 341,
-      "id": "f803283a33849dd6"
+      "wordCount": 1435,
+      "id": "b2513731d99a2f6d"
+    },
+    {
+      "filename": "四、测验法.json",
+      "title": "四、测验法",
+      "description": "四、测验法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 184,
+      "id": "685bf7590447b77a"
+    },
+    {
+      "filename": "四、费希纳定律（对数定律）.json",
+      "title": "四、费希纳定律（对数定律）",
+      "description": "四、费希纳定律（对数定律）",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 105,
+      "id": "dd932e31953ab43a"
+    },
+    {
+      "filename": "四、遗忘规律.json",
+      "title": "四、遗忘规律",
+      "description": "四、遗忘规律",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 202,
+      "id": "5b389d479c6166f8"
+    },
+    {
+      "filename": "五、个案法.json",
+      "title": "五、个案法",
+      "description": "五、个案法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 103,
+      "id": "e5b408c26cf6468e"
+    },
+    {
+      "filename": "五、遗忘的原因.json",
+      "title": "五、遗忘的原因",
+      "description": "五、遗忘的原因",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 317,
+      "id": "e6db170f684cb32f"
+    },
+    {
+      "filename": "五、知觉概述.json",
+      "title": "五、知觉概述",
+      "description": "五、知觉概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 136,
+      "id": "c659224809a19c0a"
+    },
+    {
+      "filename": "心理生理基础.json",
+      "title": "心理生理基础专题",
+      "description": "神经元结构、神经系统分类、大脑皮层功能区、内分泌系统与行为",
+      "category": "心理学/基础心理学",
+      "tags": [
+        "神经元",
+        "大脑皮层",
+        "神经系统",
+        "内分泌系统"
+      ],
+      "wordCount": 1233,
+      "id": "f2e412fe55237ca5"
+    },
+    {
+      "filename": "一、感觉概述.json",
+      "title": "一、感觉概述",
+      "description": "一、感觉概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 124,
+      "id": "38ab9a2897ea1cb6"
+    },
+    {
+      "filename": "一、观察法.json",
+      "title": "一、观察法",
+      "description": "一、观察法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 240,
+      "id": "3e319e8c5fd302f6"
+    },
+    {
+      "filename": "一、记忆概述.json",
+      "title": "一、记忆概述",
+      "description": "一、记忆概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 57,
+      "id": "d2cbef5b1fddad78"
+    },
+    {
+      "filename": "注意品质与分类.json",
+      "title": "注意品质与分类专题",
+      "description": "无意注意、有意注意、有意后注意；注意的四种品质（广度、稳定性、分配、转移）",
+      "category": "心理学/基础心理学",
+      "tags": [
+        "注意",
+        "注意分类",
+        "注意品质",
+        "无意注意",
+        "有意注意"
+      ],
+      "wordCount": 1042,
+      "id": "8a74799c73e25f42"
+    },
+    {
+      "filename": "情绪调节与情商.json",
+      "title": "情绪调节与情商专题",
+      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
+      "category": "心理学/情绪心理学",
+      "tags": [
+        "情绪调节",
+        "情商",
+        "Gross模型",
+        "Goleman"
+      ],
+      "wordCount": 1222,
+      "id": "5816314001b8e360"
     }
   ]
 }

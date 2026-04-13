@@ -1,187 +1,252 @@
 {
   "page": 32,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
     {
-      "filename": "八、悲伤中的成长.json",
-      "title": "八、悲伤中的成长",
-      "description": "八、悲伤中的成长",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 271,
-      "id": "869d518749f3627a"
+      "filename": "药事法规.json",
+      "title": "药事法规",
+      "description": "药事法规的基本内容和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药事法规"
+      ],
+      "wordCount": 1102,
+      "id": "96e5785a6604edbe"
     },
     {
-      "filename": "八、每天的自我接纳练习.json",
-      "title": "八、每天的自我接纳练习",
-      "description": "八、每天的自我接纳练习",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 247,
-      "id": "87cb947632bfc034"
+      "filename": "药物分析.json",
+      "title": "药物分析",
+      "description": "药物分析的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物分析"
+      ],
+      "wordCount": 687,
+      "id": "f827d9c6e100d0c6"
     },
     {
-      "filename": "八、什么时候需要专业帮助.json",
-      "title": "八、什么时候需要专业帮助",
-      "description": "八、什么时候需要专业帮助",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 256,
-      "id": "7cdbea5cfcf49797"
+      "filename": "药物化学.json",
+      "title": "药物化学",
+      "description": "药物化学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物化学"
+      ],
+      "wordCount": 712,
+      "id": "283f7d749ab0a9bd"
     },
     {
-      "filename": "八、与焦虑共处.json",
-      "title": "八、与焦虑共处",
-      "description": "八、与焦虑共处",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 277,
-      "id": "f939fdb17c4fffb5"
+      "filename": "药物流行病学.json",
+      "title": "药物流行病学",
+      "description": "药物流行病学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物流行病学"
+      ],
+      "wordCount": 785,
+      "id": "479906c22a84c019"
     },
     {
-      "filename": "八、执行清单.json",
-      "title": "八、执行清单",
-      "description": "八、执行清单",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 77,
-      "id": "1f6a2fd0a66f724c"
+      "filename": "药物信息学.json",
+      "title": "药物信息学",
+      "description": "药物信息学的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物信息学"
+      ],
+      "wordCount": 627,
+      "id": "ec33fb671d75b331"
     },
     {
-      "filename": "二、愤怒的触发因素.json",
-      "title": "二、愤怒的触发因素",
-      "description": "二、愤怒的触发因素",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 263,
-      "id": "ab21af7d1491ca07"
+      "filename": "药学综合知识.json",
+      "title": "药学综合知识",
+      "description": "药学综合知识的核心内容和实践应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药学综合知识"
+      ],
+      "wordCount": 751,
+      "id": "744569747e72cf13"
     },
     {
-      "filename": "二、焦虑的类型.json",
-      "title": "二、焦虑的类型",
-      "description": "二、焦虑的类型",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 267,
-      "id": "e2cf7e1ead8e1b78"
+      "filename": "用药安全.json",
+      "title": "用药安全",
+      "description": "用药安全的重要性、常见问题和防范措施",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "用药安全"
+      ],
+      "wordCount": 1386,
+      "id": "5026e3c2e834005f"
     },
     {
-      "filename": "二、为什么不接纳自己.json",
-      "title": "二、为什么不接纳自己",
-      "description": "二、为什么不接纳自己",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 324,
-      "id": "bef3800b99ba7aa6"
+      "filename": "核心考点.json",
+      "title": "执业药师核心考点",
+      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
+      "category": "执业药师",
+      "tags": [
+        "药师",
+        "药学",
+        "法规"
+      ],
+      "wordCount": 2516,
+      "id": "1ad4d4522a1af0f5"
     },
     {
-      "filename": "二、为什么会拖延.json",
-      "title": "二、为什么会拖延",
-      "description": "二、为什么会拖延",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 338,
-      "id": "89e67a1d71cb9021"
+      "filename": "执业药师职业发展.json",
+      "title": "执业药师职业发展",
+      "description": "执业药师的职业发展路径、能力要求和发展策略",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "职业发展"
+      ],
+      "wordCount": 966,
+      "id": "b9eedacd274ec4f7"
     },
     {
-      "filename": "二、压力的影响.json",
-      "title": "二、压力的影响",
-      "description": "二、压力的影响",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 206,
-      "id": "3ad2754e81c0b909"
+      "filename": "中药药理学.json",
+      "title": "中药药理学",
+      "description": "中药药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "中药药理学"
+      ],
+      "wordCount": 830,
+      "id": "9b066dbcc5222aa4"
     },
     {
-      "filename": "二、正常悲伤 vs 复杂性悲伤.json",
-      "title": "二、正常悲伤 vs 复杂性悲伤",
-      "description": "二、正常悲伤 vs 复杂性悲伤",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 240,
-      "id": "44fbaecf0debb12e"
+      "filename": "打造个人品牌的实用攻略_从0到1建立影响力资产.json",
+      "title": "打造个人品牌的实用攻略：从0到1建立影响力资产",
+      "description": "打造个人品牌的实用攻略：从0到1建立影响力资产的核心知识点汇总",
+      "category": "职场生存/个人品牌",
+      "tags": [
+        "个人品牌",
+        "IP",
+        "影响力"
+      ],
+      "wordCount": 2991,
+      "id": "07f49de7bf796592"
     },
     {
-      "filename": "九、常见问题.json",
-      "title": "九、常见问题",
-      "description": "九、常见问题",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 163,
-      "id": "0905fd1a2a689a25"
+      "filename": "个人品牌定位与变现_细分赛道选择与价值打造.json",
+      "title": "个人品牌定位与变现：细分赛道选择与价值打造",
+      "description": "个人品牌定位与变现：细分赛道选择与价值打造的核心知识点汇总",
+      "category": "职场生存/个人品牌",
+      "tags": [
+        "个人品牌",
+        "IP",
+        "影响力"
+      ],
+      "wordCount": 6630,
+      "id": "08f76f2d89263def"
     },
     {
-      "filename": "九、建立抗压能力.json",
-      "title": "九、建立抗压能力",
-      "description": "九、建立抗压能力",
-      "category": "职场生存/情绪与压力",
+      "filename": "八、维权小贴士.json",
+      "title": "八、维权小贴士",
+      "description": "八、维权小贴士",
+      "category": "职场生存/劳动权益",
       "tags": [],
-      "wordCount": 268,
-      "id": "161e9fe830c8727e"
+      "wordCount": 160,
+      "id": "972987ae15fc8708"
     },
     {
-      "filename": "九、什么时候需要寻求帮助.json",
-      "title": "九、什么时候需要寻求帮助",
-      "description": "九、什么时候需要寻求帮助",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 248,
-      "id": "511404015fdb3556"
+      "filename": "保密条款与知识产权归属.json",
+      "title": "保密条款与知识产权归属",
+      "description": "保密条款与知识产权归属",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "劳动合同",
+        "合同陷阱",
+        "职场法律",
+        "劳动权益",
+        "合同条款"
+      ],
+      "wordCount": 276,
+      "id": "82cc35c1cf010a39"
     },
     {
-      "filename": "九、执行清单.json",
-      "title": "九、执行清单",
-      "description": "九、执行清单",
-      "category": "职场生存/情绪与压力",
+      "filename": "二、签约阶段.json",
+      "title": "二、签约阶段",
+      "description": "二、签约阶段",
+      "category": "职场生存/劳动权益",
       "tags": [],
-      "wordCount": 82,
-      "id": "314f8cb8744c2732"
+      "wordCount": 401,
+      "id": "8461d723a2331719"
     },
     {
-      "filename": "六、常见问题.json",
-      "title": "六、常见问题",
-      "description": "六、常见问题",
-      "category": "职场生存/情绪与压力",
+      "filename": "二、申请条件.json",
+      "title": "二、申请条件",
+      "description": "二、申请条件",
+      "category": "职场生存/劳动权益",
       "tags": [],
-      "wordCount": 170,
-      "id": "7c3e996b31f63437"
+      "wordCount": 148,
+      "id": "f8884edd5f8cb132"
     },
     {
-      "filename": "六、陪伴悲伤中的人.json",
-      "title": "六、陪伴悲伤中的人",
-      "description": "六、陪伴悲伤中的人",
-      "category": "职场生存/情绪与压力",
+      "filename": "二、N 是什么？怎么算？.json",
+      "title": "二、N 是什么？怎么算？",
+      "description": "二、N 是什么？怎么算？",
+      "category": "职场生存/劳动权益",
       "tags": [],
-      "wordCount": 253,
-      "id": "7c0fbf8d0b013776"
+      "wordCount": 409,
+      "id": "38fb7a6310ca1896"
     },
     {
-      "filename": "六、特定场景的焦虑缓解.json",
-      "title": "六、特定场景的焦虑缓解",
-      "description": "六、特定场景的焦虑缓解",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 332,
-      "id": "33c42287c705e97f"
+      "filename": "工时制度与加班费计算.json",
+      "title": "工时制度与加班费计算",
+      "description": "工时制度与加班费计算",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "劳动合同",
+        "合同陷阱",
+        "职场法律",
+        "劳动权益",
+        "合同条款"
+      ],
+      "wordCount": 657,
+      "id": "0debc9b5d8c63213"
     },
     {
-      "filename": "六、特定场景的压力应对.json",
-      "title": "六、特定场景的压力应对",
-      "description": "六、特定场景的压力应对",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 351,
-      "id": "e5c5c810ad511583"
+      "filename": "经济补偿金基础概念.json",
+      "title": "经济补偿金基础概念",
+      "description": "经济补偿金基础概念",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 200,
+      "id": "5bc9496bb71ebbb6"
     },
     {
-      "filename": "六、特殊情况处理.json",
-      "title": "六、特殊情况处理",
-      "description": "六、特殊情况处理",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 284,
-      "id": "58179b1040cac9ff"
+      "filename": "经济补偿金计算实例.json",
+      "title": "经济补偿金计算实例",
+      "description": "经济补偿金计算实例",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 708,
+      "id": "6ebe2d71766f2163"
     }
   ]
 }

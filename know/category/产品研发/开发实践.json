@@ -1,9 +1,27 @@
 {
   "meta": {
     "category": "产品研发/开发实践",
-    "count": 5
+    "count": 12
   },
   "articles": [
+    {
+      "filename": "参考资料.json",
+      "title": "参考资料",
+      "description": "参考资料",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 136,
+      "id": "12829404f8be0ee8"
+    },
+    {
+      "filename": "代码仓库.json",
+      "title": "代码仓库",
+      "description": "代码仓库",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 69,
+      "id": "c39509b014066ebd"
+    },
     {
       "filename": "二、我踩过的 10 个坑.json",
       "title": "二、我踩过的 10 个坑",
@@ -12,6 +30,24 @@
       "tags": [],
       "wordCount": 2894,
       "id": "96b0ec3664bf24a4"
+    },
+    {
+      "filename": "技术实现细节.json",
+      "title": "技术实现细节",
+      "description": "技术实现细节",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 339,
+      "id": "8a70bd27f942079b"
+    },
+    {
+      "filename": "解决方案.json",
+      "title": "解决方案",
+      "description": "解决方案",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 3044,
+      "id": "90f366c237a3b80a"
     },
     {
       "filename": "三、总结：避坑指南.json",
@@ -32,19 +68,13 @@
       "id": "ab593e16ca920e3f"
     },
     {
-      "filename": "小程序分类管理功能优化实践.json",
-      "title": "小程序分类管理功能优化实践",
-      "description": "小程序分类管理功能的优化实践，包括页面布局、拼音首字母检索、多层分类结构处理等",
+      "filename": "问题背景.json",
+      "title": "问题背景",
+      "description": "问题背景",
       "category": "产品研发/开发实践",
-      "tags": [
-        "小程序开发",
-        "分类管理",
-        "拼音检索",
-        "多层分类",
-        "移动端优化"
-      ],
-      "wordCount": 4345,
-      "id": "c10d74b001fa0bc7"
+      "tags": [],
+      "wordCount": 114,
+      "id": "9ce2f4646350f0aa"
     },
     {
       "filename": "一、为什么写这篇文章？.json",
@@ -54,6 +84,33 @@
       "tags": [],
       "wordCount": 134,
       "id": "3d2513d66383d7e2"
+    },
+    {
+      "filename": "引言.json",
+      "title": "引言",
+      "description": "引言",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 87,
+      "id": "4fdfff8f0da17668"
+    },
+    {
+      "filename": "遇到的问题及解决方案.json",
+      "title": "遇到的问题及解决方案",
+      "description": "遇到的问题及解决方案",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 304,
+      "id": "2a5ab236c8d6ea14"
+    },
+    {
+      "filename": "总结.json",
+      "title": "总结",
+      "description": "总结",
+      "category": "产品研发/开发实践",
+      "tags": [],
+      "wordCount": 238,
+      "id": "c318eea87769a5ed"
     }
   ]
 }

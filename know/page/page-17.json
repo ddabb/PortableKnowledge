@@ -1,8 +1,152 @@
 {
   "page": 17,
-  "totalPages": 40,
-  "totalItems": 789,
+  "totalPages": 43,
+  "totalItems": 857,
   "items": [
+    {
+      "filename": "三、习得性无助的形成机制.json",
+      "title": "三、习得性无助的形成机制",
+      "description": "三、习得性无助的形成机制",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 226,
+      "id": "698fd5132e930643"
+    },
+    {
+      "filename": "三、原始研究的关键发现.json",
+      "title": "三、原始研究的关键发现",
+      "description": "三、原始研究的关键发现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 313,
+      "id": "05d22f76c3d3c47c"
+    },
+    {
+      "filename": "四、经典的沉没成本实验.json",
+      "title": "四、经典的沉没成本实验",
+      "description": "四、经典的沉没成本实验",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 198,
+      "id": "7a66f69e13d64fad"
+    },
+    {
+      "filename": "四、可得性启发与可得性偏误的区别.json",
+      "title": "四、可得性启发与可得性偏误的区别",
+      "description": "四、可得性启发与可得性偏误的区别",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 168,
+      "id": "3cb639b9a152bd72"
+    },
+    {
+      "filename": "四、锚定效应的心理学机制.json",
+      "title": "四、锚定效应的心理学机制",
+      "description": "四、锚定效应的心理学机制",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 185,
+      "id": "5852e88282cee554"
+    },
+    {
+      "filename": "四、生活中的破窗效应.json",
+      "title": "四、生活中的破窗效应",
+      "description": "四、生活中的破窗效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 306,
+      "id": "b387dd47b685465b"
+    },
+    {
+      "filename": "四、生活中的认知失调.json",
+      "title": "四、生活中的认知失调",
+      "description": "四、生活中的认知失调",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 498,
+      "id": "78d6dea3e91bad89"
+    },
+    {
+      "filename": "四、损失厌恶的进化根源.json",
+      "title": "四、损失厌恶的进化根源",
+      "description": "四、损失厌恶的进化根源",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 206,
+      "id": "710411cd80a2df07"
+    },
+    {
+      "filename": "四、为什么会有邓宁-克鲁格效应.json",
+      "title": "四、为什么会有邓宁-克鲁格效应",
+      "description": "四、为什么会有邓宁-克鲁格效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 219,
+      "id": "52c696f75e1786c1"
+    },
+    {
+      "filename": "四、习得性无助在生活中的表现.json",
+      "title": "四、习得性无助在生活中的表现",
+      "description": "四、习得性无助在生活中的表现",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 182,
+      "id": "7aed38d8f7a2d7c8"
+    },
+    {
+      "filename": "五、破窗效应的正向应用.json",
+      "title": "五、破窗效应的正向应用",
+      "description": "五、破窗效应的正向应用",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 287,
+      "id": "2a33231d968e9918"
+    },
+    {
+      "filename": "五、认知失调与自我辩护.json",
+      "title": "五、认知失调与自我辩护",
+      "description": "五、认知失调与自我辩护",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 209,
+      "id": "77446a752c3e8382"
+    },
+    {
+      "filename": "五、如何对抗可得性启发.json",
+      "title": "五、如何对抗可得性启发",
+      "description": "五、如何对抗可得性启发",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 430,
+      "id": "66e1567fe8ed5148"
+    },
+    {
+      "filename": "五、如何对抗锚定效应.json",
+      "title": "五、如何对抗锚定效应",
+      "description": "五、如何对抗锚定效应",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 428,
+      "id": "5ed9880a2ab3dcb9"
+    },
+    {
+      "filename": "五、如何克服沉没成本谬误.json",
+      "title": "五、如何克服沉没成本谬误",
+      "description": "五、如何克服沉没成本谬误",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 534,
+      "id": "02db14f325f7ecca"
+    },
+    {
+      "filename": "五、如何利用损失厌恶.json",
+      "title": "五、如何利用损失厌恶",
+      "description": "五、如何利用损失厌恶",
+      "category": "认知思维/认知偏差",
+      "tags": [],
+      "wordCount": 356,
+      "id": "f1323ee60f2b87b0"
+    },
     {
       "filename": "五、生活中的邓宁-克鲁格效应.json",
       "title": "五、生活中的邓宁-克鲁格效应",
@@ -43,159 +187,6 @@
       "tags": [],
       "wordCount": 226,
       "id": "6b275cfb099fb3b7"
-    },
-    {
-      "filename": "一、起源：一个警察局局长的直觉.json",
-      "title": "一、起源：一个警察局局长的直觉",
-      "description": "一、起源：一个警察局局长的直觉",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 193,
-      "id": "677c543fa4ba3512"
-    },
-    {
-      "filename": "一、什么是沉没成本谬误.json",
-      "title": "一、什么是沉没成本谬误",
-      "description": "一、什么是沉没成本谬误",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 174,
-      "id": "f4412286524a7e40"
-    },
-    {
-      "filename": "一、什么是可得性启发.json",
-      "title": "一、什么是可得性启发",
-      "description": "一、什么是可得性启发",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 173,
-      "id": "c81e453dab1921a8"
-    },
-    {
-      "filename": "一、损失厌恶的发现.json",
-      "title": "一、损失厌恶的发现",
-      "description": "一、损失厌恶的发现",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 333,
-      "id": "4f5b75b00f904016"
-    },
-    {
-      "filename": "一、一个改变心理学的问题.json",
-      "title": "一、一个改变心理学的问题",
-      "description": "一、一个改变心理学的问题",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 201,
-      "id": "33d4221f3d54db2d"
-    },
-    {
-      "filename": "一、一个改变心理学历史的实验.json",
-      "title": "一、一个改变心理学历史的实验",
-      "description": "一、一个改变心理学历史的实验",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 240,
-      "id": "0e32d57a77d3c40d"
-    },
-    {
-      "filename": "一、一个荒谬的实验发现.json",
-      "title": "一、一个荒谬的实验发现",
-      "description": "一、一个荒谬的实验发现",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 287,
-      "id": "f6c1ed80c2778812"
-    },
-    {
-      "filename": "总结.json",
-      "title": "总结",
-      "description": "总结",
-      "category": "认知思维/认知偏差",
-      "tags": [],
-      "wordCount": 313,
-      "id": "4d8385802e3b96e3"
-    },
-    {
-      "filename": "二、核心方法论.json",
-      "title": "二、核心方法论",
-      "description": "二、核心方法论",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 627,
-      "id": "37bed835d1e8db83"
-    },
-    {
-      "filename": "决策矩阵分析法.json",
-      "title": "决策矩阵分析法",
-      "description": "通过系统化评估选项的多个维度，用加权评分做出更理性的重大决策",
-      "category": "认知思维/思维工具",
-      "tags": [
-        "决策",
-        "矩阵分析",
-        "加权评分",
-        "理性思维"
-      ],
-      "wordCount": 839,
-      "id": "c9329cb08bddeb48"
-    },
-    {
-      "filename": "六、总结.json",
-      "title": "六、总结",
-      "description": "六、总结",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 452,
-      "id": "d548e72fc9c6c2af"
-    },
-    {
-      "filename": "三、应用场景与案例.json",
-      "title": "三、应用场景与案例",
-      "description": "三、应用场景与案例",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 742,
-      "id": "c4bb2b1e6d4fa336"
-    },
-    {
-      "filename": "思维导图应用_从思考到表达的可视化工具.json",
-      "title": "思维导图应用：从思考到表达的可视化工具",
-      "description": "思维导图应用：从思考到表达的可视化工具的核心知识点汇总",
-      "category": "认知思维/思维工具",
-      "tags": [
-        "工具",
-        "可视化",
-        "思维导图"
-      ],
-      "wordCount": 1336,
-      "id": "3aa1f3c2e74dd1cb"
-    },
-    {
-      "filename": "四、操作步骤详解.json",
-      "title": "四、操作步骤详解",
-      "description": "四、操作步骤详解",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 566,
-      "id": "8e3e56e14203d0c2"
-    },
-    {
-      "filename": "五、局限性.json",
-      "title": "五、局限性",
-      "description": "",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 434,
-      "id": "085f90a6cdcd3ada"
-    },
-    {
-      "filename": "五、局限性与注意事项.json",
-      "title": "五、局限性与注意事项",
-      "description": "五、局限性与注意事项",
-      "category": "认知思维/思维工具",
-      "tags": [],
-      "wordCount": 418,
-      "id": "fa4b07945dfcf8dc"
     }
   ]
 }

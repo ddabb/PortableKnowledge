@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "申论",
-    "count": 6
+    "count": 4
   },
   "articles": [
     {
@@ -32,20 +32,6 @@
       "id": "80662090c6f5d919"
     },
     {
-      "filename": "对策建议.json",
-      "title": "对策建议",
-      "description": "",
-      "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "对策建议",
-        "解决问题",
-        "措施制定"
-      ],
-      "wordCount": 2939,
-      "id": "3b8d0537d2f4bd43"
-    },
-    {
       "filename": "归纳概括.json",
       "title": "归纳概括",
       "description": "",
@@ -58,20 +44,6 @@
       ],
       "wordCount": 121,
       "id": "27e061e7e872d489"
-    },
-    {
-      "filename": "应用文.json",
-      "title": "应用文",
-      "description": "",
-      "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "应用文",
-        "公文写作",
-        "格式规范"
-      ],
-      "wordCount": 3120,
-      "id": "35ea85e707da7a91"
     },
     {
       "filename": "综合分析.json",
