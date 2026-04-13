@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "2N",
-    "count": 2
+    "count": 12
   },
   "articles": [
     {
@@ -21,9 +21,9 @@
       "id": "0756f25d881f419e"
     },
     {
-      "filename": "severance-and-bonus.json",
-      "title": "年终奖与离职补偿",
-      "description": "详解经济补偿金N、N+1、2N的计算标准，年终奖与期权处理规则，离职时的权益清单",
+      "filename": "经济补偿金基础概念.json",
+      "title": "经济补偿金基础概念",
+      "description": "经济补偿金基础概念",
       "category": "职场生存/劳动权益",
       "tags": [
         "经济补偿",
@@ -33,8 +33,168 @@
         "N+1",
         "2N"
       ],
-      "wordCount": 6009,
-      "id": "13576302b0338b96"
+      "wordCount": 200,
+      "id": "5bc9496bb71ebbb6"
+    },
+    {
+      "filename": "经济补偿金计算实例.json",
+      "title": "经济补偿金计算实例",
+      "description": "经济补偿金计算实例",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 708,
+      "id": "6ebe2d71766f2163"
+    },
+    {
+      "filename": "经济补偿金N的计算详解.json",
+      "title": "经济补偿金N的计算详解",
+      "description": "经济补偿金N的计算详解",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 643,
+      "id": "62e227c3dda4593c"
+    },
+    {
+      "filename": "经济补偿金N的适用情形.json",
+      "title": "经济补偿金N的适用情形",
+      "description": "经济补偿金N的适用情形",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 812,
+      "id": "947ca87edbfb92e9"
+    },
+    {
+      "filename": "劳动维权途径与时效.json",
+      "title": "劳动维权途径与时效",
+      "description": "劳动维权途径与时效",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 451,
+      "id": "ced905541cd846ce"
+    },
+    {
+      "filename": "离职补偿完整总结.json",
+      "title": "离职补偿完整总结",
+      "description": "离职补偿完整总结",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 429,
+      "id": "d5ebe8d18c1c59b5"
+    },
+    {
+      "filename": "离职权益清单汇总.json",
+      "title": "离职权益清单汇总",
+      "description": "离职权益清单汇总",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 462,
+      "id": "7cfe2b6a7c64f4fb"
+    },
+    {
+      "filename": "年终奖法律问题与维权.json",
+      "title": "年终奖法律问题与维权",
+      "description": "年终奖法律问题与维权",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 711,
+      "id": "8ec45ae676387dab"
+    },
+    {
+      "filename": "期权与股权激励处理.json",
+      "title": "期权与股权激励处理",
+      "description": "期权与股权激励处理",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 580,
+      "id": "3558cbe969fd7732"
+    },
+    {
+      "filename": "违法解除赔偿金2N详解.json",
+      "title": "违法解除赔偿金2N详解",
+      "description": "违法解除赔偿金2N详解",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 726,
+      "id": "16e5e52a458788a5"
+    },
+    {
+      "filename": "N+1代通知金适用情形.json",
+      "title": "N+1代通知金适用情形",
+      "description": "N+1代通知金适用情形",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
+      ],
+      "wordCount": 605,
+      "id": "a200fef44e616fea"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "totalArticles": 705,
+    "totalArticles": 728,
     "totalCategories": 83,
     "totalTags": 1251
   },
@@ -12,6 +12,10 @@
     {
       "name": "软考/项目管理/项目整合管理",
       "count": 33
+    },
+    {
+      "name": "职场生存/劳动权益",
+      "count": 29
     },
     {
       "name": "软考/项目管理/项目进度管理",
@@ -167,10 +171,6 @@
     },
     {
       "name": "心理学/基础心理学",
-      "count": 6
-    },
-    {
-      "name": "职场生存/劳动权益",
       "count": 6
     },
     {
