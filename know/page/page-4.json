@@ -1,22 +1,8 @@
 {
   "page": 4,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
-    {
-      "filename": "项目质量管理.json",
-      "title": "项目质量管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "质量管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 199,
-      "id": "71c39f516c268fd1"
-    },
     {
       "filename": "公路工程管理与实务.json",
       "title": "公路工程管理与实务",
@@ -280,6 +266,19 @@
       ],
       "wordCount": 199,
       "id": "ef5aeb98d5443572"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "教师资格证考试核心考点",
+      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
+      "category": "教师资格证",
+      "tags": [
+        "教资",
+        "教育学",
+        "心理学"
+      ],
+      "wordCount": 3569,
+      "id": "bd7849ae8f9e3d7a"
     }
   ]
 }

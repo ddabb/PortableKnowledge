@@ -5,18 +5,23 @@
   },
   "articles": [
     {
-      "filename": "公积金提取全攻略.json",
-      "title": "公积金提取全攻略",
-      "description": "住房公积金提取条件、流程和注意事项",
+      "filename": "社保公积金使用全攻略.json",
+      "title": "社保公积金使用全攻略",
+      "description": "住房公积金提取与医疗保险报销的完整指南，涵盖提取条件、流程、注意事项及常见问题解答",
       "category": "生活通识/社保公积金",
       "tags": [
+        "社保",
         "公积金",
         "住房公积金",
+        "医保",
+        "医疗保险",
+        "报销",
         "提取",
-        "购房"
+        "购房",
+        "五险一金"
       ],
-      "wordCount": 1696,
-      "id": "09d203625e2ca62b"
+      "wordCount": 3546,
+      "id": "506269662fa83742"
     },
     {
       "filename": "social-insurance-guide.json",

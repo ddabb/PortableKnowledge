@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "战略规划",
-    "count": 2
+    "count": 1
   },
   "articles": [
     {
@@ -18,22 +18,6 @@
       ],
       "wordCount": 2715,
       "id": "fdfe3ec36c40d849"
-    },
-    {
-      "filename": "IT服务生命周期.json",
-      "title": "IT服务生命周期",
-      "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "ITSS",
-        "SDOR",
-        "战略规划",
-        "设计实现",
-        "运营提升",
-        "退役终止"
-      ],
-      "wordCount": 1009,
-      "id": "38d665afd4e8415a"
     }
   ]
 }

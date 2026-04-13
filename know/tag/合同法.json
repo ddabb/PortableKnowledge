@@ -1,23 +1,9 @@
 {
   "meta": {
     "tag": "合同法",
-    "count": 2
+    "count": 1
   },
   "articles": [
-    {
-      "filename": "合同法要点.json",
-      "title": "合同法要点",
-      "description": "软考中项合同法核心考点，包括合同的订立、履行、变更、违约责任及IT项目合同特殊条款。",
-      "category": "软考/综合知识/法律法规与标准",
-      "tags": [
-        "合同法",
-        "法律法规",
-        "中项核心",
-        "合同管理"
-      ],
-      "wordCount": 1020,
-      "id": "e4c6cd48577acb3a"
-    },
     {
       "filename": "合同法概述.json",
       "title": "合同法概述",

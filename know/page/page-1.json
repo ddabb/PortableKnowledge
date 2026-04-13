@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
     {
       "filename": "产品定位.json",
@@ -162,19 +162,6 @@
       "id": "2a42b732d44f7ca8"
     },
     {
-      "filename": "深夜写代码.json",
-      "title": "深夜写代码的人",
-      "description": "程序员深夜coding的乐趣与坚持",
-      "category": "产品研发/开发者故事",
-      "tags": [
-        "开发者",
-        "编程",
-        "程序人生"
-      ],
-      "wordCount": 1845,
-      "id": "ac4c29a019944eb9"
-    },
-    {
       "filename": "零成本开源.json",
       "title": "零成本+开源：个人开发者的组合拳",
       "description": "如何用零成本+开源打造个人产品矩阵",
@@ -269,6 +256,21 @@
       ],
       "wordCount": 4095,
       "id": "81676dc754485af1"
+    },
+    {
+      "filename": "商业计划书撰写指南.json",
+      "title": "商业计划书撰写指南",
+      "description": "从结构框架到内容策略，全面指导如何撰写一份能打动投资人和合作伙伴的高质量商业计划书",
+      "category": "创业指南/创业准备",
+      "tags": [
+        "商业计划书",
+        "BP",
+        "创业",
+        "融资",
+        "战略规划"
+      ],
+      "wordCount": 2715,
+      "id": "fdfe3ec36c40d849"
     }
   ]
 }

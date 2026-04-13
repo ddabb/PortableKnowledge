@@ -1,23 +1,8 @@
 {
   "page": 2,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
-    {
-      "filename": "商业计划书撰写指南.json",
-      "title": "商业计划书撰写指南",
-      "description": "从结构框架到内容策略，全面指导如何撰写一份能打动投资人和合作伙伴的高质量商业计划书",
-      "category": "创业指南/创业准备",
-      "tags": [
-        "商业计划书",
-        "BP",
-        "创业",
-        "融资",
-        "战略规划"
-      ],
-      "wordCount": 2715,
-      "id": "fdfe3ec36c40d849"
-    },
     {
       "filename": "个人信息保护法核心要点.json",
       "title": "个人信息保护法核心要点",
@@ -293,6 +278,20 @@
       ],
       "wordCount": 1748,
       "id": "1a1765f5f82e8c9b"
+    },
+    {
+      "filename": "个人所得税申报完全指南.json",
+      "title": "个人所得税申报完全指南",
+      "description": "个税专项附加扣除填报、年终奖计税、汇算清缴操作指南",
+      "category": "家庭理财",
+      "tags": [
+        "个人所得税",
+        "税务",
+        "省钱",
+        "汇算清缴"
+      ],
+      "wordCount": 2219,
+      "id": "313befdbd2156ccb"
     }
   ]
 }

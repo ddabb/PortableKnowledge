@@ -1,21 +1,8 @@
 {
   "page": 9,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
-    {
-      "filename": "课程理论与实践.json",
-      "title": "课程理论与实践",
-      "description": "",
-      "category": "考研专业课/教育学专业基础综合",
-      "tags": [
-        "教育学",
-        "课程",
-        "考研"
-      ],
-      "wordCount": 555,
-      "id": "66fc11554d006482"
-    },
     {
       "filename": "外国教育史概述.json",
       "title": "外国教育史概述",
@@ -80,6 +67,20 @@
       ],
       "wordCount": 373,
       "id": "4c97f0f84e412346"
+    },
+    {
+      "filename": "心理学备考综合指南.json",
+      "title": "心理学备考综合指南",
+      "description": "心理学高频考点速查表、计算题公式汇总、简答论述答题模板、备考策略",
+      "category": "考研专业课/心理学备考",
+      "tags": [
+        "心理学备考",
+        "高频考点",
+        "计算公式",
+        "答题模板"
+      ],
+      "wordCount": 2110,
+      "id": "f964c9fe63d8c5c3"
     },
     {
       "filename": "绩效管理.json",

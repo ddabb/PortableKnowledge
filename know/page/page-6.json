@@ -1,21 +1,8 @@
 {
   "page": 6,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
-    {
-      "filename": "幼儿社会性发展.json",
-      "title": "幼儿社会性发展",
-      "description": "",
-      "category": "教师资格证/幼儿",
-      "tags": [
-        "社会性发展",
-        "幼儿社会",
-        "教资"
-      ],
-      "wordCount": 3897,
-      "id": "1af5319899764194"
-    },
     {
       "filename": "幼儿艺术教育.json",
       "title": "幼儿艺术教育",
@@ -264,6 +251,20 @@
       ],
       "wordCount": 816,
       "id": "80ba64830a2d44a1"
+    },
+    {
+      "filename": "非形式逻辑.json",
+      "title": "非形式逻辑",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "逻辑",
+        "非形式逻辑",
+        "考研"
+      ],
+      "wordCount": 669,
+      "id": "ec71a12e2ef3cabc"
     }
   ]
 }

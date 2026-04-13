@@ -1,269 +1,282 @@
 {
   "page": 21,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
     {
-      "filename": "焦点小组.json",
-      "title": "焦点小组完全指南",
-      "description": "焦点小组的定义、优势、准备工作、主持技巧和结果分析",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "物权法概述.json",
+      "title": "物权法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "数据收集",
-        "焦点小组",
-        "用户研究",
-        "小组讨论"
+        "物权法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1881,
-      "id": "1dd9f21d6057f4f4"
+      "wordCount": 227,
+      "id": "fcba634f56916172"
     },
     {
-      "filename": "联合应用设计或开发.json",
-      "title": "联合应用设计或开发",
-      "description": "联合应用设计或开发 JAD 会议适用于软件开发行业。这种研讨会注重把业务主题专家和开发团队集中在一起，以收集需求和改进软件开发过程。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "证券法概述.json",
+      "title": "证券法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "人际关系与团队技能"
+        "证券法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 64,
-      "id": "e307f585652ce8e2"
+      "wordCount": 281,
+      "id": "50fe1fd4db5165f0"
     },
     {
-      "filename": "名义小组技术.json",
-      "title": "名义小组技术完全指南",
-      "description": "名义小组技术的定义、实施步骤、优缺点和应用场景",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "知识产权法律制度概述.json",
+      "title": "知识产权法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "人际关系与团队技能",
-        "名义小组技术",
-        "决策工具",
-        "头脑风暴"
+        "知识产权法律制度",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 2882,
-      "id": "e1a056cecb167c5e"
+      "wordCount": 264,
+      "id": "8efeb824fe4f7d9a"
     },
     {
-      "filename": "亲和图.json",
-      "title": "亲和图",
-      "description": "一种用于组织和分析大量创意或信息的技术，通过分组整理以便进一步审查和分析。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "采购与付款循环审计.json",
+      "title": "采购与付款循环审计",
+      "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
       "tags": [
-        "数据表现",
-        "项目管理",
-        "质量管理"
+        "CPA",
+        "审计",
+        "采购与付款循环",
+        "内部控制"
       ],
-      "wordCount": 1490,
-      "id": "2778377756582ebd"
+      "wordCount": 1060,
+      "id": "5e0a4dc4e760fc53"
     },
     {
-      "filename": "思维导图.json",
-      "title": "思维导图",
-      "description": "把从头脑风暴中获得的创意整合成一张图，用以反映创意之间的共性与差异，激发新创意。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "风险评估.json",
+      "title": "风险评估",
+      "description": "CPA审计风险评估章节核心知识点，包括风险评估程序和重大错报风险评估",
+      "category": "注册会计师/审计",
       "tags": [
-        "数据表现"
+        "CPA",
+        "审计",
+        "风险评估",
+        "重大错报风险"
       ],
-      "wordCount": 40,
-      "id": "5eeefa24c55d2ad5"
+      "wordCount": 925,
+      "id": "05e487191787af09"
     },
     {
-      "filename": "统计抽样.json",
-      "title": "统计抽样",
-      "description": "统计抽样是指从目标总体中选取部分样本用于检查（如从 75 张工程图纸中随机抽取10 张）。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "会计师事务所质量控制.json",
+      "title": "会计师事务所质量控制",
+      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
+      "category": "注册会计师/审计",
       "tags": [
-        "数据收集"
+        "CPA",
+        "审计",
+        "质量控制",
+        "要素程序"
       ],
-      "wordCount": 78,
-      "id": "90e7eee2b90850f3"
+      "wordCount": 1634,
+      "id": "6382ed54c5889567"
     },
     {
-      "filename": "头脑风暴.json",
-      "title": "头脑风暴完全指南",
-      "description": "头脑风暴的核心方法、流程、技巧与常见误区",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "货币资金审计.json",
+      "title": "货币资金审计",
+      "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
+      "category": "注册会计师/审计",
       "tags": [
-        "数据收集",
-        "头脑风暴",
-        "创意",
-        "会议"
+        "CPA",
+        "审计",
+        "货币资金",
+        "内部控制"
       ],
-      "wordCount": 1194,
-      "id": "913b8543d21f1108"
+      "wordCount": 784,
+      "id": "bd85c1e789684a32"
     },
     {
-      "filename": "投票.json",
-      "title": "投票完全指南",
-      "description": "投票的定义、类型、实施方法和在项目管理中的应用",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "内部控制审计.json",
+      "title": "内部控制审计",
+      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
+      "category": "注册会计师/审计",
       "tags": [
-        "决策",
-        "投票",
-        "共识",
-        "团队决策"
+        "CPA",
+        "审计",
+        "内部控制审计",
+        "内部控制"
       ],
-      "wordCount": 1310,
-      "id": "eca1be53e721daa8"
+      "wordCount": 1156,
+      "id": "85b4de9995f649ea"
     },
     {
-      "filename": "问卷调查.json",
-      "title": "问卷调查",
-      "description": "问卷调查是指设计一系列书面问题，向众多受访者快速收集信息。问卷调查方法非常适用于以下情况：受众多样化，需要快速完成调查，受访者地理位置分散，并且适合开展统计分析。可用于在部署产品或服务之后收集关于客户...",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "审计报告.json",
+      "title": "审计报告",
+      "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
+      "category": "注册会计师/审计",
       "tags": [
-        "数据收集"
+        "CPA",
+        "审计",
+        "审计报告",
+        "审计意见"
       ],
-      "wordCount": 156,
-      "id": "b20cf68b7c8f9fe2"
+      "wordCount": 1485,
+      "id": "201dbca9f226ac57"
     },
     {
-      "filename": "引导.json",
-      "title": "引导",
-      "description": "引导是指有效引导团队活动成功以达成决定、解决方案或结论的能力。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "审计抽样.json",
+      "title": "审计抽样",
+      "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
+      "category": "注册会计师/审计",
       "tags": [
-        "人际关系与团队技能"
+        "CPA",
+        "审计",
+        "审计抽样",
+        "抽样方法"
       ],
-      "wordCount": 99,
-      "id": "4f37d4cbc7ffb497"
+      "wordCount": 843,
+      "id": "b7a7524c3b959377"
     },
     {
-      "filename": "质量功能展开.json",
-      "title": "质量功能展开完全指南",
-      "description": "QFD质量屋的原理、构建步骤、软件开发中的应用和实施要点",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "审计概述.json",
+      "title": "审计概述",
+      "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
+      "category": "注册会计师/审计",
       "tags": [
-        "人际关系与团队技能",
-        "质量功能展开",
-        "QFD",
-        "需求分析",
-        "质量规划"
+        "CPA",
+        "审计",
+        "审计概述",
+        "审计特征"
       ],
-      "wordCount": 2988,
-      "id": "adf996186008b004"
+      "wordCount": 1070,
+      "id": "7a8da7e20b2b1e63"
     },
     {
-      "filename": "网络图与关键路径计算.json",
-      "title": "网络图与关键路径计算",
-      "description": "软考中项必考计算——网络图分析、关键路径法（CPM）及各节点时间参数计算方法与例题。",
-      "category": "软考/综合知识/计算题专项",
+      "filename": "审计工作底稿.json",
+      "title": "审计工作底稿",
+      "description": "CPA审计审计工作底稿章节核心知识点，包括审计工作底稿的编制和管理",
+      "category": "注册会计师/审计",
       "tags": [
-        "网络图",
-        "关键路径",
-        "CPM",
-        "计算题"
+        "CPA",
+        "审计",
+        "审计工作底稿",
+        "编制管理"
       ],
-      "wordCount": 1130,
-      "id": "31c4b9b088ef715f"
+      "wordCount": 1329,
+      "id": "6a3934d6df0f2af4"
     },
     {
-      "filename": "挣值分析计算专项.json",
-      "title": "挣值分析计算专项",
-      "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
-      "category": "软考/综合知识/计算题专项",
+      "filename": "审计计划.json",
+      "title": "审计计划",
+      "description": "CPA审计审计计划章节核心知识点，包括总体审计策略和具体审计计划",
+      "category": "注册会计师/审计",
       "tags": [
-        "挣值分析",
-        "EVM",
-        "计算题",
-        "中项核心"
+        "CPA",
+        "审计",
+        "审计计划",
+        "总体审计策略"
       ],
-      "wordCount": 1240,
-      "id": "261aaa76fbd66b9b"
+      "wordCount": 969,
+      "id": "f842f0242988dace"
     },
     {
-      "filename": "PERT估算与其他计算专项.json",
-      "title": "PERT估算与其他计算专项",
-      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
-      "category": "软考/综合知识/计算题专项",
+      "filename": "审计证据.json",
+      "title": "审计证据",
+      "description": "CPA审计审计证据章节核心知识点，包括审计证据的性质、获取方法和评价",
+      "category": "注册会计师/审计",
       "tags": [
-        "PERT",
-        "三点估算",
-        "计算题",
-        "中项核心"
+        "CPA",
+        "审计",
+        "审计证据",
+        "审计程序"
       ],
-      "wordCount": 1298,
-      "id": "9b2fbbd00f6b1f16"
+      "wordCount": 976,
+      "id": "6286087c31894704"
     },
     {
-      "filename": "软考中项案例分析答题框架.json",
-      "title": "软考中项案例分析答题框架",
-      "description": "系统梳理案例分析各类题型的万能答题框架、常见失分原因、标准化答题步骤，配套各知识域典型案例答题模板，助你高效拿下案例分析。",
-      "category": "软考/综合知识/软考备考",
+      "filename": "生产与存货循环审计.json",
+      "title": "生产与存货循环审计",
+      "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
       "tags": [
-        "案例分析",
-        "答题框架",
-        "万能模板",
-        "应试技巧"
+        "CPA",
+        "审计",
+        "生产与存货循环",
+        "内部控制"
       ],
-      "wordCount": 6777,
-      "id": "9534a6bb08b66667"
+      "wordCount": 964,
+      "id": "facd964c35ef171a"
     },
     {
-      "filename": "数据流向图.json",
-      "title": "数据流向图",
-      "description": "数据流向图（DFD）的概念、组成元素与绘制要点",
-      "category": "软考/综合知识/数据流向图",
-      "tags": [],
-      "wordCount": 288,
-      "id": "c33b6fbcde05c601"
-    },
-    {
-      "filename": "安全架构.json",
-      "title": "安全架构",
-      "description": "信息安全架构设计",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "特殊项目审计.json",
+      "title": "特殊项目审计",
+      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
+      "category": "注册会计师/审计",
       "tags": [
-        "安全架构",
-        "WPDRRC",
-        "信息安全",
-        "威胁防护",
-        "安全体系"
+        "CPA",
+        "审计",
+        "特殊项目",
+        "舞弊风险"
+      ],
+      "wordCount": 1074,
+      "id": "ad003efcd7a46dec"
+    },
+    {
+      "filename": "销售与收款循环审计.json",
+      "title": "销售与收款循环审计",
+      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "销售与收款循环",
+        "内部控制"
       ],
       "wordCount": 1067,
-      "id": "c7cce54551349698"
+      "id": "883f48c880c7679e"
     },
     {
-      "filename": "存储与备份技术.json",
-      "title": "存储与备份技术",
-      "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "注册会计师职业道德.json",
+      "title": "注册会计师职业道德",
+      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
+      "category": "注册会计师/审计",
       "tags": [
-        "存储技术",
-        "RAID",
-        "备份",
-        "系统集成"
+        "CPA",
+        "审计",
+        "职业道德",
+        "基本原则"
       ],
-      "wordCount": 982,
-      "id": "df35da523c5af5d5"
+      "wordCount": 1126,
+      "id": "a1173c0d033fea11"
     },
     {
-      "filename": "访问控制.json",
-      "title": "访问控制",
-      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "车船税.json",
+      "title": "车船税",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "访问控制",
-        "DAC",
-        "MAC",
-        "RBAC",
-        "ABAC"
+        "车船税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 1481,
-      "id": "a4acf88dba3cb424"
+      "wordCount": 419,
+      "id": "f18e2515104afc66"
     },
     {
-      "filename": "计算机网络基础.json",
-      "title": "计算机网络基础",
-      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "房产税.json",
+      "title": "房产税",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "网络基础",
-        "OSI模型",
-        "TCP-IP协议",
-        "系统集成"
+        "房产税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 1085,
-      "id": "9b3e767751872604"
+      "wordCount": 286,
+      "id": "877daef2d9bb5f59"
     }
   ]
 }

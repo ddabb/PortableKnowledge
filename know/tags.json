@@ -1,23 +1,11 @@
 {
   "meta": {
-    "totalTags": 1251
+    "totalTags": 909
   },
   "tags": [
     {
-      "name": "规划过程组",
-      "count": 93
-    },
-    {
       "name": "CPA",
       "count": 88
-    },
-    {
-      "name": "PMP",
-      "count": 59
-    },
-    {
-      "name": "项目管理",
-      "count": 53
     },
     {
       "name": "考研",
@@ -26,14 +14,6 @@
     {
       "name": "建造师",
       "count": 34
-    },
-    {
-      "name": "执行过程组",
-      "count": 31
-    },
-    {
-      "name": "监控过程组",
-      "count": 28
     },
     {
       "name": "中级经济师",
@@ -68,6 +48,10 @@
       "count": 15
     },
     {
+      "name": "项目管理",
+      "count": 15
+    },
+    {
       "name": "财务成本管理",
       "count": 15
     },
@@ -82,10 +66,6 @@
     {
       "name": "执业药师",
       "count": 14
-    },
-    {
-      "name": "风险管理",
-      "count": 13
     },
     {
       "name": "管理类联考",
@@ -136,10 +116,6 @@
       "count": 12
     },
     {
-      "name": "基本要素",
-      "count": 12
-    },
-    {
       "name": "经济学基础",
       "count": 12
     },
@@ -156,20 +132,8 @@
       "count": 11
     },
     {
-      "name": "启动过程组",
-      "count": 11
-    },
-    {
-      "name": "软考备考",
-      "count": 11
-    },
-    {
       "name": "期权",
       "count": 11
-    },
-    {
-      "name": "成本管理",
-      "count": 10
     },
     {
       "name": "心理学",
@@ -180,51 +144,7 @@
       "count": 9
     },
     {
-      "name": "规划采购管理",
-      "count": 9
-    },
-    {
-      "name": "采购管理",
-      "count": 9
-    },
-    {
-      "name": "项目管理知识体系",
-      "count": 9
-    },
-    {
-      "name": "制定进度计划",
-      "count": 9
-    },
-    {
-      "name": "中项核心",
-      "count": 9
-    },
-    {
-      "name": "案例分析",
-      "count": 7
-    },
-    {
       "name": "数据结构",
-      "count": 7
-    },
-    {
-      "name": "决策",
-      "count": 7
-    },
-    {
-      "name": "制定预算",
-      "count": 7
-    },
-    {
-      "name": "实施整体变更控制",
-      "count": 7
-    },
-    {
-      "name": "制定项目章程",
-      "count": 7
-    },
-    {
-      "name": "数据收集",
       "count": 7
     },
     {
@@ -244,47 +164,11 @@
       "count": 6
     },
     {
-      "name": "法律法规",
-      "count": 6
-    },
-    {
-      "name": "沟通管理",
+      "name": "案例分析",
       "count": 6
     },
     {
       "name": "计算机网络",
-      "count": 6
-    },
-    {
-      "name": "绩效管理",
-      "count": 6
-    },
-    {
-      "name": "估算活动持续时间",
-      "count": 6
-    },
-    {
-      "name": "干系人管理",
-      "count": 6
-    },
-    {
-      "name": "指导与管理项目工作",
-      "count": 6
-    },
-    {
-      "name": "配置管理",
-      "count": 6
-    },
-    {
-      "name": "获取资源",
-      "count": 6
-    },
-    {
-      "name": "人际关系与团队技能",
-      "count": 6
-    },
-    {
-      "name": "指南的组成部分",
       "count": 6
     },
     {
@@ -304,14 +188,6 @@
       "count": 5
     },
     {
-      "name": "质量管理",
-      "count": 5
-    },
-    {
-      "name": "PMBOK",
-      "count": 5
-    },
-    {
       "name": "数学",
       "count": 5
     },
@@ -322,38 +198,6 @@
     {
       "name": "人力资源",
       "count": 5
-    },
-    {
-      "name": "收集需求",
-      "count": 5
-    },
-    {
-      "name": "规划风险应对",
-      "count": 5
-    },
-    {
-      "name": "排列活动顺序",
-      "count": 5
-    },
-    {
-      "name": "执行整合",
-      "count": 5
-    },
-    {
-      "name": "规划资源管理",
-      "count": 5
-    },
-    {
-      "name": "系统集成",
-      "count": 5
-    },
-    {
-      "name": "项目管理商业文件",
-      "count": 5
-    },
-    {
-      "name": "数据分析",
-      "count": 4
     },
     {
       "name": "企业所得税",
@@ -369,46 +213,6 @@
     },
     {
       "name": "逻辑",
-      "count": 4
-    },
-    {
-      "name": "实施采购",
-      "count": 4
-    },
-    {
-      "name": "识别风险",
-      "count": 4
-    },
-    {
-      "name": "定义活动",
-      "count": 4
-    },
-    {
-      "name": "项目经理的影响力范围",
-      "count": 4
-    },
-    {
-      "name": "监控项目工作",
-      "count": 4
-    },
-    {
-      "name": "收尾过程组",
-      "count": 4
-    },
-    {
-      "name": "规划质量管理",
-      "count": 4
-    },
-    {
-      "name": "管理质量",
-      "count": 4
-    },
-    {
-      "name": "估算活动资源",
-      "count": 4
-    },
-    {
-      "name": "指南概述和目的",
       "count": 4
     },
     {
@@ -440,19 +244,11 @@
       "count": 3
     },
     {
-      "name": "信息安全",
-      "count": 3
-    },
-    {
       "name": "职场",
       "count": 3
     },
     {
       "name": "法规",
-      "count": 3
-    },
-    {
-      "name": "安全管理",
       "count": 3
     },
     {
@@ -492,51 +288,7 @@
       "count": 3
     },
     {
-      "name": "控制采购",
-      "count": 3
-    },
-    {
-      "name": "定义范围",
-      "count": 3
-    },
-    {
-      "name": "创建WBS",
-      "count": 3
-    },
-    {
-      "name": "规划范围管理",
-      "count": 3
-    },
-    {
-      "name": "结束项目或阶段",
-      "count": 3
-    },
-    {
-      "name": "控制质量",
-      "count": 3
-    },
-    {
-      "name": "建设团队",
-      "count": 3
-    },
-    {
-      "name": "计算题",
-      "count": 3
-    },
-    {
-      "name": "SOA",
-      "count": 3
-    },
-    {
-      "name": "软件开发",
-      "count": 3
-    },
-    {
-      "name": "数字化转型",
-      "count": 3
-    },
-    {
-      "name": "数字中国",
+      "name": "决策",
       "count": 3
     },
     {
@@ -580,6 +332,10 @@
       "count": 2
     },
     {
+      "name": "数据分析",
+      "count": 2
+    },
+    {
       "name": "开源",
       "count": 2
     },
@@ -604,10 +360,6 @@
       "count": 2
     },
     {
-      "name": "战略规划",
-      "count": 2
-    },
-    {
       "name": "家庭暴力",
       "count": 2
     },
@@ -625,6 +377,10 @@
     },
     {
       "name": "机电工程",
+      "count": 2
+    },
+    {
+      "name": "法律法规",
       "count": 2
     },
     {
@@ -648,11 +404,23 @@
       "count": 2
     },
     {
+      "name": "安全管理",
+      "count": 2
+    },
+    {
+      "name": "成本管理",
+      "count": 2
+    },
+    {
       "name": "进度管理",
       "count": 2
     },
     {
-      "name": "合同管理",
+      "name": "质量管理",
+      "count": 2
+    },
+    {
+      "name": "风险管理",
       "count": 2
     },
     {
@@ -720,14 +488,6 @@
       "count": 2
     },
     {
-      "name": "网络层",
-      "count": 2
-    },
-    {
-      "name": "应用层",
-      "count": 2
-    },
-    {
       "name": "职业发展",
       "count": 2
     },
@@ -741,14 +501,6 @@
     },
     {
       "name": "行为经济学",
-      "count": 2
-    },
-    {
-      "name": "决策工具",
-      "count": 2
-    },
-    {
-      "name": "团队决策",
       "count": 2
     },
     {
@@ -768,170 +520,6 @@
       "count": 2
     },
     {
-      "name": "规划成本管理",
-      "count": 2
-    },
-    {
-      "name": "控制成本",
-      "count": 2
-    },
-    {
-      "name": "WBS",
-      "count": 2
-    },
-    {
-      "name": "确认范围",
-      "count": 2
-    },
-    {
-      "name": "实施定性风险分析",
-      "count": 2
-    },
-    {
-      "name": "规划沟通管理",
-      "count": 2
-    },
-    {
-      "name": "规划进度管理",
-      "count": 2
-    },
-    {
-      "name": "控制进度",
-      "count": 2
-    },
-    {
-      "name": "敏捷",
-      "count": 2
-    },
-    {
-      "name": "项目立项",
-      "count": 2
-    },
-    {
-      "name": "可行性研究",
-      "count": 2
-    },
-    {
-      "name": "信息系统监理",
-      "count": 2
-    },
-    {
-      "name": "相关方",
-      "count": 2
-    },
-    {
-      "name": "管理相关方参与",
-      "count": 2
-    },
-    {
-      "name": "规划相关方参与",
-      "count": 2
-    },
-    {
-      "name": "识别相关方",
-      "count": 2
-    },
-    {
-      "name": "组织系统",
-      "count": 2
-    },
-    {
-      "name": "组织结构类型",
-      "count": 2
-    },
-    {
-      "name": "组织过程资产",
-      "count": 2
-    },
-    {
-      "name": "绩效指标",
-      "count": 2
-    },
-    {
-      "name": "管理项目知识",
-      "count": 2
-    },
-    {
-      "name": "制定项目管理计划",
-      "count": 2
-    },
-    {
-      "name": "合同法",
-      "count": 2
-    },
-    {
-      "name": "数据安全",
-      "count": 2
-    },
-    {
-      "name": "职业道德",
-      "count": 2
-    },
-    {
-      "name": "沟通",
-      "count": 2
-    },
-    {
-      "name": "需求获取",
-      "count": 2
-    },
-    {
-      "name": "头脑风暴",
-      "count": 2
-    },
-    {
-      "name": "数据表现",
-      "count": 2
-    },
-    {
-      "name": "需求分析",
-      "count": 2
-    },
-    {
-      "name": "数据集成",
-      "count": 2
-    },
-    {
-      "name": "数据仓库",
-      "count": 2
-    },
-    {
-      "name": "网络安全",
-      "count": 2
-    },
-    {
-      "name": "信息系统",
-      "count": 2
-    },
-    {
-      "name": "虚拟化",
-      "count": 2
-    },
-    {
-      "name": "IaaS",
-      "count": 2
-    },
-    {
-      "name": "ITSS",
-      "count": 2
-    },
-    {
-      "name": "软件测试",
-      "count": 2
-    },
-    {
-      "name": "数据挖掘",
-      "count": 2
-    },
-    {
-      "name": "过程组",
-      "count": 2
-    },
-    {
-      "name": "信息与信息化",
-      "count": 2
-    },
-    {
       "name": "诈骗",
       "count": 2
     },
@@ -944,11 +532,15 @@
       "count": 2
     },
     {
+      "name": "社保",
+      "count": 2
+    },
+    {
       "name": "公积金",
       "count": 2
     },
     {
-      "name": "社保",
+      "name": "五险一金",
       "count": 2
     },
     {
@@ -1048,19 +640,19 @@
       "count": 2
     },
     {
-      "name": "战略管理",
-      "count": 2
-    },
-    {
-      "name": "战略实施",
-      "count": 2
-    },
-    {
       "name": "金融市场",
       "count": 2
     },
     {
       "name": "招聘与配置",
+      "count": 2
+    },
+    {
+      "name": "战略管理",
+      "count": 2
+    },
+    {
+      "name": "战略实施",
       "count": 2
     },
     {
@@ -1208,18 +800,6 @@
       "count": 1
     },
     {
-      "name": "开发者",
-      "count": 1
-    },
-    {
-      "name": "编程",
-      "count": 1
-    },
-    {
-      "name": "程序人生",
-      "count": 1
-    },
-    {
       "name": "零成本",
       "count": 1
     },
@@ -1292,11 +872,19 @@
       "count": 1
     },
     {
+      "name": "战略规划",
+      "count": 1
+    },
+    {
       "name": "个人信息",
       "count": 1
     },
     {
       "name": "隐私权",
+      "count": 1
+    },
+    {
+      "name": "信息安全",
       "count": 1
     },
     {
@@ -1596,6 +1184,18 @@
       "count": 1
     },
     {
+      "name": "PMBOK",
+      "count": 1
+    },
+    {
+      "name": "沟通管理",
+      "count": 1
+    },
+    {
+      "name": "合同管理",
+      "count": 1
+    },
+    {
       "name": "收尾管理",
       "count": 1
     },
@@ -1800,6 +1400,10 @@
       "count": 1
     },
     {
+      "name": "网络层",
+      "count": 1
+    },
+    {
       "name": "文件管理",
       "count": 1
     },
@@ -1809,6 +1413,10 @@
     },
     {
       "name": "线性表",
+      "count": 1
+    },
+    {
+      "name": "应用层",
       "count": 1
     },
     {
@@ -1877,6 +1485,26 @@
     },
     {
       "name": "中国教育史",
+      "count": 1
+    },
+    {
+      "name": "心理学备考",
+      "count": 1
+    },
+    {
+      "name": "高频考点",
+      "count": 1
+    },
+    {
+      "name": "计算公式",
+      "count": 1
+    },
+    {
+      "name": "答题模板",
+      "count": 1
+    },
+    {
+      "name": "绩效管理",
       "count": 1
     },
     {
@@ -2096,6 +1724,10 @@
       "count": 1
     },
     {
+      "name": "决策工具",
+      "count": 1
+    },
+    {
       "name": "矩阵分析",
       "count": 1
     },
@@ -2113,6 +1745,10 @@
     },
     {
       "name": "德博诺",
+      "count": 1
+    },
+    {
+      "name": "团队决策",
       "count": 1
     },
     {
@@ -2200,1011 +1836,11 @@
       "count": 1
     },
     {
-      "name": "估算成本",
-      "count": 1
-    },
-    {
-      "name": "产品经理",
-      "count": 1
-    },
-    {
-      "name": "用户故事",
-      "count": 1
-    },
-    {
-      "name": "控制范围",
-      "count": 1
-    },
-    {
-      "name": "实时定量风险分析",
-      "count": 1
-    },
-    {
-      "name": "规划风险管理",
-      "count": 1
-    },
-    {
-      "name": "监督风险",
-      "count": 1
-    },
-    {
-      "name": "定量风险分析",
-      "count": 1
-    },
-    {
-      "name": "实施风险应对",
-      "count": 1
-    },
-    {
-      "name": "管理沟通",
-      "count": 1
-    },
-    {
-      "name": "监督沟通",
-      "count": 1
-    },
-    {
-      "name": "关键路径法",
-      "count": 1
-    },
-    {
-      "name": "里程碑",
-      "count": 1
-    },
-    {
-      "name": "Sprint",
-      "count": 1
-    },
-    {
-      "name": "项目经理的能力",
-      "count": 1
-    },
-    {
-      "name": "管理干系人参与",
-      "count": 1
-    },
-    {
-      "name": "监督干系人参与",
-      "count": 1
-    },
-    {
-      "name": "监督相关方参与",
-      "count": 1
-    },
-    {
-      "name": "事业环境因素",
-      "count": 1
-    },
-    {
-      "name": "变更管理",
-      "count": 1
-    },
-    {
-      "name": "变更控制",
-      "count": 1
-    },
-    {
-      "name": "CCB",
-      "count": 1
-    },
-    {
-      "name": "基准管理",
-      "count": 1
-    },
-    {
-      "name": "版本发布",
-      "count": 1
-    },
-    {
-      "name": "信息管理",
-      "count": 1
-    },
-    {
-      "name": "文档管理",
-      "count": 1
-    },
-    {
-      "name": "文档编制规范",
-      "count": 1
-    },
-    {
-      "name": "文档定级保护",
-      "count": 1
-    },
-    {
-      "name": "管理团队",
-      "count": 1
-    },
-    {
-      "name": "控制资源",
-      "count": 1
-    },
-    {
-      "name": "法律体系",
-      "count": 1
-    },
-    {
-      "name": "法的效力",
-      "count": 1
-    },
-    {
-      "name": "民法典",
-      "count": 1
-    },
-    {
-      "name": "招投标法",
-      "count": 1
-    },
-    {
-      "name": "知识产权法",
-      "count": 1
-    },
-    {
-      "name": "标准规范",
-      "count": 1
-    },
-    {
-      "name": "三控两管一协调",
-      "count": 1
-    },
-    {
-      "name": "监理依据",
-      "count": 1
-    },
-    {
-      "name": "监理内容",
-      "count": 1
-    },
-    {
-      "name": "网络安全法",
-      "count": 1
-    },
-    {
-      "name": "招标投标法",
-      "count": 1
-    },
-    {
-      "name": "招投标",
-      "count": 1
-    },
-    {
-      "name": "知识产权",
-      "count": 1
-    },
-    {
-      "name": "著作权",
-      "count": 1
-    },
-    {
-      "name": "项目管理工程师",
-      "count": 1
-    },
-    {
-      "name": "岗位职责",
-      "count": 1
-    },
-    {
-      "name": "团队管理",
-      "count": 1
-    },
-    {
-      "name": "道德修养",
-      "count": 1
-    },
-    {
-      "name": "成本效益分析",
-      "count": 1
-    },
-    {
-      "name": "投资分析",
-      "count": 1
-    },
-    {
-      "name": "冲突管理",
-      "count": 1
-    },
-    {
-      "name": "团队协作",
-      "count": 1
-    },
-    {
-      "name": "领导风格",
-      "count": 1
-    },
-    {
-      "name": "访谈",
-      "count": 1
-    },
-    {
-      "name": "观察和交谈",
-      "count": 1
-    },
-    {
-      "name": "工作观察",
-      "count": 1
-    },
-    {
-      "name": "核对单",
-      "count": 1
-    },
-    {
-      "name": "检查清单",
-      "count": 1
-    },
-    {
-      "name": "焦点小组",
-      "count": 1
-    },
-    {
-      "name": "用户研究",
-      "count": 1
-    },
-    {
-      "name": "小组讨论",
-      "count": 1
-    },
-    {
-      "name": "名义小组技术",
-      "count": 1
-    },
-    {
-      "name": "创意",
-      "count": 1
-    },
-    {
-      "name": "会议",
-      "count": 1
-    },
-    {
-      "name": "投票",
-      "count": 1
-    },
-    {
-      "name": "共识",
-      "count": 1
-    },
-    {
-      "name": "质量功能展开",
-      "count": 1
-    },
-    {
-      "name": "QFD",
-      "count": 1
-    },
-    {
-      "name": "质量规划",
-      "count": 1
-    },
-    {
-      "name": "网络图",
-      "count": 1
-    },
-    {
-      "name": "关键路径",
-      "count": 1
-    },
-    {
-      "name": "CPM",
-      "count": 1
-    },
-    {
-      "name": "挣值分析",
-      "count": 1
-    },
-    {
-      "name": "EVM",
-      "count": 1
-    },
-    {
-      "name": "PERT",
-      "count": 1
-    },
-    {
-      "name": "三点估算",
-      "count": 1
-    },
-    {
-      "name": "答题框架",
-      "count": 1
-    },
-    {
-      "name": "万能模板",
-      "count": 1
-    },
-    {
-      "name": "应试技巧",
-      "count": 1
-    },
-    {
-      "name": "安全架构",
-      "count": 1
-    },
-    {
-      "name": "WPDRRC",
-      "count": 1
-    },
-    {
-      "name": "威胁防护",
-      "count": 1
-    },
-    {
-      "name": "安全体系",
-      "count": 1
-    },
-    {
-      "name": "存储技术",
-      "count": 1
-    },
-    {
-      "name": "RAID",
-      "count": 1
-    },
-    {
-      "name": "备份",
-      "count": 1
-    },
-    {
-      "name": "访问控制",
-      "count": 1
-    },
-    {
-      "name": "DAC",
-      "count": 1
-    },
-    {
-      "name": "MAC",
-      "count": 1
-    },
-    {
-      "name": "RBAC",
-      "count": 1
-    },
-    {
-      "name": "ABAC",
-      "count": 1
-    },
-    {
-      "name": "网络基础",
-      "count": 1
-    },
-    {
-      "name": "OSI模型",
-      "count": 1
-    },
-    {
-      "name": "TCP-IP协议",
-      "count": 1
-    },
-    {
-      "name": "密码技术",
-      "count": 1
-    },
-    {
-      "name": "加密",
-      "count": 1
-    },
-    {
-      "name": "数字签名",
-      "count": 1
-    },
-    {
-      "name": "PKI",
-      "count": 1
-    },
-    {
-      "name": "CA",
-      "count": 1
-    },
-    {
-      "name": "身份认证",
-      "count": 1
-    },
-    {
-      "name": "认证技术",
-      "count": 1
-    },
-    {
-      "name": "认证协议",
-      "count": 1
-    },
-    {
-      "name": "单点登录",
-      "count": 1
-    },
-    {
-      "name": "隐私保护",
-      "count": 1
-    },
-    {
-      "name": "数据安全法",
-      "count": 1
-    },
-    {
-      "name": "个人信息保护",
-      "count": 1
-    },
-    {
-      "name": "数据集成方法",
-      "count": 1
-    },
-    {
-      "name": "ETL",
-      "count": 1
-    },
-    {
-      "name": "数据集成方案",
-      "count": 1
-    },
-    {
-      "name": "数据架构",
-      "count": 1
-    },
-    {
-      "name": "数据分层",
-      "count": 1
-    },
-    {
-      "name": "数据建模",
-      "count": 1
-    },
-    {
-      "name": "大数据",
-      "count": 1
-    },
-    {
-      "name": "数据库",
-      "count": 1
-    },
-    {
-      "name": "SQL",
-      "count": 1
-    },
-    {
-      "name": "范式",
-      "count": 1
-    },
-    {
-      "name": "防火墙",
-      "count": 1
-    },
-    {
-      "name": "入侵检测与防御",
-      "count": 1
-    },
-    {
-      "name": "VPN",
-      "count": 1
-    },
-    {
-      "name": "安全防护",
-      "count": 1
-    },
-    {
-      "name": "网络集成",
-      "count": 1
-    },
-    {
-      "name": "网络工程",
-      "count": 1
-    },
-    {
-      "name": "交换技术",
-      "count": 1
-    },
-    {
-      "name": "安全子系统",
-      "count": 1
-    },
-    {
-      "name": "网络架构",
-      "count": 1
-    },
-    {
-      "name": "局域网",
-      "count": 1
-    },
-    {
-      "name": "广域网",
-      "count": 1
-    },
-    {
-      "name": "移动通信网",
-      "count": 1
-    },
-    {
-      "name": "SDN",
-      "count": 1
-    },
-    {
-      "name": "集成资质",
-      "count": 1
-    },
-    {
-      "name": "系统架构",
-      "count": 1
-    },
-    {
-      "name": "架构设计",
-      "count": 1
-    },
-    {
-      "name": "TOGAF",
-      "count": 1
-    },
-    {
-      "name": "ADM",
-      "count": 1
-    },
-    {
-      "name": "价值驱动",
-      "count": 1
-    },
-    {
-      "name": "CIA",
-      "count": 1
-    },
-    {
-      "name": "等级保护",
-      "count": 1
-    },
-    {
-      "name": "IT服务",
-      "count": 1
-    },
-    {
-      "name": "PPTR",
-      "count": 1
-    },
-    {
-      "name": "服务特征",
-      "count": 1
-    },
-    {
-      "name": "人员",
-      "count": 1
-    },
-    {
-      "name": "过程",
-      "count": 1
-    },
-    {
-      "name": "技术",
-      "count": 1
-    },
-    {
-      "name": "资源",
-      "count": 1
-    },
-    {
-      "name": "应用集成",
-      "count": 1
-    },
-    {
-      "name": "EAI",
-      "count": 1
-    },
-    {
-      "name": "ESB",
-      "count": 1
-    },
-    {
-      "name": "业务应用集成",
-      "count": 1
-    },
-    {
-      "name": "应用架构",
-      "count": 1
-    },
-    {
-      "name": "微服务",
-      "count": 1
-    },
-    {
-      "name": "MVC",
-      "count": 1
-    },
-    {
-      "name": "分层分域",
-      "count": 1
-    },
-    {
-      "name": "云计算",
-      "count": 1
-    },
-    {
-      "name": "服务标准化",
-      "count": 1
-    },
-    {
-      "name": "服务产品化",
-      "count": 1
-    },
-    {
-      "name": "服务产业化",
-      "count": 1
-    },
-    {
-      "name": "服务标准",
-      "count": 1
-    },
-    {
-      "name": "SDOR",
-      "count": 1
-    },
-    {
-      "name": "设计实现",
-      "count": 1
-    },
-    {
-      "name": "运营提升",
-      "count": 1
-    },
-    {
-      "name": "退役终止",
-      "count": 1
-    },
-    {
-      "name": "黑盒测试",
-      "count": 1
-    },
-    {
-      "name": "白盒测试",
-      "count": 1
-    },
-    {
-      "name": "软件工程",
-      "count": 1
-    },
-    {
-      "name": "过程管理",
-      "count": 1
-    },
-    {
-      "name": "开发活动",
-      "count": 1
-    },
-    {
-      "name": "软件集成",
-      "count": 1
-    },
-    {
-      "name": "中间件",
-      "count": 1
-    },
-    {
-      "name": "API",
-      "count": 1
-    },
-    {
-      "name": "组件技术",
-      "count": 1
-    },
-    {
-      "name": "开发模型",
-      "count": 1
-    },
-    {
-      "name": "瀑布模型",
-      "count": 1
-    },
-    {
-      "name": "敏捷开发",
-      "count": 1
-    },
-    {
-      "name": "软件设计",
-      "count": 1
-    },
-    {
-      "name": "结构化设计",
-      "count": 1
-    },
-    {
-      "name": "OOD",
-      "count": 1
-    },
-    {
-      "name": "UML",
-      "count": 1
-    },
-    {
-      "name": "设计模式",
-      "count": 1
-    },
-    {
-      "name": "软件质量",
-      "count": 1
-    },
-    {
-      "name": "SQA",
-      "count": 1
-    },
-    {
-      "name": "CMMI",
-      "count": 1
-    },
-    {
-      "name": "OLAP",
-      "count": 1
-    },
-    {
-      "name": "数据资产",
-      "count": 1
-    },
-    {
-      "name": "主题库",
-      "count": 1
-    },
-    {
-      "name": "数据工程",
-      "count": 1
-    },
-    {
-      "name": "数据采集",
-      "count": 1
-    },
-    {
-      "name": "数据预处理",
-      "count": 1
-    },
-    {
-      "name": "数据存储",
-      "count": 1
-    },
-    {
-      "name": "数据可视化",
-      "count": 1
-    },
-    {
-      "name": "数据治理",
-      "count": 1
-    },
-    {
-      "name": "数据标准化",
-      "count": 1
-    },
-    {
-      "name": "数据质量",
-      "count": 1
-    },
-    {
-      "name": "元数据",
-      "count": 1
-    },
-    {
-      "name": "系统运维",
-      "count": 1
-    },
-    {
-      "name": "SLA",
-      "count": 1
-    },
-    {
-      "name": "ITIL",
-      "count": 1
-    },
-    {
-      "name": "需求工程",
-      "count": 1
-    },
-    {
-      "name": "SRS",
-      "count": 1
-    },
-    {
-      "name": "需求变更",
-      "count": 1
-    },
-    {
-      "name": "5V特征",
-      "count": 1
-    },
-    {
-      "name": "数据处理",
-      "count": 1
-    },
-    {
-      "name": "Hadoop",
-      "count": 1
-    },
-    {
-      "name": "Spark",
-      "count": 1
-    },
-    {
-      "name": "工业互联网",
-      "count": 1
-    },
-    {
-      "name": "价值交付",
-      "count": 1
-    },
-    {
-      "name": "两化融合",
-      "count": 1
-    },
-    {
-      "name": "工业现代化",
-      "count": 1
-    },
-    {
-      "name": "区块链",
-      "count": 1
-    },
-    {
-      "name": "共识机制",
-      "count": 1
-    },
-    {
-      "name": "智能合约",
-      "count": 1
-    },
-    {
-      "name": "分布式账本",
-      "count": 1
-    },
-    {
-      "name": "公有链",
-      "count": 1
-    },
-    {
-      "name": "私有链",
-      "count": 1
-    },
-    {
-      "name": "AI",
-      "count": 1
-    },
-    {
-      "name": "机器学习",
-      "count": 1
-    },
-    {
-      "name": "深度学习",
-      "count": 1
-    },
-    {
-      "name": "自然语言处理",
-      "count": 1
-    },
-    {
-      "name": "专家系统",
-      "count": 1
-    },
-    {
-      "name": "数字经济",
-      "count": 1
-    },
-    {
-      "name": "数字社会",
-      "count": 1
-    },
-    {
-      "name": "智慧城市",
-      "count": 1
-    },
-    {
-      "name": "数字政府",
-      "count": 1
-    },
-    {
-      "name": "IoT",
-      "count": 1
-    },
-    {
-      "name": "感知层",
-      "count": 1
-    },
-    {
-      "name": "RFID",
-      "count": 1
-    },
-    {
-      "name": "传感器",
-      "count": 1
-    },
-    {
-      "name": "项目管理原则",
-      "count": 1
-    },
-    {
-      "name": "知识领域",
-      "count": 1
-    },
-    {
-      "name": "项目基本要素",
-      "count": 1
-    },
-    {
-      "name": "项目组合",
-      "count": 1
-    },
-    {
-      "name": "项目集",
-      "count": 1
-    },
-    {
-      "name": "运营管理",
-      "count": 1
-    },
-    {
-      "name": "项目经理",
-      "count": 1
-    },
-    {
-      "name": "领导力",
-      "count": 1
-    },
-    {
-      "name": "项目评估",
-      "count": 1
-    },
-    {
-      "name": "项目生命周期",
-      "count": 1
-    },
-    {
-      "name": "预测型",
-      "count": 1
-    },
-    {
-      "name": "适应型",
-      "count": 1
-    },
-    {
-      "name": "新基建",
-      "count": 1
-    },
-    {
-      "name": "VR",
-      "count": 1
-    },
-    {
-      "name": "AR",
-      "count": 1
-    },
-    {
-      "name": "MR",
-      "count": 1
-    },
-    {
-      "name": "虚拟现实",
-      "count": 1
-    },
-    {
-      "name": "人机交互",
-      "count": 1
-    },
-    {
-      "name": "元宇宙",
-      "count": 1
-    },
-    {
-      "name": "PaaS",
-      "count": 1
-    },
-    {
-      "name": "SaaS",
-      "count": 1
-    },
-    {
-      "name": "云存储",
-      "count": 1
-    },
-    {
-      "name": "分布式计算",
-      "count": 1
-    },
-    {
-      "name": "PMI",
-      "count": 1
-    },
-    {
-      "name": "版本演变",
-      "count": 1
-    },
-    {
       "name": "电信诈骗",
+      "count": 1
+    },
+    {
+      "name": "网络安全",
       "count": 1
     },
     {
@@ -3348,14 +1984,6 @@
       "count": 1
     },
     {
-      "name": "提取",
-      "count": 1
-    },
-    {
-      "name": "购房",
-      "count": 1
-    },
-    {
       "name": "医保",
       "count": 1
     },
@@ -3365,6 +1993,14 @@
     },
     {
       "name": "报销",
+      "count": 1
+    },
+    {
+      "name": "提取",
+      "count": 1
+    },
+    {
+      "name": "购房",
       "count": 1
     },
     {
@@ -3389,22 +2025,6 @@
     },
     {
       "name": "风暴",
-      "count": 1
-    },
-    {
-      "name": "心理学备考",
-      "count": 1
-    },
-    {
-      "name": "高频考点",
-      "count": 1
-    },
-    {
-      "name": "计算公式",
-      "count": 1
-    },
-    {
-      "name": "答题模板",
       "count": 1
     },
     {
@@ -3765,6 +2385,10 @@
     },
     {
       "name": "敌意性攻击",
+      "count": 1
+    },
+    {
+      "name": "沟通",
       "count": 1
     },
     {
@@ -4196,10 +2820,6 @@
       "count": 1
     },
     {
-      "name": "五险一金",
-      "count": 1
-    },
-    {
       "name": "职场权益",
       "count": 1
     },
@@ -4297,14 +2917,6 @@
     },
     {
       "name": "税收改革",
-      "count": 1
-    },
-    {
-      "name": "企业战略",
-      "count": 1
-    },
-    {
-      "name": "战略制定",
       "count": 1
     },
     {
@@ -4492,18 +3104,6 @@
       "count": 1
     },
     {
-      "name": "货币市场",
-      "count": 1
-    },
-    {
-      "name": "资本市场",
-      "count": 1
-    },
-    {
-      "name": "金融工具",
-      "count": 1
-    },
-    {
       "name": "人力资源管理",
       "count": 1
     },
@@ -4549,6 +3149,26 @@
     },
     {
       "name": "组织行为",
+      "count": 1
+    },
+    {
+      "name": "货币市场",
+      "count": 1
+    },
+    {
+      "name": "资本市场",
+      "count": 1
+    },
+    {
+      "name": "金融工具",
+      "count": 1
+    },
+    {
+      "name": "企业战略",
+      "count": 1
+    },
+    {
+      "name": "战略制定",
       "count": 1
     },
     {
@@ -4685,6 +3305,10 @@
     },
     {
       "name": "COSO框架",
+      "count": 1
+    },
+    {
+      "name": "数字化转型",
       "count": 1
     },
     {
@@ -4864,6 +3488,10 @@
       "count": 1
     },
     {
+      "name": "合同法",
+      "count": 1
+    },
+    {
       "name": "经济纠纷",
       "count": 1
     },
@@ -4985,6 +3613,10 @@
     },
     {
       "name": "销售与收款循环",
+      "count": 1
+    },
+    {
+      "name": "职业道德",
       "count": 1
     },
     {

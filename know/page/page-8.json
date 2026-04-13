@@ -1,21 +1,8 @@
 {
   "page": 8,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
-    {
-      "filename": "数据结构概述.json",
-      "title": "数据结构概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "408",
-        "考研"
-      ],
-      "wordCount": 138,
-      "id": "90c8fa0fe1292c08"
-    },
     {
       "filename": "数据链路层.json",
       "title": "数据链路层",
@@ -275,6 +262,19 @@
       ],
       "wordCount": 344,
       "id": "17f5df24d454b3d5"
+    },
+    {
+      "filename": "课程理论与实践.json",
+      "title": "课程理论与实践",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "课程",
+        "考研"
+      ],
+      "wordCount": 555,
+      "id": "66fc11554d006482"
     }
   ]
 }

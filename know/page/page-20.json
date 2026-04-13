@@ -1,273 +1,279 @@
 {
   "page": 20,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
     {
-      "filename": "资源分解结构.json",
-      "title": "资源分解结构",
-      "description": "资源分解结构是资源依类别和类型的层级展现（见图 9-7）。",
-      "category": "软考/项目管理/项目资源管理",
+      "filename": "无形资产.json",
+      "title": "无形资产",
+      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "规划过程组",
-        "估算活动资源"
+        "CPA",
+        "会计",
+        "无形资产",
+        "摊销"
       ],
-      "wordCount": 146,
-      "id": "f9b38973e9224d01"
+      "wordCount": 1259,
+      "id": "b2a8b4a2135a7253"
     },
     {
-      "filename": "资源管理计划.json",
-      "title": "资源管理计划",
-      "description": "作为项目管理计划的一部分，资源管理计划提供了关于如何分类、分配、管理和释放项目资源的指南。资源管理计划可以根据项目的具体情况分为团队管理计划和实物资源管理计划。资源管理计划可能包括（但不限于）：",
-      "category": "软考/项目管理/项目资源管理",
+      "filename": "应付利息和应付股利.json",
+      "title": "应付利息和应付股利",
+      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "规划过程组",
-        "规划资源管理"
+        "CPA",
+        "会计",
+        "应付利息",
+        "应付股利"
       ],
-      "wordCount": 747,
-      "id": "987cb32455f8fe24"
+      "wordCount": 668,
+      "id": "548bdca14739cb31"
     },
     {
-      "filename": "资源日历.json",
-      "title": "资源日历",
-      "description": "资源日历识别了每种具体资源可用时的工作日、班次、正常营业的上下班时间、周末和公共假期。",
-      "category": "软考/项目管理/项目资源管理",
+      "filename": "应付票据.json",
+      "title": "应付票据",
+      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "执行过程组",
-        "获取资源"
+        "CPA",
+        "会计",
+        "应付票据",
+        "商业汇票"
       ],
-      "wordCount": 161,
-      "id": "4f9fc69f9d7a0617"
+      "wordCount": 762,
+      "id": "b6bd3ee4d13fca56"
     },
     {
-      "filename": "资源需求.json",
-      "title": "资源需求",
-      "description": "资源需求识别了各个工作包或工作包中每个活动所需的资源类型和数量，可以汇总这些需求，以估算每个工作包、每个 WBS 分支以及整个项目所需的资源。",
-      "category": "软考/项目管理/项目资源管理",
+      "filename": "应付账款.json",
+      "title": "应付账款",
+      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "规划过程组",
-        "估算活动资源"
+        "CPA",
+        "会计",
+        "应付账款",
+        "现金折扣"
       ],
-      "wordCount": 129,
-      "id": "2b707efeafa1dd18"
+      "wordCount": 1044,
+      "id": "2350ee48d8cc9b5b"
     },
     {
-      "filename": "组织理论.json",
-      "title": "组织理论",
-      "description": "组织理论阐述个人、团队和组织部门的行为方式。",
-      "category": "软考/项目管理/项目资源管理",
+      "filename": "应付职工薪酬.json",
+      "title": "应付职工薪酬",
+      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
+      "category": "注册会计师/会计",
       "tags": [
-        "规划过程组",
-        "规划资源管理"
+        "CPA",
+        "会计",
+        "应付职工薪酬",
+        "核算"
       ],
-      "wordCount": 139,
-      "id": "b0c177fa33b187d4"
+      "wordCount": 1144,
+      "id": "568e00039dccb6b5"
     },
     {
-      "filename": "法律法规体系.json",
-      "title": "法律法规体系",
-      "description": "信息系统集成项目相关的法律法规体系、法的效力层级及常用法律法规要点",
-      "category": "软考/综合知识/法律法规与标准",
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "法律体系",
-        "法的效力",
-        "民法典",
-        "招投标法",
-        "知识产权法",
-        "标准规范"
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
       ],
-      "wordCount": 2401,
-      "id": "42186c2eabc50a99"
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
     },
     {
-      "filename": "合同法要点.json",
-      "title": "合同法要点",
-      "description": "软考中项合同法核心考点，包括合同的订立、履行、变更、违约责任及IT项目合同特殊条款。",
-      "category": "软考/综合知识/法律法规与标准",
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应收账款",
+        "应收票据"
+      ],
+      "wordCount": 1285,
+      "id": "b149d1a5237bfb5f"
+    },
+    {
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "预收账款",
+        "核算"
+      ],
+      "wordCount": 702,
+      "id": "5a1db8a8635278a1"
+    },
+    {
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
+      ],
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
+    },
+    {
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
+      ],
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
+    },
+    {
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
+      ],
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
+    },
+    {
+      "filename": "反不正当竞争法概述.json",
+      "title": "反不正当竞争法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反不正当竞争法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 757,
+      "id": "c4e8b6f024c78459"
+    },
+    {
+      "filename": "反垄断法概述.json",
+      "title": "反垄断法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反垄断法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 327,
+      "id": "dc2a54c5f75a7bdc"
+    },
+    {
+      "filename": "公司法概述.json",
+      "title": "公司法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "公司法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 294,
+      "id": "ff86ecb868f095ee"
+    },
+    {
+      "filename": "合同法概述.json",
+      "title": "合同法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
         "合同法",
-        "法律法规",
-        "中项核心",
-        "合同管理"
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1020,
-      "id": "e4c6cd48577acb3a"
+      "wordCount": 318,
+      "id": "103610937ddf56f5"
     },
     {
-      "filename": "监理基础知识.json",
-      "title": "监理基础知识",
-      "description": "信息系统工程监理的概念、工作内容、角色定位及监理技术参考模型",
-      "category": "软考/综合知识/法律法规与标准",
+      "filename": "经济纠纷解决方式.json",
+      "title": "经济纠纷解决方式",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "信息系统监理",
-        "三控两管一协调",
-        "监理依据",
-        "监理内容"
+        "经济纠纷",
+        "解决方式",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 2569,
-      "id": "39b7fc7cf3d2a90d"
+      "wordCount": 624,
+      "id": "6f28046aa934540d"
     },
     {
-      "filename": "信息系统相关法律法规.json",
-      "title": "信息系统相关法律法规",
-      "description": "软考中项必备法律法规汇总，包括网络安全法、电子签名法、数据安全法及相关标准规范。",
-      "category": "软考/综合知识/法律法规与标准",
+      "filename": "票据法概述.json",
+      "title": "票据法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "法律法规",
-        "网络安全法",
-        "数据安全",
-        "中项核心"
+        "票据法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1264,
-      "id": "ddaa51fcc8bcde7e"
+      "wordCount": 215,
+      "id": "b2f548bfa3843e2b"
     },
     {
-      "filename": "招标投标法.json",
-      "title": "招标投标法",
-      "description": "软考中项必考法律法规——《招标投标法》核心条款，包括招标范围、招标方式、投标要求及违规处理。",
-      "category": "软考/综合知识/法律法规与标准",
+      "filename": "破产法概述.json",
+      "title": "破产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "招标投标法",
-        "法律法规",
-        "中项核心",
-        "招投标"
+        "破产法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1036,
-      "id": "efb40c9a398e0afa"
+      "wordCount": 283,
+      "id": "cd6bfd3f56cbfb10"
     },
     {
-      "filename": "知识产权与著作权法.json",
-      "title": "知识产权与著作权法",
-      "description": "软考中项知识产权核心考点，包括著作权、专利权、商标权的归属、期限及软件著作权特殊规定。",
-      "category": "软考/综合知识/法律法规与标准",
+      "filename": "企业国有资产法概述.json",
+      "title": "企业国有资产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "知识产权",
-        "著作权",
-        "法律法规",
-        "中项核心"
+        "企业国有资产法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1133,
-      "id": "d681689dec42d2a6"
+      "wordCount": 470,
+      "id": "ea02692ed7be380d"
     },
     {
-      "filename": "职业道德规范.json",
-      "title": "职业道德规范",
-      "description": "项目管理工程师职业道德规范、岗位职责、团队管理责任及个人道德修养提升",
-      "category": "软考/综合知识/法律法规与标准",
+      "filename": "涉外经济法律制度概述.json",
+      "title": "涉外经济法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "职业道德",
-        "项目管理工程师",
-        "岗位职责",
-        "团队管理",
-        "道德修养"
+        "涉外经济法律制度",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1786,
-      "id": "7571d6c20b4dac1c"
-    },
-    {
-      "filename": "标杆对照.json",
-      "title": "标杆对照",
-      "description": "标杆对照是将实际或计划的项目实践或项目的质量标准与可比项目的实践进行比较，以便识别最佳实践，形成改进意见，并为绩效考核提供依据。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集"
-      ],
-      "wordCount": 127,
-      "id": "8e0dcee78f92bfc1"
-    },
-    {
-      "filename": "成本效益分析.json",
-      "title": "成本效益分析完全指南",
-      "description": "成本效益分析的定义、步骤、方法和项目管理中的应用",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据分析",
-        "成本效益分析",
-        "决策",
-        "投资分析"
-      ],
-      "wordCount": 2247,
-      "id": "8e8ec6fab964e8fd"
-    },
-    {
-      "filename": "冲突管理.json",
-      "title": "冲突管理完全指南",
-      "description": "冲突的定义、来源、五种冲突解决方法及适用场景",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能",
-        "冲突管理",
-        "项目管理",
-        "团队协作"
-      ],
-      "wordCount": 2692,
-      "id": "3a26dcfeeff022f8"
-    },
-    {
-      "filename": "独裁型决策制定.json",
-      "title": "独裁型决策制定",
-      "description": "一种由单一决策者主导的决策方法，适用于需要快速决策的场景。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "决策",
-        "项目管理",
-        "领导风格"
-      ],
-      "wordCount": 1229,
-      "id": "a197252eeba2b9ab"
-    },
-    {
-      "filename": "多标准决策分析.json",
-      "title": "多标准决策分析",
-      "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "决策"
-      ],
-      "wordCount": 55,
-      "id": "20cab351439d27fa"
-    },
-    {
-      "filename": "访谈.json",
-      "title": "访谈完全指南",
-      "description": "访谈的定义、类型、准备工作、提问技巧和结果分析",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集",
-        "访谈",
-        "沟通",
-        "需求获取"
-      ],
-      "wordCount": 1802,
-      "id": "714a8a83d55f2657"
-    },
-    {
-      "filename": "观察和交谈.json",
-      "title": "观察和交谈完全指南",
-      "description": "观察法的定义、类型、实施步骤、记录技巧和与交谈的结合应用",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能",
-        "观察和交谈",
-        "工作观察",
-        "需求获取"
-      ],
-      "wordCount": 2932,
-      "id": "19724bb75dd76706"
-    },
-    {
-      "filename": "核对单.json",
-      "title": "核对单完全指南",
-      "description": "核对单的定义、类型、编制方法、使用场景和注意事项",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集",
-        "核对单",
-        "检查清单",
-        "质量管理"
-      ],
-      "wordCount": 1862,
-      "id": "fa10b174d54144c2"
+      "wordCount": 318,
+      "id": "3b46227da5fa1039"
     }
   ]
 }

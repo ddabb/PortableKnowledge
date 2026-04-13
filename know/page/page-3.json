@@ -1,22 +1,8 @@
 {
   "page": 3,
-  "totalPages": 37,
-  "totalItems": 727,
+  "totalPages": 22,
+  "totalItems": 433,
   "items": [
-    {
-      "filename": "个人所得税申报完全指南.json",
-      "title": "个人所得税申报完全指南",
-      "description": "个税专项附加扣除填报、年终奖计税、汇算清缴操作指南",
-      "category": "家庭理财",
-      "tags": [
-        "个人所得税",
-        "税务",
-        "省钱",
-        "汇算清缴"
-      ],
-      "wordCount": 2219,
-      "id": "313befdbd2156ccb"
-    },
     {
       "filename": "股票投资入门指南.json",
       "title": "股票投资入门指南",
@@ -279,6 +265,20 @@
       ],
       "wordCount": 166,
       "id": "c7c752a4767c2f39"
+    },
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "id": "71c39f516c268fd1"
     }
   ]
 }

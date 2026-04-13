@@ -1,24 +1,9 @@
 {
   "meta": {
     "tag": "网络安全",
-    "count": 2
+    "count": 1
   },
   "articles": [
-    {
-      "filename": "网络安全.json",
-      "title": "网络安全",
-      "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "网络安全",
-        "防火墙",
-        "入侵检测与防御",
-        "VPN",
-        "安全防护"
-      ],
-      "wordCount": 1755,
-      "id": "1c8b5f928be1d3f9"
-    },
     {
       "filename": "谨防电信网络诈骗.json",
       "title": "谨防电信网络诈骗",
