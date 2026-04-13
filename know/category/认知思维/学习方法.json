@@ -1,9 +1,45 @@
 {
   "meta": {
     "category": "认知思维/学习方法",
-    "count": 5
+    "count": 14
   },
   "articles": [
+    {
+      "filename": "01_专业领域.json",
+      "title": "01_专业领域",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 62,
+      "id": "83f96c05cb77dab8"
+    },
+    {
+      "filename": "02_兴趣爱好.json",
+      "title": "02_兴趣爱好",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 59,
+      "id": "84bea3f998d50be1"
+    },
+    {
+      "filename": "03_生活技能.json",
+      "title": "03_生活技能",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 58,
+      "id": "a8e07c7281123e2d"
+    },
+    {
+      "filename": "04_个人成长.json",
+      "title": "04_个人成长",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 157,
+      "id": "249a897652b5eb5b"
+    },
     {
       "filename": "费曼学习法实践_通过教授他人深化理解.json",
       "title": "费曼学习法实践：通过教授他人深化理解",
@@ -29,6 +65,33 @@
       ],
       "wordCount": 2011,
       "id": "fa4f0bdcc55522ad"
+    },
+    {
+      "filename": "个人思考.json",
+      "title": "个人思考",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 16,
+      "id": "08f40b4a9752a3d2"
+    },
+    {
+      "filename": "关联知识.json",
+      "title": "关联知识",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 1576,
+      "id": "4f57d8bf2cc133f1"
+    },
+    {
+      "filename": "核心内容.json",
+      "title": "核心内容",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 18,
+      "id": "53e013ed02d34a1f"
     },
     {
       "filename": "间隔重复.json",
@@ -60,17 +123,31 @@
       "id": "9999e9abdb4f9107"
     },
     {
-      "filename": "知识管理系统_个人知识体系的构建与应用.json",
-      "title": "知识管理系统：个人知识体系的构建与应用",
-      "description": "知识管理系统：个人知识体系的构建与应用的核心知识点汇总",
+      "filename": "实际应用.json",
+      "title": "实际应用",
+      "description": "",
       "category": "认知思维/学习方法",
-      "tags": [
-        "知识管理",
-        "PKM",
-        "知识体系"
-      ],
-      "wordCount": 3206,
-      "id": "627ce7835228c782"
+      "tags": [],
+      "wordCount": 20,
+      "id": "1336a80ff70a9bb5"
+    },
+    {
+      "filename": "相关资源.json",
+      "title": "相关资源",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 39,
+      "id": "02f0b83724eaef56"
+    },
+    {
+      "filename": "详细说明.json",
+      "title": "详细说明",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 18,
+      "id": "53f43299e784fc12"
     }
   ]
 }

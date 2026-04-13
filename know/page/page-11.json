@@ -1,299 +1,225 @@
 {
   "page": 11,
-  "totalPages": 22,
-  "totalItems": 433,
+  "totalPages": 26,
+  "totalItems": 515,
   "items": [
     {
-      "filename": "知识管理系统_个人知识体系的构建与应用.json",
-      "title": "知识管理系统：个人知识体系的构建与应用",
-      "description": "知识管理系统：个人知识体系的构建与应用的核心知识点汇总",
+      "filename": "fermi-estimation.json",
+      "title": "费米估算",
+      "description": "在信息不足时做出合理估算的思维方法，通过分解问题、合理假设来逼近真实答案",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "费米问题",
+        "估算思维",
+        "量化分析",
+        "决策工具"
+      ],
+      "wordCount": 3718,
+      "id": "f8c2ba84343993b8"
+    },
+    {
+      "filename": "决策矩阵分析法.json",
+      "title": "决策矩阵分析法",
+      "description": "通过系统化评估选项的多个维度，用加权评分做出更理性的重大决策",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "决策",
+        "矩阵分析",
+        "加权评分",
+        "理性思维"
+      ],
+      "wordCount": 839,
+      "id": "c9329cb08bddeb48"
+    },
+    {
+      "filename": "六、总结.json",
+      "title": "六、总结",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 463,
+      "id": "d548e72fc9c6c2af"
+    },
+    {
+      "filename": "三、应用场景与案例.json",
+      "title": "三、应用场景与案例",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 1186,
+      "id": "c4bb2b1e6d4fa336"
+    },
+    {
+      "filename": "思维导图应用_从思考到表达的可视化工具.json",
+      "title": "思维导图应用：从思考到表达的可视化工具",
+      "description": "思维导图应用：从思考到表达的可视化工具的核心知识点汇总",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "工具",
+        "可视化",
+        "思维导图"
+      ],
+      "wordCount": 1336,
+      "id": "3aa1f3c2e74dd1cb"
+    },
+    {
+      "filename": "四、操作步骤详解.json",
+      "title": "四、操作步骤详解",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 682,
+      "id": "8e3e56e14203d0c2"
+    },
+    {
+      "filename": "五、局限性.json",
+      "title": "五、局限性",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 434,
+      "id": "085f90a6cdcd3ada"
+    },
+    {
+      "filename": "一、定义与起源.json",
+      "title": "一、定义与起源",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 849,
+      "id": "93ecaaf33d632f5b"
+    },
+    {
+      "filename": "SWOT分析法.json",
+      "title": "SWOT分析法",
+      "description": "经典的战略规划工具，通过分析优势、劣势、机会与威胁四个维度，系统评估个人或组织的竞争态势",
+      "category": "认知思维/思维工具",
+      "tags": [
+        "SWOT",
+        "战略分析",
+        "自我认知",
+        "竞争分析"
+      ],
+      "wordCount": 992,
+      "id": "0420b484bf891bed"
+    },
+    {
+      "filename": "01_专业领域.json",
+      "title": "01_专业领域",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 62,
+      "id": "83f96c05cb77dab8"
+    },
+    {
+      "filename": "02_兴趣爱好.json",
+      "title": "02_兴趣爱好",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 59,
+      "id": "84bea3f998d50be1"
+    },
+    {
+      "filename": "03_生活技能.json",
+      "title": "03_生活技能",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 58,
+      "id": "a8e07c7281123e2d"
+    },
+    {
+      "filename": "04_个人成长.json",
+      "title": "04_个人成长",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 157,
+      "id": "249a897652b5eb5b"
+    },
+    {
+      "filename": "费曼学习法实践_通过教授他人深化理解.json",
+      "title": "费曼学习法实践：通过教授他人深化理解",
+      "description": "费曼学习法实践：通过教授他人深化理解的核心知识点汇总",
       "category": "认知思维/学习方法",
       "tags": [
-        "知识管理",
-        "PKM",
-        "知识体系"
+        "学习方法",
+        "知识留存",
+        "费曼学习法"
       ],
-      "wordCount": 3206,
-      "id": "627ce7835228c782"
+      "wordCount": 2710,
+      "id": "5187e8e01dea0bea"
     },
     {
-      "filename": "谨防电信网络诈骗.json",
-      "title": "谨防电信网络诈骗",
-      "description": "常见电信网络诈骗类型、识别方法和防范技巧",
-      "category": "生活通识/安全防范",
+      "filename": "高效学习方法_科学提升学习能力的实用指南.json",
+      "title": "高效学习方法：科学提升学习能力的实用指南",
+      "description": "高效学习方法：科学提升学习能力的实用指南的核心知识点汇总",
+      "category": "认知思维/学习方法",
       "tags": [
-        "诈骗",
-        "电信诈骗",
-        "网络安全",
-        "防骗"
+        "学习方法",
+        "效率",
+        "认知科学"
       ],
-      "wordCount": 1566,
-      "id": "444d4679ff7bbc0e"
+      "wordCount": 2011,
+      "id": "fa4f0bdcc55522ad"
     },
     {
-      "filename": "日常生活诈骗防范.json",
-      "title": "日常生活诈骗防范",
-      "description": "生活中常见诈骗手段识别与防范技巧",
-      "category": "生活通识/安全防范",
-      "tags": [
-        "诈骗",
-        "防范",
-        "安全",
-        "日常生活"
-      ],
-      "wordCount": 1473,
-      "id": "ec65bf0a0ca6a151"
+      "filename": "个人思考.json",
+      "title": "个人思考",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 16,
+      "id": "08f40b4a9752a3d2"
     },
     {
-      "filename": "远离黄赌毒.json",
-      "title": "远离黄赌毒",
-      "description": "了解黄赌毒的危害，树立健康生活态度",
-      "category": "生活通识/安全防范",
-      "tags": [
-        "黄赌毒",
-        "法治",
-        "健康",
-        "安全"
-      ],
-      "wordCount": 1897,
-      "id": "e9687edd5b3a26f2"
+      "filename": "关联知识.json",
+      "title": "关联知识",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 1576,
+      "id": "4f57d8bf2cc133f1"
     },
     {
-      "filename": "心肺复苏步骤.json",
-      "title": "心肺复苏步骤",
-      "description": "心肺复苏（CPR）的正确操作步骤和注意事项",
-      "category": "生活通识/急救知识",
-      "tags": [
-        "心肺复苏",
-        "CPR",
-        "急救",
-        "急救技能"
-      ],
-      "wordCount": 1823,
-      "id": "d5eb1e186390fa52"
+      "filename": "核心内容.json",
+      "title": "核心内容",
+      "description": "",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 18,
+      "id": "53e013ed02d34a1f"
     },
     {
-      "filename": "癌症预防完全指南.json",
-      "title": "癌症预防完全指南",
-      "description": "常见癌症类型、危险因素、预防措施和早期筛查方法",
-      "category": "生活通识/健康养生",
+      "filename": "间隔重复.json",
+      "title": "间隔重复：对抗遗忘的最强武器",
+      "description": "利用记忆的自然衰减规律，通过科学安排复习时间，大幅提升长期记忆效率的学习方法",
+      "category": "认知思维/学习方法",
       "tags": [
-        "癌症预防",
-        "肿瘤",
-        "早筛",
-        "健康管理",
-        "致癌物"
+        "间隔重复",
+        "记忆",
+        "遗忘曲线",
+        "Anki",
+        "学习效率"
       ],
-      "wordCount": 2436,
-      "id": "1bec7e1390f5bba6"
+      "wordCount": 1364,
+      "id": "056a509efde85023"
     },
     {
-      "filename": "呼吸系统疾病预防指南.json",
-      "title": "呼吸系统疾病预防完全指南",
-      "description": "感冒、流感、肺炎、慢阻肺、哮喘等常见呼吸系统疾病的预防措施",
-      "category": "生活通识/健康养生",
+      "filename": "刻意练习.json",
+      "title": "刻意练习：如何从普通到卓越",
+      "description": "基于心理学研究的高效技能提升方法，通过有目的、有反馈、高度专注的练习，实现从新手到专家的跨越",
+      "category": "认知思维/学习方法",
       "tags": [
-        "呼吸系统",
-        "疾病预防",
-        "感冒",
-        "流感",
-        "肺炎",
-        "慢阻肺",
-        "哮喘"
+        "刻意练习",
+        "技能提升",
+        "一万小时定律",
+        "专家养成"
       ],
-      "wordCount": 2823,
-      "id": "ccdb2bcab32054e3"
-    },
-    {
-      "filename": "如何培养健康的睡眠习惯.json",
-      "title": "如何培养健康的睡眠习惯",
-      "description": "从睡眠机制到实用方法，建立科学睡眠模式，提升睡眠质量",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "睡眠",
-        "健康管理",
-        "作息",
-        "睡眠质量"
-      ],
-      "wordCount": 1004,
-      "id": "c4808af2f4cd96c9"
-    },
-    {
-      "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
-      "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",
-      "description": "睡眠革命：从科学睡眠到能量管理的高效生活方式的核心知识点汇总",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "精力管理",
-        "睡眠",
-        "健康"
-      ],
-      "wordCount": 5551,
-      "id": "2cb0a104bfd0e6b4"
-    },
-    {
-      "filename": "四季养生指南_科学调理身体健康.json",
-      "title": "四季养生指南：科学调理身体健康",
-      "description": "四季养生指南：科学调理身体健康的核心知识点汇总",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "四季",
-        "健康",
-        "养生"
-      ],
-      "wordCount": 2923,
-      "id": "e2e1ee67a7f1ddc6"
-    },
-    {
-      "filename": "糖尿病预防完全指南.json",
-      "title": "糖尿病预防完全指南",
-      "description": "糖尿病的类型、危险因素、预防措施和血糖管理方法",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "糖尿病",
-        "血糖管理",
-        "疾病预防",
-        "健康管理",
-        "三高"
-      ],
-      "wordCount": 2781,
-      "id": "df2f529f056f18fc"
-    },
-    {
-      "filename": "消化系统疾病预防指南.json",
-      "title": "消化系统疾病预防完全指南",
-      "description": "胃病、肝炎、肠炎、脂肪肝等常见消化系统疾病的预防和养护",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "消化系统",
-        "疾病预防",
-        "胃病",
-        "肝炎",
-        "脂肪肝",
-        "肠胃炎"
-      ],
-      "wordCount": 2992,
-      "id": "b3353719b26acdc3"
-    },
-    {
-      "filename": "心脑血管疾病预防指南.json",
-      "title": "心脑血管疾病预防完全指南",
-      "description": "心脑血管疾病的类型、危险因素、预防措施和早期信号识别",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "心脑血管",
-        "疾病预防",
-        "健康管理",
-        "三高",
-        "脑卒中",
-        "冠心病"
-      ],
-      "wordCount": 2001,
-      "id": "4f6a963b4988b3f5"
-    },
-    {
-      "filename": "社保公积金使用全攻略.json",
-      "title": "社保公积金使用全攻略",
-      "description": "住房公积金提取与医疗保险报销的完整指南，涵盖提取条件、流程、注意事项及常见问题解答",
-      "category": "生活通识/社保公积金",
-      "tags": [
-        "社保",
-        "公积金",
-        "住房公积金",
-        "医保",
-        "医疗保险",
-        "报销",
-        "提取",
-        "购房",
-        "五险一金"
-      ],
-      "wordCount": 3546,
-      "id": "506269662fa83742"
-    },
-    {
-      "filename": "地震防范与应急.json",
-      "title": "地震防范与应急",
-      "description": "地震发生时的应对措施、逃生技巧和日常准备",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "地震",
-        "自然灾害",
-        "应急",
-        "逃生"
-      ],
-      "wordCount": 877,
-      "id": "be8e5050f8013cf0"
-    },
-    {
-      "filename": "洪水防范与应对.json",
-      "title": "洪水防范与应对",
-      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "洪水",
-        "自然灾害",
-        "防汛",
-        "应急"
-      ],
-      "wordCount": 842,
-      "id": "ba444651c5345d81"
-    },
-    {
-      "filename": "火灾防范与逃生.json",
-      "title": "火灾防范与逃生",
-      "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "火灾",
-        "消防",
-        "逃生",
-        "安全"
-      ],
-      "wordCount": 1265,
-      "id": "33c5e8b303ea8044"
-    },
-    {
-      "filename": "台风防范指南.json",
-      "title": "台风防范指南",
-      "description": "台风的形成、预警等级及防范措施",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "台风",
-        "自然灾害",
-        "风暴",
-        "防汛"
-      ],
-      "wordCount": 943,
-      "id": "2411eb1484625054"
-    },
-    {
-      "filename": "埃里克森心理社会发展阶段.json",
-      "title": "埃里克森心理社会发展阶段专题",
-      "description": "埃里克森八阶段论：每阶段的心理危机、发展任务及与皮亚杰的对应关系",
-      "category": "心理学/发展心理学",
-      "tags": [
-        "埃里克森",
-        "心理社会发展",
-        "自我同一性",
-        "信任"
-      ],
-      "wordCount": 1331,
-      "id": "4ffa80d1b2387788"
-    },
-    {
-      "filename": "道德发展.json",
-      "title": "道德发展专题",
-      "description": "科尔伯格三水平六阶段理论、Piaget的道德发展理论、道德发展与认知发展的关系",
-      "category": "心理学/发展心理学",
-      "tags": [
-        "道德发展",
-        "科尔伯格",
-        "前习俗",
-        "习俗",
-        "后习俗"
-      ],
-      "wordCount": 1102,
-      "id": "d726a2e255cb8b6d"
+      "wordCount": 3000,
+      "id": "9999e9abdb4f9107"
     }
   ]
 }

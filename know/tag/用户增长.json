@@ -1,11 +1,11 @@
 {
   "meta": {
     "tag": "用户增长",
-    "count": 1
+    "count": 10
   },
   "articles": [
     {
-      "filename": "用户增长黑客AARRR模型指南.json",
+      "filename": "八、数据分析.json",
       "title": "用户增长黑客AARRR模型完全指南",
       "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
       "category": "营销增长/增长策略",
@@ -17,8 +17,152 @@
         "留存",
         "变现"
       ],
-      "wordCount": 3364,
-      "id": "b75bd2fc0a3bc9fc"
+      "wordCount": 245,
+      "id": "3e8c1eaada72e115"
+    },
+    {
+      "filename": "二、获客（Acquisition）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 424,
+      "id": "7ebf73c3583211eb"
+    },
+    {
+      "filename": "九、增长案例.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 276,
+      "id": "9d5a1a68bab84a46"
+    },
+    {
+      "filename": "六、推荐（Referral）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 333,
+      "id": "1d831cfe85c0ae81"
+    },
+    {
+      "filename": "七、AARRR优化顺序.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 290,
+      "id": "b99fc178867c3e17"
+    },
+    {
+      "filename": "三、激活（Activation）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 310,
+      "id": "bac81368c8afecc4"
+    },
+    {
+      "filename": "十、增长避坑.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 232,
+      "id": "cc6965f683fca4c5"
+    },
+    {
+      "filename": "四、留存（Retention）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 398,
+      "id": "c89248ff9fd131bd"
+    },
+    {
+      "filename": "五、变现（Revenue）.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 379,
+      "id": "c06658b380aa59f7"
+    },
+    {
+      "filename": "一、AARRR模型概述.json",
+      "title": "用户增长黑客AARRR模型完全指南",
+      "description": "用AARRR模型系统拆解获客、激活、留存、变现、推荐的每个环节",
+      "category": "营销增长/增长策略",
+      "tags": [
+        "AARRR模型",
+        "用户增长",
+        "增长黑客",
+        "获客",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 434,
+      "id": "85b82cb3699e3070"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "创业指南/创业准备",
-    "count": 4
+    "count": 8
   },
   "articles": [
     {
@@ -34,6 +34,15 @@
       "id": "b61a78b3a451aca6"
     },
     {
+      "filename": "二、BP的标准结构.json",
+      "title": "二、BP的标准结构",
+      "description": "",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 1569,
+      "id": "571113721481cb08"
+    },
+    {
       "filename": "极简生活实践手册_从断舍离到可持续生活.json",
       "title": "极简生活实践手册：从断舍离到可持续生活",
       "description": "极简生活实践手册：从断舍离到可持续生活的核心知识点汇总",
@@ -47,19 +56,40 @@
       "id": "81676dc754485af1"
     },
     {
-      "filename": "商业计划书撰写指南.json",
-      "title": "商业计划书撰写指南",
-      "description": "从结构框架到内容策略，全面指导如何撰写一份能打动投资人和合作伙伴的高质量商业计划书",
+      "filename": "三、BP写作的常见错误.json",
+      "title": "三、BP写作的常见错误",
+      "description": "",
       "category": "创业指南/创业准备",
-      "tags": [
-        "商业计划书",
-        "BP",
-        "创业",
-        "融资",
-        "战略规划"
-      ],
-      "wordCount": 2715,
-      "id": "fdfe3ec36c40d849"
+      "tags": [],
+      "wordCount": 486,
+      "id": "998c7805dd7f4639"
+    },
+    {
+      "filename": "四、BP的格式建议.json",
+      "title": "四、BP的格式建议",
+      "description": "",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 153,
+      "id": "3301d92fcb7bab76"
+    },
+    {
+      "filename": "五、总结.json",
+      "title": "五、总结",
+      "description": "",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 232,
+      "id": "dfd904fd6e80192c"
+    },
+    {
+      "filename": "一、商业计划书的本质.json",
+      "title": "一、商业计划书的本质",
+      "description": "",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 200,
+      "id": "98afc723a2b765ed"
     }
   ]
 }

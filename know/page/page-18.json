@@ -1,296 +1,266 @@
 {
   "page": 18,
-  "totalPages": 22,
-  "totalItems": 433,
+  "totalPages": 26,
+  "totalItems": 515,
   "items": [
     {
-      "filename": "人力资源规划.json",
-      "title": "人力资源规划",
-      "description": "中级经济师人力资源章节核心知识点，包括人力资源规划定义、流程、方法和实施",
-      "category": "中级经济师/人力资源",
+      "filename": "临床药物治疗学.json",
+      "title": "临床药物治疗学",
+      "description": "临床药物治疗学的基本概念、方法和应用",
+      "category": "执业药师",
       "tags": [
-        "中级经济师",
-        "人力资源",
-        "人力资源规划",
-        "需求预测",
-        "供给预测",
-        "人力资源计划"
+        "执业药师",
+        "临床药物治疗学"
       ],
-      "wordCount": 3023,
-      "id": "878dd468aadba640"
+      "wordCount": 1068,
+      "id": "0cc7be10dd883bdd"
     },
     {
-      "filename": "招聘与配置.json",
-      "title": "招聘与配置",
-      "description": "中级经济师人力资源章节核心知识点，包括招聘定义、流程、渠道和配置方法",
-      "category": "中级经济师/人力资源",
+      "filename": "药剂学.json",
+      "title": "药剂学",
+      "description": "药剂学的基本概念、剂型设计和质量控制",
+      "category": "执业药师",
       "tags": [
-        "中级经济师",
-        "人力资源",
-        "招聘与配置",
-        "招聘渠道",
-        "选拔方法",
-        "人员配置"
+        "执业药师",
+        "药剂学"
       ],
-      "wordCount": 1961,
-      "id": "a7dce44ebfac4cbf"
+      "wordCount": 895,
+      "id": "c9af10b06a7a5fdc"
     },
     {
-      "filename": "组织行为学概述.json",
-      "title": "组织行为学概述",
-      "description": "中级经济师人力资源章节核心知识点，包括组织行为学定义、研究对象、基本理论和研究方法",
-      "category": "中级经济师/人力资源",
+      "filename": "药理学.json",
+      "title": "药理学",
+      "description": "药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "中级经济师",
-        "人力资源",
-        "组织行为学",
-        "个体行为",
-        "群体行为",
-        "组织行为"
+        "执业药师",
+        "药理学"
       ],
-      "wordCount": 2187,
-      "id": "f4d8fb67f1127bde"
+      "wordCount": 765,
+      "id": "778ba3a88cb777e6"
     },
     {
-      "filename": "金融市场概述.json",
-      "title": "金融市场概述",
-      "description": "中级经济师金融章节核心知识点，包括金融市场定义、类型、功能和发展趋势",
-      "category": "中级经济师/专业科目",
+      "filename": "药事法规.json",
+      "title": "药事法规",
+      "description": "药事法规的基本内容和应用",
+      "category": "执业药师",
       "tags": [
-        "中级经济师",
-        "金融",
-        "金融市场",
-        "货币市场",
-        "资本市场",
-        "金融工具"
+        "执业药师",
+        "药事法规"
       ],
-      "wordCount": 1860,
-      "id": "bda87b9b4d9beb05"
+      "wordCount": 1102,
+      "id": "96e5785a6604edbe"
     },
     {
-      "filename": "企业战略管理.json",
-      "title": "企业战略管理",
-      "description": "中级经济师工商管理章节核心知识点，包括企业战略定义、类型、制定过程和实施",
-      "category": "中级经济师/专业科目",
+      "filename": "药物分析.json",
+      "title": "药物分析",
+      "description": "药物分析的基本概念、方法和应用",
+      "category": "执业药师",
       "tags": [
-        "中级经济师",
-        "工商管理",
-        "企业战略",
-        "战略管理",
-        "战略制定",
-        "战略实施"
+        "执业药师",
+        "药物分析"
       ],
-      "wordCount": 2101,
-      "id": "776f43da18e81d08"
+      "wordCount": 687,
+      "id": "f827d9c6e100d0c6"
+    },
+    {
+      "filename": "药物化学.json",
+      "title": "药物化学",
+      "description": "药物化学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物化学"
+      ],
+      "wordCount": 712,
+      "id": "283f7d749ab0a9bd"
+    },
+    {
+      "filename": "药物流行病学.json",
+      "title": "药物流行病学",
+      "description": "药物流行病学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物流行病学"
+      ],
+      "wordCount": 785,
+      "id": "479906c22a84c019"
+    },
+    {
+      "filename": "药物信息学.json",
+      "title": "药物信息学",
+      "description": "药物信息学的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物信息学"
+      ],
+      "wordCount": 627,
+      "id": "ec33fb671d75b331"
+    },
+    {
+      "filename": "药学综合知识.json",
+      "title": "药学综合知识",
+      "description": "药学综合知识的核心内容和实践应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药学综合知识"
+      ],
+      "wordCount": 751,
+      "id": "744569747e72cf13"
+    },
+    {
+      "filename": "用药安全.json",
+      "title": "用药安全",
+      "description": "用药安全的重要性、常见问题和防范措施",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "用药安全"
+      ],
+      "wordCount": 1386,
+      "id": "5026e3c2e834005f"
     },
     {
       "filename": "核心考点.json",
-      "title": "注册会计师考试核心考点",
-      "description": "CPA备考知识体系：会计、审计、财管、税法、经济法、公司战略核心考点",
-      "category": "注册会计师",
+      "title": "执业药师核心考点",
+      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "审计"
+        "药师",
+        "药学",
+        "法规"
       ],
-      "wordCount": 30,
-      "id": "f6856ff8e910a234"
+      "wordCount": 2516,
+      "id": "1ad4d4522a1af0f5"
     },
     {
-      "filename": "本量利分析.json",
-      "title": "本量利分析",
-      "description": "CPA财务成本管理本量利分析章节核心知识点，包括成本、业务量和利润之间的关系",
-      "category": "注册会计师/财务成本管理",
+      "filename": "执业药师职业发展.json",
+      "title": "执业药师职业发展",
+      "description": "执业药师的职业发展路径、能力要求和发展策略",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "本量利分析",
-        "盈亏平衡分析"
+        "执业药师",
+        "职业发展"
       ],
-      "wordCount": 1238,
-      "id": "e69fb0be6ed42e87"
+      "wordCount": 966,
+      "id": "b9eedacd274ec4f7"
     },
     {
-      "filename": "标准成本法.json",
-      "title": "标准成本法",
-      "description": "CPA财务成本管理标准成本法章节核心知识点，包括标准成本的制定和差异分析",
-      "category": "注册会计师/财务成本管理",
+      "filename": "中药药理学.json",
+      "title": "中药药理学",
+      "description": "中药药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "标准成本法",
-        "差异分析"
+        "执业药师",
+        "中药药理学"
       ],
-      "wordCount": 1197,
-      "id": "ada36c7df44cfc8c"
+      "wordCount": 830,
+      "id": "9b066dbcc5222aa4"
     },
     {
-      "filename": "财务报表分析.json",
-      "title": "财务报表分析",
-      "description": "CPA财务成本管理财务报表分析章节核心知识点，包括财务比率分析和财务报表解读",
-      "category": "注册会计师/财务成本管理",
+      "filename": "打造个人品牌的实用攻略_从0到1建立影响力资产.json",
+      "title": "打造个人品牌的实用攻略：从0到1建立影响力资产",
+      "description": "打造个人品牌的实用攻略：从0到1建立影响力资产的核心知识点汇总",
+      "category": "职场生存/个人品牌",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "财务报表分析",
-        "财务比率"
+        "个人品牌",
+        "IP",
+        "影响力"
       ],
-      "wordCount": 1142,
-      "id": "d6bad0bd03b2b269"
+      "wordCount": 2991,
+      "id": "07f49de7bf796592"
     },
     {
-      "filename": "财务管理概述.json",
-      "title": "财务管理概述",
-      "description": "CPA财务成本管理财务管理概述章节核心知识点，包括财务管理的目标和内容",
-      "category": "注册会计师/财务成本管理",
+      "filename": "个人品牌定位与变现_细分赛道选择与价值打造.json",
+      "title": "个人品牌定位与变现：细分赛道选择与价值打造",
+      "description": "个人品牌定位与变现：细分赛道选择与价值打造的核心知识点汇总",
+      "category": "职场生存/个人品牌",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "财务管理",
-        "目标内容"
+        "个人品牌",
+        "IP",
+        "影响力"
       ],
-      "wordCount": 971,
-      "id": "8950688bbf2ec982"
+      "wordCount": 6630,
+      "id": "08f76f2d89263def"
     },
     {
-      "filename": "财务预测.json",
-      "title": "财务预测",
-      "description": "CPA财务成本管理财务预测章节核心知识点，包括销售预测和财务报表预测",
-      "category": "注册会计师/财务成本管理",
+      "filename": "保密条款与知识产权归属.json",
+      "title": "保密条款与知识产权归属",
+      "description": "保密条款与知识产权归属",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "财务预测",
-        "销售预测"
+        "劳动合同",
+        "合同陷阱",
+        "职场法律",
+        "劳动权益",
+        "合同条款"
       ],
-      "wordCount": 1153,
-      "id": "11b78855ee02f677"
+      "wordCount": 276,
+      "id": "82cc35c1cf010a39"
     },
     {
-      "filename": "成本计算.json",
-      "title": "成本计算",
-      "description": "CPA财务成本管理成本计算章节核心知识点，包括产品成本计算和期间费用核算",
-      "category": "注册会计师/财务成本管理",
+      "filename": "被裁员了怎么办.json",
+      "title": "被裁员了怎么办",
+      "description": "公司裁员后的应对步骤、合法权益和注意事项",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "成本计算",
-        "产品成本"
+        "裁员",
+        "劳动法",
+        "维权",
+        "职场"
       ],
-      "wordCount": 1906,
-      "id": "065c8ad87974a650"
+      "wordCount": 1701,
+      "id": "86d3a9ab107e00e0"
     },
     {
-      "filename": "短期经营决策.json",
-      "title": "短期经营决策",
-      "description": "CPA财务成本管理短期经营决策章节核心知识点，包括生产决策和定价决策",
-      "category": "注册会计师/财务成本管理",
+      "filename": "工时制度与加班费计算.json",
+      "title": "工时制度与加班费计算",
+      "description": "工时制度与加班费计算",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "短期经营决策",
-        "生产决策"
+        "劳动合同",
+        "合同陷阱",
+        "职场法律",
+        "劳动权益",
+        "合同条款"
       ],
-      "wordCount": 1645,
-      "id": "84b668cd84915823"
+      "wordCount": 657,
+      "id": "0debc9b5d8c63213"
     },
     {
-      "filename": "股利分配管理.json",
-      "title": "股利分配管理",
-      "description": "CPA财务成本管理股利分配管理章节核心知识点，包括股利政策和股利分配程序",
-      "category": "注册会计师/财务成本管理",
+      "filename": "经济补偿金基础概念.json",
+      "title": "经济补偿金基础概念",
+      "description": "经济补偿金基础概念",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "股利分配",
-        "股利政策"
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
       ],
-      "wordCount": 1367,
-      "id": "f5381d37d1ad70e5"
+      "wordCount": 200,
+      "id": "5bc9496bb71ebbb6"
     },
     {
-      "filename": "投资项目资本预算.json",
-      "title": "投资项目资本预算",
-      "description": "CPA财务成本管理投资项目资本预算章节核心知识点，包括投资项目评价方法和现金流量估计",
-      "category": "注册会计师/财务成本管理",
+      "filename": "经济补偿金计算实例.json",
+      "title": "经济补偿金计算实例",
+      "description": "经济补偿金计算实例",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "资本预算",
-        "投资评价"
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
       ],
-      "wordCount": 1294,
-      "id": "55190ec6c81061af"
-    },
-    {
-      "filename": "业绩评价.json",
-      "title": "业绩评价",
-      "description": "CPA财务成本管理业绩评价章节核心知识点，包括责任中心业绩评价和平衡计分卡",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "业绩评价",
-        "责任中心"
-      ],
-      "wordCount": 1454,
-      "id": "d53ebb5704b79ab8"
-    },
-    {
-      "filename": "营运资本管理.json",
-      "title": "营运资本管理",
-      "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "营运资本管理",
-        "现金管理"
-      ],
-      "wordCount": 1667,
-      "id": "2d7e42c1f5481c14"
-    },
-    {
-      "filename": "长期筹资决策.json",
-      "title": "长期筹资决策",
-      "description": "CPA财务成本管理长期筹资决策章节核心知识点，包括长期债务筹资和权益筹资",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "长期筹资决策",
-        "债务筹资"
-      ],
-      "wordCount": 2247,
-      "id": "670d126dde85e887"
-    },
-    {
-      "filename": "资本成本.json",
-      "title": "资本成本",
-      "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "资本成本",
-        "加权平均资本成本"
-      ],
-      "wordCount": 1077,
-      "id": "b92a62598fbda8c6"
-    },
-    {
-      "filename": "资本结构.json",
-      "title": "资本结构",
-      "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "资本结构",
-        "最优资本结构"
-      ],
-      "wordCount": 1105,
-      "id": "132d229e1b8c363c"
+      "wordCount": 708,
+      "id": "6ebe2d71766f2163"
     }
   ]
 }

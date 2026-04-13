@@ -1,8 +1,127 @@
 {
   "page": 9,
-  "totalPages": 22,
-  "totalItems": 433,
+  "totalPages": 26,
+  "totalItems": 515,
   "items": [
+    {
+      "filename": "教师与学生.json",
+      "title": "教师与学生",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "教师",
+        "学生",
+        "考研"
+      ],
+      "wordCount": 471,
+      "id": "e9dfd65e1316b9ea"
+    },
+    {
+      "filename": "教学理论与方法.json",
+      "title": "教学理论与方法",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "教学",
+        "考研"
+      ],
+      "wordCount": 567,
+      "id": "0f451ce6149b0900"
+    },
+    {
+      "filename": "教育目的.json",
+      "title": "教育目的",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "教育目的",
+        "考研"
+      ],
+      "wordCount": 341,
+      "id": "d6c2d2d167c2f571"
+    },
+    {
+      "filename": "教育现代化与教育改革.json",
+      "title": "教育现代化与教育改革",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "教育现代化",
+        "教育改革",
+        "考研"
+      ],
+      "wordCount": 634,
+      "id": "09957b419e9fd41b"
+    },
+    {
+      "filename": "教育心理学概述.json",
+      "title": "教育心理学概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "教育心理学",
+        "考研"
+      ],
+      "wordCount": 440,
+      "id": "190810ca16151813"
+    },
+    {
+      "filename": "教育学原理概述.json",
+      "title": "教育学原理概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "原理",
+        "考研"
+      ],
+      "wordCount": 271,
+      "id": "9f7678e998c22920"
+    },
+    {
+      "filename": "教育研究方法概述.json",
+      "title": "教育研究方法概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "研究方法",
+        "考研"
+      ],
+      "wordCount": 462,
+      "id": "cb76ac3d73313f7a"
+    },
+    {
+      "filename": "教育与人的发展.json",
+      "title": "教育与人的发展",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "人的发展",
+        "考研"
+      ],
+      "wordCount": 344,
+      "id": "17f5df24d454b3d5"
+    },
+    {
+      "filename": "课程理论与实践.json",
+      "title": "课程理论与实践",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "课程",
+        "考研"
+      ],
+      "wordCount": 555,
+      "id": "66fc11554d006482"
+    },
     {
       "filename": "外国教育史概述.json",
       "title": "外国教育史概述",
@@ -143,118 +262,6 @@
       ],
       "wordCount": 30,
       "id": "89130bc5d5b8903d"
-    },
-    {
-      "filename": "人力资源管理师职业发展.json",
-      "title": "人力资源管理师职业发展",
-      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "职业发展"
-      ],
-      "wordCount": 932,
-      "id": "b003aff1861bb29f"
-    },
-    {
-      "filename": "人力资源规划.json",
-      "title": "人力资源规划",
-      "description": "人力资源规划的核心概念、流程和实践方法",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "人力资源规划"
-      ],
-      "wordCount": 523,
-      "id": "7d04338392048966"
-    },
-    {
-      "filename": "人力资源信息化.json",
-      "title": "人力资源信息化",
-      "description": "人力资源信息化的概念、实施和管理策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "人力资源信息化"
-      ],
-      "wordCount": 873,
-      "id": "22b9ef7332fc03a9"
-    },
-    {
-      "filename": "薪酬管理.json",
-      "title": "薪酬管理",
-      "description": "薪酬管理的体系、设计和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "薪酬管理"
-      ],
-      "wordCount": 733,
-      "id": "c450ac405a5ae475"
-    },
-    {
-      "filename": "员工福利管理.json",
-      "title": "员工福利管理",
-      "description": "员工福利管理的体系、设计和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "员工福利"
-      ],
-      "wordCount": 828,
-      "id": "6e92b5ebeb4989fb"
-    },
-    {
-      "filename": "员工关系管理.json",
-      "title": "员工关系管理",
-      "description": "员工关系管理的概念、方法和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "员工关系"
-      ],
-      "wordCount": 994,
-      "id": "a2b4325c1626edca"
-    },
-    {
-      "filename": "战略性人力资源管理.json",
-      "title": "战略性人力资源管理",
-      "description": "战略性人力资源管理的概念、实施和管理策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "战略性人力资源管理"
-      ],
-      "wordCount": 883,
-      "id": "4e0c2768a54f324e"
-    },
-    {
-      "filename": "招聘与配置.json",
-      "title": "招聘与配置",
-      "description": "招聘与配置的流程、方法和最佳实践",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "招聘",
-        "配置"
-      ],
-      "wordCount": 720,
-      "id": "5c83fb187aec2197"
-    },
-    {
-      "filename": "沉没成本谬误.json",
-      "title": "沉没成本谬误",
-      "description": "因为已经在一件事上投入了资源（时间、金钱、精力），即使明知继续是错的，人们仍然不愿放弃或止损的非理性决策模式",
-      "category": "认知思维/认知偏差",
-      "tags": [
-        "沉没成本",
-        "认知偏差",
-        "决策心理",
-        "止损",
-        "非理性"
-      ],
-      "wordCount": 2125,
-      "id": "91043131be67efa9"
     }
   ]
 }

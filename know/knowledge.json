@@ -1,13 +1,21 @@
 {
   "meta": {
-    "totalArticles": 433,
+    "totalArticles": 515,
     "totalCategories": 60,
-    "totalTags": 909
+    "totalTags": 878
   },
   "categories": [
     {
       "name": "职场生存/劳动权益",
-      "count": 28
+      "count": 37
+    },
+    {
+      "name": "营销增长/增长策略",
+      "count": 33
+    },
+    {
+      "name": "营销增长/内容创作",
+      "count": 24
     },
     {
       "name": "考研专业课/计算机学科专业基础综合",
@@ -54,6 +62,10 @@
       "count": 14
     },
     {
+      "name": "认知思维/学习方法",
+      "count": 14
+    },
+    {
       "name": "人力资源管理师",
       "count": 13
     },
@@ -78,6 +90,10 @@
       "count": 10
     },
     {
+      "name": "认知思维/思维工具",
+      "count": 10
+    },
+    {
       "name": "心理学/社会心理学",
       "count": 10
     },
@@ -90,8 +106,16 @@
       "count": 10
     },
     {
+      "name": "创业指南/创业准备",
+      "count": 8
+    },
+    {
       "name": "生活通识/健康养生",
       "count": 8
+    },
+    {
+      "name": "产品研发/产品设计",
+      "count": 7
     },
     {
       "name": "法律常识",
@@ -106,12 +130,12 @@
       "count": 7
     },
     {
-      "name": "认知思维/思维工具",
+      "name": "心理学/基础心理学",
       "count": 6
     },
     {
-      "name": "心理学/基础心理学",
-      "count": 6
+      "name": "产品研发/开发实践",
+      "count": 5
     },
     {
       "name": "公务员/申论",
@@ -122,23 +146,11 @@
       "count": 5
     },
     {
-      "name": "认知思维/学习方法",
-      "count": 5
-    },
-    {
       "name": "心理学/认知心理学",
       "count": 5
     },
     {
-      "name": "产品研发/产品设计",
-      "count": 4
-    },
-    {
       "name": "产品研发/产品思考",
-      "count": 4
-    },
-    {
-      "name": "创业指南/创业准备",
       "count": 4
     },
     {
@@ -154,10 +166,6 @@
       "count": 4
     },
     {
-      "name": "产品研发/开发实践",
-      "count": 3
-    },
-    {
       "name": "生活通识/安全防范",
       "count": 3
     },
@@ -167,14 +175,6 @@
     },
     {
       "name": "心理学/心理测量",
-      "count": 3
-    },
-    {
-      "name": "营销增长/内容创作",
-      "count": 3
-    },
-    {
-      "name": "营销增长/增长策略",
       "count": 3
     },
     {
@@ -248,68 +248,49 @@
   ],
   "recentArticles": [
     {
-      "filename": "产品定位.json",
-      "title": "随身工具宝 产品定位",
-      "description": "随身工具宝小程序的产品定位与差异化分析",
+      "filename": "二、我每天必用的 5 个工具.json",
+      "title": "二、我每天必用的 5 个工具",
+      "description": "二、我每天必用的 5 个工具",
       "category": "产品研发/产品设计",
-      "tags": [
-        "产品定位",
-        "差异化",
-        "竞品分析"
-      ],
-      "wordCount": 2190,
-      "id": "ec3531e24d289fec"
+      "tags": [],
+      "wordCount": 776,
+      "id": "8f2b08b0c76cfa40"
     },
     {
-      "filename": "开发思路.json",
-      "title": "随身工具宝 开发思路",
-      "description": "随身工具宝小程序开发思路与技术选型分享",
+      "filename": "六、随身工具宝 为什么能坚持用？.json",
+      "title": "六、随身工具宝 为什么能坚持用？",
+      "description": "六、随身工具宝 为什么能坚持用？",
       "category": "产品研发/产品设计",
-      "tags": [
-        "开发",
-        "技术选型",
-        "产品"
-      ],
-      "wordCount": 3383,
-      "id": "c31edf6c4c2b89f9"
+      "tags": [],
+      "wordCount": 196,
+      "id": "67f3ec674e5c4c74"
     },
     {
-      "filename": "使用场景.json",
-      "title": "随身工具宝 使用场景",
-      "description": "随身工具宝小程序的各种使用场景详解",
+      "filename": "七、写在最后.json",
+      "title": "七、写在最后",
+      "description": "七、写在最后",
       "category": "产品研发/产品设计",
-      "tags": [
-        "使用场景",
-        "用户场景"
-      ],
-      "wordCount": 2276,
-      "id": "d8afbb8b09234303"
+      "tags": [],
+      "wordCount": 151,
+      "id": "3d1e8ab41e73f329"
     },
     {
-      "filename": "转型之路.json",
-      "title": "随身工具宝 转型之路",
-      "description": "从工具集合到知识查询的产品转型思考",
+      "filename": "三、那些我「存着但很少用」的工具.json",
+      "title": "三、那些我「存着但很少用」的工具",
+      "description": "三、那些我「存着但很少用」的工具",
       "category": "产品研发/产品设计",
-      "tags": [
-        "产品转型",
-        "知识库",
-        "产品迭代"
-      ],
-      "wordCount": 3648,
-      "id": "017e088e39d8d334"
+      "tags": [],
+      "wordCount": 219,
+      "id": "cd1c28901467f2e0"
     },
     {
-      "filename": "用户使用指南.json",
-      "title": "随身工具宝 用户使用指南",
-      "description": "随身工具宝小程序完整使用教程，从入门到精通",
-      "category": "产品研发/产品使用",
-      "tags": [
-        "使用指南",
-        "教程",
-        "工具宝"
-      ],
-      "wordCount": 1985,
-      "id": "0bd6f905fbf1dee0"
+      "filename": "四、我的工具使用原则.json",
+      "title": "四、我的工具使用原则",
+      "description": "四、我的工具使用原则",
+      "category": "产品研发/产品设计",
+      "tags": [],
+      "wordCount": 286,
+      "id": "1a2ed18c29d8aa07"
     }
   ],
   "popularTags": [
@@ -317,11 +298,11 @@
     "考研",
     "建造师",
     "中级经济师",
+    "内容创作",
     "会计",
     "408",
     "一建",
     "教育学",
-    "基础知识",
-    "审计"
+    "基础知识"
   ]
 }

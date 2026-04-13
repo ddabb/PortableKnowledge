@@ -1,22 +1,17 @@
 {
   "meta": {
     "category": "认知思维/思维工具",
-    "count": 6
+    "count": 10
   },
   "articles": [
     {
-      "filename": "first-principles-thinking.json",
-      "title": "第一性原理思维",
-      "description": "从最基本的事实和假设出发，而非类比和模仿，重新构建认知和解决问题的思维方式",
+      "filename": "二、核心方法论.json",
+      "title": "二、核心方法论",
+      "description": "",
       "category": "认知思维/思维工具",
-      "tags": [
-        "第一性原理",
-        "马斯克",
-        "创新思维",
-        "本质思考"
-      ],
-      "wordCount": 4577,
-      "id": "0c6d7250e35c10e8"
+      "tags": [],
+      "wordCount": 846,
+      "id": "37bed835d1e8db83"
     },
     {
       "filename": "fermi-estimation.json",
@@ -47,19 +42,22 @@
       "id": "c9329cb08bddeb48"
     },
     {
-      "filename": "six-thinking-hats.json",
-      "title": "六顶思考帽",
-      "description": "爱德华·德博诺博士创立的平行思维工具，通过六种颜色帽子代表六种思维模式，帮助团队高效决策",
+      "filename": "六、总结.json",
+      "title": "六、总结",
+      "description": "",
       "category": "认知思维/思维工具",
-      "tags": [
-        "六顶思考帽",
-        "德博诺",
-        "团队决策",
-        "平行思维",
-        "会议工具"
-      ],
-      "wordCount": 5106,
-      "id": "ff7e5c9787f9a609"
+      "tags": [],
+      "wordCount": 463,
+      "id": "d548e72fc9c6c2af"
+    },
+    {
+      "filename": "三、应用场景与案例.json",
+      "title": "三、应用场景与案例",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 1186,
+      "id": "c4bb2b1e6d4fa336"
     },
     {
       "filename": "思维导图应用_从思考到表达的可视化工具.json",
@@ -73,6 +71,33 @@
       ],
       "wordCount": 1336,
       "id": "3aa1f3c2e74dd1cb"
+    },
+    {
+      "filename": "四、操作步骤详解.json",
+      "title": "四、操作步骤详解",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 682,
+      "id": "8e3e56e14203d0c2"
+    },
+    {
+      "filename": "五、局限性.json",
+      "title": "五、局限性",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 434,
+      "id": "085f90a6cdcd3ada"
+    },
+    {
+      "filename": "一、定义与起源.json",
+      "title": "一、定义与起源",
+      "description": "",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 849,
+      "id": "93ecaaf33d632f5b"
     },
     {
       "filename": "SWOT分析法.json",

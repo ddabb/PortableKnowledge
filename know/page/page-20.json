@@ -1,279 +1,303 @@
 {
   "page": 20,
-  "totalPages": 22,
-  "totalItems": 433,
+  "totalPages": 26,
+  "totalItems": 515,
   "items": [
     {
-      "filename": "无形资产.json",
-      "title": "无形资产",
-      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
-      "category": "注册会计师/会计",
+      "filename": "八、实际案例分析.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "无形资产",
-        "摊销"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 1259,
-      "id": "b2a8b4a2135a7253"
+      "wordCount": 396,
+      "id": "4bcd90a2b8ec94fb"
     },
     {
-      "filename": "应付利息和应付股利.json",
-      "title": "应付利息和应付股利",
-      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
-      "category": "注册会计师/会计",
+      "filename": "二、养老保险.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "应付利息",
-        "应付股利"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 668,
-      "id": "548bdca14739cb31"
+      "wordCount": 632,
+      "id": "ea908dfc8cd34d6f"
     },
     {
-      "filename": "应付票据.json",
-      "title": "应付票据",
-      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
-      "category": "注册会计师/会计",
+      "filename": "九、操作建议.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "应付票据",
-        "商业汇票"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 762,
-      "id": "b6bd3ee4d13fca56"
+      "wordCount": 262,
+      "id": "2848c888767dbec2"
     },
     {
-      "filename": "应付账款.json",
-      "title": "应付账款",
-      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
-      "category": "注册会计师/会计",
+      "filename": "六、生育保险.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "应付账款",
-        "现金折扣"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 1044,
-      "id": "2350ee48d8cc9b5b"
+      "wordCount": 435,
+      "id": "708e93ae4d0c39e2"
     },
     {
-      "filename": "应付职工薪酬.json",
-      "title": "应付职工薪酬",
-      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
-      "category": "注册会计师/会计",
+      "filename": "七、住房公积金.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "应付职工薪酬",
-        "核算"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 1144,
-      "id": "568e00039dccb6b5"
+      "wordCount": 601,
+      "id": "9ceacbd554ec6e4e"
     },
     {
-      "filename": "应交税费.json",
-      "title": "应交税费",
-      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
-      "category": "注册会计师/会计",
+      "filename": "三、医疗保险.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "应交税费",
-        "增值税"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 1207,
-      "id": "42db45ed35059dd0"
+      "wordCount": 508,
+      "id": "749145059a8968a3"
     },
     {
-      "filename": "应收及预付款项.json",
-      "title": "应收及预付款项",
-      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
-      "category": "注册会计师/会计",
+      "filename": "十、总结.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "应收账款",
-        "应收票据"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 1285,
-      "id": "b149d1a5237bfb5f"
+      "wordCount": 302,
+      "id": "78f49f8334c88ee6"
     },
     {
-      "filename": "预收账款.json",
-      "title": "预收账款",
-      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
-      "category": "注册会计师/会计",
+      "filename": "四、失业保险.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "预收账款",
-        "核算"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 702,
-      "id": "5a1db8a8635278a1"
+      "wordCount": 505,
+      "id": "5920f7884dcab5b1"
     },
     {
-      "filename": "长期股权投资.json",
-      "title": "长期股权投资",
-      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
-      "category": "注册会计师/会计",
+      "filename": "五、工伤保险.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "长期股权投资",
-        "权益法"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 1636,
-      "id": "ea6795870a4ab109"
+      "wordCount": 648,
+      "id": "5695651ec4461fd5"
     },
     {
-      "filename": "长期借款.json",
-      "title": "长期借款",
-      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
-      "category": "注册会计师/会计",
+      "filename": "一、什么是·五险一金·.json",
+      "title": "五险一金全解读",
+      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "长期借款",
-        "利息核算"
+        "五险一金",
+        "社保",
+        "公积金",
+        "职场权益",
+        "劳动保障"
       ],
-      "wordCount": 1007,
-      "id": "f71eb9e8b48a6518"
+      "wordCount": 266,
+      "id": "71d249f63fa522fa"
     },
     {
-      "filename": "资产概述.json",
-      "title": "资产概述",
-      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
-      "category": "注册会计师/会计",
+      "filename": "租房避坑指南.json",
+      "title": "租房避坑指南",
+      "description": "租房过程中需要注意的问题、常见陷阱和应对方法",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "CPA",
-        "会计",
-        "资产",
-        "确认计量"
+        "租房",
+        "房屋租赁",
+        "合同",
+        "维权"
       ],
-      "wordCount": 665,
-      "id": "0d0c571d57a88cef"
+      "wordCount": 2002,
+      "id": "ce7ac980fb29b413"
     },
     {
-      "filename": "反不正当竞争法概述.json",
-      "title": "反不正当竞争法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "N+1代通知金适用情形.json",
+      "title": "N+1代通知金适用情形",
+      "description": "N+1代通知金适用情形",
+      "category": "职场生存/劳动权益",
       "tags": [
-        "反不正当竞争法",
-        "经济法",
-        "CPA"
+        "经济补偿",
+        "年终奖",
+        "离职赔偿",
+        "期权",
+        "N+1",
+        "2N"
       ],
-      "wordCount": 757,
-      "id": "c4e8b6f024c78459"
+      "wordCount": 605,
+      "id": "a200fef44e616fea"
     },
     {
-      "filename": "反垄断法概述.json",
-      "title": "反垄断法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "情绪调节的科学方法.json",
+      "title": "情绪调节的科学方法",
+      "description": "情绪调节的科学方法的核心知识点汇总",
+      "category": "职场生存/情绪与压力",
       "tags": [
-        "反垄断法",
-        "经济法",
-        "CPA"
+        "情商",
+        "心理健康",
+        "情绪调节"
       ],
-      "wordCount": 327,
-      "id": "dc2a54c5f75a7bdc"
+      "wordCount": 3768,
+      "id": "88b19b1e76c62bb8"
     },
     {
-      "filename": "公司法概述.json",
-      "title": "公司法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "如何管理愤怒情绪_平息内心的火焰.json",
+      "title": "如何管理愤怒情绪",
+      "description": "从愤怒的生理机制到实用的情绪调节方法，学会健康地处理愤怒",
+      "category": "职场生存/情绪与压力",
       "tags": [
-        "公司法",
-        "经济法",
-        "CPA"
+        "愤怒管理",
+        "情绪调节",
+        "心理学",
+        "情商",
+        "心理健康"
       ],
-      "wordCount": 294,
-      "id": "ff86ecb868f095ee"
+      "wordCount": 2513,
+      "id": "33c67d344e6f722e"
     },
     {
-      "filename": "合同法概述.json",
-      "title": "合同法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "如何缓解焦虑_寻找内心的平静.json",
+      "title": "如何缓解焦虑",
+      "description": "从焦虑的本质到实用的缓解方法，找回内心的平静",
+      "category": "职场生存/情绪与压力",
       "tags": [
-        "合同法",
-        "经济法",
-        "CPA"
+        "焦虑",
+        "情绪调节",
+        "心理学",
+        "心理健康",
+        "冥想"
       ],
-      "wordCount": 318,
-      "id": "103610937ddf56f5"
+      "wordCount": 2775,
+      "id": "ae313beb8c38e2d5"
     },
     {
-      "filename": "经济纠纷解决方式.json",
-      "title": "经济纠纷解决方式",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "如何克服悲伤_在失落中寻找光明.json",
+      "title": "如何克服悲伤",
+      "description": "在失落中寻找光明，科学面对悲伤情绪，走出心理困境",
+      "category": "职场生存/情绪与压力",
       "tags": [
-        "经济纠纷",
-        "解决方式",
-        "经济法",
-        "CPA"
+        "悲伤处理",
+        "心理学",
+        "心理健康",
+        "情绪调节",
+        "心理韧性"
       ],
-      "wordCount": 624,
-      "id": "6f28046aa934540d"
+      "wordCount": 2884,
+      "id": "42095ba3a8860a7f"
     },
     {
-      "filename": "票据法概述.json",
-      "title": "票据法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "如何培养积极心态_转变思维的艺术.json",
+      "title": "如何培养积极心态：转变思维的艺术",
+      "description": "如何培养积极心态：转变思维的艺术的核心知识点汇总",
+      "category": "职场生存/情绪与压力",
       "tags": [
-        "票据法",
-        "经济法",
-        "CPA"
+        "幸福感",
+        "积极心理学",
+        "心态"
       ],
-      "wordCount": 215,
-      "id": "b2f548bfa3843e2b"
+      "wordCount": 4159,
+      "id": "34b5cfe0c7ce8657"
     },
     {
-      "filename": "破产法概述.json",
-      "title": "破产法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "如何培养自我接纳.json",
+      "title": "如何培养自我接纳",
+      "description": "学会接受真实的自己，建立健康的自尊，活出自在人生",
+      "category": "职场生存/情绪与压力",
       "tags": [
-        "破产法",
-        "经济法",
-        "CPA"
+        "自我接纳",
+        "自尊",
+        "心理健康",
+        "心理学",
+        "积极心态"
       ],
-      "wordCount": 283,
-      "id": "cd6bfd3f56cbfb10"
+      "wordCount": 2756,
+      "id": "7767527b5bac1040"
     },
     {
-      "filename": "企业国有资产法概述.json",
-      "title": "企业国有资产法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "如何应对压力_在风暴中保持平衡.json",
+      "title": "如何应对压力",
+      "description": "从压力的本质到实用的压力管理方法，在风暴中保持平衡",
+      "category": "职场生存/情绪与压力",
       "tags": [
-        "企业国有资产法",
-        "经济法",
-        "CPA"
+        "压力管理",
+        "心理学",
+        "心理健康",
+        "情绪调节",
+        "心理韧性"
       ],
-      "wordCount": 470,
-      "id": "ea02692ed7be380d"
+      "wordCount": 3294,
+      "id": "a3d4504c4f9577cd"
     },
     {
-      "filename": "涉外经济法律制度概述.json",
-      "title": "涉外经济法律制度概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "如何正确面对拖延症.json",
+      "title": "如何正确面对拖延症",
+      "description": "从心理机制到实用方法，系统解决拖延问题",
+      "category": "职场生存/情绪与压力",
       "tags": [
-        "涉外经济法律制度",
-        "经济法",
-        "CPA"
+        "拖延症",
+        "自我管理",
+        "时间管理",
+        "行为干预",
+        "心理学"
       ],
-      "wordCount": 318,
-      "id": "3b46227da5fa1039"
+      "wordCount": 1966,
+      "id": "bb7502f622413c7c"
     }
   ]
 }
