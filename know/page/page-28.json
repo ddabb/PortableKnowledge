@@ -1,8 +1,162 @@
 {
   "page": 28,
-  "totalPages": 35,
-  "totalItems": 694,
+  "totalPages": 36,
+  "totalItems": 704,
   "items": [
+    {
+      "filename": "群体心理现象.json",
+      "title": "群体心理现象专题",
+      "description": "群体极化、群体思维、去个体化、社会懈怠的概念、原因与经典实验",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "群体极化",
+        "群体思维",
+        "去个体化",
+        "社会懈怠",
+        "群体影响"
+      ],
+      "wordCount": 1372,
+      "order": 541,
+      "id": "349434d472e5818d"
+    },
+    {
+      "filename": "人际吸引与爱情.json",
+      "title": "人际吸引与爱情专题",
+      "description": "人际吸引的规则（接近性、熟悉性、相似性、互补性）、爱情三角理论、依恋风格",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "人际吸引",
+        "爱情三角",
+        "接近性",
+        "相似性"
+      ],
+      "wordCount": 1216,
+      "order": 542,
+      "id": "0f579c8c18d3e31a"
+    },
+    {
+      "filename": "社会影响_从众与服从.json",
+      "title": "社会影响：从众与服从专题",
+      "description": "从众的定义与原因、服从的Milgram实验、顺从与登门槛效应",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "从众",
+        "服从",
+        "顺从",
+        "Milgram",
+        "社会影响"
+      ],
+      "wordCount": 1001,
+      "order": 543,
+      "id": "96a40a23aa600945"
+    },
+    {
+      "filename": "态度与态度改变.json",
+      "title": "态度与态度改变专题",
+      "description": "态度的ABC成分、态度与行为的关系、说服的两种路径（精细加工可能性模型）",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "态度",
+        "态度改变",
+        "说服",
+        "精细加工可能性模型"
+      ],
+      "wordCount": 1105,
+      "order": 544,
+      "id": "f3717a4e30e52c25"
+    },
+    {
+      "filename": "印象形成与社会认知.json",
+      "title": "印象形成与社会认知专题",
+      "description": "印象形成的线索与效应、首因效应、近因效应、光环效应、社会认知偏差",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "印象形成",
+        "首因效应",
+        "光环效应",
+        "社会认知"
+      ],
+      "wordCount": 1387,
+      "order": 545,
+      "id": "27cd97f465ad0abd"
+    },
+    {
+      "filename": "标准化与常模.json",
+      "title": "标准化与常模专题",
+      "description": "标准化施测程序、常模类型（年龄常模、年级常模、百分位常模）、分数解释",
+      "category": "心理学/心理测量",
+      "tags": [
+        "标准化",
+        "常模",
+        "百分位",
+        "心理测量"
+      ],
+      "wordCount": 1229,
+      "order": 546,
+      "id": "5aabc0dedf9caa17"
+    },
+    {
+      "filename": "难度与区分度.json",
+      "title": "难度与区分度专题",
+      "description": "难度的定义与计算、区分度的定义与计算、难度与信效度的关系",
+      "category": "心理学/心理测量",
+      "tags": [
+        "难度",
+        "区分度",
+        "项目分析",
+        "心理测量"
+      ],
+      "wordCount": 1154,
+      "order": 547,
+      "id": "88755c157dc033c9"
+    },
+    {
+      "filename": "信度与效度.json",
+      "title": "心理测量基础专题",
+      "description": "信度的定义与类型、效度的定义与类型、信度与效度的关系及计算方法",
+      "category": "心理学/心理测量",
+      "tags": [
+        "信度",
+        "效度",
+        "重测信度",
+        "内容效度",
+        "结构效度"
+      ],
+      "wordCount": 1529,
+      "order": 548,
+      "id": "8df86894a83d77e6"
+    },
+    {
+      "filename": "操作性条件反射.json",
+      "title": "操作性条件反射专题",
+      "description": "桑代克效果率、斯金纳实验、四种强化与惩罚、消退与维持",
+      "category": "心理学/行为心理学",
+      "tags": [
+        "操作性条件反射",
+        "强化",
+        "惩罚",
+        "消退",
+        "斯金纳"
+      ],
+      "wordCount": 1204,
+      "order": 549,
+      "id": "8645d8be37792e64"
+    },
+    {
+      "filename": "观察学习与社会学习.json",
+      "title": "观察学习与社会学习专题",
+      "description": "班杜拉观察学习四过程、直接强化与替代强化、自我强化",
+      "category": "心理学/行为心理学",
+      "tags": [
+        "观察学习",
+        "班杜拉",
+        "社会学习理论",
+        "替代强化"
+      ],
+      "wordCount": 652,
+      "order": 550,
+      "id": "0186b616b1f60c25"
+    },
     {
       "filename": "经典条件反射.json",
       "title": "经典条件反射专题",
@@ -17,7 +171,7 @@
         "分化"
       ],
       "wordCount": 1022,
-      "order": 541,
+      "order": 551,
       "id": "4709c7b94aaf1b3b"
     },
     {
@@ -32,7 +186,7 @@
         "斯金纳"
       ],
       "wordCount": 1116,
-      "order": 542,
+      "order": 552,
       "id": "f7c8da8366627d21"
     },
     {
@@ -49,7 +203,7 @@
         "写作技巧"
       ],
       "wordCount": 3399,
-      "order": 543,
+      "order": 553,
       "id": "84377ff04d0c6366"
     },
     {
@@ -64,7 +218,7 @@
         "爆款选题"
       ],
       "wordCount": 2921,
-      "order": 544,
+      "order": 554,
       "id": "aaa8a385d9f6e7ac"
     },
     {
@@ -80,7 +234,7 @@
         "博主运营"
       ],
       "wordCount": 3904,
-      "order": 545,
+      "order": 555,
       "id": "69052c998f6e69ce"
     },
     {
@@ -95,7 +249,7 @@
         "账号运营"
       ],
       "wordCount": 3526,
-      "order": 546,
+      "order": 556,
       "id": "f88a1a6202a67dc7"
     },
     {
@@ -111,7 +265,7 @@
         "微信生态"
       ],
       "wordCount": 4183,
-      "order": 547,
+      "order": 557,
       "id": "178fee16517bbef8"
     },
     {
@@ -128,7 +282,7 @@
         "变现"
       ],
       "wordCount": 3364,
-      "order": 548,
+      "order": 558,
       "id": "b75bd2fc0a3bc9fc"
     },
     {
@@ -141,7 +295,7 @@
         "药物分类"
       ],
       "wordCount": 1356,
-      "order": 549,
+      "order": 559,
       "id": "b75b5e129e44e042"
     },
     {
@@ -154,138 +308,8 @@
         "临床药理学"
       ],
       "wordCount": 928,
-      "order": 550,
-      "id": "019a37c34d921c94"
-    },
-    {
-      "filename": "临床药物治疗学.json",
-      "title": "临床药物治疗学",
-      "description": "临床药物治疗学的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "临床药物治疗学"
-      ],
-      "wordCount": 1068,
-      "order": 551,
-      "id": "0cc7be10dd883bdd"
-    },
-    {
-      "filename": "药剂学.json",
-      "title": "药剂学",
-      "description": "药剂学的基本概念、剂型设计和质量控制",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药剂学"
-      ],
-      "wordCount": 895,
-      "order": 552,
-      "id": "c9af10b06a7a5fdc"
-    },
-    {
-      "filename": "药理学.json",
-      "title": "药理学",
-      "description": "药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药理学"
-      ],
-      "wordCount": 765,
-      "order": 553,
-      "id": "778ba3a88cb777e6"
-    },
-    {
-      "filename": "药事法规.json",
-      "title": "药事法规",
-      "description": "药事法规的基本内容和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药事法规"
-      ],
-      "wordCount": 1102,
-      "order": 554,
-      "id": "96e5785a6604edbe"
-    },
-    {
-      "filename": "药物分析.json",
-      "title": "药物分析",
-      "description": "药物分析的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物分析"
-      ],
-      "wordCount": 687,
-      "order": 555,
-      "id": "f827d9c6e100d0c6"
-    },
-    {
-      "filename": "药物化学.json",
-      "title": "药物化学",
-      "description": "药物化学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物化学"
-      ],
-      "wordCount": 712,
-      "order": 556,
-      "id": "283f7d749ab0a9bd"
-    },
-    {
-      "filename": "药物流行病学.json",
-      "title": "药物流行病学",
-      "description": "药物流行病学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物流行病学"
-      ],
-      "wordCount": 785,
-      "order": 557,
-      "id": "479906c22a84c019"
-    },
-    {
-      "filename": "药物信息学.json",
-      "title": "药物信息学",
-      "description": "药物信息学的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物信息学"
-      ],
-      "wordCount": 627,
-      "order": 558,
-      "id": "ec33fb671d75b331"
-    },
-    {
-      "filename": "药学综合知识.json",
-      "title": "药学综合知识",
-      "description": "药学综合知识的核心内容和实践应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药学综合知识"
-      ],
-      "wordCount": 751,
-      "order": 559,
-      "id": "744569747e72cf13"
-    },
-    {
-      "filename": "用药安全.json",
-      "title": "用药安全",
-      "description": "用药安全的重要性、常见问题和防范措施",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "用药安全"
-      ],
-      "wordCount": 1386,
       "order": 560,
-      "id": "5026e3c2e834005f"
+      "id": "019a37c34d921c94"
     }
   ]
 }

@@ -20,7 +20,7 @@
         "地理"
       ],
       "wordCount": 195,
-      "order": 32,
+      "order": 35,
       "id": "ad827cbb8bf8f659"
     },
     {
@@ -37,7 +37,7 @@
         "逻辑判断"
       ],
       "wordCount": 236,
-      "order": 33,
+      "order": 36,
       "id": "9050b3beccad874f"
     },
     {
@@ -52,7 +52,7 @@
         "数字推理"
       ],
       "wordCount": 182,
-      "order": 34,
+      "order": 37,
       "id": "f8b4a33207004494"
     },
     {
@@ -68,7 +68,7 @@
         "语句表达"
       ],
       "wordCount": 177,
-      "order": 35,
+      "order": 38,
       "id": "915e1a246acfeb53"
     },
     {
@@ -84,7 +84,7 @@
         "图表分析"
       ],
       "wordCount": 152,
-      "order": 36,
+      "order": 39,
       "id": "edd1848040ae9fb2"
     }
   ]

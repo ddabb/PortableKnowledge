@@ -1,8 +1,158 @@
 {
   "page": 33,
-  "totalPages": 35,
-  "totalItems": 694,
+  "totalPages": 36,
+  "totalItems": 704,
   "items": [
+    {
+      "filename": "战略实施.json",
+      "title": "战略实施",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略实施",
+        "组织结构",
+        "企业文化",
+        "CPA"
+      ],
+      "wordCount": 260,
+      "order": 641,
+      "id": "43412207cdc7f6c8"
+    },
+    {
+      "filename": "战略选择.json",
+      "title": "战略选择",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略选择",
+        "总体战略",
+        "业务单位战略",
+        "CPA"
+      ],
+      "wordCount": 335,
+      "order": 642,
+      "id": "e8dbbb72eb78980a"
+    },
+    {
+      "filename": "存货.json",
+      "title": "存货",
+      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "存货",
+        "计量方法"
+      ],
+      "wordCount": 1214,
+      "order": 643,
+      "id": "f4d27b56c0abc7b6"
+    },
+    {
+      "filename": "短期借款.json",
+      "title": "短期借款",
+      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "短期借款",
+        "利息核算"
+      ],
+      "wordCount": 674,
+      "order": 644,
+      "id": "2ce4bfe39200714a"
+    },
+    {
+      "filename": "负债概述.json",
+      "title": "负债概述",
+      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "负债",
+        "确认计量"
+      ],
+      "wordCount": 707,
+      "order": 645,
+      "id": "2a8d3bc844708f18"
+    },
+    {
+      "filename": "固定资产.json",
+      "title": "固定资产",
+      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "固定资产",
+        "折旧"
+      ],
+      "wordCount": 1300,
+      "order": 646,
+      "id": "44317f6c09f098d5"
+    },
+    {
+      "filename": "货币资金.json",
+      "title": "货币资金",
+      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "货币资金",
+        "现金管理"
+      ],
+      "wordCount": 1178,
+      "order": 647,
+      "id": "33408f637aca0506"
+    },
+    {
+      "filename": "金融资产.json",
+      "title": "金融资产",
+      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "金融资产",
+        "分类"
+      ],
+      "wordCount": 1398,
+      "order": 648,
+      "id": "0568b7fcfb220ec9"
+    },
+    {
+      "filename": "其他应付款.json",
+      "title": "其他应付款",
+      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "其他应付款",
+        "核算"
+      ],
+      "wordCount": 525,
+      "order": 649,
+      "id": "23ba7ef0a40abfe7"
+    },
+    {
+      "filename": "所有者权益概述.json",
+      "title": "所有者权益概述",
+      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "所有者权益",
+        "构成"
+      ],
+      "wordCount": 1132,
+      "order": 650,
+      "id": "602d76b9bea46d42"
+    },
     {
       "filename": "投资性房地产.json",
       "title": "投资性房地产",
@@ -15,7 +165,7 @@
         "计量模式"
       ],
       "wordCount": 1634,
-      "order": 641,
+      "order": 651,
       "id": "6459a2efc0496b74"
     },
     {
@@ -30,7 +180,7 @@
         "摊销"
       ],
       "wordCount": 1259,
-      "order": 642,
+      "order": 652,
       "id": "b2a8b4a2135a7253"
     },
     {
@@ -45,7 +195,7 @@
         "应付股利"
       ],
       "wordCount": 668,
-      "order": 643,
+      "order": 653,
       "id": "548bdca14739cb31"
     },
     {
@@ -60,7 +210,7 @@
         "商业汇票"
       ],
       "wordCount": 762,
-      "order": 644,
+      "order": 654,
       "id": "b6bd3ee4d13fca56"
     },
     {
@@ -75,7 +225,7 @@
         "现金折扣"
       ],
       "wordCount": 1044,
-      "order": 645,
+      "order": 655,
       "id": "2350ee48d8cc9b5b"
     },
     {
@@ -90,7 +240,7 @@
         "核算"
       ],
       "wordCount": 1144,
-      "order": 646,
+      "order": 656,
       "id": "568e00039dccb6b5"
     },
     {
@@ -105,7 +255,7 @@
         "增值税"
       ],
       "wordCount": 1207,
-      "order": 647,
+      "order": 657,
       "id": "42db45ed35059dd0"
     },
     {
@@ -120,7 +270,7 @@
         "应收票据"
       ],
       "wordCount": 1285,
-      "order": 648,
+      "order": 658,
       "id": "b149d1a5237bfb5f"
     },
     {
@@ -135,7 +285,7 @@
         "核算"
       ],
       "wordCount": 702,
-      "order": 649,
+      "order": 659,
       "id": "5a1db8a8635278a1"
     },
     {
@@ -150,151 +300,8 @@
         "权益法"
       ],
       "wordCount": 1636,
-      "order": 650,
-      "id": "ea6795870a4ab109"
-    },
-    {
-      "filename": "长期借款.json",
-      "title": "长期借款",
-      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "长期借款",
-        "利息核算"
-      ],
-      "wordCount": 1007,
-      "order": 651,
-      "id": "f71eb9e8b48a6518"
-    },
-    {
-      "filename": "资产概述.json",
-      "title": "资产概述",
-      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "资产",
-        "确认计量"
-      ],
-      "wordCount": 665,
-      "order": 652,
-      "id": "0d0c571d57a88cef"
-    },
-    {
-      "filename": "反不正当竞争法概述.json",
-      "title": "反不正当竞争法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "反不正当竞争法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 757,
-      "order": 653,
-      "id": "c4e8b6f024c78459"
-    },
-    {
-      "filename": "反垄断法概述.json",
-      "title": "反垄断法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "反垄断法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 327,
-      "order": 654,
-      "id": "dc2a54c5f75a7bdc"
-    },
-    {
-      "filename": "公司法概述.json",
-      "title": "公司法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "公司法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 294,
-      "order": 655,
-      "id": "ff86ecb868f095ee"
-    },
-    {
-      "filename": "合同法概述.json",
-      "title": "合同法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "合同法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 318,
-      "order": 656,
-      "id": "103610937ddf56f5"
-    },
-    {
-      "filename": "经济纠纷解决方式.json",
-      "title": "经济纠纷解决方式",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "经济纠纷",
-        "解决方式",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 624,
-      "order": 657,
-      "id": "6f28046aa934540d"
-    },
-    {
-      "filename": "票据法概述.json",
-      "title": "票据法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "票据法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 215,
-      "order": 658,
-      "id": "b2f548bfa3843e2b"
-    },
-    {
-      "filename": "破产法概述.json",
-      "title": "破产法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "破产法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 283,
-      "order": 659,
-      "id": "cd6bfd3f56cbfb10"
-    },
-    {
-      "filename": "企业国有资产法概述.json",
-      "title": "企业国有资产法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "企业国有资产法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 470,
       "order": 660,
-      "id": "ea02692ed7be380d"
+      "id": "ea6795870a4ab109"
     }
   ]
 }

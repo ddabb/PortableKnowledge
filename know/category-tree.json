@@ -1,7 +1,7 @@
 {
   "name": "root",
   "path": "",
-  "count": 694,
+  "count": 704,
   "children": {
     "产品研发": {
       "name": "产品研发",
@@ -49,18 +49,18 @@
     "创业指南": {
       "name": "创业指南",
       "path": "创业指南",
-      "count": 4,
+      "count": 7,
       "children": {
         "财务规划": {
           "name": "财务规划",
           "path": "创业指南/财务规划",
-          "count": 1,
+          "count": 2,
           "children": {}
         },
         "创业准备": {
           "name": "创业准备",
           "path": "创业指南/创业准备",
-          "count": 2,
+          "count": 4,
           "children": {}
         },
         "消费心理": {
@@ -180,24 +180,24 @@
     "认知思维": {
       "name": "认知思维",
       "path": "认知思维",
-      "count": 15,
+      "count": 22,
       "children": {
         "认知偏差": {
           "name": "认知偏差",
           "path": "认知思维/认知偏差",
-          "count": 8,
+          "count": 11,
           "children": {}
         },
         "思维工具": {
           "name": "思维工具",
           "path": "认知思维/思维工具",
-          "count": 4,
+          "count": 6,
           "children": {}
         },
         "学习方法": {
           "name": "学习方法",
           "path": "认知思维/学习方法",
-          "count": 3,
+          "count": 5,
           "children": {}
         }
       }

@@ -1,8 +1,53 @@
 {
   "page": 3,
-  "totalPages": 35,
-  "totalItems": 694,
+  "totalPages": 36,
+  "totalItems": 704,
   "items": [
+    {
+      "filename": "个人所得税申报完全指南.json",
+      "title": "个人所得税申报完全指南",
+      "description": "个税专项附加扣除填报、年终奖计税、汇算清缴操作指南",
+      "category": "家庭理财",
+      "tags": [
+        "个人所得税",
+        "税务",
+        "省钱",
+        "汇算清缴"
+      ],
+      "wordCount": 2219,
+      "order": 41,
+      "id": "313befdbd2156ccb"
+    },
+    {
+      "filename": "股票投资入门指南.json",
+      "title": "股票投资入门指南",
+      "description": "A股、港股、美股基础知识，开户流程，价值投资策略",
+      "category": "家庭理财",
+      "tags": [
+        "股票",
+        "投资理财",
+        "A股",
+        "价值投资"
+      ],
+      "wordCount": 871,
+      "order": 42,
+      "id": "09a2db743a62a947"
+    },
+    {
+      "filename": "合理避税与税务规划指南.json",
+      "title": "合理避税与税务规划指南",
+      "description": "合法降低税负的税务规划方法、个人所得税优化技巧",
+      "category": "家庭理财",
+      "tags": [
+        "税务规划",
+        "合理避税",
+        "个税优化",
+        "合法节税"
+      ],
+      "wordCount": 2057,
+      "order": 43,
+      "id": "8918cf37f7e3d190"
+    },
     {
       "filename": "基金投资入门完全指南.json",
       "title": "基金投资入门完全指南",
@@ -15,7 +60,7 @@
         "资产配置"
       ],
       "wordCount": 1735,
-      "order": 41,
+      "order": 44,
       "id": "2dbf3ed33b83b24c"
     },
     {
@@ -30,7 +75,7 @@
         "家庭财务"
       ],
       "wordCount": 2223,
-      "order": 42,
+      "order": 45,
       "id": "6f7af19d56814a8a"
     },
     {
@@ -45,7 +90,7 @@
         "免息期"
       ],
       "wordCount": 2142,
-      "order": 43,
+      "order": 46,
       "id": "7143f08329e2f263"
     },
     {
@@ -59,7 +104,7 @@
         "二建"
       ],
       "wordCount": 4763,
-      "order": 44,
+      "order": 47,
       "id": "891b181955bf8c6c"
     },
     {
@@ -74,7 +119,7 @@
         "建造师"
       ],
       "wordCount": 207,
-      "order": 45,
+      "order": 48,
       "id": "1240fa0d522af118"
     },
     {
@@ -89,7 +134,7 @@
         "建造师"
       ],
       "wordCount": 211,
-      "order": 46,
+      "order": 49,
       "id": "bfe11c4860e52603"
     },
     {
@@ -103,7 +148,7 @@
         "建造师"
       ],
       "wordCount": 559,
-      "order": 47,
+      "order": 50,
       "id": "db168e021cb0af71"
     },
     {
@@ -118,7 +163,7 @@
         "建造师"
       ],
       "wordCount": 279,
-      "order": 48,
+      "order": 51,
       "id": "1b488fe70388ed27"
     },
     {
@@ -132,7 +177,7 @@
         "建造师"
       ],
       "wordCount": 451,
-      "order": 49,
+      "order": 52,
       "id": "6a8179b10f109354"
     },
     {
@@ -147,7 +192,7 @@
         "建造师"
       ],
       "wordCount": 156,
-      "order": 50,
+      "order": 53,
       "id": "a1bcf29ecea453db"
     },
     {
@@ -162,7 +207,7 @@
         "建造师"
       ],
       "wordCount": 173,
-      "order": 51,
+      "order": 54,
       "id": "2cf94587fbc8d89b"
     },
     {
@@ -177,7 +222,7 @@
         "建造师"
       ],
       "wordCount": 274,
-      "order": 52,
+      "order": 55,
       "id": "f936e49ca2584e1f"
     },
     {
@@ -192,7 +237,7 @@
         "建造师"
       ],
       "wordCount": 299,
-      "order": 53,
+      "order": 56,
       "id": "2a47b56568900495"
     },
     {
@@ -207,7 +252,7 @@
         "建造师"
       ],
       "wordCount": 200,
-      "order": 54,
+      "order": 57,
       "id": "8fe4ea7995d306b2"
     },
     {
@@ -222,7 +267,7 @@
         "建造师"
       ],
       "wordCount": 205,
-      "order": 55,
+      "order": 58,
       "id": "b8d7bb2f2668fe1b"
     },
     {
@@ -237,7 +282,7 @@
         "建造师"
       ],
       "wordCount": 255,
-      "order": 56,
+      "order": 59,
       "id": "af4d0bf7f7db151a"
     },
     {
@@ -252,53 +297,8 @@
         "建造师"
       ],
       "wordCount": 166,
-      "order": 57,
-      "id": "c7c752a4767c2f39"
-    },
-    {
-      "filename": "项目质量管理.json",
-      "title": "项目质量管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "质量管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 199,
-      "order": 58,
-      "id": "71c39f516c268fd1"
-    },
-    {
-      "filename": "公路工程管理与实务.json",
-      "title": "公路工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "公路工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 207,
-      "order": 59,
-      "id": "fc359992b46f3ed3"
-    },
-    {
-      "filename": "机电工程管理与实务.json",
-      "title": "机电工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "机电工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 211,
       "order": 60,
-      "id": "a7b57ed1618be4bb"
+      "id": "c7c752a4767c2f39"
     }
   ]
 }

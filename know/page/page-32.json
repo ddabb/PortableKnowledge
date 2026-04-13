@@ -1,8 +1,158 @@
 {
   "page": 32,
-  "totalPages": 35,
-  "totalItems": 694,
+  "totalPages": 36,
+  "totalItems": 704,
   "items": [
+    {
+      "filename": "财务管理概述.json",
+      "title": "财务管理概述",
+      "description": "CPA财务成本管理财务管理概述章节核心知识点，包括财务管理的目标和内容",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "财务管理",
+        "目标内容"
+      ],
+      "wordCount": 971,
+      "order": 621,
+      "id": "8950688bbf2ec982"
+    },
+    {
+      "filename": "财务预测.json",
+      "title": "财务预测",
+      "description": "CPA财务成本管理财务预测章节核心知识点，包括销售预测和财务报表预测",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "财务预测",
+        "销售预测"
+      ],
+      "wordCount": 1153,
+      "order": 622,
+      "id": "11b78855ee02f677"
+    },
+    {
+      "filename": "成本计算.json",
+      "title": "成本计算",
+      "description": "CPA财务成本管理成本计算章节核心知识点，包括产品成本计算和期间费用核算",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "成本计算",
+        "产品成本"
+      ],
+      "wordCount": 1906,
+      "order": 623,
+      "id": "065c8ad87974a650"
+    },
+    {
+      "filename": "短期经营决策.json",
+      "title": "短期经营决策",
+      "description": "CPA财务成本管理短期经营决策章节核心知识点，包括生产决策和定价决策",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "短期经营决策",
+        "生产决策"
+      ],
+      "wordCount": 1645,
+      "order": 624,
+      "id": "84b668cd84915823"
+    },
+    {
+      "filename": "股利分配管理.json",
+      "title": "股利分配管理",
+      "description": "CPA财务成本管理股利分配管理章节核心知识点，包括股利政策和股利分配程序",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "股利分配",
+        "股利政策"
+      ],
+      "wordCount": 1367,
+      "order": 625,
+      "id": "f5381d37d1ad70e5"
+    },
+    {
+      "filename": "投资项目资本预算.json",
+      "title": "投资项目资本预算",
+      "description": "CPA财务成本管理投资项目资本预算章节核心知识点，包括投资项目评价方法和现金流量估计",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "资本预算",
+        "投资评价"
+      ],
+      "wordCount": 1294,
+      "order": 626,
+      "id": "55190ec6c81061af"
+    },
+    {
+      "filename": "业绩评价.json",
+      "title": "业绩评价",
+      "description": "CPA财务成本管理业绩评价章节核心知识点，包括责任中心业绩评价和平衡计分卡",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "业绩评价",
+        "责任中心"
+      ],
+      "wordCount": 1454,
+      "order": 627,
+      "id": "d53ebb5704b79ab8"
+    },
+    {
+      "filename": "营运资本管理.json",
+      "title": "营运资本管理",
+      "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "营运资本管理",
+        "现金管理"
+      ],
+      "wordCount": 1667,
+      "order": 628,
+      "id": "2d7e42c1f5481c14"
+    },
+    {
+      "filename": "长期筹资决策.json",
+      "title": "长期筹资决策",
+      "description": "CPA财务成本管理长期筹资决策章节核心知识点，包括长期债务筹资和权益筹资",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "长期筹资决策",
+        "债务筹资"
+      ],
+      "wordCount": 2247,
+      "order": 629,
+      "id": "670d126dde85e887"
+    },
+    {
+      "filename": "资本成本.json",
+      "title": "资本成本",
+      "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "资本成本",
+        "加权平均资本成本"
+      ],
+      "wordCount": 1077,
+      "order": 630,
+      "id": "b92a62598fbda8c6"
+    },
     {
       "filename": "资本结构.json",
       "title": "资本结构",
@@ -15,7 +165,7 @@
         "最优资本结构"
       ],
       "wordCount": 1105,
-      "order": 621,
+      "order": 631,
       "id": "132d229e1b8c363c"
     },
     {
@@ -30,7 +180,7 @@
         "作业成本计算"
       ],
       "wordCount": 1082,
-      "order": 622,
+      "order": 632,
       "id": "95515ebefa36205d"
     },
     {
@@ -44,7 +194,7 @@
         "CPA"
       ],
       "wordCount": 325,
-      "order": 623,
+      "order": 633,
       "id": "c8ef74778c2a8653"
     },
     {
@@ -59,7 +209,7 @@
         "CPA"
       ],
       "wordCount": 319,
-      "order": 624,
+      "order": 634,
       "id": "e25e79384e2ea402"
     },
     {
@@ -73,7 +223,7 @@
         "CPA"
       ],
       "wordCount": 305,
-      "order": 625,
+      "order": 635,
       "id": "d60db92a0a1e612d"
     },
     {
@@ -87,7 +237,7 @@
         "CPA"
       ],
       "wordCount": 353,
-      "order": 626,
+      "order": 636,
       "id": "2f119a4f008efbc3"
     },
     {
@@ -101,7 +251,7 @@
         "CPA"
       ],
       "wordCount": 395,
-      "order": 627,
+      "order": 637,
       "id": "905b4983f825a260"
     },
     {
@@ -116,7 +266,7 @@
         "CPA"
       ],
       "wordCount": 391,
-      "order": 628,
+      "order": 638,
       "id": "d20a69426118ea9f"
     },
     {
@@ -130,7 +280,7 @@
         "CPA"
       ],
       "wordCount": 272,
-      "order": 629,
+      "order": 639,
       "id": "fc146a253ac6f230"
     },
     {
@@ -145,158 +295,8 @@
         "CPA"
       ],
       "wordCount": 276,
-      "order": 630,
-      "id": "f49cbddb991d1ae2"
-    },
-    {
-      "filename": "战略实施.json",
-      "title": "战略实施",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略实施",
-        "组织结构",
-        "企业文化",
-        "CPA"
-      ],
-      "wordCount": 260,
-      "order": 631,
-      "id": "43412207cdc7f6c8"
-    },
-    {
-      "filename": "战略选择.json",
-      "title": "战略选择",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略选择",
-        "总体战略",
-        "业务单位战略",
-        "CPA"
-      ],
-      "wordCount": 335,
-      "order": 632,
-      "id": "e8dbbb72eb78980a"
-    },
-    {
-      "filename": "存货.json",
-      "title": "存货",
-      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "存货",
-        "计量方法"
-      ],
-      "wordCount": 1214,
-      "order": 633,
-      "id": "f4d27b56c0abc7b6"
-    },
-    {
-      "filename": "短期借款.json",
-      "title": "短期借款",
-      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "短期借款",
-        "利息核算"
-      ],
-      "wordCount": 674,
-      "order": 634,
-      "id": "2ce4bfe39200714a"
-    },
-    {
-      "filename": "负债概述.json",
-      "title": "负债概述",
-      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "负债",
-        "确认计量"
-      ],
-      "wordCount": 707,
-      "order": 635,
-      "id": "2a8d3bc844708f18"
-    },
-    {
-      "filename": "固定资产.json",
-      "title": "固定资产",
-      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "固定资产",
-        "折旧"
-      ],
-      "wordCount": 1300,
-      "order": 636,
-      "id": "44317f6c09f098d5"
-    },
-    {
-      "filename": "货币资金.json",
-      "title": "货币资金",
-      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "货币资金",
-        "现金管理"
-      ],
-      "wordCount": 1178,
-      "order": 637,
-      "id": "33408f637aca0506"
-    },
-    {
-      "filename": "金融资产.json",
-      "title": "金融资产",
-      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "金融资产",
-        "分类"
-      ],
-      "wordCount": 1398,
-      "order": 638,
-      "id": "0568b7fcfb220ec9"
-    },
-    {
-      "filename": "其他应付款.json",
-      "title": "其他应付款",
-      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "其他应付款",
-        "核算"
-      ],
-      "wordCount": 525,
-      "order": 639,
-      "id": "23ba7ef0a40abfe7"
-    },
-    {
-      "filename": "所有者权益概述.json",
-      "title": "所有者权益概述",
-      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "所有者权益",
-        "构成"
-      ],
-      "wordCount": 1132,
       "order": 640,
-      "id": "602d76b9bea46d42"
+      "id": "f49cbddb991d1ae2"
     }
   ]
 }

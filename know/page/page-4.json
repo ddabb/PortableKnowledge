@@ -1,8 +1,53 @@
 {
   "page": 4,
-  "totalPages": 35,
-  "totalItems": 694,
+  "totalPages": 36,
+  "totalItems": 704,
   "items": [
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "order": 61,
+      "id": "71c39f516c268fd1"
+    },
+    {
+      "filename": "公路工程管理与实务.json",
+      "title": "公路工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "公路工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 207,
+      "order": 62,
+      "id": "fc359992b46f3ed3"
+    },
+    {
+      "filename": "机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "机电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 211,
+      "order": 63,
+      "id": "a7b57ed1618be4bb"
+    },
     {
       "filename": "建设工程法规及相关知识.json",
       "title": "建设工程法规及相关知识",
@@ -14,7 +59,7 @@
         "建造师"
       ],
       "wordCount": 559,
-      "order": 61,
+      "order": 64,
       "id": "7eef789c72cc2e71"
     },
     {
@@ -29,7 +74,7 @@
         "建造师"
       ],
       "wordCount": 279,
-      "order": 62,
+      "order": 65,
       "id": "fa1244339a69ec42"
     },
     {
@@ -43,7 +88,7 @@
         "建造师"
       ],
       "wordCount": 214,
-      "order": 63,
+      "order": 66,
       "id": "ca0d0ae8cf075c84"
     },
     {
@@ -58,7 +103,7 @@
         "建造师"
       ],
       "wordCount": 629,
-      "order": 64,
+      "order": 67,
       "id": "7159a8aa660324b4"
     },
     {
@@ -73,7 +118,7 @@
         "建造师"
       ],
       "wordCount": 156,
-      "order": 65,
+      "order": 68,
       "id": "30f9152bdb630791"
     },
     {
@@ -88,7 +133,7 @@
         "建造师"
       ],
       "wordCount": 173,
-      "order": 66,
+      "order": 69,
       "id": "24279326babd9df0"
     },
     {
@@ -103,7 +148,7 @@
         "建造师"
       ],
       "wordCount": 274,
-      "order": 67,
+      "order": 70,
       "id": "5793250af66a75fb"
     },
     {
@@ -118,7 +163,7 @@
         "建造师"
       ],
       "wordCount": 299,
-      "order": 68,
+      "order": 71,
       "id": "c1e52e11bb2d17af"
     },
     {
@@ -133,7 +178,7 @@
         "建造师"
       ],
       "wordCount": 200,
-      "order": 69,
+      "order": 72,
       "id": "45de03bdcf1f0f2c"
     },
     {
@@ -148,7 +193,7 @@
         "建造师"
       ],
       "wordCount": 205,
-      "order": 70,
+      "order": 73,
       "id": "37ba86cbdaa95f4c"
     },
     {
@@ -163,7 +208,7 @@
         "建造师"
       ],
       "wordCount": 247,
-      "order": 71,
+      "order": 74,
       "id": "8c658d432fcf62f0"
     },
     {
@@ -178,7 +223,7 @@
         "建造师"
       ],
       "wordCount": 224,
-      "order": 72,
+      "order": 75,
       "id": "cecb4e65997daedd"
     },
     {
@@ -193,7 +238,7 @@
         "建造师"
       ],
       "wordCount": 255,
-      "order": 73,
+      "order": 76,
       "id": "592f2ac643888a83"
     },
     {
@@ -208,7 +253,7 @@
         "建造师"
       ],
       "wordCount": 280,
-      "order": 74,
+      "order": 77,
       "id": "26b9c0766862828c"
     },
     {
@@ -223,7 +268,7 @@
         "建造师"
       ],
       "wordCount": 166,
-      "order": 75,
+      "order": 78,
       "id": "d3e3167c6698282e"
     },
     {
@@ -238,7 +283,7 @@
         "建造师"
       ],
       "wordCount": 233,
-      "order": 76,
+      "order": 79,
       "id": "ae4580952208ff40"
     },
     {
@@ -253,50 +298,8 @@
         "建造师"
       ],
       "wordCount": 199,
-      "order": 77,
-      "id": "ef5aeb98d5443572"
-    },
-    {
-      "filename": "核心考点.json",
-      "title": "教师资格证考试核心考点",
-      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
-      "category": "教师资格证",
-      "tags": [
-        "教资",
-        "教育学",
-        "心理学"
-      ],
-      "wordCount": 3569,
-      "order": 78,
-      "id": "bd7849ae8f9e3d7a"
-    },
-    {
-      "filename": "小学班级管理.json",
-      "title": "小学班级管理",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "班级管理",
-        "学生管理"
-      ],
-      "wordCount": 3662,
-      "order": 79,
-      "id": "f83ca1688447cb2a"
-    },
-    {
-      "filename": "小学教师职业道德.json",
-      "title": "小学教师职业道德",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教师职业道德",
-        "师德师风"
-      ],
-      "wordCount": 2833,
       "order": 80,
-      "id": "562e4f8f9266c0bb"
+      "id": "ef5aeb98d5443572"
     }
   ]
 }
