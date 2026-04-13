@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "OSI模型",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "计算机网络基础.json",
+      "title": "计算机网络基础",
+      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "网络基础",
+        "OSI模型",
+        "TCP-IP协议",
+        "系统集成"
+      ],
+      "wordCount": 1085,
+      "id": "9b3e767751872604"
+    }
+  ]
+}

@@ -1,283 +1,248 @@
 {
   "page": 41,
-  "totalPages": 43,
-  "totalItems": 857,
+  "totalPages": 58,
+  "totalItems": 1149,
   "items": [
     {
-      "filename": "金融资产.json",
-      "title": "金融资产",
-      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "金融资产",
-        "分类"
-      ],
-      "wordCount": 1398,
-      "id": "0568b7fcfb220ec9"
+      "filename": "四、测验法.json",
+      "title": "四、测验法",
+      "description": "四、测验法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 184,
+      "id": "685bf7590447b77a"
     },
     {
-      "filename": "其他应付款.json",
-      "title": "其他应付款",
-      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "其他应付款",
-        "核算"
-      ],
-      "wordCount": 525,
-      "id": "23ba7ef0a40abfe7"
+      "filename": "四、费希纳定律（对数定律）.json",
+      "title": "四、费希纳定律（对数定律）",
+      "description": "四、费希纳定律（对数定律）",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 105,
+      "id": "dd932e31953ab43a"
     },
     {
-      "filename": "所有者权益概述.json",
-      "title": "所有者权益概述",
-      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "所有者权益",
-        "构成"
-      ],
-      "wordCount": 1132,
-      "id": "602d76b9bea46d42"
+      "filename": "四、遗忘规律.json",
+      "title": "四、遗忘规律",
+      "description": "四、遗忘规律",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 202,
+      "id": "5b389d479c6166f8"
     },
     {
-      "filename": "投资性房地产.json",
-      "title": "投资性房地产",
-      "description": "CPA会计投资性房地产章节核心知识点，包括投资性房地产的确认、计量和转换",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "投资性房地产",
-        "计量模式"
-      ],
-      "wordCount": 1634,
-      "id": "6459a2efc0496b74"
+      "filename": "五、个案法.json",
+      "title": "五、个案法",
+      "description": "五、个案法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 103,
+      "id": "e5b408c26cf6468e"
     },
     {
-      "filename": "无形资产.json",
-      "title": "无形资产",
-      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "无形资产",
-        "摊销"
-      ],
-      "wordCount": 1259,
-      "id": "b2a8b4a2135a7253"
+      "filename": "五、遗忘的原因.json",
+      "title": "五、遗忘的原因",
+      "description": "五、遗忘的原因",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 317,
+      "id": "e6db170f684cb32f"
     },
     {
-      "filename": "应付利息和应付股利.json",
-      "title": "应付利息和应付股利",
-      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应付利息",
-        "应付股利"
-      ],
-      "wordCount": 668,
-      "id": "548bdca14739cb31"
+      "filename": "五、知觉概述.json",
+      "title": "五、知觉概述",
+      "description": "五、知觉概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 136,
+      "id": "c659224809a19c0a"
     },
     {
-      "filename": "应付票据.json",
-      "title": "应付票据",
-      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
-      "category": "注册会计师/会计",
+      "filename": "心理生理基础.json",
+      "title": "心理生理基础专题",
+      "description": "神经元结构、神经系统分类、大脑皮层功能区、内分泌系统与行为",
+      "category": "心理学/基础心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "应付票据",
-        "商业汇票"
+        "神经元",
+        "大脑皮层",
+        "神经系统",
+        "内分泌系统"
       ],
-      "wordCount": 762,
-      "id": "b6bd3ee4d13fca56"
+      "wordCount": 1233,
+      "id": "f2e412fe55237ca5"
     },
     {
-      "filename": "应付账款.json",
-      "title": "应付账款",
-      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应付账款",
-        "现金折扣"
-      ],
-      "wordCount": 1044,
-      "id": "2350ee48d8cc9b5b"
+      "filename": "一、感觉概述.json",
+      "title": "一、感觉概述",
+      "description": "一、感觉概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 124,
+      "id": "38ab9a2897ea1cb6"
     },
     {
-      "filename": "应付职工薪酬.json",
-      "title": "应付职工薪酬",
-      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应付职工薪酬",
-        "核算"
-      ],
-      "wordCount": 1144,
-      "id": "568e00039dccb6b5"
+      "filename": "一、观察法.json",
+      "title": "一、观察法",
+      "description": "一、观察法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 240,
+      "id": "3e319e8c5fd302f6"
     },
     {
-      "filename": "应交税费.json",
-      "title": "应交税费",
-      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应交税费",
-        "增值税"
-      ],
-      "wordCount": 1207,
-      "id": "42db45ed35059dd0"
+      "filename": "一、记忆概述.json",
+      "title": "一、记忆概述",
+      "description": "一、记忆概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 57,
+      "id": "d2cbef5b1fddad78"
     },
     {
-      "filename": "应收及预付款项.json",
-      "title": "应收及预付款项",
-      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
-      "category": "注册会计师/会计",
+      "filename": "注意品质与分类.json",
+      "title": "注意品质与分类专题",
+      "description": "无意注意、有意注意、有意后注意；注意的四种品质（广度、稳定性、分配、转移）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "应收账款",
-        "应收票据"
+        "注意",
+        "注意分类",
+        "注意品质",
+        "无意注意",
+        "有意注意"
       ],
-      "wordCount": 1285,
-      "id": "b149d1a5237bfb5f"
+      "wordCount": 1042,
+      "id": "8a74799c73e25f42"
     },
     {
-      "filename": "预收账款.json",
-      "title": "预收账款",
-      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
-      "category": "注册会计师/会计",
+      "filename": "情绪调节与情商.json",
+      "title": "情绪调节与情商专题",
+      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "预收账款",
-        "核算"
+        "情绪调节",
+        "情商",
+        "Gross模型",
+        "Goleman"
       ],
-      "wordCount": 702,
-      "id": "5a1db8a8635278a1"
+      "wordCount": 1222,
+      "id": "5816314001b8e360"
     },
     {
-      "filename": "长期股权投资.json",
-      "title": "长期股权投资",
-      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
-      "category": "注册会计师/会计",
+      "filename": "情绪理论.json",
+      "title": "情绪理论专题",
+      "description": "詹姆斯-兰格理论、坎农-巴德理论、沙赫特-辛格认知理论、拉扎勒斯认知评价理论",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "长期股权投资",
-        "权益法"
+        "情绪理论",
+        "詹姆斯-兰格",
+        "沙赫特-辛格",
+        "认知评价"
       ],
-      "wordCount": 1636,
-      "id": "ea6795870a4ab109"
+      "wordCount": 807,
+      "id": "b167ac6bea8adc57"
     },
     {
-      "filename": "长期借款.json",
-      "title": "长期借款",
-      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
-      "category": "注册会计师/会计",
+      "filename": "压力与应对.json",
+      "title": "压力与应对专题",
+      "description": "压力的定义与类型、压力反应、生理应激机制、应对策略",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "长期借款",
-        "利息核算"
+        "压力",
+        "应对策略",
+        "应激",
+        "压力源"
       ],
-      "wordCount": 1007,
-      "id": "f71eb9e8b48a6518"
+      "wordCount": 1241,
+      "id": "5c5c24851901db22"
     },
     {
-      "filename": "资产概述.json",
-      "title": "资产概述",
-      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
-      "category": "注册会计师/会计",
+      "filename": "人格评估方法.json",
+      "title": "人格评估方法专题",
+      "description": "人格评估的主要方法：自陈量表、投射测验、行为观察、评价量表",
+      "category": "心理学/人格心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "资产",
-        "确认计量"
+        "人格评估",
+        "MMPI",
+        "投射测验",
+        "罗夏墨迹",
+        "16PF"
       ],
-      "wordCount": 665,
-      "id": "0d0c571d57a88cef"
+      "wordCount": 1495,
+      "id": "f38c16be70111a8a"
     },
     {
-      "filename": "反不正当竞争法概述.json",
-      "title": "反不正当竞争法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "人格理论.json",
+      "title": "人格心理学专题",
+      "description": "人格的定义、特质理论（大五人格）、精神分析人格理论（弗洛伊德）、人格评估方法",
+      "category": "心理学/人格心理学",
       "tags": [
-        "反不正当竞争法",
-        "经济法",
-        "CPA"
+        "人格",
+        "特质理论",
+        "大五人格",
+        "弗洛伊德",
+        "精神分析"
       ],
-      "wordCount": 757,
-      "id": "c4e8b6f024c78459"
+      "wordCount": 1276,
+      "id": "6c75413d33c4ba6a"
     },
     {
-      "filename": "反垄断法概述.json",
-      "title": "反垄断法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "记忆模型与认知存储.json",
+      "title": "记忆模型与认知存储专题",
+      "description": "三级记忆模型、工作记忆模型（Baddeley）、编码与存储策略",
+      "category": "心理学/认知心理学",
       "tags": [
-        "反垄断法",
-        "经济法",
-        "CPA"
+        "记忆模型",
+        "工作记忆",
+        "编码",
+        "存储"
       ],
-      "wordCount": 327,
-      "id": "dc2a54c5f75a7bdc"
+      "wordCount": 848,
+      "id": "8b0569b108265dfc"
     },
     {
-      "filename": "公司法概述.json",
-      "title": "公司法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "决策与判断偏差.json",
+      "title": "决策与判断偏差专题",
+      "description": "启发法、确认偏差、后见之明偏差、可得性启发、框架效应等认知偏差",
+      "category": "心理学/认知心理学",
       "tags": [
-        "公司法",
-        "经济法",
-        "CPA"
+        "决策",
+        "判断偏差",
+        "启发法",
+        "确认偏差",
+        "后见之明"
       ],
-      "wordCount": 294,
-      "id": "ff86ecb868f095ee"
+      "wordCount": 915,
+      "id": "0e29e4e2423aa86a"
     },
     {
-      "filename": "合同法概述.json",
-      "title": "合同法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "问题解决与推理.json",
+      "title": "问题解决与推理专题",
+      "description": "问题解决的定义、问题空间、启发法与算法、推理类型（演绎、归纳）、影响因素",
+      "category": "心理学/认知心理学",
       "tags": [
-        "合同法",
-        "经济法",
-        "CPA"
+        "问题解决",
+        "推理",
+        "启发法",
+        "算法",
+        "演绎推理",
+        "归纳推理"
       ],
-      "wordCount": 318,
-      "id": "103610937ddf56f5"
+      "wordCount": 1140,
+      "id": "ba655ebf8847089f"
     },
     {
-      "filename": "经济纠纷解决方式.json",
-      "title": "经济纠纷解决方式",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "元认知.json",
+      "title": "元认知专题",
+      "description": "元认知的定义与构成（Flavell）、元认知知识、元认知监控、元认知调节策略",
+      "category": "心理学/认知心理学",
       "tags": [
-        "经济纠纷",
-        "解决方式",
-        "经济法",
-        "CPA"
+        "元认知",
+        "元认知知识",
+        "元认知监控",
+        "学习策略"
       ],
-      "wordCount": 624,
-      "id": "6f28046aa934540d"
+      "wordCount": 1179,
+      "id": "36295f2c1ae09532"
     }
   ]
 }

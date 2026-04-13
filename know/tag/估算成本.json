@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "估算成本",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "估算成本.json",
+      "title": "估算成本",
+      "description": "估算成本是对完成项目工作所需资源成本进行近似估算的过程。",
+      "category": "软考/项目管理/项目成本管理",
+      "tags": [
+        "规划过程组",
+        "估算成本",
+        "成本管理",
+        "PMP"
+      ],
+      "wordCount": 626,
+      "id": "0d7ed7d87effec02"
+    }
+  ]
+}

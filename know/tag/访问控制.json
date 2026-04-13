@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "访问控制",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "访问控制.json",
+      "title": "访问控制",
+      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "访问控制",
+        "DAC",
+        "MAC",
+        "RBAC",
+        "ABAC"
+      ],
+      "wordCount": 1481,
+      "id": "a4acf88dba3cb424"
+    }
+  ]
+}

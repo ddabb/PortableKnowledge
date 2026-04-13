@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "安全管理",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
@@ -31,6 +31,20 @@
       ],
       "wordCount": 200,
       "id": "45de03bdcf1f0f2c"
+    },
+    {
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
+      ],
+      "wordCount": 1272,
+      "id": "0abfa84f1b5a76b3"
     }
   ]
 }

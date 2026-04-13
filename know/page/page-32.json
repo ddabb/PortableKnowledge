@@ -1,252 +1,283 @@
 {
   "page": 32,
-  "totalPages": 43,
-  "totalItems": 857,
+  "totalPages": 58,
+  "totalItems": 1149,
   "items": [
     {
-      "filename": "药事法规.json",
-      "title": "药事法规",
-      "description": "药事法规的基本内容和应用",
-      "category": "执业药师",
+      "filename": "IT服务标准化.json",
+      "title": "IT服务标准化",
+      "description": "ITSS标准体系、服务标准及产业化",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "执业药师",
-        "药事法规"
+        "ITSS",
+        "服务标准化",
+        "服务产品化",
+        "服务产业化",
+        "服务标准"
       ],
-      "wordCount": 1102,
-      "id": "96e5785a6604edbe"
+      "wordCount": 1161,
+      "id": "d10daa126be329b3"
     },
     {
-      "filename": "药物分析.json",
-      "title": "药物分析",
-      "description": "药物分析的基本概念、方法和应用",
-      "category": "执业药师",
+      "filename": "IT服务生命周期.json",
+      "title": "IT服务生命周期",
+      "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "执业药师",
-        "药物分析"
+        "ITSS",
+        "SDOR",
+        "战略规划",
+        "设计实现",
+        "运营提升",
+        "退役终止"
       ],
-      "wordCount": 687,
-      "id": "f827d9c6e100d0c6"
+      "wordCount": 1009,
+      "id": "38d665afd4e8415a"
     },
     {
-      "filename": "药物化学.json",
-      "title": "药物化学",
-      "description": "药物化学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "软件测试.json",
+      "title": "软件测试",
+      "description": "软考中项软件测试核心知识，包括测试分类、测试方法、测试阶段及测试管理要点。",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "执业药师",
-        "药物化学"
+        "软件测试",
+        "黑盒测试",
+        "白盒测试",
+        "软件开发"
       ],
-      "wordCount": 712,
-      "id": "283f7d749ab0a9bd"
+      "wordCount": 1107,
+      "id": "192a488ce8718492"
     },
     {
-      "filename": "药物流行病学.json",
-      "title": "药物流行病学",
-      "description": "药物流行病学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "软件工程过程.json",
+      "title": "软件工程过程",
+      "description": "软件工程过程的定义、组成要素和主要活动",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "执业药师",
-        "药物流行病学"
+        "软件工程",
+        "过程管理",
+        "开发活动"
       ],
-      "wordCount": 785,
-      "id": "479906c22a84c019"
+      "wordCount": 705,
+      "id": "65185a18e8df025f"
     },
     {
-      "filename": "药物信息学.json",
-      "title": "药物信息学",
-      "description": "药物信息学的基本概念、方法和应用",
-      "category": "执业药师",
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "执业药师",
-        "药物信息学"
+        "软件集成",
+        "中间件",
+        "API",
+        "组件技术",
+        "SOA"
       ],
-      "wordCount": 627,
-      "id": "ec33fb671d75b331"
+      "wordCount": 1156,
+      "id": "f8a4a873312b7ef4"
     },
     {
-      "filename": "药学综合知识.json",
-      "title": "药学综合知识",
-      "description": "药学综合知识的核心内容和实践应用",
-      "category": "执业药师",
+      "filename": "软件开发模型.json",
+      "title": "软件开发模型",
+      "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷等模型的特点与适用场景。",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "执业药师",
-        "药学综合知识"
+        "软件开发",
+        "开发模型",
+        "瀑布模型",
+        "敏捷开发"
       ],
-      "wordCount": 751,
-      "id": "744569747e72cf13"
+      "wordCount": 982,
+      "id": "ec7d44d960838dac"
     },
     {
-      "filename": "用药安全.json",
-      "title": "用药安全",
-      "description": "用药安全的重要性、常见问题和防范措施",
-      "category": "执业药师",
+      "filename": "软件设计.json",
+      "title": "软件设计",
+      "description": "结构化设计、面向对象设计、UML、设计原则",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "执业药师",
-        "用药安全"
+        "软件设计",
+        "结构化设计",
+        "OOD",
+        "UML",
+        "设计模式"
       ],
-      "wordCount": 1386,
-      "id": "5026e3c2e834005f"
+      "wordCount": 1711,
+      "id": "008f8f7950c935c7"
     },
     {
-      "filename": "核心考点.json",
-      "title": "执业药师核心考点",
-      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
-      "category": "执业药师",
+      "filename": "软件质量保证.json",
+      "title": "软件质量保证",
+      "description": "软件质量管理、SQA活动、质量模型、测试方法",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "药师",
-        "药学",
-        "法规"
+        "软件质量",
+        "SQA",
+        "CMMI",
+        "软件测试"
       ],
-      "wordCount": 2516,
-      "id": "1ad4d4522a1af0f5"
+      "wordCount": 1456,
+      "id": "2a9e91bd4e628181"
     },
     {
-      "filename": "执业药师职业发展.json",
-      "title": "执业药师职业发展",
-      "description": "执业药师的职业发展路径、能力要求和发展策略",
-      "category": "执业药师",
+      "filename": "数据仓库.json",
+      "title": "数据仓库",
+      "description": "数据仓库概念、特点、架构与数据资产管理",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "执业药师",
-        "职业发展"
+        "数据仓库",
+        "OLAP",
+        "数据资产",
+        "主题库"
       ],
-      "wordCount": 966,
-      "id": "b9eedacd274ec4f7"
+      "wordCount": 1694,
+      "id": "b049e1747ee3425b"
     },
     {
-      "filename": "中药药理学.json",
-      "title": "中药药理学",
-      "description": "中药药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "数据工程概述.json",
+      "title": "数据工程概述",
+      "description": "数据工程概念、数据采集与预处理、数据存储与管理",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "执业药师",
-        "中药药理学"
+        "数据工程",
+        "数据采集",
+        "数据预处理",
+        "数据存储"
       ],
-      "wordCount": 830,
-      "id": "9b066dbcc5222aa4"
+      "wordCount": 1434,
+      "id": "5abc3a58e7e58910"
     },
     {
-      "filename": "打造个人品牌的实用攻略_从0到1建立影响力资产.json",
-      "title": "打造个人品牌的实用攻略：从0到1建立影响力资产",
-      "description": "打造个人品牌的实用攻略：从0到1建立影响力资产的核心知识点汇总",
-      "category": "职场生存/个人品牌",
+      "filename": "数据挖掘.json",
+      "title": "数据挖掘",
+      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "个人品牌",
-        "IP",
-        "影响力"
+        "数据挖掘",
+        "数据分析",
+        "数据集成",
+        "数据可视化"
       ],
-      "wordCount": 2991,
-      "id": "07f49de7bf796592"
+      "wordCount": 1783,
+      "id": "4d49fa1d72cc021d"
     },
     {
-      "filename": "个人品牌定位与变现_细分赛道选择与价值打造.json",
-      "title": "个人品牌定位与变现：细分赛道选择与价值打造",
-      "description": "个人品牌定位与变现：细分赛道选择与价值打造的核心知识点汇总",
-      "category": "职场生存/个人品牌",
+      "filename": "数据治理.json",
+      "title": "数据治理",
+      "description": "数据治理框架、数据标准化、数据质量管理",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "个人品牌",
-        "IP",
-        "影响力"
+        "数据治理",
+        "数据标准化",
+        "数据质量",
+        "元数据"
       ],
-      "wordCount": 6630,
-      "id": "08f76f2d89263def"
+      "wordCount": 1613,
+      "id": "8f6593ae23dbd0c8"
     },
     {
-      "filename": "八、维权小贴士.json",
-      "title": "八、维权小贴士",
-      "description": "八、维权小贴士",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 160,
-      "id": "972987ae15fc8708"
-    },
-    {
-      "filename": "保密条款与知识产权归属.json",
-      "title": "保密条款与知识产权归属",
-      "description": "保密条款与知识产权归属",
-      "category": "职场生存/劳动权益",
+      "filename": "系统运行与维护.json",
+      "title": "系统运行与维护",
+      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
+        "系统运维",
+        "SLA",
+        "ITIL",
+        "软件开发"
       ],
-      "wordCount": 276,
-      "id": "82cc35c1cf010a39"
+      "wordCount": 1220,
+      "id": "7fdb4b2adeb101bf"
     },
     {
-      "filename": "二、签约阶段.json",
-      "title": "二、签约阶段",
-      "description": "二、签约阶段",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 401,
-      "id": "8461d723a2331719"
-    },
-    {
-      "filename": "二、申请条件.json",
-      "title": "二、申请条件",
-      "description": "二、申请条件",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 148,
-      "id": "f8884edd5f8cb132"
-    },
-    {
-      "filename": "二、N 是什么？怎么算？.json",
-      "title": "二、N 是什么？怎么算？",
-      "description": "二、N 是什么？怎么算？",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 409,
-      "id": "38fb7a6310ca1896"
-    },
-    {
-      "filename": "工时制度与加班费计算.json",
-      "title": "工时制度与加班费计算",
-      "description": "工时制度与加班费计算",
-      "category": "职场生存/劳动权益",
+      "filename": "需求工程.json",
+      "title": "需求工程",
+      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
+      "category": "软考/综合知识/信息系统开发",
       "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
+        "需求工程",
+        "需求分析",
+        "SRS",
+        "需求变更"
       ],
-      "wordCount": 657,
-      "id": "0debc9b5d8c63213"
+      "wordCount": 1170,
+      "id": "e6e021df007bc16e"
     },
     {
-      "filename": "经济补偿金基础概念.json",
-      "title": "经济补偿金基础概念",
-      "description": "经济补偿金基础概念",
-      "category": "职场生存/劳动权益",
+      "filename": "裁剪.json",
+      "title": "裁剪",
+      "description": "项目经理通常将项目管理方法论应用于工作。方法论是由专门的从业人员所采用的实践、技术、程序和规则所组成的体系。根据这一定义，本指南本身并不是方法论。",
+      "category": "软考/综合知识/引论",
       "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
+        "基本要素",
+        "项目管理商业文件",
+        "PMP"
       ],
-      "wordCount": 200,
-      "id": "5bc9496bb71ebbb6"
+      "wordCount": 642,
+      "id": "fd1269f820880db7"
     },
     {
-      "filename": "经济补偿金计算实例.json",
-      "title": "经济补偿金计算实例",
-      "description": "经济补偿金计算实例",
-      "category": "职场生存/劳动权益",
+      "filename": "大数据.json",
+      "title": "大数据",
+      "description": "大数据特征、处理流程、关键技术及应用",
+      "category": "软考/综合知识/引论",
       "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
+        "5V特征",
+        "数据处理",
+        "Hadoop",
+        "Spark",
+        "数据挖掘"
       ],
-      "wordCount": 708,
-      "id": "6ebe2d71766f2163"
+      "wordCount": 932,
+      "id": "efd97da51b1af147"
+    },
+    {
+      "filename": "道德与专业行为规范.json",
+      "title": "道德与专业行为规范",
+      "description": "PMI 发布了《道德与专业行为规范》[5]，为项目管理专业人员增强了信心并帮助个人做出明智的决策，尤其是在面对被要求违背正直诚信或价值观的困境时。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "指南概述和目的"
+      ],
+      "wordCount": 326,
+      "id": "2f4ed6e3b5fc22fc"
+    },
+    {
+      "filename": "工业互联网.json",
+      "title": "工业互联网",
+      "description": "工业互联网是新一代信息通信技术与工业经济深度融合的新型基础设施、应用模式和工业生态，通过对人、机、物、系统等的全面连接，构建起覆盖全产业链、全价值链的全新制造和服务体系。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "工业互联网",
+        "软考备考"
+      ],
+      "wordCount": 544,
+      "id": "3e722211e2851ef8"
+    },
+    {
+      "filename": "价值交付系统.json",
+      "title": "价值交付系统",
+      "description": "价值创造方式、价值交付组件、信息流",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "价值交付",
+        "PMP",
+        "PMBOK"
+      ],
+      "wordCount": 2007,
+      "id": "736351a7ddd126ce"
+    },
+    {
+      "filename": "阶段关口.json",
+      "title": "阶段关口",
+      "description": "阶段关口在项目阶段结束时进行，将项目的绩效和进度与项目和业务文件比较，这些文件包括（ 但不限于）：",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分"
+      ],
+      "wordCount": 238,
+      "id": "880fb41ab2ba7f95"
     }
   ]
 }

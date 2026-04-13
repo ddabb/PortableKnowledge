@@ -1,209 +1,267 @@
 {
   "page": 26,
-  "totalPages": 43,
-  "totalItems": 857,
+  "totalPages": 58,
+  "totalItems": 1149,
   "items": [
     {
-      "filename": "六、记忆策略.json",
-      "title": "六、记忆策略",
-      "description": "六、记忆策略",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 126,
-      "id": "2a748f077f1ed0bc"
-    },
-    {
-      "filename": "六、研究方法的选择.json",
-      "title": "六、研究方法的选择",
-      "description": "六、研究方法的选择",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 135,
-      "id": "705b63ff1ef710d8"
-    },
-    {
-      "filename": "六、知觉的四大特性.json",
-      "title": "六、知觉的四大特性",
-      "description": "六、知觉的四大特性",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 483,
-      "id": "ff7ded374ed7dfd5"
-    },
-    {
-      "filename": "七、知觉的种类.json",
-      "title": "七、知觉的种类",
-      "description": "七、知觉的种类",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 131,
-      "id": "b5fc7325c7226cf1"
-    },
-    {
-      "filename": "三、调查法.json",
-      "title": "三、调查法",
-      "description": "三、调查法",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 278,
-      "id": "ddf55f64f248a294"
-    },
-    {
-      "filename": "三、工作记忆模型.json",
-      "title": "三、工作记忆模型",
-      "description": "三、工作记忆模型",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 201,
-      "id": "903b9b862d1e336a"
-    },
-    {
-      "filename": "三、韦伯定律.json",
-      "title": "三、韦伯定律",
-      "description": "三、韦伯定律",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 231,
-      "id": "fdc45ae4873ca7d5"
-    },
-    {
-      "filename": "思维与问题解决.json",
-      "title": "思维与问题解决专题",
-      "description": "思维的种类、表征、问题解决策略、影响因素（定势与功能固着）",
-      "category": "心理学/基础心理学",
+      "filename": "项目管理办公室.json",
+      "title": "项目管理办公室",
+      "description": "项目管理办公室 (PMO) 是对与项目相关的治理过程进行标准化，并促进资源、方法论、工具和技术共享的一个组织结构。",
+      "category": "软考/项目管理/项目运行环境",
       "tags": [
-        "思维",
-        "问题解决",
-        "定势",
-        "功能固着",
-        "表征"
+        "组织系统",
+        "组织结构类型",
+        "项目管理"
       ],
-      "wordCount": 1435,
-      "id": "b2513731d99a2f6d"
+      "wordCount": 804,
+      "id": "d1f34039b53443b6"
     },
     {
-      "filename": "四、测验法.json",
-      "title": "四、测验法",
-      "description": "四、测验法",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 184,
-      "id": "685bf7590447b77a"
+      "filename": "组织过程资产.json",
+      "title": "组织过程资产",
+      "description": "组织过程资产是执行组织所特有并使用的计划、过程、政策、程序和知识库，会影响对具体项目的管理。",
+      "category": "软考/项目管理/项目运行环境",
+      "tags": [
+        "组织过程资产"
+      ],
+      "wordCount": 440,
+      "id": "a95bb39eac989d91"
     },
     {
-      "filename": "四、费希纳定律（对数定律）.json",
-      "title": "四、费希纳定律（对数定律）",
-      "description": "四、费希纳定律（对数定律）",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 105,
-      "id": "dd932e31953ab43a"
+      "filename": "组织结构选择的考虑因素.json",
+      "title": "组织结构选择的考虑因素",
+      "description": "在确定组织结构时，每个组织都需要考虑大量的因素。在最终分析中，每个因素的重要性也各不相同。",
+      "category": "软考/项目管理/项目运行环境",
+      "tags": [
+        "组织系统",
+        "组织结构类型"
+      ],
+      "wordCount": 254,
+      "id": "ee59cb9b92b9319e"
     },
     {
-      "filename": "四、遗忘规律.json",
-      "title": "四、遗忘规律",
-      "description": "四、遗忘规律",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 202,
-      "id": "5b389d479c6166f8"
+      "filename": "组织知识库.json",
+      "title": "组织知识库",
+      "description": "组织用来存取信息的知识库，包括（但不限于）：",
+      "category": "软考/项目管理/项目运行环境",
+      "tags": [
+        "组织过程资产"
+      ],
+      "wordCount": 309,
+      "id": "cea613f50d45af29"
     },
     {
-      "filename": "五、个案法.json",
-      "title": "五、个案法",
-      "description": "五、个案法",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 103,
-      "id": "e5b408c26cf6468e"
+      "filename": "变更管理.json",
+      "title": "变更管理",
+      "description": "项目变更管理的基本概念、变更分类、角色职责、工作程序及变更控制方法",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "变更管理",
+        "变更控制",
+        "CCB",
+        "PMP",
+        "基准管理",
+        "版本发布"
+      ],
+      "wordCount": 2235,
+      "id": "5272ad22c97769c4"
     },
     {
-      "filename": "五、遗忘的原因.json",
-      "title": "五、遗忘的原因",
-      "description": "五、遗忘的原因",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 317,
-      "id": "e6db170f684cb32f"
+      "filename": "变更控制工具.json",
+      "title": "变更控制工具",
+      "description": "为了便于开展配置和变更管理，可以使用一些手动或自动化的工具。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "监控过程组",
+        "实施整体变更控制"
+      ],
+      "wordCount": 504,
+      "id": "9cb4a96f3754083f"
     },
     {
-      "filename": "五、知觉概述.json",
-      "title": "五、知觉概述",
-      "description": "五、知觉概述",
-      "category": "心理学/基础心理学",
-      "tags": [],
+      "filename": "变更请求.json",
+      "title": "变更请求",
+      "description": "变更请求是关于修改任何文件、可交付成果或基准的正式提议。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "执行过程组",
+        "指导与管理项目工作"
+      ],
+      "wordCount": 362,
+      "id": "27fd21c181b893a9"
+    },
+    {
+      "filename": "工作绩效报告.json",
+      "title": "工作绩效报告",
+      "description": "工作绩效信息可以用实体或电子形式加以合并、记录和分发。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "监控过程组",
+        "监控项目工作",
+        "绩效管理"
+      ],
+      "wordCount": 255,
+      "id": "0e976695340adbb2"
+    },
+    {
+      "filename": "工作绩效数据.json",
+      "title": "工作绩效数据",
+      "description": "工作绩效数据是在执行项目工作的过程中，从每个正在执行的活动中收集到的原始观察结果和测量值。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "执行过程组",
+        "指导与管理项目工作",
+        "绩效管理",
+        "绩效指标"
+      ],
+      "wordCount": 210,
+      "id": "12cfe09b1ae79faa"
+    },
+    {
+      "filename": "工作绩效信息.json",
+      "title": "工作绩效信息",
+      "description": "在工作执行过程中收集工作绩效数据，再交由控制过程做进一步分析。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "监控过程组",
+        "监控项目工作",
+        "绩效管理"
+      ],
+      "wordCount": 357,
+      "id": "24e58ebee613bbbb"
+    },
+    {
+      "filename": "管理项目知识.json",
+      "title": "管理项目知识",
+      "description": "管理项目知识是使用现有知识并生成新知识，以实现项目目标，并且帮助组织学习的过程。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "执行过程组",
+        "管理项目知识",
+        "项目管理",
+        "PMP"
+      ],
+      "wordCount": 733,
+      "id": "4f5b8de293ca7fc2"
+    },
+    {
+      "filename": "假设日志.json",
+      "title": "假设日志",
+      "description": "通常，在项目启动之前编制商业论证时，识别高层级的战略和运营假设条件与制约因素。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "启动过程组",
+        "制定项目章程"
+      ],
       "wordCount": 136,
-      "id": "c659224809a19c0a"
+      "id": "7c8c40999a6d1bda"
     },
     {
-      "filename": "心理生理基础.json",
-      "title": "心理生理基础专题",
-      "description": "神经元结构、神经系统分类、大脑皮层功能区、内分泌系统与行为",
-      "category": "心理学/基础心理学",
+      "filename": "监控项目工作.json",
+      "title": "监控项目工作",
+      "description": "控项目工作是跟踪、审查和报告整体项目进展，以实现项目管理计划中确定的绩效目标的过程。",
+      "category": "软考/项目管理/项目整合管理",
       "tags": [
-        "神经元",
-        "大脑皮层",
-        "神经系统",
-        "内分泌系统"
+        "监控过程组",
+        "监控项目工作",
+        "项目管理"
       ],
-      "wordCount": 1233,
-      "id": "f2e412fe55237ca5"
+      "wordCount": 477,
+      "id": "1f7b55cc50d192b7"
     },
     {
-      "filename": "一、感觉概述.json",
-      "title": "一、感觉概述",
-      "description": "一、感觉概述",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 124,
-      "id": "38ab9a2897ea1cb6"
-    },
-    {
-      "filename": "一、观察法.json",
-      "title": "一、观察法",
-      "description": "一、观察法",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 240,
-      "id": "3e319e8c5fd302f6"
-    },
-    {
-      "filename": "一、记忆概述.json",
-      "title": "一、记忆概述",
-      "description": "一、记忆概述",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 57,
-      "id": "d2cbef5b1fddad78"
-    },
-    {
-      "filename": "注意品质与分类.json",
-      "title": "注意品质与分类专题",
-      "description": "无意注意、有意注意、有意后注意；注意的四种品质（广度、稳定性、分配、转移）",
-      "category": "心理学/基础心理学",
+      "filename": "结束项目或阶段.json",
+      "title": "结束项目或阶段",
+      "description": "结束项目或阶段是终结项目、阶段或合同的所有活动的过程。",
+      "category": "软考/项目管理/项目整合管理",
       "tags": [
-        "注意",
-        "注意分类",
-        "注意品质",
-        "无意注意",
-        "有意注意"
+        "收尾过程组",
+        "结束项目或阶段",
+        "项目管理",
+        "PMP"
       ],
-      "wordCount": 1042,
-      "id": "8a74799c73e25f42"
+      "wordCount": 696,
+      "id": "d5d05dcc12b872d9"
     },
     {
-      "filename": "情绪调节与情商.json",
-      "title": "情绪调节与情商专题",
-      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
-      "category": "心理学/情绪心理学",
+      "filename": "经验教训登记册.json",
+      "title": "经验教训登记册",
+      "description": "经验教训登记册可以包含情况的类别和描述，经验教训登记册还可包括与情况相关的影响、建议和行动方案。",
+      "category": "软考/项目管理/项目整合管理",
       "tags": [
-        "情绪调节",
-        "情商",
-        "Gross模型",
-        "Goleman"
+        "执行过程组",
+        "管理项目知识"
       ],
-      "wordCount": 1222,
-      "id": "5816314001b8e360"
+      "wordCount": 242,
+      "id": "e16357cc81f7af02"
+    },
+    {
+      "filename": "可交付成果.json",
+      "title": "可交付成果",
+      "description": "可交付成果是在某一过程、阶段或项目完成时，必须产出的任何独特并可核实的产品、成果或服务能力。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "执行过程组",
+        "指导与管理项目工作"
+      ],
+      "wordCount": 137,
+      "id": "332bd6f0be583f55"
+    },
+    {
+      "filename": "配置管理计划.json",
+      "title": "配置管理计划",
+      "description": "配置管理计划是项目管理计划的组成部分，描述如何记录和更新项目的特定信息，以及该记录和更新哪些信息，以保持产品、服务或成果的一致性和（或）有效性。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "规划过程组",
+        "实施整体变更控制",
+        "配置管理",
+        "PMP"
+      ],
+      "wordCount": 590,
+      "id": "6bf029d6073301b2"
+    },
+    {
+      "filename": "配置核实与审计.json",
+      "title": "配置核实与审计",
+      "description": "配置核实与审计是通过系统的检查活动，确保项目的配置项组成的正确性，以及相应的变更都被登记、评估、批准、跟踪和正确实施。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "监控过程组",
+        "实施整体变更控制",
+        "配置管理",
+        "PMP"
+      ],
+      "wordCount": 767,
+      "id": "58dd65d8c9a0ff54"
+    },
+    {
+      "filename": "配置控制.json",
+      "title": "配置控制",
+      "description": "配置控制是配置管理的关键活动，关注对可交付成果及各个过程的技术规范进行控制，确保所有变更都经过适当的审批和记录。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "监控过程组",
+        "实施整体变更控制",
+        "配置管理",
+        "PMP"
+      ],
+      "wordCount": 722,
+      "id": "4835195466222efa"
+    },
+    {
+      "filename": "配置识别.json",
+      "title": "配置识别",
+      "description": "配置识别是配置管理的首要活动，通过识别与选择配置项，为定义与核实产品配置、标记产品和文件、管理变更和明确责任提供基础。",
+      "category": "软考/项目管理/项目整合管理",
+      "tags": [
+        "监控过程组",
+        "实施整体变更控制",
+        "配置管理",
+        "PMP"
+      ],
+      "wordCount": 584,
+      "id": "1acd4a96302ae519"
     }
   ]
 }

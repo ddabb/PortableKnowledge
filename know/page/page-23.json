@@ -1,195 +1,261 @@
 {
   "page": 23,
-  "totalPages": 43,
-  "totalItems": 857,
+  "totalPages": 58,
+  "totalItems": 1149,
   "items": [
     {
-      "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
-      "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",
-      "description": "睡眠革命：从科学睡眠到能量管理的高效生活方式的核心知识点汇总",
-      "category": "生活通识/健康养生",
+      "filename": "实施定性风险分析.json",
+      "title": "实施定性风险分析",
+      "description": "实施定性风险分析是通过评估单个项目风险发生的概率和影响以及其他特征，对风险进行优先级排序，从而为后续分析或行动提供基础的过程。",
+      "category": "软考/项目管理/项目风险管理",
       "tags": [
-        "精力管理",
-        "睡眠",
-        "健康"
+        "规划过程组",
+        "实施定性风险分析",
+        "风险管理",
+        "PMP"
       ],
-      "wordCount": 5551,
-      "id": "2cb0a104bfd0e6b4"
+      "wordCount": 575,
+      "id": "57d35c318329aec5"
     },
     {
-      "filename": "四、常见癌症筛查.json",
-      "title": "四、常见癌症筛查",
-      "description": "四、常见癌症筛查",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 503,
-      "id": "f9c029af39b6a723"
-    },
-    {
-      "filename": "四、肝脏疾病.json",
-      "title": "四、肝脏疾病",
-      "description": "四、肝脏疾病",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 561,
-      "id": "d684a38e7e6ee49d"
-    },
-    {
-      "filename": "四、科学预防措施.json",
-      "title": "四、科学预防措施",
-      "description": "四、科学预防措施",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 914,
-      "id": "64d02790bc3fe306"
-    },
-    {
-      "filename": "四、控制三高.json",
-      "title": "四、控制三高",
-      "description": "四、控制三高",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 329,
-      "id": "65953dd195b98044"
-    },
-    {
-      "filename": "四、慢阻肺（COPD）.json",
-      "title": "四、慢阻肺（COPD）",
-      "description": "四、慢阻肺（COPD）",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 329,
-      "id": "36ade4a6c6d512b2"
-    },
-    {
-      "filename": "四季养生指南_科学调理身体健康.json",
-      "title": "四季养生指南：科学调理身体健康",
-      "description": "四季养生指南：科学调理身体健康的核心知识点汇总",
-      "category": "生活通识/健康养生",
+      "filename": "实施风险应对.json",
+      "title": "实施风险应对",
+      "description": "实施风险应对是执行商定的风险应对计划的过程。",
+      "category": "软考/项目管理/项目风险管理",
       "tags": [
-        "四季",
-        "健康",
-        "养生"
+        "执行过程组",
+        "实施风险应对",
+        "风险管理",
+        "PMP"
       ],
-      "wordCount": 2923,
-      "id": "e2e1ee67a7f1ddc6"
+      "wordCount": 304,
+      "id": "69ec112cfa793374"
     },
     {
-      "filename": "五、癌症早期信号.json",
-      "title": "五、癌症早期信号",
-      "description": "五、癌症早期信号",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 247,
-      "id": "749af18baff1883f"
+      "filename": "提示清单.json",
+      "title": "提示清单",
+      "description": "提示清单是关于可能引发单个项目风险以及可作为整体项目风险来源的风险类别的预设清单。",
+      "category": "软考/项目管理/项目风险管理",
+      "tags": [
+        "规划过程组",
+        "识别风险"
+      ],
+      "wordCount": 204,
+      "id": "3ff25bbfbac781ff"
     },
     {
-      "filename": "五、胆囊和胰腺.json",
-      "title": "五、胆囊和胰腺",
-      "description": "五、胆囊和胰腺",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 333,
-      "id": "656775dc6e963595"
+      "filename": "威胁应对策略.json",
+      "title": "威胁应对策略",
+      "description": "- $\\color{red}{上报}$。如果项目团队或项目发起人认为某威胁不在项目范围内，或提议的应对措施超出了项目经理的权限，就应该采用上报策略。被上报的风险将在项目集层面、项目组合层面或组织的其他...",
+      "category": "软考/项目管理/项目风险管理",
+      "tags": [
+        "规划过程组",
+        "规划风险应对"
+      ],
+      "wordCount": 1101,
+      "id": "2a4481f95be504d2"
     },
     {
-      "filename": "五、哮喘.json",
-      "title": "五、哮喘",
-      "description": "五、哮喘",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 305,
-      "id": "feca3297a425031b"
+      "filename": "应急应对策略.json",
+      "title": "应急应对策略",
+      "description": "可以设计一些仅在特定事件发生时才采用的应对措施。",
+      "category": "软考/项目管理/项目风险管理",
+      "tags": [
+        "规划过程组",
+        "规划风险应对"
+      ],
+      "wordCount": 193,
+      "id": "f1480cb5bfd40872"
     },
     {
-      "filename": "五、血糖监测.json",
-      "title": "五、血糖监测",
-      "description": "五、血糖监测",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 282,
-      "id": "750826afd976ff1a"
+      "filename": "整体项目风险应对策略.json",
+      "title": "整体项目风险应对策略",
+      "description": "风险应对措施的规划和实施不应只针对单个项目风险，还应针对整体项目风险。用于应对单个项目风险的策略也适用于整体项目风险：",
+      "category": "软考/项目管理/项目风险管理",
+      "tags": [
+        "规划过程组",
+        "规划风险应对",
+        "项目管理",
+        "风险管理"
+      ],
+      "wordCount": 967,
+      "id": "0a4634e4ade91002"
     },
     {
-      "filename": "五、早期信号识别.json",
-      "title": "五、早期信号识别",
-      "description": "五、早期信号识别",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 294,
-      "id": "2448fac2fc90c5c4"
+      "filename": "沟通管理计划.json",
+      "title": "沟通管理计划",
+      "description": "沟通管理计划是项目管理计划的组成部分，描述将如何规划，结构化、执行与监督项目沟通，以提高沟通的有效性。",
+      "category": "软考/项目管理/项目沟通管理",
+      "tags": [
+        "规划过程组",
+        "规划沟通管理",
+        "沟通管理"
+      ],
+      "wordCount": 430,
+      "id": "2fb4a5543ab1ac1f"
     },
     {
-      "filename": "一，消化系统基础知识.json",
-      "title": "一，消化系统基础知识",
-      "description": "一，消化系统基础知识",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 257,
-      "id": "b0a04e7f62fdefb3"
+      "filename": "管理沟通.json",
+      "title": "管理沟通",
+      "description": "管理沟通是确保项目信息及时且恰当地收集、生成、发布、存储、检索、管理、监督和最终处置的过程。",
+      "category": "软考/项目管理/项目沟通管理",
+      "tags": [
+        "执行过程组",
+        "管理沟通",
+        "沟通管理"
+      ],
+      "wordCount": 647,
+      "id": "eca0d2ad3e74e7fa"
     },
     {
-      "filename": "一、癌症基础知识.json",
-      "title": "一、癌症基础知识",
-      "description": "一、癌症基础知识",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 215,
-      "id": "7d227d1f52a2af9b"
+      "filename": "规划沟通管理.json",
+      "title": "规划沟通管理",
+      "description": "规划沟通管理是基于每个相关方或相关方群体的信息需求、可用的组织资产，以及具体项目的需求，为项目沟通活动制定恰当的方法和计划的过程。",
+      "category": "软考/项目管理/项目沟通管理",
+      "tags": [
+        "规划过程组",
+        "规划沟通管理",
+        "沟通管理"
+      ],
+      "wordCount": 379,
+      "id": "3c11c39f9425112d"
     },
     {
-      "filename": "一、呼吸系统基础知识.json",
-      "title": "一、呼吸系统基础知识",
-      "description": "一、呼吸系统基础知识",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 228,
-      "id": "ffae55cdde786fa6"
+      "filename": "监督沟通.json",
+      "title": "监督沟通",
+      "description": "监督沟通是确保满足项目及其相关方的信息需求的过程。",
+      "category": "软考/项目管理/项目沟通管理",
+      "tags": [
+        "监控过程组",
+        "监督沟通",
+        "沟通管理"
+      ],
+      "wordCount": 405,
+      "id": "c527ca340e276e10"
     },
     {
-      "filename": "一、糖尿病基础知识.json",
-      "title": "一、糖尿病基础知识",
-      "description": "一、糖尿病基础知识",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 363,
-      "id": "97467d35a992a4ef"
+      "filename": "参数估算.json",
+      "title": "参数估算",
+      "description": "参数估算是一种基于历史数据和项目参数，使用某种算法来计算成本或持续时间的估算技术。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间"
+      ],
+      "wordCount": 316,
+      "id": "16861c0cd508cab0"
     },
     {
-      "filename": "一、心脑血管疾病概述.json",
-      "title": "一、心脑血管疾病概述",
-      "description": "一、心脑血管疾病概述",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 206,
-      "id": "cac4fde4aba158b4"
+      "filename": "定义活动.json",
+      "title": "定义活动",
+      "description": "定义活动是识别和记录为完成项目可交付成果而须采取的具体行动的过程。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "定义活动",
+        "PMP"
+      ],
+      "wordCount": 126,
+      "id": "da2fa860be6604ed"
     },
     {
-      "filename": "八、实用技巧.json",
-      "title": "八、实用技巧",
-      "description": "八、实用技巧",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 195,
-      "id": "431a8c7a22b6059f"
+      "filename": "估算活动持续时间.json",
+      "title": "估算活动持续时间",
+      "description": "估算活动持续时间是根据资源估算的结果，估算完成单项活动所需工作时段数的过程。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间",
+        "PMP"
+      ],
+      "wordCount": 258,
+      "id": "19f8bf003aed33b3"
     },
     {
-      "filename": "八、医保缴费标准（参考）.json",
-      "title": "八、医保缴费标准（参考）",
-      "description": "八、医保缴费标准（参考）",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 123,
-      "id": "2297147bba7f84c2"
+      "filename": "关键路径法.json",
+      "title": "关键路径法",
+      "description": "关键路径法用于在进度模型中估算项目最短工期，确定逻辑网络路径的进度灵活性大小。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "制定进度计划",
+        "关键路径法"
+      ],
+      "wordCount": 824,
+      "id": "6555826d5375b606"
     },
     {
-      "filename": "二、可以提取的情形.json",
-      "title": "二、可以提取的情形",
-      "description": "二、可以提取的情形",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 285,
-      "id": "1945a64dc3ccc86d"
+      "filename": "规划进度管理.json",
+      "title": "规划进度管理",
+      "description": "规划进度管理是为规划、编制、管理、执行和控制项目进度而制定政策、程序和文档的过程。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "规划进度管理",
+        "PMP"
+      ],
+      "wordCount": 85,
+      "id": "8a3549654510436e"
+    },
+    {
+      "filename": "活动清单.json",
+      "title": "活动清单",
+      "description": "对于使用滚动式规划或敏捷技术的项目，活动清单会在项目进展过程中得到定期更新。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "定义活动"
+      ],
+      "wordCount": 93,
+      "id": "1a15255290fa30d5"
+    },
+    {
+      "filename": "活动属性.json",
+      "title": "活动属性",
+      "description": "活动属性是指每项活动所具有的多重属性，用来扩充对活动的描述，活动属性随时间演进。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "定义活动"
+      ],
+      "wordCount": 246,
+      "id": "75fce6e89231ebd5"
+    },
+    {
+      "filename": "紧前关系绘图法.json",
+      "title": "紧前关系绘图法",
+      "description": "紧前关系绘图法（PDM）是创建进度模型的一种技术，用节点表示活动，用一种或多种逻辑关系连接活动，以显示活动的实施顺序。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "排列活动顺序"
+      ],
+      "wordCount": 584,
+      "id": "1fb4174840625f14"
+    },
+    {
+      "filename": "进度管理计划.json",
+      "title": "进度管理计划",
+      "description": "进度管理计划是项目管理计划的组成部分，为编制、监督和控制项目进度建立准则和明确活动。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "规划进度管理"
+      ],
+      "wordCount": 718,
+      "id": "8e4cff5ed8131a5a"
+    },
+    {
+      "filename": "进度基准.json",
+      "title": "进度基准",
+      "description": "进度基准是经过批准的进度模型，只有通过正式的变更控制程序才能进行变更，用作与实际结果进行比较的依据。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "制定进度计划"
+      ],
+      "wordCount": 138,
+      "id": "2825916f24013eba"
     }
   ]
 }

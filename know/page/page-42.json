@@ -1,280 +1,269 @@
 {
   "page": 42,
-  "totalPages": 43,
-  "totalItems": 857,
+  "totalPages": 58,
+  "totalItems": 1149,
   "items": [
     {
-      "filename": "票据法概述.json",
-      "title": "票据法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "注意理论与选择性注意.json",
+      "title": "注意理论与选择性注意专题",
+      "description": "注意的定义与类型、过滤器理论、衰减理论、注意的资源理论、注意的选择性",
+      "category": "心理学/认知心理学",
       "tags": [
-        "票据法",
-        "经济法",
-        "CPA"
+        "注意",
+        "过滤器理论",
+        "资源理论",
+        "选择性注意"
       ],
-      "wordCount": 215,
-      "id": "b2f548bfa3843e2b"
+      "wordCount": 1321,
+      "id": "371ab4ad929d5fa1"
     },
     {
-      "filename": "破产法概述.json",
-      "title": "破产法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "攻击行为.json",
+      "title": "攻击行为专题",
+      "description": "攻击行为的定义与分类、挫折-攻击理论、社会学习理论、减少攻击的方法",
+      "category": "心理学/社会心理学",
       "tags": [
-        "破产法",
-        "经济法",
-        "CPA"
+        "攻击行为",
+        "挫折-攻击",
+        "暴力媒体",
+        "敌意性攻击"
       ],
-      "wordCount": 283,
-      "id": "cd6bfd3f56cbfb10"
+      "wordCount": 1300,
+      "id": "3500bca6e4ba2570"
     },
     {
-      "filename": "企业国有资产法概述.json",
-      "title": "企业国有资产法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "沟通与人际交往.json",
+      "title": "沟通与人际交往专题",
+      "description": "沟通的基本要素、言语沟通与非言语沟通、沟通障碍与改善、人际交往原则",
+      "category": "心理学/社会心理学",
       "tags": [
-        "企业国有资产法",
-        "经济法",
-        "CPA"
+        "沟通",
+        "非言语沟通",
+        "人际交往",
+        "沟通障碍"
       ],
-      "wordCount": 470,
-      "id": "ea02692ed7be380d"
+      "wordCount": 1477,
+      "id": "5f9c4f61aff092d3"
     },
     {
-      "filename": "涉外经济法律制度概述.json",
-      "title": "涉外经济法律制度概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "归因理论.json",
+      "title": "归因理论专题",
+      "description": "基本归因错误、协变原理、Kelley的归因维度、自我服务偏差",
+      "category": "心理学/社会心理学",
       "tags": [
-        "涉外经济法律制度",
-        "经济法",
-        "CPA"
+        "归因理论",
+        "基本归因错误",
+        "归因维度",
+        "自我服务偏差"
       ],
-      "wordCount": 318,
-      "id": "3b46227da5fa1039"
+      "wordCount": 920,
+      "id": "9bbad1b3c61c60a0"
     },
     {
-      "filename": "物权法概述.json",
-      "title": "物权法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "偏见与歧视.json",
+      "title": "偏见与歧视专题",
+      "description": "偏见、歧视、刻板印象的概念；偏见产生的原因与减少方法",
+      "category": "心理学/社会心理学",
       "tags": [
-        "物权法",
-        "经济法",
-        "CPA"
+        "偏见",
+        "歧视",
+        "刻板印象",
+        "偏见减少"
       ],
-      "wordCount": 227,
-      "id": "fcba634f56916172"
+      "wordCount": 970,
+      "id": "e2378d627eb653c0"
     },
     {
-      "filename": "证券法概述.json",
-      "title": "证券法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "亲社会行为与助人行为.json",
+      "title": "亲社会行为与助人行为专题",
+      "description": "亲社会行为的定义、旁观者效应、影响因素、四种亲社会理论",
+      "category": "心理学/社会心理学",
       "tags": [
-        "证券法",
-        "经济法",
-        "CPA"
+        "亲社会行为",
+        "助人行为",
+        "旁观者效应",
+        "社会责任"
       ],
-      "wordCount": 281,
-      "id": "50fe1fd4db5165f0"
+      "wordCount": 1256,
+      "id": "d449fad4e76db37d"
     },
     {
-      "filename": "知识产权法律制度概述.json",
-      "title": "知识产权法律制度概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "群体心理现象.json",
+      "title": "群体心理现象专题",
+      "description": "群体极化、群体思维、去个体化、社会懈怠的概念、原因与经典实验",
+      "category": "心理学/社会心理学",
       "tags": [
-        "知识产权法律制度",
-        "经济法",
-        "CPA"
+        "群体极化",
+        "群体思维",
+        "去个体化",
+        "社会懈怠",
+        "群体影响"
       ],
-      "wordCount": 264,
-      "id": "8efeb824fe4f7d9a"
+      "wordCount": 1372,
+      "id": "349434d472e5818d"
     },
     {
-      "filename": "采购与付款循环审计.json",
-      "title": "采购与付款循环审计",
-      "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "filename": "人际吸引与爱情.json",
+      "title": "人际吸引与爱情专题",
+      "description": "人际吸引的规则（接近性、熟悉性、相似性、互补性）、爱情三角理论、依恋风格",
+      "category": "心理学/社会心理学",
       "tags": [
-        "CPA",
-        "审计",
-        "采购与付款循环",
-        "内部控制"
+        "人际吸引",
+        "爱情三角",
+        "接近性",
+        "相似性"
       ],
-      "wordCount": 1060,
-      "id": "5e0a4dc4e760fc53"
+      "wordCount": 1216,
+      "id": "0f579c8c18d3e31a"
     },
     {
-      "filename": "风险评估.json",
-      "title": "风险评估",
-      "description": "CPA审计风险评估章节核心知识点，包括风险评估程序和重大错报风险评估",
-      "category": "注册会计师/审计",
+      "filename": "社会影响_从众与服从.json",
+      "title": "社会影响：从众与服从专题",
+      "description": "从众的定义与原因、服从的Milgram实验、顺从与登门槛效应",
+      "category": "心理学/社会心理学",
       "tags": [
-        "CPA",
-        "审计",
-        "风险评估",
-        "重大错报风险"
+        "从众",
+        "服从",
+        "顺从",
+        "Milgram",
+        "社会影响"
       ],
-      "wordCount": 925,
-      "id": "05e487191787af09"
+      "wordCount": 1001,
+      "id": "96a40a23aa600945"
     },
     {
-      "filename": "会计师事务所质量控制.json",
-      "title": "会计师事务所质量控制",
-      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
-      "category": "注册会计师/审计",
+      "filename": "态度与态度改变.json",
+      "title": "态度与态度改变专题",
+      "description": "态度的ABC成分、态度与行为的关系、说服的两种路径（精细加工可能性模型）",
+      "category": "心理学/社会心理学",
       "tags": [
-        "CPA",
-        "审计",
-        "质量控制",
-        "要素程序"
+        "态度",
+        "态度改变",
+        "说服",
+        "精细加工可能性模型"
       ],
-      "wordCount": 1634,
-      "id": "6382ed54c5889567"
+      "wordCount": 1105,
+      "id": "f3717a4e30e52c25"
     },
     {
-      "filename": "货币资金审计.json",
-      "title": "货币资金审计",
-      "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "filename": "印象形成与社会认知.json",
+      "title": "印象形成与社会认知专题",
+      "description": "印象形成的线索与效应、首因效应、近因效应、光环效应、社会认知偏差",
+      "category": "心理学/社会心理学",
       "tags": [
-        "CPA",
-        "审计",
-        "货币资金",
-        "内部控制"
+        "印象形成",
+        "首因效应",
+        "光环效应",
+        "社会认知"
       ],
-      "wordCount": 784,
-      "id": "bd85c1e789684a32"
+      "wordCount": 1387,
+      "id": "27cd97f465ad0abd"
     },
     {
-      "filename": "内部控制审计.json",
-      "title": "内部控制审计",
-      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
-      "category": "注册会计师/审计",
+      "filename": "反套路消费指南_如何识别商家的心理陷阱.json",
+      "title": "反套路消费指南：如何识别商家的心理陷阱",
+      "description": "反套路消费指南：如何识别商家的心理陷阱的核心知识点汇总",
+      "category": "心理学/消费心理学",
       "tags": [
-        "CPA",
-        "审计",
-        "内部控制审计",
-        "内部控制"
+        "消费心理学",
+        "决策",
+        "行为经济学"
       ],
-      "wordCount": 1156,
-      "id": "85b4de9995f649ea"
+      "wordCount": 10248,
+      "id": "65db8e72e2c0e453"
     },
     {
-      "filename": "审计报告.json",
-      "title": "审计报告",
-      "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计报告",
-        "审计意见"
-      ],
-      "wordCount": 1485,
-      "id": "201dbca9f226ac57"
+      "filename": "备考重点.json",
+      "title": "备考重点",
+      "description": "备考重点",
+      "category": "心理学/心理测量",
+      "tags": [],
+      "wordCount": 246,
+      "id": "36628c4f1ce95385"
     },
     {
-      "filename": "审计抽样.json",
-      "title": "审计抽样",
-      "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
-      "category": "注册会计师/审计",
+      "filename": "标准化与常模.json",
+      "title": "标准化与常模专题",
+      "description": "标准化施测程序、常模类型（年龄常模、年级常模、百分位常模）、分数解释",
+      "category": "心理学/心理测量",
       "tags": [
-        "CPA",
-        "审计",
-        "审计抽样",
-        "抽样方法"
+        "标准化",
+        "常模",
+        "百分位",
+        "心理测量"
       ],
-      "wordCount": 843,
-      "id": "b7a7524c3b959377"
+      "wordCount": 1229,
+      "id": "5aabc0dedf9caa17"
     },
     {
-      "filename": "审计概述.json",
-      "title": "审计概述",
-      "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计概述",
-        "审计特征"
-      ],
-      "wordCount": 1070,
-      "id": "7a8da7e20b2b1e63"
+      "filename": "二，效度.json",
+      "title": "二，效度",
+      "description": "二，效度",
+      "category": "心理学/心理测量",
+      "tags": [],
+      "wordCount": 392,
+      "id": "8fe88acdd178fe7e"
     },
     {
-      "filename": "审计工作底稿.json",
-      "title": "审计工作底稿",
-      "description": "CPA审计审计工作底稿章节核心知识点，包括审计工作底稿的编制和管理",
-      "category": "注册会计师/审计",
+      "filename": "难度与区分度.json",
+      "title": "难度与区分度专题",
+      "description": "难度的定义与计算、区分度的定义与计算、难度与信效度的关系",
+      "category": "心理学/心理测量",
       "tags": [
-        "CPA",
-        "审计",
-        "审计工作底稿",
-        "编制管理"
+        "难度",
+        "区分度",
+        "项目分析",
+        "心理测量"
       ],
-      "wordCount": 1329,
-      "id": "6a3934d6df0f2af4"
+      "wordCount": 1154,
+      "id": "88755c157dc033c9"
     },
     {
-      "filename": "审计计划.json",
-      "title": "审计计划",
-      "description": "CPA审计审计计划章节核心知识点，包括总体审计策略和具体审计计划",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计计划",
-        "总体审计策略"
-      ],
-      "wordCount": 969,
-      "id": "f842f0242988dace"
+      "filename": "三，信度与效度的关系.json",
+      "title": "三，信度与效度的关系",
+      "description": "三，信度与效度的关系",
+      "category": "心理学/心理测量",
+      "tags": [],
+      "wordCount": 310,
+      "id": "4059150f1c34f11d"
     },
     {
-      "filename": "审计证据.json",
-      "title": "审计证据",
-      "description": "CPA审计审计证据章节核心知识点，包括审计证据的性质、获取方法和评价",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计证据",
-        "审计程序"
-      ],
-      "wordCount": 976,
-      "id": "6286087c31894704"
+      "filename": "一，信度.json",
+      "title": "一，信度",
+      "description": "一，信度",
+      "category": "心理学/心理测量",
+      "tags": [],
+      "wordCount": 524,
+      "id": "d2654fb6a4f98cd9"
     },
     {
-      "filename": "生产与存货循环审计.json",
-      "title": "生产与存货循环审计",
-      "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "filename": "操作性条件反射.json",
+      "title": "操作性条件反射专题",
+      "description": "桑代克效果率、斯金纳实验、四种强化与惩罚、消退与维持",
+      "category": "心理学/行为心理学",
       "tags": [
-        "CPA",
-        "审计",
-        "生产与存货循环",
-        "内部控制"
+        "操作性条件反射",
+        "强化",
+        "惩罚",
+        "消退",
+        "斯金纳"
       ],
-      "wordCount": 964,
-      "id": "facd964c35ef171a"
+      "wordCount": 1204,
+      "id": "8645d8be37792e64"
     },
     {
-      "filename": "特殊项目审计.json",
-      "title": "特殊项目审计",
-      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
-      "category": "注册会计师/审计",
+      "filename": "观察学习与社会学习.json",
+      "title": "观察学习与社会学习专题",
+      "description": "班杜拉观察学习四过程、直接强化与替代强化、自我强化",
+      "category": "心理学/行为心理学",
       "tags": [
-        "CPA",
-        "审计",
-        "特殊项目",
-        "舞弊风险"
+        "观察学习",
+        "班杜拉",
+        "社会学习理论",
+        "替代强化"
       ],
-      "wordCount": 1074,
-      "id": "ad003efcd7a46dec"
+      "wordCount": 652,
+      "id": "0186b616b1f60c25"
     }
   ]
 }

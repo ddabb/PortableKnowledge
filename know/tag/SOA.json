@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "tag": "SOA",
+    "count": 3
+  },
+  "articles": [
+    {
+      "filename": "应用集成.json",
+      "title": "应用集成",
+      "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "应用集成",
+        "EAI",
+        "ESB",
+        "SOA",
+        "业务应用集成"
+      ],
+      "wordCount": 1505,
+      "id": "44ad11c8fc4dfbff"
+    },
+    {
+      "filename": "应用架构.json",
+      "title": "应用架构",
+      "description": "应用架构模式、SOA与微服务",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "应用架构",
+        "SOA",
+        "微服务",
+        "MVC",
+        "分层分域"
+      ],
+      "wordCount": 844,
+      "id": "e9f728e7f7a1ea26"
+    },
+    {
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件集成",
+        "中间件",
+        "API",
+        "组件技术",
+        "SOA"
+      ],
+      "wordCount": 1156,
+      "id": "f8a4a873312b7ef4"
+    }
+  ]
+}

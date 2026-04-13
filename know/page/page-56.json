@@ -1,0 +1,276 @@
+{
+  "page": 56,
+  "totalPages": 58,
+  "totalItems": 1149,
+  "items": [
+    {
+      "filename": "应付职工薪酬.json",
+      "title": "应付职工薪酬",
+      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付职工薪酬",
+        "核算"
+      ],
+      "wordCount": 1144,
+      "id": "568e00039dccb6b5"
+    },
+    {
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
+      ],
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
+    },
+    {
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应收账款",
+        "应收票据"
+      ],
+      "wordCount": 1285,
+      "id": "b149d1a5237bfb5f"
+    },
+    {
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "预收账款",
+        "核算"
+      ],
+      "wordCount": 702,
+      "id": "5a1db8a8635278a1"
+    },
+    {
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
+      ],
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
+    },
+    {
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
+      ],
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
+    },
+    {
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
+      ],
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
+    },
+    {
+      "filename": "反不正当竞争法概述.json",
+      "title": "反不正当竞争法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反不正当竞争法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 757,
+      "id": "c4e8b6f024c78459"
+    },
+    {
+      "filename": "反垄断法概述.json",
+      "title": "反垄断法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反垄断法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 327,
+      "id": "dc2a54c5f75a7bdc"
+    },
+    {
+      "filename": "公司法概述.json",
+      "title": "公司法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "公司法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 294,
+      "id": "ff86ecb868f095ee"
+    },
+    {
+      "filename": "合同法概述.json",
+      "title": "合同法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "合同法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "id": "103610937ddf56f5"
+    },
+    {
+      "filename": "经济纠纷解决方式.json",
+      "title": "经济纠纷解决方式",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "经济纠纷",
+        "解决方式",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 624,
+      "id": "6f28046aa934540d"
+    },
+    {
+      "filename": "票据法概述.json",
+      "title": "票据法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "票据法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 215,
+      "id": "b2f548bfa3843e2b"
+    },
+    {
+      "filename": "破产法概述.json",
+      "title": "破产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "破产法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 283,
+      "id": "cd6bfd3f56cbfb10"
+    },
+    {
+      "filename": "企业国有资产法概述.json",
+      "title": "企业国有资产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "企业国有资产法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 470,
+      "id": "ea02692ed7be380d"
+    },
+    {
+      "filename": "涉外经济法律制度概述.json",
+      "title": "涉外经济法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "涉外经济法律制度",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "id": "3b46227da5fa1039"
+    },
+    {
+      "filename": "物权法概述.json",
+      "title": "物权法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "物权法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 227,
+      "id": "fcba634f56916172"
+    },
+    {
+      "filename": "证券法概述.json",
+      "title": "证券法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "证券法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 281,
+      "id": "50fe1fd4db5165f0"
+    },
+    {
+      "filename": "知识产权法律制度概述.json",
+      "title": "知识产权法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "知识产权法律制度",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 264,
+      "id": "8efeb824fe4f7d9a"
+    },
+    {
+      "filename": "采购与付款循环审计.json",
+      "title": "采购与付款循环审计",
+      "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "采购与付款循环",
+        "内部控制"
+      ],
+      "wordCount": 1060,
+      "id": "5e0a4dc4e760fc53"
+    }
+  ]
+}

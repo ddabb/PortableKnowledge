@@ -1,282 +1,208 @@
 {
   "page": 40,
-  "totalPages": 43,
-  "totalItems": 857,
+  "totalPages": 58,
+  "totalItems": 1149,
   "items": [
     {
-      "filename": "营运资本管理.json",
-      "title": "营运资本管理",
-      "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "营运资本管理",
-        "现金管理"
-      ],
-      "wordCount": 1667,
-      "id": "2d7e42c1f5481c14"
+      "filename": "四，内化.json",
+      "title": "四，内化",
+      "description": "四，内化",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 166,
+      "id": "d71abfddecfb3809"
     },
     {
-      "filename": "长期筹资决策.json",
-      "title": "长期筹资决策",
-      "description": "CPA财务成本管理长期筹资决策章节核心知识点，包括长期债务筹资和权益筹资",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "长期筹资决策",
-        "债务筹资"
-      ],
-      "wordCount": 2247,
-      "id": "670d126dde85e887"
+      "filename": "五，第四阶段：形式运算期（11岁+）.json",
+      "title": "五，第四阶段：形式运算期（11岁+）",
+      "description": "五，第四阶段：形式运算期（11岁+）",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 343,
+      "id": "735e0beb3b9b794e"
     },
     {
-      "filename": "资本成本.json",
-      "title": "资本成本",
-      "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "资本成本",
-        "加权平均资本成本"
-      ],
-      "wordCount": 1077,
-      "id": "b92a62598fbda8c6"
+      "filename": "五，高级心理机能.json",
+      "title": "五，高级心理机能",
+      "description": "五，高级心理机能",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 214,
+      "id": "2bcc7d88abfcdee6"
     },
     {
-      "filename": "资本结构.json",
-      "title": "资本结构",
-      "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "资本结构",
-        "最优资本结构"
-      ],
-      "wordCount": 1105,
-      "id": "132d229e1b8c363c"
+      "filename": "一，核心概念.json",
+      "title": "一，核心概念",
+      "description": "一，核心概念",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 196,
+      "id": "a7f13d42f60bb38e"
     },
     {
-      "filename": "作业成本法.json",
-      "title": "作业成本法",
-      "description": "CPA财务成本管理作业成本法章节核心知识点，包括作业成本的计算和应用",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "作业成本法",
-        "作业成本计算"
-      ],
-      "wordCount": 1082,
-      "id": "95515ebefa36205d"
+      "filename": "一，社会文化理论的核心.json",
+      "title": "一，社会文化理论的核心",
+      "description": "一，社会文化理论的核心",
+      "category": "心理学/发展心理学",
+      "tags": [],
+      "wordCount": 226,
+      "id": "c4a4e98bebb6174b"
     },
     {
-      "filename": "风险与风险管理.json",
-      "title": "风险与风险管理",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "filename": "依恋理论.json",
+      "title": "依恋理论专题",
+      "description": "依恋的定义与类型（A型、B型、C型）、依恋的形成机制、依恋对发展的影响",
+      "category": "心理学/发展心理学",
       "tags": [
-        "风险",
-        "风险管理",
-        "CPA"
+        "依恋",
+        "Ainsworth",
+        "安全依恋",
+        "依恋类型"
       ],
-      "wordCount": 325,
-      "id": "c8ef74778c2a8653"
+      "wordCount": 1137,
+      "id": "f96a38b160190976"
     },
     {
-      "filename": "公司治理.json",
-      "title": "公司治理",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "filename": "语言发展.json",
+      "title": "语言发展专题",
+      "description": "语言发展的阶段（语音、词汇、语法、语用）、词汇爆发、电报句、Wh-问题",
+      "category": "心理学/发展心理学",
       "tags": [
-        "公司治理",
-        "董事会",
-        "监事会",
-        "CPA"
+        "语言发展",
+        "词汇爆发",
+        "语法发展",
+        "心理语言学"
       ],
-      "wordCount": 319,
-      "id": "e25e79384e2ea402"
+      "wordCount": 1421,
+      "id": "549cd0033cf48b52"
     },
     {
-      "filename": "国际化经营战略.json",
-      "title": "国际化经营战略",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "filename": "智力理论.json",
+      "title": "智力理论专题",
+      "description": "智力一元论与多元论、斯皮尔曼二因素论、卡特流体-晶体智力、智力的PASS模型",
+      "category": "心理学/发展心理学",
       "tags": [
-        "国际化经营",
-        "战略",
-        "CPA"
+        "智力理论",
+        "流体智力",
+        "晶体智力",
+        "多元智力"
       ],
-      "wordCount": 305,
-      "id": "d60db92a0a1e612d"
+      "wordCount": 1589,
+      "id": "79149e885e4e0570"
     },
     {
-      "filename": "内部控制.json",
-      "title": "内部控制",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "内部控制",
-        "COSO框架",
-        "CPA"
-      ],
-      "wordCount": 353,
-      "id": "2f119a4f008efbc3"
+      "filename": "备考重点.json",
+      "title": "备考重点",
+      "description": "备考重点",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 100,
+      "id": "58f91aed28b49c57"
     },
     {
-      "filename": "数字化转型战略.json",
-      "title": "数字化转型战略",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "数字化转型",
-        "战略",
-        "CPA"
-      ],
-      "wordCount": 395,
-      "id": "905b4983f825a260"
+      "filename": "二、感受性与感觉阈限.json",
+      "title": "二、感受性与感觉阈限",
+      "description": "二、感受性与感觉阈限",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 298,
+      "id": "a2cda800be17364e"
     },
     {
-      "filename": "战略分析.json",
-      "title": "战略分析",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略分析",
-        "外部环境",
-        "内部环境",
-        "CPA"
-      ],
-      "wordCount": 391,
-      "id": "d20a69426118ea9f"
+      "filename": "二、记忆的三级加工模型.json",
+      "title": "二、记忆的三级加工模型",
+      "description": "二、记忆的三级加工模型",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 427,
+      "id": "d75fb22bbcf89806"
     },
     {
-      "filename": "战略管理概述.json",
-      "title": "战略管理概述",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略管理",
-        "公司战略",
-        "CPA"
-      ],
-      "wordCount": 272,
-      "id": "fc146a253ac6f230"
+      "filename": "二、实验法.json",
+      "title": "二、实验法",
+      "description": "二、实验法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 511,
+      "id": "63796385bbd58eca"
     },
     {
-      "filename": "战略控制.json",
-      "title": "战略控制",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略控制",
-        "预算控制",
-        "平衡计分卡",
-        "CPA"
-      ],
-      "wordCount": 276,
-      "id": "f49cbddb991d1ae2"
+      "filename": "六、记忆策略.json",
+      "title": "六、记忆策略",
+      "description": "六、记忆策略",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 126,
+      "id": "2a748f077f1ed0bc"
     },
     {
-      "filename": "战略实施.json",
-      "title": "战略实施",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略实施",
-        "组织结构",
-        "企业文化",
-        "CPA"
-      ],
-      "wordCount": 260,
-      "id": "43412207cdc7f6c8"
+      "filename": "六、研究方法的选择.json",
+      "title": "六、研究方法的选择",
+      "description": "六、研究方法的选择",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 135,
+      "id": "705b63ff1ef710d8"
     },
     {
-      "filename": "战略选择.json",
-      "title": "战略选择",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略选择",
-        "总体战略",
-        "业务单位战略",
-        "CPA"
-      ],
-      "wordCount": 335,
-      "id": "e8dbbb72eb78980a"
+      "filename": "六、知觉的四大特性.json",
+      "title": "六、知觉的四大特性",
+      "description": "六、知觉的四大特性",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 483,
+      "id": "ff7ded374ed7dfd5"
     },
     {
-      "filename": "存货.json",
-      "title": "存货",
-      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "存货",
-        "计量方法"
-      ],
-      "wordCount": 1214,
-      "id": "f4d27b56c0abc7b6"
+      "filename": "七、知觉的种类.json",
+      "title": "七、知觉的种类",
+      "description": "七、知觉的种类",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 131,
+      "id": "b5fc7325c7226cf1"
     },
     {
-      "filename": "短期借款.json",
-      "title": "短期借款",
-      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "短期借款",
-        "利息核算"
-      ],
-      "wordCount": 674,
-      "id": "2ce4bfe39200714a"
+      "filename": "三、调查法.json",
+      "title": "三、调查法",
+      "description": "三、调查法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 278,
+      "id": "ddf55f64f248a294"
     },
     {
-      "filename": "负债概述.json",
-      "title": "负债概述",
-      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "负债",
-        "确认计量"
-      ],
-      "wordCount": 707,
-      "id": "2a8d3bc844708f18"
+      "filename": "三、工作记忆模型.json",
+      "title": "三、工作记忆模型",
+      "description": "三、工作记忆模型",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 201,
+      "id": "903b9b862d1e336a"
     },
     {
-      "filename": "固定资产.json",
-      "title": "固定资产",
-      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "固定资产",
-        "折旧"
-      ],
-      "wordCount": 1300,
-      "id": "44317f6c09f098d5"
+      "filename": "三、韦伯定律.json",
+      "title": "三、韦伯定律",
+      "description": "三、韦伯定律",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 231,
+      "id": "fdc45ae4873ca7d5"
     },
     {
-      "filename": "货币资金.json",
-      "title": "货币资金",
-      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
-      "category": "注册会计师/会计",
+      "filename": "思维与问题解决.json",
+      "title": "思维与问题解决专题",
+      "description": "思维的种类、表征、问题解决策略、影响因素（定势与功能固着）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "CPA",
-        "会计",
-        "货币资金",
-        "现金管理"
+        "思维",
+        "问题解决",
+        "定势",
+        "功能固着",
+        "表征"
       ],
-      "wordCount": 1178,
-      "id": "33408f637aca0506"
+      "wordCount": 1435,
+      "id": "b2513731d99a2f6d"
     }
   ]
 }

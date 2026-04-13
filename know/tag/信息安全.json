@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "信息安全",
-    "count": 1
+    "count": 3
   },
   "articles": [
     {
@@ -17,6 +17,35 @@
       ],
       "wordCount": 795,
       "id": "fe2ea7ca433ca37e"
+    },
+    {
+      "filename": "安全架构.json",
+      "title": "安全架构",
+      "description": "信息安全架构设计",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "安全架构",
+        "WPDRRC",
+        "信息安全",
+        "威胁防护",
+        "安全体系"
+      ],
+      "wordCount": 1067,
+      "id": "c7cce54551349698"
+    },
+    {
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
+      ],
+      "wordCount": 1272,
+      "id": "0abfa84f1b5a76b3"
     }
   ]
 }

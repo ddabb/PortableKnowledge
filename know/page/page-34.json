@@ -1,243 +1,258 @@
 {
   "page": 34,
-  "totalPages": 43,
-  "totalItems": 857,
+  "totalPages": 58,
+  "totalItems": 1149,
   "items": [
     {
-      "filename": "七、仲裁 vs 诉讼.json",
-      "title": "七、仲裁 vs 诉讼",
-      "description": "七、仲裁 vs 诉讼",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 140,
-      "id": "379f8a50c78d0996"
-    },
-    {
-      "filename": "七、重要提醒.json",
-      "title": "七、重要提醒",
-      "description": "七、重要提醒",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 135,
-      "id": "134b2227bf79c0da"
-    },
-    {
-      "filename": "期权与股权激励处理.json",
-      "title": "期权与股权激励处理",
-      "description": "期权与股权激励处理",
-      "category": "职场生存/劳动权益",
+      "filename": "项目基本要素.json",
+      "title": "项目基本要素",
+      "description": "项目基础概念、项目管理定义与作用、项目成功标准",
+      "category": "软考/综合知识/引论",
       "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
+        "项目管理",
+        "项目基本要素",
+        "项目组合",
+        "项目集",
+        "运营管理"
       ],
-      "wordCount": 580,
-      "id": "3558cbe969fd7732"
+      "wordCount": 2365,
+      "id": "72a85e59bcb1b224"
     },
     {
-      "filename": "三、被裁后的正确步骤.json",
-      "title": "三、被裁后的正确步骤",
-      "description": "三、被裁后的正确步骤",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 352,
-      "id": "651d1868ed8e26b6"
-    },
-    {
-      "filename": "三、常见陷阱.json",
-      "title": "三、常见陷阱",
-      "description": "三、常见陷阱",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 312,
-      "id": "4c308e6038bcb017"
-    },
-    {
-      "filename": "三、准备材料.json",
-      "title": "三、准备材料",
-      "description": "三、准备材料",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 471,
-      "id": "f2048b43b2247303"
-    },
-    {
-      "filename": "试用期陷阱与法律保护.json",
-      "title": "试用期陷阱与法律保护",
-      "description": "试用期陷阱与法律保护",
-      "category": "职场生存/劳动权益",
+      "filename": "项目阶段.json",
+      "title": "项目阶段",
+      "description": "项目阶段是一组具有逻辑关系的项目活动的集合，通常以一个或多个可交付成果的完成为结束。",
+      "category": "软考/综合知识/引论",
       "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
+        "基本要素",
+        "指南的组成部分",
+        "项目管理"
       ],
-      "wordCount": 593,
-      "id": "cd01dc71ff9d89df"
+      "wordCount": 577,
+      "id": "a88a820aea654258"
     },
     {
-      "filename": "四、公司常见的·套路·.json",
-      "title": "四、公司常见的·套路·",
-      "description": "四、公司常见的·套路·",
-      "category": "职场生存/劳动权益",
+      "filename": "项目经理的角色.json",
+      "title": "项目经理的角色",
+      "description": "项目经理定义、所需技能和特性、人际关系技能、成功标准",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "项目经理",
+        "PMP",
+        "领导力",
+        "项目管理"
+      ],
+      "wordCount": 1359,
+      "id": "902a832c9bbc0bdb"
+    },
+    {
+      "filename": "项目立项管理.json",
+      "title": "项目立项管理",
+      "description": "项目建议与立项申请、可行性研究、项目评估与决策",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "项目立项",
+        "可行性研究",
+        "项目评估"
+      ],
+      "wordCount": 2367,
+      "id": "97c4ef457af336d5"
+    },
+    {
+      "filename": "项目商业论证.json",
+      "title": "项目商业论证",
+      "description": "项目商业论证指文档化的经济可行性研究报告，用来对尚缺乏充分定义的所选方案的收益进行有效性论证，是启动后续项目管理活动的依据。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "项目管理商业文件",
+        "项目管理"
+      ],
+      "wordCount": 1007,
+      "id": "5f441e7a3c4020d7"
+    },
+    {
+      "filename": "项目生命周期和项目阶段.json",
+      "title": "项目生命周期和项目阶段",
+      "description": "通用生命周期结构、特征、生命周期类型比较",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "项目生命周期",
+        "预测型",
+        "适应型",
+        "敏捷",
+        "PMP"
+      ],
+      "wordCount": 1441,
+      "id": "90699525b351c656"
+    },
+    {
+      "filename": "项目效益管理计划.json",
+      "title": "项目效益管理计划",
+      "description": "项目效益管理计划描述了项目实现效益的方式和时间，以及应制定的效益衡量机制。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "项目管理商业文件",
+        "项目管理"
+      ],
+      "wordCount": 630,
+      "id": "eab70acdfe7615a2"
+    },
+    {
+      "filename": "项目章程和项目管理计划.json",
+      "title": "项目章程和项目管理计划",
+      "description": "项目章程是由项目发起人发布的，正式批准项目成立，并授权项目经理动用组织资源开展项目活动的文件。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "项目管理商业文件",
+        "项目管理"
+      ],
+      "wordCount": 103,
+      "id": "4c7b7662d15add9d"
+    },
+    {
+      "filename": "新型基础设施建设.json",
+      "title": "新型基础设施建设",
+      "description": "新型基础设施是以新发展理念为引领，以技术创新为驱动，以信息网络为基础，面向高质量发展需要，提供数字转型、智能升级、融合创新等服务的基础设施体系。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "新基建",
+        "软考备考"
+      ],
+      "wordCount": 397,
+      "id": "b30fee4ba33b7b01"
+    },
+    {
+      "filename": "信息化基础.json",
+      "title": "信息化基础",
+      "description": "信息化是指培养、发展以计算机为主的智能化工具为代表的新生产力，并使之造福于社会的历史过程。国家信息化体系包括信息技术应用、信息资源、信息网络、信息技术和产业、信息化人才、信息化政策法规和标准规范6个要素。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "信息与信息化",
+        "软考备考"
+      ],
+      "wordCount": 465,
+      "id": "011dc00feb20c036"
+    },
+    {
+      "filename": "信息基础.json",
+      "title": "信息基础",
+      "description": "信息是物质、能量及其属性的标示的集合，是确定性的增加。1948年香农将信息定义为\"用来消除随机不定性的东西\"，信息量的单位为比特(bit)。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "信息与信息化",
+        "软考备考"
+      ],
+      "wordCount": 302,
+      "id": "3e5307a35c773706"
+    },
+    {
+      "filename": "虚拟现实.json",
+      "title": "虚拟现实",
+      "description": "VR/AR/MR概念、关键技术及应用",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "VR",
+        "AR",
+        "MR",
+        "虚拟现实",
+        "人机交互"
+      ],
+      "wordCount": 880,
+      "id": "61bb1bdbf5d1614e"
+    },
+    {
+      "filename": "元宇宙.json",
+      "title": "元宇宙",
+      "description": "元宇宙是利用科技手段进行链接与创造的，与现实世界映射与交互的虚拟世界，具备新型社会体系的数字生活空间。主要特征包括沉浸式体验、虚拟身份、虚拟经济和虚拟社会治理。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "元宇宙",
+        "数字化转型",
+        "软考备考"
+      ],
+      "wordCount": 409,
+      "id": "be384342350e68e2"
+    },
+    {
+      "filename": "云计算.json",
+      "title": "云计算",
+      "description": "云计算概念、服务模式、部署模式及关键技术",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "虚拟化",
+        "云存储",
+        "分布式计算"
+      ],
+      "wordCount": 994,
+      "id": "51de51bc04ef8c7d"
+    },
+    {
+      "filename": "指南概述和目的.json",
+      "title": "指南概述和目的",
+      "description": "项目管理并非新概念，它已存在数百年之久。项目成果的例子包括：",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "指南概述和目的",
+        "PMP"
+      ],
+      "wordCount": 918,
+      "id": "8105ec5194a73f2f"
+    },
+    {
+      "filename": "PMBOK的发展.json",
+      "title": "PMBOK的发展",
+      "description": "PMBOK各版本演变历程及关键变化",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "PMBOK",
+        "PMI",
+        "项目管理",
+        "版本演变"
+      ],
+      "wordCount": 986,
+      "id": "e5768cb7ba885bba"
+    },
+    {
+      "filename": "二、常见诈骗类型.json",
+      "title": "二、常见诈骗类型",
+      "description": "二、常见诈骗类型",
+      "category": "生活通识/安全防范",
       "tags": [],
-      "wordCount": 175,
-      "id": "d644adee66807590"
+      "wordCount": 657,
+      "id": "629f6b2a5047f4d8"
     },
     {
-      "filename": "四、入住后的注意事项.json",
-      "title": "四、入住后的注意事项",
-      "description": "四、入住后的注意事项",
-      "category": "职场生存/劳动权益",
+      "filename": "二、赌博防范.json",
+      "title": "二、赌博防范",
+      "description": "二、赌博防范",
+      "category": "生活通识/安全防范",
       "tags": [],
-      "wordCount": 238,
-      "id": "33bff5e52686d500"
+      "wordCount": 560,
+      "id": "51b494cf85407150"
     },
     {
-      "filename": "四、仲裁流程.json",
-      "title": "四、仲裁流程",
-      "description": "四、仲裁流程",
-      "category": "职场生存/劳动权益",
+      "filename": "二、网络诈骗.json",
+      "title": "二、网络诈骗",
+      "description": "二、网络诈骗",
+      "category": "生活通识/安全防范",
       "tags": [],
-      "wordCount": 428,
-      "id": "da12f66d85c704d1"
+      "wordCount": 320,
+      "id": "646464a36c798ef2"
     },
     {
-      "filename": "违法解除赔偿金2N详解.json",
-      "title": "违法解除赔偿金2N详解",
-      "description": "违法解除赔偿金2N详解",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "经济补偿",
-        "年终奖",
-        "离职赔偿",
-        "期权",
-        "N+1",
-        "2N"
-      ],
-      "wordCount": 726,
-      "id": "16e5e52a458788a5"
-    },
-    {
-      "filename": "五、退租阶段.json",
-      "title": "五、退租阶段",
-      "description": "五、退租阶段",
-      "category": "职场生存/劳动权益",
+      "filename": "六、保护个人信息.json",
+      "title": "六、保护个人信息",
+      "description": "六、保护个人信息",
+      "category": "生活通识/安全防范",
       "tags": [],
-      "wordCount": 328,
-      "id": "9d6f11b1ec5c2bee"
-    },
-    {
-      "filename": "五、仲裁结果.json",
-      "title": "五、仲裁结果",
-      "description": "五、仲裁结果",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 268,
-      "id": "c13143f3d63c0b21"
-    },
-    {
-      "filename": "五、仲裁流程.json",
-      "title": "五、仲裁流程",
-      "description": "五、仲裁流程",
-      "category": "职场生存/劳动权益",
-      "tags": [],
-      "wordCount": 252,
-      "id": "07445093e4f747a9"
-    },
-    {
-      "filename": "八、实际案例分析.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 396,
-      "id": "4bcd90a2b8ec94fb"
-    },
-    {
-      "filename": "二、养老保险.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 632,
-      "id": "ea908dfc8cd34d6f"
-    },
-    {
-      "filename": "九、操作建议.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 262,
-      "id": "2848c888767dbec2"
-    },
-    {
-      "filename": "六、生育保险.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 435,
-      "id": "708e93ae4d0c39e2"
-    },
-    {
-      "filename": "七、住房公积金.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 601,
-      "id": "9ceacbd554ec6e4e"
-    },
-    {
-      "filename": "三、医疗保险.json",
-      "title": "五险一金全解读",
-      "description": "全面解读养老保险、医疗保险、失业保险、工伤保险、生育保险及住房公积金的缴纳标准、使用方法和权益保障",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "五险一金",
-        "社保",
-        "公积金",
-        "职场权益",
-        "劳动保障"
-      ],
-      "wordCount": 508,
-      "id": "749145059a8968a3"
+      "wordCount": 116,
+      "id": "bb22bb274895c7f8"
     }
   ]
 }

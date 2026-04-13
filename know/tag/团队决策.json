@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "团队决策",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "投票.json",
+      "title": "投票完全指南",
+      "description": "投票的定义、类型、实施方法和在项目管理中的应用",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "决策",
+        "投票",
+        "共识",
+        "团队决策"
+      ],
+      "wordCount": 1310,
+      "id": "eca1be53e721daa8"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "SDN",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "网络架构.json",
+      "title": "网络架构",
+      "description": "网络架构设计、网络分层",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "网络架构",
+        "局域网",
+        "广域网",
+        "移动通信网",
+        "SDN"
+      ],
+      "wordCount": 1050,
+      "id": "57f12946f1cedfe6"
+    }
+  ]
+}

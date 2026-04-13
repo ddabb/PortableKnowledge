@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "中间件",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "软件集成技术.json",
+      "title": "软件集成技术",
+      "description": "API、中间件、组件技术、SOA架构",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "软件集成",
+        "中间件",
+        "API",
+        "组件技术",
+        "SOA"
+      ],
+      "wordCount": 1156,
+      "id": "f8a4a873312b7ef4"
+    }
+  ]
+}
