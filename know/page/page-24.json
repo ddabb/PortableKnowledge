@@ -4,22 +4,6 @@
   "totalItems": 727,
   "items": [
     {
-      "filename": "区块链.json",
-      "title": "区块链",
-      "description": "区块链概念、核心技术、类型及应用",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "区块链",
-        "共识机制",
-        "智能合约",
-        "分布式账本",
-        "公有链",
-        "私有链"
-      ],
-      "wordCount": 1001,
-      "id": "258e3511c26a1d04"
-    },
-    {
       "filename": "人工智能.json",
       "title": "人工智能",
       "description": "AI概念、发展阶段、关键技术及应用",
@@ -273,6 +257,20 @@
       ],
       "wordCount": 577,
       "id": "a88a820aea654258"
+    },
+    {
+      "filename": "项目经理的角色.json",
+      "title": "项目经理的角色",
+      "description": "项目经理定义、所需技能和特性、人际关系技能、成功标准",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "项目经理",
+        "PMP",
+        "领导力",
+        "项目管理"
+      ],
+      "wordCount": 1359,
+      "id": "902a832c9bbc0bdb"
     }
   ]
 }

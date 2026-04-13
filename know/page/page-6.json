@@ -4,19 +4,6 @@
   "totalItems": 727,
   "items": [
     {
-      "filename": "幼儿认知发展.json",
-      "title": "幼儿认知发展",
-      "description": "",
-      "category": "教师资格证/幼儿",
-      "tags": [
-        "认知发展",
-        "幼儿认知",
-        "教资"
-      ],
-      "wordCount": 3651,
-      "id": "c000081953871a25"
-    },
-    {
       "filename": "幼儿社会性发展.json",
       "title": "幼儿社会性发展",
       "description": "",
@@ -263,6 +250,20 @@
       ],
       "wordCount": 3969,
       "id": "0f7696138546b52b"
+    },
+    {
+      "filename": "代数.json",
+      "title": "代数",
+      "description": "",
+      "category": "考研专业课/管理类联考",
+      "tags": [
+        "管理类联考",
+        "数学",
+        "代数",
+        "考研"
+      ],
+      "wordCount": 816,
+      "id": "80ba64830a2d44a1"
     }
   ]
 }

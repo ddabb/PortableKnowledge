@@ -4,20 +4,6 @@
   "totalItems": 727,
   "items": [
     {
-      "filename": "项目经理的角色.json",
-      "title": "项目经理的角色",
-      "description": "项目经理定义、所需技能和特性、人际关系技能、成功标准",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "项目经理",
-        "PMP",
-        "领导力",
-        "项目管理"
-      ],
-      "wordCount": 1359,
-      "id": "902a832c9bbc0bdb"
-    },
-    {
       "filename": "项目立项管理.json",
       "title": "项目立项管理",
       "description": "项目建议与立项申请、可行性研究、项目评估与决策",
@@ -277,6 +263,20 @@
       ],
       "wordCount": 2823,
       "id": "ccdb2bcab32054e3"
+    },
+    {
+      "filename": "如何培养健康的睡眠习惯.json",
+      "title": "如何培养健康的睡眠习惯",
+      "description": "从睡眠机制到实用方法，建立科学睡眠模式，提升睡眠质量",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "睡眠",
+        "健康管理",
+        "作息",
+        "睡眠质量"
+      ],
+      "wordCount": 1004,
+      "id": "c4808af2f4cd96c9"
     }
   ]
 }

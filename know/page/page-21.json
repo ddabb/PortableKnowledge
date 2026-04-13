@@ -4,20 +4,6 @@
   "totalItems": 727,
   "items": [
     {
-      "filename": "核对单.json",
-      "title": "核对单完全指南",
-      "description": "核对单的定义、类型、编制方法、使用场景和注意事项",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集",
-        "核对单",
-        "检查清单",
-        "质量管理"
-      ],
-      "wordCount": 1862,
-      "id": "fa10b174d54144c2"
-    },
-    {
       "filename": "焦点小组.json",
       "title": "焦点小组完全指南",
       "description": "焦点小组的定义、优势、准备工作、主持技巧和结果分析",
@@ -264,6 +250,20 @@
       ],
       "wordCount": 1481,
       "id": "a4acf88dba3cb424"
+    },
+    {
+      "filename": "计算机网络基础.json",
+      "title": "计算机网络基础",
+      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "网络基础",
+        "OSI模型",
+        "TCP-IP协议",
+        "系统集成"
+      ],
+      "wordCount": 1085,
+      "id": "9b3e767751872604"
     }
   ]
 }

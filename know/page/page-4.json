@@ -4,20 +4,6 @@
   "totalItems": 727,
   "items": [
     {
-      "filename": "项目进度管理.json",
-      "title": "项目进度管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "进度管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 166,
-      "id": "c7c752a4767c2f39"
-    },
-    {
       "filename": "项目质量管理.json",
       "title": "项目质量管理",
       "description": "",
@@ -280,6 +266,20 @@
       ],
       "wordCount": 233,
       "id": "ae4580952208ff40"
+    },
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "id": "ef5aeb98d5443572"
     }
   ]
 }

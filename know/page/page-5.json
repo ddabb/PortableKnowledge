@@ -4,20 +4,6 @@
   "totalItems": 727,
   "items": [
     {
-      "filename": "项目质量管理.json",
-      "title": "项目质量管理",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "质量管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 199,
-      "id": "ef5aeb98d5443572"
-    },
-    {
       "filename": "核心考点.json",
       "title": "教师资格证考试核心考点",
       "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
@@ -263,6 +249,19 @@
       ],
       "wordCount": 3574,
       "id": "41ccc8cea733cbca"
+    },
+    {
+      "filename": "幼儿认知发展.json",
+      "title": "幼儿认知发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "认知发展",
+        "幼儿认知",
+        "教资"
+      ],
+      "wordCount": 3651,
+      "id": "c000081953871a25"
     }
   ]
 }

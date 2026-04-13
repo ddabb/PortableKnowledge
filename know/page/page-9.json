@@ -4,19 +4,6 @@
   "totalItems": 727,
   "items": [
     {
-      "filename": "教育与人的发展.json",
-      "title": "教育与人的发展",
-      "description": "",
-      "category": "考研专业课/教育学专业基础综合",
-      "tags": [
-        "教育学",
-        "人的发展",
-        "考研"
-      ],
-      "wordCount": 344,
-      "id": "17f5df24d454b3d5"
-    },
-    {
       "filename": "课程理论与实践.json",
       "title": "课程理论与实践",
       "description": "",
@@ -252,6 +239,21 @@
       ],
       "wordCount": 720,
       "id": "5c83fb187aec2197"
+    },
+    {
+      "filename": "沉没成本谬误.json",
+      "title": "沉没成本谬误",
+      "description": "因为已经在一件事上投入了资源（时间、金钱、精力），即使明知继续是错的，人们仍然不愿放弃或止损的非理性决策模式",
+      "category": "认知思维/认知偏差",
+      "tags": [
+        "沉没成本",
+        "认知偏差",
+        "决策心理",
+        "止损",
+        "非理性"
+      ],
+      "wordCount": 2125,
+      "id": "91043131be67efa9"
     }
   ]
 }
