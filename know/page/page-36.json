@@ -1,22 +1,8 @@
 {
   "page": 36,
   "totalPages": 37,
-  "totalItems": 728,
+  "totalItems": 727,
   "items": [
-    {
-      "filename": "会计师事务所质量控制.json",
-      "title": "会计师事务所质量控制",
-      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "质量控制",
-        "要素程序"
-      ],
-      "wordCount": 1634,
-      "id": "6382ed54c5889567"
-    },
     {
       "filename": "货币资金审计.json",
       "title": "货币资金审计",
@@ -278,6 +264,20 @@
       ],
       "wordCount": 929,
       "id": "de2aa7c5c7accbcc"
+    },
+    {
+      "filename": "企业所得税应纳税所得额.json",
+      "title": "企业所得税应纳税所得额",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "应纳税所得额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 941,
+      "id": "2307cec8cfad239d"
     }
   ]
 }

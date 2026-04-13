@@ -1,21 +1,8 @@
 {
   "page": 34,
   "totalPages": 37,
-  "totalItems": 728,
+  "totalItems": 727,
   "items": [
-    {
-      "filename": "数字化转型战略.json",
-      "title": "数字化转型战略",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "数字化转型",
-        "战略",
-        "CPA"
-      ],
-      "wordCount": 395,
-      "id": "905b4983f825a260"
-    },
     {
       "filename": "战略分析.json",
       "title": "战略分析",
@@ -280,6 +267,20 @@
       ],
       "wordCount": 1144,
       "id": "568e00039dccb6b5"
+    },
+    {
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
+      ],
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
     }
   ]
 }

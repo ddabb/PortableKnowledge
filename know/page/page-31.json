@@ -1,7 +1,7 @@
 {
   "page": 31,
   "totalPages": 37,
-  "totalItems": 728,
+  "totalItems": 727,
   "items": [
     {
       "filename": "违法解除赔偿金2N详解.json",
@@ -18,21 +18,6 @@
       ],
       "wordCount": 726,
       "id": "16e5e52a458788a5"
-    },
-    {
-      "filename": "五、工作地点与岗位条款.json",
-      "title": "五、工作地点与岗位条款",
-      "description": "五、工作地点与岗位条款",
-      "category": "职场生存/劳动权益",
-      "tags": [
-        "劳动合同",
-        "合同陷阱",
-        "职场法律",
-        "劳动权益",
-        "合同条款"
-      ],
-      "wordCount": 473,
-      "id": "f1f86638427cf6f3"
     },
     {
       "filename": "social-insurance-guide.json",
@@ -302,6 +287,22 @@
       ],
       "wordCount": 1856,
       "id": "096c2568ebc775dc"
+    },
+    {
+      "filename": "成本理论.json",
+      "title": "成本理论",
+      "description": "中级经济师经济学基础章节核心知识点，包括成本的概念、短期成本、长期成本和利润最大化",
+      "category": "中级经济师/基础知识",
+      "tags": [
+        "中级经济师",
+        "基础知识",
+        "经济学基础",
+        "成本理论",
+        "短期成本",
+        "长期成本"
+      ],
+      "wordCount": 1465,
+      "id": "f15e5890f3b3756e"
     }
   ]
 }

@@ -1,22 +1,8 @@
 {
   "page": 35,
   "totalPages": 37,
-  "totalItems": 728,
+  "totalItems": 727,
   "items": [
-    {
-      "filename": "应交税费.json",
-      "title": "应交税费",
-      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应交税费",
-        "增值税"
-      ],
-      "wordCount": 1207,
-      "id": "42db45ed35059dd0"
-    },
     {
       "filename": "应收及预付款项.json",
       "title": "应收及预付款项",
@@ -271,6 +257,20 @@
       ],
       "wordCount": 925,
       "id": "05e487191787af09"
+    },
+    {
+      "filename": "会计师事务所质量控制.json",
+      "title": "会计师事务所质量控制",
+      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "质量控制",
+        "要素程序"
+      ],
+      "wordCount": 1634,
+      "id": "6382ed54c5889567"
     }
   ]
 }
