@@ -1,7 +1,7 @@
 {
   "name": "root",
   "path": "",
-  "count": 532,
+  "count": 542,
   "children": {
     "产品研发": {
       "name": "产品研发",
@@ -43,8 +43,33 @@
     "家庭理财": {
       "name": "家庭理财",
       "path": "家庭理财",
-      "count": 1,
-      "children": {}
+      "count": 11,
+      "children": {
+        "保险规划": {
+          "name": "保险规划",
+          "path": "家庭理财/保险规划",
+          "count": 1,
+          "children": {}
+        },
+        "股票投资": {
+          "name": "股票投资",
+          "path": "家庭理财/股票投资",
+          "count": 3,
+          "children": {}
+        },
+        "固定收益": {
+          "name": "固定收益",
+          "path": "家庭理财/固定收益",
+          "count": 3,
+          "children": {}
+        },
+        "基金投资": {
+          "name": "基金投资",
+          "path": "家庭理财/基金投资",
+          "count": 3,
+          "children": {}
+        }
+      }
     },
     "建造师": {
       "name": "建造师",

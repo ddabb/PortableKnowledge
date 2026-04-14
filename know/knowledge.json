@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 532,
-    "totalCategories": 61,
-    "totalTags": 793
+    "totalArticles": 542,
+    "totalCategories": 65,
+    "totalTags": 840
   },
   "categories": [
     {
@@ -142,6 +142,18 @@
       "count": 4
     },
     {
+      "name": "家庭理财/股票投资",
+      "count": 3
+    },
+    {
+      "name": "家庭理财/固定收益",
+      "count": 3
+    },
+    {
+      "name": "家庭理财/基金投资",
+      "count": 3
+    },
+    {
       "name": "软考/综合知识/计算题专项",
       "count": 3
     },
@@ -183,6 +195,10 @@
     },
     {
       "name": "家庭理财",
+      "count": 1
+    },
+    {
+      "name": "家庭理财/保险规划",
       "count": 1
     },
     {

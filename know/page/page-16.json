@@ -1,8 +1,141 @@
 {
   "page": 16,
-  "totalPages": 27,
-  "totalItems": 532,
+  "totalPages": 28,
+  "totalItems": 542,
   "items": [
+    {
+      "filename": "成本效益分析.json",
+      "title": "成本效益分析完全指南",
+      "description": "成本效益分析的定义、步骤、方法和项目管理中的应用",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "数据分析",
+        "成本效益分析",
+        "决策",
+        "投资分析"
+      ],
+      "wordCount": 2247,
+      "id": "8e8ec6fab964e8fd"
+    },
+    {
+      "filename": "冲突管理.json",
+      "title": "冲突管理完全指南",
+      "description": "冲突的定义、来源、五种冲突解决方法及适用场景",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "人际关系与团队技能",
+        "冲突管理",
+        "项目管理",
+        "团队协作"
+      ],
+      "wordCount": 2692,
+      "id": "3a26dcfeeff022f8"
+    },
+    {
+      "filename": "独裁型决策制定.json",
+      "title": "独裁型决策制定",
+      "description": "一种由单一决策者主导的决策方法，适用于需要快速决策的场景。",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "决策",
+        "项目管理",
+        "领导风格"
+      ],
+      "wordCount": 1229,
+      "id": "a197252eeba2b9ab"
+    },
+    {
+      "filename": "多标准决策分析.json",
+      "title": "多标准决策分析",
+      "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "决策"
+      ],
+      "wordCount": 55,
+      "id": "20cab351439d27fa"
+    },
+    {
+      "filename": "访谈.json",
+      "title": "访谈完全指南",
+      "description": "访谈的定义、类型、准备工作、提问技巧和结果分析",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "数据收集",
+        "访谈",
+        "沟通",
+        "需求获取"
+      ],
+      "wordCount": 1802,
+      "id": "714a8a83d55f2657"
+    },
+    {
+      "filename": "观察和交谈.json",
+      "title": "观察和交谈完全指南",
+      "description": "观察法的定义、类型、实施步骤、记录技巧和与交谈的结合应用",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "人际关系与团队技能",
+        "观察和交谈",
+        "工作观察",
+        "需求获取"
+      ],
+      "wordCount": 2932,
+      "id": "19724bb75dd76706"
+    },
+    {
+      "filename": "核对单.json",
+      "title": "核对单完全指南",
+      "description": "核对单的定义、类型、编制方法、使用场景和注意事项",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "数据收集",
+        "核对单",
+        "检查清单",
+        "质量管理"
+      ],
+      "wordCount": 1862,
+      "id": "fa10b174d54144c2"
+    },
+    {
+      "filename": "焦点小组.json",
+      "title": "焦点小组完全指南",
+      "description": "焦点小组的定义、优势、准备工作、主持技巧和结果分析",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "数据收集",
+        "焦点小组",
+        "用户研究",
+        "小组讨论"
+      ],
+      "wordCount": 1881,
+      "id": "1dd9f21d6057f4f4"
+    },
+    {
+      "filename": "联合应用设计或开发.json",
+      "title": "联合应用设计或开发",
+      "description": "联合应用设计或开发 JAD 会议适用于软件开发行业。这种研讨会注重把业务主题专家和开发团队集中在一起，以收集需求和改进软件开发过程。",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "人际关系与团队技能"
+      ],
+      "wordCount": 64,
+      "id": "e307f585652ce8e2"
+    },
+    {
+      "filename": "名义小组技术.json",
+      "title": "名义小组技术完全指南",
+      "description": "名义小组技术的定义、实施步骤、优缺点和应用场景",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "人际关系与团队技能",
+        "名义小组技术",
+        "决策工具",
+        "头脑风暴"
+      ],
+      "wordCount": 2882,
+      "id": "e1a056cecb167c5e"
+    },
     {
       "filename": "亲和图.json",
       "title": "亲和图",
@@ -130,144 +263,6 @@
       ],
       "wordCount": 1240,
       "id": "261aaa76fbd66b9b"
-    },
-    {
-      "filename": "PERT估算与其他计算专项.json",
-      "title": "PERT估算与其他计算专项",
-      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
-      "category": "软考/综合知识/计算题专项",
-      "tags": [
-        "PERT",
-        "三点估算",
-        "计算题",
-        "中项核心"
-      ],
-      "wordCount": 1298,
-      "id": "9b2fbbd00f6b1f16"
-    },
-    {
-      "filename": "软考中项案例分析答题框架.json",
-      "title": "软考中项案例分析答题框架",
-      "description": "系统梳理案例分析各类题型的万能答题框架、常见失分原因、标准化答题步骤，配套各知识域典型案例答题模板，助你高效拿下案例分析。",
-      "category": "软考/综合知识/软考备考",
-      "tags": [
-        "案例分析",
-        "答题框架",
-        "万能模板",
-        "应试技巧"
-      ],
-      "wordCount": 6777,
-      "id": "9534a6bb08b66667"
-    },
-    {
-      "filename": "数据流向图.json",
-      "title": "数据流向图",
-      "description": "数据流向图（DFD）的概念、组成元素与绘制要点",
-      "category": "软考/综合知识/数据流向图",
-      "tags": [],
-      "wordCount": 288,
-      "id": "c33b6fbcde05c601"
-    },
-    {
-      "filename": "安全架构.json",
-      "title": "安全架构",
-      "description": "信息安全架构设计",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "安全架构",
-        "WPDRRC",
-        "信息安全",
-        "威胁防护",
-        "安全体系"
-      ],
-      "wordCount": 1067,
-      "id": "c7cce54551349698"
-    },
-    {
-      "filename": "存储与备份技术.json",
-      "title": "存储与备份技术",
-      "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "存储技术",
-        "RAID",
-        "备份",
-        "系统集成"
-      ],
-      "wordCount": 982,
-      "id": "df35da523c5af5d5"
-    },
-    {
-      "filename": "访问控制.json",
-      "title": "访问控制",
-      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "访问控制",
-        "DAC",
-        "MAC",
-        "RBAC",
-        "ABAC"
-      ],
-      "wordCount": 1481,
-      "id": "a4acf88dba3cb424"
-    },
-    {
-      "filename": "计算机网络基础.json",
-      "title": "计算机网络基础",
-      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "网络基础",
-        "OSI模型",
-        "TCP-IP协议",
-        "系统集成"
-      ],
-      "wordCount": 1085,
-      "id": "9b3e767751872604"
-    },
-    {
-      "filename": "密码技术.json",
-      "title": "密码技术",
-      "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "密码技术",
-        "加密",
-        "数字签名",
-        "PKI",
-        "CA"
-      ],
-      "wordCount": 1375,
-      "id": "022c47ea42e3243e"
-    },
-    {
-      "filename": "身份认证.json",
-      "title": "身份认证",
-      "description": "认证技术、认证协议、身份管理、单点登录",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "身份认证",
-        "认证技术",
-        "认证协议",
-        "单点登录"
-      ],
-      "wordCount": 1395,
-      "id": "e5a2802f2cb0eb4e"
-    },
-    {
-      "filename": "数据安全与隐私保护.json",
-      "title": "数据安全与隐私保护",
-      "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "数据安全",
-        "隐私保护",
-        "数据安全法",
-        "个人信息保护"
-      ],
-      "wordCount": 1701,
-      "id": "6be8c5f466c39d08"
     }
   ]
 }
