@@ -1,7 +1,7 @@
 {
   "page": 31,
-  "totalPages": 41,
-  "totalItems": 805,
+  "totalPages": 38,
+  "totalItems": 741,
   "items": [
     {
       "filename": "二，效度.json",
@@ -104,182 +104,150 @@
       "id": "f7c8da8366627d21"
     },
     {
-      "filename": "八、选题时间管理.json",
-      "title": "八、选题时间管理",
-      "description": "八、选题时间管理",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 239,
-      "id": "272d6c8f60ce7fd9"
-    },
-    {
-      "filename": "二、选题来源.json",
-      "title": "二、选题来源",
-      "description": "二、选题来源",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 388,
-      "id": "4d2389681efe7759"
-    },
-    {
-      "filename": "八、排版：视觉体验.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "营销增长综合指南.json",
+      "title": "营销增长综合指南",
+      "description": "全面的营销增长知识，包括内容创作、增长策略、私域流量等内容",
+      "category": "营销增长",
       "tags": [
+        "营销增长",
         "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "增长策略",
+        "私域流量"
       ],
-      "wordCount": 278,
-      "id": "a354859c2d6a8479"
+      "wordCount": 4033,
+      "id": "fbd033bf6cb0795e"
     },
     {
-      "filename": "二、标题：决定打开率.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "常见药物分类.json",
+      "title": "常见药物分类",
+      "description": "常见药物的分类方法和代表药物",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "药物分类"
       ],
-      "wordCount": 344,
-      "id": "3918a6517c6b9416"
+      "wordCount": 1356,
+      "id": "b75b5e129e44e042"
     },
     {
-      "filename": "九、发布时间.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "临床药理学.json",
+      "title": "临床药理学",
+      "description": "临床药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "临床药理学"
       ],
-      "wordCount": 221,
-      "id": "3a440b316c4a3192"
+      "wordCount": 928,
+      "id": "019a37c34d921c94"
     },
     {
-      "filename": "六、结尾：引导行动.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "临床药物治疗学.json",
+      "title": "临床药物治疗学",
+      "description": "临床药物治疗学的基本概念、方法和应用",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "临床药物治疗学"
       ],
-      "wordCount": 239,
-      "id": "015359c356580982"
+      "wordCount": 1068,
+      "id": "0cc7be10dd883bdd"
     },
     {
-      "filename": "七、选题方向参考.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "药剂学.json",
+      "title": "药剂学",
+      "description": "药剂学的基本概念、剂型设计和质量控制",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "药剂学"
       ],
-      "wordCount": 271,
-      "id": "86b92dc4a0d4ac3c"
+      "wordCount": 895,
+      "id": "c9af10b06a7a5fdc"
     },
     {
-      "filename": "三、开头：留住读者.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "药理学.json",
+      "title": "药理学",
+      "description": "药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "药理学"
       ],
-      "wordCount": 243,
-      "id": "2148a075433a90f9"
+      "wordCount": 765,
+      "id": "778ba3a88cb777e6"
     },
     {
-      "filename": "十、数据复盘.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "药事法规.json",
+      "title": "药事法规",
+      "description": "药事法规的基本内容和应用",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "药事法规"
       ],
-      "wordCount": 216,
-      "id": "9788158bd3c7e5e0"
+      "wordCount": 1102,
+      "id": "96e5785a6604edbe"
     },
     {
-      "filename": "十一、写作习惯.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "药物分析.json",
+      "title": "药物分析",
+      "description": "药物分析的基本概念、方法和应用",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "药物分析"
       ],
-      "wordCount": 300,
-      "id": "75dc50cb2089afef"
+      "wordCount": 687,
+      "id": "f827d9c6e100d0c6"
     },
     {
-      "filename": "四、结构：让文章可读.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "药物化学.json",
+      "title": "药物化学",
+      "description": "药物化学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "药物化学"
       ],
-      "wordCount": 410,
-      "id": "5298ba12fe2d70f0"
+      "wordCount": 712,
+      "id": "283f7d749ab0a9bd"
     },
     {
-      "filename": "五、金句：让读者想转发.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "药物流行病学.json",
+      "title": "药物流行病学",
+      "description": "药物流行病学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "执业药师",
+        "药物流行病学"
       ],
-      "wordCount": 360,
-      "id": "160d4e202348a62c"
+      "wordCount": 785,
+      "id": "479906c22a84c019"
+    },
+    {
+      "filename": "药物信息学.json",
+      "title": "药物信息学",
+      "description": "药物信息学的基本概念、方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物信息学"
+      ],
+      "wordCount": 627,
+      "id": "ec33fb671d75b331"
+    },
+    {
+      "filename": "药学综合知识.json",
+      "title": "药学综合知识",
+      "description": "药学综合知识的核心内容和实践应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药学综合知识"
+      ],
+      "wordCount": 751,
+      "id": "744569747e72cf13"
     }
   ]
 }

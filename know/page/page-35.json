@@ -1,286 +1,286 @@
 {
   "page": 35,
-  "totalPages": 41,
-  "totalItems": 805,
+  "totalPages": 38,
+  "totalItems": 741,
   "items": [
     {
-      "filename": "药物化学.json",
-      "title": "药物化学",
-      "description": "药物化学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "短期借款.json",
+      "title": "短期借款",
+      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "执业药师",
-        "药物化学"
+        "CPA",
+        "会计",
+        "短期借款",
+        "利息核算"
       ],
-      "wordCount": 712,
-      "id": "283f7d749ab0a9bd"
+      "wordCount": 674,
+      "id": "2ce4bfe39200714a"
     },
     {
-      "filename": "药物流行病学.json",
-      "title": "药物流行病学",
-      "description": "药物流行病学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "负债概述.json",
+      "title": "负债概述",
+      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
+      "category": "注册会计师/会计",
       "tags": [
-        "执业药师",
-        "药物流行病学"
+        "CPA",
+        "会计",
+        "负债",
+        "确认计量"
       ],
-      "wordCount": 785,
-      "id": "479906c22a84c019"
+      "wordCount": 707,
+      "id": "2a8d3bc844708f18"
     },
     {
-      "filename": "药物信息学.json",
-      "title": "药物信息学",
-      "description": "药物信息学的基本概念、方法和应用",
-      "category": "执业药师",
+      "filename": "固定资产.json",
+      "title": "固定资产",
+      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "执业药师",
-        "药物信息学"
+        "CPA",
+        "会计",
+        "固定资产",
+        "折旧"
       ],
-      "wordCount": 627,
-      "id": "ec33fb671d75b331"
+      "wordCount": 1300,
+      "id": "44317f6c09f098d5"
     },
     {
-      "filename": "药学综合知识.json",
-      "title": "药学综合知识",
-      "description": "药学综合知识的核心内容和实践应用",
-      "category": "执业药师",
+      "filename": "货币资金.json",
+      "title": "货币资金",
+      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "执业药师",
-        "药学综合知识"
+        "CPA",
+        "会计",
+        "货币资金",
+        "现金管理"
       ],
-      "wordCount": 751,
-      "id": "744569747e72cf13"
+      "wordCount": 1178,
+      "id": "33408f637aca0506"
     },
     {
-      "filename": "用药安全.json",
-      "title": "用药安全",
-      "description": "用药安全的重要性、常见问题和防范措施",
-      "category": "执业药师",
+      "filename": "金融资产.json",
+      "title": "金融资产",
+      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "执业药师",
-        "用药安全"
+        "CPA",
+        "会计",
+        "金融资产",
+        "分类"
       ],
-      "wordCount": 1386,
-      "id": "5026e3c2e834005f"
+      "wordCount": 1398,
+      "id": "0568b7fcfb220ec9"
     },
     {
-      "filename": "核心考点.json",
-      "title": "执业药师核心考点",
-      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
-      "category": "执业药师",
+      "filename": "其他应付款.json",
+      "title": "其他应付款",
+      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
+      "category": "注册会计师/会计",
       "tags": [
-        "药师",
-        "药学",
-        "法规"
+        "CPA",
+        "会计",
+        "其他应付款",
+        "核算"
       ],
-      "wordCount": 2516,
-      "id": "1ad4d4522a1af0f5"
+      "wordCount": 525,
+      "id": "23ba7ef0a40abfe7"
     },
     {
-      "filename": "执业药师职业发展.json",
-      "title": "执业药师职业发展",
-      "description": "执业药师的职业发展路径、能力要求和发展策略",
-      "category": "执业药师",
+      "filename": "所有者权益概述.json",
+      "title": "所有者权益概述",
+      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "执业药师",
-        "职业发展"
+        "CPA",
+        "会计",
+        "所有者权益",
+        "构成"
       ],
-      "wordCount": 966,
-      "id": "b9eedacd274ec4f7"
+      "wordCount": 1132,
+      "id": "602d76b9bea46d42"
     },
     {
-      "filename": "中药药理学.json",
-      "title": "中药药理学",
-      "description": "中药药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "投资性房地产.json",
+      "title": "投资性房地产",
+      "description": "CPA会计投资性房地产章节核心知识点，包括投资性房地产的确认、计量和转换",
+      "category": "注册会计师/会计",
       "tags": [
-        "执业药师",
-        "中药药理学"
+        "CPA",
+        "会计",
+        "投资性房地产",
+        "计量模式"
       ],
-      "wordCount": 830,
-      "id": "9b066dbcc5222aa4"
+      "wordCount": 1634,
+      "id": "6459a2efc0496b74"
     },
     {
-      "filename": "情绪与压力管理指南.json",
-      "title": "情绪与压力管理指南",
-      "description": "职场情绪与压力的识别、管理和应对策略",
-      "category": "职场生存",
+      "filename": "无形资产.json",
+      "title": "无形资产",
+      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "情绪管理",
-        "压力管理",
-        "职场心理健康"
+        "CPA",
+        "会计",
+        "无形资产",
+        "摊销"
       ],
-      "wordCount": 4556,
-      "id": "16b2c99941ae0ae9"
+      "wordCount": 1259,
+      "id": "b2a8b4a2135a7253"
     },
     {
-      "filename": "打造个人品牌的实用攻略_从0到1建立影响力资产.json",
-      "title": "打造个人品牌的实用攻略：从0到1建立影响力资产",
-      "description": "打造个人品牌的实用攻略：从0到1建立影响力资产的核心知识点汇总",
-      "category": "职场生存/个人品牌",
+      "filename": "应付利息和应付股利.json",
+      "title": "应付利息和应付股利",
+      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "个人品牌",
-        "IP",
-        "影响力"
+        "CPA",
+        "会计",
+        "应付利息",
+        "应付股利"
       ],
-      "wordCount": 2991,
-      "id": "07f49de7bf796592"
+      "wordCount": 668,
+      "id": "548bdca14739cb31"
     },
     {
-      "filename": "个人品牌定位与变现_细分赛道选择与价值打造.json",
-      "title": "个人品牌定位与变现：细分赛道选择与价值打造",
-      "description": "个人品牌定位与变现：细分赛道选择与价值打造的核心知识点汇总",
-      "category": "职场生存/个人品牌",
+      "filename": "应付票据.json",
+      "title": "应付票据",
+      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "个人品牌",
-        "IP",
-        "影响力"
+        "CPA",
+        "会计",
+        "应付票据",
+        "商业汇票"
       ],
-      "wordCount": 6630,
-      "id": "08f76f2d89263def"
+      "wordCount": 762,
+      "id": "b6bd3ee4d13fca56"
     },
     {
-      "filename": "劳动权益综合指南.json",
-      "title": "劳动权益综合指南",
-      "description": "全面的劳动权益知识，包括五险一金、劳动合同、经济补偿金等内容",
-      "category": "职场生存/劳动权益",
+      "filename": "应付账款.json",
+      "title": "应付账款",
+      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "劳动权益",
-        "五险一金",
-        "劳动合同",
-        "经济补偿金",
-        "维权"
+        "CPA",
+        "会计",
+        "应付账款",
+        "现金折扣"
       ],
-      "wordCount": 5833,
-      "id": "43d29134a8a8a5f2"
+      "wordCount": 1044,
+      "id": "2350ee48d8cc9b5b"
     },
     {
-      "filename": "核心考点.json",
-      "title": "中级经济师核心考点",
-      "description": "经济师备考知识体系：经济基础、人力、金融、财政税收、工商管理",
-      "category": "中级经济师",
+      "filename": "应付职工薪酬.json",
+      "title": "应付职工薪酬",
+      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
+      "category": "注册会计师/会计",
       "tags": [
-        "经济师",
-        "经济基础",
-        "人力",
-        "金融",
-        "财政税收",
-        "工商管理"
+        "CPA",
+        "会计",
+        "应付职工薪酬",
+        "核算"
       ],
-      "wordCount": 3563,
-      "id": "c26b861be7d55dbf"
+      "wordCount": 1144,
+      "id": "568e00039dccb6b5"
     },
     {
-      "filename": "财政政策.json",
-      "title": "财政政策",
-      "description": "中级经济师财政税收章节核心知识点，包括财政政策定义、目标、工具和效果",
-      "category": "中级经济师/财政税收",
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "中级经济师",
-        "财政税收",
-        "财政政策",
-        "财政收入",
-        "财政支出",
-        "财政赤字"
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
       ],
-      "wordCount": 2107,
-      "id": "0467e3848d41a2bc"
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
     },
     {
-      "filename": "税收制度.json",
-      "title": "税收制度",
-      "description": "中级经济师财政税收章节核心知识点，包括税收制度定义、构成要素、分类和改革",
-      "category": "中级经济师/财政税收",
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "中级经济师",
-        "财政税收",
-        "税收制度",
-        "税收要素",
-        "税收分类",
-        "税收改革"
+        "CPA",
+        "会计",
+        "应收账款",
+        "应收票据"
       ],
-      "wordCount": 3985,
-      "id": "0df0a1e8933abfd9"
+      "wordCount": 1285,
+      "id": "b149d1a5237bfb5f"
     },
     {
-      "filename": "财政基础知识.json",
-      "title": "财政基础知识",
-      "description": "中级经济师财政章节核心知识点，包括财政职能、财政支出、财政收入和财政政策",
-      "category": "中级经济师/基础知识",
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "财政",
-        "财政职能",
-        "财政支出",
-        "财政收入"
+        "CPA",
+        "会计",
+        "预收账款",
+        "核算"
       ],
-      "wordCount": 1856,
-      "id": "096c2568ebc775dc"
+      "wordCount": 702,
+      "id": "5a1db8a8635278a1"
     },
     {
-      "filename": "成本理论.json",
-      "title": "成本理论",
-      "description": "中级经济师经济学基础章节核心知识点，包括成本的概念、短期成本、长期成本和利润最大化",
-      "category": "中级经济师/基础知识",
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "成本理论",
-        "短期成本",
-        "长期成本"
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
       ],
-      "wordCount": 1465,
-      "id": "f15e5890f3b3756e"
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
     },
     {
-      "filename": "发展经济学.json",
-      "title": "发展经济学",
-      "description": "中级经济师经济学基础章节核心知识点，包括经济发展理论、发展中国家的特征、经济发展战略和可持续发展",
-      "category": "中级经济师/基础知识",
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "发展经济学",
-        "经济发展",
-        "可持续发展"
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
       ],
-      "wordCount": 2665,
-      "id": "be8ba0753af78aaf"
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
     },
     {
-      "filename": "国际经济学.json",
-      "title": "国际经济学",
-      "description": "中级经济师经济学基础章节核心知识点，包括国际贸易理论、国际收支、汇率和国际经济政策协调",
-      "category": "中级经济师/基础知识",
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "国际经济学",
-        "国际贸易",
-        "国际收支"
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
       ],
-      "wordCount": 2081,
-      "id": "2c9cedb062515fcd"
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
     },
     {
-      "filename": "国民收入核算.json",
-      "title": "国民收入核算",
-      "description": "中级经济师经济学基础章节核心知识点，包括国内生产总值（GDP）、国民生产总值（GNP）、国民收入核算方法和宏观经济指标",
-      "category": "中级经济师/基础知识",
+      "filename": "反不正当竞争法概述.json",
+      "title": "反不正当竞争法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "国民收入核算",
-        "GDP",
-        "GNP"
+        "反不正当竞争法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1243,
-      "id": "6845048c04b7fdfb"
+      "wordCount": 757,
+      "id": "c4e8b6f024c78459"
     }
   ]
 }

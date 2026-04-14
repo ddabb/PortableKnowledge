@@ -1,7 +1,7 @@
 {
   "name": "root",
   "path": "",
-  "count": 805,
+  "count": 741,
   "children": {
     "产品研发": {
       "name": "产品研发",
@@ -400,21 +400,8 @@
     "营销增长": {
       "name": "营销增长",
       "path": "营销增长",
-      "count": 65,
-      "children": {
-        "内容创作": {
-          "name": "内容创作",
-          "path": "营销增长/内容创作",
-          "count": 32,
-          "children": {}
-        },
-        "增长策略": {
-          "name": "增长策略",
-          "path": "营销增长/增长策略",
-          "count": 33,
-          "children": {}
-        }
-      }
+      "count": 1,
+      "children": {}
     },
     "执业药师": {
       "name": "执业药师",

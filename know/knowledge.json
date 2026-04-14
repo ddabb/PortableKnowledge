@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 805,
-    "totalCategories": 78,
-    "totalTags": 1215
+    "totalArticles": 741,
+    "totalCategories": 77,
+    "totalTags": 1194
   },
   "categories": [
     {
@@ -16,14 +16,6 @@
     {
       "name": "软考/项目管理/项目整合管理",
       "count": 33
-    },
-    {
-      "name": "营销增长/增长策略",
-      "count": 33
-    },
-    {
-      "name": "营销增长/内容创作",
-      "count": 32
     },
     {
       "name": "软考/项目管理/项目进度管理",
@@ -302,6 +294,10 @@
       "count": 1
     },
     {
+      "name": "营销增长",
+      "count": 1
+    },
+    {
       "name": "职场生存",
       "count": 1
     },
@@ -400,6 +396,6 @@
     "执行过程组",
     "监控过程组",
     "中级经济师",
-    "内容创作"
+    "会计"
   ]
 }
