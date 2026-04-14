@@ -1,8 +1,22 @@
 {
   "page": 26,
   "totalPages": 28,
-  "totalItems": 544,
+  "totalItems": 545,
   "items": [
+    {
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
+      ],
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
+    },
     {
       "filename": "长期借款.json",
       "title": "长期借款",
@@ -257,20 +271,6 @@
       ],
       "wordCount": 1156,
       "id": "85b4de9995f649ea"
-    },
-    {
-      "filename": "审计报告.json",
-      "title": "审计报告",
-      "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计报告",
-        "审计意见"
-      ],
-      "wordCount": 1485,
-      "id": "201dbca9f226ac57"
     }
   ]
 }

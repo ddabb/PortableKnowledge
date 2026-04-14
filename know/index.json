@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 544,
+    "totalArticles": 545,
     "totalCategories": 65,
-    "totalTags": 853
+    "totalTags": 860
   },
   "categories": [
     {
@@ -162,6 +162,10 @@
       "count": 2
     },
     {
+      "name": "生活通识/健康养生",
+      "count": 2
+    },
+    {
       "name": "职场生存/个人品牌",
       "count": 2
     },
@@ -231,10 +235,6 @@
     },
     {
       "name": "生活通识/急救知识",
-      "count": 1
-    },
-    {
-      "name": "生活通识/健康养生",
       "count": 1
     },
     {

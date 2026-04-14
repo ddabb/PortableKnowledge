@@ -1,8 +1,22 @@
 {
   "page": 25,
   "totalPages": 28,
-  "totalItems": 544,
+  "totalItems": 545,
   "items": [
+    {
+      "filename": "战略控制.json",
+      "title": "战略控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略控制",
+        "预算控制",
+        "平衡计分卡",
+        "CPA"
+      ],
+      "wordCount": 276,
+      "id": "f49cbddb991d1ae2"
+    },
     {
       "filename": "战略实施.json",
       "title": "战略实施",
@@ -268,20 +282,6 @@
       ],
       "wordCount": 702,
       "id": "5a1db8a8635278a1"
-    },
-    {
-      "filename": "长期股权投资.json",
-      "title": "长期股权投资",
-      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "长期股权投资",
-        "权益法"
-      ],
-      "wordCount": 1636,
-      "id": "ea6795870a4ab109"
     }
   ]
 }

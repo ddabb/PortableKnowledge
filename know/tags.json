@@ -1,6 +1,6 @@
 {
   "meta": {
-    "totalTags": 853
+    "totalTags": 860
   },
   "tags": [
     {
@@ -2477,6 +2477,34 @@
     },
     {
       "name": "紧急救援",
+      "count": 1
+    },
+    {
+      "name": "猝死",
+      "count": 1
+    },
+    {
+      "name": "心源性猝死",
+      "count": 1
+    },
+    {
+      "name": "健康",
+      "count": 1
+    },
+    {
+      "name": "急救",
+      "count": 1
+    },
+    {
+      "name": "预防",
+      "count": 1
+    },
+    {
+      "name": "心脏骤停",
+      "count": 1
+    },
+    {
+      "name": "心梗",
       "count": 1
     },
     {

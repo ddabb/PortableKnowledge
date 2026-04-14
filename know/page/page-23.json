@@ -1,8 +1,24 @@
 {
   "page": 23,
   "totalPages": 28,
-  "totalItems": 544,
+  "totalItems": 545,
   "items": [
+    {
+      "filename": "宏观经济政策.json",
+      "title": "宏观经济政策",
+      "description": "中级经济师经济学基础章节核心知识点，包括财政政策、货币政策、宏观经济政策目标和政策搭配",
+      "category": "中级经济师/基础知识",
+      "tags": [
+        "中级经济师",
+        "基础知识",
+        "经济学基础",
+        "宏观经济政策",
+        "财政政策",
+        "货币政策"
+      ],
+      "wordCount": 1560,
+      "id": "30374bde538d3089"
+    },
     {
       "filename": "会计基础知识.json",
       "title": "会计基础知识",
@@ -298,20 +314,6 @@
       ],
       "wordCount": 1197,
       "id": "ada36c7df44cfc8c"
-    },
-    {
-      "filename": "财务报表分析.json",
-      "title": "财务报表分析",
-      "description": "CPA财务成本管理财务报表分析章节核心知识点，包括财务比率分析和财务报表解读",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "财务报表分析",
-        "财务比率"
-      ],
-      "wordCount": 1142,
-      "id": "d6bad0bd03b2b269"
     }
   ]
 }
