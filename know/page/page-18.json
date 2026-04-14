@@ -1,8 +1,22 @@
 {
   "page": 18,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
+      ],
+      "wordCount": 1272,
+      "id": "0abfa84f1b5a76b3"
+    },
     {
       "filename": "信息技术服务.json",
       "title": "信息技术服务",
@@ -275,19 +289,6 @@
       ],
       "wordCount": 1170,
       "id": "e6e021df007bc16e"
-    },
-    {
-      "filename": "裁剪.json",
-      "title": "裁剪",
-      "description": "项目经理通常将项目管理方法论应用于工作。方法论是由专门的从业人员所采用的实践、技术、程序和规则所组成的体系。根据这一定义，本指南本身并不是方法论。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "PMP"
-      ],
-      "wordCount": 642,
-      "id": "fd1269f820880db7"
     }
   ]
 }

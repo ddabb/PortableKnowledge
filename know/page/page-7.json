@@ -1,8 +1,20 @@
 {
   "page": 7,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "卖方建议书.json",
+      "title": "卖方建议书",
+      "description": "卖方为响应采购文件包而编制的建议书，其中包含的基本信息将被评估团队用于选定一个或多个投标人（卖方）。",
+      "category": "软考/项目管理/项目采购管理",
+      "tags": [
+        "执行过程组",
+        "实施采购"
+      ],
+      "wordCount": 124,
+      "id": "72381eb9662998a5"
+    },
     {
       "filename": "实施采购.json",
       "title": "实施采购",
@@ -250,18 +262,6 @@
       ],
       "wordCount": 324,
       "id": "c4254a24136b8269"
-    },
-    {
-      "filename": "wbs.json",
-      "title": "创建WBS",
-      "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
-      "category": "软考/项目管理/项目范围管理",
-      "tags": [
-        "WBS",
-        "PMP"
-      ],
-      "wordCount": 377,
-      "id": "819f0fba5f2d239e"
     }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "page": 15,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "建设团队.json",
+      "title": "建设团队",
+      "description": "建设团队是提高工作能力，促进团队成员互动，改善团队整体氛围，以提高项目绩效的过程。",
+      "category": "软考/项目管理/项目资源管理",
+      "tags": [
+        "执行过程组",
+        "建设团队"
+      ],
+      "wordCount": 1298,
+      "id": "36b362c4aee4aee4"
+    },
     {
       "filename": "控制资源.json",
       "title": "控制资源",
@@ -246,21 +258,6 @@
       ],
       "wordCount": 1133,
       "id": "d681689dec42d2a6"
-    },
-    {
-      "filename": "职业道德规范.json",
-      "title": "职业道德规范",
-      "description": "项目管理工程师职业道德规范、岗位职责、团队管理责任及个人道德修养提升",
-      "category": "软考/综合知识/法律法规与标准",
-      "tags": [
-        "职业道德",
-        "项目管理工程师",
-        "岗位职责",
-        "团队管理",
-        "道德修养"
-      ],
-      "wordCount": 1786,
-      "id": "7571d6c20b4dac1c"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "page": 3,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "法规",
+        "建造师"
+      ],
+      "wordCount": 559,
+      "id": "7eef789c72cc2e71"
+    },
     {
       "filename": "建设工程法律法规实务.json",
       "title": "建设工程法律法规实务",
@@ -264,19 +277,6 @@
       ],
       "wordCount": 2833,
       "id": "562e4f8f9266c0bb"
-    },
-    {
-      "filename": "小学教育法律法规.json",
-      "title": "小学教育法律法规",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育法律法规",
-        "法律责任"
-      ],
-      "wordCount": 4252,
-      "id": "13661ad8ab96940a"
     }
   ]
 }

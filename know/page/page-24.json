@@ -1,8 +1,22 @@
 {
   "page": 24,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "财务管理概述.json",
+      "title": "财务管理概述",
+      "description": "CPA财务成本管理财务管理概述章节核心知识点，包括财务管理的目标和内容",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "财务管理",
+        "目标内容"
+      ],
+      "wordCount": 971,
+      "id": "8950688bbf2ec982"
+    },
     {
       "filename": "财务预测.json",
       "title": "财务预测",
@@ -263,20 +277,6 @@
       ],
       "wordCount": 276,
       "id": "f49cbddb991d1ae2"
-    },
-    {
-      "filename": "战略实施.json",
-      "title": "战略实施",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略实施",
-        "组织结构",
-        "企业文化",
-        "CPA"
-      ],
-      "wordCount": 260,
-      "id": "43412207cdc7f6c8"
     }
   ]
 }

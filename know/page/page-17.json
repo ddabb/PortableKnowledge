@@ -1,8 +1,22 @@
 {
   "page": 17,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "网络图与关键路径计算.json",
+      "title": "网络图与关键路径计算",
+      "description": "软考中项必考计算——网络图分析、关键路径法（CPM）及各节点时间参数计算方法与例题。",
+      "category": "软考/综合知识/计算题专项",
+      "tags": [
+        "网络图",
+        "关键路径",
+        "CPM",
+        "计算题"
+      ],
+      "wordCount": 1130,
+      "id": "31c4b9b088ef715f"
+    },
     {
       "filename": "挣值分析计算专项.json",
       "title": "挣值分析计算专项",
@@ -270,20 +284,6 @@
       ],
       "wordCount": 1213,
       "id": "4d18d608c6f5855a"
-    },
-    {
-      "filename": "信息安全基础.json",
-      "title": "信息安全基础",
-      "description": "信息安全概念、安全属性、安全管理、等级保护",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "信息安全",
-        "CIA",
-        "安全管理",
-        "等级保护"
-      ],
-      "wordCount": 1272,
-      "id": "0abfa84f1b5a76b3"
     }
   ]
 }

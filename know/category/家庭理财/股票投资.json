@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "家庭理财/股票投资",
-    "count": 4
+    "count": 5
   },
   "articles": [
     {
@@ -64,6 +64,23 @@
       ],
       "wordCount": 1405,
       "id": "6467edbb5dc975ac"
+    },
+    {
+      "filename": "K线技术指标.json",
+      "title": "K线图常用技术指标：MA、MACD、KDJ、RSI入门",
+      "description": "介绍K线图最常用的技术指标——均线MA、MACD、KDJ、RSI的计算原理、使用方法和注意事项。",
+      "category": "家庭理财/股票投资",
+      "tags": [
+        "技术指标",
+        "均线",
+        "MA",
+        "MACD",
+        "KDJ",
+        "RSI",
+        "股票分析"
+      ],
+      "wordCount": 2198,
+      "id": "18aeaa3c247f28b6"
     }
   ]
 }

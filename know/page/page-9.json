@@ -1,8 +1,22 @@
 {
   "page": 9,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "规划风险管理.json",
+      "title": "规划风险管理",
+      "description": "规划风险管理是定义如何实施项目风险管理活动的过程。",
+      "category": "软考/项目管理/项目风险管理",
+      "tags": [
+        "规划过程组",
+        "规划风险管理",
+        "风险管理",
+        "PMP"
+      ],
+      "wordCount": 258,
+      "id": "d068c1627934ffd0"
+    },
     {
       "filename": "规划风险应对.json",
       "title": "规划风险应对",
@@ -251,19 +265,6 @@
       ],
       "wordCount": 824,
       "id": "6555826d5375b606"
-    },
-    {
-      "filename": "规划进度管理.json",
-      "title": "规划进度管理",
-      "description": "规划进度管理是为规划、编制、管理、执行和控制项目进度而制定政策、程序和文档的过程。",
-      "category": "软考/项目管理/项目进度管理",
-      "tags": [
-        "规划过程组",
-        "规划进度管理",
-        "PMP"
-      ],
-      "wordCount": 85,
-      "id": "8a3549654510436e"
     }
   ]
 }

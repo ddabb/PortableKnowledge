@@ -1,8 +1,20 @@
 {
   "page": 22,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "药物流行病学.json",
+      "title": "药物流行病学",
+      "description": "药物流行病学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "药物流行病学"
+      ],
+      "wordCount": 785,
+      "id": "479906c22a84c019"
+    },
     {
       "filename": "药物信息学.json",
       "title": "药物信息学",
@@ -273,22 +285,6 @@
       ],
       "wordCount": 1560,
       "id": "30374bde538d3089"
-    },
-    {
-      "filename": "会计基础知识.json",
-      "title": "会计基础知识",
-      "description": "中级经济师会计章节核心知识点，包括会计基本概念、会计要素、会计等式和会计核算方法",
-      "category": "中级经济师/基础知识",
-      "tags": [
-        "中级经济师",
-        "基础知识",
-        "会计",
-        "会计要素",
-        "会计等式",
-        "会计核算"
-      ],
-      "wordCount": 2035,
-      "id": "d8775c080d4c94d2"
     }
   ]
 }

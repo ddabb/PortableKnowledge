@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 543,
+    "totalArticles": 544,
     "totalCategories": 65,
-    "totalTags": 846
+    "totalTags": 853
   },
   "categories": [
     {
@@ -126,12 +126,12 @@
       "count": 5
     },
     {
-      "name": "软考/项目管理/项目运行环境",
+      "name": "家庭理财/股票投资",
       "count": 5
     },
     {
-      "name": "家庭理财/股票投资",
-      "count": 4
+      "name": "软考/项目管理/项目运行环境",
+      "count": 5
     },
     {
       "name": "软考/项目管理/项目沟通管理",

@@ -1,8 +1,21 @@
 {
   "page": 4,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "小学教育法律法规.json",
+      "title": "小学教育法律法规",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育法律法规",
+        "法律责任"
+      ],
+      "wordCount": 4252,
+      "id": "13661ad8ab96940a"
+    },
     {
       "filename": "小学教育方法.json",
       "title": "小学教育方法",
@@ -249,19 +262,6 @@
       ],
       "wordCount": 3186,
       "id": "762f6db947ac0a60"
-    },
-    {
-      "filename": "班级管理案例分析.json",
-      "title": "班级管理案例分析",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "班级管理",
-        "案例分析",
-        "学生管理"
-      ],
-      "wordCount": 4327,
-      "id": "ef11e36b15cfb901"
     }
   ]
 }

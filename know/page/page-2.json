@@ -1,8 +1,23 @@
 {
   "page": 2,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "基金定投.json",
+      "title": "基金定投：最适合普通人的投资方法",
+      "description": "详解基金定投的原理、优势、适合人群、常见策略，以及如何选择定投基金和设置定投计划。",
+      "category": "家庭理财/基金投资",
+      "tags": [
+        "基金定投",
+        "定投策略",
+        "懒人理财",
+        "微笑曲线",
+        "低估定投"
+      ],
+      "wordCount": 1323,
+      "id": "7f206a04ae83691a"
+    },
     {
       "filename": "基金入门.json",
       "title": "基金是什么？把钱交给专业的人打理",
@@ -267,19 +282,6 @@
       ],
       "wordCount": 211,
       "id": "a7b57ed1618be4bb"
-    },
-    {
-      "filename": "建设工程法规及相关知识.json",
-      "title": "建设工程法规及相关知识",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "法规",
-        "建造师"
-      ],
-      "wordCount": 559,
-      "id": "7eef789c72cc2e71"
     }
   ]
 }

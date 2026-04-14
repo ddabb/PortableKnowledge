@@ -1,8 +1,22 @@
 {
   "page": 26,
   "totalPages": 28,
-  "totalItems": 543,
+  "totalItems": 544,
   "items": [
+    {
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
+      ],
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
+    },
     {
       "filename": "资产概述.json",
       "title": "资产概述",
@@ -257,20 +271,6 @@
       ],
       "wordCount": 1485,
       "id": "201dbca9f226ac57"
-    },
-    {
-      "filename": "审计抽样.json",
-      "title": "审计抽样",
-      "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计抽样",
-        "抽样方法"
-      ],
-      "wordCount": 843,
-      "id": "b7a7524c3b959377"
     }
   ]
 }
