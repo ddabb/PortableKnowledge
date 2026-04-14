@@ -1,8 +1,22 @@
 {
   "page": 17,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "挣值分析计算专项.json",
+      "title": "挣值分析计算专项",
+      "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
+      "category": "软考/综合知识/计算题专项",
+      "tags": [
+        "挣值分析",
+        "EVM",
+        "计算题",
+        "中项核心"
+      ],
+      "wordCount": 1240,
+      "id": "261aaa76fbd66b9b"
+    },
     {
       "filename": "PERT估算与其他计算专项.json",
       "title": "PERT估算与其他计算专项",
@@ -270,23 +284,6 @@
       ],
       "wordCount": 1272,
       "id": "0abfa84f1b5a76b3"
-    },
-    {
-      "filename": "信息技术服务.json",
-      "title": "信息技术服务",
-      "description": "IT服务内涵、特征、原理与组成",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "IT服务",
-        "PPTR",
-        "服务特征",
-        "人员",
-        "过程",
-        "技术",
-        "资源"
-      ],
-      "wordCount": 991,
-      "id": "794574c48071d0bb"
     }
   ]
 }

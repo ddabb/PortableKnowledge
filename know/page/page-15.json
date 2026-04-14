@@ -1,8 +1,20 @@
 {
   "page": 15,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "控制资源.json",
+      "title": "控制资源",
+      "description": "控制资源是确保按计划为项目分配实物资源，以及根据资源使用计划监督资源实际使用情况，并采取必要纠正措施的过程。",
+      "category": "软考/项目管理/项目资源管理",
+      "tags": [
+        "监控过程组",
+        "控制资源"
+      ],
+      "wordCount": 444,
+      "id": "cceca3c534f2abc2"
+    },
     {
       "filename": "实物资源分配单.json",
       "title": "实物资源分配单",
@@ -249,17 +261,6 @@
       ],
       "wordCount": 1786,
       "id": "7571d6c20b4dac1c"
-    },
-    {
-      "filename": "标杆对照.json",
-      "title": "标杆对照",
-      "description": "标杆对照是将实际或计划的项目实践或项目的质量标准与可比项目的实践进行比较，以便识别最佳实践，形成改进意见，并为绩效考核提供依据。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集"
-      ],
-      "wordCount": 127,
-      "id": "8e0dcee78f92bfc1"
     }
   ]
 }

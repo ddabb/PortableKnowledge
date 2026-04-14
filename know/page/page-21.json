@@ -1,8 +1,22 @@
 {
   "page": 21,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "PMBOK的发展.json",
+      "title": "PMBOK的发展",
+      "description": "PMBOK各版本演变历程及关键变化",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "PMBOK",
+        "PMI",
+        "项目管理",
+        "版本演变"
+      ],
+      "wordCount": 986,
+      "id": "e5768cb7ba885bba"
+    },
     {
       "filename": "安全防范综合指南.json",
       "title": "安全防范综合指南",
@@ -253,18 +267,6 @@
       ],
       "wordCount": 785,
       "id": "479906c22a84c019"
-    },
-    {
-      "filename": "药物信息学.json",
-      "title": "药物信息学",
-      "description": "药物信息学的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物信息学"
-      ],
-      "wordCount": 627,
-      "id": "ec33fb671d75b331"
     }
   ]
 }

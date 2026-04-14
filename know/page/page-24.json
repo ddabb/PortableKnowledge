@@ -1,8 +1,22 @@
 {
   "page": 24,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "财务预测.json",
+      "title": "财务预测",
+      "description": "CPA财务成本管理财务预测章节核心知识点，包括销售预测和财务报表预测",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "财务预测",
+        "销售预测"
+      ],
+      "wordCount": 1153,
+      "id": "11b78855ee02f677"
+    },
     {
       "filename": "成本计算.json",
       "title": "成本计算",
@@ -263,20 +277,6 @@
       ],
       "wordCount": 260,
       "id": "43412207cdc7f6c8"
-    },
-    {
-      "filename": "战略选择.json",
-      "title": "战略选择",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略选择",
-        "总体战略",
-        "业务单位战略",
-        "CPA"
-      ],
-      "wordCount": 335,
-      "id": "e8dbbb72eb78980a"
     }
   ]
 }

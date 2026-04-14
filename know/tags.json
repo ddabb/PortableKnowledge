@@ -1,6 +1,6 @@
 {
   "meta": {
-    "totalTags": 840
+    "totalTags": 846
   },
   "tags": [
     {
@@ -1021,6 +1021,30 @@
     },
     {
       "name": "大盘指数",
+      "count": 1
+    },
+    {
+      "name": "K线图",
+      "count": 1
+    },
+    {
+      "name": "K线",
+      "count": 1
+    },
+    {
+      "name": "技术分析",
+      "count": 1
+    },
+    {
+      "name": "阳线",
+      "count": 1
+    },
+    {
+      "name": "阴线",
+      "count": 1
+    },
+    {
+      "name": "看盘",
       "count": 1
     },
     {

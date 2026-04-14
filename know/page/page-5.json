@@ -1,8 +1,21 @@
 {
   "page": 5,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "班级管理与教育沟通.json",
+      "title": "班级管理与教育沟通",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "班级管理",
+        "教育沟通",
+        "师生关系"
+      ],
+      "wordCount": 4356,
+      "id": "993359eb18a0dd0b"
+    },
     {
       "filename": "教学设计案例分析.json",
       "title": "教学设计案例分析",
@@ -248,18 +261,6 @@
       ],
       "wordCount": 30,
       "id": "89130bc5d5b8903d"
-    },
-    {
-      "filename": "人力资源管理师职业发展.json",
-      "title": "人力资源管理师职业发展",
-      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "职业发展"
-      ],
-      "wordCount": 932,
-      "id": "b003aff1861bb29f"
     }
   ]
 }

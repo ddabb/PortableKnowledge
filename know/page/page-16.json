@@ -1,8 +1,19 @@
 {
   "page": 16,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "标杆对照.json",
+      "title": "标杆对照",
+      "description": "标杆对照是将实际或计划的项目实践或项目的质量标准与可比项目的实践进行比较，以便识别最佳实践，形成改进意见，并为绩效考核提供依据。",
+      "category": "软考/综合知识/工具与技术",
+      "tags": [
+        "数据收集"
+      ],
+      "wordCount": 127,
+      "id": "8e0dcee78f92bfc1"
+    },
     {
       "filename": "成本效益分析.json",
       "title": "成本效益分析完全指南",
@@ -249,20 +260,6 @@
       ],
       "wordCount": 1130,
       "id": "31c4b9b088ef715f"
-    },
-    {
-      "filename": "挣值分析计算专项.json",
-      "title": "挣值分析计算专项",
-      "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
-      "category": "软考/综合知识/计算题专项",
-      "tags": [
-        "挣值分析",
-        "EVM",
-        "计算题",
-        "中项核心"
-      ],
-      "wordCount": 1240,
-      "id": "261aaa76fbd66b9b"
     }
   ]
 }

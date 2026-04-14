@@ -1,8 +1,23 @@
 {
   "page": 19,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "大数据.json",
+      "title": "大数据",
+      "description": "大数据特征、处理流程、关键技术及应用",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "5V特征",
+        "数据处理",
+        "Hadoop",
+        "Spark",
+        "数据挖掘"
+      ],
+      "wordCount": 932,
+      "id": "efd97da51b1af147"
+    },
     {
       "filename": "道德与专业行为规范.json",
       "title": "道德与专业行为规范",
@@ -252,20 +267,6 @@
       ],
       "wordCount": 466,
       "id": "be6b15a9b2452508"
-    },
-    {
-      "filename": "项目管理过程组.json",
-      "title": "项目管理过程组",
-      "description": "项目管理过程组指对项目管理过程进行逻辑分组，以达成项目的特定目标。过程组不同于项目阶段。项目管理过程可分为以下五个项目管理过程组：",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理",
-        "项目管理知识体系"
-      ],
-      "wordCount": 421,
-      "id": "f0df280cd576e7ae"
     }
   ]
 }

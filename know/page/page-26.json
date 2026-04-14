@@ -1,8 +1,22 @@
 {
   "page": 26,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
+      ],
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
+    },
     {
       "filename": "反不正当竞争法概述.json",
       "title": "反不正当竞争法概述",
@@ -257,20 +271,6 @@
       ],
       "wordCount": 843,
       "id": "b7a7524c3b959377"
-    },
-    {
-      "filename": "审计概述.json",
-      "title": "审计概述",
-      "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计概述",
-        "审计特征"
-      ],
-      "wordCount": 1070,
-      "id": "7a8da7e20b2b1e63"
     }
   ]
 }

@@ -1,8 +1,22 @@
 {
   "page": 7,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "实施采购.json",
+      "title": "实施采购",
+      "description": "实施采购是获取卖方应答、选择卖方并授予合同的过程。",
+      "category": "软考/项目管理/项目采购管理",
+      "tags": [
+        "执行过程组",
+        "实施采购",
+        "采购管理",
+        "PMP"
+      ],
+      "wordCount": 144,
+      "id": "22aeda92d9eed2d8"
+    },
     {
       "filename": "投标人会议.json",
       "title": "投标人会议",
@@ -248,19 +262,6 @@
       ],
       "wordCount": 377,
       "id": "819f0fba5f2d239e"
-    },
-    {
-      "filename": "定义范围.json",
-      "title": "定义范围",
-      "description": "本过程的主要作用是，描述产品、服务或成果的边界和验收标准。",
-      "category": "软考/项目管理/项目范围管理",
-      "tags": [
-        "规划过程组",
-        "定义范围",
-        "PMP"
-      ],
-      "wordCount": 430,
-      "id": "e9fcd2f975d3c694"
     }
   ]
 }

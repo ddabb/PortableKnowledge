@@ -1,8 +1,22 @@
 {
   "page": 20,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "项目管理过程组.json",
+      "title": "项目管理过程组",
+      "description": "项目管理过程组指对项目管理过程进行逻辑分组，以达成项目的特定目标。过程组不同于项目阶段。项目管理过程可分为以下五个项目管理过程组：",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分",
+        "项目管理",
+        "项目管理知识体系"
+      ],
+      "wordCount": 421,
+      "id": "f0df280cd576e7ae"
+    },
     {
       "filename": "项目管理数据和信息.json",
       "title": "项目管理数据和信息",
@@ -256,20 +270,6 @@
       ],
       "wordCount": 918,
       "id": "8105ec5194a73f2f"
-    },
-    {
-      "filename": "PMBOK的发展.json",
-      "title": "PMBOK的发展",
-      "description": "PMBOK各版本演变历程及关键变化",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "PMBOK",
-        "PMI",
-        "项目管理",
-        "版本演变"
-      ],
-      "wordCount": 986,
-      "id": "e5768cb7ba885bba"
     }
   ]
 }

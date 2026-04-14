@@ -1,8 +1,21 @@
 {
   "page": 4,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "小学教育方法.json",
+      "title": "小学教育方法",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育方法",
+        "教学策略"
+      ],
+      "wordCount": 3351,
+      "id": "f9709b09b7ff200c"
+    },
     {
       "filename": "小学教育改革与发展.json",
       "title": "小学教育改革与发展",
@@ -249,19 +262,6 @@
       ],
       "wordCount": 4327,
       "id": "ef11e36b15cfb901"
-    },
-    {
-      "filename": "班级管理与教育沟通.json",
-      "title": "班级管理与教育沟通",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "班级管理",
-        "教育沟通",
-        "师生关系"
-      ],
-      "wordCount": 4356,
-      "id": "993359eb18a0dd0b"
     }
   ]
 }

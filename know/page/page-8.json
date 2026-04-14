@@ -1,8 +1,21 @@
 {
   "page": 8,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "定义范围.json",
+      "title": "定义范围",
+      "description": "本过程的主要作用是，描述产品、服务或成果的边界和验收标准。",
+      "category": "软考/项目管理/项目范围管理",
+      "tags": [
+        "规划过程组",
+        "定义范围",
+        "PMP"
+      ],
+      "wordCount": 430,
+      "id": "e9fcd2f975d3c694"
+    },
     {
       "filename": "范围管理计划.json",
       "title": "范围管理计划",
@@ -242,20 +255,6 @@
       ],
       "wordCount": 258,
       "id": "d068c1627934ffd0"
-    },
-    {
-      "filename": "规划风险应对.json",
-      "title": "规划风险应对",
-      "description": "规划风险应对是为处理整体项目风险敞口，以及应对单个项目风险，而制定可选方案、选择应对策略并商定应对行动的过程。",
-      "category": "软考/项目管理/项目风险管理",
-      "tags": [
-        "规划过程组",
-        "规划风险应对",
-        "风险管理",
-        "PMP"
-      ],
-      "wordCount": 692,
-      "id": "209be3ae252eca20"
     }
   ]
 }

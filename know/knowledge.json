@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 542,
+    "totalArticles": 543,
     "totalCategories": 65,
-    "totalTags": 840
+    "totalTags": 846
   },
   "categories": [
     {
@@ -130,6 +130,10 @@
       "count": 5
     },
     {
+      "name": "家庭理财/股票投资",
+      "count": 4
+    },
+    {
       "name": "软考/项目管理/项目沟通管理",
       "count": 4
     },
@@ -140,10 +144,6 @@
     {
       "name": "中级经济师/人力资源",
       "count": 4
-    },
-    {
-      "name": "家庭理财/股票投资",
-      "count": 3
     },
     {
       "name": "家庭理财/固定收益",

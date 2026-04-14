@@ -1,8 +1,21 @@
 {
   "page": 12,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "监督相关方参与.json",
+      "title": "监督相关方参与",
+      "description": "监督相关方参与是监督项目相关方关系，并通过修订参与策略和计划来引导相关方合理参与项目的过程。",
+      "category": "软考/项目管理/项目相关方管理",
+      "tags": [
+        "监控过程组",
+        "监督相关方参与",
+        "干系人管理"
+      ],
+      "wordCount": 102,
+      "id": "c13edd1e2d41a88d"
+    },
     {
       "filename": "识别相关方.json",
       "title": "识别相关方",
@@ -245,18 +258,6 @@
       ],
       "wordCount": 242,
       "id": "e16357cc81f7af02"
-    },
-    {
-      "filename": "可交付成果.json",
-      "title": "可交付成果",
-      "description": "可交付成果是在某一过程、阶段或项目完成时，必须产出的任何独特并可核实的产品、成果或服务能力。",
-      "category": "软考/项目管理/项目整合管理",
-      "tags": [
-        "执行过程组",
-        "指导与管理项目工作"
-      ],
-      "wordCount": 137,
-      "id": "332bd6f0be583f55"
     }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "page": 6,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "人力资源管理师职业发展.json",
+      "title": "人力资源管理师职业发展",
+      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "职业发展"
+      ],
+      "wordCount": 932,
+      "id": "b003aff1861bb29f"
+    },
     {
       "filename": "人力资源规划.json",
       "title": "人力资源规划",
@@ -242,20 +254,6 @@
       ],
       "wordCount": 124,
       "id": "72381eb9662998a5"
-    },
-    {
-      "filename": "实施采购.json",
-      "title": "实施采购",
-      "description": "实施采购是获取卖方应答、选择卖方并授予合同的过程。",
-      "category": "软考/项目管理/项目采购管理",
-      "tags": [
-        "执行过程组",
-        "实施采购",
-        "采购管理",
-        "PMP"
-      ],
-      "wordCount": 144,
-      "id": "22aeda92d9eed2d8"
     }
   ]
 }

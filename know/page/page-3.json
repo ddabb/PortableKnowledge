@@ -1,8 +1,22 @@
 {
   "page": 3,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "建设工程法律法规实务.json",
+      "title": "建设工程法律法规实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "法律法规",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 279,
+      "id": "fa1244339a69ec42"
+    },
     {
       "filename": "建设工程经济.json",
       "title": "建设工程经济",
@@ -263,19 +277,6 @@
       ],
       "wordCount": 4252,
       "id": "13661ad8ab96940a"
-    },
-    {
-      "filename": "小学教育方法.json",
-      "title": "小学教育方法",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育方法",
-        "教学策略"
-      ],
-      "wordCount": 3351,
-      "id": "f9709b09b7ff200c"
     }
   ]
 }

@@ -1,8 +1,23 @@
 {
   "page": 2,
   "totalPages": 28,
-  "totalItems": 542,
+  "totalItems": 543,
   "items": [
+    {
+      "filename": "基金入门.json",
+      "title": "基金是什么？把钱交给专业的人打理",
+      "description": "用通俗易懂的方式解释基金的概念、运作原理，以及为什么基金适合普通投资者。",
+      "category": "家庭理财/基金投资",
+      "tags": [
+        "基金",
+        "基金经理",
+        "基金净值",
+        "认购",
+        "申购"
+      ],
+      "wordCount": 1013,
+      "id": "b16284f4c3ebf0d2"
+    },
     {
       "filename": "指数基金与主动基金.json",
       "title": "指数基金和主动基金，哪个更适合你？",
@@ -265,20 +280,6 @@
       ],
       "wordCount": 559,
       "id": "7eef789c72cc2e71"
-    },
-    {
-      "filename": "建设工程法律法规实务.json",
-      "title": "建设工程法律法规实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "法律法规",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 279,
-      "id": "fa1244339a69ec42"
     }
   ]
 }
