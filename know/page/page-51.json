@@ -1,195 +1,284 @@
 {
   "page": 51,
-  "totalPages": 58,
-  "totalItems": 1149,
+  "totalPages": 53,
+  "totalItems": 1059,
   "items": [
     {
-      "filename": "六、自我接纳的常见误区.json",
-      "title": "六、自我接纳的常见误区",
-      "description": "六、自我接纳的常见误区",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 229,
-      "id": "ca5097501587a4b5"
-    },
-    {
-      "filename": "七、悲伤中的自我对话.json",
-      "title": "七、悲伤中的自我对话",
-      "description": "七、悲伤中的自我对话",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 261,
-      "id": "46d471389faec265"
-    },
-    {
-      "filename": "七、常见误区.json",
-      "title": "七、常见误区",
-      "description": "七、常见误区",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 157,
-      "id": "45cb28d21ab08ce2"
-    },
-    {
-      "filename": "七、什么时候需要专业帮助.json",
-      "title": "七、什么时候需要专业帮助",
-      "description": "七、什么时候需要专业帮助",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 255,
-      "id": "8cfda59ce71672f0"
-    },
-    {
-      "filename": "七、压力的积极视角.json",
-      "title": "七、压力的积极视角",
-      "description": "七、压力的积极视角",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 300,
-      "id": "f39cba8c51afde6c"
-    },
-    {
-      "filename": "七、执行清单.json",
-      "title": "七、执行清单",
-      "description": "七、执行清单",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 70,
-      "id": "a537c12e2632eb75"
-    },
-    {
-      "filename": "七、自我接纳与成长.json",
-      "title": "七、自我接纳与成长",
-      "description": "七、自我接纳与成长",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 140,
-      "id": "3f44a437674022e2"
-    },
-    {
-      "filename": "情绪调节的科学方法.json",
-      "title": "情绪调节的科学方法",
-      "description": "情绪调节的科学方法的核心知识点汇总",
-      "category": "职场生存/情绪与压力",
+      "filename": "固定资产.json",
+      "title": "固定资产",
+      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "情商",
-        "心理健康",
-        "情绪调节"
+        "CPA",
+        "会计",
+        "固定资产",
+        "折旧"
       ],
-      "wordCount": 3768,
-      "id": "88b19b1e76c62bb8"
+      "wordCount": 1300,
+      "id": "44317f6c09f098d5"
     },
     {
-      "filename": "如何培养积极心态_转变思维的艺术.json",
-      "title": "如何培养积极心态：转变思维的艺术",
-      "description": "如何培养积极心态：转变思维的艺术的核心知识点汇总",
-      "category": "职场生存/情绪与压力",
+      "filename": "货币资金.json",
+      "title": "货币资金",
+      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "幸福感",
-        "积极心理学",
-        "心态"
+        "CPA",
+        "会计",
+        "货币资金",
+        "现金管理"
       ],
-      "wordCount": 4159,
-      "id": "34b5cfe0c7ce8657"
+      "wordCount": 1178,
+      "id": "33408f637aca0506"
     },
     {
-      "filename": "三、愤怒管理的核心方法.json",
-      "title": "三、愤怒管理的核心方法",
-      "description": "三、愤怒管理的核心方法",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 571,
-      "id": "963a4d68e7f53d97"
+      "filename": "金融资产.json",
+      "title": "金融资产",
+      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "金融资产",
+        "分类"
+      ],
+      "wordCount": 1398,
+      "id": "0568b7fcfb220ec9"
     },
     {
-      "filename": "三、焦虑的认知来源.json",
-      "title": "三、焦虑的认知来源",
-      "description": "三、焦虑的认知来源",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 234,
-      "id": "5fc677b8bf38664e"
+      "filename": "其他应付款.json",
+      "title": "其他应付款",
+      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "其他应付款",
+        "核算"
+      ],
+      "wordCount": 525,
+      "id": "23ba7ef0a40abfe7"
     },
     {
-      "filename": "三、克服拖延的方法.json",
-      "title": "三、克服拖延的方法",
-      "description": "三、克服拖延的方法",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 620,
-      "id": "d7d97fa7197d581c"
+      "filename": "所有者权益概述.json",
+      "title": "所有者权益概述",
+      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "所有者权益",
+        "构成"
+      ],
+      "wordCount": 1132,
+      "id": "602d76b9bea46d42"
     },
     {
-      "filename": "三、面对悲伤的方法.json",
-      "title": "三、面对悲伤的方法",
-      "description": "三、面对悲伤的方法",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 332,
-      "id": "ea3a7f9ccdddd4d1"
+      "filename": "投资性房地产.json",
+      "title": "投资性房地产",
+      "description": "CPA会计投资性房地产章节核心知识点，包括投资性房地产的确认、计量和转换",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "投资性房地产",
+        "计量模式"
+      ],
+      "wordCount": 1634,
+      "id": "6459a2efc0496b74"
     },
     {
-      "filename": "三、压力管理策略.json",
-      "title": "三、压力管理策略",
-      "description": "三、压力管理策略",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 485,
-      "id": "af8435a45c525d3f"
+      "filename": "无形资产.json",
+      "title": "无形资产",
+      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "无形资产",
+        "摊销"
+      ],
+      "wordCount": 1259,
+      "id": "b2a8b4a2135a7253"
     },
     {
-      "filename": "三、自我接纳的障碍.json",
-      "title": "三、自我接纳的障碍",
-      "description": "三、自我接纳的障碍",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 208,
-      "id": "04b492260f152fe6"
+      "filename": "应付利息和应付股利.json",
+      "title": "应付利息和应付股利",
+      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付利息",
+        "应付股利"
+      ],
+      "wordCount": 668,
+      "id": "548bdca14739cb31"
     },
     {
-      "filename": "十、执行清单.json",
-      "title": "十、执行清单",
-      "description": "十、执行清单",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 127,
-      "id": "998375cce70c926a"
+      "filename": "应付票据.json",
+      "title": "应付票据",
+      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付票据",
+        "商业汇票"
+      ],
+      "wordCount": 762,
+      "id": "b6bd3ee4d13fca56"
     },
     {
-      "filename": "四、缓解焦虑的方法.json",
-      "title": "四、缓解焦虑的方法",
-      "description": "四、缓解焦虑的方法",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 545,
-      "id": "85b81da3e6cce358"
+      "filename": "应付账款.json",
+      "title": "应付账款",
+      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付账款",
+        "现金折扣"
+      ],
+      "wordCount": 1044,
+      "id": "2350ee48d8cc9b5b"
     },
     {
-      "filename": "四、建立不拖延的习惯.json",
-      "title": "四、建立不拖延的习惯",
-      "description": "四、建立不拖延的习惯",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 216,
-      "id": "5b1c31b3136af7df"
+      "filename": "应付职工薪酬.json",
+      "title": "应付职工薪酬",
+      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付职工薪酬",
+        "核算"
+      ],
+      "wordCount": 1144,
+      "id": "568e00039dccb6b5"
     },
     {
-      "filename": "四、健康表达愤怒.json",
-      "title": "四、健康表达愤怒",
-      "description": "四、健康表达愤怒",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 428,
-      "id": "7390d698567b8d45"
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
+      ],
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
     },
     {
-      "filename": "四、如何培养自我接纳.json",
-      "title": "四、如何培养自我接纳",
-      "description": "四、如何培养自我接纳",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 712,
-      "id": "6e4cb98f197b3f95"
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应收账款",
+        "应收票据"
+      ],
+      "wordCount": 1285,
+      "id": "b149d1a5237bfb5f"
+    },
+    {
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "预收账款",
+        "核算"
+      ],
+      "wordCount": 702,
+      "id": "5a1db8a8635278a1"
+    },
+    {
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
+      ],
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
+    },
+    {
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
+      ],
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
+    },
+    {
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
+      ],
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
+    },
+    {
+      "filename": "反不正当竞争法概述.json",
+      "title": "反不正当竞争法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反不正当竞争法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 757,
+      "id": "c4e8b6f024c78459"
+    },
+    {
+      "filename": "反垄断法概述.json",
+      "title": "反垄断法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反垄断法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 327,
+      "id": "dc2a54c5f75a7bdc"
+    },
+    {
+      "filename": "公司法概述.json",
+      "title": "公司法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "公司法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 294,
+      "id": "ff86ecb868f095ee"
     }
   ]
 }

@@ -1,9 +1,0 @@
-{
-  "filename": "问题背景.json",
-  "title": "问题背景",
-  "description": "问题背景",
-  "category": "产品研发/开发实践",
-  "tags": [],
-  "wordCount": 114,
-  "content": "\n\n## 问题背景\n\n原始的小程序分类管理功能存在以下问题：\n- 分类列表页面布局不够友好\n- 缺乏拼音首字母检索功能\n- 分类详情页面无法正确处理多层分类结构\n- 手机端呈现效果需要优化\n- 页面跳转使用了 `encodeURIComponent`，需要移除\n"
-}

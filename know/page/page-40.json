@@ -1,208 +1,282 @@
 {
   "page": 40,
-  "totalPages": 58,
-  "totalItems": 1149,
+  "totalPages": 53,
+  "totalItems": 1059,
   "items": [
     {
-      "filename": "四，内化.json",
-      "title": "四，内化",
-      "description": "四，内化",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 166,
-      "id": "d71abfddecfb3809"
-    },
-    {
-      "filename": "五，第四阶段：形式运算期（11岁+）.json",
-      "title": "五，第四阶段：形式运算期（11岁+）",
-      "description": "五，第四阶段：形式运算期（11岁+）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 343,
-      "id": "735e0beb3b9b794e"
-    },
-    {
-      "filename": "五，高级心理机能.json",
-      "title": "五，高级心理机能",
-      "description": "五，高级心理机能",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 214,
-      "id": "2bcc7d88abfcdee6"
-    },
-    {
-      "filename": "一，核心概念.json",
-      "title": "一，核心概念",
-      "description": "一，核心概念",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 196,
-      "id": "a7f13d42f60bb38e"
-    },
-    {
-      "filename": "一，社会文化理论的核心.json",
-      "title": "一，社会文化理论的核心",
-      "description": "一，社会文化理论的核心",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 226,
-      "id": "c4a4e98bebb6174b"
-    },
-    {
-      "filename": "依恋理论.json",
-      "title": "依恋理论专题",
-      "description": "依恋的定义与类型（A型、B型、C型）、依恋的形成机制、依恋对发展的影响",
-      "category": "心理学/发展心理学",
+      "filename": "人格理论.json",
+      "title": "人格心理学专题",
+      "description": "人格的定义、特质理论（大五人格）、精神分析人格理论（弗洛伊德）、人格评估方法",
+      "category": "心理学/人格心理学",
       "tags": [
-        "依恋",
-        "Ainsworth",
-        "安全依恋",
-        "依恋类型"
+        "人格",
+        "特质理论",
+        "大五人格",
+        "弗洛伊德",
+        "精神分析"
       ],
-      "wordCount": 1137,
-      "id": "f96a38b160190976"
+      "wordCount": 1276,
+      "id": "6c75413d33c4ba6a"
     },
     {
-      "filename": "语言发展.json",
-      "title": "语言发展专题",
-      "description": "语言发展的阶段（语音、词汇、语法、语用）、词汇爆发、电报句、Wh-问题",
-      "category": "心理学/发展心理学",
+      "filename": "记忆模型与认知存储.json",
+      "title": "记忆模型与认知存储专题",
+      "description": "三级记忆模型、工作记忆模型（Baddeley）、编码与存储策略",
+      "category": "心理学/认知心理学",
       "tags": [
-        "语言发展",
-        "词汇爆发",
-        "语法发展",
-        "心理语言学"
+        "记忆模型",
+        "工作记忆",
+        "编码",
+        "存储"
       ],
-      "wordCount": 1421,
-      "id": "549cd0033cf48b52"
+      "wordCount": 848,
+      "id": "8b0569b108265dfc"
     },
     {
-      "filename": "智力理论.json",
-      "title": "智力理论专题",
-      "description": "智力一元论与多元论、斯皮尔曼二因素论、卡特流体-晶体智力、智力的PASS模型",
-      "category": "心理学/发展心理学",
+      "filename": "决策与判断偏差.json",
+      "title": "决策与判断偏差专题",
+      "description": "启发法、确认偏差、后见之明偏差、可得性启发、框架效应等认知偏差",
+      "category": "心理学/认知心理学",
       "tags": [
-        "智力理论",
-        "流体智力",
-        "晶体智力",
-        "多元智力"
+        "决策",
+        "判断偏差",
+        "启发法",
+        "确认偏差",
+        "后见之明"
       ],
-      "wordCount": 1589,
-      "id": "79149e885e4e0570"
+      "wordCount": 915,
+      "id": "0e29e4e2423aa86a"
+    },
+    {
+      "filename": "问题解决与推理.json",
+      "title": "问题解决与推理专题",
+      "description": "问题解决的定义、问题空间、启发法与算法、推理类型（演绎、归纳）、影响因素",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "问题解决",
+        "推理",
+        "启发法",
+        "算法",
+        "演绎推理",
+        "归纳推理"
+      ],
+      "wordCount": 1140,
+      "id": "ba655ebf8847089f"
+    },
+    {
+      "filename": "元认知.json",
+      "title": "元认知专题",
+      "description": "元认知的定义与构成（Flavell）、元认知知识、元认知监控、元认知调节策略",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "元认知",
+        "元认知知识",
+        "元认知监控",
+        "学习策略"
+      ],
+      "wordCount": 1179,
+      "id": "36295f2c1ae09532"
+    },
+    {
+      "filename": "注意理论与选择性注意.json",
+      "title": "注意理论与选择性注意专题",
+      "description": "注意的定义与类型、过滤器理论、衰减理论、注意的资源理论、注意的选择性",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "注意",
+        "过滤器理论",
+        "资源理论",
+        "选择性注意"
+      ],
+      "wordCount": 1321,
+      "id": "371ab4ad929d5fa1"
+    },
+    {
+      "filename": "攻击行为.json",
+      "title": "攻击行为专题",
+      "description": "攻击行为的定义与分类、挫折-攻击理论、社会学习理论、减少攻击的方法",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "攻击行为",
+        "挫折-攻击",
+        "暴力媒体",
+        "敌意性攻击"
+      ],
+      "wordCount": 1300,
+      "id": "3500bca6e4ba2570"
+    },
+    {
+      "filename": "沟通与人际交往.json",
+      "title": "沟通与人际交往专题",
+      "description": "沟通的基本要素、言语沟通与非言语沟通、沟通障碍与改善、人际交往原则",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "沟通",
+        "非言语沟通",
+        "人际交往",
+        "沟通障碍"
+      ],
+      "wordCount": 1477,
+      "id": "5f9c4f61aff092d3"
+    },
+    {
+      "filename": "归因理论.json",
+      "title": "归因理论专题",
+      "description": "基本归因错误、协变原理、Kelley的归因维度、自我服务偏差",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "归因理论",
+        "基本归因错误",
+        "归因维度",
+        "自我服务偏差"
+      ],
+      "wordCount": 920,
+      "id": "9bbad1b3c61c60a0"
+    },
+    {
+      "filename": "偏见与歧视.json",
+      "title": "偏见与歧视专题",
+      "description": "偏见、歧视、刻板印象的概念；偏见产生的原因与减少方法",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "偏见",
+        "歧视",
+        "刻板印象",
+        "偏见减少"
+      ],
+      "wordCount": 970,
+      "id": "e2378d627eb653c0"
+    },
+    {
+      "filename": "亲社会行为与助人行为.json",
+      "title": "亲社会行为与助人行为专题",
+      "description": "亲社会行为的定义、旁观者效应、影响因素、四种亲社会理论",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "亲社会行为",
+        "助人行为",
+        "旁观者效应",
+        "社会责任"
+      ],
+      "wordCount": 1256,
+      "id": "d449fad4e76db37d"
+    },
+    {
+      "filename": "群体心理现象.json",
+      "title": "群体心理现象专题",
+      "description": "群体极化、群体思维、去个体化、社会懈怠的概念、原因与经典实验",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "群体极化",
+        "群体思维",
+        "去个体化",
+        "社会懈怠",
+        "群体影响"
+      ],
+      "wordCount": 1372,
+      "id": "349434d472e5818d"
+    },
+    {
+      "filename": "人际吸引与爱情.json",
+      "title": "人际吸引与爱情专题",
+      "description": "人际吸引的规则（接近性、熟悉性、相似性、互补性）、爱情三角理论、依恋风格",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "人际吸引",
+        "爱情三角",
+        "接近性",
+        "相似性"
+      ],
+      "wordCount": 1216,
+      "id": "0f579c8c18d3e31a"
+    },
+    {
+      "filename": "社会影响_从众与服从.json",
+      "title": "社会影响：从众与服从专题",
+      "description": "从众的定义与原因、服从的Milgram实验、顺从与登门槛效应",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "从众",
+        "服从",
+        "顺从",
+        "Milgram",
+        "社会影响"
+      ],
+      "wordCount": 1001,
+      "id": "96a40a23aa600945"
+    },
+    {
+      "filename": "态度与态度改变.json",
+      "title": "态度与态度改变专题",
+      "description": "态度的ABC成分、态度与行为的关系、说服的两种路径（精细加工可能性模型）",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "态度",
+        "态度改变",
+        "说服",
+        "精细加工可能性模型"
+      ],
+      "wordCount": 1105,
+      "id": "f3717a4e30e52c25"
+    },
+    {
+      "filename": "印象形成与社会认知.json",
+      "title": "印象形成与社会认知专题",
+      "description": "印象形成的线索与效应、首因效应、近因效应、光环效应、社会认知偏差",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "印象形成",
+        "首因效应",
+        "光环效应",
+        "社会认知"
+      ],
+      "wordCount": 1387,
+      "id": "27cd97f465ad0abd"
+    },
+    {
+      "filename": "反套路消费指南_如何识别商家的心理陷阱.json",
+      "title": "反套路消费指南：如何识别商家的心理陷阱",
+      "description": "反套路消费指南：如何识别商家的心理陷阱的核心知识点汇总",
+      "category": "心理学/消费心理学",
+      "tags": [
+        "消费心理学",
+        "决策",
+        "行为经济学"
+      ],
+      "wordCount": 10248,
+      "id": "65db8e72e2c0e453"
     },
     {
       "filename": "备考重点.json",
       "title": "备考重点",
       "description": "备考重点",
-      "category": "心理学/基础心理学",
+      "category": "心理学/心理测量",
       "tags": [],
-      "wordCount": 100,
-      "id": "58f91aed28b49c57"
+      "wordCount": 246,
+      "id": "36628c4f1ce95385"
     },
     {
-      "filename": "二、感受性与感觉阈限.json",
-      "title": "二、感受性与感觉阈限",
-      "description": "二、感受性与感觉阈限",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 298,
-      "id": "a2cda800be17364e"
-    },
-    {
-      "filename": "二、记忆的三级加工模型.json",
-      "title": "二、记忆的三级加工模型",
-      "description": "二、记忆的三级加工模型",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 427,
-      "id": "d75fb22bbcf89806"
-    },
-    {
-      "filename": "二、实验法.json",
-      "title": "二、实验法",
-      "description": "二、实验法",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 511,
-      "id": "63796385bbd58eca"
-    },
-    {
-      "filename": "六、记忆策略.json",
-      "title": "六、记忆策略",
-      "description": "六、记忆策略",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 126,
-      "id": "2a748f077f1ed0bc"
-    },
-    {
-      "filename": "六、研究方法的选择.json",
-      "title": "六、研究方法的选择",
-      "description": "六、研究方法的选择",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 135,
-      "id": "705b63ff1ef710d8"
-    },
-    {
-      "filename": "六、知觉的四大特性.json",
-      "title": "六、知觉的四大特性",
-      "description": "六、知觉的四大特性",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 483,
-      "id": "ff7ded374ed7dfd5"
-    },
-    {
-      "filename": "七、知觉的种类.json",
-      "title": "七、知觉的种类",
-      "description": "七、知觉的种类",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 131,
-      "id": "b5fc7325c7226cf1"
-    },
-    {
-      "filename": "三、调查法.json",
-      "title": "三、调查法",
-      "description": "三、调查法",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 278,
-      "id": "ddf55f64f248a294"
-    },
-    {
-      "filename": "三、工作记忆模型.json",
-      "title": "三、工作记忆模型",
-      "description": "三、工作记忆模型",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 201,
-      "id": "903b9b862d1e336a"
-    },
-    {
-      "filename": "三、韦伯定律.json",
-      "title": "三、韦伯定律",
-      "description": "三、韦伯定律",
-      "category": "心理学/基础心理学",
-      "tags": [],
-      "wordCount": 231,
-      "id": "fdc45ae4873ca7d5"
-    },
-    {
-      "filename": "思维与问题解决.json",
-      "title": "思维与问题解决专题",
-      "description": "思维的种类、表征、问题解决策略、影响因素（定势与功能固着）",
-      "category": "心理学/基础心理学",
+      "filename": "标准化与常模.json",
+      "title": "标准化与常模专题",
+      "description": "标准化施测程序、常模类型（年龄常模、年级常模、百分位常模）、分数解释",
+      "category": "心理学/心理测量",
       "tags": [
-        "思维",
-        "问题解决",
-        "定势",
-        "功能固着",
-        "表征"
+        "标准化",
+        "常模",
+        "百分位",
+        "心理测量"
       ],
-      "wordCount": 1435,
-      "id": "b2513731d99a2f6d"
+      "wordCount": 1229,
+      "id": "5aabc0dedf9caa17"
+    },
+    {
+      "filename": "二，效度.json",
+      "title": "二，效度",
+      "description": "二，效度",
+      "category": "心理学/心理测量",
+      "tags": [],
+      "wordCount": 392,
+      "id": "8fe88acdd178fe7e"
     }
   ]
 }

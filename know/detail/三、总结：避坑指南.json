@@ -1,9 +1,0 @@
-{
-  "filename": "三、总结：避坑指南.json",
-  "title": "三、总结：避坑指南",
-  "description": "三、总结：避坑指南",
-  "category": "产品研发/开发实践",
-  "tags": [],
-  "wordCount": 131,
-  "content": "\n\n## 三、总结：避坑指南\r\n\r\n### 1. 设计阶段\r\n\r\n- ✅ 规划好分包结构\r\n- ✅ 确定数据格式\r\n- ✅ 设计错误处理机制\r\n\r\n### 2. 开发阶段\r\n\r\n- ✅ wx:for 变量名不重复\r\n- ✅ setData 性能优化\r\n- ✅ 异步请求 Loading\r\n\r\n### 3. 上线阶段\r\n\r\n- ✅ CDN 缓存策略\r\n- ✅ 版本兼容\r\n- ✅ 错误日志收集\r\n\r\n---\n"
-}

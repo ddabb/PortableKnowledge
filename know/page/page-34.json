@@ -1,258 +1,187 @@
 {
   "page": 34,
-  "totalPages": 58,
-  "totalItems": 1149,
+  "totalPages": 53,
+  "totalItems": 1059,
   "items": [
     {
-      "filename": "项目基本要素.json",
-      "title": "项目基本要素",
-      "description": "项目基础概念、项目管理定义与作用、项目成功标准",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "项目管理",
-        "项目基本要素",
-        "项目组合",
-        "项目集",
-        "运营管理"
-      ],
-      "wordCount": 2365,
-      "id": "72a85e59bcb1b224"
-    },
-    {
-      "filename": "项目阶段.json",
-      "title": "项目阶段",
-      "description": "项目阶段是一组具有逻辑关系的项目活动的集合，通常以一个或多个可交付成果的完成为结束。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理"
-      ],
-      "wordCount": 577,
-      "id": "a88a820aea654258"
-    },
-    {
-      "filename": "项目经理的角色.json",
-      "title": "项目经理的角色",
-      "description": "项目经理定义、所需技能和特性、人际关系技能、成功标准",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "项目经理",
-        "PMP",
-        "领导力",
-        "项目管理"
-      ],
-      "wordCount": 1359,
-      "id": "902a832c9bbc0bdb"
-    },
-    {
-      "filename": "项目立项管理.json",
-      "title": "项目立项管理",
-      "description": "项目建议与立项申请、可行性研究、项目评估与决策",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "项目立项",
-        "可行性研究",
-        "项目评估"
-      ],
-      "wordCount": 2367,
-      "id": "97c4ef457af336d5"
-    },
-    {
-      "filename": "项目商业论证.json",
-      "title": "项目商业论证",
-      "description": "项目商业论证指文档化的经济可行性研究报告，用来对尚缺乏充分定义的所选方案的收益进行有效性论证，是启动后续项目管理活动的依据。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 1007,
-      "id": "5f441e7a3c4020d7"
-    },
-    {
-      "filename": "项目生命周期和项目阶段.json",
-      "title": "项目生命周期和项目阶段",
-      "description": "通用生命周期结构、特征、生命周期类型比较",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "项目生命周期",
-        "预测型",
-        "适应型",
-        "敏捷",
-        "PMP"
-      ],
-      "wordCount": 1441,
-      "id": "90699525b351c656"
-    },
-    {
-      "filename": "项目效益管理计划.json",
-      "title": "项目效益管理计划",
-      "description": "项目效益管理计划描述了项目实现效益的方式和时间，以及应制定的效益衡量机制。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 630,
-      "id": "eab70acdfe7615a2"
-    },
-    {
-      "filename": "项目章程和项目管理计划.json",
-      "title": "项目章程和项目管理计划",
-      "description": "项目章程是由项目发起人发布的，正式批准项目成立，并授权项目经理动用组织资源开展项目活动的文件。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 103,
-      "id": "4c7b7662d15add9d"
-    },
-    {
-      "filename": "新型基础设施建设.json",
-      "title": "新型基础设施建设",
-      "description": "新型基础设施是以新发展理念为引领，以技术创新为驱动，以信息网络为基础，面向高质量发展需要，提供数字转型、智能升级、融合创新等服务的基础设施体系。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "新基建",
-        "软考备考"
-      ],
-      "wordCount": 397,
-      "id": "b30fee4ba33b7b01"
-    },
-    {
-      "filename": "信息化基础.json",
-      "title": "信息化基础",
-      "description": "信息化是指培养、发展以计算机为主的智能化工具为代表的新生产力，并使之造福于社会的历史过程。国家信息化体系包括信息技术应用、信息资源、信息网络、信息技术和产业、信息化人才、信息化政策法规和标准规范6个要素。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "信息与信息化",
-        "软考备考"
-      ],
-      "wordCount": 465,
-      "id": "011dc00feb20c036"
-    },
-    {
-      "filename": "信息基础.json",
-      "title": "信息基础",
-      "description": "信息是物质、能量及其属性的标示的集合，是确定性的增加。1948年香农将信息定义为\"用来消除随机不定性的东西\"，信息量的单位为比特(bit)。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "信息与信息化",
-        "软考备考"
-      ],
-      "wordCount": 302,
-      "id": "3e5307a35c773706"
-    },
-    {
-      "filename": "虚拟现实.json",
-      "title": "虚拟现实",
-      "description": "VR/AR/MR概念、关键技术及应用",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "VR",
-        "AR",
-        "MR",
-        "虚拟现实",
-        "人机交互"
-      ],
-      "wordCount": 880,
-      "id": "61bb1bdbf5d1614e"
-    },
-    {
-      "filename": "元宇宙.json",
-      "title": "元宇宙",
-      "description": "元宇宙是利用科技手段进行链接与创造的，与现实世界映射与交互的虚拟世界，具备新型社会体系的数字生活空间。主要特征包括沉浸式体验、虚拟身份、虚拟经济和虚拟社会治理。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "元宇宙",
-        "数字化转型",
-        "软考备考"
-      ],
-      "wordCount": 409,
-      "id": "be384342350e68e2"
-    },
-    {
-      "filename": "云计算.json",
-      "title": "云计算",
-      "description": "云计算概念、服务模式、部署模式及关键技术",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "IaaS",
-        "PaaS",
-        "SaaS",
-        "虚拟化",
-        "云存储",
-        "分布式计算"
-      ],
-      "wordCount": 994,
-      "id": "51de51bc04ef8c7d"
-    },
-    {
-      "filename": "指南概述和目的.json",
-      "title": "指南概述和目的",
-      "description": "项目管理并非新概念，它已存在数百年之久。项目成果的例子包括：",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "指南概述和目的",
-        "PMP"
-      ],
-      "wordCount": 918,
-      "id": "8105ec5194a73f2f"
-    },
-    {
-      "filename": "PMBOK的发展.json",
-      "title": "PMBOK的发展",
-      "description": "PMBOK各版本演变历程及关键变化",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "PMBOK",
-        "PMI",
-        "项目管理",
-        "版本演变"
-      ],
-      "wordCount": 986,
-      "id": "e5768cb7ba885bba"
-    },
-    {
-      "filename": "二、常见诈骗类型.json",
-      "title": "二、常见诈骗类型",
-      "description": "二、常见诈骗类型",
-      "category": "生活通识/安全防范",
+      "filename": "八、施救者的保护.json",
+      "title": "八、施救者的保护",
+      "description": "八、施救者的保护",
+      "category": "生活通识/急救知识",
       "tags": [],
-      "wordCount": 657,
-      "id": "629f6b2a5047f4d8"
+      "wordCount": 118,
+      "id": "ae1abf25b1f04899"
     },
     {
-      "filename": "二、赌博防范.json",
-      "title": "二、赌博防范",
-      "description": "二、赌博防范",
-      "category": "生活通识/安全防范",
+      "filename": "二、什么情况需要心肺复苏.json",
+      "title": "二、什么情况需要心肺复苏",
+      "description": "二、什么情况需要心肺复苏",
+      "category": "生活通识/急救知识",
       "tags": [],
-      "wordCount": 560,
-      "id": "51b494cf85407150"
+      "wordCount": 220,
+      "id": "b41e0c37d9da0de3"
     },
     {
-      "filename": "二、网络诈骗.json",
-      "title": "二、网络诈骗",
-      "description": "二、网络诈骗",
-      "category": "生活通识/安全防范",
+      "filename": "九、学习建议.json",
+      "title": "九、学习建议",
+      "description": "九、学习建议",
+      "category": "生活通识/急救知识",
       "tags": [],
-      "wordCount": 320,
-      "id": "646464a36c798ef2"
+      "wordCount": 147,
+      "id": "de4a3a8408d134ca"
     },
     {
-      "filename": "六、保护个人信息.json",
-      "title": "六、保护个人信息",
-      "description": "六、保护个人信息",
-      "category": "生活通识/安全防范",
+      "filename": "六、特殊情况.json",
+      "title": "六、特殊情况",
+      "description": "六、特殊情况",
+      "category": "生活通识/急救知识",
       "tags": [],
       "wordCount": 116,
-      "id": "bb22bb274895c7f8"
+      "id": "273037aa4d4b5c24"
+    },
+    {
+      "filename": "七、常见错误.json",
+      "title": "七、常见错误",
+      "description": "七、常见错误",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 171,
+      "id": "fce7fc0f6e356809"
+    },
+    {
+      "filename": "三、心肺复苏步骤.json",
+      "title": "三、心肺复苏步骤",
+      "description": "三、心肺复苏步骤",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 587,
+      "id": "f9dcecfb29481ed1"
+    },
+    {
+      "filename": "四、只做按压的CPR.json",
+      "title": "四、只做按压的CPR",
+      "description": "四、只做按压的CPR",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 114,
+      "id": "b98a51c8701c1c08"
+    },
+    {
+      "filename": "五、使用AED.json",
+      "title": "五、使用AED",
+      "description": "五、使用AED",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 194,
+      "id": "14918168cebd9624"
+    },
+    {
+      "filename": "一、什么是心肺复苏.json",
+      "title": "一、什么是心肺复苏",
+      "description": "一、什么是心肺复苏",
+      "category": "生活通识/急救知识",
+      "tags": [],
+      "wordCount": 129,
+      "id": "7306bfcf7a46229a"
+    },
+    {
+      "filename": "八、常见误区.json",
+      "title": "八、常见误区",
+      "description": "八、常见误区",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 151,
+      "id": "d0fb3ef80ddfd4a1"
+    },
+    {
+      "filename": "八、生活方式养护.json",
+      "title": "八、生活方式养护",
+      "description": "八、生活方式养护",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 252,
+      "id": "e26c8a5fd7c9ae1c"
+    },
+    {
+      "filename": "八、疫情防护（传染病）.json",
+      "title": "八、疫情防护（传染病）",
+      "description": "八、疫情防护（传染病）",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 292,
+      "id": "ca07856d3420b289"
+    },
+    {
+      "filename": "八、执行清单.json",
+      "title": "八、执行清单",
+      "description": "八、执行清单",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 92,
+      "id": "9c134175266814e0"
+    },
+    {
+      "filename": "二、感冒和流感.json",
+      "title": "二、感冒和流感",
+      "description": "二、感冒和流感",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 370,
+      "id": "42b326b7c3282264"
+    },
+    {
+      "filename": "二、糖尿病前期.json",
+      "title": "二、糖尿病前期",
+      "description": "二、糖尿病前期",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 306,
+      "id": "bb64351cac5c4cf0"
+    },
+    {
+      "filename": "二、危险因素.json",
+      "title": "二、危险因素",
+      "description": "二、危险因素",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 249,
+      "id": "c6812dd6d2479193"
+    },
+    {
+      "filename": "二、胃部疾病.json",
+      "title": "二、胃部疾病",
+      "description": "二、胃部疾病",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 401,
+      "id": "3288dc79c1e927f3"
+    },
+    {
+      "filename": "二、致癌因素.json",
+      "title": "二、致癌因素",
+      "description": "二、致癌因素",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 314,
+      "id": "d4755d1e6c19cb36"
+    },
+    {
+      "filename": "九、常见误区.json",
+      "title": "九、常见误区",
+      "description": "九、常见误区",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 129,
+      "id": "6864b1a667bed3fa"
+    },
+    {
+      "filename": "九、养肺护肺.json",
+      "title": "九、养肺护肺",
+      "description": "九、养肺护肺",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 192,
+      "id": "45a7501859c3342b"
     }
   ]
 }

@@ -1,54 +1,9 @@
 {
   "meta": {
     "category": "认知思维/学习方法",
-    "count": 26
+    "count": 8
   },
   "articles": [
-    {
-      "filename": "01_专业领域.json",
-      "title": "01_专业领域",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 62,
-      "id": "83f96c05cb77dab8"
-    },
-    {
-      "filename": "02_兴趣爱好.json",
-      "title": "02_兴趣爱好",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 59,
-      "id": "84bea3f998d50be1"
-    },
-    {
-      "filename": "03_生活技能.json",
-      "title": "03_生活技能",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 58,
-      "id": "a8e07c7281123e2d"
-    },
-    {
-      "filename": "04_个人成长.json",
-      "title": "04_个人成长",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 157,
-      "id": "249a897652b5eb5b"
-    },
-    {
-      "filename": "二、艾宾浩斯遗忘曲线：记忆的自然法则.json",
-      "title": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
-      "description": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 180,
-      "id": "8cc367a2b483e819"
-    },
     {
       "filename": "二、刻意练习的六个核心特征.json",
       "title": "二、刻意练习的六个核心特征",
@@ -85,15 +40,6 @@
       "id": "fa4f0bdcc55522ad"
     },
     {
-      "filename": "个人思考.json",
-      "title": "个人思考",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 16,
-      "id": "08f40b4a9752a3d2"
-    },
-    {
       "filename": "关联知识.json",
       "title": "关联知识",
       "description": "",
@@ -101,24 +47,6 @@
       "tags": [],
       "wordCount": 1576,
       "id": "4f57d8bf2cc133f1"
-    },
-    {
-      "filename": "核心内容.json",
-      "title": "核心内容",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 18,
-      "id": "53e013ed02d34a1f"
-    },
-    {
-      "filename": "六、间隔重复适合学什么.json",
-      "title": "六、间隔重复适合学什么",
-      "description": "六、间隔重复适合学什么",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 120,
-      "id": "79b9770ad3ad29d8"
     },
     {
       "filename": "六、刻意练习的常见陷阱.json",
@@ -130,24 +58,6 @@
       "id": "f2975033c685ad40"
     },
     {
-      "filename": "七、制作高效闪卡的技巧.json",
-      "title": "七、制作高效闪卡的技巧",
-      "description": "七、制作高效闪卡的技巧",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 137,
-      "id": "1c77573df7a1d467"
-    },
-    {
-      "filename": "三、集中复习为什么低效.json",
-      "title": "三、集中复习为什么低效",
-      "description": "三、集中复习为什么低效",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 169,
-      "id": "de2b3cf532191810"
-    },
-    {
       "filename": "三、刻意练习 vs 天赋.json",
       "title": "三、刻意练习 vs 天赋",
       "description": "三、刻意练习 vs 天赋",
@@ -155,15 +65,6 @@
       "tags": [],
       "wordCount": 278,
       "id": "957af2675ee18b5b"
-    },
-    {
-      "filename": "实际应用.json",
-      "title": "实际应用",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 20,
-      "id": "1336a80ff70a9bb5"
     },
     {
       "filename": "四、刻意练习在不同领域的应用.json",
@@ -175,15 +76,6 @@
       "id": "4669edc12a0162fb"
     },
     {
-      "filename": "四、什么是间隔重复.json",
-      "title": "四、什么是间隔重复",
-      "description": "四、什么是间隔重复",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 156,
-      "id": "696e29f6317beed1"
-    },
-    {
       "filename": "五、如何设计自己的刻意练习计划.json",
       "title": "五、如何设计自己的刻意练习计划",
       "description": "五、如何设计自己的刻意练习计划",
@@ -191,60 +83,6 @@
       "tags": [],
       "wordCount": 694,
       "id": "1ebf9180528e2f31"
-    },
-    {
-      "filename": "五、如何使用间隔重复.json",
-      "title": "五、如何使用间隔重复",
-      "description": "五、如何使用间隔重复",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 270,
-      "id": "a1e778cb963f701f"
-    },
-    {
-      "filename": "相关资源.json",
-      "title": "相关资源",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 39,
-      "id": "02f0b83724eaef56"
-    },
-    {
-      "filename": "详细说明.json",
-      "title": "详细说明",
-      "description": "",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 18,
-      "id": "53f43299e784fc12"
-    },
-    {
-      "filename": "一、被误解的·一万小时定律·.json",
-      "title": "一、被误解的·一万小时定律·",
-      "description": "一、被误解的·一万小时定律·",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 253,
-      "id": "dec51d28a342100a"
-    },
-    {
-      "filename": "一、为什么你学的东西总是记不住.json",
-      "title": "一、为什么你学的东西总是记不住",
-      "description": "一、为什么你学的东西总是记不住",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 106,
-      "id": "4edcb268b01b6db4"
-    },
-    {
-      "filename": "总结.json",
-      "title": "总结",
-      "description": "总结",
-      "category": "认知思维/学习方法",
-      "tags": [],
-      "wordCount": 167,
-      "id": "6d5cdb444816eb7c"
     }
   ]
 }

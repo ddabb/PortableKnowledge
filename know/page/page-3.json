@@ -1,7 +1,7 @@
 {
   "page": 3,
-  "totalPages": 58,
-  "totalItems": 1149,
+  "totalPages": 53,
+  "totalItems": 1059,
   "items": [
     {
       "filename": "二、我踩过的 10 个坑.json",
@@ -13,15 +13,6 @@
       "id": "96b0ec3664bf24a4"
     },
     {
-      "filename": "技术实现细节.json",
-      "title": "技术实现细节",
-      "description": "技术实现细节",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 339,
-      "id": "8a70bd27f942079b"
-    },
-    {
       "filename": "解决方案.json",
       "title": "解决方案",
       "description": "解决方案",
@@ -29,69 +20,6 @@
       "tags": [],
       "wordCount": 3044,
       "id": "90f366c237a3b80a"
-    },
-    {
-      "filename": "三、总结：避坑指南.json",
-      "title": "三、总结：避坑指南",
-      "description": "三、总结：避坑指南",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 131,
-      "id": "be6e4c6ba8253fd2"
-    },
-    {
-      "filename": "四、写在最后.json",
-      "title": "四、写在最后",
-      "description": "四、写在最后",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 111,
-      "id": "ab593e16ca920e3f"
-    },
-    {
-      "filename": "问题背景.json",
-      "title": "问题背景",
-      "description": "问题背景",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 114,
-      "id": "9ce2f4646350f0aa"
-    },
-    {
-      "filename": "一、为什么写这篇文章？.json",
-      "title": "一、为什么写这篇文章？",
-      "description": "一、为什么写这篇文章？",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 134,
-      "id": "3d2513d66383d7e2"
-    },
-    {
-      "filename": "引言.json",
-      "title": "引言",
-      "description": "引言",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 87,
-      "id": "4fdfff8f0da17668"
-    },
-    {
-      "filename": "遇到的问题及解决方案.json",
-      "title": "遇到的问题及解决方案",
-      "description": "遇到的问题及解决方案",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 304,
-      "id": "2a5ab236c8d6ea14"
-    },
-    {
-      "filename": "总结.json",
-      "title": "总结",
-      "description": "总结",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 238,
-      "id": "c318eea87769a5ed"
     },
     {
       "filename": "二、零服务器的架构设计.json",
@@ -103,33 +31,6 @@
       "id": "1b227b0c4bb214af"
     },
     {
-      "filename": "二、为什么选择 MIT？.json",
-      "title": "二、为什么选择 MIT？",
-      "description": "二、为什么选择 MIT？",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 300,
-      "id": "4271b888b5dd9508"
-    },
-    {
-      "filename": "附录：项目地址.json",
-      "title": "附录：项目地址",
-      "description": "附录：项目地址",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 140,
-      "id": "eeecc2653bac6f7c"
-    },
-    {
-      "filename": "功能.json",
-      "title": "功能",
-      "description": "功能",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 12,
-      "id": "0337b7ec9e160ff1"
-    },
-    {
       "filename": "六、你可以做什么？.json",
       "title": "六、你可以做什么？",
       "description": "六、你可以做什么？",
@@ -137,24 +38,6 @@
       "tags": [],
       "wordCount": 150,
       "id": "e218a93b6d3a1bcb"
-    },
-    {
-      "filename": "六、写给想开源的你.json",
-      "title": "六、写给想开源的你",
-      "description": "六、写给想开源的你",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 185,
-      "id": "35a30a3d62924998"
-    },
-    {
-      "filename": "七、写在最后.json",
-      "title": "七、写在最后",
-      "description": "七、写在最后",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 182,
-      "id": "8f7fba380fb5de1e"
     },
     {
       "filename": "三、开源：MIT 协议.json",
@@ -166,22 +49,157 @@
       "id": "c20aa1eb9b0b023f"
     },
     {
-      "filename": "三、开源的「得与失」.json",
-      "title": "三、开源的「得与失」",
-      "description": "三、开源的「得与失」",
+      "filename": "四、零成本的运营模式.json",
+      "title": "四、零成本的运营模式",
+      "description": "四、零成本的运营模式",
       "category": "产品研发/开源生态",
       "tags": [],
-      "wordCount": 270,
-      "id": "d9f29afc40d77937"
+      "wordCount": 279,
+      "id": "f88511f4bbcccc37"
     },
     {
-      "filename": "使用.json",
-      "title": "使用",
-      "description": "使用",
+      "filename": "五、开源项目的生存之道.json",
+      "title": "五、开源项目的生存之道",
+      "description": "五、开源项目的生存之道",
       "category": "产品研发/开源生态",
       "tags": [],
-      "wordCount": 8,
-      "id": "3f8790b456d489ca"
+      "wordCount": 311,
+      "id": "05bff7a6163ad637"
+    },
+    {
+      "filename": "一、什么是 MIT 协议？.json",
+      "title": "一、什么是 MIT 协议？",
+      "description": "一、什么是 MIT 协议？",
+      "category": "产品研发/开源生态",
+      "tags": [],
+      "wordCount": 1111,
+      "id": "da1432b1e62f1fab"
+    },
+    {
+      "filename": "财务管理与财富自由_从零开始的财务规划指南.json",
+      "title": "财务管理与财富自由：从零开始的财务规划指南",
+      "description": "财务管理与财富自由：从零开始的财务规划指南的核心知识点汇总",
+      "category": "创业指南/财务规划",
+      "tags": [
+        "财富自由",
+        "财务管理",
+        "理财"
+      ],
+      "wordCount": 1904,
+      "id": "344415675d41a97d"
+    },
+    {
+      "filename": "初创企业税务入门.json",
+      "title": "初创企业税务入门",
+      "description": "中国创业者在公司成立后必须了解的基础税务知识，包括主要税种、申报流程、税收优惠与常见误区",
+      "category": "创业指南/财务规划",
+      "tags": [
+        "税务",
+        "企业所得税",
+        "增值税",
+        "个人所得税",
+        "创业财务"
+      ],
+      "wordCount": 1217,
+      "id": "233747d5370cb4da"
+    },
+    {
+      "filename": "创业前必须完成的六个准备功课_从0到1的全方位指南.json",
+      "title": "创业前必须完成的六个准备功课：从0到1的全方位指南",
+      "description": "创业前必须完成的六个准备功课：从0到1的全方位指南的核心知识点汇总",
+      "category": "创业指南/创业准备",
+      "tags": [
+        "商业",
+        "创业",
+        "规划"
+      ],
+      "wordCount": 1722,
+      "id": "d4e0b5625f50de09"
+    },
+    {
+      "filename": "二、融资的轮次体系.json",
+      "title": "二、融资的轮次体系",
+      "description": "二、融资的轮次体系",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 834,
+      "id": "62851bde2bae9d62"
+    },
+    {
+      "filename": "二、BP的标准结构.json",
+      "title": "二、BP的标准结构",
+      "description": "",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 1569,
+      "id": "571113721481cb08"
+    },
+    {
+      "filename": "极简生活实践手册_从断舍离到可持续生活.json",
+      "title": "极简生活实践手册：从断舍离到可持续生活",
+      "description": "极简生活实践手册：从断舍离到可持续生活的核心知识点汇总",
+      "category": "创业指南/创业准备",
+      "tags": [
+        "生活方式",
+        "极简主义",
+        "断舍离"
+      ],
+      "wordCount": 4095,
+      "id": "81676dc754485af1"
+    },
+    {
+      "filename": "六、融资的时机.json",
+      "title": "六、融资的时机",
+      "description": "六、融资的时机",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 170,
+      "id": "85215e3f268f23ad"
+    },
+    {
+      "filename": "三、估值的基本概念.json",
+      "title": "三、估值的基本概念",
+      "description": "三、估值的基本概念",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 530,
+      "id": "3585c2aa59c3cc46"
+    },
+    {
+      "filename": "三、BP写作的常见错误.json",
+      "title": "三、BP写作的常见错误",
+      "description": "",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 486,
+      "id": "998c7805dd7f4639"
+    },
+    {
+      "filename": "四、核心术语.json",
+      "title": "四、核心术语",
+      "description": "四、核心术语",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 682,
+      "id": "efedda72e8fc7d31"
+    },
+    {
+      "filename": "四、BP的格式建议.json",
+      "title": "四、BP的格式建议",
+      "description": "",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 153,
+      "id": "3301d92fcb7bab76"
+    },
+    {
+      "filename": "五、融资流程.json",
+      "title": "五、融资流程",
+      "description": "五、融资流程",
+      "category": "创业指南/创业准备",
+      "tags": [],
+      "wordCount": 559,
+      "id": "176c6cd51e95907b"
     }
   ]
 }

@@ -1,218 +1,225 @@
 {
   "page": 39,
-  "totalPages": 58,
-  "totalItems": 1149,
+  "totalPages": 53,
+  "totalItems": 1059,
   "items": [
     {
-      "filename": "四、各类提取所需材料.json",
-      "title": "四、各类提取所需材料",
-      "description": "四、各类提取所需材料",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 319,
-      "id": "1b3e10ecd2735fb2"
-    },
-    {
-      "filename": "五、提取额度.json",
-      "title": "五、提取额度",
-      "description": "五、提取额度",
-      "category": "生活通识/社保公积金",
+      "filename": "七、知觉的种类.json",
+      "title": "七、知觉的种类",
+      "description": "七、知觉的种类",
+      "category": "心理学/基础心理学",
       "tags": [],
       "wordCount": 131,
-      "id": "47eb11c0d4939432"
+      "id": "b5fc7325c7226cf1"
     },
     {
-      "filename": "五、医保个人账户.json",
-      "title": "五、医保个人账户",
-      "description": "五、医保个人账户",
-      "category": "生活通识/社保公积金",
+      "filename": "三、调查法.json",
+      "title": "三、调查法",
+      "description": "三、调查法",
+      "category": "心理学/基础心理学",
       "tags": [],
-      "wordCount": 144,
-      "id": "b3a954b712906ceb"
+      "wordCount": 278,
+      "id": "ddf55f64f248a294"
     },
     {
-      "filename": "一、公积金是什么.json",
-      "title": "一、公积金是什么",
-      "description": "一、公积金是什么",
-      "category": "生活通识/社保公积金",
+      "filename": "三、工作记忆模型.json",
+      "title": "三、工作记忆模型",
+      "description": "三、工作记忆模型",
+      "category": "心理学/基础心理学",
       "tags": [],
-      "wordCount": 98,
-      "id": "a84bb5f9e64b507d"
+      "wordCount": 201,
+      "id": "903b9b862d1e336a"
     },
     {
-      "filename": "一、医保是什么.json",
-      "title": "一、医保是什么",
-      "description": "一、医保是什么",
-      "category": "生活通识/社保公积金",
+      "filename": "三、韦伯定律.json",
+      "title": "三、韦伯定律",
+      "description": "三、韦伯定律",
+      "category": "心理学/基础心理学",
       "tags": [],
-      "wordCount": 129,
-      "id": "955fd252c94db8f9"
+      "wordCount": 231,
+      "id": "fdc45ae4873ca7d5"
     },
     {
-      "filename": "地震防范与应急.json",
-      "title": "地震防范与应急",
-      "description": "地震发生时的应对措施、逃生技巧和日常准备",
-      "category": "生活通识/自然灾害",
+      "filename": "思维与问题解决.json",
+      "title": "思维与问题解决专题",
+      "description": "思维的种类、表征、问题解决策略、影响因素（定势与功能固着）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "地震",
-        "自然灾害",
-        "应急",
-        "逃生"
+        "思维",
+        "问题解决",
+        "定势",
+        "功能固着",
+        "表征"
       ],
-      "wordCount": 877,
-      "id": "be8e5050f8013cf0"
+      "wordCount": 1435,
+      "id": "b2513731d99a2f6d"
     },
     {
-      "filename": "洪水防范与应对.json",
-      "title": "洪水防范与应对",
-      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
-      "category": "生活通识/自然灾害",
+      "filename": "四、测验法.json",
+      "title": "四、测验法",
+      "description": "四、测验法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 184,
+      "id": "685bf7590447b77a"
+    },
+    {
+      "filename": "四、费希纳定律（对数定律）.json",
+      "title": "四、费希纳定律（对数定律）",
+      "description": "四、费希纳定律（对数定律）",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 105,
+      "id": "dd932e31953ab43a"
+    },
+    {
+      "filename": "四、遗忘规律.json",
+      "title": "四、遗忘规律",
+      "description": "四、遗忘规律",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 202,
+      "id": "5b389d479c6166f8"
+    },
+    {
+      "filename": "五、个案法.json",
+      "title": "五、个案法",
+      "description": "五、个案法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 103,
+      "id": "e5b408c26cf6468e"
+    },
+    {
+      "filename": "五、遗忘的原因.json",
+      "title": "五、遗忘的原因",
+      "description": "五、遗忘的原因",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 317,
+      "id": "e6db170f684cb32f"
+    },
+    {
+      "filename": "五、知觉概述.json",
+      "title": "五、知觉概述",
+      "description": "五、知觉概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 136,
+      "id": "c659224809a19c0a"
+    },
+    {
+      "filename": "心理生理基础.json",
+      "title": "心理生理基础专题",
+      "description": "神经元结构、神经系统分类、大脑皮层功能区、内分泌系统与行为",
+      "category": "心理学/基础心理学",
       "tags": [
-        "洪水",
-        "自然灾害",
-        "防汛",
-        "应急"
+        "神经元",
+        "大脑皮层",
+        "神经系统",
+        "内分泌系统"
       ],
-      "wordCount": 842,
-      "id": "ba444651c5345d81"
+      "wordCount": 1233,
+      "id": "f2e412fe55237ca5"
     },
     {
-      "filename": "火灾防范与逃生.json",
-      "title": "火灾防范与逃生",
-      "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "生活通识/自然灾害",
+      "filename": "一、感觉概述.json",
+      "title": "一、感觉概述",
+      "description": "一、感觉概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 124,
+      "id": "38ab9a2897ea1cb6"
+    },
+    {
+      "filename": "一、观察法.json",
+      "title": "一、观察法",
+      "description": "一、观察法",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 240,
+      "id": "3e319e8c5fd302f6"
+    },
+    {
+      "filename": "一、记忆概述.json",
+      "title": "一、记忆概述",
+      "description": "一、记忆概述",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 57,
+      "id": "d2cbef5b1fddad78"
+    },
+    {
+      "filename": "注意品质与分类.json",
+      "title": "注意品质与分类专题",
+      "description": "无意注意、有意注意、有意后注意；注意的四种品质（广度、稳定性、分配、转移）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "火灾",
-        "消防",
-        "逃生",
-        "安全"
+        "注意",
+        "注意分类",
+        "注意品质",
+        "无意注意",
+        "有意注意"
       ],
-      "wordCount": 1265,
-      "id": "33c5e8b303ea8044"
+      "wordCount": 1042,
+      "id": "8a74799c73e25f42"
     },
     {
-      "filename": "台风防范指南.json",
-      "title": "台风防范指南",
-      "description": "台风的形成、预警等级及防范措施",
-      "category": "生活通识/自然灾害",
+      "filename": "情绪调节与情商.json",
+      "title": "情绪调节与情商专题",
+      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "台风",
-        "自然灾害",
-        "风暴",
-        "防汛"
+        "情绪调节",
+        "情商",
+        "Gross模型",
+        "Goleman"
       ],
-      "wordCount": 943,
-      "id": "2411eb1484625054"
+      "wordCount": 1222,
+      "id": "5816314001b8e360"
     },
     {
-      "filename": "埃里克森心理社会发展阶段.json",
-      "title": "埃里克森心理社会发展阶段专题",
-      "description": "埃里克森八阶段论：每阶段的心理危机、发展任务及与皮亚杰的对应关系",
-      "category": "心理学/发展心理学",
+      "filename": "情绪理论.json",
+      "title": "情绪理论专题",
+      "description": "詹姆斯-兰格理论、坎农-巴德理论、沙赫特-辛格认知理论、拉扎勒斯认知评价理论",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "埃里克森",
-        "心理社会发展",
-        "自我同一性",
-        "信任"
+        "情绪理论",
+        "詹姆斯-兰格",
+        "沙赫特-辛格",
+        "认知评价"
       ],
-      "wordCount": 1331,
-      "id": "4ffa80d1b2387788"
+      "wordCount": 807,
+      "id": "b167ac6bea8adc57"
     },
     {
-      "filename": "备考重点.json",
-      "title": "备考重点",
-      "description": "备考重点",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 86,
-      "id": "65688bbdb0dcc3d7"
-    },
-    {
-      "filename": "道德发展.json",
-      "title": "道德发展专题",
-      "description": "科尔伯格三水平六阶段理论、Piaget的道德发展理论、道德发展与认知发展的关系",
-      "category": "心理学/发展心理学",
+      "filename": "压力与应对.json",
+      "title": "压力与应对专题",
+      "description": "压力的定义与类型、压力反应、生理应激机制、应对策略",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "道德发展",
-        "科尔伯格",
-        "前习俗",
-        "习俗",
-        "后习俗"
+        "压力",
+        "应对策略",
+        "应激",
+        "压力源"
       ],
-      "wordCount": 1102,
-      "id": "d726a2e255cb8b6d"
+      "wordCount": 1241,
+      "id": "5c5c24851901db22"
     },
     {
-      "filename": "二，第一阶段：感觉运动期（0-2岁）.json",
-      "title": "二，第一阶段：感觉运动期（0-2岁）",
-      "description": "二，第一阶段：感觉运动期（0-2岁）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 363,
-      "id": "a57a6c1c1414145b"
-    },
-    {
-      "filename": "二，最近发展区（ZPD）.json",
-      "title": "二，最近发展区（ZPD）",
-      "description": "二，最近发展区（ZPD）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 279,
-      "id": "489c2eb19011a5fa"
-    },
-    {
-      "filename": "六，各阶段对比.json",
-      "title": "六，各阶段对比",
-      "description": "六，各阶段对比",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 148,
-      "id": "834f71fd1934278e"
-    },
-    {
-      "filename": "六，维果茨基 vs 皮亚杰.json",
-      "title": "六，维果茨基 vs 皮亚杰",
-      "description": "六，维果茨基 vs 皮亚杰",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 135,
-      "id": "e7c688f8f7a1f9d1"
-    },
-    {
-      "filename": "七，相关概念：元认知与自我调节.json",
-      "title": "七，相关概念：元认知与自我调节",
-      "description": "七，相关概念：元认知与自我调节",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 87,
-      "id": "f889d15d83da4b12"
-    },
-    {
-      "filename": "三，第二阶段：前运算期（2-7岁）.json",
-      "title": "三，第二阶段：前运算期（2-7岁）",
-      "description": "三，第二阶段：前运算期（2-7岁）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 490,
-      "id": "e5edeac0be5efa7b"
-    },
-    {
-      "filename": "三，脚手架（Scaffolding）.json",
-      "title": "三，脚手架（Scaffolding）",
-      "description": "三，脚手架（Scaffolding）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 285,
-      "id": "19e74ca235498bd4"
-    },
-    {
-      "filename": "四，第三阶段：具体运算期（7-11岁）.json",
-      "title": "四，第三阶段：具体运算期（7-11岁）",
-      "description": "四，第三阶段：具体运算期（7-11岁）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 301,
-      "id": "6f51a1e819c832ac"
+      "filename": "人格评估方法.json",
+      "title": "人格评估方法专题",
+      "description": "人格评估的主要方法：自陈量表、投射测验、行为观察、评价量表",
+      "category": "心理学/人格心理学",
+      "tags": [
+        "人格评估",
+        "MMPI",
+        "投射测验",
+        "罗夏墨迹",
+        "16PF"
+      ],
+      "wordCount": 1495,
+      "id": "f38c16be70111a8a"
     }
   ]
 }

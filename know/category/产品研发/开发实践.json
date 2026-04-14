@@ -1,27 +1,9 @@
 {
   "meta": {
     "category": "产品研发/开发实践",
-    "count": 12
+    "count": 2
   },
   "articles": [
-    {
-      "filename": "参考资料.json",
-      "title": "参考资料",
-      "description": "参考资料",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 136,
-      "id": "12829404f8be0ee8"
-    },
-    {
-      "filename": "代码仓库.json",
-      "title": "代码仓库",
-      "description": "代码仓库",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 69,
-      "id": "c39509b014066ebd"
-    },
     {
       "filename": "二、我踩过的 10 个坑.json",
       "title": "二、我踩过的 10 个坑",
@@ -32,15 +14,6 @@
       "id": "96b0ec3664bf24a4"
     },
     {
-      "filename": "技术实现细节.json",
-      "title": "技术实现细节",
-      "description": "技术实现细节",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 339,
-      "id": "8a70bd27f942079b"
-    },
-    {
       "filename": "解决方案.json",
       "title": "解决方案",
       "description": "解决方案",
@@ -48,69 +21,6 @@
       "tags": [],
       "wordCount": 3044,
       "id": "90f366c237a3b80a"
-    },
-    {
-      "filename": "三、总结：避坑指南.json",
-      "title": "三、总结：避坑指南",
-      "description": "三、总结：避坑指南",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 131,
-      "id": "be6e4c6ba8253fd2"
-    },
-    {
-      "filename": "四、写在最后.json",
-      "title": "四、写在最后",
-      "description": "四、写在最后",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 111,
-      "id": "ab593e16ca920e3f"
-    },
-    {
-      "filename": "问题背景.json",
-      "title": "问题背景",
-      "description": "问题背景",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 114,
-      "id": "9ce2f4646350f0aa"
-    },
-    {
-      "filename": "一、为什么写这篇文章？.json",
-      "title": "一、为什么写这篇文章？",
-      "description": "一、为什么写这篇文章？",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 134,
-      "id": "3d2513d66383d7e2"
-    },
-    {
-      "filename": "引言.json",
-      "title": "引言",
-      "description": "引言",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 87,
-      "id": "4fdfff8f0da17668"
-    },
-    {
-      "filename": "遇到的问题及解决方案.json",
-      "title": "遇到的问题及解决方案",
-      "description": "遇到的问题及解决方案",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 304,
-      "id": "2a5ab236c8d6ea14"
-    },
-    {
-      "filename": "总结.json",
-      "title": "总结",
-      "description": "总结",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 238,
-      "id": "c318eea87769a5ed"
     }
   ]
 }

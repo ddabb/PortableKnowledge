@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "时间管理",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "高效学习方法指南.json",
+      "title": "高效学习方法指南",
+      "description": "基于科学研究的学习方法和技巧",
+      "category": "认知思维",
+      "tags": [
+        "学习方法",
+        "记忆技巧",
+        "时间管理"
+      ],
+      "wordCount": 2015,
+      "id": "a8678438de58a663"
+    }
+  ]
+}

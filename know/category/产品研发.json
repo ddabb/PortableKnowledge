@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "category": "产品研发",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "开发实践指南.json",
+      "title": "开发实践指南",
+      "description": "小程序开发实践经验、问题解决方案和避坑指南",
+      "category": "产品研发",
+      "tags": [
+        "开发实践",
+        "小程序开发",
+        "问题解决"
+      ],
+      "wordCount": 1291,
+      "id": "76404da571d64eb7"
+    },
+    {
+      "filename": "开源生态指南.json",
+      "title": "开源生态指南",
+      "description": "开源项目的创建、维护和发展指南",
+      "category": "产品研发",
+      "tags": [
+        "开源",
+        "项目管理",
+        "代码贡献"
+      ],
+      "wordCount": 1774,
+      "id": "a9bd3b68a930948b"
+    }
+  ]
+}

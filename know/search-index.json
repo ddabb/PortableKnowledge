@@ -1,5 +1,29 @@
 [
   {
+    "id": "76404da571d64eb7",
+    "title": "开发实践指南",
+    "description": "小程序开发实践经验、问题解决方案和避坑指南",
+    "category": "产品研发",
+    "tags": [
+      "开发实践",
+      "小程序开发",
+      "问题解决"
+    ],
+    "filename": "开发实践指南.json"
+  },
+  {
+    "id": "a9bd3b68a930948b",
+    "title": "开源生态指南",
+    "description": "开源项目的创建、维护和发展指南",
+    "category": "产品研发",
+    "tags": [
+      "开源",
+      "项目管理",
+      "代码贡献"
+    ],
+    "filename": "开源生态指南.json"
+  },
+  {
     "id": "8f2b08b0c76cfa40",
     "title": "二、我每天必用的 5 个工具",
     "description": "二、我每天必用的 5 个工具",
@@ -304,36 +328,12 @@
     "filename": "一、一个普遍的现象.json"
   },
   {
-    "id": "12829404f8be0ee8",
-    "title": "参考资料",
-    "description": "参考资料",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "参考资料.json"
-  },
-  {
-    "id": "c39509b014066ebd",
-    "title": "代码仓库",
-    "description": "代码仓库",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "代码仓库.json"
-  },
-  {
     "id": "96b0ec3664bf24a4",
     "title": "二、我踩过的 10 个坑",
     "description": "二、我踩过的 10 个坑",
     "category": "产品研发/开发实践",
     "tags": [],
     "filename": "二、我踩过的 10 个坑.json"
-  },
-  {
-    "id": "8a70bd27f942079b",
-    "title": "技术实现细节",
-    "description": "技术实现细节",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "技术实现细节.json"
   },
   {
     "id": "90f366c237a3b80a",
@@ -344,92 +344,12 @@
     "filename": "解决方案.json"
   },
   {
-    "id": "be6e4c6ba8253fd2",
-    "title": "三、总结：避坑指南",
-    "description": "三、总结：避坑指南",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "三、总结：避坑指南.json"
-  },
-  {
-    "id": "ab593e16ca920e3f",
-    "title": "四、写在最后",
-    "description": "四、写在最后",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "四、写在最后.json"
-  },
-  {
-    "id": "9ce2f4646350f0aa",
-    "title": "问题背景",
-    "description": "问题背景",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "问题背景.json"
-  },
-  {
-    "id": "3d2513d66383d7e2",
-    "title": "一、为什么写这篇文章？",
-    "description": "一、为什么写这篇文章？",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "一、为什么写这篇文章？.json"
-  },
-  {
-    "id": "4fdfff8f0da17668",
-    "title": "引言",
-    "description": "引言",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "引言.json"
-  },
-  {
-    "id": "2a5ab236c8d6ea14",
-    "title": "遇到的问题及解决方案",
-    "description": "遇到的问题及解决方案",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "遇到的问题及解决方案.json"
-  },
-  {
-    "id": "c318eea87769a5ed",
-    "title": "总结",
-    "description": "总结",
-    "category": "产品研发/开发实践",
-    "tags": [],
-    "filename": "总结.json"
-  },
-  {
     "id": "1b227b0c4bb214af",
     "title": "二、零服务器的架构设计",
     "description": "二、零服务器的架构设计",
     "category": "产品研发/开源生态",
     "tags": [],
     "filename": "二、零服务器的架构设计.json"
-  },
-  {
-    "id": "4271b888b5dd9508",
-    "title": "二、为什么选择 MIT？",
-    "description": "二、为什么选择 MIT？",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "二、为什么选择 MIT？.json"
-  },
-  {
-    "id": "eeecc2653bac6f7c",
-    "title": "附录：项目地址",
-    "description": "附录：项目地址",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "附录：项目地址.json"
-  },
-  {
-    "id": "0337b7ec9e160ff1",
-    "title": "功能",
-    "description": "功能",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "功能.json"
   },
   {
     "id": "e218a93b6d3a1bcb",
@@ -440,52 +360,12 @@
     "filename": "六、你可以做什么？.json"
   },
   {
-    "id": "35a30a3d62924998",
-    "title": "六、写给想开源的你",
-    "description": "六、写给想开源的你",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "六、写给想开源的你.json"
-  },
-  {
-    "id": "8f7fba380fb5de1e",
-    "title": "七、写在最后",
-    "description": "七、写在最后",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "七、写在最后.json"
-  },
-  {
     "id": "c20aa1eb9b0b023f",
     "title": "三、开源：MIT 协议",
     "description": "三、开源：MIT 协议",
     "category": "产品研发/开源生态",
     "tags": [],
     "filename": "三、开源：MIT 协议.json"
-  },
-  {
-    "id": "d9f29afc40d77937",
-    "title": "三、开源的「得与失」",
-    "description": "三、开源的「得与失」",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "三、开源的「得与失」.json"
-  },
-  {
-    "id": "3f8790b456d489ca",
-    "title": "使用",
-    "description": "使用",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "使用.json"
-  },
-  {
-    "id": "ec3d38fac6d6ac7e",
-    "title": "四、开源的正确姿势",
-    "description": "四、开源的正确姿势",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "四、开源的正确姿势.json"
   },
   {
     "id": "f88511f4bbcccc37",
@@ -504,36 +384,12 @@
     "filename": "五、开源项目的生存之道.json"
   },
   {
-    "id": "28f658338ef046e2",
-    "title": "五、如果你想开源",
-    "description": "五、如果你想开源",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "五、如果你想开源.json"
-  },
-  {
-    "id": "bceb49b0143d3353",
-    "title": "协议",
-    "description": "协议",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "协议.json"
-  },
-  {
     "id": "da1432b1e62f1fab",
     "title": "一、什么是 MIT 协议？",
     "description": "一、什么是 MIT 协议？",
     "category": "产品研发/开源生态",
     "tags": [],
     "filename": "一、什么是 MIT 协议？.json"
-  },
-  {
-    "id": "0fd0307b21433abd",
-    "title": "一、一个「离谱」的产品",
-    "description": "一、一个「离谱」的产品",
-    "category": "产品研发/开源生态",
-    "tags": [],
-    "filename": "一、一个「离谱」的产品.json"
   },
   {
     "id": "344415675d41a97d",
@@ -3394,6 +3250,18 @@
     "filename": "招聘与配置.json"
   },
   {
+    "id": "a8678438de58a663",
+    "title": "高效学习方法指南",
+    "description": "基于科学研究的学习方法和技巧",
+    "category": "认知思维",
+    "tags": [
+      "学习方法",
+      "记忆技巧",
+      "时间管理"
+    ],
+    "filename": "高效学习方法指南.json"
+  },
+  {
     "id": "f4412286524a7e40",
     "title": "沉没成本谬误：为什么你舍不得放弃那些已经亏掉的东西？",
     "description": "沉没成本谬误（Sunk Cost Fallacy）：已经发生无法收回的成本，不应该影响现在的决策。但人们总是因为'放弃等于浪费'而继续错误的选择。看烂电影不退场、不分手因为'在一起太久了'都是典型例子。",
@@ -4299,46 +4167,6 @@
     "filename": "SWOT分析法.json"
   },
   {
-    "id": "83f96c05cb77dab8",
-    "title": "01_专业领域",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "01_专业领域.json"
-  },
-  {
-    "id": "84bea3f998d50be1",
-    "title": "02_兴趣爱好",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "02_兴趣爱好.json"
-  },
-  {
-    "id": "a8e07c7281123e2d",
-    "title": "03_生活技能",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "03_生活技能.json"
-  },
-  {
-    "id": "249a897652b5eb5b",
-    "title": "04_个人成长",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "04_个人成长.json"
-  },
-  {
-    "id": "8cc367a2b483e819",
-    "title": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
-    "description": "二、艾宾浩斯遗忘曲线：记忆的自然法则",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "二、艾宾浩斯遗忘曲线：记忆的自然法则.json"
-  },
-  {
     "id": "fb7ad3b76e78caf7",
     "title": "二、刻意练习的六个核心特征",
     "description": "二、刻意练习的六个核心特征",
@@ -4371,36 +4199,12 @@
     "filename": "高效学习方法_科学提升学习能力的实用指南.json"
   },
   {
-    "id": "08f40b4a9752a3d2",
-    "title": "个人思考",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "个人思考.json"
-  },
-  {
     "id": "4f57d8bf2cc133f1",
     "title": "关联知识",
     "description": "",
     "category": "认知思维/学习方法",
     "tags": [],
     "filename": "关联知识.json"
-  },
-  {
-    "id": "53e013ed02d34a1f",
-    "title": "核心内容",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "核心内容.json"
-  },
-  {
-    "id": "79b9770ad3ad29d8",
-    "title": "六、间隔重复适合学什么",
-    "description": "六、间隔重复适合学什么",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "六、间隔重复适合学什么.json"
   },
   {
     "id": "f2975033c685ad40",
@@ -4411,36 +4215,12 @@
     "filename": "六、刻意练习的常见陷阱.json"
   },
   {
-    "id": "1c77573df7a1d467",
-    "title": "七、制作高效闪卡的技巧",
-    "description": "七、制作高效闪卡的技巧",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "七、制作高效闪卡的技巧.json"
-  },
-  {
-    "id": "de2b3cf532191810",
-    "title": "三、集中复习为什么低效",
-    "description": "三、集中复习为什么低效",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "三、集中复习为什么低效.json"
-  },
-  {
     "id": "957af2675ee18b5b",
     "title": "三、刻意练习 vs 天赋",
     "description": "三、刻意练习 vs 天赋",
     "category": "认知思维/学习方法",
     "tags": [],
     "filename": "三、刻意练习 vs 天赋.json"
-  },
-  {
-    "id": "1336a80ff70a9bb5",
-    "title": "实际应用",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "实际应用.json"
   },
   {
     "id": "4669edc12a0162fb",
@@ -4451,68 +4231,12 @@
     "filename": "四、刻意练习在不同领域的应用.json"
   },
   {
-    "id": "696e29f6317beed1",
-    "title": "四、什么是间隔重复",
-    "description": "四、什么是间隔重复",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "四、什么是间隔重复.json"
-  },
-  {
     "id": "1ebf9180528e2f31",
     "title": "五、如何设计自己的刻意练习计划",
     "description": "五、如何设计自己的刻意练习计划",
     "category": "认知思维/学习方法",
     "tags": [],
     "filename": "五、如何设计自己的刻意练习计划.json"
-  },
-  {
-    "id": "a1e778cb963f701f",
-    "title": "五、如何使用间隔重复",
-    "description": "五、如何使用间隔重复",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "五、如何使用间隔重复.json"
-  },
-  {
-    "id": "02f0b83724eaef56",
-    "title": "相关资源",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "相关资源.json"
-  },
-  {
-    "id": "53f43299e784fc12",
-    "title": "详细说明",
-    "description": "",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "详细说明.json"
-  },
-  {
-    "id": "dec51d28a342100a",
-    "title": "一、被误解的·一万小时定律·",
-    "description": "一、被误解的·一万小时定律·",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "一、被误解的·一万小时定律·.json"
-  },
-  {
-    "id": "4edcb268b01b6db4",
-    "title": "一、为什么你学的东西总是记不住",
-    "description": "一、为什么你学的东西总是记不住",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "一、为什么你学的东西总是记不住.json"
-  },
-  {
-    "id": "6d5cdb444816eb7c",
-    "title": "总结",
-    "description": "总结",
-    "category": "认知思维/学习方法",
-    "tags": [],
-    "filename": "总结.json"
   },
   {
     "id": "9fcc2dd6613e23fa",
@@ -8035,6 +7759,18 @@
     "filename": "PMBOK的发展.json"
   },
   {
+    "id": "8ad4392b2ed88b68",
+    "title": "健康养生指南",
+    "description": "全面的健康知识和养生方法",
+    "category": "生活通识",
+    "tags": [
+      "健康",
+      "养生",
+      "疾病预防"
+    ],
+    "filename": "健康养生指南.json"
+  },
+  {
     "id": "629f6b2a5047f4d8",
     "title": "二、常见诈骗类型",
     "description": "二、常见诈骗类型",
@@ -10614,6 +10350,18 @@
     "filename": "中药药理学.json"
   },
   {
+    "id": "16b2c99941ae0ae9",
+    "title": "情绪与压力管理指南",
+    "description": "职场情绪与压力的识别、管理和应对策略",
+    "category": "职场生存",
+    "tags": [
+      "情绪管理",
+      "压力管理",
+      "职场心理健康"
+    ],
+    "filename": "情绪与压力管理指南.json"
+  },
+  {
     "id": "07f49de7bf796592",
     "title": "打造个人品牌的实用攻略：从0到1建立影响力资产",
     "description": "打造个人品牌的实用攻略：从0到1建立影响力资产的核心知识点汇总",
@@ -11299,472 +11047,6 @@
       "2N"
     ],
     "filename": "N+1代通知金适用情形.json"
-  },
-  {
-    "id": "869d518749f3627a",
-    "title": "八、悲伤中的成长",
-    "description": "八、悲伤中的成长",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "八、悲伤中的成长.json"
-  },
-  {
-    "id": "87cb947632bfc034",
-    "title": "八、每天的自我接纳练习",
-    "description": "八、每天的自我接纳练习",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "八、每天的自我接纳练习.json"
-  },
-  {
-    "id": "7cdbea5cfcf49797",
-    "title": "八、什么时候需要专业帮助",
-    "description": "八、什么时候需要专业帮助",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "八、什么时候需要专业帮助.json"
-  },
-  {
-    "id": "f939fdb17c4fffb5",
-    "title": "八、与焦虑共处",
-    "description": "八、与焦虑共处",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "八、与焦虑共处.json"
-  },
-  {
-    "id": "1f6a2fd0a66f724c",
-    "title": "八、执行清单",
-    "description": "八、执行清单",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "八、执行清单.json"
-  },
-  {
-    "id": "ab21af7d1491ca07",
-    "title": "二、愤怒的触发因素",
-    "description": "二、愤怒的触发因素",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "二、愤怒的触发因素.json"
-  },
-  {
-    "id": "e2cf7e1ead8e1b78",
-    "title": "二、焦虑的类型",
-    "description": "二、焦虑的类型",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "二、焦虑的类型.json"
-  },
-  {
-    "id": "bef3800b99ba7aa6",
-    "title": "二、为什么不接纳自己",
-    "description": "二、为什么不接纳自己",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "二、为什么不接纳自己.json"
-  },
-  {
-    "id": "89e67a1d71cb9021",
-    "title": "二、为什么会拖延",
-    "description": "二、为什么会拖延",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "二、为什么会拖延.json"
-  },
-  {
-    "id": "3ad2754e81c0b909",
-    "title": "二、压力的影响",
-    "description": "二、压力的影响",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "二、压力的影响.json"
-  },
-  {
-    "id": "44fbaecf0debb12e",
-    "title": "二、正常悲伤 vs 复杂性悲伤",
-    "description": "二、正常悲伤 vs 复杂性悲伤",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "二、正常悲伤 vs 复杂性悲伤.json"
-  },
-  {
-    "id": "0905fd1a2a689a25",
-    "title": "九、常见问题",
-    "description": "九、常见问题",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "九、常见问题.json"
-  },
-  {
-    "id": "161e9fe830c8727e",
-    "title": "九、建立抗压能力",
-    "description": "九、建立抗压能力",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "九、建立抗压能力.json"
-  },
-  {
-    "id": "511404015fdb3556",
-    "title": "九、什么时候需要寻求帮助",
-    "description": "九、什么时候需要寻求帮助",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "九、什么时候需要寻求帮助.json"
-  },
-  {
-    "id": "314f8cb8744c2732",
-    "title": "九、执行清单",
-    "description": "九、执行清单",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "九、执行清单.json"
-  },
-  {
-    "id": "7c3e996b31f63437",
-    "title": "六、常见问题",
-    "description": "六、常见问题",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "六、常见问题.json"
-  },
-  {
-    "id": "7c0fbf8d0b013776",
-    "title": "六、陪伴悲伤中的人",
-    "description": "六、陪伴悲伤中的人",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "六、陪伴悲伤中的人.json"
-  },
-  {
-    "id": "33c42287c705e97f",
-    "title": "六、特定场景的焦虑缓解",
-    "description": "六、特定场景的焦虑缓解",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "六、特定场景的焦虑缓解.json"
-  },
-  {
-    "id": "e5c5c810ad511583",
-    "title": "六、特定场景的压力应对",
-    "description": "六、特定场景的压力应对",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "六、特定场景的压力应对.json"
-  },
-  {
-    "id": "58179b1040cac9ff",
-    "title": "六、特殊情况处理",
-    "description": "六、特殊情况处理",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "六、特殊情况处理.json"
-  },
-  {
-    "id": "ca5097501587a4b5",
-    "title": "六、自我接纳的常见误区",
-    "description": "六、自我接纳的常见误区",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "六、自我接纳的常见误区.json"
-  },
-  {
-    "id": "46d471389faec265",
-    "title": "七、悲伤中的自我对话",
-    "description": "七、悲伤中的自我对话",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "七、悲伤中的自我对话.json"
-  },
-  {
-    "id": "45cb28d21ab08ce2",
-    "title": "七、常见误区",
-    "description": "七、常见误区",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "七、常见误区.json"
-  },
-  {
-    "id": "8cfda59ce71672f0",
-    "title": "七、什么时候需要专业帮助",
-    "description": "七、什么时候需要专业帮助",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "七、什么时候需要专业帮助.json"
-  },
-  {
-    "id": "f39cba8c51afde6c",
-    "title": "七、压力的积极视角",
-    "description": "七、压力的积极视角",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "七、压力的积极视角.json"
-  },
-  {
-    "id": "a537c12e2632eb75",
-    "title": "七、执行清单",
-    "description": "七、执行清单",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "七、执行清单.json"
-  },
-  {
-    "id": "3f44a437674022e2",
-    "title": "七、自我接纳与成长",
-    "description": "七、自我接纳与成长",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "七、自我接纳与成长.json"
-  },
-  {
-    "id": "88b19b1e76c62bb8",
-    "title": "情绪调节的科学方法",
-    "description": "情绪调节的科学方法的核心知识点汇总",
-    "category": "职场生存/情绪与压力",
-    "tags": [
-      "情商",
-      "心理健康",
-      "情绪调节"
-    ],
-    "filename": "情绪调节的科学方法.json"
-  },
-  {
-    "id": "34b5cfe0c7ce8657",
-    "title": "如何培养积极心态：转变思维的艺术",
-    "description": "如何培养积极心态：转变思维的艺术的核心知识点汇总",
-    "category": "职场生存/情绪与压力",
-    "tags": [
-      "幸福感",
-      "积极心理学",
-      "心态"
-    ],
-    "filename": "如何培养积极心态_转变思维的艺术.json"
-  },
-  {
-    "id": "963a4d68e7f53d97",
-    "title": "三、愤怒管理的核心方法",
-    "description": "三、愤怒管理的核心方法",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "三、愤怒管理的核心方法.json"
-  },
-  {
-    "id": "5fc677b8bf38664e",
-    "title": "三、焦虑的认知来源",
-    "description": "三、焦虑的认知来源",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "三、焦虑的认知来源.json"
-  },
-  {
-    "id": "d7d97fa7197d581c",
-    "title": "三、克服拖延的方法",
-    "description": "三、克服拖延的方法",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "三、克服拖延的方法.json"
-  },
-  {
-    "id": "ea3a7f9ccdddd4d1",
-    "title": "三、面对悲伤的方法",
-    "description": "三、面对悲伤的方法",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "三、面对悲伤的方法.json"
-  },
-  {
-    "id": "af8435a45c525d3f",
-    "title": "三、压力管理策略",
-    "description": "三、压力管理策略",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "三、压力管理策略.json"
-  },
-  {
-    "id": "04b492260f152fe6",
-    "title": "三、自我接纳的障碍",
-    "description": "三、自我接纳的障碍",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "三、自我接纳的障碍.json"
-  },
-  {
-    "id": "998375cce70c926a",
-    "title": "十、执行清单",
-    "description": "十、执行清单",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "十、执行清单.json"
-  },
-  {
-    "id": "85b81da3e6cce358",
-    "title": "四、缓解焦虑的方法",
-    "description": "四、缓解焦虑的方法",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "四、缓解焦虑的方法.json"
-  },
-  {
-    "id": "5b1c31b3136af7df",
-    "title": "四、建立不拖延的习惯",
-    "description": "四、建立不拖延的习惯",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "四、建立不拖延的习惯.json"
-  },
-  {
-    "id": "7390d698567b8d45",
-    "title": "四、健康表达愤怒",
-    "description": "四、健康表达愤怒",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "四、健康表达愤怒.json"
-  },
-  {
-    "id": "6e4cb98f197b3f95",
-    "title": "四、如何培养自我接纳",
-    "description": "四、如何培养自我接纳",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "四、如何培养自我接纳.json"
-  },
-  {
-    "id": "ee86a290bc4d49ad",
-    "title": "四、长期压力管理",
-    "description": "四、长期压力管理",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "四、长期压力管理.json"
-  },
-  {
-    "id": "dac1496c30d870b2",
-    "title": "四、走出悲伤的阶段",
-    "description": "四、走出悲伤的阶段",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "四、走出悲伤的阶段.json"
-  },
-  {
-    "id": "97835b8cd56ba0ae",
-    "title": "拖延行为的心理机制与行为干预策略",
-    "description": "拖延行为的心理机制与行为干预策略的核心知识点汇总",
-    "category": "职场生存/情绪与压力",
-    "tags": [
-      "心理学",
-      "行为干预",
-      "拖延症"
-    ],
-    "filename": "拖延行为的心理机制与行为干预策略.json"
-  },
-  {
-    "id": "919800de079b2a64",
-    "title": "五、对自己温柔一点",
-    "description": "五、对自己温柔一点",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "五、对自己温柔一点.json"
-  },
-  {
-    "id": "7aff385bbd769acd",
-    "title": "五、面对不同失去的策略",
-    "description": "五、面对不同失去的策略",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "五、面对不同失去的策略.json"
-  },
-  {
-    "id": "dd59e0e8e4738a2f",
-    "title": "五、长期焦虑管理",
-    "description": "五、长期焦虑管理",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "五、长期焦虑管理.json"
-  },
-  {
-    "id": "02a9968fabf885dd",
-    "title": "五、长期情绪管理",
-    "description": "五、长期情绪管理",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "五、长期情绪管理.json"
-  },
-  {
-    "id": "07eb7317bf1ccfc9",
-    "title": "五、职场压力管理",
-    "description": "五、职场压力管理",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "五、职场压力管理.json"
-  },
-  {
-    "id": "4404d1f05dff73e8",
-    "title": "五、自我接纳的具体方法",
-    "description": "五、自我接纳的具体方法",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "五、自我接纳的具体方法.json"
-  },
-  {
-    "id": "a442d30c493cf91a",
-    "title": "一、悲伤的本质",
-    "description": "一、悲伤的本质",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "一、悲伤的本质.json"
-  },
-  {
-    "id": "a9fed58f0f06eeb6",
-    "title": "一、愤怒是什么",
-    "description": "一、愤怒是什么",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "一、愤怒是什么.json"
-  },
-  {
-    "id": "3fe70098c65fecbc",
-    "title": "一、焦虑的本质",
-    "description": "一、焦虑的本质",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "一、焦虑的本质.json"
-  },
-  {
-    "id": "a3cd35529f0869c1",
-    "title": "一、拖延的本质",
-    "description": "一、拖延的本质",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "一、拖延的本质.json"
-  },
-  {
-    "id": "d5be0bdce4d34b34",
-    "title": "一、压力的本质",
-    "description": "一、压力的本质",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "一、压力的本质.json"
-  },
-  {
-    "id": "35a294a630468574",
-    "title": "一、自我接纳是什么",
-    "description": "一、自我接纳是什么",
-    "category": "职场生存/情绪与压力",
-    "tags": [],
-    "filename": "一、自我接纳是什么.json"
-  },
-  {
-    "id": "dd3da769e5257b55",
-    "title": "职场情绪管理：从压力应对到情绪智慧的完整体系",
-    "description": "职场情绪管理：从压力应对到情绪智慧的完整体系的核心知识点汇总",
-    "category": "职场生存/情绪与压力",
-    "tags": [
-      "压力管理",
-      "情商",
-      "心理健康",
-      "职场",
-      "应对策略"
-    ],
-    "filename": "职场情绪管理_从压力应对到情绪智慧的完整体系.json"
   },
   {
     "id": "c26b861be7d55dbf",

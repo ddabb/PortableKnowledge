@@ -1,9 +1,0 @@
-{
-  "filename": "参考资料.json",
-  "title": "参考资料",
-  "description": "参考资料",
-  "category": "产品研发/开发实践",
-  "tags": [],
-  "wordCount": 136,
-  "content": "\n\n## 参考资料\n\n- [pinyin-pro 文档](https://www.npmjs.com/package/pinyin-pro)\n- [微信小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)\n"
-}

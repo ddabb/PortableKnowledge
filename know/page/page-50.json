@@ -1,187 +1,282 @@
 {
   "page": 50,
-  "totalPages": 58,
-  "totalItems": 1149,
+  "totalPages": 53,
+  "totalItems": 1059,
   "items": [
     {
-      "filename": "八、悲伤中的成长.json",
-      "title": "八、悲伤中的成长",
-      "description": "八、悲伤中的成长",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 271,
-      "id": "869d518749f3627a"
+      "filename": "投资项目资本预算.json",
+      "title": "投资项目资本预算",
+      "description": "CPA财务成本管理投资项目资本预算章节核心知识点，包括投资项目评价方法和现金流量估计",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "资本预算",
+        "投资评价"
+      ],
+      "wordCount": 1294,
+      "id": "55190ec6c81061af"
     },
     {
-      "filename": "八、每天的自我接纳练习.json",
-      "title": "八、每天的自我接纳练习",
-      "description": "八、每天的自我接纳练习",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 247,
-      "id": "87cb947632bfc034"
+      "filename": "业绩评价.json",
+      "title": "业绩评价",
+      "description": "CPA财务成本管理业绩评价章节核心知识点，包括责任中心业绩评价和平衡计分卡",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "业绩评价",
+        "责任中心"
+      ],
+      "wordCount": 1454,
+      "id": "d53ebb5704b79ab8"
     },
     {
-      "filename": "八、什么时候需要专业帮助.json",
-      "title": "八、什么时候需要专业帮助",
-      "description": "八、什么时候需要专业帮助",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 256,
-      "id": "7cdbea5cfcf49797"
+      "filename": "营运资本管理.json",
+      "title": "营运资本管理",
+      "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "营运资本管理",
+        "现金管理"
+      ],
+      "wordCount": 1667,
+      "id": "2d7e42c1f5481c14"
     },
     {
-      "filename": "八、与焦虑共处.json",
-      "title": "八、与焦虑共处",
-      "description": "八、与焦虑共处",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 277,
-      "id": "f939fdb17c4fffb5"
+      "filename": "长期筹资决策.json",
+      "title": "长期筹资决策",
+      "description": "CPA财务成本管理长期筹资决策章节核心知识点，包括长期债务筹资和权益筹资",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "长期筹资决策",
+        "债务筹资"
+      ],
+      "wordCount": 2247,
+      "id": "670d126dde85e887"
     },
     {
-      "filename": "八、执行清单.json",
-      "title": "八、执行清单",
-      "description": "八、执行清单",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 77,
-      "id": "1f6a2fd0a66f724c"
+      "filename": "资本成本.json",
+      "title": "资本成本",
+      "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "资本成本",
+        "加权平均资本成本"
+      ],
+      "wordCount": 1077,
+      "id": "b92a62598fbda8c6"
     },
     {
-      "filename": "二、愤怒的触发因素.json",
-      "title": "二、愤怒的触发因素",
-      "description": "二、愤怒的触发因素",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 263,
-      "id": "ab21af7d1491ca07"
+      "filename": "资本结构.json",
+      "title": "资本结构",
+      "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "资本结构",
+        "最优资本结构"
+      ],
+      "wordCount": 1105,
+      "id": "132d229e1b8c363c"
     },
     {
-      "filename": "二、焦虑的类型.json",
-      "title": "二、焦虑的类型",
-      "description": "二、焦虑的类型",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 267,
-      "id": "e2cf7e1ead8e1b78"
+      "filename": "作业成本法.json",
+      "title": "作业成本法",
+      "description": "CPA财务成本管理作业成本法章节核心知识点，包括作业成本的计算和应用",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "作业成本法",
+        "作业成本计算"
+      ],
+      "wordCount": 1082,
+      "id": "95515ebefa36205d"
     },
     {
-      "filename": "二、为什么不接纳自己.json",
-      "title": "二、为什么不接纳自己",
-      "description": "二、为什么不接纳自己",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 324,
-      "id": "bef3800b99ba7aa6"
+      "filename": "风险与风险管理.json",
+      "title": "风险与风险管理",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "风险",
+        "风险管理",
+        "CPA"
+      ],
+      "wordCount": 325,
+      "id": "c8ef74778c2a8653"
     },
     {
-      "filename": "二、为什么会拖延.json",
-      "title": "二、为什么会拖延",
-      "description": "二、为什么会拖延",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 338,
-      "id": "89e67a1d71cb9021"
+      "filename": "公司治理.json",
+      "title": "公司治理",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "公司治理",
+        "董事会",
+        "监事会",
+        "CPA"
+      ],
+      "wordCount": 319,
+      "id": "e25e79384e2ea402"
     },
     {
-      "filename": "二、压力的影响.json",
-      "title": "二、压力的影响",
-      "description": "二、压力的影响",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 206,
-      "id": "3ad2754e81c0b909"
+      "filename": "国际化经营战略.json",
+      "title": "国际化经营战略",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "国际化经营",
+        "战略",
+        "CPA"
+      ],
+      "wordCount": 305,
+      "id": "d60db92a0a1e612d"
     },
     {
-      "filename": "二、正常悲伤 vs 复杂性悲伤.json",
-      "title": "二、正常悲伤 vs 复杂性悲伤",
-      "description": "二、正常悲伤 vs 复杂性悲伤",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 240,
-      "id": "44fbaecf0debb12e"
+      "filename": "内部控制.json",
+      "title": "内部控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "内部控制",
+        "COSO框架",
+        "CPA"
+      ],
+      "wordCount": 353,
+      "id": "2f119a4f008efbc3"
     },
     {
-      "filename": "九、常见问题.json",
-      "title": "九、常见问题",
-      "description": "九、常见问题",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 163,
-      "id": "0905fd1a2a689a25"
+      "filename": "数字化转型战略.json",
+      "title": "数字化转型战略",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "数字化转型",
+        "战略",
+        "CPA"
+      ],
+      "wordCount": 395,
+      "id": "905b4983f825a260"
     },
     {
-      "filename": "九、建立抗压能力.json",
-      "title": "九、建立抗压能力",
-      "description": "九、建立抗压能力",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 268,
-      "id": "161e9fe830c8727e"
+      "filename": "战略分析.json",
+      "title": "战略分析",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略分析",
+        "外部环境",
+        "内部环境",
+        "CPA"
+      ],
+      "wordCount": 391,
+      "id": "d20a69426118ea9f"
     },
     {
-      "filename": "九、什么时候需要寻求帮助.json",
-      "title": "九、什么时候需要寻求帮助",
-      "description": "九、什么时候需要寻求帮助",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 248,
-      "id": "511404015fdb3556"
+      "filename": "战略管理概述.json",
+      "title": "战略管理概述",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略管理",
+        "公司战略",
+        "CPA"
+      ],
+      "wordCount": 272,
+      "id": "fc146a253ac6f230"
     },
     {
-      "filename": "九、执行清单.json",
-      "title": "九、执行清单",
-      "description": "九、执行清单",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 82,
-      "id": "314f8cb8744c2732"
+      "filename": "战略控制.json",
+      "title": "战略控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略控制",
+        "预算控制",
+        "平衡计分卡",
+        "CPA"
+      ],
+      "wordCount": 276,
+      "id": "f49cbddb991d1ae2"
     },
     {
-      "filename": "六、常见问题.json",
-      "title": "六、常见问题",
-      "description": "六、常见问题",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 170,
-      "id": "7c3e996b31f63437"
+      "filename": "战略实施.json",
+      "title": "战略实施",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略实施",
+        "组织结构",
+        "企业文化",
+        "CPA"
+      ],
+      "wordCount": 260,
+      "id": "43412207cdc7f6c8"
     },
     {
-      "filename": "六、陪伴悲伤中的人.json",
-      "title": "六、陪伴悲伤中的人",
-      "description": "六、陪伴悲伤中的人",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 253,
-      "id": "7c0fbf8d0b013776"
+      "filename": "战略选择.json",
+      "title": "战略选择",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略选择",
+        "总体战略",
+        "业务单位战略",
+        "CPA"
+      ],
+      "wordCount": 335,
+      "id": "e8dbbb72eb78980a"
     },
     {
-      "filename": "六、特定场景的焦虑缓解.json",
-      "title": "六、特定场景的焦虑缓解",
-      "description": "六、特定场景的焦虑缓解",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 332,
-      "id": "33c42287c705e97f"
+      "filename": "存货.json",
+      "title": "存货",
+      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "存货",
+        "计量方法"
+      ],
+      "wordCount": 1214,
+      "id": "f4d27b56c0abc7b6"
     },
     {
-      "filename": "六、特定场景的压力应对.json",
-      "title": "六、特定场景的压力应对",
-      "description": "六、特定场景的压力应对",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 351,
-      "id": "e5c5c810ad511583"
+      "filename": "短期借款.json",
+      "title": "短期借款",
+      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "短期借款",
+        "利息核算"
+      ],
+      "wordCount": 674,
+      "id": "2ce4bfe39200714a"
     },
     {
-      "filename": "六、特殊情况处理.json",
-      "title": "六、特殊情况处理",
-      "description": "六、特殊情况处理",
-      "category": "职场生存/情绪与压力",
-      "tags": [],
-      "wordCount": 284,
-      "id": "58179b1040cac9ff"
+      "filename": "负债概述.json",
+      "title": "负债概述",
+      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "负债",
+        "确认计量"
+      ],
+      "wordCount": 707,
+      "id": "2a8d3bc844708f18"
     }
   ]
 }

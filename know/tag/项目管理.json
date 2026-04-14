@@ -1,9 +1,22 @@
 {
   "meta": {
     "tag": "项目管理",
-    "count": 53
+    "count": 54
   },
   "articles": [
+    {
+      "filename": "开源生态指南.json",
+      "title": "开源生态指南",
+      "description": "开源项目的创建、维护和发展指南",
+      "category": "产品研发",
+      "tags": [
+        "开源",
+        "项目管理",
+        "代码贡献"
+      ],
+      "wordCount": 1774,
+      "id": "a9bd3b68a930948b"
+    },
     {
       "filename": "项目安全管理.json",
       "title": "项目安全管理",
