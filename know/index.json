@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 554,
-    "totalCategories": 65,
-    "totalTags": 900
+    "totalArticles": 559,
+    "totalCategories": 66,
+    "totalTags": 919
   },
   "categories": [
     {
@@ -150,6 +150,10 @@
       "count": 4
     },
     {
+      "name": "创业指南",
+      "count": 3
+    },
+    {
       "name": "家庭理财/固定收益",
       "count": 3
     },
@@ -166,6 +170,14 @@
       "count": 2
     },
     {
+      "name": "心理学/基础心理学",
+      "count": 2
+    },
+    {
+      "name": "营销增长",
+      "count": 2
+    },
+    {
       "name": "职场生存/个人品牌",
       "count": 2
     },
@@ -179,10 +191,6 @@
     },
     {
       "name": "产品研发",
-      "count": 1
-    },
-    {
-      "name": "创业指南",
       "count": 1
     },
     {
@@ -246,10 +254,6 @@
       "count": 1
     },
     {
-      "name": "营销增长",
-      "count": 1
-    },
-    {
       "name": "职场生存",
       "count": 1
     },
@@ -282,18 +286,46 @@
       "id": "dc049ba1b985faea"
     },
     {
-      "filename": "创业综合指南.json",
-      "title": "创业综合指南",
-      "description": "全面的创业知识，包括商业计划书、融资、财务规划等内容",
+      "filename": "创业融资指南.json",
+      "title": "创业融资指南：从种子轮到C轮的完整路线",
+      "description": "全面解析创业融资各轮次的要点，从种子轮到C轮的完整融资攻略",
       "category": "创业指南",
       "tags": [
-        "创业",
-        "商业计划书",
         "融资",
+        "估值",
+        "VC",
+        "天使投资"
+      ],
+      "wordCount": 909,
+      "id": "ef808d9b1990a647"
+    },
+    {
+      "filename": "创业准备与财务规划.json",
+      "title": "创业准备与财务规划：启动前的六道功课",
+      "description": "创业前必须完成的准备功课与财务规划指南",
+      "category": "创业指南",
+      "tags": [
+        "创业准备",
+        "MVP",
+        "税务",
         "财务规划"
       ],
-      "wordCount": 4533,
-      "id": "21158cd7677610b4"
+      "wordCount": 1253,
+      "id": "653ca3af7e6f7d9d"
+    },
+    {
+      "filename": "商业计划书写作指南.json",
+      "title": "商业计划书写作指南：让投资人3分钟内说Yes",
+      "description": "一份好的BP本质上是一份销售文档，让投资人愿意继续跟你聊",
+      "category": "创业指南",
+      "tags": [
+        "商业计划书",
+        "BP",
+        "创业",
+        "融资"
+      ],
+      "wordCount": 2426,
+      "id": "1df1be4780ea597d"
     },
     {
       "filename": "法律常识综合指南.json",
@@ -309,34 +341,6 @@
       ],
       "wordCount": 4687,
       "id": "47241b8dc8b79d3c"
-    },
-    {
-      "filename": "核心考点.json",
-      "title": "公务员考试核心考点",
-      "description": "公考备考知识体系：行测、申论核心考点",
-      "category": "公务员",
-      "tags": [
-        "公考",
-        "行测",
-        "申论"
-      ],
-      "wordCount": 2401,
-      "id": "7a8272032cf6c22c"
-    },
-    {
-      "filename": "申论综合指南.json",
-      "title": "申论综合指南",
-      "description": "全面的公务员申论知识，包括核心考点、解题技巧、写作模板、大作文框架等内容",
-      "category": "公务员/申论",
-      "tags": [
-        "公务员",
-        "申论",
-        "写作",
-        "大作文",
-        "公文"
-      ],
-      "wordCount": 4762,
-      "id": "8ea80bd803d79bbf"
     }
   ],
   "popularTags": [

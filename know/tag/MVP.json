@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "MVP",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "创业准备与财务规划.json",
+      "title": "创业准备与财务规划：启动前的六道功课",
+      "description": "创业前必须完成的准备功课与财务规划指南",
+      "category": "创业指南",
+      "tags": [
+        "创业准备",
+        "MVP",
+        "税务",
+        "财务规划"
+      ],
+      "wordCount": 1253,
+      "id": "653ca3af7e6f7d9d"
+    }
+  ]
+}

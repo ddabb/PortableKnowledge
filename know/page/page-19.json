@@ -1,8 +1,36 @@
 {
   "page": 19,
   "totalPages": 28,
-  "totalItems": 554,
+  "totalItems": 559,
   "items": [
+    {
+      "filename": "系统运行与维护.json",
+      "title": "系统运行与维护",
+      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "系统运维",
+        "SLA",
+        "ITIL",
+        "软件开发"
+      ],
+      "wordCount": 1220,
+      "id": "7fdb4b2adeb101bf"
+    },
+    {
+      "filename": "需求工程.json",
+      "title": "需求工程",
+      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
+      "category": "软考/综合知识/信息系统开发",
+      "tags": [
+        "需求工程",
+        "需求分析",
+        "SRS",
+        "需求变更"
+      ],
+      "wordCount": 1170,
+      "id": "e6e021df007bc16e"
+    },
     {
       "filename": "裁剪.json",
       "title": "裁剪",
@@ -240,31 +268,6 @@
       ],
       "wordCount": 692,
       "id": "6ec0aaca1247a97f"
-    },
-    {
-      "filename": "项目管理标准.json",
-      "title": "项目管理标准",
-      "description": "本指南基于《项目管理标准》[1]。标准是基于权威、惯例或共识而建立并用作模式或范例的文件。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "指南概述和目的",
-        "项目管理",
-        "PMP"
-      ],
-      "wordCount": 496,
-      "id": "d1462ae426957806"
-    },
-    {
-      "filename": "项目管理的重要性.json",
-      "title": "项目管理的重要性",
-      "description": "项目管理就是将知识、技能、工具与技术应用于项目活动，以满足项目的要求。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理"
-      ],
-      "wordCount": 570,
-      "id": "28fbf90f2e86835c"
     }
   ]
 }

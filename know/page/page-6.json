@@ -1,8 +1,33 @@
 {
   "page": 6,
   "totalPages": 28,
-  "totalItems": 554,
+  "totalItems": 559,
   "items": [
+    {
+      "filename": "劳动关系.json",
+      "title": "劳动关系",
+      "description": "劳动关系的概念、管理和协调策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "劳动关系"
+      ],
+      "wordCount": 774,
+      "id": "fd236277fb520467"
+    },
+    {
+      "filename": "培训开发.json",
+      "title": "培训开发",
+      "description": "培训开发的体系、方法和实施策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "培训",
+        "开发"
+      ],
+      "wordCount": 697,
+      "id": "4b0e8eca0f576f1d"
+    },
     {
       "filename": "核心考点.json",
       "title": "人力资源管理师核心考点",
@@ -228,33 +253,6 @@
       ],
       "wordCount": 709,
       "id": "308a5eef20844165"
-    },
-    {
-      "filename": "规划采购管理.json",
-      "title": "规划采购管理",
-      "description": "规划采购管理是记录项目采购决策、明确采购方法，及识别潜在卖方的过程。",
-      "category": "软考/项目管理/项目采购管理",
-      "tags": [
-        "规划过程组",
-        "规划采购管理",
-        "采购管理",
-        "PMP"
-      ],
-      "wordCount": 572,
-      "id": "4e1cf37abc645ede"
-    },
-    {
-      "filename": "控制采购.json",
-      "title": "控制采购",
-      "description": "控制采购是管理采购关系，监督合同绩效，实施必要的变更和纠偏，以及关闭合同的过程。",
-      "category": "软考/项目管理/项目采购管理",
-      "tags": [
-        "监控过程组",
-        "控制采购",
-        "采购管理"
-      ],
-      "wordCount": 819,
-      "id": "e0adfdc0ddbf8e7f"
     }
   ]
 }

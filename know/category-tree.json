@@ -1,7 +1,7 @@
 {
   "name": "root",
   "path": "",
-  "count": 554,
+  "count": 559,
   "children": {
     "产品研发": {
       "name": "产品研发",
@@ -12,7 +12,7 @@
     "创业指南": {
       "name": "创业指南",
       "path": "创业指南",
-      "count": 1,
+      "count": 3,
       "children": {}
     },
     "法律常识": {
@@ -320,13 +320,20 @@
     "心理学": {
       "name": "心理学",
       "path": "心理学",
-      "count": 1,
-      "children": {}
+      "count": 3,
+      "children": {
+        "基础心理学": {
+          "name": "基础心理学",
+          "path": "心理学/基础心理学",
+          "count": 2,
+          "children": {}
+        }
+      }
     },
     "营销增长": {
       "name": "营销增长",
       "path": "营销增长",
-      "count": 1,
+      "count": 2,
       "children": {}
     },
     "执业药师": {

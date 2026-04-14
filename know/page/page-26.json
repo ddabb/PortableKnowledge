@@ -1,8 +1,78 @@
 {
   "page": 26,
   "totalPages": 28,
-  "totalItems": 554,
+  "totalItems": 559,
   "items": [
+    {
+      "filename": "固定资产.json",
+      "title": "固定资产",
+      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "固定资产",
+        "折旧"
+      ],
+      "wordCount": 1300,
+      "id": "44317f6c09f098d5"
+    },
+    {
+      "filename": "货币资金.json",
+      "title": "货币资金",
+      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "货币资金",
+        "现金管理"
+      ],
+      "wordCount": 1178,
+      "id": "33408f637aca0506"
+    },
+    {
+      "filename": "金融资产.json",
+      "title": "金融资产",
+      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "金融资产",
+        "分类"
+      ],
+      "wordCount": 1398,
+      "id": "0568b7fcfb220ec9"
+    },
+    {
+      "filename": "其他应付款.json",
+      "title": "其他应付款",
+      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "其他应付款",
+        "核算"
+      ],
+      "wordCount": 525,
+      "id": "23ba7ef0a40abfe7"
+    },
+    {
+      "filename": "所有者权益概述.json",
+      "title": "所有者权益概述",
+      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "所有者权益",
+        "构成"
+      ],
+      "wordCount": 1132,
+      "id": "602d76b9bea46d42"
+    },
     {
       "filename": "投资性房地产.json",
       "title": "投资性房地产",
@@ -209,72 +279,6 @@
       ],
       "wordCount": 294,
       "id": "ff86ecb868f095ee"
-    },
-    {
-      "filename": "合同法概述.json",
-      "title": "合同法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "合同法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 318,
-      "id": "103610937ddf56f5"
-    },
-    {
-      "filename": "经济纠纷解决方式.json",
-      "title": "经济纠纷解决方式",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "经济纠纷",
-        "解决方式",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 624,
-      "id": "6f28046aa934540d"
-    },
-    {
-      "filename": "票据法概述.json",
-      "title": "票据法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "票据法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 215,
-      "id": "b2f548bfa3843e2b"
-    },
-    {
-      "filename": "破产法概述.json",
-      "title": "破产法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "破产法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 283,
-      "id": "cd6bfd3f56cbfb10"
-    },
-    {
-      "filename": "企业国有资产法概述.json",
-      "title": "企业国有资产法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "企业国有资产法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 470,
-      "id": "ea02692ed7be380d"
     }
   ]
 }

@@ -1,8 +1,37 @@
 {
   "page": 18,
   "totalPages": 28,
-  "totalItems": 554,
+  "totalItems": 559,
   "items": [
+    {
+      "filename": "系统集成概述.json",
+      "title": "系统集成概述",
+      "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "系统集成",
+        "信息系统",
+        "集成资质",
+        "中项核心"
+      ],
+      "wordCount": 954,
+      "id": "424f5eb505d95974"
+    },
+    {
+      "filename": "系统架构.json",
+      "title": "系统架构",
+      "description": "架构概论、系统架构设计原则",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "系统架构",
+        "架构设计",
+        "TOGAF",
+        "ADM",
+        "价值驱动"
+      ],
+      "wordCount": 1213,
+      "id": "4d18d608c6f5855a"
+    },
     {
       "filename": "信息安全基础.json",
       "title": "信息安全基础",
@@ -261,34 +290,6 @@
       ],
       "wordCount": 1613,
       "id": "8f6593ae23dbd0c8"
-    },
-    {
-      "filename": "系统运行与维护.json",
-      "title": "系统运行与维护",
-      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "系统运维",
-        "SLA",
-        "ITIL",
-        "软件开发"
-      ],
-      "wordCount": 1220,
-      "id": "7fdb4b2adeb101bf"
-    },
-    {
-      "filename": "需求工程.json",
-      "title": "需求工程",
-      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "需求工程",
-        "需求分析",
-        "SRS",
-        "需求变更"
-      ],
-      "wordCount": 1170,
-      "id": "e6e021df007bc16e"
     }
   ]
 }

@@ -1,8 +1,78 @@
 {
   "page": 25,
   "totalPages": 28,
-  "totalItems": 554,
+  "totalItems": 559,
   "items": [
+    {
+      "filename": "投资项目资本预算.json",
+      "title": "投资项目资本预算",
+      "description": "CPA财务成本管理投资项目资本预算章节核心知识点，包括投资项目评价方法和现金流量估计",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "资本预算",
+        "投资评价"
+      ],
+      "wordCount": 1294,
+      "id": "55190ec6c81061af"
+    },
+    {
+      "filename": "业绩评价.json",
+      "title": "业绩评价",
+      "description": "CPA财务成本管理业绩评价章节核心知识点，包括责任中心业绩评价和平衡计分卡",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "业绩评价",
+        "责任中心"
+      ],
+      "wordCount": 1454,
+      "id": "d53ebb5704b79ab8"
+    },
+    {
+      "filename": "营运资本管理.json",
+      "title": "营运资本管理",
+      "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "营运资本管理",
+        "现金管理"
+      ],
+      "wordCount": 1667,
+      "id": "2d7e42c1f5481c14"
+    },
+    {
+      "filename": "长期筹资决策.json",
+      "title": "长期筹资决策",
+      "description": "CPA财务成本管理长期筹资决策章节核心知识点，包括长期债务筹资和权益筹资",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "长期筹资决策",
+        "债务筹资"
+      ],
+      "wordCount": 2247,
+      "id": "670d126dde85e887"
+    },
+    {
+      "filename": "资本成本.json",
+      "title": "资本成本",
+      "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "资本成本",
+        "加权平均资本成本"
+      ],
+      "wordCount": 1077,
+      "id": "b92a62598fbda8c6"
+    },
     {
       "filename": "资本结构.json",
       "title": "资本结构",
@@ -207,76 +277,6 @@
       ],
       "wordCount": 707,
       "id": "2a8d3bc844708f18"
-    },
-    {
-      "filename": "固定资产.json",
-      "title": "固定资产",
-      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "固定资产",
-        "折旧"
-      ],
-      "wordCount": 1300,
-      "id": "44317f6c09f098d5"
-    },
-    {
-      "filename": "货币资金.json",
-      "title": "货币资金",
-      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "货币资金",
-        "现金管理"
-      ],
-      "wordCount": 1178,
-      "id": "33408f637aca0506"
-    },
-    {
-      "filename": "金融资产.json",
-      "title": "金融资产",
-      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "金融资产",
-        "分类"
-      ],
-      "wordCount": 1398,
-      "id": "0568b7fcfb220ec9"
-    },
-    {
-      "filename": "其他应付款.json",
-      "title": "其他应付款",
-      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "其他应付款",
-        "核算"
-      ],
-      "wordCount": 525,
-      "id": "23ba7ef0a40abfe7"
-    },
-    {
-      "filename": "所有者权益概述.json",
-      "title": "所有者权益概述",
-      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "所有者权益",
-        "构成"
-      ],
-      "wordCount": 1132,
-      "id": "602d76b9bea46d42"
     }
   ]
 }

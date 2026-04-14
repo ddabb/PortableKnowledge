@@ -1,8 +1,37 @@
 {
   "page": 21,
   "totalPages": 28,
-  "totalItems": 554,
+  "totalItems": 559,
   "items": [
+    {
+      "filename": "元宇宙.json",
+      "title": "元宇宙",
+      "description": "元宇宙是利用科技手段进行链接与创造的，与现实世界映射与交互的虚拟世界，具备新型社会体系的数字生活空间。主要特征包括沉浸式体验、虚拟身份、虚拟经济和虚拟社会治理。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "元宇宙",
+        "数字化转型",
+        "软考备考"
+      ],
+      "wordCount": 409,
+      "id": "be384342350e68e2"
+    },
+    {
+      "filename": "云计算.json",
+      "title": "云计算",
+      "description": "云计算概念、服务模式、部署模式及关键技术",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "虚拟化",
+        "云存储",
+        "分布式计算"
+      ],
+      "wordCount": 994,
+      "id": "51de51bc04ef8c7d"
+    },
     {
       "filename": "指南概述和目的.json",
       "title": "指南概述和目的",
@@ -266,34 +295,6 @@
       ],
       "wordCount": 842,
       "id": "ba444651c5345d81"
-    },
-    {
-      "filename": "火灾防范与逃生.json",
-      "title": "火灾防范与逃生",
-      "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "火灾",
-        "消防",
-        "逃生",
-        "安全"
-      ],
-      "wordCount": 1265,
-      "id": "33c5e8b303ea8044"
-    },
-    {
-      "filename": "台风防范指南.json",
-      "title": "台风防范指南",
-      "description": "台风的形成、预警等级及防范措施",
-      "category": "生活通识/自然灾害",
-      "tags": [
-        "台风",
-        "自然灾害",
-        "风暴",
-        "防汛"
-      ],
-      "wordCount": 943,
-      "id": "2411eb1484625054"
     }
   ]
 }
