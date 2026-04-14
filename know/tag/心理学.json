@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "心理学",
-    "count": 4
+    "count": 3
   },
   "articles": [
     {
@@ -16,21 +16,6 @@
       ],
       "wordCount": 3569,
       "id": "bd7849ae8f9e3d7a"
-    },
-    {
-      "filename": "心理学综合指南.json",
-      "title": "心理学综合指南",
-      "description": "全面的心理学知识，包括基础心理学、发展心理学、社会心理学、认知心理学等内容",
-      "category": "心理学",
-      "tags": [
-        "心理学",
-        "基础心理学",
-        "发展心理学",
-        "社会心理学",
-        "认知心理学"
-      ],
-      "wordCount": 12979,
-      "id": "e1c6995dd6e9ab91"
     },
     {
       "filename": "感知觉与注意.json",
