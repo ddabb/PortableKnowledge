@@ -1,7 +1,7 @@
 {
   "name": "root",
   "path": "",
-  "count": 559,
+  "count": 568,
   "children": {
     "产品研发": {
       "name": "产品研发",
@@ -18,18 +18,18 @@
     "法律常识": {
       "name": "法律常识",
       "path": "法律常识",
-      "count": 1,
+      "count": 4,
       "children": {}
     },
     "公务员": {
       "name": "公务员",
       "path": "公务员",
-      "count": 7,
+      "count": 9,
       "children": {
         "申论": {
           "name": "申论",
           "path": "公务员/申论",
-          "count": 1,
+          "count": 3,
           "children": {}
         },
         "行政职业能力测验": {
@@ -130,8 +130,27 @@
     "认知思维": {
       "name": "认知思维",
       "path": "认知思维",
-      "count": 1,
-      "children": {}
+      "count": 3,
+      "children": {
+        "认知偏差": {
+          "name": "认知偏差",
+          "path": "认知思维/认知偏差",
+          "count": 1,
+          "children": {}
+        },
+        "思维工具": {
+          "name": "思维工具",
+          "path": "认知思维/思维工具",
+          "count": 1,
+          "children": {}
+        },
+        "学习方法": {
+          "name": "学习方法",
+          "path": "认知思维/学习方法",
+          "count": 1,
+          "children": {}
+        }
+      }
     },
     "软考": {
       "name": "软考",
@@ -345,7 +364,7 @@
     "职场生存": {
       "name": "职场生存",
       "path": "职场生存",
-      "count": 4,
+      "count": 6,
       "children": {
         "个人品牌": {
           "name": "个人品牌",
@@ -356,7 +375,7 @@
         "劳动权益": {
           "name": "劳动权益",
           "path": "职场生存/劳动权益",
-          "count": 1,
+          "count": 3,
           "children": {}
         }
       }

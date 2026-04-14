@@ -1,8 +1,111 @@
 {
   "page": 22,
-  "totalPages": 28,
-  "totalItems": 559,
+  "totalPages": 29,
+  "totalItems": 568,
   "items": [
+    {
+      "filename": "糖尿病管理.json",
+      "title": "糖尿病管理：从预防到控制",
+      "description": "糖尿病的预防、监测和管理知识，包括风险评估、生活方式调整和常见误区。",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "糖尿病",
+        "血糖",
+        "胰岛素",
+        "并发症",
+        "糖尿病前期"
+      ],
+      "wordCount": 1865,
+      "id": "68486f76abfed2f8"
+    },
+    {
+      "filename": "消化系统健康.json",
+      "title": "消化系统健康：护好你的肠胃",
+      "description": "消化系统健康知识，包括常见疾病预防、饮食建议和保护肠胃的方法。",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "消化系统",
+        "胃",
+        "肠道",
+        "幽门螺杆菌",
+        "便秘"
+      ],
+      "wordCount": 1446,
+      "id": "9f6c2cc2311c7c26"
+    },
+    {
+      "filename": "心脑血管疾病预防.json",
+      "title": "心脑血管疾病预防：从风险评估到生活方式",
+      "description": "全面的心脑血管疾病预防指南，包括风险评估、生活方式调整、监测治疗和常见误区。",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "心脑血管",
+        "高血压",
+        "心梗",
+        "脑卒中",
+        "预防"
+      ],
+      "wordCount": 1634,
+      "id": "c4417273bc472c20"
+    },
+    {
+      "filename": "运动与心理健康.json",
+      "title": "运动与心理健康：动起来，心情好",
+      "description": "运动和心理健康的知识，包括运动建议、压力管理和情绪调节方法。",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "运动",
+        "心理健康",
+        "压力管理",
+        "情绪调节",
+        "有氧运动"
+      ],
+      "wordCount": 1416,
+      "id": "7a3d3144b94ed2a2"
+    },
+    {
+      "filename": "社保公积金综合指南.json",
+      "title": "社保公积金综合指南",
+      "description": "全面的社保公积金知识，包括公积金提取、医保报销等内容",
+      "category": "生活通识/社保公积金",
+      "tags": [
+        "社保",
+        "公积金",
+        "医保",
+        "提取",
+        "报销"
+      ],
+      "wordCount": 2643,
+      "id": "10e17f26b87c72d0"
+    },
+    {
+      "filename": "地震防范与应急.json",
+      "title": "地震防范与应急",
+      "description": "地震发生时的应对措施、逃生技巧和日常准备",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "地震",
+        "自然灾害",
+        "应急",
+        "逃生"
+      ],
+      "wordCount": 877,
+      "id": "be8e5050f8013cf0"
+    },
+    {
+      "filename": "洪水防范与应对.json",
+      "title": "洪水防范与应对",
+      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "洪水",
+        "自然灾害",
+        "防汛",
+        "应急"
+      ],
+      "wordCount": 842,
+      "id": "ba444651c5345d81"
+    },
     {
       "filename": "火灾防范与逃生.json",
       "title": "火灾防范与逃生",
@@ -93,18 +196,20 @@
       "id": "1ad9665c7c7ad87d"
     },
     {
-      "filename": "营销增长综合指南.json",
-      "title": "营销增长综合指南",
-      "description": "全面的营销增长知识，包括内容创作、增长策略、私域流量等内容",
+      "filename": "增长策略与私域运营.json",
+      "title": "增长策略与私域运营：AARRR模型实践指南",
+      "description": "系统化的增长方法论，从AARRR漏斗到私域流量运营的完整指南",
       "category": "营销增长",
       "tags": [
-        "营销增长",
-        "内容创作",
         "增长策略",
-        "私域流量"
+        "AARRR",
+        "私域流量",
+        "用户增长",
+        "留存",
+        "变现"
       ],
-      "wordCount": 4033,
-      "id": "fbd033bf6cb0795e"
+      "wordCount": 3302,
+      "id": "f8203cddf7e58939"
     },
     {
       "filename": "常见药物分类.json",
@@ -177,91 +282,6 @@
       ],
       "wordCount": 1102,
       "id": "96e5785a6604edbe"
-    },
-    {
-      "filename": "药物分析.json",
-      "title": "药物分析",
-      "description": "药物分析的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物分析"
-      ],
-      "wordCount": 687,
-      "id": "f827d9c6e100d0c6"
-    },
-    {
-      "filename": "药物化学.json",
-      "title": "药物化学",
-      "description": "药物化学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物化学"
-      ],
-      "wordCount": 712,
-      "id": "283f7d749ab0a9bd"
-    },
-    {
-      "filename": "药物流行病学.json",
-      "title": "药物流行病学",
-      "description": "药物流行病学的基本概念、研究方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物流行病学"
-      ],
-      "wordCount": 785,
-      "id": "479906c22a84c019"
-    },
-    {
-      "filename": "药物信息学.json",
-      "title": "药物信息学",
-      "description": "药物信息学的基本概念、方法和应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药物信息学"
-      ],
-      "wordCount": 627,
-      "id": "ec33fb671d75b331"
-    },
-    {
-      "filename": "药学综合知识.json",
-      "title": "药学综合知识",
-      "description": "药学综合知识的核心内容和实践应用",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "药学综合知识"
-      ],
-      "wordCount": 751,
-      "id": "744569747e72cf13"
-    },
-    {
-      "filename": "用药安全.json",
-      "title": "用药安全",
-      "description": "用药安全的重要性、常见问题和防范措施",
-      "category": "执业药师",
-      "tags": [
-        "执业药师",
-        "用药安全"
-      ],
-      "wordCount": 1386,
-      "id": "5026e3c2e834005f"
-    },
-    {
-      "filename": "核心考点.json",
-      "title": "执业药师核心考点",
-      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
-      "category": "执业药师",
-      "tags": [
-        "药师",
-        "药学",
-        "法规"
-      ],
-      "wordCount": 2516,
-      "id": "1ad4d4522a1af0f5"
     }
   ]
 }

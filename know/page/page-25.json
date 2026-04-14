@@ -1,8 +1,133 @@
 {
   "page": 25,
-  "totalPages": 28,
-  "totalItems": 559,
+  "totalPages": 29,
+  "totalItems": 568,
   "items": [
+    {
+      "filename": "核心考点.json",
+      "title": "注册会计师考试核心考点",
+      "description": "CPA备考知识体系：会计、审计、财管、税法、经济法、公司战略核心考点",
+      "category": "注册会计师",
+      "tags": [
+        "CPA",
+        "会计",
+        "审计"
+      ],
+      "wordCount": 30,
+      "id": "f6856ff8e910a234"
+    },
+    {
+      "filename": "本量利分析.json",
+      "title": "本量利分析",
+      "description": "CPA财务成本管理本量利分析章节核心知识点，包括成本、业务量和利润之间的关系",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "本量利分析",
+        "盈亏平衡分析"
+      ],
+      "wordCount": 1238,
+      "id": "e69fb0be6ed42e87"
+    },
+    {
+      "filename": "标准成本法.json",
+      "title": "标准成本法",
+      "description": "CPA财务成本管理标准成本法章节核心知识点，包括标准成本的制定和差异分析",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "标准成本法",
+        "差异分析"
+      ],
+      "wordCount": 1197,
+      "id": "ada36c7df44cfc8c"
+    },
+    {
+      "filename": "财务报表分析.json",
+      "title": "财务报表分析",
+      "description": "CPA财务成本管理财务报表分析章节核心知识点，包括财务比率分析和财务报表解读",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "财务报表分析",
+        "财务比率"
+      ],
+      "wordCount": 1142,
+      "id": "d6bad0bd03b2b269"
+    },
+    {
+      "filename": "财务管理概述.json",
+      "title": "财务管理概述",
+      "description": "CPA财务成本管理财务管理概述章节核心知识点，包括财务管理的目标和内容",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "财务管理",
+        "目标内容"
+      ],
+      "wordCount": 971,
+      "id": "8950688bbf2ec982"
+    },
+    {
+      "filename": "财务预测.json",
+      "title": "财务预测",
+      "description": "CPA财务成本管理财务预测章节核心知识点，包括销售预测和财务报表预测",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "财务预测",
+        "销售预测"
+      ],
+      "wordCount": 1153,
+      "id": "11b78855ee02f677"
+    },
+    {
+      "filename": "成本计算.json",
+      "title": "成本计算",
+      "description": "CPA财务成本管理成本计算章节核心知识点，包括产品成本计算和期间费用核算",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "成本计算",
+        "产品成本"
+      ],
+      "wordCount": 1906,
+      "id": "065c8ad87974a650"
+    },
+    {
+      "filename": "短期经营决策.json",
+      "title": "短期经营决策",
+      "description": "CPA财务成本管理短期经营决策章节核心知识点，包括生产决策和定价决策",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "短期经营决策",
+        "生产决策"
+      ],
+      "wordCount": 1645,
+      "id": "84b668cd84915823"
+    },
+    {
+      "filename": "股利分配管理.json",
+      "title": "股利分配管理",
+      "description": "CPA财务成本管理股利分配管理章节核心知识点，包括股利政策和股利分配程序",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "股利分配",
+        "股利政策"
+      ],
+      "wordCount": 1367,
+      "id": "f5381d37d1ad70e5"
+    },
     {
       "filename": "投资项目资本预算.json",
       "title": "投资项目资本预算",
@@ -153,130 +278,6 @@
       ],
       "wordCount": 353,
       "id": "2f119a4f008efbc3"
-    },
-    {
-      "filename": "数字化转型战略.json",
-      "title": "数字化转型战略",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "数字化转型",
-        "战略",
-        "CPA"
-      ],
-      "wordCount": 395,
-      "id": "905b4983f825a260"
-    },
-    {
-      "filename": "战略分析.json",
-      "title": "战略分析",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略分析",
-        "外部环境",
-        "内部环境",
-        "CPA"
-      ],
-      "wordCount": 391,
-      "id": "d20a69426118ea9f"
-    },
-    {
-      "filename": "战略管理概述.json",
-      "title": "战略管理概述",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略管理",
-        "公司战略",
-        "CPA"
-      ],
-      "wordCount": 272,
-      "id": "fc146a253ac6f230"
-    },
-    {
-      "filename": "战略控制.json",
-      "title": "战略控制",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略控制",
-        "预算控制",
-        "平衡计分卡",
-        "CPA"
-      ],
-      "wordCount": 276,
-      "id": "f49cbddb991d1ae2"
-    },
-    {
-      "filename": "战略实施.json",
-      "title": "战略实施",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略实施",
-        "组织结构",
-        "企业文化",
-        "CPA"
-      ],
-      "wordCount": 260,
-      "id": "43412207cdc7f6c8"
-    },
-    {
-      "filename": "战略选择.json",
-      "title": "战略选择",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略选择",
-        "总体战略",
-        "业务单位战略",
-        "CPA"
-      ],
-      "wordCount": 335,
-      "id": "e8dbbb72eb78980a"
-    },
-    {
-      "filename": "存货.json",
-      "title": "存货",
-      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "存货",
-        "计量方法"
-      ],
-      "wordCount": 1214,
-      "id": "f4d27b56c0abc7b6"
-    },
-    {
-      "filename": "短期借款.json",
-      "title": "短期借款",
-      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "短期借款",
-        "利息核算"
-      ],
-      "wordCount": 674,
-      "id": "2ce4bfe39200714a"
-    },
-    {
-      "filename": "负债概述.json",
-      "title": "负债概述",
-      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "负债",
-        "确认计量"
-      ],
-      "wordCount": 707,
-      "id": "2a8d3bc844708f18"
     }
   ]
 }

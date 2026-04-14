@@ -1,8 +1,131 @@
 {
   "page": 27,
-  "totalPages": 28,
-  "totalItems": 559,
+  "totalPages": 29,
+  "totalItems": 568,
   "items": [
+    {
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
+      ],
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
+    },
+    {
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应收账款",
+        "应收票据"
+      ],
+      "wordCount": 1285,
+      "id": "b149d1a5237bfb5f"
+    },
+    {
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "预收账款",
+        "核算"
+      ],
+      "wordCount": 702,
+      "id": "5a1db8a8635278a1"
+    },
+    {
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
+      ],
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
+    },
+    {
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
+      ],
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
+    },
+    {
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
+      ],
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
+    },
+    {
+      "filename": "反不正当竞争法概述.json",
+      "title": "反不正当竞争法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反不正当竞争法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 757,
+      "id": "c4e8b6f024c78459"
+    },
+    {
+      "filename": "反垄断法概述.json",
+      "title": "反垄断法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反垄断法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 327,
+      "id": "dc2a54c5f75a7bdc"
+    },
+    {
+      "filename": "公司法概述.json",
+      "title": "公司法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "公司法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 294,
+      "id": "ff86ecb868f095ee"
+    },
     {
       "filename": "合同法概述.json",
       "title": "合同法概述",
@@ -148,132 +271,6 @@
       ],
       "wordCount": 925,
       "id": "05e487191787af09"
-    },
-    {
-      "filename": "会计师事务所质量控制.json",
-      "title": "会计师事务所质量控制",
-      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "质量控制",
-        "要素程序"
-      ],
-      "wordCount": 1634,
-      "id": "6382ed54c5889567"
-    },
-    {
-      "filename": "货币资金审计.json",
-      "title": "货币资金审计",
-      "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "货币资金",
-        "内部控制"
-      ],
-      "wordCount": 784,
-      "id": "bd85c1e789684a32"
-    },
-    {
-      "filename": "内部控制审计.json",
-      "title": "内部控制审计",
-      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "内部控制审计",
-        "内部控制"
-      ],
-      "wordCount": 1156,
-      "id": "85b4de9995f649ea"
-    },
-    {
-      "filename": "审计报告.json",
-      "title": "审计报告",
-      "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计报告",
-        "审计意见"
-      ],
-      "wordCount": 1485,
-      "id": "201dbca9f226ac57"
-    },
-    {
-      "filename": "审计抽样.json",
-      "title": "审计抽样",
-      "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计抽样",
-        "抽样方法"
-      ],
-      "wordCount": 843,
-      "id": "b7a7524c3b959377"
-    },
-    {
-      "filename": "审计概述.json",
-      "title": "审计概述",
-      "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计概述",
-        "审计特征"
-      ],
-      "wordCount": 1070,
-      "id": "7a8da7e20b2b1e63"
-    },
-    {
-      "filename": "审计工作底稿.json",
-      "title": "审计工作底稿",
-      "description": "CPA审计审计工作底稿章节核心知识点，包括审计工作底稿的编制和管理",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计工作底稿",
-        "编制管理"
-      ],
-      "wordCount": 1329,
-      "id": "6a3934d6df0f2af4"
-    },
-    {
-      "filename": "审计计划.json",
-      "title": "审计计划",
-      "description": "CPA审计审计计划章节核心知识点，包括总体审计策略和具体审计计划",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计计划",
-        "总体审计策略"
-      ],
-      "wordCount": 969,
-      "id": "f842f0242988dace"
-    },
-    {
-      "filename": "审计证据.json",
-      "title": "审计证据",
-      "description": "CPA审计审计证据章节核心知识点，包括审计证据的性质、获取方法和评价",
-      "category": "注册会计师/审计",
-      "tags": [
-        "CPA",
-        "审计",
-        "审计证据",
-        "审计程序"
-      ],
-      "wordCount": 976,
-      "id": "6286087c31894704"
     }
   ]
 }

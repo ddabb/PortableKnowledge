@@ -1,8 +1,73 @@
 {
   "page": 5,
-  "totalPages": 28,
-  "totalItems": 559,
+  "totalPages": 29,
+  "totalItems": 568,
   "items": [
+    {
+      "filename": "幼儿教育方法.json",
+      "title": "幼儿教育方法",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "教育方法",
+        "幼儿教育",
+        "教资"
+      ],
+      "wordCount": 1553,
+      "id": "b4e643bc15376f7f"
+    },
+    {
+      "filename": "幼儿科学教育.json",
+      "title": "幼儿科学教育",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "科学教育",
+        "幼儿科学",
+        "教资"
+      ],
+      "wordCount": 3370,
+      "id": "085a0987c5052b3e"
+    },
+    {
+      "filename": "幼儿情绪发展.json",
+      "title": "幼儿情绪发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "情绪发展",
+        "幼儿情绪",
+        "教资"
+      ],
+      "wordCount": 3574,
+      "id": "41ccc8cea733cbca"
+    },
+    {
+      "filename": "幼儿认知发展.json",
+      "title": "幼儿认知发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "认知发展",
+        "幼儿认知",
+        "教资"
+      ],
+      "wordCount": 3651,
+      "id": "c000081953871a25"
+    },
+    {
+      "filename": "幼儿社会性发展.json",
+      "title": "幼儿社会性发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "社会性发展",
+        "幼儿社会",
+        "教资"
+      ],
+      "wordCount": 3897,
+      "id": "1af5319899764194"
+    },
     {
       "filename": "幼儿艺术教育.json",
       "title": "幼儿艺术教育",
@@ -197,71 +262,6 @@
       ],
       "wordCount": 2777,
       "id": "f0460d10e2cbd9fe"
-    },
-    {
-      "filename": "教育研究方法.json",
-      "title": "教育研究方法",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "教育研究",
-        "研究方法",
-        "教师专业发展"
-      ],
-      "wordCount": 4369,
-      "id": "e259e78f89d8bb0a"
-    },
-    {
-      "filename": "学科知识与教学能力.json",
-      "title": "学科知识与教学能力",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "学科知识",
-        "教学能力",
-        "专业素养"
-      ],
-      "wordCount": 3972,
-      "id": "cdfec0b48388b79b"
-    },
-    {
-      "filename": "考研专业课综合指南.json",
-      "title": "考研专业课综合指南",
-      "description": "全面的考研专业课知识，包括教育学、管理类联考、计算机等专业的备考指南",
-      "category": "考研专业课",
-      "tags": [
-        "考研",
-        "专业课",
-        "教育学",
-        "管理类联考",
-        "计算机"
-      ],
-      "wordCount": 8748,
-      "id": "eb93eff2fd482a26"
-    },
-    {
-      "filename": "绩效管理.json",
-      "title": "绩效管理",
-      "description": "绩效管理的体系、方法和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "绩效管理"
-      ],
-      "wordCount": 756,
-      "id": "3df6d718c061ee27"
-    },
-    {
-      "filename": "劳动法规.json",
-      "title": "劳动法规",
-      "description": "劳动法规的基本内容、应用和合规管理",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "劳动法规"
-      ],
-      "wordCount": 1072,
-      "id": "40b246defbcf3d65"
     }
   ]
 }

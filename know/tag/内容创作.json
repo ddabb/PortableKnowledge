@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "内容创作",
-    "count": 2
+    "count": 1
   },
   "articles": [
     {
@@ -17,20 +17,6 @@
       ],
       "wordCount": 2134,
       "id": "1ad9665c7c7ad87d"
-    },
-    {
-      "filename": "营销增长综合指南.json",
-      "title": "营销增长综合指南",
-      "description": "全面的营销增长知识，包括内容创作、增长策略、私域流量等内容",
-      "category": "营销增长",
-      "tags": [
-        "营销增长",
-        "内容创作",
-        "增长策略",
-        "私域流量"
-      ],
-      "wordCount": 4033,
-      "id": "fbd033bf6cb0795e"
     }
   ]
 }

@@ -1,8 +1,132 @@
 {
   "page": 26,
-  "totalPages": 28,
-  "totalItems": 559,
+  "totalPages": 29,
+  "totalItems": 568,
   "items": [
+    {
+      "filename": "数字化转型战略.json",
+      "title": "数字化转型战略",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "数字化转型",
+        "战略",
+        "CPA"
+      ],
+      "wordCount": 395,
+      "id": "905b4983f825a260"
+    },
+    {
+      "filename": "战略分析.json",
+      "title": "战略分析",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略分析",
+        "外部环境",
+        "内部环境",
+        "CPA"
+      ],
+      "wordCount": 391,
+      "id": "d20a69426118ea9f"
+    },
+    {
+      "filename": "战略管理概述.json",
+      "title": "战略管理概述",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略管理",
+        "公司战略",
+        "CPA"
+      ],
+      "wordCount": 272,
+      "id": "fc146a253ac6f230"
+    },
+    {
+      "filename": "战略控制.json",
+      "title": "战略控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略控制",
+        "预算控制",
+        "平衡计分卡",
+        "CPA"
+      ],
+      "wordCount": 276,
+      "id": "f49cbddb991d1ae2"
+    },
+    {
+      "filename": "战略实施.json",
+      "title": "战略实施",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略实施",
+        "组织结构",
+        "企业文化",
+        "CPA"
+      ],
+      "wordCount": 260,
+      "id": "43412207cdc7f6c8"
+    },
+    {
+      "filename": "战略选择.json",
+      "title": "战略选择",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略选择",
+        "总体战略",
+        "业务单位战略",
+        "CPA"
+      ],
+      "wordCount": 335,
+      "id": "e8dbbb72eb78980a"
+    },
+    {
+      "filename": "存货.json",
+      "title": "存货",
+      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "存货",
+        "计量方法"
+      ],
+      "wordCount": 1214,
+      "id": "f4d27b56c0abc7b6"
+    },
+    {
+      "filename": "短期借款.json",
+      "title": "短期借款",
+      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "短期借款",
+        "利息核算"
+      ],
+      "wordCount": 674,
+      "id": "2ce4bfe39200714a"
+    },
+    {
+      "filename": "负债概述.json",
+      "title": "负债概述",
+      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "负债",
+        "确认计量"
+      ],
+      "wordCount": 707,
+      "id": "2a8d3bc844708f18"
+    },
     {
       "filename": "固定资产.json",
       "title": "固定资产",
@@ -156,129 +280,6 @@
       ],
       "wordCount": 1144,
       "id": "568e00039dccb6b5"
-    },
-    {
-      "filename": "应交税费.json",
-      "title": "应交税费",
-      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应交税费",
-        "增值税"
-      ],
-      "wordCount": 1207,
-      "id": "42db45ed35059dd0"
-    },
-    {
-      "filename": "应收及预付款项.json",
-      "title": "应收及预付款项",
-      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应收账款",
-        "应收票据"
-      ],
-      "wordCount": 1285,
-      "id": "b149d1a5237bfb5f"
-    },
-    {
-      "filename": "预收账款.json",
-      "title": "预收账款",
-      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "预收账款",
-        "核算"
-      ],
-      "wordCount": 702,
-      "id": "5a1db8a8635278a1"
-    },
-    {
-      "filename": "长期股权投资.json",
-      "title": "长期股权投资",
-      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "长期股权投资",
-        "权益法"
-      ],
-      "wordCount": 1636,
-      "id": "ea6795870a4ab109"
-    },
-    {
-      "filename": "长期借款.json",
-      "title": "长期借款",
-      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "长期借款",
-        "利息核算"
-      ],
-      "wordCount": 1007,
-      "id": "f71eb9e8b48a6518"
-    },
-    {
-      "filename": "资产概述.json",
-      "title": "资产概述",
-      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "资产",
-        "确认计量"
-      ],
-      "wordCount": 665,
-      "id": "0d0c571d57a88cef"
-    },
-    {
-      "filename": "反不正当竞争法概述.json",
-      "title": "反不正当竞争法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "反不正当竞争法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 757,
-      "id": "c4e8b6f024c78459"
-    },
-    {
-      "filename": "反垄断法概述.json",
-      "title": "反垄断法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "反垄断法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 327,
-      "id": "dc2a54c5f75a7bdc"
-    },
-    {
-      "filename": "公司法概述.json",
-      "title": "公司法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "公司法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 294,
-      "id": "ff86ecb868f095ee"
     }
   ]
 }
