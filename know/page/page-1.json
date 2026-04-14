@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "totalPages": 38,
-  "totalItems": 741,
+  "totalPages": 27,
+  "totalItems": 532,
   "items": [
     {
       "filename": "产品研发综合指南.json",
@@ -32,104 +32,19 @@
       "id": "21158cd7677610b4"
     },
     {
-      "filename": "个人信息保护法核心要点.json",
-      "title": "个人信息保护法核心要点",
-      "description": "《个人信息保护法》核心条款解读，保护个人隐私安全",
+      "filename": "法律常识综合指南.json",
+      "title": "法律常识综合指南",
+      "description": "全面的法律常识知识，包括个人信息保护、交通事故处理、劳动合同、消费者权益等内容",
       "category": "法律常识",
       "tags": [
-        "个人信息",
-        "隐私权",
-        "信息安全",
-        "维权"
-      ],
-      "wordCount": 795,
-      "id": "fe2ea7ca433ca37e"
-    },
-    {
-      "filename": "家庭暴力防护与应对指南.json",
-      "title": "家庭暴力防护与应对指南",
-      "description": "识别家庭暴力类型、保存证据、寻求帮助的完整指南",
-      "category": "法律常识",
-      "tags": [
-        "家庭暴力",
-        "人身安全",
-        "法律援助",
-        "维权"
-      ],
-      "wordCount": 586,
-      "id": "7d4c1af2befa69b5"
-    },
-    {
-      "filename": "交通事故处理完全指南.json",
-      "title": "交通事故处理完全指南",
-      "description": "交通事故责任认定、赔偿标准、处理流程详解",
-      "category": "法律常识",
-      "tags": [
+        "法律常识",
+        "个人信息保护",
         "交通事故",
-        "责任认定",
-        "保险理赔",
-        "维权"
+        "劳动合同",
+        "消费者权益"
       ],
-      "wordCount": 830,
-      "id": "3dee55e20c226268"
-    },
-    {
-      "filename": "劳动合同法核心条款解读.json",
-      "title": "劳动合同法核心条款解读",
-      "description": "劳动者必知的劳动合同法核心条款解读，涵盖签订、履行、解除、赔偿等关键知识点",
-      "category": "法律常识",
-      "tags": [
-        "劳动合同法",
-        "劳动法",
-        "维权",
-        "职场"
-      ],
-      "wordCount": 1284,
-      "id": "9caf5b452193904f"
-    },
-    {
-      "filename": "年终奖与经济补偿金完全指南.json",
-      "title": "年终奖与经济补偿金完全指南",
-      "description": "年终奖发放规则、N+1/2N计算、期权归属等职场薪资核心问题",
-      "category": "法律常识",
-      "tags": [
-        "年终奖",
-        "经济补偿",
-        "N+1",
-        "2N",
-        "离职赔偿",
-        "劳动合同"
-      ],
-      "wordCount": 945,
-      "id": "0756f25d881f419e"
-    },
-    {
-      "filename": "人身安全保护令申请指南.json",
-      "title": "人身安全保护令申请指南",
-      "description": "遭遇家庭暴力或人身威胁时的法律保护途径，保护令申请流程和要点",
-      "category": "法律常识",
-      "tags": [
-        "人身安全保护令",
-        "家庭暴力",
-        "法律保护",
-        "维权"
-      ],
-      "wordCount": 724,
-      "id": "aa9f0c5232eb64d2"
-    },
-    {
-      "filename": "消费者权益保护法核心条款解读.json",
-      "title": "消费者权益保护法核心条款解读",
-      "description": "消费者必知的权益保护法条款，涵盖退货、赔偿、维权途径",
-      "category": "法律常识",
-      "tags": [
-        "消费者权益",
-        "维权",
-        "退货",
-        "三包"
-      ],
-      "wordCount": 677,
-      "id": "ae37741ccee767b0"
+      "wordCount": 4687,
+      "id": "47241b8dc8b79d3c"
     },
     {
       "filename": "核心考点.json",
@@ -145,104 +60,235 @@
       "id": "7a8272032cf6c22c"
     },
     {
-      "filename": "大作文框架.json",
-      "title": "大作文框架",
-      "description": "",
+      "filename": "申论综合指南.json",
+      "title": "申论综合指南",
+      "description": "全面的公务员申论知识，包括核心考点、解题技巧、写作模板、大作文框架等内容",
       "category": "公务员/申论",
       "tags": [
+        "公务员",
         "申论",
+        "写作",
         "大作文",
-        "议论文",
-        "写作框架"
+        "公文"
       ],
-      "wordCount": 135,
-      "id": "80662090c6f5d919"
+      "wordCount": 4762,
+      "id": "8ea80bd803d79bbf"
     },
     {
-      "filename": "二、解题技巧.json",
-      "title": "二、解题技巧",
-      "description": "二、解题技巧",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 377,
-      "id": "134ff34fd9ca7688"
-    },
-    {
-      "filename": "归纳概括.json",
-      "title": "归纳概括",
+      "filename": "常识判断.json",
+      "title": "常识判断",
       "description": "",
-      "category": "公务员/申论",
+      "category": "公务员/行政职业能力测验",
       "tags": [
-        "申论",
-        "归纳概括",
-        "概括方法",
-        "要点提取"
+        "行测",
+        "常识判断",
+        "政治",
+        "经济",
+        "法律",
+        "科技",
+        "历史",
+        "地理"
       ],
-      "wordCount": 121,
-      "id": "27e061e7e872d489"
+      "wordCount": 195,
+      "id": "ad827cbb8bf8f659"
     },
     {
-      "filename": "六、注意事项.json",
-      "title": "六、注意事项",
-      "description": "六、注意事项",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 217,
-      "id": "7c6e18404fecf75d"
+      "filename": "判断推理.json",
+      "title": "判断推理",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "判断推理",
+        "图形推理",
+        "定义判断",
+        "类比推理",
+        "逻辑判断"
+      ],
+      "wordCount": 236,
+      "id": "9050b3beccad874f"
     },
     {
-      "filename": "六、总结.json",
-      "title": "六、总结",
-      "description": "六、总结",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 116,
-      "id": "2e14f9788e5eb7d5"
+      "filename": "数量关系.json",
+      "title": "数量关系",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "数量关系",
+        "数学运算",
+        "数字推理"
+      ],
+      "wordCount": 182,
+      "id": "f8b4a33207004494"
     },
     {
-      "filename": "七、总结.json",
-      "title": "七、总结",
-      "description": "七、总结",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 113,
-      "id": "995d3c3480b143e7"
+      "filename": "言语理解.json",
+      "title": "言语理解",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "言语理解",
+        "逻辑填空",
+        "片段阅读",
+        "语句表达"
+      ],
+      "wordCount": 177,
+      "id": "915e1a246acfeb53"
     },
     {
-      "filename": "三、对策类型与示例.json",
-      "title": "三、对策类型与示例",
-      "description": "三、对策类型与示例",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 889,
-      "id": "cdba32e1e5dbb0c9"
+      "filename": "资料分析.json",
+      "title": "资料分析",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "资料分析",
+        "统计术语",
+        "速算技巧",
+        "图表分析"
+      ],
+      "wordCount": 152,
+      "id": "edd1848040ae9fb2"
     },
     {
-      "filename": "三、写作模板.json",
-      "title": "三、写作模板",
-      "description": "三、写作模板",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 648,
-      "id": "ab067a400f5581cd"
+      "filename": "家庭理财综合指南.json",
+      "title": "家庭理财综合指南",
+      "description": "全面的家庭理财知识，包括基金投资、保险配置、资产配置等内容",
+      "category": "家庭理财",
+      "tags": [
+        "家庭理财",
+        "基金投资",
+        "保险配置",
+        "资产配置",
+        "个人理财"
+      ],
+      "wordCount": 5722,
+      "id": "fb3a22b540eb22a8"
     },
     {
-      "filename": "四、实例分析.json",
-      "title": "四、实例分析",
-      "description": "四、实例分析",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 380,
-      "id": "4b364c1588273a7b"
+      "filename": "核心考点.json",
+      "title": "建造师考试核心考点",
+      "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
+      "category": "建造师",
+      "tags": [
+        "建造师",
+        "一建",
+        "二建"
+      ],
+      "wordCount": 4763,
+      "id": "891b181955bf8c6c"
     },
     {
-      "filename": "四、写作结构.json",
-      "title": "四、写作结构",
-      "description": "四、写作结构",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 201,
-      "id": "a8ac3d7c526ecf75"
+      "filename": "公路工程管理与实务.json",
+      "title": "公路工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "公路工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 207,
+      "id": "1240fa0d522af118"
+    },
+    {
+      "filename": "机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "机电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 211,
+      "id": "bfe11c4860e52603"
+    },
+    {
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "法规",
+        "建造师"
+      ],
+      "wordCount": 559,
+      "id": "db168e021cb0af71"
+    },
+    {
+      "filename": "建设工程法律法规实务.json",
+      "title": "建设工程法律法规实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "法律法规",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 279,
+      "id": "1b488fe70388ed27"
+    },
+    {
+      "filename": "建设工程施工管理.json",
+      "title": "建设工程施工管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "施工管理",
+        "建造师"
+      ],
+      "wordCount": 451,
+      "id": "6a8179b10f109354"
+    },
+    {
+      "filename": "建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "建筑工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 156,
+      "id": "a1bcf29ecea453db"
+    },
+    {
+      "filename": "施工技术与管理.json",
+      "title": "施工技术与管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "施工技术",
+        "管理",
+        "建造师"
+      ],
+      "wordCount": 173,
+      "id": "2cf94587fbc8d89b"
+    },
+    {
+      "filename": "市政公用工程管理与实务.json",
+      "title": "市政公用工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "市政工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 274,
+      "id": "f936e49ca2584e1f"
     }
   ]
 }

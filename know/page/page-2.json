@@ -1,265 +1,8 @@
 {
   "page": 2,
-  "totalPages": 38,
-  "totalItems": 741,
+  "totalPages": 27,
+  "totalItems": 532,
   "items": [
-    {
-      "filename": "五、实例分析.json",
-      "title": "五、实例分析",
-      "description": "五、实例分析",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 407,
-      "id": "9e4fb7314bc3f860"
-    },
-    {
-      "filename": "五、注意事项.json",
-      "title": "五、注意事项",
-      "description": "五、注意事项",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 265,
-      "id": "74dfba907dfb76ec"
-    },
-    {
-      "filename": "一、核心考点.json",
-      "title": "一、核心考点",
-      "description": "一、核心考点",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 1326,
-      "id": "af7978997694bb01"
-    },
-    {
-      "filename": "综合分析.json",
-      "title": "综合分析",
-      "description": "",
-      "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "综合分析",
-        "分析方法",
-        "逻辑思维"
-      ],
-      "wordCount": 115,
-      "id": "85fd8260bcc67102"
-    },
-    {
-      "filename": "常识判断.json",
-      "title": "常识判断",
-      "description": "",
-      "category": "公务员/行政职业能力测验",
-      "tags": [
-        "行测",
-        "常识判断",
-        "政治",
-        "经济",
-        "法律",
-        "科技",
-        "历史",
-        "地理"
-      ],
-      "wordCount": 195,
-      "id": "ad827cbb8bf8f659"
-    },
-    {
-      "filename": "判断推理.json",
-      "title": "判断推理",
-      "description": "",
-      "category": "公务员/行政职业能力测验",
-      "tags": [
-        "行测",
-        "判断推理",
-        "图形推理",
-        "定义判断",
-        "类比推理",
-        "逻辑判断"
-      ],
-      "wordCount": 236,
-      "id": "9050b3beccad874f"
-    },
-    {
-      "filename": "数量关系.json",
-      "title": "数量关系",
-      "description": "",
-      "category": "公务员/行政职业能力测验",
-      "tags": [
-        "行测",
-        "数量关系",
-        "数学运算",
-        "数字推理"
-      ],
-      "wordCount": 182,
-      "id": "f8b4a33207004494"
-    },
-    {
-      "filename": "言语理解.json",
-      "title": "言语理解",
-      "description": "",
-      "category": "公务员/行政职业能力测验",
-      "tags": [
-        "行测",
-        "言语理解",
-        "逻辑填空",
-        "片段阅读",
-        "语句表达"
-      ],
-      "wordCount": 177,
-      "id": "915e1a246acfeb53"
-    },
-    {
-      "filename": "资料分析.json",
-      "title": "资料分析",
-      "description": "",
-      "category": "公务员/行政职业能力测验",
-      "tags": [
-        "行测",
-        "资料分析",
-        "统计术语",
-        "速算技巧",
-        "图表分析"
-      ],
-      "wordCount": 152,
-      "id": "edd1848040ae9fb2"
-    },
-    {
-      "filename": "家庭理财综合指南.json",
-      "title": "家庭理财综合指南",
-      "description": "全面的家庭理财知识，包括基金投资、保险配置、资产配置等内容",
-      "category": "家庭理财",
-      "tags": [
-        "家庭理财",
-        "基金投资",
-        "保险配置",
-        "资产配置",
-        "个人理财"
-      ],
-      "wordCount": 5722,
-      "id": "fb3a22b540eb22a8"
-    },
-    {
-      "filename": "核心考点.json",
-      "title": "建造师考试核心考点",
-      "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
-      "category": "建造师",
-      "tags": [
-        "建造师",
-        "一建",
-        "二建"
-      ],
-      "wordCount": 4763,
-      "id": "891b181955bf8c6c"
-    },
-    {
-      "filename": "公路工程管理与实务.json",
-      "title": "公路工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "公路工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 207,
-      "id": "1240fa0d522af118"
-    },
-    {
-      "filename": "机电工程管理与实务.json",
-      "title": "机电工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "机电工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 211,
-      "id": "bfe11c4860e52603"
-    },
-    {
-      "filename": "建设工程法规及相关知识.json",
-      "title": "建设工程法规及相关知识",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "法规",
-        "建造师"
-      ],
-      "wordCount": 559,
-      "id": "db168e021cb0af71"
-    },
-    {
-      "filename": "建设工程法律法规实务.json",
-      "title": "建设工程法律法规实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "法律法规",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 279,
-      "id": "1b488fe70388ed27"
-    },
-    {
-      "filename": "建设工程施工管理.json",
-      "title": "建设工程施工管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "施工管理",
-        "建造师"
-      ],
-      "wordCount": 451,
-      "id": "6a8179b10f109354"
-    },
-    {
-      "filename": "建筑工程管理与实务.json",
-      "title": "建筑工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "建筑工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 156,
-      "id": "a1bcf29ecea453db"
-    },
-    {
-      "filename": "施工技术与管理.json",
-      "title": "施工技术与管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "施工技术",
-        "管理",
-        "建造师"
-      ],
-      "wordCount": 173,
-      "id": "2cf94587fbc8d89b"
-    },
-    {
-      "filename": "市政公用工程管理与实务.json",
-      "title": "市政公用工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "市政工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 274,
-      "id": "f936e49ca2584e1f"
-    },
     {
       "filename": "水利水电工程管理与实务.json",
       "title": "水利水电工程管理与实务",
@@ -273,6 +16,270 @@
       ],
       "wordCount": 299,
       "id": "2a47b56568900495"
+    },
+    {
+      "filename": "项目安全管理.json",
+      "title": "项目安全管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "安全管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 200,
+      "id": "8fe4ea7995d306b2"
+    },
+    {
+      "filename": "项目成本管理.json",
+      "title": "项目成本管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "成本管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 205,
+      "id": "b8d7bb2f2668fe1b"
+    },
+    {
+      "filename": "项目管理实务.json",
+      "title": "项目管理实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "项目管理",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 255,
+      "id": "af4d0bf7f7db151a"
+    },
+    {
+      "filename": "项目进度管理.json",
+      "title": "项目进度管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "进度管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 166,
+      "id": "c7c752a4767c2f39"
+    },
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "id": "71c39f516c268fd1"
+    },
+    {
+      "filename": "公路工程管理与实务.json",
+      "title": "公路工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "公路工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 207,
+      "id": "fc359992b46f3ed3"
+    },
+    {
+      "filename": "机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "机电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 211,
+      "id": "a7b57ed1618be4bb"
+    },
+    {
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "法规",
+        "建造师"
+      ],
+      "wordCount": 559,
+      "id": "7eef789c72cc2e71"
+    },
+    {
+      "filename": "建设工程法律法规实务.json",
+      "title": "建设工程法律法规实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "法律法规",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 279,
+      "id": "fa1244339a69ec42"
+    },
+    {
+      "filename": "建设工程经济.json",
+      "title": "建设工程经济",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "工程经济",
+        "建造师"
+      ],
+      "wordCount": 214,
+      "id": "ca0d0ae8cf075c84"
+    },
+    {
+      "filename": "建设工程项目管理.json",
+      "title": "建设工程项目管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "项目管理",
+        "PMBOK",
+        "建造师"
+      ],
+      "wordCount": 629,
+      "id": "7159a8aa660324b4"
+    },
+    {
+      "filename": "建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "建筑工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 156,
+      "id": "30f9152bdb630791"
+    },
+    {
+      "filename": "施工技术与管理.json",
+      "title": "施工技术与管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "施工技术",
+        "管理",
+        "建造师"
+      ],
+      "wordCount": 173,
+      "id": "24279326babd9df0"
+    },
+    {
+      "filename": "市政公用工程管理与实务.json",
+      "title": "市政公用工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "市政工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 274,
+      "id": "5793250af66a75fb"
+    },
+    {
+      "filename": "水利水电工程管理与实务.json",
+      "title": "水利水电工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "水利水电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 299,
+      "id": "c1e52e11bb2d17af"
+    },
+    {
+      "filename": "项目安全管理.json",
+      "title": "项目安全管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "安全管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 200,
+      "id": "45de03bdcf1f0f2c"
+    },
+    {
+      "filename": "项目成本管理.json",
+      "title": "项目成本管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "成本管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 205,
+      "id": "37ba86cbdaa95f4c"
+    },
+    {
+      "filename": "项目风险管理.json",
+      "title": "项目风险管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "风险管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 247,
+      "id": "8c658d432fcf62f0"
+    },
+    {
+      "filename": "项目沟通管理.json",
+      "title": "项目沟通管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "沟通管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 224,
+      "id": "cecb4e65997daedd"
     }
   ]
 }

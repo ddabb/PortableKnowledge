@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "申论",
-    "count": 4
+    "count": 2
   },
   "articles": [
     {
@@ -18,46 +18,19 @@
       "id": "7a8272032cf6c22c"
     },
     {
-      "filename": "大作文框架.json",
-      "title": "大作文框架",
-      "description": "",
+      "filename": "申论综合指南.json",
+      "title": "申论综合指南",
+      "description": "全面的公务员申论知识，包括核心考点、解题技巧、写作模板、大作文框架等内容",
       "category": "公务员/申论",
       "tags": [
+        "公务员",
         "申论",
+        "写作",
         "大作文",
-        "议论文",
-        "写作框架"
+        "公文"
       ],
-      "wordCount": 135,
-      "id": "80662090c6f5d919"
-    },
-    {
-      "filename": "归纳概括.json",
-      "title": "归纳概括",
-      "description": "",
-      "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "归纳概括",
-        "概括方法",
-        "要点提取"
-      ],
-      "wordCount": 121,
-      "id": "27e061e7e872d489"
-    },
-    {
-      "filename": "综合分析.json",
-      "title": "综合分析",
-      "description": "",
-      "category": "公务员/申论",
-      "tags": [
-        "申论",
-        "综合分析",
-        "分析方法",
-        "逻辑思维"
-      ],
-      "wordCount": 115,
-      "id": "85fd8260bcc67102"
+      "wordCount": 4762,
+      "id": "8ea80bd803d79bbf"
     }
   ]
 }

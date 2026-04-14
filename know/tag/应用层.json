@@ -1,23 +1,9 @@
 {
   "meta": {
     "tag": "应用层",
-    "count": 2
+    "count": 1
   },
   "articles": [
-    {
-      "filename": "应用层.json",
-      "title": "应用层",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机网络",
-        "应用层",
-        "408",
-        "考研"
-      ],
-      "wordCount": 218,
-      "id": "b9c9c3d14a4fb6ce"
-    },
     {
       "filename": "物联网.json",
       "title": "物联网",

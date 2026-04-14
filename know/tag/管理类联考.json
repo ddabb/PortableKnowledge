@@ -1,187 +1,23 @@
 {
   "meta": {
     "tag": "管理类联考",
-    "count": 13
+    "count": 1
   },
   "articles": [
     {
-      "filename": "核心考点.json",
-      "title": "考研专业课核心考点",
-      "description": "考研专业课：408计算机、311教育学、199管理类联考核心考点",
+      "filename": "考研专业课综合指南.json",
+      "title": "考研专业课综合指南",
+      "description": "全面的考研专业课知识，包括教育学、管理类联考、计算机等专业的备考指南",
       "category": "考研专业课",
       "tags": [
         "考研",
-        "计算机",
+        "专业课",
         "教育学",
-        "管理类联考"
-      ],
-      "wordCount": 3969,
-      "id": "0f7696138546b52b"
-    },
-    {
-      "filename": "代数.json",
-      "title": "代数",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
         "管理类联考",
-        "数学",
-        "代数",
-        "考研"
+        "计算机"
       ],
-      "wordCount": 816,
-      "id": "80ba64830a2d44a1"
-    },
-    {
-      "filename": "非形式逻辑.json",
-      "title": "非形式逻辑",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "非形式逻辑",
-        "考研"
-      ],
-      "wordCount": 669,
-      "id": "ec71a12e2ef3cabc"
-    },
-    {
-      "filename": "几何.json",
-      "title": "几何",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "几何",
-        "考研"
-      ],
-      "wordCount": 604,
-      "id": "fb93a8679cfddcb3"
-    },
-    {
-      "filename": "论说文.json",
-      "title": "论说文",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "论说文",
-        "考研"
-      ],
-      "wordCount": 827,
-      "id": "d899dd3b1c2b58da"
-    },
-    {
-      "filename": "论证有效性分析.json",
-      "title": "论证有效性分析",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "论证有效性分析",
-        "考研"
-      ],
-      "wordCount": 659,
-      "id": "7b2912b39b505a2a"
-    },
-    {
-      "filename": "逻辑推理概述.json",
-      "title": "逻辑推理概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "考研"
-      ],
-      "wordCount": 535,
-      "id": "f7cba9894be0249b"
-    },
-    {
-      "filename": "数据分析.json",
-      "title": "数据分析",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "数据分析",
-        "考研"
-      ],
-      "wordCount": 615,
-      "id": "56d2551109480057"
-    },
-    {
-      "filename": "数学基础概述.json",
-      "title": "数学基础概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "考研"
-      ],
-      "wordCount": 512,
-      "id": "fbac4cc196455609"
-    },
-    {
-      "filename": "算术.json",
-      "title": "算术",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "算术",
-        "考研"
-      ],
-      "wordCount": 452,
-      "id": "c7264cd59e76d049"
-    },
-    {
-      "filename": "写作概述.json",
-      "title": "写作概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "考研"
-      ],
-      "wordCount": 587,
-      "id": "6f4d5a8c7a82f6f0"
-    },
-    {
-      "filename": "形式逻辑.json",
-      "title": "形式逻辑",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "形式逻辑",
-        "考研"
-      ],
-      "wordCount": 540,
-      "id": "ad79d4df010e1540"
-    },
-    {
-      "filename": "综合推理.json",
-      "title": "综合推理",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "综合推理",
-        "考研"
-      ],
-      "wordCount": 651,
-      "id": "bcc6026be1636404"
+      "wordCount": 8748,
+      "id": "eb93eff2fd482a26"
     }
   ]
 }

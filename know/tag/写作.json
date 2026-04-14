@@ -1,49 +1,23 @@
 {
   "meta": {
     "tag": "写作",
-    "count": 3
+    "count": 1
   },
   "articles": [
     {
-      "filename": "论说文.json",
-      "title": "论说文",
-      "description": "",
-      "category": "考研专业课/管理类联考",
+      "filename": "申论综合指南.json",
+      "title": "申论综合指南",
+      "description": "全面的公务员申论知识，包括核心考点、解题技巧、写作模板、大作文框架等内容",
+      "category": "公务员/申论",
       "tags": [
-        "管理类联考",
+        "公务员",
+        "申论",
         "写作",
-        "论说文",
-        "考研"
+        "大作文",
+        "公文"
       ],
-      "wordCount": 827,
-      "id": "d899dd3b1c2b58da"
-    },
-    {
-      "filename": "论证有效性分析.json",
-      "title": "论证有效性分析",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "论证有效性分析",
-        "考研"
-      ],
-      "wordCount": 659,
-      "id": "7b2912b39b505a2a"
-    },
-    {
-      "filename": "写作概述.json",
-      "title": "写作概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "考研"
-      ],
-      "wordCount": 587,
-      "id": "6f4d5a8c7a82f6f0"
+      "wordCount": 4762,
+      "id": "8ea80bd803d79bbf"
     }
   ]
 }

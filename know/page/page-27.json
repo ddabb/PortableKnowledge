@@ -1,255 +1,171 @@
 {
   "page": 27,
-  "totalPages": 38,
-  "totalItems": 741,
+  "totalPages": 27,
+  "totalItems": 532,
   "items": [
     {
-      "filename": "项目效益管理计划.json",
-      "title": "项目效益管理计划",
-      "description": "项目效益管理计划描述了项目实现效益的方式和时间，以及应制定的效益衡量机制。",
-      "category": "软考/综合知识/引论",
+      "filename": "个人所得税税收优惠.json",
+      "title": "个人所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
+        "个人所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
       ],
-      "wordCount": 630,
-      "id": "eab70acdfe7615a2"
+      "wordCount": 549,
+      "id": "215c769b099e3c2f"
     },
     {
-      "filename": "项目章程和项目管理计划.json",
-      "title": "项目章程和项目管理计划",
-      "description": "项目章程是由项目发起人发布的，正式批准项目成立，并授权项目经理动用组织资源开展项目活动的文件。",
-      "category": "软考/综合知识/引论",
+      "filename": "个人所得税应纳税额计算.json",
+      "title": "个人所得税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
+        "个人所得税",
+        "应纳税额",
+        "计算",
+        "CPA"
       ],
-      "wordCount": 103,
-      "id": "4c7b7662d15add9d"
+      "wordCount": 759,
+      "id": "978350a148cbae33"
     },
     {
-      "filename": "新型基础设施建设.json",
-      "title": "新型基础设施建设",
-      "description": "新型基础设施是以新发展理念为引领，以技术创新为驱动，以信息网络为基础，面向高质量发展需要，提供数字转型、智能升级、融合创新等服务的基础设施体系。",
-      "category": "软考/综合知识/引论",
+      "filename": "企业所得税概述.json",
+      "title": "企业所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "新基建",
-        "软考备考"
+        "企业所得税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 397,
-      "id": "b30fee4ba33b7b01"
+      "wordCount": 395,
+      "id": "d73ba40442f0aeea"
     },
     {
-      "filename": "信息化基础.json",
-      "title": "信息化基础",
-      "description": "信息化是指培养、发展以计算机为主的智能化工具为代表的新生产力，并使之造福于社会的历史过程。国家信息化体系包括信息技术应用、信息资源、信息网络、信息技术和产业、信息化人才、信息化政策法规和标准规范6个要素。",
-      "category": "软考/综合知识/引论",
+      "filename": "企业所得税税收优惠.json",
+      "title": "企业所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "信息与信息化",
-        "软考备考"
+        "企业所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
       ],
-      "wordCount": 465,
-      "id": "011dc00feb20c036"
+      "wordCount": 929,
+      "id": "de2aa7c5c7accbcc"
     },
     {
-      "filename": "信息基础.json",
-      "title": "信息基础",
-      "description": "信息是物质、能量及其属性的标示的集合，是确定性的增加。1948年香农将信息定义为\"用来消除随机不定性的东西\"，信息量的单位为比特(bit)。",
-      "category": "软考/综合知识/引论",
+      "filename": "企业所得税应纳税所得额.json",
+      "title": "企业所得税应纳税所得额",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "信息与信息化",
-        "软考备考"
+        "企业所得税",
+        "应纳税所得额",
+        "计算",
+        "CPA"
       ],
-      "wordCount": 302,
-      "id": "3e5307a35c773706"
+      "wordCount": 941,
+      "id": "2307cec8cfad239d"
     },
     {
-      "filename": "虚拟现实.json",
-      "title": "虚拟现实",
-      "description": "VR/AR/MR概念、关键技术及应用",
-      "category": "软考/综合知识/引论",
+      "filename": "土地增值税.json",
+      "title": "土地增值税",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "VR",
-        "AR",
-        "MR",
-        "虚拟现实",
-        "人机交互"
+        "土地增值税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 880,
-      "id": "61bb1bdbf5d1614e"
+      "wordCount": 638,
+      "id": "e7718a8ce428646e"
     },
     {
-      "filename": "元宇宙.json",
-      "title": "元宇宙",
-      "description": "元宇宙是利用科技手段进行链接与创造的，与现实世界映射与交互的虚拟世界，具备新型社会体系的数字生活空间。主要特征包括沉浸式体验、虚拟身份、虚拟经济和虚拟社会治理。",
-      "category": "软考/综合知识/引论",
+      "filename": "消费税概述.json",
+      "title": "消费税概述",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "元宇宙",
-        "数字化转型",
-        "软考备考"
+        "消费税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 409,
-      "id": "be384342350e68e2"
+      "wordCount": 489,
+      "id": "8a60a154349ac4a8"
     },
     {
-      "filename": "云计算.json",
-      "title": "云计算",
-      "description": "云计算概念、服务模式、部署模式及关键技术",
-      "category": "软考/综合知识/引论",
+      "filename": "消费税税收优惠.json",
+      "title": "消费税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "IaaS",
-        "PaaS",
-        "SaaS",
-        "虚拟化",
-        "云存储",
-        "分布式计算"
+        "消费税",
+        "税收优惠",
+        "减免税",
+        "CPA"
       ],
-      "wordCount": 994,
-      "id": "51de51bc04ef8c7d"
+      "wordCount": 318,
+      "id": "c8ecba9b705482cf"
     },
     {
-      "filename": "指南概述和目的.json",
-      "title": "指南概述和目的",
-      "description": "项目管理并非新概念，它已存在数百年之久。项目成果的例子包括：",
-      "category": "软考/综合知识/引论",
+      "filename": "消费税应纳税额计算.json",
+      "title": "消费税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "指南概述和目的",
-        "PMP"
+        "消费税",
+        "应纳税额",
+        "计算",
+        "CPA"
       ],
-      "wordCount": 918,
-      "id": "8105ec5194a73f2f"
+      "wordCount": 647,
+      "id": "6894c86a560d13be"
     },
     {
-      "filename": "PMBOK的发展.json",
-      "title": "PMBOK的发展",
-      "description": "PMBOK各版本演变历程及关键变化",
-      "category": "软考/综合知识/引论",
+      "filename": "增值税概述.json",
+      "title": "增值税概述",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "PMBOK",
-        "PMI",
-        "项目管理",
-        "版本演变"
+        "增值税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 986,
-      "id": "e5768cb7ba885bba"
+      "wordCount": 393,
+      "id": "4c1eeec0434a501d"
     },
     {
-      "filename": "健康养生指南.json",
-      "title": "健康养生指南",
-      "description": "全面的健康知识和养生方法",
-      "category": "生活通识",
+      "filename": "增值税税收优惠.json",
+      "title": "增值税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "健康",
-        "养生",
-        "疾病预防"
+        "增值税",
+        "税收优惠",
+        "减免税",
+        "CPA"
       ],
-      "wordCount": 2523,
-      "id": "8ad4392b2ed88b68"
+      "wordCount": 1223,
+      "id": "541e58286de87b05"
     },
     {
-      "filename": "安全防范综合指南.json",
-      "title": "安全防范综合指南",
-      "description": "全面的安全防范知识，包括诈骗防范、赌博防范等内容",
-      "category": "生活通识/安全防范",
+      "filename": "增值税应纳税额计算.json",
+      "title": "增值税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "安全防范",
-        "诈骗",
-        "赌博",
-        "个人信息保护"
+        "增值税",
+        "应纳税额",
+        "计算",
+        "CPA"
       ],
-      "wordCount": 2524,
-      "id": "29dd80ae24a63146"
-    },
-    {
-      "filename": "急救知识综合指南.json",
-      "title": "急救知识综合指南",
-      "description": "全面的急救知识，包括心肺复苏、AED使用等内容",
-      "category": "生活通识/急救知识",
-      "tags": [
-        "急救知识",
-        "心肺复苏",
-        "AED",
-        "紧急救援"
-      ],
-      "wordCount": 1921,
-      "id": "e779f911e981f3c9"
-    },
-    {
-      "filename": "癌症预防指南.json",
-      "title": "癌症预防指南",
-      "description": "癌症的基础知识、致癌因素、早期信号和筛查方法",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "癌症",
-        "预防",
-        "健康养生"
-      ],
-      "wordCount": 1622,
-      "id": "011ddaf520cd97c9"
-    },
-    {
-      "filename": "八、生活方式养护.json",
-      "title": "八、生活方式养护",
-      "description": "八、生活方式养护",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 252,
-      "id": "e26c8a5fd7c9ae1c"
-    },
-    {
-      "filename": "八、疫情防护（传染病）.json",
-      "title": "八、疫情防护（传染病）",
-      "description": "八、疫情防护（传染病）",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 292,
-      "id": "ca07856d3420b289"
-    },
-    {
-      "filename": "呼吸系统健康指南.json",
-      "title": "呼吸系统健康指南",
-      "description": "呼吸系统的基础知识、常见疾病和预防措施",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "呼吸系统",
-        "健康养生",
-        "预防"
-      ],
-      "wordCount": 2407,
-      "id": "e7068145b84ce970"
-    },
-    {
-      "filename": "健康养生执行指南.json",
-      "title": "健康养生执行指南",
-      "description": "健康养生的执行清单、常见误区和预防措施",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "健康养生",
-        "执行清单",
-        "常见误区"
-      ],
-      "wordCount": 2549,
-      "id": "d4ec84b91e8394e7"
-    },
-    {
-      "filename": "九、养肺护肺.json",
-      "title": "九、养肺护肺",
-      "description": "九、养肺护肺",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 192,
-      "id": "45a7501859c3342b"
-    },
-    {
-      "filename": "六、高危人群管理.json",
-      "title": "六、高危人群管理",
-      "description": "六、高危人群管理",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 233,
-      "id": "ee9f40f40464de66"
+      "wordCount": 511,
+      "id": "acaeaa880437f40f"
     }
   ]
 }

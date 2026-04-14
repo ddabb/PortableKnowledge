@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "教育心理学",
-    "count": 4
+    "count": 3
   },
   "articles": [
     {
@@ -42,19 +42,6 @@
       ],
       "wordCount": 5273,
       "id": "3f7a8875e981abc4"
-    },
-    {
-      "filename": "教育心理学概述.json",
-      "title": "教育心理学概述",
-      "description": "",
-      "category": "考研专业课/教育学专业基础综合",
-      "tags": [
-        "教育学",
-        "教育心理学",
-        "考研"
-      ],
-      "wordCount": 440,
-      "id": "190810ca16151813"
     }
   ]
 }

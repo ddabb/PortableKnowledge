@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "学习理论",
-    "count": 2
+    "count": 1
   },
   "articles": [
     {
@@ -16,19 +16,6 @@
       ],
       "wordCount": 5273,
       "id": "3f7a8875e981abc4"
-    },
-    {
-      "filename": "学习理论.json",
-      "title": "学习理论",
-      "description": "",
-      "category": "考研专业课/教育学专业基础综合",
-      "tags": [
-        "教育学",
-        "学习理论",
-        "考研"
-      ],
-      "wordCount": 557,
-      "id": "9e9ce2126377fc96"
     }
   ]
 }

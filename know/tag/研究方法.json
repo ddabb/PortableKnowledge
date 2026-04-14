@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "研究方法",
-    "count": 4
+    "count": 2
   },
   "articles": [
     {
@@ -29,32 +29,6 @@
       ],
       "wordCount": 4369,
       "id": "e259e78f89d8bb0a"
-    },
-    {
-      "filename": "教育研究方法概述.json",
-      "title": "教育研究方法概述",
-      "description": "",
-      "category": "考研专业课/教育学专业基础综合",
-      "tags": [
-        "教育学",
-        "研究方法",
-        "考研"
-      ],
-      "wordCount": 462,
-      "id": "cb76ac3d73313f7a"
-    },
-    {
-      "filename": "心理学研究方法.json",
-      "title": "心理学研究方法",
-      "description": "心理学研究的主要方法和应用",
-      "category": "心理学/基础心理学",
-      "tags": [
-        "研究方法",
-        "心理学",
-        "实验设计"
-      ],
-      "wordCount": 2273,
-      "id": "f30f3b9385a17c36"
     }
   ]
 }

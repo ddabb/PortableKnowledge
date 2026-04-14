@@ -1,278 +1,278 @@
 {
   "page": 25,
-  "totalPages": 38,
-  "totalItems": 741,
+  "totalPages": 27,
+  "totalItems": 532,
   "items": [
     {
-      "filename": "软件设计.json",
-      "title": "软件设计",
-      "description": "结构化设计、面向对象设计、UML、设计原则",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "应付利息和应付股利.json",
+      "title": "应付利息和应付股利",
+      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "软件设计",
-        "结构化设计",
-        "OOD",
-        "UML",
-        "设计模式"
+        "CPA",
+        "会计",
+        "应付利息",
+        "应付股利"
       ],
-      "wordCount": 1711,
-      "id": "008f8f7950c935c7"
+      "wordCount": 668,
+      "id": "548bdca14739cb31"
     },
     {
-      "filename": "软件质量保证.json",
-      "title": "软件质量保证",
-      "description": "软件质量管理、SQA活动、质量模型、测试方法",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "应付票据.json",
+      "title": "应付票据",
+      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "软件质量",
-        "SQA",
-        "CMMI",
-        "软件测试"
+        "CPA",
+        "会计",
+        "应付票据",
+        "商业汇票"
       ],
-      "wordCount": 1456,
-      "id": "2a9e91bd4e628181"
+      "wordCount": 762,
+      "id": "b6bd3ee4d13fca56"
     },
     {
-      "filename": "数据仓库.json",
-      "title": "数据仓库",
-      "description": "数据仓库概念、特点、架构与数据资产管理",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "应付账款.json",
+      "title": "应付账款",
+      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "数据仓库",
-        "OLAP",
-        "数据资产",
-        "主题库"
+        "CPA",
+        "会计",
+        "应付账款",
+        "现金折扣"
       ],
-      "wordCount": 1694,
-      "id": "b049e1747ee3425b"
+      "wordCount": 1044,
+      "id": "2350ee48d8cc9b5b"
     },
     {
-      "filename": "数据工程概述.json",
-      "title": "数据工程概述",
-      "description": "数据工程概念、数据采集与预处理、数据存储与管理",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "应付职工薪酬.json",
+      "title": "应付职工薪酬",
+      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
+      "category": "注册会计师/会计",
       "tags": [
-        "数据工程",
-        "数据采集",
-        "数据预处理",
-        "数据存储"
+        "CPA",
+        "会计",
+        "应付职工薪酬",
+        "核算"
       ],
-      "wordCount": 1434,
-      "id": "5abc3a58e7e58910"
+      "wordCount": 1144,
+      "id": "568e00039dccb6b5"
     },
     {
-      "filename": "数据挖掘.json",
-      "title": "数据挖掘",
-      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "数据挖掘",
-        "数据分析",
-        "数据集成",
-        "数据可视化"
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
       ],
-      "wordCount": 1783,
-      "id": "4d49fa1d72cc021d"
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
     },
     {
-      "filename": "数据治理.json",
-      "title": "数据治理",
-      "description": "数据治理框架、数据标准化、数据质量管理",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "数据治理",
-        "数据标准化",
-        "数据质量",
-        "元数据"
+        "CPA",
+        "会计",
+        "应收账款",
+        "应收票据"
       ],
-      "wordCount": 1613,
-      "id": "8f6593ae23dbd0c8"
+      "wordCount": 1285,
+      "id": "b149d1a5237bfb5f"
     },
     {
-      "filename": "系统运行与维护.json",
-      "title": "系统运行与维护",
-      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "系统运维",
-        "SLA",
-        "ITIL",
-        "软件开发"
+        "CPA",
+        "会计",
+        "预收账款",
+        "核算"
       ],
-      "wordCount": 1220,
-      "id": "7fdb4b2adeb101bf"
+      "wordCount": 702,
+      "id": "5a1db8a8635278a1"
     },
     {
-      "filename": "需求工程.json",
-      "title": "需求工程",
-      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "需求工程",
-        "需求分析",
-        "SRS",
-        "需求变更"
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
       ],
-      "wordCount": 1170,
-      "id": "e6e021df007bc16e"
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
     },
     {
-      "filename": "裁剪.json",
-      "title": "裁剪",
-      "description": "项目经理通常将项目管理方法论应用于工作。方法论是由专门的从业人员所采用的实践、技术、程序和规则所组成的体系。根据这一定义，本指南本身并不是方法论。",
-      "category": "软考/综合知识/引论",
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "PMP"
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
       ],
-      "wordCount": 642,
-      "id": "fd1269f820880db7"
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
     },
     {
-      "filename": "大数据.json",
-      "title": "大数据",
-      "description": "大数据特征、处理流程、关键技术及应用",
-      "category": "软考/综合知识/引论",
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
       "tags": [
-        "5V特征",
-        "数据处理",
-        "Hadoop",
-        "Spark",
-        "数据挖掘"
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
       ],
-      "wordCount": 932,
-      "id": "efd97da51b1af147"
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
     },
     {
-      "filename": "道德与专业行为规范.json",
-      "title": "道德与专业行为规范",
-      "description": "PMI 发布了《道德与专业行为规范》[5]，为项目管理专业人员增强了信心并帮助个人做出明智的决策，尤其是在面对被要求违背正直诚信或价值观的困境时。",
-      "category": "软考/综合知识/引论",
+      "filename": "反不正当竞争法概述.json",
+      "title": "反不正当竞争法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "指南概述和目的"
+        "反不正当竞争法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 326,
-      "id": "2f4ed6e3b5fc22fc"
+      "wordCount": 757,
+      "id": "c4e8b6f024c78459"
     },
     {
-      "filename": "工业互联网.json",
-      "title": "工业互联网",
-      "description": "工业互联网是新一代信息通信技术与工业经济深度融合的新型基础设施、应用模式和工业生态，通过对人、机、物、系统等的全面连接，构建起覆盖全产业链、全价值链的全新制造和服务体系。",
-      "category": "软考/综合知识/引论",
+      "filename": "反垄断法概述.json",
+      "title": "反垄断法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "工业互联网",
-        "软考备考"
+        "反垄断法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 544,
-      "id": "3e722211e2851ef8"
+      "wordCount": 327,
+      "id": "dc2a54c5f75a7bdc"
     },
     {
-      "filename": "价值交付系统.json",
-      "title": "价值交付系统",
-      "description": "价值创造方式、价值交付组件、信息流",
-      "category": "软考/综合知识/引论",
+      "filename": "公司法概述.json",
+      "title": "公司法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "价值交付",
-        "PMP",
-        "PMBOK"
+        "公司法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 2007,
-      "id": "736351a7ddd126ce"
+      "wordCount": 294,
+      "id": "ff86ecb868f095ee"
     },
     {
-      "filename": "阶段关口.json",
-      "title": "阶段关口",
-      "description": "阶段关口在项目阶段结束时进行，将项目的绩效和进度与项目和业务文件比较，这些文件包括（ 但不限于）：",
-      "category": "软考/综合知识/引论",
+      "filename": "合同法概述.json",
+      "title": "合同法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "基本要素",
-        "指南的组成部分"
+        "合同法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 238,
-      "id": "880fb41ab2ba7f95"
+      "wordCount": 318,
+      "id": "103610937ddf56f5"
     },
     {
-      "filename": "两化融合.json",
-      "title": "两化融合",
-      "description": "两化融合是信息化和工业化的高层次的深度结合，包括技术融合、产品融合、业务融合和产业衍生四个方面，是数字经济时代建设制造强国、网络强国和数字中国的结合点。",
-      "category": "软考/综合知识/引论",
+      "filename": "经济纠纷解决方式.json",
+      "title": "经济纠纷解决方式",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "两化融合",
-        "工业现代化",
-        "软考备考"
+        "经济纠纷",
+        "解决方式",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 576,
-      "id": "4469c5c0f3aaeb4e"
+      "wordCount": 624,
+      "id": "6f28046aa934540d"
     },
     {
-      "filename": "启动过程组的重点工作.json",
-      "title": "启动过程组的重点工作",
-      "description": "启动过程组包括定义新项目或新阶段、授权开始项目的一组过程，其重点工作包括项目启动会议和关注价值与目标。",
-      "category": "软考/综合知识/引论",
+      "filename": "票据法概述.json",
+      "title": "票据法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "启动过程组",
-        "PMP",
-        "过程组"
+        "票据法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1243,
-      "id": "af83fb68563e0eb6"
+      "wordCount": 215,
+      "id": "b2f548bfa3843e2b"
     },
     {
-      "filename": "区块链.json",
-      "title": "区块链",
-      "description": "区块链概念、核心技术、类型及应用",
-      "category": "软考/综合知识/引论",
+      "filename": "破产法概述.json",
+      "title": "破产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "区块链",
-        "共识机制",
-        "智能合约",
-        "分布式账本",
-        "公有链",
-        "私有链"
+        "破产法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1001,
-      "id": "258e3511c26a1d04"
+      "wordCount": 283,
+      "id": "cd6bfd3f56cbfb10"
     },
     {
-      "filename": "人工智能.json",
-      "title": "人工智能",
-      "description": "AI概念、发展阶段、关键技术及应用",
-      "category": "软考/综合知识/引论",
+      "filename": "企业国有资产法概述.json",
+      "title": "企业国有资产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "AI",
-        "机器学习",
-        "深度学习",
-        "自然语言处理",
-        "专家系统"
+        "企业国有资产法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 854,
-      "id": "5656b4a271e0fc8f"
+      "wordCount": 470,
+      "id": "ea02692ed7be380d"
     },
     {
-      "filename": "收尾过程组的重点工作.json",
-      "title": "收尾过程组的重点工作",
-      "description": "收尾过程组概述、结束项目或阶段步骤、项目文件归档、经验教训总结、合同收尾",
-      "category": "软考/综合知识/引论",
+      "filename": "涉外经济法律制度概述.json",
+      "title": "涉外经济法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "收尾过程组",
-        "PMP",
-        "过程组"
+        "涉外经济法律制度",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 2654,
-      "id": "0a1544ca6c74418b"
+      "wordCount": 318,
+      "id": "3b46227da5fa1039"
     },
     {
-      "filename": "数字化转型.json",
-      "title": "数字化转型",
-      "description": "数字化转型是建立在数字化转换、数字化升级基础上，进一步触及组织核心业务，以新建一种业务模式为目标的高层次转型。其核心是\"智慧转移\"——从自然人个体智慧转移到组织智慧。",
-      "category": "软考/综合知识/引论",
+      "filename": "物权法概述.json",
+      "title": "物权法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "数字化转型",
-        "软考备考"
+        "物权法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 521,
-      "id": "85c4495592491abf"
+      "wordCount": 227,
+      "id": "fcba634f56916172"
     }
   ]
 }

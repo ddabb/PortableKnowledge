@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "教育改革",
-    "count": 3
+    "count": 2
   },
   "articles": [
     {
@@ -29,20 +29,6 @@
       ],
       "wordCount": 3390,
       "id": "a984c08f238b1def"
-    },
-    {
-      "filename": "教育现代化与教育改革.json",
-      "title": "教育现代化与教育改革",
-      "description": "",
-      "category": "考研专业课/教育学专业基础综合",
-      "tags": [
-        "教育学",
-        "教育现代化",
-        "教育改革",
-        "考研"
-      ],
-      "wordCount": 634,
-      "id": "09957b419e9fd41b"
     }
   ]
 }

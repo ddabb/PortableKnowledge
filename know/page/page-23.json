@@ -1,273 +1,294 @@
 {
   "page": 23,
-  "totalPages": 38,
-  "totalItems": 741,
+  "totalPages": 27,
+  "totalItems": 532,
   "items": [
     {
-      "filename": "亲和图.json",
-      "title": "亲和图",
-      "description": "一种用于组织和分析大量创意或信息的技术，通过分组整理以便进一步审查和分析。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "招聘与配置.json",
+      "title": "招聘与配置",
+      "description": "中级经济师人力资源章节核心知识点，包括招聘定义、流程、渠道和配置方法",
+      "category": "中级经济师/人力资源",
       "tags": [
-        "数据表现",
-        "项目管理",
-        "质量管理"
+        "中级经济师",
+        "人力资源",
+        "招聘与配置",
+        "招聘渠道",
+        "选拔方法",
+        "人员配置"
       ],
-      "wordCount": 1490,
-      "id": "2778377756582ebd"
+      "wordCount": 1961,
+      "id": "a7dce44ebfac4cbf"
     },
     {
-      "filename": "思维导图.json",
-      "title": "思维导图",
-      "description": "把从头脑风暴中获得的创意整合成一张图，用以反映创意之间的共性与差异，激发新创意。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "组织行为学概述.json",
+      "title": "组织行为学概述",
+      "description": "中级经济师人力资源章节核心知识点，包括组织行为学定义、研究对象、基本理论和研究方法",
+      "category": "中级经济师/人力资源",
       "tags": [
-        "数据表现"
+        "中级经济师",
+        "人力资源",
+        "组织行为学",
+        "个体行为",
+        "群体行为",
+        "组织行为"
       ],
-      "wordCount": 40,
-      "id": "5eeefa24c55d2ad5"
+      "wordCount": 2187,
+      "id": "f4d8fb67f1127bde"
     },
     {
-      "filename": "统计抽样.json",
-      "title": "统计抽样",
-      "description": "统计抽样是指从目标总体中选取部分样本用于检查（如从 75 张工程图纸中随机抽取10 张）。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "金融市场概述.json",
+      "title": "金融市场概述",
+      "description": "中级经济师金融章节核心知识点，包括金融市场定义、类型、功能和发展趋势",
+      "category": "中级经济师/专业科目",
       "tags": [
-        "数据收集"
+        "中级经济师",
+        "金融",
+        "金融市场",
+        "货币市场",
+        "资本市场",
+        "金融工具"
       ],
-      "wordCount": 78,
-      "id": "90e7eee2b90850f3"
+      "wordCount": 1860,
+      "id": "bda87b9b4d9beb05"
     },
     {
-      "filename": "头脑风暴.json",
-      "title": "头脑风暴完全指南",
-      "description": "头脑风暴的核心方法、流程、技巧与常见误区",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "企业战略管理.json",
+      "title": "企业战略管理",
+      "description": "中级经济师工商管理章节核心知识点，包括企业战略定义、类型、制定过程和实施",
+      "category": "中级经济师/专业科目",
       "tags": [
-        "数据收集",
-        "头脑风暴",
-        "创意",
-        "会议"
+        "中级经济师",
+        "工商管理",
+        "企业战略",
+        "战略管理",
+        "战略制定",
+        "战略实施"
       ],
-      "wordCount": 1194,
-      "id": "913b8543d21f1108"
+      "wordCount": 2101,
+      "id": "776f43da18e81d08"
     },
     {
-      "filename": "投票.json",
-      "title": "投票完全指南",
-      "description": "投票的定义、类型、实施方法和在项目管理中的应用",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "核心考点.json",
+      "title": "注册会计师考试核心考点",
+      "description": "CPA备考知识体系：会计、审计、财管、税法、经济法、公司战略核心考点",
+      "category": "注册会计师",
       "tags": [
-        "决策",
-        "投票",
-        "共识",
-        "团队决策"
+        "CPA",
+        "会计",
+        "审计"
       ],
-      "wordCount": 1310,
-      "id": "eca1be53e721daa8"
+      "wordCount": 30,
+      "id": "f6856ff8e910a234"
     },
     {
-      "filename": "问卷调查.json",
-      "title": "问卷调查",
-      "description": "问卷调查是指设计一系列书面问题，向众多受访者快速收集信息。问卷调查方法非常适用于以下情况：受众多样化，需要快速完成调查，受访者地理位置分散，并且适合开展统计分析。可用于在部署产品或服务之后收集关于客户...",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "本量利分析.json",
+      "title": "本量利分析",
+      "description": "CPA财务成本管理本量利分析章节核心知识点，包括成本、业务量和利润之间的关系",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "数据收集"
+        "CPA",
+        "财务成本管理",
+        "本量利分析",
+        "盈亏平衡分析"
       ],
-      "wordCount": 156,
-      "id": "b20cf68b7c8f9fe2"
+      "wordCount": 1238,
+      "id": "e69fb0be6ed42e87"
     },
     {
-      "filename": "引导.json",
-      "title": "引导",
-      "description": "引导是指有效引导团队活动成功以达成决定、解决方案或结论的能力。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "标准成本法.json",
+      "title": "标准成本法",
+      "description": "CPA财务成本管理标准成本法章节核心知识点，包括标准成本的制定和差异分析",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "人际关系与团队技能"
+        "CPA",
+        "财务成本管理",
+        "标准成本法",
+        "差异分析"
       ],
-      "wordCount": 99,
-      "id": "4f37d4cbc7ffb497"
+      "wordCount": 1197,
+      "id": "ada36c7df44cfc8c"
     },
     {
-      "filename": "质量功能展开.json",
-      "title": "质量功能展开完全指南",
-      "description": "QFD质量屋的原理、构建步骤、软件开发中的应用和实施要点",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "财务报表分析.json",
+      "title": "财务报表分析",
+      "description": "CPA财务成本管理财务报表分析章节核心知识点，包括财务比率分析和财务报表解读",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "人际关系与团队技能",
-        "质量功能展开",
-        "QFD",
-        "需求分析",
-        "质量规划"
+        "CPA",
+        "财务成本管理",
+        "财务报表分析",
+        "财务比率"
       ],
-      "wordCount": 2988,
-      "id": "adf996186008b004"
+      "wordCount": 1142,
+      "id": "d6bad0bd03b2b269"
     },
     {
-      "filename": "网络图与关键路径计算.json",
-      "title": "网络图与关键路径计算",
-      "description": "软考中项必考计算——网络图分析、关键路径法（CPM）及各节点时间参数计算方法与例题。",
-      "category": "软考/综合知识/计算题专项",
+      "filename": "财务管理概述.json",
+      "title": "财务管理概述",
+      "description": "CPA财务成本管理财务管理概述章节核心知识点，包括财务管理的目标和内容",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "网络图",
-        "关键路径",
-        "CPM",
-        "计算题"
+        "CPA",
+        "财务成本管理",
+        "财务管理",
+        "目标内容"
       ],
-      "wordCount": 1130,
-      "id": "31c4b9b088ef715f"
+      "wordCount": 971,
+      "id": "8950688bbf2ec982"
     },
     {
-      "filename": "挣值分析计算专项.json",
-      "title": "挣值分析计算专项",
-      "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
-      "category": "软考/综合知识/计算题专项",
+      "filename": "财务预测.json",
+      "title": "财务预测",
+      "description": "CPA财务成本管理财务预测章节核心知识点，包括销售预测和财务报表预测",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "挣值分析",
-        "EVM",
-        "计算题",
-        "中项核心"
+        "CPA",
+        "财务成本管理",
+        "财务预测",
+        "销售预测"
       ],
-      "wordCount": 1240,
-      "id": "261aaa76fbd66b9b"
+      "wordCount": 1153,
+      "id": "11b78855ee02f677"
     },
     {
-      "filename": "PERT估算与其他计算专项.json",
-      "title": "PERT估算与其他计算专项",
-      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
-      "category": "软考/综合知识/计算题专项",
+      "filename": "成本计算.json",
+      "title": "成本计算",
+      "description": "CPA财务成本管理成本计算章节核心知识点，包括产品成本计算和期间费用核算",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "PERT",
-        "三点估算",
-        "计算题",
-        "中项核心"
+        "CPA",
+        "财务成本管理",
+        "成本计算",
+        "产品成本"
       ],
-      "wordCount": 1298,
-      "id": "9b2fbbd00f6b1f16"
+      "wordCount": 1906,
+      "id": "065c8ad87974a650"
     },
     {
-      "filename": "软考中项案例分析答题框架.json",
-      "title": "软考中项案例分析答题框架",
-      "description": "系统梳理案例分析各类题型的万能答题框架、常见失分原因、标准化答题步骤，配套各知识域典型案例答题模板，助你高效拿下案例分析。",
-      "category": "软考/综合知识/软考备考",
+      "filename": "短期经营决策.json",
+      "title": "短期经营决策",
+      "description": "CPA财务成本管理短期经营决策章节核心知识点，包括生产决策和定价决策",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "案例分析",
-        "答题框架",
-        "万能模板",
-        "应试技巧"
+        "CPA",
+        "财务成本管理",
+        "短期经营决策",
+        "生产决策"
       ],
-      "wordCount": 6777,
-      "id": "9534a6bb08b66667"
+      "wordCount": 1645,
+      "id": "84b668cd84915823"
     },
     {
-      "filename": "数据流向图.json",
-      "title": "数据流向图",
-      "description": "数据流向图（DFD）的概念、组成元素与绘制要点",
-      "category": "软考/综合知识/数据流向图",
-      "tags": [],
-      "wordCount": 288,
-      "id": "c33b6fbcde05c601"
+      "filename": "股利分配管理.json",
+      "title": "股利分配管理",
+      "description": "CPA财务成本管理股利分配管理章节核心知识点，包括股利政策和股利分配程序",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "股利分配",
+        "股利政策"
+      ],
+      "wordCount": 1367,
+      "id": "f5381d37d1ad70e5"
     },
     {
-      "filename": "安全架构.json",
-      "title": "安全架构",
-      "description": "信息安全架构设计",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "投资项目资本预算.json",
+      "title": "投资项目资本预算",
+      "description": "CPA财务成本管理投资项目资本预算章节核心知识点，包括投资项目评价方法和现金流量估计",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "安全架构",
-        "WPDRRC",
-        "信息安全",
-        "威胁防护",
-        "安全体系"
+        "CPA",
+        "财务成本管理",
+        "资本预算",
+        "投资评价"
       ],
-      "wordCount": 1067,
-      "id": "c7cce54551349698"
+      "wordCount": 1294,
+      "id": "55190ec6c81061af"
     },
     {
-      "filename": "存储与备份技术.json",
-      "title": "存储与备份技术",
-      "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "业绩评价.json",
+      "title": "业绩评价",
+      "description": "CPA财务成本管理业绩评价章节核心知识点，包括责任中心业绩评价和平衡计分卡",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "存储技术",
-        "RAID",
-        "备份",
-        "系统集成"
+        "CPA",
+        "财务成本管理",
+        "业绩评价",
+        "责任中心"
       ],
-      "wordCount": 982,
-      "id": "df35da523c5af5d5"
+      "wordCount": 1454,
+      "id": "d53ebb5704b79ab8"
     },
     {
-      "filename": "访问控制.json",
-      "title": "访问控制",
-      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "营运资本管理.json",
+      "title": "营运资本管理",
+      "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "访问控制",
-        "DAC",
-        "MAC",
-        "RBAC",
-        "ABAC"
+        "CPA",
+        "财务成本管理",
+        "营运资本管理",
+        "现金管理"
       ],
-      "wordCount": 1481,
-      "id": "a4acf88dba3cb424"
+      "wordCount": 1667,
+      "id": "2d7e42c1f5481c14"
     },
     {
-      "filename": "计算机网络基础.json",
-      "title": "计算机网络基础",
-      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "长期筹资决策.json",
+      "title": "长期筹资决策",
+      "description": "CPA财务成本管理长期筹资决策章节核心知识点，包括长期债务筹资和权益筹资",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "网络基础",
-        "OSI模型",
-        "TCP-IP协议",
-        "系统集成"
+        "CPA",
+        "财务成本管理",
+        "长期筹资决策",
+        "债务筹资"
       ],
-      "wordCount": 1085,
-      "id": "9b3e767751872604"
+      "wordCount": 2247,
+      "id": "670d126dde85e887"
     },
     {
-      "filename": "密码技术.json",
-      "title": "密码技术",
-      "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "资本成本.json",
+      "title": "资本成本",
+      "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "密码技术",
-        "加密",
-        "数字签名",
-        "PKI",
-        "CA"
+        "CPA",
+        "财务成本管理",
+        "资本成本",
+        "加权平均资本成本"
       ],
-      "wordCount": 1375,
-      "id": "022c47ea42e3243e"
+      "wordCount": 1077,
+      "id": "b92a62598fbda8c6"
     },
     {
-      "filename": "身份认证.json",
-      "title": "身份认证",
-      "description": "认证技术、认证协议、身份管理、单点登录",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "资本结构.json",
+      "title": "资本结构",
+      "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "身份认证",
-        "认证技术",
-        "认证协议",
-        "单点登录"
+        "CPA",
+        "财务成本管理",
+        "资本结构",
+        "最优资本结构"
       ],
-      "wordCount": 1395,
-      "id": "e5a2802f2cb0eb4e"
+      "wordCount": 1105,
+      "id": "132d229e1b8c363c"
     },
     {
-      "filename": "数据安全与隐私保护.json",
-      "title": "数据安全与隐私保护",
-      "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "作业成本法.json",
+      "title": "作业成本法",
+      "description": "CPA财务成本管理作业成本法章节核心知识点，包括作业成本的计算和应用",
+      "category": "注册会计师/财务成本管理",
       "tags": [
-        "数据安全",
-        "隐私保护",
-        "数据安全法",
-        "个人信息保护"
+        "CPA",
+        "财务成本管理",
+        "作业成本法",
+        "作业成本计算"
       ],
-      "wordCount": 1701,
-      "id": "6be8c5f466c39d08"
+      "wordCount": 1082,
+      "id": "95515ebefa36205d"
     }
   ]
 }
