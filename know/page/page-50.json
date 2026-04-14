@@ -1,282 +1,283 @@
 {
   "page": 50,
-  "totalPages": 53,
-  "totalItems": 1059,
+  "totalPages": 51,
+  "totalItems": 1009,
   "items": [
     {
-      "filename": "投资项目资本预算.json",
-      "title": "投资项目资本预算",
-      "description": "CPA财务成本管理投资项目资本预算章节核心知识点，包括投资项目评价方法和现金流量估计",
-      "category": "注册会计师/财务成本管理",
+      "filename": "风险评估.json",
+      "title": "风险评估",
+      "description": "CPA审计风险评估章节核心知识点，包括风险评估程序和重大错报风险评估",
+      "category": "注册会计师/审计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "资本预算",
-        "投资评价"
+        "审计",
+        "风险评估",
+        "重大错报风险"
       ],
-      "wordCount": 1294,
-      "id": "55190ec6c81061af"
+      "wordCount": 925,
+      "id": "05e487191787af09"
     },
     {
-      "filename": "业绩评价.json",
-      "title": "业绩评价",
-      "description": "CPA财务成本管理业绩评价章节核心知识点，包括责任中心业绩评价和平衡计分卡",
-      "category": "注册会计师/财务成本管理",
+      "filename": "会计师事务所质量控制.json",
+      "title": "会计师事务所质量控制",
+      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
+      "category": "注册会计师/审计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "业绩评价",
-        "责任中心"
+        "审计",
+        "质量控制",
+        "要素程序"
       ],
-      "wordCount": 1454,
-      "id": "d53ebb5704b79ab8"
+      "wordCount": 1634,
+      "id": "6382ed54c5889567"
     },
     {
-      "filename": "营运资本管理.json",
-      "title": "营运资本管理",
-      "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
-      "category": "注册会计师/财务成本管理",
+      "filename": "货币资金审计.json",
+      "title": "货币资金审计",
+      "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
+      "category": "注册会计师/审计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "营运资本管理",
-        "现金管理"
+        "审计",
+        "货币资金",
+        "内部控制"
       ],
-      "wordCount": 1667,
-      "id": "2d7e42c1f5481c14"
+      "wordCount": 784,
+      "id": "bd85c1e789684a32"
     },
     {
-      "filename": "长期筹资决策.json",
-      "title": "长期筹资决策",
-      "description": "CPA财务成本管理长期筹资决策章节核心知识点，包括长期债务筹资和权益筹资",
-      "category": "注册会计师/财务成本管理",
+      "filename": "内部控制审计.json",
+      "title": "内部控制审计",
+      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
+      "category": "注册会计师/审计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "长期筹资决策",
-        "债务筹资"
+        "审计",
+        "内部控制审计",
+        "内部控制"
       ],
-      "wordCount": 2247,
-      "id": "670d126dde85e887"
+      "wordCount": 1156,
+      "id": "85b4de9995f649ea"
     },
     {
-      "filename": "资本成本.json",
-      "title": "资本成本",
-      "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
-      "category": "注册会计师/财务成本管理",
+      "filename": "审计报告.json",
+      "title": "审计报告",
+      "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
+      "category": "注册会计师/审计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "资本成本",
-        "加权平均资本成本"
+        "审计",
+        "审计报告",
+        "审计意见"
       ],
-      "wordCount": 1077,
-      "id": "b92a62598fbda8c6"
+      "wordCount": 1485,
+      "id": "201dbca9f226ac57"
     },
     {
-      "filename": "资本结构.json",
-      "title": "资本结构",
-      "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
-      "category": "注册会计师/财务成本管理",
+      "filename": "审计抽样.json",
+      "title": "审计抽样",
+      "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
+      "category": "注册会计师/审计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "资本结构",
-        "最优资本结构"
+        "审计",
+        "审计抽样",
+        "抽样方法"
       ],
-      "wordCount": 1105,
-      "id": "132d229e1b8c363c"
+      "wordCount": 843,
+      "id": "b7a7524c3b959377"
     },
     {
-      "filename": "作业成本法.json",
-      "title": "作业成本法",
-      "description": "CPA财务成本管理作业成本法章节核心知识点，包括作业成本的计算和应用",
-      "category": "注册会计师/财务成本管理",
+      "filename": "审计概述.json",
+      "title": "审计概述",
+      "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
+      "category": "注册会计师/审计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "作业成本法",
-        "作业成本计算"
+        "审计",
+        "审计概述",
+        "审计特征"
       ],
-      "wordCount": 1082,
-      "id": "95515ebefa36205d"
+      "wordCount": 1070,
+      "id": "7a8da7e20b2b1e63"
     },
     {
-      "filename": "风险与风险管理.json",
-      "title": "风险与风险管理",
+      "filename": "审计工作底稿.json",
+      "title": "审计工作底稿",
+      "description": "CPA审计审计工作底稿章节核心知识点，包括审计工作底稿的编制和管理",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计工作底稿",
+        "编制管理"
+      ],
+      "wordCount": 1329,
+      "id": "6a3934d6df0f2af4"
+    },
+    {
+      "filename": "审计计划.json",
+      "title": "审计计划",
+      "description": "CPA审计审计计划章节核心知识点，包括总体审计策略和具体审计计划",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计计划",
+        "总体审计策略"
+      ],
+      "wordCount": 969,
+      "id": "f842f0242988dace"
+    },
+    {
+      "filename": "审计证据.json",
+      "title": "审计证据",
+      "description": "CPA审计审计证据章节核心知识点，包括审计证据的性质、获取方法和评价",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "审计证据",
+        "审计程序"
+      ],
+      "wordCount": 976,
+      "id": "6286087c31894704"
+    },
+    {
+      "filename": "生产与存货循环审计.json",
+      "title": "生产与存货循环审计",
+      "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "生产与存货循环",
+        "内部控制"
+      ],
+      "wordCount": 964,
+      "id": "facd964c35ef171a"
+    },
+    {
+      "filename": "特殊项目审计.json",
+      "title": "特殊项目审计",
+      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "特殊项目",
+        "舞弊风险"
+      ],
+      "wordCount": 1074,
+      "id": "ad003efcd7a46dec"
+    },
+    {
+      "filename": "销售与收款循环审计.json",
+      "title": "销售与收款循环审计",
+      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "销售与收款循环",
+        "内部控制"
+      ],
+      "wordCount": 1067,
+      "id": "883f48c880c7679e"
+    },
+    {
+      "filename": "注册会计师职业道德.json",
+      "title": "注册会计师职业道德",
+      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "职业道德",
+        "基本原则"
+      ],
+      "wordCount": 1126,
+      "id": "a1173c0d033fea11"
+    },
+    {
+      "filename": "车船税.json",
+      "title": "车船税",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "注册会计师/税法",
       "tags": [
-        "风险",
-        "风险管理",
+        "车船税",
+        "税法",
         "CPA"
       ],
-      "wordCount": 325,
-      "id": "c8ef74778c2a8653"
+      "wordCount": 419,
+      "id": "f18e2515104afc66"
     },
     {
-      "filename": "公司治理.json",
-      "title": "公司治理",
+      "filename": "房产税.json",
+      "title": "房产税",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "注册会计师/税法",
       "tags": [
-        "公司治理",
-        "董事会",
-        "监事会",
+        "房产税",
+        "税法",
         "CPA"
       ],
-      "wordCount": 319,
-      "id": "e25e79384e2ea402"
+      "wordCount": 286,
+      "id": "877daef2d9bb5f59"
     },
     {
-      "filename": "国际化经营战略.json",
-      "title": "国际化经营战略",
+      "filename": "个人所得税概述.json",
+      "title": "个人所得税概述",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "注册会计师/税法",
       "tags": [
-        "国际化经营",
-        "战略",
+        "个人所得税",
+        "税法",
         "CPA"
       ],
-      "wordCount": 305,
-      "id": "d60db92a0a1e612d"
+      "wordCount": 550,
+      "id": "9ddf90f68934eb79"
     },
     {
-      "filename": "内部控制.json",
-      "title": "内部控制",
+      "filename": "个人所得税税收优惠.json",
+      "title": "个人所得税税收优惠",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "注册会计师/税法",
       "tags": [
-        "内部控制",
-        "COSO框架",
+        "个人所得税",
+        "税收优惠",
+        "减免税",
         "CPA"
       ],
-      "wordCount": 353,
-      "id": "2f119a4f008efbc3"
+      "wordCount": 549,
+      "id": "215c769b099e3c2f"
     },
     {
-      "filename": "数字化转型战略.json",
-      "title": "数字化转型战略",
+      "filename": "个人所得税应纳税额计算.json",
+      "title": "个人所得税应纳税额计算",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "注册会计师/税法",
       "tags": [
-        "数字化转型",
-        "战略",
+        "个人所得税",
+        "应纳税额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 759,
+      "id": "978350a148cbae33"
+    },
+    {
+      "filename": "企业所得税概述.json",
+      "title": "企业所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "税法",
         "CPA"
       ],
       "wordCount": 395,
-      "id": "905b4983f825a260"
-    },
-    {
-      "filename": "战略分析.json",
-      "title": "战略分析",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略分析",
-        "外部环境",
-        "内部环境",
-        "CPA"
-      ],
-      "wordCount": 391,
-      "id": "d20a69426118ea9f"
-    },
-    {
-      "filename": "战略管理概述.json",
-      "title": "战略管理概述",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略管理",
-        "公司战略",
-        "CPA"
-      ],
-      "wordCount": 272,
-      "id": "fc146a253ac6f230"
-    },
-    {
-      "filename": "战略控制.json",
-      "title": "战略控制",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略控制",
-        "预算控制",
-        "平衡计分卡",
-        "CPA"
-      ],
-      "wordCount": 276,
-      "id": "f49cbddb991d1ae2"
-    },
-    {
-      "filename": "战略实施.json",
-      "title": "战略实施",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略实施",
-        "组织结构",
-        "企业文化",
-        "CPA"
-      ],
-      "wordCount": 260,
-      "id": "43412207cdc7f6c8"
-    },
-    {
-      "filename": "战略选择.json",
-      "title": "战略选择",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略选择",
-        "总体战略",
-        "业务单位战略",
-        "CPA"
-      ],
-      "wordCount": 335,
-      "id": "e8dbbb72eb78980a"
-    },
-    {
-      "filename": "存货.json",
-      "title": "存货",
-      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "存货",
-        "计量方法"
-      ],
-      "wordCount": 1214,
-      "id": "f4d27b56c0abc7b6"
-    },
-    {
-      "filename": "短期借款.json",
-      "title": "短期借款",
-      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "短期借款",
-        "利息核算"
-      ],
-      "wordCount": 674,
-      "id": "2ce4bfe39200714a"
-    },
-    {
-      "filename": "负债概述.json",
-      "title": "负债概述",
-      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "负债",
-        "确认计量"
-      ],
-      "wordCount": 707,
-      "id": "2a8d3bc844708f18"
+      "id": "d73ba40442f0aeea"
     }
   ]
 }

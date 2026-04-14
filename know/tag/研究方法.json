@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "研究方法",
-    "count": 3
+    "count": 4
   },
   "articles": [
     {
@@ -42,6 +42,19 @@
       ],
       "wordCount": 462,
       "id": "cb76ac3d73313f7a"
+    },
+    {
+      "filename": "心理学研究方法.json",
+      "title": "心理学研究方法",
+      "description": "心理学研究的主要方法和应用",
+      "category": "心理学/基础心理学",
+      "tags": [
+        "研究方法",
+        "心理学",
+        "实验设计"
+      ],
+      "wordCount": 2273,
+      "id": "f30f3b9385a17c36"
     }
   ]
 }

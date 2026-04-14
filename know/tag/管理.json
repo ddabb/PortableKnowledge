@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "管理",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
@@ -31,6 +31,19 @@
       ],
       "wordCount": 173,
       "id": "24279326babd9df0"
+    },
+    {
+      "filename": "糖尿病管理指南.json",
+      "title": "糖尿病管理指南",
+      "description": "糖尿病的基础知识、预防和管理",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "糖尿病",
+        "健康养生",
+        "管理"
+      ],
+      "wordCount": 2511,
+      "id": "7721989cb7d48335"
     }
   ]
 }

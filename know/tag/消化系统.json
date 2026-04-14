@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "消化系统",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "消化系统健康指南.json",
+      "title": "消化系统健康指南",
+      "description": "消化系统的基础知识、常见疾病和预防措施",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "消化系统",
+        "健康养生",
+        "预防"
+      ],
+      "wordCount": 2364,
+      "id": "ebadd2143884bfd6"
+    }
+  ]
+}

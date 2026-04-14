@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "癌症",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "癌症预防指南.json",
+      "title": "癌症预防指南",
+      "description": "癌症的基础知识、致癌因素、早期信号和筛查方法",
+      "category": "生活通识/健康养生",
+      "tags": [
+        "癌症",
+        "预防",
+        "健康养生"
+      ],
+      "wordCount": 1622,
+      "id": "011ddaf520cd97c9"
+    }
+  ]
+}

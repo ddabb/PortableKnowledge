@@ -1,218 +1,291 @@
 {
   "page": 37,
-  "totalPages": 53,
-  "totalItems": 1059,
+  "totalPages": 51,
+  "totalItems": 1009,
   "items": [
     {
-      "filename": "七、公积金贷款优势.json",
-      "title": "七、公积金贷款优势",
-      "description": "七、公积金贷款优势",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 197,
-      "id": "8f2012dc3c43e7d3"
-    },
-    {
-      "filename": "七、省钱小技巧.json",
-      "title": "七、省钱小技巧",
-      "description": "七、省钱小技巧",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 135,
-      "id": "11f2e7421098d639"
-    },
-    {
-      "filename": "三、报销流程.json",
-      "title": "三、报销流程",
-      "description": "三、报销流程",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 371,
-      "id": "d193fb23db62f9c9"
-    },
-    {
-      "filename": "三、提取方式.json",
-      "title": "三、提取方式",
-      "description": "三、提取方式",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 174,
-      "id": "7d70b3bbba5f5c7f"
-    },
-    {
-      "filename": "四、报销比例（以职工医保为例）.json",
-      "title": "四、报销比例（以职工医保为例）",
-      "description": "四、报销比例（以职工医保为例）",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 258,
-      "id": "0584b279ca9eb9c2"
-    },
-    {
-      "filename": "四、各类提取所需材料.json",
-      "title": "四、各类提取所需材料",
-      "description": "四、各类提取所需材料",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 319,
-      "id": "1b3e10ecd2735fb2"
-    },
-    {
-      "filename": "五、提取额度.json",
-      "title": "五、提取额度",
-      "description": "五、提取额度",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 131,
-      "id": "47eb11c0d4939432"
-    },
-    {
-      "filename": "五、医保个人账户.json",
-      "title": "五、医保个人账户",
-      "description": "五、医保个人账户",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 144,
-      "id": "b3a954b712906ceb"
-    },
-    {
-      "filename": "一、公积金是什么.json",
-      "title": "一、公积金是什么",
-      "description": "一、公积金是什么",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 98,
-      "id": "a84bb5f9e64b507d"
-    },
-    {
-      "filename": "一、医保是什么.json",
-      "title": "一、医保是什么",
-      "description": "一、医保是什么",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 129,
-      "id": "955fd252c94db8f9"
-    },
-    {
-      "filename": "地震防范与应急.json",
-      "title": "地震防范与应急",
-      "description": "地震发生时的应对措施、逃生技巧和日常准备",
-      "category": "生活通识/自然灾害",
+      "filename": "感觉与知觉心理学.json",
+      "title": "感觉与知觉心理学",
+      "description": "感觉与知觉的原理、机制和应用",
+      "category": "心理学/基础心理学",
       "tags": [
-        "地震",
-        "自然灾害",
-        "应急",
-        "逃生"
+        "感觉",
+        "知觉",
+        "心理学"
       ],
-      "wordCount": 877,
-      "id": "be8e5050f8013cf0"
+      "wordCount": 1857,
+      "id": "0f5b182e90ee40b0"
     },
     {
-      "filename": "洪水防范与应对.json",
-      "title": "洪水防范与应对",
-      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
-      "category": "生活通识/自然灾害",
+      "filename": "记忆心理学.json",
+      "title": "记忆心理学",
+      "description": "记忆的原理、机制和应用",
+      "category": "心理学/基础心理学",
       "tags": [
-        "洪水",
-        "自然灾害",
-        "防汛",
-        "应急"
+        "记忆",
+        "心理学",
+        "认知"
       ],
-      "wordCount": 842,
-      "id": "ba444651c5345d81"
+      "wordCount": 1638,
+      "id": "256ac01e6b4ee7e3"
     },
     {
-      "filename": "火灾防范与逃生.json",
-      "title": "火灾防范与逃生",
-      "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "生活通识/自然灾害",
+      "filename": "思维与问题解决.json",
+      "title": "思维与问题解决专题",
+      "description": "思维的种类、表征、问题解决策略、影响因素（定势与功能固着）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "火灾",
-        "消防",
-        "逃生",
-        "安全"
+        "思维",
+        "问题解决",
+        "定势",
+        "功能固着",
+        "表征"
       ],
-      "wordCount": 1265,
-      "id": "33c5e8b303ea8044"
+      "wordCount": 1435,
+      "id": "b2513731d99a2f6d"
     },
     {
-      "filename": "台风防范指南.json",
-      "title": "台风防范指南",
-      "description": "台风的形成、预警等级及防范措施",
-      "category": "生活通识/自然灾害",
+      "filename": "心理生理基础.json",
+      "title": "心理生理基础专题",
+      "description": "神经元结构、神经系统分类、大脑皮层功能区、内分泌系统与行为",
+      "category": "心理学/基础心理学",
       "tags": [
-        "台风",
-        "自然灾害",
-        "风暴",
-        "防汛"
+        "神经元",
+        "大脑皮层",
+        "神经系统",
+        "内分泌系统"
       ],
-      "wordCount": 943,
-      "id": "2411eb1484625054"
+      "wordCount": 1233,
+      "id": "f2e412fe55237ca5"
     },
     {
-      "filename": "埃里克森心理社会发展阶段.json",
-      "title": "埃里克森心理社会发展阶段专题",
-      "description": "埃里克森八阶段论：每阶段的心理危机、发展任务及与皮亚杰的对应关系",
-      "category": "心理学/发展心理学",
+      "filename": "心理学研究方法.json",
+      "title": "心理学研究方法",
+      "description": "心理学研究的主要方法和应用",
+      "category": "心理学/基础心理学",
       "tags": [
-        "埃里克森",
-        "心理社会发展",
-        "自我同一性",
-        "信任"
+        "研究方法",
+        "心理学",
+        "实验设计"
       ],
-      "wordCount": 1331,
-      "id": "4ffa80d1b2387788"
+      "wordCount": 2273,
+      "id": "f30f3b9385a17c36"
     },
     {
-      "filename": "备考重点.json",
-      "title": "备考重点",
-      "description": "备考重点",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 86,
-      "id": "65688bbdb0dcc3d7"
-    },
-    {
-      "filename": "道德发展.json",
-      "title": "道德发展专题",
-      "description": "科尔伯格三水平六阶段理论、Piaget的道德发展理论、道德发展与认知发展的关系",
-      "category": "心理学/发展心理学",
+      "filename": "注意品质与分类.json",
+      "title": "注意品质与分类专题",
+      "description": "无意注意、有意注意、有意后注意；注意的四种品质（广度、稳定性、分配、转移）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "道德发展",
-        "科尔伯格",
-        "前习俗",
-        "习俗",
-        "后习俗"
+        "注意",
+        "注意分类",
+        "注意品质",
+        "无意注意",
+        "有意注意"
       ],
-      "wordCount": 1102,
-      "id": "d726a2e255cb8b6d"
+      "wordCount": 1042,
+      "id": "8a74799c73e25f42"
     },
     {
-      "filename": "二，第一阶段：感觉运动期（0-2岁）.json",
-      "title": "二，第一阶段：感觉运动期（0-2岁）",
-      "description": "二，第一阶段：感觉运动期（0-2岁）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 363,
-      "id": "a57a6c1c1414145b"
+      "filename": "情绪调节与情商.json",
+      "title": "情绪调节与情商专题",
+      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
+      "category": "心理学/情绪心理学",
+      "tags": [
+        "情绪调节",
+        "情商",
+        "Gross模型",
+        "Goleman"
+      ],
+      "wordCount": 1222,
+      "id": "5816314001b8e360"
     },
     {
-      "filename": "二，最近发展区（ZPD）.json",
-      "title": "二，最近发展区（ZPD）",
-      "description": "二，最近发展区（ZPD）",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 279,
-      "id": "489c2eb19011a5fa"
+      "filename": "情绪理论.json",
+      "title": "情绪理论专题",
+      "description": "詹姆斯-兰格理论、坎农-巴德理论、沙赫特-辛格认知理论、拉扎勒斯认知评价理论",
+      "category": "心理学/情绪心理学",
+      "tags": [
+        "情绪理论",
+        "詹姆斯-兰格",
+        "沙赫特-辛格",
+        "认知评价"
+      ],
+      "wordCount": 807,
+      "id": "b167ac6bea8adc57"
     },
     {
-      "filename": "六，各阶段对比.json",
-      "title": "六，各阶段对比",
-      "description": "六，各阶段对比",
-      "category": "心理学/发展心理学",
-      "tags": [],
-      "wordCount": 148,
-      "id": "834f71fd1934278e"
+      "filename": "压力与应对.json",
+      "title": "压力与应对专题",
+      "description": "压力的定义与类型、压力反应、生理应激机制、应对策略",
+      "category": "心理学/情绪心理学",
+      "tags": [
+        "压力",
+        "应对策略",
+        "应激",
+        "压力源"
+      ],
+      "wordCount": 1241,
+      "id": "5c5c24851901db22"
+    },
+    {
+      "filename": "人格评估方法.json",
+      "title": "人格评估方法专题",
+      "description": "人格评估的主要方法：自陈量表、投射测验、行为观察、评价量表",
+      "category": "心理学/人格心理学",
+      "tags": [
+        "人格评估",
+        "MMPI",
+        "投射测验",
+        "罗夏墨迹",
+        "16PF"
+      ],
+      "wordCount": 1495,
+      "id": "f38c16be70111a8a"
+    },
+    {
+      "filename": "人格理论.json",
+      "title": "人格心理学专题",
+      "description": "人格的定义、特质理论（大五人格）、精神分析人格理论（弗洛伊德）、人格评估方法",
+      "category": "心理学/人格心理学",
+      "tags": [
+        "人格",
+        "特质理论",
+        "大五人格",
+        "弗洛伊德",
+        "精神分析"
+      ],
+      "wordCount": 1276,
+      "id": "6c75413d33c4ba6a"
+    },
+    {
+      "filename": "记忆模型与认知存储.json",
+      "title": "记忆模型与认知存储专题",
+      "description": "三级记忆模型、工作记忆模型（Baddeley）、编码与存储策略",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "记忆模型",
+        "工作记忆",
+        "编码",
+        "存储"
+      ],
+      "wordCount": 848,
+      "id": "8b0569b108265dfc"
+    },
+    {
+      "filename": "决策与判断偏差.json",
+      "title": "决策与判断偏差专题",
+      "description": "启发法、确认偏差、后见之明偏差、可得性启发、框架效应等认知偏差",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "决策",
+        "判断偏差",
+        "启发法",
+        "确认偏差",
+        "后见之明"
+      ],
+      "wordCount": 915,
+      "id": "0e29e4e2423aa86a"
+    },
+    {
+      "filename": "问题解决与推理.json",
+      "title": "问题解决与推理专题",
+      "description": "问题解决的定义、问题空间、启发法与算法、推理类型（演绎、归纳）、影响因素",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "问题解决",
+        "推理",
+        "启发法",
+        "算法",
+        "演绎推理",
+        "归纳推理"
+      ],
+      "wordCount": 1140,
+      "id": "ba655ebf8847089f"
+    },
+    {
+      "filename": "元认知.json",
+      "title": "元认知专题",
+      "description": "元认知的定义与构成（Flavell）、元认知知识、元认知监控、元认知调节策略",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "元认知",
+        "元认知知识",
+        "元认知监控",
+        "学习策略"
+      ],
+      "wordCount": 1179,
+      "id": "36295f2c1ae09532"
+    },
+    {
+      "filename": "注意理论与选择性注意.json",
+      "title": "注意理论与选择性注意专题",
+      "description": "注意的定义与类型、过滤器理论、衰减理论、注意的资源理论、注意的选择性",
+      "category": "心理学/认知心理学",
+      "tags": [
+        "注意",
+        "过滤器理论",
+        "资源理论",
+        "选择性注意"
+      ],
+      "wordCount": 1321,
+      "id": "371ab4ad929d5fa1"
+    },
+    {
+      "filename": "攻击行为.json",
+      "title": "攻击行为专题",
+      "description": "攻击行为的定义与分类、挫折-攻击理论、社会学习理论、减少攻击的方法",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "攻击行为",
+        "挫折-攻击",
+        "暴力媒体",
+        "敌意性攻击"
+      ],
+      "wordCount": 1300,
+      "id": "3500bca6e4ba2570"
+    },
+    {
+      "filename": "沟通与人际交往.json",
+      "title": "沟通与人际交往专题",
+      "description": "沟通的基本要素、言语沟通与非言语沟通、沟通障碍与改善、人际交往原则",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "沟通",
+        "非言语沟通",
+        "人际交往",
+        "沟通障碍"
+      ],
+      "wordCount": 1477,
+      "id": "5f9c4f61aff092d3"
+    },
+    {
+      "filename": "归因理论.json",
+      "title": "归因理论专题",
+      "description": "基本归因错误、协变原理、Kelley的归因维度、自我服务偏差",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "归因理论",
+        "基本归因错误",
+        "归因维度",
+        "自我服务偏差"
+      ],
+      "wordCount": 920,
+      "id": "9bbad1b3c61c60a0"
+    },
+    {
+      "filename": "偏见与歧视.json",
+      "title": "偏见与歧视专题",
+      "description": "偏见、歧视、刻板印象的概念；偏见产生的原因与减少方法",
+      "category": "心理学/社会心理学",
+      "tags": [
+        "偏见",
+        "歧视",
+        "刻板印象",
+        "偏见减少"
+      ],
+      "wordCount": 970,
+      "id": "e2378d627eb653c0"
     }
   ]
 }

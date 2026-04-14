@@ -1,17 +1,21 @@
 {
   "meta": {
     "category": "生活通识/健康养生",
-    "count": 45
+    "count": 23
   },
   "articles": [
     {
-      "filename": "八、常见误区.json",
-      "title": "八、常见误区",
-      "description": "八、常见误区",
+      "filename": "癌症预防指南.json",
+      "title": "癌症预防指南",
+      "description": "癌症的基础知识、致癌因素、早期信号和筛查方法",
       "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 151,
-      "id": "d0fb3ef80ddfd4a1"
+      "tags": [
+        "癌症",
+        "预防",
+        "健康养生"
+      ],
+      "wordCount": 1622,
+      "id": "011ddaf520cd97c9"
     },
     {
       "filename": "八、生活方式养护.json",
@@ -32,67 +36,30 @@
       "id": "ca07856d3420b289"
     },
     {
-      "filename": "八、执行清单.json",
-      "title": "八、执行清单",
-      "description": "八、执行清单",
+      "filename": "呼吸系统健康指南.json",
+      "title": "呼吸系统健康指南",
+      "description": "呼吸系统的基础知识、常见疾病和预防措施",
       "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 92,
-      "id": "9c134175266814e0"
+      "tags": [
+        "呼吸系统",
+        "健康养生",
+        "预防"
+      ],
+      "wordCount": 2407,
+      "id": "e7068145b84ce970"
     },
     {
-      "filename": "二、感冒和流感.json",
-      "title": "二、感冒和流感",
-      "description": "二、感冒和流感",
+      "filename": "健康养生执行指南.json",
+      "title": "健康养生执行指南",
+      "description": "健康养生的执行清单、常见误区和预防措施",
       "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 370,
-      "id": "42b326b7c3282264"
-    },
-    {
-      "filename": "二、糖尿病前期.json",
-      "title": "二、糖尿病前期",
-      "description": "二、糖尿病前期",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 306,
-      "id": "bb64351cac5c4cf0"
-    },
-    {
-      "filename": "二、危险因素.json",
-      "title": "二、危险因素",
-      "description": "二、危险因素",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 249,
-      "id": "c6812dd6d2479193"
-    },
-    {
-      "filename": "二、胃部疾病.json",
-      "title": "二、胃部疾病",
-      "description": "二、胃部疾病",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 401,
-      "id": "3288dc79c1e927f3"
-    },
-    {
-      "filename": "二、致癌因素.json",
-      "title": "二、致癌因素",
-      "description": "二、致癌因素",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 314,
-      "id": "d4755d1e6c19cb36"
-    },
-    {
-      "filename": "九、常见误区.json",
-      "title": "九、常见误区",
-      "description": "九、常见误区",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 129,
-      "id": "6864b1a667bed3fa"
+      "tags": [
+        "健康养生",
+        "执行清单",
+        "常见误区"
+      ],
+      "wordCount": 2549,
+      "id": "d4ec84b91e8394e7"
     },
     {
       "filename": "九、养肺护肺.json",
@@ -102,24 +69,6 @@
       "tags": [],
       "wordCount": 192,
       "id": "45a7501859c3342b"
-    },
-    {
-      "filename": "九、执行清单.json",
-      "title": "九、执行清单",
-      "description": "九、执行清单",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 86,
-      "id": "d31b02a37ed7e523"
-    },
-    {
-      "filename": "六、定期体检.json",
-      "title": "六、定期体检",
-      "description": "六、定期体检",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 179,
-      "id": "d6ad2d14e6f015f3"
     },
     {
       "filename": "六、高危人群管理.json",
@@ -149,24 +98,6 @@
       "id": "0871be0ae56da681"
     },
     {
-      "filename": "六、消化道癌症早筛.json",
-      "title": "六、消化道癌症早筛",
-      "description": "六、消化道癌症早筛",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 231,
-      "id": "427eb35af0461d53"
-    },
-    {
-      "filename": "七、常见误区.json",
-      "title": "七、常见误区",
-      "description": "七、常见误区",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 164,
-      "id": "e761b08e4a43025d"
-    },
-    {
       "filename": "七、肺癌预防.json",
       "title": "七、肺癌预防",
       "description": "七、肺癌预防",
@@ -174,15 +105,6 @@
       "tags": [],
       "wordCount": 304,
       "id": "1b910746eb0ce35b"
-    },
-    {
-      "filename": "七、紧急情况处理.json",
-      "title": "七、紧急情况处理",
-      "description": "七、紧急情况处理",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 136,
-      "id": "1f174c2742f4fbfd"
     },
     {
       "filename": "七、特定人群预防.json",
@@ -217,33 +139,6 @@
       "id": "c4808af2f4cd96c9"
     },
     {
-      "filename": "三、肠道疾病.json",
-      "title": "三、肠道疾病",
-      "description": "三、肠道疾病",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 379,
-      "id": "a46b1713a0645c1c"
-    },
-    {
-      "filename": "三、肺炎.json",
-      "title": "三、肺炎",
-      "description": "三、肺炎",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 405,
-      "id": "30ea2558cb77eb6d"
-    },
-    {
-      "filename": "三、科学预防措施.json",
-      "title": "三、科学预防措施",
-      "description": "三、科学预防措施",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 484,
-      "id": "338d717ce6773ab8"
-    },
-    {
       "filename": "三、危险因素.json",
       "title": "三、危险因素",
       "description": "三、危险因素",
@@ -251,15 +146,6 @@
       "tags": [],
       "wordCount": 382,
       "id": "e36da8d381b8200b"
-    },
-    {
-      "filename": "十、执行清单.json",
-      "title": "十、执行清单",
-      "description": "十、执行清单",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 105,
-      "id": "3e8808e75b91ee1a"
     },
     {
       "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
@@ -284,15 +170,6 @@
       "id": "f9c029af39b6a723"
     },
     {
-      "filename": "四、肝脏疾病.json",
-      "title": "四、肝脏疾病",
-      "description": "四、肝脏疾病",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 561,
-      "id": "d684a38e7e6ee49d"
-    },
-    {
       "filename": "四、科学预防措施.json",
       "title": "四、科学预防措施",
       "description": "四、科学预防措施",
@@ -300,24 +177,6 @@
       "tags": [],
       "wordCount": 914,
       "id": "64d02790bc3fe306"
-    },
-    {
-      "filename": "四、控制三高.json",
-      "title": "四、控制三高",
-      "description": "四、控制三高",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 329,
-      "id": "65953dd195b98044"
-    },
-    {
-      "filename": "四、慢阻肺（COPD）.json",
-      "title": "四、慢阻肺（COPD）",
-      "description": "四、慢阻肺（COPD）",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 329,
-      "id": "36ade4a6c6d512b2"
     },
     {
       "filename": "四季养生指南_科学调理身体健康.json",
@@ -333,22 +192,17 @@
       "id": "e2e1ee67a7f1ddc6"
     },
     {
-      "filename": "五、癌症早期信号.json",
-      "title": "五、癌症早期信号",
-      "description": "五、癌症早期信号",
+      "filename": "糖尿病管理指南.json",
+      "title": "糖尿病管理指南",
+      "description": "糖尿病的基础知识、预防和管理",
       "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 247,
-      "id": "749af18baff1883f"
-    },
-    {
-      "filename": "五、胆囊和胰腺.json",
-      "title": "五、胆囊和胰腺",
-      "description": "五、胆囊和胰腺",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 333,
-      "id": "656775dc6e963595"
+      "tags": [
+        "糖尿病",
+        "健康养生",
+        "管理"
+      ],
+      "wordCount": 2511,
+      "id": "7721989cb7d48335"
     },
     {
       "filename": "五、哮喘.json",
@@ -360,15 +214,6 @@
       "id": "feca3297a425031b"
     },
     {
-      "filename": "五、血糖监测.json",
-      "title": "五、血糖监测",
-      "description": "五、血糖监测",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 282,
-      "id": "750826afd976ff1a"
-    },
-    {
       "filename": "五、早期信号识别.json",
       "title": "五、早期信号识别",
       "description": "五、早期信号识别",
@@ -378,49 +223,30 @@
       "id": "2448fac2fc90c5c4"
     },
     {
-      "filename": "一，消化系统基础知识.json",
-      "title": "一，消化系统基础知识",
-      "description": "一，消化系统基础知识",
+      "filename": "消化系统健康指南.json",
+      "title": "消化系统健康指南",
+      "description": "消化系统的基础知识、常见疾病和预防措施",
       "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 257,
-      "id": "b0a04e7f62fdefb3"
+      "tags": [
+        "消化系统",
+        "健康养生",
+        "预防"
+      ],
+      "wordCount": 2364,
+      "id": "ebadd2143884bfd6"
     },
     {
-      "filename": "一、癌症基础知识.json",
-      "title": "一、癌症基础知识",
-      "description": "一、癌症基础知识",
+      "filename": "心脑血管疾病预防指南.json",
+      "title": "心脑血管疾病预防指南",
+      "description": "心脑血管疾病的预防、危险因素和紧急处理",
       "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 215,
-      "id": "7d227d1f52a2af9b"
-    },
-    {
-      "filename": "一、呼吸系统基础知识.json",
-      "title": "一、呼吸系统基础知识",
-      "description": "一、呼吸系统基础知识",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 228,
-      "id": "ffae55cdde786fa6"
-    },
-    {
-      "filename": "一、糖尿病基础知识.json",
-      "title": "一、糖尿病基础知识",
-      "description": "一、糖尿病基础知识",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 363,
-      "id": "97467d35a992a4ef"
-    },
-    {
-      "filename": "一、心脑血管疾病概述.json",
-      "title": "一、心脑血管疾病概述",
-      "description": "一、心脑血管疾病概述",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 206,
-      "id": "cac4fde4aba158b4"
+      "tags": [
+        "心脑血管疾病",
+        "预防",
+        "健康养生"
+      ],
+      "wordCount": 1701,
+      "id": "4f6a963b4988b3f5"
     }
   ]
 }

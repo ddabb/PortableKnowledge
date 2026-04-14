@@ -1,308 +1,276 @@
 {
   "page": 49,
-  "totalPages": 53,
-  "totalItems": 1059,
+  "totalPages": 51,
+  "totalItems": 1009,
   "items": [
     {
-      "filename": "市场结构理论.json",
-      "title": "市场结构理论",
-      "description": "中级经济师经济学基础章节核心知识点，包括完全竞争市场、垄断市场、垄断竞争市场和寡头垄断市场",
-      "category": "中级经济师/基础知识",
-      "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "市场结构",
-        "完全竞争",
-        "垄断"
-      ],
-      "wordCount": 1624,
-      "id": "b245aac58b930471"
-    },
-    {
-      "filename": "市场失灵与政府干预.json",
-      "title": "市场失灵与政府干预",
-      "description": "中级经济师经济学基础章节核心知识点，包括市场失灵的原因、外部性、公共物品、信息不对称和政府干预措施",
-      "category": "中级经济师/基础知识",
-      "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "市场失灵",
-        "政府干预",
-        "外部性"
-      ],
-      "wordCount": 1404,
-      "id": "ec7b1067c32b505f"
-    },
-    {
-      "filename": "统计基础知识.json",
-      "title": "统计基础知识",
-      "description": "中级经济师统计章节核心知识点，包括统计调查、统计整理、统计分析和统计指标",
-      "category": "中级经济师/基础知识",
-      "tags": [
-        "中级经济师",
-        "基础知识",
-        "统计",
-        "统计调查",
-        "统计整理",
-        "统计分析"
-      ],
-      "wordCount": 1949,
-      "id": "59cd980da8c16d1e"
-    },
-    {
-      "filename": "消费者行为理论.json",
-      "title": "消费者行为理论",
-      "description": "中级经济师经济学基础章节核心知识点，包括效用理论、无差异曲线、预算约束线和消费者均衡",
-      "category": "中级经济师/基础知识",
-      "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "消费者行为",
-        "效用理论",
-        "无差异曲线"
-      ],
-      "wordCount": 1441,
-      "id": "805a1f6cf771cec7"
-    },
-    {
-      "filename": "需求与供给.json",
-      "title": "需求与供给",
-      "description": "中级经济师经济学基础章节核心知识点，包括需求曲线、供给曲线、市场均衡和弹性",
-      "category": "中级经济师/基础知识",
-      "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "需求",
-        "供给",
-        "市场均衡"
-      ],
-      "wordCount": 1904,
-      "id": "b376bf3f5c0a2ff7"
-    },
-    {
-      "filename": "人力资源管理概述.json",
-      "title": "人力资源管理概述",
-      "description": "中级经济师人力资源章节核心知识点，包括人力资源管理定义、职能、发展历程和战略人力资源管理",
-      "category": "中级经济师/人力资源",
-      "tags": [
-        "中级经济师",
-        "人力资源",
-        "人力资源管理",
-        "战略人力资源管理",
-        "人力资源规划",
-        "招聘与配置"
-      ],
-      "wordCount": 3183,
-      "id": "19ca30d7a5e1b921"
-    },
-    {
-      "filename": "人力资源规划.json",
-      "title": "人力资源规划",
-      "description": "中级经济师人力资源章节核心知识点，包括人力资源规划定义、流程、方法和实施",
-      "category": "中级经济师/人力资源",
-      "tags": [
-        "中级经济师",
-        "人力资源",
-        "人力资源规划",
-        "需求预测",
-        "供给预测",
-        "人力资源计划"
-      ],
-      "wordCount": 3023,
-      "id": "878dd468aadba640"
-    },
-    {
-      "filename": "招聘与配置.json",
-      "title": "招聘与配置",
-      "description": "中级经济师人力资源章节核心知识点，包括招聘定义、流程、渠道和配置方法",
-      "category": "中级经济师/人力资源",
-      "tags": [
-        "中级经济师",
-        "人力资源",
-        "招聘与配置",
-        "招聘渠道",
-        "选拔方法",
-        "人员配置"
-      ],
-      "wordCount": 1961,
-      "id": "a7dce44ebfac4cbf"
-    },
-    {
-      "filename": "组织行为学概述.json",
-      "title": "组织行为学概述",
-      "description": "中级经济师人力资源章节核心知识点，包括组织行为学定义、研究对象、基本理论和研究方法",
-      "category": "中级经济师/人力资源",
-      "tags": [
-        "中级经济师",
-        "人力资源",
-        "组织行为学",
-        "个体行为",
-        "群体行为",
-        "组织行为"
-      ],
-      "wordCount": 2187,
-      "id": "f4d8fb67f1127bde"
-    },
-    {
-      "filename": "金融市场概述.json",
-      "title": "金融市场概述",
-      "description": "中级经济师金融章节核心知识点，包括金融市场定义、类型、功能和发展趋势",
-      "category": "中级经济师/专业科目",
-      "tags": [
-        "中级经济师",
-        "金融",
-        "金融市场",
-        "货币市场",
-        "资本市场",
-        "金融工具"
-      ],
-      "wordCount": 1860,
-      "id": "bda87b9b4d9beb05"
-    },
-    {
-      "filename": "企业战略管理.json",
-      "title": "企业战略管理",
-      "description": "中级经济师工商管理章节核心知识点，包括企业战略定义、类型、制定过程和实施",
-      "category": "中级经济师/专业科目",
-      "tags": [
-        "中级经济师",
-        "工商管理",
-        "企业战略",
-        "战略管理",
-        "战略制定",
-        "战略实施"
-      ],
-      "wordCount": 2101,
-      "id": "776f43da18e81d08"
-    },
-    {
-      "filename": "核心考点.json",
-      "title": "注册会计师考试核心考点",
-      "description": "CPA备考知识体系：会计、审计、财管、税法、经济法、公司战略核心考点",
-      "category": "注册会计师",
+      "filename": "应付职工薪酬.json",
+      "title": "应付职工薪酬",
+      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
+      "category": "注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
-        "审计"
+        "应付职工薪酬",
+        "核算"
       ],
-      "wordCount": 30,
-      "id": "f6856ff8e910a234"
+      "wordCount": 1144,
+      "id": "568e00039dccb6b5"
     },
     {
-      "filename": "本量利分析.json",
-      "title": "本量利分析",
-      "description": "CPA财务成本管理本量利分析章节核心知识点，包括成本、业务量和利润之间的关系",
-      "category": "注册会计师/财务成本管理",
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "本量利分析",
-        "盈亏平衡分析"
+        "会计",
+        "应交税费",
+        "增值税"
       ],
-      "wordCount": 1238,
-      "id": "e69fb0be6ed42e87"
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
     },
     {
-      "filename": "标准成本法.json",
-      "title": "标准成本法",
-      "description": "CPA财务成本管理标准成本法章节核心知识点，包括标准成本的制定和差异分析",
-      "category": "注册会计师/财务成本管理",
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "标准成本法",
-        "差异分析"
+        "会计",
+        "应收账款",
+        "应收票据"
       ],
-      "wordCount": 1197,
-      "id": "ada36c7df44cfc8c"
+      "wordCount": 1285,
+      "id": "b149d1a5237bfb5f"
     },
     {
-      "filename": "财务报表分析.json",
-      "title": "财务报表分析",
-      "description": "CPA财务成本管理财务报表分析章节核心知识点，包括财务比率分析和财务报表解读",
-      "category": "注册会计师/财务成本管理",
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "财务报表分析",
-        "财务比率"
+        "会计",
+        "预收账款",
+        "核算"
       ],
-      "wordCount": 1142,
-      "id": "d6bad0bd03b2b269"
+      "wordCount": 702,
+      "id": "5a1db8a8635278a1"
     },
     {
-      "filename": "财务管理概述.json",
-      "title": "财务管理概述",
-      "description": "CPA财务成本管理财务管理概述章节核心知识点，包括财务管理的目标和内容",
-      "category": "注册会计师/财务成本管理",
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "财务管理",
-        "目标内容"
+        "会计",
+        "长期股权投资",
+        "权益法"
       ],
-      "wordCount": 971,
-      "id": "8950688bbf2ec982"
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
     },
     {
-      "filename": "财务预测.json",
-      "title": "财务预测",
-      "description": "CPA财务成本管理财务预测章节核心知识点，包括销售预测和财务报表预测",
-      "category": "注册会计师/财务成本管理",
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "财务预测",
-        "销售预测"
+        "会计",
+        "长期借款",
+        "利息核算"
       ],
-      "wordCount": 1153,
-      "id": "11b78855ee02f677"
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
     },
     {
-      "filename": "成本计算.json",
-      "title": "成本计算",
-      "description": "CPA财务成本管理成本计算章节核心知识点，包括产品成本计算和期间费用核算",
-      "category": "注册会计师/财务成本管理",
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "成本计算",
-        "产品成本"
+        "会计",
+        "资产",
+        "确认计量"
       ],
-      "wordCount": 1906,
-      "id": "065c8ad87974a650"
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
     },
     {
-      "filename": "短期经营决策.json",
-      "title": "短期经营决策",
-      "description": "CPA财务成本管理短期经营决策章节核心知识点，包括生产决策和定价决策",
-      "category": "注册会计师/财务成本管理",
+      "filename": "反不正当竞争法概述.json",
+      "title": "反不正当竞争法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "CPA",
-        "财务成本管理",
-        "短期经营决策",
-        "生产决策"
+        "反不正当竞争法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 1645,
-      "id": "84b668cd84915823"
+      "wordCount": 757,
+      "id": "c4e8b6f024c78459"
     },
     {
-      "filename": "股利分配管理.json",
-      "title": "股利分配管理",
-      "description": "CPA财务成本管理股利分配管理章节核心知识点，包括股利政策和股利分配程序",
-      "category": "注册会计师/财务成本管理",
+      "filename": "反垄断法概述.json",
+      "title": "反垄断法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "反垄断法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 327,
+      "id": "dc2a54c5f75a7bdc"
+    },
+    {
+      "filename": "公司法概述.json",
+      "title": "公司法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "公司法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 294,
+      "id": "ff86ecb868f095ee"
+    },
+    {
+      "filename": "合同法概述.json",
+      "title": "合同法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "合同法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "id": "103610937ddf56f5"
+    },
+    {
+      "filename": "经济纠纷解决方式.json",
+      "title": "经济纠纷解决方式",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "经济纠纷",
+        "解决方式",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 624,
+      "id": "6f28046aa934540d"
+    },
+    {
+      "filename": "票据法概述.json",
+      "title": "票据法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "票据法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 215,
+      "id": "b2f548bfa3843e2b"
+    },
+    {
+      "filename": "破产法概述.json",
+      "title": "破产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "破产法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 283,
+      "id": "cd6bfd3f56cbfb10"
+    },
+    {
+      "filename": "企业国有资产法概述.json",
+      "title": "企业国有资产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "企业国有资产法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 470,
+      "id": "ea02692ed7be380d"
+    },
+    {
+      "filename": "涉外经济法律制度概述.json",
+      "title": "涉外经济法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "涉外经济法律制度",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "id": "3b46227da5fa1039"
+    },
+    {
+      "filename": "物权法概述.json",
+      "title": "物权法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "物权法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 227,
+      "id": "fcba634f56916172"
+    },
+    {
+      "filename": "证券法概述.json",
+      "title": "证券法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "证券法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 281,
+      "id": "50fe1fd4db5165f0"
+    },
+    {
+      "filename": "知识产权法律制度概述.json",
+      "title": "知识产权法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "知识产权法律制度",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 264,
+      "id": "8efeb824fe4f7d9a"
+    },
+    {
+      "filename": "采购与付款循环审计.json",
+      "title": "采购与付款循环审计",
+      "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
       "tags": [
         "CPA",
-        "财务成本管理",
-        "股利分配",
-        "股利政策"
+        "审计",
+        "采购与付款循环",
+        "内部控制"
       ],
-      "wordCount": 1367,
-      "id": "f5381d37d1ad70e5"
+      "wordCount": 1060,
+      "id": "5e0a4dc4e760fc53"
     }
   ]
 }
