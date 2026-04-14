@@ -1,9 +1,0 @@
-{
-  "filename": "二、零服务器的架构设计.json",
-  "title": "二、零服务器的架构设计",
-  "description": "二、零服务器的架构设计",
-  "category": "产品研发/开源生态",
-  "tags": [],
-  "wordCount": 409,
-  "content": "\n\n## 二、零服务器的架构设计\r\n\r\n### 1. 传统方案 vs 我的方案\r\n\r\n**传统方案：**\r\n\r\n```\r\n用户 → 小程序前端 → 服务器 → 数据库\r\n                    ↓\r\n                 服务器成本\r\n                 运维成本\r\n                 安全成本\r\n```\r\n\r\n**我的方案：**\r\n\r\n```\r\n用户 → 小程序前端 → 本地计算\r\n                    ↓\r\n                 本地存储（缓存）\r\n                    ↓\r\n                 CDN（静态数据）\r\n                    ↓\r\n               GitHub + jsDelivr\r\n```\r\n\r\n### 2. 核心思路\r\n\r\n**所有计算在用户手机上完成：**\r\n\r\n- 数独求解：本地算法\r\n- 二维码生成：本地 Canvas\r\n- 日期计算：本地 JavaScript\r\n- 字数统计：本地字符串处理\r\n\r\n**只有「静态数据」走 CDN：**\r\n\r\n- 版本日志\r\n- 每日一言\r\n- 预设题目\r\n\r\n### 3. 技术栈\r\n\r\n| 层面 | 技术 | 成本 |\r\n|------|------|------|\r\n| 前端 | 微信小程序原生 | 0 |\r\n| 计算 | 纯 JavaScript | 0 |\r\n| 数据存储 | wx.getStorageSync | 0 |\r\n| 静态数据 | jsDelivr CDN | 0 |\r\n| 代码托管 | GitHub | 0 |\r\n| 开源协议 | MIT | 0 |\r\n\r\n**总成本：0 元。**\r\n\r\n---\n"
-}

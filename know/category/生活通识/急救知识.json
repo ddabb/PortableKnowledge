@@ -1,89 +1,22 @@
 {
   "meta": {
     "category": "生活通识/急救知识",
-    "count": 9
+    "count": 1
   },
   "articles": [
     {
-      "filename": "八、施救者的保护.json",
-      "title": "八、施救者的保护",
-      "description": "八、施救者的保护",
+      "filename": "急救知识综合指南.json",
+      "title": "急救知识综合指南",
+      "description": "全面的急救知识，包括心肺复苏、AED使用等内容",
       "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 118,
-      "id": "ae1abf25b1f04899"
-    },
-    {
-      "filename": "二、什么情况需要心肺复苏.json",
-      "title": "二、什么情况需要心肺复苏",
-      "description": "二、什么情况需要心肺复苏",
-      "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 220,
-      "id": "b41e0c37d9da0de3"
-    },
-    {
-      "filename": "九、学习建议.json",
-      "title": "九、学习建议",
-      "description": "九、学习建议",
-      "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 147,
-      "id": "de4a3a8408d134ca"
-    },
-    {
-      "filename": "六、特殊情况.json",
-      "title": "六、特殊情况",
-      "description": "六、特殊情况",
-      "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 116,
-      "id": "273037aa4d4b5c24"
-    },
-    {
-      "filename": "七、常见错误.json",
-      "title": "七、常见错误",
-      "description": "七、常见错误",
-      "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 171,
-      "id": "fce7fc0f6e356809"
-    },
-    {
-      "filename": "三、心肺复苏步骤.json",
-      "title": "三、心肺复苏步骤",
-      "description": "三、心肺复苏步骤",
-      "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 587,
-      "id": "f9dcecfb29481ed1"
-    },
-    {
-      "filename": "四、只做按压的CPR.json",
-      "title": "四、只做按压的CPR",
-      "description": "四、只做按压的CPR",
-      "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 114,
-      "id": "b98a51c8701c1c08"
-    },
-    {
-      "filename": "五、使用AED.json",
-      "title": "五、使用AED",
-      "description": "五、使用AED",
-      "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 194,
-      "id": "14918168cebd9624"
-    },
-    {
-      "filename": "一、什么是心肺复苏.json",
-      "title": "一、什么是心肺复苏",
-      "description": "一、什么是心肺复苏",
-      "category": "生活通识/急救知识",
-      "tags": [],
-      "wordCount": 129,
-      "id": "7306bfcf7a46229a"
+      "tags": [
+        "急救知识",
+        "心肺复苏",
+        "AED",
+        "紧急救援"
+      ],
+      "wordCount": 1921,
+      "id": "e779f911e981f3c9"
     }
   ]
 }

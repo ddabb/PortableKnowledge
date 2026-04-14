@@ -1,281 +1,276 @@
 {
   "page": 39,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "二、标题：决定打开率.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "长期股权投资.json",
+      "title": "长期股权投资",
+      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "CPA",
+        "会计",
+        "长期股权投资",
+        "权益法"
       ],
-      "wordCount": 344,
-      "id": "3918a6517c6b9416"
+      "wordCount": 1636,
+      "id": "ea6795870a4ab109"
     },
     {
-      "filename": "九、发布时间.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "长期借款.json",
+      "title": "长期借款",
+      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "CPA",
+        "会计",
+        "长期借款",
+        "利息核算"
       ],
-      "wordCount": 221,
-      "id": "3a440b316c4a3192"
+      "wordCount": 1007,
+      "id": "f71eb9e8b48a6518"
     },
     {
-      "filename": "六、结尾：引导行动.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "资产概述.json",
+      "title": "资产概述",
+      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
+      "category": "注册会计师/会计",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "CPA",
+        "会计",
+        "资产",
+        "确认计量"
       ],
-      "wordCount": 239,
-      "id": "015359c356580982"
+      "wordCount": 665,
+      "id": "0d0c571d57a88cef"
     },
     {
-      "filename": "七、选题方向参考.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "反不正当竞争法概述.json",
+      "title": "反不正当竞争法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "反不正当竞争法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 271,
-      "id": "86b92dc4a0d4ac3c"
+      "wordCount": 757,
+      "id": "c4e8b6f024c78459"
     },
     {
-      "filename": "三、开头：留住读者.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "反垄断法概述.json",
+      "title": "反垄断法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "反垄断法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 243,
-      "id": "2148a075433a90f9"
+      "wordCount": 327,
+      "id": "dc2a54c5f75a7bdc"
     },
     {
-      "filename": "十、数据复盘.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "公司法概述.json",
+      "title": "公司法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "公司法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 216,
-      "id": "9788158bd3c7e5e0"
+      "wordCount": 294,
+      "id": "ff86ecb868f095ee"
     },
     {
-      "filename": "十一、写作习惯.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "合同法概述.json",
+      "title": "合同法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "合同法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 300,
-      "id": "75dc50cb2089afef"
+      "wordCount": 318,
+      "id": "103610937ddf56f5"
     },
     {
-      "filename": "四、结构：让文章可读.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "经济纠纷解决方式.json",
+      "title": "经济纠纷解决方式",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "经济纠纷",
+        "解决方式",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 410,
-      "id": "5298ba12fe2d70f0"
+      "wordCount": 624,
+      "id": "6f28046aa934540d"
     },
     {
-      "filename": "五、金句：让读者想转发.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "票据法概述.json",
+      "title": "票据法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "票据法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 360,
-      "id": "160d4e202348a62c"
+      "wordCount": 215,
+      "id": "b2f548bfa3843e2b"
     },
     {
-      "filename": "一、选题：爆款的起点.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "破产法概述.json",
+      "title": "破产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "破产法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 478,
-      "id": "595fdd5e7b477eea"
+      "wordCount": 283,
+      "id": "cd6bfd3f56cbfb10"
     },
     {
-      "filename": "九、选题复盘.json",
-      "title": "九、选题复盘",
-      "description": "九、选题复盘",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 199,
-      "id": "00f688dc81aad28e"
-    },
-    {
-      "filename": "六、选题执行流程.json",
-      "title": "六、选题执行流程",
-      "description": "六、选题执行流程",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 321,
-      "id": "016c551657dbbae1"
-    },
-    {
-      "filename": "七、选题常见问题.json",
-      "title": "七、选题常见问题",
-      "description": "七、选题常见问题",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 250,
-      "id": "f95ebe0f5c082172"
-    },
-    {
-      "filename": "三、选题评估方法.json",
-      "title": "三、选题评估方法",
-      "description": "三、选题评估方法",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 452,
-      "id": "e292ca70457063f6"
-    },
-    {
-      "filename": "四、选题库建设.json",
-      "title": "四、选题库建设",
-      "description": "四、选题库建设",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 367,
-      "id": "af2a5f3595e8e0e9"
-    },
-    {
-      "filename": "五、选题方向库.json",
-      "title": "五、选题方向库",
-      "description": "五、选题方向库",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 370,
-      "id": "eec9386c3a496203"
-    },
-    {
-      "filename": "八、发布时间.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "企业国有资产法概述.json",
+      "title": "企业国有资产法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "企业国有资产法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 214,
-      "id": "8ed0b02306fbd5be"
+      "wordCount": 470,
+      "id": "ea02692ed7be380d"
     },
     {
-      "filename": "二、账号定位.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "涉外经济法律制度概述.json",
+      "title": "涉外经济法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "涉外经济法律制度",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 509,
-      "id": "b4693c8c15dc266a"
+      "wordCount": 318,
+      "id": "3b46227da5fa1039"
     },
     {
-      "filename": "九、数据分析.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "物权法概述.json",
+      "title": "物权法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "物权法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 243,
-      "id": "dec0ce914a6014a0"
+      "wordCount": 227,
+      "id": "fcba634f56916172"
     },
     {
-      "filename": "六、正文写作.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "证券法概述.json",
+      "title": "证券法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "证券法",
+        "经济法",
+        "CPA"
       ],
-      "wordCount": 389,
-      "id": "2567622770907deb"
+      "wordCount": 281,
+      "id": "50fe1fd4db5165f0"
+    },
+    {
+      "filename": "知识产权法律制度概述.json",
+      "title": "知识产权法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "知识产权法律制度",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 264,
+      "id": "8efeb824fe4f7d9a"
+    },
+    {
+      "filename": "采购与付款循环审计.json",
+      "title": "采购与付款循环审计",
+      "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "采购与付款循环",
+        "内部控制"
+      ],
+      "wordCount": 1060,
+      "id": "5e0a4dc4e760fc53"
+    },
+    {
+      "filename": "风险评估.json",
+      "title": "风险评估",
+      "description": "CPA审计风险评估章节核心知识点，包括风险评估程序和重大错报风险评估",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "风险评估",
+        "重大错报风险"
+      ],
+      "wordCount": 925,
+      "id": "05e487191787af09"
+    },
+    {
+      "filename": "会计师事务所质量控制.json",
+      "title": "会计师事务所质量控制",
+      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "质量控制",
+        "要素程序"
+      ],
+      "wordCount": 1634,
+      "id": "6382ed54c5889567"
+    },
+    {
+      "filename": "货币资金审计.json",
+      "title": "货币资金审计",
+      "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "货币资金",
+        "内部控制"
+      ],
+      "wordCount": 784,
+      "id": "bd85c1e789684a32"
+    },
+    {
+      "filename": "内部控制审计.json",
+      "title": "内部控制审计",
+      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "内部控制审计",
+        "内部控制"
+      ],
+      "wordCount": 1156,
+      "id": "85b4de9995f649ea"
     }
   ]
 }

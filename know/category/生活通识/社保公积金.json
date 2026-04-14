@@ -1,18 +1,9 @@
 {
   "meta": {
     "category": "生活通识/社保公积金",
-    "count": 16
+    "count": 3
   },
   "articles": [
-    {
-      "filename": "八、实用技巧.json",
-      "title": "八、实用技巧",
-      "description": "八、实用技巧",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 195,
-      "id": "431a8c7a22b6059f"
-    },
     {
       "filename": "八、医保缴费标准（参考）.json",
       "title": "八、医保缴费标准（参考）",
@@ -23,76 +14,19 @@
       "id": "2297147bba7f84c2"
     },
     {
-      "filename": "二、可以提取的情形.json",
-      "title": "二、可以提取的情形",
-      "description": "二、可以提取的情形",
+      "filename": "社保公积金综合指南.json",
+      "title": "社保公积金综合指南",
+      "description": "全面的社保公积金知识，包括公积金提取、医保报销等内容",
       "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 285,
-      "id": "1945a64dc3ccc86d"
-    },
-    {
-      "filename": "二、医保报销范围.json",
-      "title": "二、医保报销范围",
-      "description": "二、医保报销范围",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 304,
-      "id": "b43ef3b7e821d1cd"
-    },
-    {
-      "filename": "六、常见问题.json",
-      "title": "六、常见问题",
-      "description": "六、常见问题",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 313,
-      "id": "1670e6f39f8f232e"
-    },
-    {
-      "filename": "六、医保常见问题.json",
-      "title": "六、医保常见问题",
-      "description": "六、医保常见问题",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 331,
-      "id": "9e47a35e35a1ef6b"
-    },
-    {
-      "filename": "七、公积金贷款优势.json",
-      "title": "七、公积金贷款优势",
-      "description": "七、公积金贷款优势",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 197,
-      "id": "8f2012dc3c43e7d3"
-    },
-    {
-      "filename": "七、省钱小技巧.json",
-      "title": "七、省钱小技巧",
-      "description": "七、省钱小技巧",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 135,
-      "id": "11f2e7421098d639"
-    },
-    {
-      "filename": "三、报销流程.json",
-      "title": "三、报销流程",
-      "description": "三、报销流程",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 371,
-      "id": "d193fb23db62f9c9"
-    },
-    {
-      "filename": "三、提取方式.json",
-      "title": "三、提取方式",
-      "description": "三、提取方式",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 174,
-      "id": "7d70b3bbba5f5c7f"
+      "tags": [
+        "社保",
+        "公积金",
+        "医保",
+        "提取",
+        "报销"
+      ],
+      "wordCount": 2300,
+      "id": "10e17f26b87c72d0"
     },
     {
       "filename": "四、报销比例（以职工医保为例）.json",
@@ -102,51 +36,6 @@
       "tags": [],
       "wordCount": 258,
       "id": "0584b279ca9eb9c2"
-    },
-    {
-      "filename": "四、各类提取所需材料.json",
-      "title": "四、各类提取所需材料",
-      "description": "四、各类提取所需材料",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 319,
-      "id": "1b3e10ecd2735fb2"
-    },
-    {
-      "filename": "五、提取额度.json",
-      "title": "五、提取额度",
-      "description": "五、提取额度",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 131,
-      "id": "47eb11c0d4939432"
-    },
-    {
-      "filename": "五、医保个人账户.json",
-      "title": "五、医保个人账户",
-      "description": "五、医保个人账户",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 144,
-      "id": "b3a954b712906ceb"
-    },
-    {
-      "filename": "一、公积金是什么.json",
-      "title": "一、公积金是什么",
-      "description": "一、公积金是什么",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 98,
-      "id": "a84bb5f9e64b507d"
-    },
-    {
-      "filename": "一、医保是什么.json",
-      "title": "一、医保是什么",
-      "description": "一、医保是什么",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 129,
-      "id": "955fd252c94db8f9"
     }
   ]
 }

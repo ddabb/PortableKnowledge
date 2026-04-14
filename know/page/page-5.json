@@ -1,294 +1,267 @@
 {
   "page": 5,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "四、实例分析.json",
-      "title": "四、实例分析",
-      "description": "四、实例分析",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 380,
-      "id": "4b364c1588273a7b"
-    },
-    {
-      "filename": "四、写作结构.json",
-      "title": "四、写作结构",
-      "description": "四、写作结构",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 201,
-      "id": "a8ac3d7c526ecf75"
-    },
-    {
-      "filename": "五、实例分析.json",
-      "title": "五、实例分析",
-      "description": "五、实例分析",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 407,
-      "id": "9e4fb7314bc3f860"
-    },
-    {
-      "filename": "五、注意事项.json",
-      "title": "五、注意事项",
-      "description": "五、注意事项",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 265,
-      "id": "74dfba907dfb76ec"
-    },
-    {
-      "filename": "一、核心考点.json",
-      "title": "一、核心考点",
-      "description": "一、核心考点",
-      "category": "公务员/申论",
-      "tags": [],
-      "wordCount": 1326,
-      "id": "af7978997694bb01"
-    },
-    {
-      "filename": "综合分析.json",
-      "title": "综合分析",
+      "filename": "幼儿教育方法.json",
+      "title": "幼儿教育方法",
       "description": "",
-      "category": "公务员/申论",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "申论",
-        "综合分析",
-        "分析方法",
-        "逻辑思维"
+        "教育方法",
+        "幼儿教育",
+        "教资"
       ],
-      "wordCount": 115,
-      "id": "85fd8260bcc67102"
+      "wordCount": 1553,
+      "id": "b4e643bc15376f7f"
     },
     {
-      "filename": "常识判断.json",
-      "title": "常识判断",
+      "filename": "幼儿科学教育.json",
+      "title": "幼儿科学教育",
       "description": "",
-      "category": "公务员/行政职业能力测验",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "行测",
-        "常识判断",
-        "政治",
-        "经济",
-        "法律",
-        "科技",
-        "历史",
-        "地理"
+        "科学教育",
+        "幼儿科学",
+        "教资"
       ],
-      "wordCount": 195,
-      "id": "ad827cbb8bf8f659"
+      "wordCount": 3370,
+      "id": "085a0987c5052b3e"
     },
     {
-      "filename": "判断推理.json",
-      "title": "判断推理",
+      "filename": "幼儿情绪发展.json",
+      "title": "幼儿情绪发展",
       "description": "",
-      "category": "公务员/行政职业能力测验",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "行测",
-        "判断推理",
-        "图形推理",
-        "定义判断",
-        "类比推理",
-        "逻辑判断"
+        "情绪发展",
+        "幼儿情绪",
+        "教资"
       ],
-      "wordCount": 236,
-      "id": "9050b3beccad874f"
+      "wordCount": 3574,
+      "id": "41ccc8cea733cbca"
     },
     {
-      "filename": "数量关系.json",
-      "title": "数量关系",
+      "filename": "幼儿认知发展.json",
+      "title": "幼儿认知发展",
       "description": "",
-      "category": "公务员/行政职业能力测验",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "行测",
-        "数量关系",
-        "数学运算",
-        "数字推理"
+        "认知发展",
+        "幼儿认知",
+        "教资"
       ],
-      "wordCount": 182,
-      "id": "f8b4a33207004494"
+      "wordCount": 3651,
+      "id": "c000081953871a25"
     },
     {
-      "filename": "言语理解.json",
-      "title": "言语理解",
+      "filename": "幼儿社会性发展.json",
+      "title": "幼儿社会性发展",
       "description": "",
-      "category": "公务员/行政职业能力测验",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "行测",
-        "言语理解",
-        "逻辑填空",
-        "片段阅读",
-        "语句表达"
+        "社会性发展",
+        "幼儿社会",
+        "教资"
       ],
-      "wordCount": 177,
-      "id": "915e1a246acfeb53"
+      "wordCount": 3897,
+      "id": "1af5319899764194"
     },
     {
-      "filename": "资料分析.json",
-      "title": "资料分析",
+      "filename": "幼儿艺术教育.json",
+      "title": "幼儿艺术教育",
       "description": "",
-      "category": "公务员/行政职业能力测验",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "行测",
-        "资料分析",
-        "统计术语",
-        "速算技巧",
-        "图表分析"
+        "艺术教育",
+        "幼儿艺术",
+        "教资"
       ],
-      "wordCount": 152,
-      "id": "edd1848040ae9fb2"
+      "wordCount": 2978,
+      "id": "d5b6dfdba330ba4a"
     },
     {
-      "filename": "三、婴幼儿照护（2023年新增）.json",
-      "title": "3岁以下孩子也能抵扣个税！婴幼儿照护专项附加扣除全攻略",
-      "description": "2023年起，3岁以下婴幼儿照护可以抵扣个税了，每月2000元/子女。怎么申报？能省多少税？手把手教你操作。",
-      "category": "家庭理财",
+      "filename": "幼儿语言发展.json",
+      "title": "幼儿语言发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
       "tags": [
-        "税务规划",
-        "婴幼儿照护",
-        "专项附加扣除",
-        "个税抵扣",
-        "子女教育",
-        "3岁以下",
-        "个人所得税"
+        "语言发展",
+        "幼儿语言",
+        "教资"
       ],
-      "wordCount": 1263,
-      "id": "6f8d9617e10865cc"
+      "wordCount": 3186,
+      "id": "762f6db947ac0a60"
     },
     {
-      "filename": "三、不同风险偏好配置.json",
-      "title": "保守型、平衡型、进取型……你是哪种投资者？一张表说清资产配置",
-      "description": "不同风险偏好的人，资产配置方案完全不同。详细介绍保守型、平衡型、进取型投资者的配置比例，以及如何根据自己的年龄、收入、家庭情况调整。",
-      "category": "家庭理财",
+      "filename": "班级管理案例分析.json",
+      "title": "班级管理案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "资产配置",
-        "投资理财",
-        "风险偏好",
-        "保守型投资",
-        "平衡型投资",
-        "进取型投资",
-        "基金配置"
+        "班级管理",
+        "案例分析",
+        "学生管理"
       ],
-      "wordCount": 1549,
-      "id": "3eceb301af2931b2"
+      "wordCount": 4327,
+      "id": "ef11e36b15cfb901"
     },
     {
-      "filename": "一、避税vs偷税漏税.json",
-      "title": "避税、节税、逃税、偷税……一字之差，违法风险天壤之别",
-      "description": "避税和偷税漏税只有一线之隔。详细介绍避税、节税、逃税、偷税的区别，以及哪些合法、哪些违法，帮你守住税务红线。",
-      "category": "家庭理财",
+      "filename": "班级管理与教育沟通.json",
+      "title": "班级管理与教育沟通",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "税务规划",
-        "避税",
-        "节税",
-        "逃税",
-        "偷税",
-        "税务合规",
-        "个人所得税"
+        "班级管理",
+        "教育沟通",
+        "师生关系"
       ],
-      "wordCount": 1322,
-      "id": "363597d3e4d20d1d"
+      "wordCount": 4356,
+      "id": "993359eb18a0dd0b"
     },
     {
-      "filename": "九、常见问题.json",
-      "title": "避税常见问题解答：私人转账、发票报销、跨境避税…哪些合法哪些违法？",
-      "description": "私人转账能避税吗？发票报销呢？跨境避税可行吗？税筹机构能信吗？这些常见的避税问题，一文说清楚哪些合法、哪些违法。",
-      "category": "家庭理财",
+      "filename": "教学设计案例分析.json",
+      "title": "教学设计案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "税务规划",
-        "避税问题",
-        "私人转账",
-        "发票报销",
-        "跨境避税",
-        "税务合规"
+        "教学设计",
+        "案例分析",
+        "教学实践"
       ],
-      "wordCount": 1491,
-      "id": "eaea4f3ad1fa641d"
+      "wordCount": 4608,
+      "id": "a2ac6236dac775d6"
     },
     {
-      "filename": "八、年收入避税规划.json",
-      "title": "不同年收入怎么避税？从6万到50万+，对症下药最省钱",
-      "description": "年收入6万以下可能退税，50万以上要考虑收入类型转化。不同收入区间，避税策略完全不同。按收入区间对症下药，帮你省最多的税。",
-      "category": "家庭理财",
+      "filename": "教学设计与实施.json",
+      "title": "教学设计与实施",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "税务规划",
-        "避税策略",
-        "年收入避税",
-        "专项附加扣除",
-        "年终奖",
-        "个人所得税"
+        "教学设计",
+        "教学实施",
+        "教学策略"
       ],
-      "wordCount": 1596,
-      "id": "a4f3840eb30671ad"
+      "wordCount": 3865,
+      "id": "ef27e31f6e22c582"
     },
     {
-      "filename": "三、不同人群配置.json",
-      "title": "不同人群怎么买保险？成人、儿童、老人的配置方案全不同",
-      "description": "25岁上班族和50岁父母买保险完全不同。儿童不需要寿险，老人买重疾太贵要选防癌险。按人群定制保险配置方案，不花冤枉钱。",
-      "category": "家庭理财",
+      "filename": "教育创新与改革.json",
+      "title": "教育创新与改革",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "保险配置",
-        "成人保险",
-        "儿童保险",
-        "老人保险",
-        "重疾险",
-        "防癌险",
-        "意外险"
+        "教育创新",
+        "教育改革",
+        "素质教育"
       ],
-      "wordCount": 2063,
-      "id": "f2e40cf25f92e60d"
+      "wordCount": 3390,
+      "id": "a984c08f238b1def"
     },
     {
-      "filename": "七、创业投资节税.json",
-      "title": "创业者和投资人必看：小微企业、高新技术企业、创业投资的税务优惠",
-      "description": "创业开公司、做投资人，有哪些税务优惠？小微企业减税、高新技术企业15%税率、创业投资抵税，一文说清楚。",
-      "category": "家庭理财",
+      "filename": "教育法律法规案例分析.json",
+      "title": "教育法律法规案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "税务规划",
-        "创业税务",
-        "小微企业",
-        "高新技术企业",
-        "创业投资",
-        "企业所得税",
-        "税收优惠"
+        "教育法律法规",
+        "案例分析",
+        "法律责任"
       ],
-      "wordCount": 1614,
-      "id": "7e1d649b6e92a7dd"
+      "wordCount": 4480,
+      "id": "4c465f57472777a5"
     },
     {
-      "filename": "一、个税基础.json",
-      "title": "个人所得税怎么算？一张图+3个例子，5分钟搞懂个税计算",
-      "description": "个税起征点5000元怎么来的？专项附加扣除怎么减税？月入1万、2万、5万分别交多少税？用3个例子说清楚个税计算方法。",
-      "category": "家庭理财",
+      "filename": "教育法律法规与教师职业道德.json",
+      "title": "教育法律法规与教师职业道德",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "个人所得税",
-        "个税计算",
-        "个税起征点",
-        "税率表",
-        "专项附加扣除",
-        "综合所得税"
+        "教育法律法规",
+        "教师职业道德",
+        "法律责任"
       ],
-      "wordCount": 2460,
-      "id": "ee52aeb6c2cb25fd"
+      "wordCount": 4917,
+      "id": "606effbf3fd22802"
     },
     {
-      "filename": "六、汇算清缴.json",
-      "title": "个税汇算清缴全攻略：怎么操作？能退多少钱？",
-      "description": "每年3-6月是个人所得税汇算清缴时间。谁需要办理？不办理有什么后果？如何操作能多退税？手把手教你搞定年度汇算。",
-      "category": "家庭理财",
+      "filename": "教育技术应用.json",
+      "title": "教育技术应用",
+      "description": "",
+      "category": "教师资格证/中学",
       "tags": [
-        "税务规划",
-        "个税汇算",
-        "综合所得税",
-        "退税",
-        "补税",
-        "个税APP",
-        "个人所得税"
+        "教育技术",
+        "信息技术",
+        "教学创新"
       ],
-      "wordCount": 1315,
-      "id": "ada1def05d17e4d3"
+      "wordCount": 3883,
+      "id": "d5ada9171e523b31"
+    },
+    {
+      "filename": "教育教学实践案例分析.json",
+      "title": "教育教学实践案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育教学",
+        "案例分析",
+        "实践经验"
+      ],
+      "wordCount": 4364,
+      "id": "b896301fbe80b9af"
+    },
+    {
+      "filename": "教育评价与反思.json",
+      "title": "教育评价与反思",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育评价",
+        "教学反思",
+        "专业发展"
+      ],
+      "wordCount": 3348,
+      "id": "09a6af8a8a2a3cd0"
+    },
+    {
+      "filename": "教育心理学案例分析.json",
+      "title": "教育心理学案例分析",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育心理学",
+        "案例分析",
+        "教学实践"
+      ],
+      "wordCount": 4160,
+      "id": "a2c3c35dc85d4b1c"
+    },
+    {
+      "filename": "教育心理学知识.json",
+      "title": "教育心理学知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育心理学",
+        "学习理论",
+        "学生心理"
+      ],
+      "wordCount": 5273,
+      "id": "3f7a8875e981abc4"
+    },
+    {
+      "filename": "教育学基础知识.json",
+      "title": "教育学基础知识",
+      "description": "",
+      "category": "教师资格证/中学",
+      "tags": [
+        "教育学",
+        "基础知识",
+        "教育理论"
+      ],
+      "wordCount": 2777,
+      "id": "f0460d10e2cbd9fe"
     }
   ]
 }

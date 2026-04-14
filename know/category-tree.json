@@ -1,63 +1,19 @@
 {
   "name": "root",
   "path": "",
-  "count": 1009,
+  "count": 805,
   "children": {
     "产品研发": {
       "name": "产品研发",
       "path": "产品研发",
-      "count": 48,
-      "children": {
-        "产品设计": {
-          "name": "产品设计",
-          "path": "产品研发/产品设计",
-          "count": 7,
-          "children": {}
-        },
-        "产品使用": {
-          "name": "产品使用",
-          "path": "产品研发/产品使用",
-          "count": 7,
-          "children": {}
-        },
-        "产品思考": {
-          "name": "产品思考",
-          "path": "产品研发/产品思考",
-          "count": 24,
-          "children": {}
-        },
-        "开发实践": {
-          "name": "开发实践",
-          "path": "产品研发/开发实践",
-          "count": 2,
-          "children": {}
-        },
-        "开源生态": {
-          "name": "开源生态",
-          "path": "产品研发/开源生态",
-          "count": 6,
-          "children": {}
-        }
-      }
+      "count": 1,
+      "children": {}
     },
     "创业指南": {
       "name": "创业指南",
       "path": "创业指南",
-      "count": 16,
-      "children": {
-        "财务规划": {
-          "name": "财务规划",
-          "path": "创业指南/财务规划",
-          "count": 2,
-          "children": {}
-        },
-        "创业准备": {
-          "name": "创业准备",
-          "path": "创业指南/创业准备",
-          "count": 14,
-          "children": {}
-        }
-      }
+      "count": 1,
+      "children": {}
     },
     "法律常识": {
       "name": "法律常识",
@@ -87,7 +43,7 @@
     "家庭理财": {
       "name": "家庭理财",
       "path": "家庭理财",
-      "count": 49,
+      "count": 1,
       "children": {}
     },
     "建造师": {
@@ -346,18 +302,18 @@
     "生活通识": {
       "name": "生活通识",
       "path": "生活通识",
-      "count": 72,
+      "count": 33,
       "children": {
         "安全防范": {
           "name": "安全防范",
           "path": "生活通识/安全防范",
-          "count": 19,
+          "count": 1,
           "children": {}
         },
         "急救知识": {
           "name": "急救知识",
           "path": "生活通识/急救知识",
-          "count": 9,
+          "count": 1,
           "children": {}
         },
         "健康养生": {
@@ -369,7 +325,7 @@
         "社保公积金": {
           "name": "社保公积金",
           "path": "生活通识/社保公积金",
-          "count": 16,
+          "count": 3,
           "children": {}
         },
         "自然灾害": {
@@ -469,7 +425,7 @@
     "职场生存": {
       "name": "职场生存",
       "path": "职场生存",
-      "count": 59,
+      "count": 4,
       "children": {
         "个人品牌": {
           "name": "个人品牌",
@@ -480,7 +436,7 @@
         "劳动权益": {
           "name": "劳动权益",
           "path": "职场生存/劳动权益",
-          "count": 56,
+          "count": 1,
           "children": {}
         }
       }

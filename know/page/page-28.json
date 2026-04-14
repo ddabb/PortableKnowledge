@@ -1,268 +1,223 @@
 {
   "page": 28,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "成本效益分析.json",
-      "title": "成本效益分析完全指南",
-      "description": "成本效益分析的定义、步骤、方法和项目管理中的应用",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据分析",
-        "成本效益分析",
-        "决策",
-        "投资分析"
-      ],
-      "wordCount": 2247,
-      "id": "8e8ec6fab964e8fd"
+      "filename": "六、过敏性鼻炎.json",
+      "title": "六、过敏性鼻炎",
+      "description": "六、过敏性鼻炎",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 250,
+      "id": "41d687c2b87e0555"
     },
     {
-      "filename": "冲突管理.json",
-      "title": "冲突管理完全指南",
-      "description": "冲突的定义、来源、五种冲突解决方法及适用场景",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能",
-        "冲突管理",
-        "项目管理",
-        "团队协作"
-      ],
-      "wordCount": 2692,
-      "id": "3a26dcfeeff022f8"
+      "filename": "六、提高免疫力.json",
+      "title": "六、提高免疫力",
+      "description": "六、提高免疫力",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 223,
+      "id": "0871be0ae56da681"
     },
     {
-      "filename": "独裁型决策制定.json",
-      "title": "独裁型决策制定",
-      "description": "一种由单一决策者主导的决策方法，适用于需要快速决策的场景。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "决策",
-        "项目管理",
-        "领导风格"
-      ],
-      "wordCount": 1229,
-      "id": "a197252eeba2b9ab"
+      "filename": "七、肺癌预防.json",
+      "title": "七、肺癌预防",
+      "description": "七、肺癌预防",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 304,
+      "id": "1b910746eb0ce35b"
     },
     {
-      "filename": "多标准决策分析.json",
-      "title": "多标准决策分析",
-      "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "决策"
-      ],
-      "wordCount": 55,
-      "id": "20cab351439d27fa"
+      "filename": "七、特定人群预防.json",
+      "title": "七、特定人群预防",
+      "description": "七、特定人群预防",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 168,
+      "id": "5d71f4298de69044"
     },
     {
-      "filename": "访谈.json",
-      "title": "访谈完全指南",
-      "description": "访谈的定义、类型、准备工作、提问技巧和结果分析",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集",
-        "访谈",
-        "沟通",
-        "需求获取"
-      ],
-      "wordCount": 1802,
-      "id": "714a8a83d55f2657"
+      "filename": "七、饮食习惯养护.json",
+      "title": "七、饮食习惯养护",
+      "description": "七、饮食习惯养护",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 309,
+      "id": "721ec513288ab408"
     },
     {
-      "filename": "观察和交谈.json",
-      "title": "观察和交谈完全指南",
-      "description": "观察法的定义、类型、实施步骤、记录技巧和与交谈的结合应用",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "如何培养健康的睡眠习惯.json",
+      "title": "如何培养健康的睡眠习惯",
+      "description": "从睡眠机制到实用方法，建立科学睡眠模式，提升睡眠质量",
+      "category": "生活通识/健康养生",
       "tags": [
-        "人际关系与团队技能",
-        "观察和交谈",
-        "工作观察",
-        "需求获取"
+        "睡眠",
+        "健康管理",
+        "作息",
+        "睡眠质量"
       ],
-      "wordCount": 2932,
-      "id": "19724bb75dd76706"
+      "wordCount": 1004,
+      "id": "c4808af2f4cd96c9"
     },
     {
-      "filename": "核对单.json",
-      "title": "核对单完全指南",
-      "description": "核对单的定义、类型、编制方法、使用场景和注意事项",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集",
-        "核对单",
-        "检查清单",
-        "质量管理"
-      ],
-      "wordCount": 1862,
-      "id": "fa10b174d54144c2"
+      "filename": "三、危险因素.json",
+      "title": "三、危险因素",
+      "description": "三、危险因素",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 382,
+      "id": "e36da8d381b8200b"
     },
     {
-      "filename": "焦点小组.json",
-      "title": "焦点小组完全指南",
-      "description": "焦点小组的定义、优势、准备工作、主持技巧和结果分析",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
+      "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",
+      "description": "睡眠革命：从科学睡眠到能量管理的高效生活方式的核心知识点汇总",
+      "category": "生活通识/健康养生",
       "tags": [
-        "数据收集",
-        "焦点小组",
-        "用户研究",
-        "小组讨论"
+        "精力管理",
+        "睡眠",
+        "健康"
       ],
-      "wordCount": 1881,
-      "id": "1dd9f21d6057f4f4"
+      "wordCount": 5551,
+      "id": "2cb0a104bfd0e6b4"
     },
     {
-      "filename": "联合应用设计或开发.json",
-      "title": "联合应用设计或开发",
-      "description": "联合应用设计或开发 JAD 会议适用于软件开发行业。这种研讨会注重把业务主题专家和开发团队集中在一起，以收集需求和改进软件开发过程。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能"
-      ],
-      "wordCount": 64,
-      "id": "e307f585652ce8e2"
+      "filename": "四、常见癌症筛查.json",
+      "title": "四、常见癌症筛查",
+      "description": "四、常见癌症筛查",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 503,
+      "id": "f9c029af39b6a723"
     },
     {
-      "filename": "名义小组技术.json",
-      "title": "名义小组技术完全指南",
-      "description": "名义小组技术的定义、实施步骤、优缺点和应用场景",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能",
-        "名义小组技术",
-        "决策工具",
-        "头脑风暴"
-      ],
-      "wordCount": 2882,
-      "id": "e1a056cecb167c5e"
+      "filename": "四、科学预防措施.json",
+      "title": "四、科学预防措施",
+      "description": "四、科学预防措施",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 914,
+      "id": "64d02790bc3fe306"
     },
     {
-      "filename": "亲和图.json",
-      "title": "亲和图",
-      "description": "一种用于组织和分析大量创意或信息的技术，通过分组整理以便进一步审查和分析。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "四季养生指南_科学调理身体健康.json",
+      "title": "四季养生指南：科学调理身体健康",
+      "description": "四季养生指南：科学调理身体健康的核心知识点汇总",
+      "category": "生活通识/健康养生",
       "tags": [
-        "数据表现",
-        "项目管理",
-        "质量管理"
+        "四季",
+        "健康",
+        "养生"
       ],
-      "wordCount": 1490,
-      "id": "2778377756582ebd"
+      "wordCount": 2923,
+      "id": "e2e1ee67a7f1ddc6"
     },
     {
-      "filename": "思维导图.json",
-      "title": "思维导图",
-      "description": "把从头脑风暴中获得的创意整合成一张图，用以反映创意之间的共性与差异，激发新创意。",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "糖尿病管理指南.json",
+      "title": "糖尿病管理指南",
+      "description": "糖尿病的基础知识、预防和管理",
+      "category": "生活通识/健康养生",
       "tags": [
-        "数据表现"
+        "糖尿病",
+        "健康养生",
+        "管理"
       ],
-      "wordCount": 40,
-      "id": "5eeefa24c55d2ad5"
+      "wordCount": 2511,
+      "id": "7721989cb7d48335"
     },
     {
-      "filename": "统计抽样.json",
-      "title": "统计抽样",
-      "description": "统计抽样是指从目标总体中选取部分样本用于检查（如从 75 张工程图纸中随机抽取10 张）。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集"
-      ],
-      "wordCount": 78,
-      "id": "90e7eee2b90850f3"
+      "filename": "五、哮喘.json",
+      "title": "五、哮喘",
+      "description": "五、哮喘",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 305,
+      "id": "feca3297a425031b"
     },
     {
-      "filename": "头脑风暴.json",
-      "title": "头脑风暴完全指南",
-      "description": "头脑风暴的核心方法、流程、技巧与常见误区",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据收集",
-        "头脑风暴",
-        "创意",
-        "会议"
-      ],
-      "wordCount": 1194,
-      "id": "913b8543d21f1108"
+      "filename": "五、早期信号识别.json",
+      "title": "五、早期信号识别",
+      "description": "五、早期信号识别",
+      "category": "生活通识/健康养生",
+      "tags": [],
+      "wordCount": 294,
+      "id": "2448fac2fc90c5c4"
     },
     {
-      "filename": "投票.json",
-      "title": "投票完全指南",
-      "description": "投票的定义、类型、实施方法和在项目管理中的应用",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "消化系统健康指南.json",
+      "title": "消化系统健康指南",
+      "description": "消化系统的基础知识、常见疾病和预防措施",
+      "category": "生活通识/健康养生",
       "tags": [
-        "决策",
-        "投票",
-        "共识",
-        "团队决策"
+        "消化系统",
+        "健康养生",
+        "预防"
       ],
-      "wordCount": 1310,
-      "id": "eca1be53e721daa8"
+      "wordCount": 2364,
+      "id": "ebadd2143884bfd6"
     },
     {
-      "filename": "问卷调查.json",
-      "title": "问卷调查",
-      "description": "问卷调查是指设计一系列书面问题，向众多受访者快速收集信息。问卷调查方法非常适用于以下情况：受众多样化，需要快速完成调查，受访者地理位置分散，并且适合开展统计分析。可用于在部署产品或服务之后收集关于客户...",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "心脑血管疾病预防指南.json",
+      "title": "心脑血管疾病预防指南",
+      "description": "心脑血管疾病的预防、危险因素和紧急处理",
+      "category": "生活通识/健康养生",
       "tags": [
-        "数据收集"
+        "心脑血管疾病",
+        "预防",
+        "健康养生"
       ],
-      "wordCount": 156,
-      "id": "b20cf68b7c8f9fe2"
+      "wordCount": 1701,
+      "id": "4f6a963b4988b3f5"
     },
     {
-      "filename": "引导.json",
-      "title": "引导",
-      "description": "引导是指有效引导团队活动成功以达成决定、解决方案或结论的能力。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "人际关系与团队技能"
-      ],
-      "wordCount": 99,
-      "id": "4f37d4cbc7ffb497"
+      "filename": "八、医保缴费标准（参考）.json",
+      "title": "八、医保缴费标准（参考）",
+      "description": "八、医保缴费标准（参考）",
+      "category": "生活通识/社保公积金",
+      "tags": [],
+      "wordCount": 123,
+      "id": "2297147bba7f84c2"
     },
     {
-      "filename": "质量功能展开.json",
-      "title": "质量功能展开完全指南",
-      "description": "QFD质量屋的原理、构建步骤、软件开发中的应用和实施要点",
-      "category": "软考/综合知识/工具与技术",
+      "filename": "社保公积金综合指南.json",
+      "title": "社保公积金综合指南",
+      "description": "全面的社保公积金知识，包括公积金提取、医保报销等内容",
+      "category": "生活通识/社保公积金",
       "tags": [
-        "人际关系与团队技能",
-        "质量功能展开",
-        "QFD",
-        "需求分析",
-        "质量规划"
+        "社保",
+        "公积金",
+        "医保",
+        "提取",
+        "报销"
       ],
-      "wordCount": 2988,
-      "id": "adf996186008b004"
+      "wordCount": 2300,
+      "id": "10e17f26b87c72d0"
     },
     {
-      "filename": "网络图与关键路径计算.json",
-      "title": "网络图与关键路径计算",
-      "description": "软考中项必考计算——网络图分析、关键路径法（CPM）及各节点时间参数计算方法与例题。",
-      "category": "软考/综合知识/计算题专项",
-      "tags": [
-        "网络图",
-        "关键路径",
-        "CPM",
-        "计算题"
-      ],
-      "wordCount": 1130,
-      "id": "31c4b9b088ef715f"
+      "filename": "四、报销比例（以职工医保为例）.json",
+      "title": "四、报销比例（以职工医保为例）",
+      "description": "四、报销比例（以职工医保为例）",
+      "category": "生活通识/社保公积金",
+      "tags": [],
+      "wordCount": 258,
+      "id": "0584b279ca9eb9c2"
     },
     {
-      "filename": "挣值分析计算专项.json",
-      "title": "挣值分析计算专项",
-      "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
-      "category": "软考/综合知识/计算题专项",
+      "filename": "地震防范与应急.json",
+      "title": "地震防范与应急",
+      "description": "地震发生时的应对措施、逃生技巧和日常准备",
+      "category": "生活通识/自然灾害",
       "tags": [
-        "挣值分析",
-        "EVM",
-        "计算题",
-        "中项核心"
+        "地震",
+        "自然灾害",
+        "应急",
+        "逃生"
       ],
-      "wordCount": 1240,
-      "id": "261aaa76fbd66b9b"
+      "wordCount": 877,
+      "id": "be8e5050f8013cf0"
     }
   ]
 }

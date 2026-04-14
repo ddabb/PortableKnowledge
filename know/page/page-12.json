@@ -1,281 +1,217 @@
 {
   "page": 12,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "数学基础概述.json",
-      "title": "数学基础概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "数学",
-        "考研"
-      ],
-      "wordCount": 512,
-      "id": "fbac4cc196455609"
+      "filename": "二、核心方法论.json",
+      "title": "二、核心方法论",
+      "description": "二、核心方法论",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 627,
+      "id": "37bed835d1e8db83"
     },
     {
-      "filename": "算术.json",
-      "title": "算术",
-      "description": "",
-      "category": "考研专业课/管理类联考",
+      "filename": "决策矩阵分析法.json",
+      "title": "决策矩阵分析法",
+      "description": "通过系统化评估选项的多个维度，用加权评分做出更理性的重大决策",
+      "category": "认知思维/思维工具",
       "tags": [
-        "管理类联考",
-        "数学",
-        "算术",
-        "考研"
+        "决策",
+        "矩阵分析",
+        "加权评分",
+        "理性思维"
       ],
+      "wordCount": 839,
+      "id": "c9329cb08bddeb48"
+    },
+    {
+      "filename": "六、总结.json",
+      "title": "六、总结",
+      "description": "六、总结",
+      "category": "认知思维/思维工具",
+      "tags": [],
       "wordCount": 452,
-      "id": "c7264cd59e76d049"
+      "id": "d548e72fc9c6c2af"
     },
     {
-      "filename": "写作概述.json",
-      "title": "写作概述",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "写作",
-        "考研"
-      ],
-      "wordCount": 587,
-      "id": "6f4d5a8c7a82f6f0"
+      "filename": "三、应用场景与案例.json",
+      "title": "三、应用场景与案例",
+      "description": "三、应用场景与案例",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 742,
+      "id": "c4bb2b1e6d4fa336"
     },
     {
-      "filename": "形式逻辑.json",
-      "title": "形式逻辑",
-      "description": "",
-      "category": "考研专业课/管理类联考",
+      "filename": "思维导图应用_从思考到表达的可视化工具.json",
+      "title": "思维导图应用：从思考到表达的可视化工具",
+      "description": "思维导图应用：从思考到表达的可视化工具的核心知识点汇总",
+      "category": "认知思维/思维工具",
       "tags": [
-        "管理类联考",
-        "逻辑",
-        "形式逻辑",
-        "考研"
+        "工具",
+        "可视化",
+        "思维导图"
       ],
-      "wordCount": 540,
-      "id": "ad79d4df010e1540"
+      "wordCount": 1336,
+      "id": "3aa1f3c2e74dd1cb"
     },
     {
-      "filename": "综合推理.json",
-      "title": "综合推理",
-      "description": "",
-      "category": "考研专业课/管理类联考",
-      "tags": [
-        "管理类联考",
-        "逻辑",
-        "综合推理",
-        "考研"
-      ],
-      "wordCount": 651,
-      "id": "bcc6026be1636404"
+      "filename": "四、操作步骤详解.json",
+      "title": "四、操作步骤详解",
+      "description": "四、操作步骤详解",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 566,
+      "id": "8e3e56e14203d0c2"
     },
     {
-      "filename": "操作系统概述.json",
-      "title": "操作系统概述",
+      "filename": "五、局限性.json",
+      "title": "五、局限性",
       "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "操作系统",
-        "408",
-        "考研"
-      ],
-      "wordCount": 161,
-      "id": "ee98917a80aa4155"
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 434,
+      "id": "085f90a6cdcd3ada"
     },
     {
-      "filename": "查找算法.json",
-      "title": "查找算法",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "查找",
-        "408",
-        "考研"
-      ],
-      "wordCount": 154,
-      "id": "54b3ad88cd6618a8"
+      "filename": "五、局限性与注意事项.json",
+      "title": "五、局限性与注意事项",
+      "description": "五、局限性与注意事项",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 418,
+      "id": "fa4b07945dfcf8dc"
     },
     {
-      "filename": "传输层.json",
-      "title": "传输层",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机网络",
-        "传输层",
-        "408",
-        "考研"
-      ],
-      "wordCount": 187,
-      "id": "37c87308d58b4869"
+      "filename": "一、定义与起源.json",
+      "title": "一、定义与起源",
+      "description": "一、定义与起源",
+      "category": "认知思维/思维工具",
+      "tags": [],
+      "wordCount": 770,
+      "id": "93ecaaf33d632f5b"
     },
     {
-      "filename": "计算机网络概述.json",
-      "title": "计算机网络概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
+      "filename": "SWOT分析法.json",
+      "title": "SWOT分析法",
+      "description": "经典的战略规划工具，通过分析优势、劣势、机会与威胁四个维度，系统评估个人或组织的竞争态势",
+      "category": "认知思维/思维工具",
       "tags": [
-        "计算机网络",
-        "408",
-        "考研"
+        "SWOT",
+        "战略分析",
+        "自我认知",
+        "竞争分析"
       ],
-      "wordCount": 145,
-      "id": "90ce455fd157a579"
+      "wordCount": 992,
+      "id": "0420b484bf891bed"
     },
     {
-      "filename": "计算机组成原理概述.json",
-      "title": "计算机组成原理概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机组成原理",
-        "408",
-        "考研"
-      ],
-      "wordCount": 139,
-      "id": "f99cc86c21ab1f18"
+      "filename": "二、刻意练习的六个核心特征.json",
+      "title": "二、刻意练习的六个核心特征",
+      "description": "二、刻意练习的六个核心特征",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 742,
+      "id": "fb7ad3b76e78caf7"
     },
     {
-      "filename": "进程管理.json",
-      "title": "进程管理",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
+      "filename": "费曼学习法实践_通过教授他人深化理解.json",
+      "title": "费曼学习法实践：通过教授他人深化理解",
+      "description": "费曼学习法实践：通过教授他人深化理解的核心知识点汇总",
+      "category": "认知思维/学习方法",
       "tags": [
-        "操作系统",
-        "进程管理",
-        "408",
-        "考研"
+        "学习方法",
+        "知识留存",
+        "费曼学习法"
       ],
-      "wordCount": 190,
-      "id": "c78d53258cb98569"
+      "wordCount": 2710,
+      "id": "5187e8e01dea0bea"
     },
     {
-      "filename": "内存管理.json",
-      "title": "内存管理",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
+      "filename": "高效学习方法_科学提升学习能力的实用指南.json",
+      "title": "高效学习方法：科学提升学习能力的实用指南",
+      "description": "高效学习方法：科学提升学习能力的实用指南的核心知识点汇总",
+      "category": "认知思维/学习方法",
       "tags": [
-        "操作系统",
-        "内存管理",
-        "408",
-        "考研"
+        "学习方法",
+        "效率",
+        "认知科学"
       ],
-      "wordCount": 171,
-      "id": "f95ae7d536f29a88"
+      "wordCount": 2011,
+      "id": "fa4f0bdcc55522ad"
     },
     {
-      "filename": "排序算法.json",
-      "title": "排序算法",
+      "filename": "关联知识.json",
+      "title": "关联知识",
       "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "排序",
-        "408",
-        "考研"
-      ],
-      "wordCount": 136,
-      "id": "12144fd93355449c"
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 1576,
+      "id": "4f57d8bf2cc133f1"
     },
     {
-      "filename": "树.json",
-      "title": "树",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "树",
-        "408",
-        "考研"
-      ],
-      "wordCount": 131,
-      "id": "0ed1ab0ce7f84752"
+      "filename": "六、刻意练习的常见陷阱.json",
+      "title": "六、刻意练习的常见陷阱",
+      "description": "六、刻意练习的常见陷阱",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 319,
+      "id": "f2975033c685ad40"
     },
     {
-      "filename": "数据结构概述.json",
-      "title": "数据结构概述",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "408",
-        "考研"
-      ],
-      "wordCount": 138,
-      "id": "90c8fa0fe1292c08"
+      "filename": "三、刻意练习 vs 天赋.json",
+      "title": "三、刻意练习 vs 天赋",
+      "description": "三、刻意练习 vs 天赋",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 278,
+      "id": "957af2675ee18b5b"
     },
     {
-      "filename": "数据链路层.json",
-      "title": "数据链路层",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机网络",
-        "数据链路层",
-        "408",
-        "考研"
-      ],
-      "wordCount": 181,
-      "id": "b782d30d9b66d714"
+      "filename": "四、刻意练习在不同领域的应用.json",
+      "title": "四、刻意练习在不同领域的应用",
+      "description": "四、刻意练习在不同领域的应用",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 394,
+      "id": "4669edc12a0162fb"
     },
     {
-      "filename": "图.json",
-      "title": "图",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "数据结构",
-        "图",
-        "408",
-        "考研"
-      ],
-      "wordCount": 145,
-      "id": "188f1c029dd46c19"
+      "filename": "五、如何设计自己的刻意练习计划.json",
+      "title": "五、如何设计自己的刻意练习计划",
+      "description": "五、如何设计自己的刻意练习计划",
+      "category": "认知思维/学习方法",
+      "tags": [],
+      "wordCount": 694,
+      "id": "1ebf9180528e2f31"
     },
     {
-      "filename": "网络层.json",
-      "title": "网络层",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
+      "filename": "采购策略.json",
+      "title": "采购策略",
+      "description": "一旦完成自制或外购分析，并决定从项目外部渠道采购，就应制定一套采购策略。应该在采购策略中规定项目交付方法、具有法律约束力的协议类型，以及如何在采购阶段推动采购进展。",
+      "category": "软考/项目管理/项目采购管理",
       "tags": [
-        "计算机网络",
-        "网络层",
-        "408",
-        "考研"
+        "规划过程组",
+        "规划采购管理",
+        "采购管理"
       ],
-      "wordCount": 184,
-      "id": "54eec5fbb3a4c922"
+      "wordCount": 599,
+      "id": "9fcc2dd6613e23fa"
     },
     {
-      "filename": "文件管理.json",
-      "title": "文件管理",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
+      "filename": "采购工作说明书.json",
+      "title": "采购工作说明书",
+      "description": "依据项目范围基准，为每次采购编制工作说明书（SOW），仅对将要包含在相关合同中的那一部分项目范围进行定义。",
+      "category": "软考/项目管理/项目采购管理",
       "tags": [
-        "操作系统",
-        "文件管理",
-        "408",
-        "考研"
+        "规划过程组",
+        "规划采购管理",
+        "采购管理"
       ],
-      "wordCount": 160,
-      "id": "a1bd395ef3b6a67b"
-    },
-    {
-      "filename": "物理层.json",
-      "title": "物理层",
-      "description": "",
-      "category": "考研专业课/计算机学科专业基础综合",
-      "tags": [
-        "计算机网络",
-        "物理层",
-        "408",
-        "考研"
-      ],
-      "wordCount": 155,
-      "id": "1d3027211cc98ac8"
+      "wordCount": 440,
+      "id": "8cf027c4e9e7911b"
     }
   ]
 }

@@ -1,290 +1,281 @@
 {
   "page": 40,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "七、话题标签.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "审计报告.json",
+      "title": "审计报告",
+      "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
+      "category": "注册会计师/审计",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "CPA",
+        "审计",
+        "审计报告",
+        "审计意见"
       ],
-      "wordCount": 195,
-      "id": "2476a65332a04cda"
+      "wordCount": 1485,
+      "id": "201dbca9f226ac57"
     },
     {
-      "filename": "三、选题策划.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "审计抽样.json",
+      "title": "审计抽样",
+      "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
+      "category": "注册会计师/审计",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "CPA",
+        "审计",
+        "审计抽样",
+        "抽样方法"
       ],
-      "wordCount": 363,
-      "id": "420573966fbfee40"
+      "wordCount": 843,
+      "id": "b7a7524c3b959377"
     },
     {
-      "filename": "十、涨粉策略.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "审计概述.json",
+      "title": "审计概述",
+      "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
+      "category": "注册会计师/审计",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "CPA",
+        "审计",
+        "审计概述",
+        "审计特征"
       ],
-      "wordCount": 259,
-      "id": "bdaf701e76fbde18"
+      "wordCount": 1070,
+      "id": "7a8da7e20b2b1e63"
     },
     {
-      "filename": "十二、内容规划表.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "审计工作底稿.json",
+      "title": "审计工作底稿",
+      "description": "CPA审计审计工作底稿章节核心知识点，包括审计工作底稿的编制和管理",
+      "category": "注册会计师/审计",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "CPA",
+        "审计",
+        "审计工作底稿",
+        "编制管理"
       ],
-      "wordCount": 268,
-      "id": "4261f8974ca6d17d"
+      "wordCount": 1329,
+      "id": "6a3934d6df0f2af4"
     },
     {
-      "filename": "十一、常见问题.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "审计计划.json",
+      "title": "审计计划",
+      "description": "CPA审计审计计划章节核心知识点，包括总体审计策略和具体审计计划",
+      "category": "注册会计师/审计",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "CPA",
+        "审计",
+        "审计计划",
+        "总体审计策略"
       ],
-      "wordCount": 242,
-      "id": "612da376bb1ad1fe"
+      "wordCount": 969,
+      "id": "f842f0242988dace"
     },
     {
-      "filename": "四、标题技巧.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "审计证据.json",
+      "title": "审计证据",
+      "description": "CPA审计审计证据章节核心知识点，包括审计证据的性质、获取方法和评价",
+      "category": "注册会计师/审计",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "CPA",
+        "审计",
+        "审计证据",
+        "审计程序"
       ],
-      "wordCount": 410,
-      "id": "565c3a55b5534166"
+      "wordCount": 976,
+      "id": "6286087c31894704"
     },
     {
-      "filename": "五、封面图设计.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "生产与存货循环审计.json",
+      "title": "生产与存货循环审计",
+      "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "CPA",
+        "审计",
+        "生产与存货循环",
+        "内部控制"
       ],
-      "wordCount": 396,
-      "id": "b0c45fe0e4f4b451"
+      "wordCount": 964,
+      "id": "facd964c35ef171a"
     },
     {
-      "filename": "一、小红书平台特性.json",
-      "title": "小红书爆款内容创作完全指南",
-      "description": "从账号定位到爆款笔记创作的小红书运营实战方法论",
-      "category": "营销增长/内容创作",
+      "filename": "特殊项目审计.json",
+      "title": "特殊项目审计",
+      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
+      "category": "注册会计师/审计",
       "tags": [
-        "小红书运营",
-        "种草笔记",
-        "爆款笔记",
-        "内容创作",
-        "博主运营"
+        "CPA",
+        "审计",
+        "特殊项目",
+        "舞弊风险"
       ],
-      "wordCount": 377,
-      "id": "2a541f5614393606"
+      "wordCount": 1074,
+      "id": "ad003efcd7a46dec"
     },
     {
-      "filename": "一、选题的本质.json",
-      "title": "一、选题的本质",
-      "description": "一、选题的本质",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 297,
-      "id": "788098b5cd1a8a49"
+      "filename": "销售与收款循环审计.json",
+      "title": "销售与收款循环审计",
+      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "销售与收款循环",
+        "内部控制"
+      ],
+      "wordCount": 1067,
+      "id": "883f48c880c7679e"
     },
     {
-      "filename": "八、增长黑客策略.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "注册会计师职业道德.json",
+      "title": "注册会计师职业道德",
+      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
+      "category": "注册会计师/审计",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "CPA",
+        "审计",
+        "职业道德",
+        "基本原则"
       ],
-      "wordCount": 276,
-      "id": "1138a8d26caa4e1a"
+      "wordCount": 1126,
+      "id": "a1173c0d033fea11"
     },
     {
-      "filename": "二、涨粉策略分类.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "车船税.json",
+      "title": "车船税",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "车船税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 334,
-      "id": "e1e856c130bb873f"
+      "wordCount": 419,
+      "id": "f18e2515104afc66"
     },
     {
-      "filename": "九、数据分析.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "房产税.json",
+      "title": "房产税",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "房产税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 255,
-      "id": "3fb9cec42822065b"
+      "wordCount": 286,
+      "id": "877daef2d9bb5f59"
     },
     {
-      "filename": "六、多平台引流.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "个人所得税概述.json",
+      "title": "个人所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "个人所得税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 358,
-      "id": "29e1c98ba25ab06c"
+      "wordCount": 550,
+      "id": "9ddf90f68934eb79"
     },
     {
-      "filename": "七、内容涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "个人所得税税收优惠.json",
+      "title": "个人所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "个人所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
       ],
-      "wordCount": 397,
-      "id": "7f75d0cbeb6948f0"
+      "wordCount": 549,
+      "id": "215c769b099e3c2f"
     },
     {
-      "filename": "三、爆款涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "个人所得税应纳税额计算.json",
+      "title": "个人所得税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "个人所得税",
+        "应纳税额",
+        "计算",
+        "CPA"
       ],
-      "wordCount": 341,
-      "id": "f803283a33849dd6"
+      "wordCount": 759,
+      "id": "978350a148cbae33"
     },
     {
-      "filename": "十、涨粉避坑.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "企业所得税概述.json",
+      "title": "企业所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "企业所得税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 261,
-      "id": "ccd5186d13a73568"
+      "wordCount": 395,
+      "id": "d73ba40442f0aeea"
     },
     {
-      "filename": "十二、案例拆解.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "企业所得税税收优惠.json",
+      "title": "企业所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "企业所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
       ],
-      "wordCount": 244,
-      "id": "21aa1f03137929a2"
+      "wordCount": 929,
+      "id": "de2aa7c5c7accbcc"
     },
     {
-      "filename": "十一、涨粉目标制定.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "企业所得税应纳税所得额.json",
+      "title": "企业所得税应纳税所得额",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "企业所得税",
+        "应纳税所得额",
+        "计算",
+        "CPA"
       ],
-      "wordCount": 265,
-      "id": "b6692aaca67d8efd"
+      "wordCount": 941,
+      "id": "2307cec8cfad239d"
     },
     {
-      "filename": "四、私域涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "土地增值税.json",
+      "title": "土地增值税",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "土地增值税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 270,
-      "id": "496ef0e6170ec71a"
+      "wordCount": 638,
+      "id": "e7718a8ce428646e"
     },
     {
-      "filename": "五、互推涨粉.json",
-      "title": "内容创作者涨粉完全指南",
-      "description": "公众号、自媒体从0到1万粉丝的增长策略和实操方法",
-      "category": "营销增长/增长策略",
+      "filename": "消费税概述.json",
+      "title": "消费税概述",
+      "description": "",
+      "category": "注册会计师/税法",
       "tags": [
-        "涨粉策略",
-        "粉丝增长",
-        "私域运营",
-        "账号运营"
+        "消费税",
+        "税法",
+        "CPA"
       ],
-      "wordCount": 287,
-      "id": "d1452f5d0dfb93d1"
+      "wordCount": 489,
+      "id": "8a60a154349ac4a8"
     }
   ]
 }

@@ -1,263 +1,287 @@
 {
   "page": 38,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "亲社会行为与助人行为.json",
-      "title": "亲社会行为与助人行为专题",
-      "description": "亲社会行为的定义、旁观者效应、影响因素、四种亲社会理论",
-      "category": "心理学/社会心理学",
+      "filename": "战略控制.json",
+      "title": "战略控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
       "tags": [
-        "亲社会行为",
-        "助人行为",
-        "旁观者效应",
-        "社会责任"
+        "战略控制",
+        "预算控制",
+        "平衡计分卡",
+        "CPA"
       ],
-      "wordCount": 1256,
-      "id": "d449fad4e76db37d"
+      "wordCount": 276,
+      "id": "f49cbddb991d1ae2"
     },
     {
-      "filename": "群体心理现象.json",
-      "title": "群体心理现象专题",
-      "description": "群体极化、群体思维、去个体化、社会懈怠的概念、原因与经典实验",
-      "category": "心理学/社会心理学",
+      "filename": "战略实施.json",
+      "title": "战略实施",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
       "tags": [
-        "群体极化",
-        "群体思维",
-        "去个体化",
-        "社会懈怠",
-        "群体影响"
+        "战略实施",
+        "组织结构",
+        "企业文化",
+        "CPA"
       ],
-      "wordCount": 1372,
-      "id": "349434d472e5818d"
+      "wordCount": 260,
+      "id": "43412207cdc7f6c8"
     },
     {
-      "filename": "人际吸引与爱情.json",
-      "title": "人际吸引与爱情专题",
-      "description": "人际吸引的规则（接近性、熟悉性、相似性、互补性）、爱情三角理论、依恋风格",
-      "category": "心理学/社会心理学",
+      "filename": "战略选择.json",
+      "title": "战略选择",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
       "tags": [
-        "人际吸引",
-        "爱情三角",
-        "接近性",
-        "相似性"
+        "战略选择",
+        "总体战略",
+        "业务单位战略",
+        "CPA"
       ],
-      "wordCount": 1216,
-      "id": "0f579c8c18d3e31a"
+      "wordCount": 335,
+      "id": "e8dbbb72eb78980a"
     },
     {
-      "filename": "社会影响_从众与服从.json",
-      "title": "社会影响：从众与服从专题",
-      "description": "从众的定义与原因、服从的Milgram实验、顺从与登门槛效应",
-      "category": "心理学/社会心理学",
+      "filename": "存货.json",
+      "title": "存货",
+      "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
+      "category": "注册会计师/会计",
       "tags": [
-        "从众",
-        "服从",
-        "顺从",
-        "Milgram",
-        "社会影响"
+        "CPA",
+        "会计",
+        "存货",
+        "计量方法"
       ],
-      "wordCount": 1001,
-      "id": "96a40a23aa600945"
+      "wordCount": 1214,
+      "id": "f4d27b56c0abc7b6"
     },
     {
-      "filename": "态度与态度改变.json",
-      "title": "态度与态度改变专题",
-      "description": "态度的ABC成分、态度与行为的关系、说服的两种路径（精细加工可能性模型）",
-      "category": "心理学/社会心理学",
+      "filename": "短期借款.json",
+      "title": "短期借款",
+      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
+      "category": "注册会计师/会计",
       "tags": [
-        "态度",
-        "态度改变",
-        "说服",
-        "精细加工可能性模型"
+        "CPA",
+        "会计",
+        "短期借款",
+        "利息核算"
       ],
-      "wordCount": 1105,
-      "id": "f3717a4e30e52c25"
+      "wordCount": 674,
+      "id": "2ce4bfe39200714a"
     },
     {
-      "filename": "印象形成与社会认知.json",
-      "title": "印象形成与社会认知专题",
-      "description": "印象形成的线索与效应、首因效应、近因效应、光环效应、社会认知偏差",
-      "category": "心理学/社会心理学",
+      "filename": "负债概述.json",
+      "title": "负债概述",
+      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
+      "category": "注册会计师/会计",
       "tags": [
-        "印象形成",
-        "首因效应",
-        "光环效应",
-        "社会认知"
+        "CPA",
+        "会计",
+        "负债",
+        "确认计量"
       ],
-      "wordCount": 1387,
-      "id": "27cd97f465ad0abd"
+      "wordCount": 707,
+      "id": "2a8d3bc844708f18"
     },
     {
-      "filename": "反套路消费指南_如何识别商家的心理陷阱.json",
-      "title": "反套路消费指南：如何识别商家的心理陷阱",
-      "description": "反套路消费指南：如何识别商家的心理陷阱的核心知识点汇总",
-      "category": "心理学/消费心理学",
+      "filename": "固定资产.json",
+      "title": "固定资产",
+      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "消费心理学",
-        "决策",
-        "行为经济学"
+        "CPA",
+        "会计",
+        "固定资产",
+        "折旧"
       ],
-      "wordCount": 10248,
-      "id": "65db8e72e2c0e453"
+      "wordCount": 1300,
+      "id": "44317f6c09f098d5"
     },
     {
-      "filename": "备考重点.json",
-      "title": "备考重点",
-      "description": "备考重点",
-      "category": "心理学/心理测量",
-      "tags": [],
-      "wordCount": 246,
-      "id": "36628c4f1ce95385"
-    },
-    {
-      "filename": "标准化与常模.json",
-      "title": "标准化与常模专题",
-      "description": "标准化施测程序、常模类型（年龄常模、年级常模、百分位常模）、分数解释",
-      "category": "心理学/心理测量",
+      "filename": "货币资金.json",
+      "title": "货币资金",
+      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "标准化",
-        "常模",
-        "百分位",
-        "心理测量"
+        "CPA",
+        "会计",
+        "货币资金",
+        "现金管理"
       ],
-      "wordCount": 1229,
-      "id": "5aabc0dedf9caa17"
+      "wordCount": 1178,
+      "id": "33408f637aca0506"
     },
     {
-      "filename": "二，效度.json",
-      "title": "二，效度",
-      "description": "二，效度",
-      "category": "心理学/心理测量",
-      "tags": [],
-      "wordCount": 392,
-      "id": "8fe88acdd178fe7e"
-    },
-    {
-      "filename": "难度与区分度.json",
-      "title": "难度与区分度专题",
-      "description": "难度的定义与计算、区分度的定义与计算、难度与信效度的关系",
-      "category": "心理学/心理测量",
+      "filename": "金融资产.json",
+      "title": "金融资产",
+      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "难度",
-        "区分度",
-        "项目分析",
-        "心理测量"
+        "CPA",
+        "会计",
+        "金融资产",
+        "分类"
       ],
-      "wordCount": 1154,
-      "id": "88755c157dc033c9"
+      "wordCount": 1398,
+      "id": "0568b7fcfb220ec9"
     },
     {
-      "filename": "三，信度与效度的关系.json",
-      "title": "三，信度与效度的关系",
-      "description": "三，信度与效度的关系",
-      "category": "心理学/心理测量",
-      "tags": [],
-      "wordCount": 310,
-      "id": "4059150f1c34f11d"
-    },
-    {
-      "filename": "一，信度.json",
-      "title": "一，信度",
-      "description": "一，信度",
-      "category": "心理学/心理测量",
-      "tags": [],
-      "wordCount": 524,
-      "id": "d2654fb6a4f98cd9"
-    },
-    {
-      "filename": "操作性条件反射.json",
-      "title": "操作性条件反射专题",
-      "description": "桑代克效果率、斯金纳实验、四种强化与惩罚、消退与维持",
-      "category": "心理学/行为心理学",
+      "filename": "其他应付款.json",
+      "title": "其他应付款",
+      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
+      "category": "注册会计师/会计",
       "tags": [
-        "操作性条件反射",
-        "强化",
-        "惩罚",
-        "消退",
-        "斯金纳"
+        "CPA",
+        "会计",
+        "其他应付款",
+        "核算"
       ],
-      "wordCount": 1204,
-      "id": "8645d8be37792e64"
+      "wordCount": 525,
+      "id": "23ba7ef0a40abfe7"
     },
     {
-      "filename": "观察学习与社会学习.json",
-      "title": "观察学习与社会学习专题",
-      "description": "班杜拉观察学习四过程、直接强化与替代强化、自我强化",
-      "category": "心理学/行为心理学",
+      "filename": "所有者权益概述.json",
+      "title": "所有者权益概述",
+      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "观察学习",
-        "班杜拉",
-        "社会学习理论",
-        "替代强化"
+        "CPA",
+        "会计",
+        "所有者权益",
+        "构成"
       ],
-      "wordCount": 652,
-      "id": "0186b616b1f60c25"
+      "wordCount": 1132,
+      "id": "602d76b9bea46d42"
     },
     {
-      "filename": "经典条件反射.json",
-      "title": "经典条件反射专题",
-      "description": "巴甫洛夫实验、基本概念（UCS/UCR/CS/CR）、习得与消退、泛化与分化",
-      "category": "心理学/行为心理学",
+      "filename": "投资性房地产.json",
+      "title": "投资性房地产",
+      "description": "CPA会计投资性房地产章节核心知识点，包括投资性房地产的确认、计量和转换",
+      "category": "注册会计师/会计",
       "tags": [
-        "经典条件反射",
-        "巴甫洛夫",
-        "条件反射",
-        "消退",
-        "泛化",
-        "分化"
+        "CPA",
+        "会计",
+        "投资性房地产",
+        "计量模式"
       ],
-      "wordCount": 1022,
-      "id": "4709c7b94aaf1b3b"
+      "wordCount": 1634,
+      "id": "6459a2efc0496b74"
     },
     {
-      "filename": "强化程序表.json",
-      "title": "强化程序表专题",
-      "description": "连续强化与间隔强化、固定比率与变动比率、强化程序表的行为效果对比",
-      "category": "心理学/行为心理学",
+      "filename": "无形资产.json",
+      "title": "无形资产",
+      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
+      "category": "注册会计师/会计",
       "tags": [
-        "强化程序表",
-        "比率强化",
-        "时距强化",
-        "斯金纳"
+        "CPA",
+        "会计",
+        "无形资产",
+        "摊销"
       ],
-      "wordCount": 1116,
-      "id": "f7c8da8366627d21"
+      "wordCount": 1259,
+      "id": "b2a8b4a2135a7253"
     },
     {
-      "filename": "八、选题时间管理.json",
-      "title": "八、选题时间管理",
-      "description": "八、选题时间管理",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 239,
-      "id": "272d6c8f60ce7fd9"
-    },
-    {
-      "filename": "二、选题来源.json",
-      "title": "二、选题来源",
-      "description": "二、选题来源",
-      "category": "营销增长/内容创作",
-      "tags": [],
-      "wordCount": 388,
-      "id": "4d2389681efe7759"
-    },
-    {
-      "filename": "八、排版：视觉体验.json",
-      "title": "公众号爆款文章写作完全指南",
-      "description": "从选题到标题、从结构到传播的公众号内容创作系统方法论",
-      "category": "营销增长/内容创作",
+      "filename": "应付利息和应付股利.json",
+      "title": "应付利息和应付股利",
+      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
+      "category": "注册会计师/会计",
       "tags": [
-        "内容创作",
-        "公众号运营",
-        "爆款文章",
-        "选题策划",
-        "标题技巧",
-        "写作技巧"
+        "CPA",
+        "会计",
+        "应付利息",
+        "应付股利"
       ],
-      "wordCount": 278,
-      "id": "a354859c2d6a8479"
+      "wordCount": 668,
+      "id": "548bdca14739cb31"
+    },
+    {
+      "filename": "应付票据.json",
+      "title": "应付票据",
+      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付票据",
+        "商业汇票"
+      ],
+      "wordCount": 762,
+      "id": "b6bd3ee4d13fca56"
+    },
+    {
+      "filename": "应付账款.json",
+      "title": "应付账款",
+      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付账款",
+        "现金折扣"
+      ],
+      "wordCount": 1044,
+      "id": "2350ee48d8cc9b5b"
+    },
+    {
+      "filename": "应付职工薪酬.json",
+      "title": "应付职工薪酬",
+      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应付职工薪酬",
+        "核算"
+      ],
+      "wordCount": 1144,
+      "id": "568e00039dccb6b5"
+    },
+    {
+      "filename": "应交税费.json",
+      "title": "应交税费",
+      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应交税费",
+        "增值税"
+      ],
+      "wordCount": 1207,
+      "id": "42db45ed35059dd0"
+    },
+    {
+      "filename": "应收及预付款项.json",
+      "title": "应收及预付款项",
+      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "应收账款",
+        "应收票据"
+      ],
+      "wordCount": 1285,
+      "id": "b149d1a5237bfb5f"
+    },
+    {
+      "filename": "预收账款.json",
+      "title": "预收账款",
+      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "预收账款",
+        "核算"
+      ],
+      "wordCount": 702,
+      "id": "5a1db8a8635278a1"
     }
   ]
 }

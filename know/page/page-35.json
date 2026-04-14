@@ -1,212 +1,286 @@
 {
   "page": 35,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "七、饮食习惯养护.json",
-      "title": "七、饮食习惯养护",
-      "description": "七、饮食习惯养护",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 309,
-      "id": "721ec513288ab408"
-    },
-    {
-      "filename": "如何培养健康的睡眠习惯.json",
-      "title": "如何培养健康的睡眠习惯",
-      "description": "从睡眠机制到实用方法，建立科学睡眠模式，提升睡眠质量",
-      "category": "生活通识/健康养生",
+      "filename": "药物化学.json",
+      "title": "药物化学",
+      "description": "药物化学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "睡眠",
-        "健康管理",
-        "作息",
-        "睡眠质量"
+        "执业药师",
+        "药物化学"
       ],
-      "wordCount": 1004,
-      "id": "c4808af2f4cd96c9"
+      "wordCount": 712,
+      "id": "283f7d749ab0a9bd"
     },
     {
-      "filename": "三、危险因素.json",
-      "title": "三、危险因素",
-      "description": "三、危险因素",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 382,
-      "id": "e36da8d381b8200b"
-    },
-    {
-      "filename": "睡眠革命_从科学睡眠到能量管理的高效生活方式.json",
-      "title": "睡眠革命：从科学睡眠到能量管理的高效生活方式",
-      "description": "睡眠革命：从科学睡眠到能量管理的高效生活方式的核心知识点汇总",
-      "category": "生活通识/健康养生",
+      "filename": "药物流行病学.json",
+      "title": "药物流行病学",
+      "description": "药物流行病学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "精力管理",
-        "睡眠",
-        "健康"
+        "执业药师",
+        "药物流行病学"
       ],
-      "wordCount": 5551,
-      "id": "2cb0a104bfd0e6b4"
+      "wordCount": 785,
+      "id": "479906c22a84c019"
     },
     {
-      "filename": "四、常见癌症筛查.json",
-      "title": "四、常见癌症筛查",
-      "description": "四、常见癌症筛查",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 503,
-      "id": "f9c029af39b6a723"
-    },
-    {
-      "filename": "四、科学预防措施.json",
-      "title": "四、科学预防措施",
-      "description": "四、科学预防措施",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 914,
-      "id": "64d02790bc3fe306"
-    },
-    {
-      "filename": "四季养生指南_科学调理身体健康.json",
-      "title": "四季养生指南：科学调理身体健康",
-      "description": "四季养生指南：科学调理身体健康的核心知识点汇总",
-      "category": "生活通识/健康养生",
+      "filename": "药物信息学.json",
+      "title": "药物信息学",
+      "description": "药物信息学的基本概念、方法和应用",
+      "category": "执业药师",
       "tags": [
-        "四季",
-        "健康",
-        "养生"
+        "执业药师",
+        "药物信息学"
       ],
-      "wordCount": 2923,
-      "id": "e2e1ee67a7f1ddc6"
+      "wordCount": 627,
+      "id": "ec33fb671d75b331"
     },
     {
-      "filename": "糖尿病管理指南.json",
-      "title": "糖尿病管理指南",
-      "description": "糖尿病的基础知识、预防和管理",
-      "category": "生活通识/健康养生",
+      "filename": "药学综合知识.json",
+      "title": "药学综合知识",
+      "description": "药学综合知识的核心内容和实践应用",
+      "category": "执业药师",
       "tags": [
-        "糖尿病",
-        "健康养生",
-        "管理"
+        "执业药师",
+        "药学综合知识"
       ],
-      "wordCount": 2511,
-      "id": "7721989cb7d48335"
+      "wordCount": 751,
+      "id": "744569747e72cf13"
     },
     {
-      "filename": "五、哮喘.json",
-      "title": "五、哮喘",
-      "description": "五、哮喘",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 305,
-      "id": "feca3297a425031b"
-    },
-    {
-      "filename": "五、早期信号识别.json",
-      "title": "五、早期信号识别",
-      "description": "五、早期信号识别",
-      "category": "生活通识/健康养生",
-      "tags": [],
-      "wordCount": 294,
-      "id": "2448fac2fc90c5c4"
-    },
-    {
-      "filename": "消化系统健康指南.json",
-      "title": "消化系统健康指南",
-      "description": "消化系统的基础知识、常见疾病和预防措施",
-      "category": "生活通识/健康养生",
+      "filename": "用药安全.json",
+      "title": "用药安全",
+      "description": "用药安全的重要性、常见问题和防范措施",
+      "category": "执业药师",
       "tags": [
-        "消化系统",
-        "健康养生",
-        "预防"
+        "执业药师",
+        "用药安全"
       ],
-      "wordCount": 2364,
-      "id": "ebadd2143884bfd6"
+      "wordCount": 1386,
+      "id": "5026e3c2e834005f"
     },
     {
-      "filename": "心脑血管疾病预防指南.json",
-      "title": "心脑血管疾病预防指南",
-      "description": "心脑血管疾病的预防、危险因素和紧急处理",
-      "category": "生活通识/健康养生",
+      "filename": "核心考点.json",
+      "title": "执业药师核心考点",
+      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
+      "category": "执业药师",
       "tags": [
-        "心脑血管疾病",
-        "预防",
-        "健康养生"
+        "药师",
+        "药学",
+        "法规"
       ],
-      "wordCount": 1701,
-      "id": "4f6a963b4988b3f5"
+      "wordCount": 2516,
+      "id": "1ad4d4522a1af0f5"
     },
     {
-      "filename": "八、实用技巧.json",
-      "title": "八、实用技巧",
-      "description": "八、实用技巧",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 195,
-      "id": "431a8c7a22b6059f"
+      "filename": "执业药师职业发展.json",
+      "title": "执业药师职业发展",
+      "description": "执业药师的职业发展路径、能力要求和发展策略",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "职业发展"
+      ],
+      "wordCount": 966,
+      "id": "b9eedacd274ec4f7"
     },
     {
-      "filename": "八、医保缴费标准（参考）.json",
-      "title": "八、医保缴费标准（参考）",
-      "description": "八、医保缴费标准（参考）",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 123,
-      "id": "2297147bba7f84c2"
+      "filename": "中药药理学.json",
+      "title": "中药药理学",
+      "description": "中药药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
+      "tags": [
+        "执业药师",
+        "中药药理学"
+      ],
+      "wordCount": 830,
+      "id": "9b066dbcc5222aa4"
     },
     {
-      "filename": "二、可以提取的情形.json",
-      "title": "二、可以提取的情形",
-      "description": "二、可以提取的情形",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 285,
-      "id": "1945a64dc3ccc86d"
+      "filename": "情绪与压力管理指南.json",
+      "title": "情绪与压力管理指南",
+      "description": "职场情绪与压力的识别、管理和应对策略",
+      "category": "职场生存",
+      "tags": [
+        "情绪管理",
+        "压力管理",
+        "职场心理健康"
+      ],
+      "wordCount": 4556,
+      "id": "16b2c99941ae0ae9"
     },
     {
-      "filename": "二、医保报销范围.json",
-      "title": "二、医保报销范围",
-      "description": "二、医保报销范围",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 304,
-      "id": "b43ef3b7e821d1cd"
+      "filename": "打造个人品牌的实用攻略_从0到1建立影响力资产.json",
+      "title": "打造个人品牌的实用攻略：从0到1建立影响力资产",
+      "description": "打造个人品牌的实用攻略：从0到1建立影响力资产的核心知识点汇总",
+      "category": "职场生存/个人品牌",
+      "tags": [
+        "个人品牌",
+        "IP",
+        "影响力"
+      ],
+      "wordCount": 2991,
+      "id": "07f49de7bf796592"
     },
     {
-      "filename": "六、常见问题.json",
-      "title": "六、常见问题",
-      "description": "六、常见问题",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 313,
-      "id": "1670e6f39f8f232e"
+      "filename": "个人品牌定位与变现_细分赛道选择与价值打造.json",
+      "title": "个人品牌定位与变现：细分赛道选择与价值打造",
+      "description": "个人品牌定位与变现：细分赛道选择与价值打造的核心知识点汇总",
+      "category": "职场生存/个人品牌",
+      "tags": [
+        "个人品牌",
+        "IP",
+        "影响力"
+      ],
+      "wordCount": 6630,
+      "id": "08f76f2d89263def"
     },
     {
-      "filename": "六、医保常见问题.json",
-      "title": "六、医保常见问题",
-      "description": "六、医保常见问题",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 331,
-      "id": "9e47a35e35a1ef6b"
+      "filename": "劳动权益综合指南.json",
+      "title": "劳动权益综合指南",
+      "description": "全面的劳动权益知识，包括五险一金、劳动合同、经济补偿金等内容",
+      "category": "职场生存/劳动权益",
+      "tags": [
+        "劳动权益",
+        "五险一金",
+        "劳动合同",
+        "经济补偿金",
+        "维权"
+      ],
+      "wordCount": 5833,
+      "id": "43d29134a8a8a5f2"
     },
     {
-      "filename": "七、公积金贷款优势.json",
-      "title": "七、公积金贷款优势",
-      "description": "七、公积金贷款优势",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 197,
-      "id": "8f2012dc3c43e7d3"
+      "filename": "核心考点.json",
+      "title": "中级经济师核心考点",
+      "description": "经济师备考知识体系：经济基础、人力、金融、财政税收、工商管理",
+      "category": "中级经济师",
+      "tags": [
+        "经济师",
+        "经济基础",
+        "人力",
+        "金融",
+        "财政税收",
+        "工商管理"
+      ],
+      "wordCount": 3563,
+      "id": "c26b861be7d55dbf"
     },
     {
-      "filename": "七、省钱小技巧.json",
-      "title": "七、省钱小技巧",
-      "description": "七、省钱小技巧",
-      "category": "生活通识/社保公积金",
-      "tags": [],
-      "wordCount": 135,
-      "id": "11f2e7421098d639"
+      "filename": "财政政策.json",
+      "title": "财政政策",
+      "description": "中级经济师财政税收章节核心知识点，包括财政政策定义、目标、工具和效果",
+      "category": "中级经济师/财政税收",
+      "tags": [
+        "中级经济师",
+        "财政税收",
+        "财政政策",
+        "财政收入",
+        "财政支出",
+        "财政赤字"
+      ],
+      "wordCount": 2107,
+      "id": "0467e3848d41a2bc"
+    },
+    {
+      "filename": "税收制度.json",
+      "title": "税收制度",
+      "description": "中级经济师财政税收章节核心知识点，包括税收制度定义、构成要素、分类和改革",
+      "category": "中级经济师/财政税收",
+      "tags": [
+        "中级经济师",
+        "财政税收",
+        "税收制度",
+        "税收要素",
+        "税收分类",
+        "税收改革"
+      ],
+      "wordCount": 3985,
+      "id": "0df0a1e8933abfd9"
+    },
+    {
+      "filename": "财政基础知识.json",
+      "title": "财政基础知识",
+      "description": "中级经济师财政章节核心知识点，包括财政职能、财政支出、财政收入和财政政策",
+      "category": "中级经济师/基础知识",
+      "tags": [
+        "中级经济师",
+        "基础知识",
+        "财政",
+        "财政职能",
+        "财政支出",
+        "财政收入"
+      ],
+      "wordCount": 1856,
+      "id": "096c2568ebc775dc"
+    },
+    {
+      "filename": "成本理论.json",
+      "title": "成本理论",
+      "description": "中级经济师经济学基础章节核心知识点，包括成本的概念、短期成本、长期成本和利润最大化",
+      "category": "中级经济师/基础知识",
+      "tags": [
+        "中级经济师",
+        "基础知识",
+        "经济学基础",
+        "成本理论",
+        "短期成本",
+        "长期成本"
+      ],
+      "wordCount": 1465,
+      "id": "f15e5890f3b3756e"
+    },
+    {
+      "filename": "发展经济学.json",
+      "title": "发展经济学",
+      "description": "中级经济师经济学基础章节核心知识点，包括经济发展理论、发展中国家的特征、经济发展战略和可持续发展",
+      "category": "中级经济师/基础知识",
+      "tags": [
+        "中级经济师",
+        "基础知识",
+        "经济学基础",
+        "发展经济学",
+        "经济发展",
+        "可持续发展"
+      ],
+      "wordCount": 2665,
+      "id": "be8ba0753af78aaf"
+    },
+    {
+      "filename": "国际经济学.json",
+      "title": "国际经济学",
+      "description": "中级经济师经济学基础章节核心知识点，包括国际贸易理论、国际收支、汇率和国际经济政策协调",
+      "category": "中级经济师/基础知识",
+      "tags": [
+        "中级经济师",
+        "基础知识",
+        "经济学基础",
+        "国际经济学",
+        "国际贸易",
+        "国际收支"
+      ],
+      "wordCount": 2081,
+      "id": "2c9cedb062515fcd"
+    },
+    {
+      "filename": "国民收入核算.json",
+      "title": "国民收入核算",
+      "description": "中级经济师经济学基础章节核心知识点，包括国内生产总值（GDP）、国民生产总值（GNP）、国民收入核算方法和宏观经济指标",
+      "category": "中级经济师/基础知识",
+      "tags": [
+        "中级经济师",
+        "基础知识",
+        "经济学基础",
+        "国民收入核算",
+        "GDP",
+        "GNP"
+      ],
+      "wordCount": 1243,
+      "id": "6845048c04b7fdfb"
     }
   ]
 }

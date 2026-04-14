@@ -1,292 +1,276 @@
 {
   "page": 29,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "PERT估算与其他计算专项.json",
-      "title": "PERT估算与其他计算专项",
-      "description": "软考中项PERT三点估算、沟通渠道数、人员增加与工期计算等常考计算公式汇总。",
-      "category": "软考/综合知识/计算题专项",
+      "filename": "洪水防范与应对.json",
+      "title": "洪水防范与应对",
+      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
+      "category": "生活通识/自然灾害",
       "tags": [
-        "PERT",
-        "三点估算",
-        "计算题",
-        "中项核心"
+        "洪水",
+        "自然灾害",
+        "防汛",
+        "应急"
       ],
-      "wordCount": 1298,
-      "id": "9b2fbbd00f6b1f16"
+      "wordCount": 842,
+      "id": "ba444651c5345d81"
     },
     {
-      "filename": "软考中项案例分析答题框架.json",
-      "title": "软考中项案例分析答题框架",
-      "description": "系统梳理案例分析各类题型的万能答题框架、常见失分原因、标准化答题步骤，配套各知识域典型案例答题模板，助你高效拿下案例分析。",
-      "category": "软考/综合知识/软考备考",
+      "filename": "火灾防范与逃生.json",
+      "title": "火灾防范与逃生",
+      "description": "家庭火灾预防、火灾应对和逃生技巧",
+      "category": "生活通识/自然灾害",
       "tags": [
-        "案例分析",
-        "答题框架",
-        "万能模板",
-        "应试技巧"
+        "火灾",
+        "消防",
+        "逃生",
+        "安全"
       ],
-      "wordCount": 6777,
-      "id": "9534a6bb08b66667"
+      "wordCount": 1265,
+      "id": "33c5e8b303ea8044"
     },
     {
-      "filename": "数据流向图.json",
-      "title": "数据流向图",
-      "description": "数据流向图（DFD）的概念、组成元素与绘制要点",
-      "category": "软考/综合知识/数据流向图",
+      "filename": "台风防范指南.json",
+      "title": "台风防范指南",
+      "description": "台风的形成、预警等级及防范措施",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "台风",
+        "自然灾害",
+        "风暴",
+        "防汛"
+      ],
+      "wordCount": 943,
+      "id": "2411eb1484625054"
+    },
+    {
+      "filename": "埃里克森心理社会发展阶段.json",
+      "title": "埃里克森心理社会发展阶段专题",
+      "description": "埃里克森八阶段论：每阶段的心理危机、发展任务及与皮亚杰的对应关系",
+      "category": "心理学/发展心理学",
+      "tags": [
+        "埃里克森",
+        "心理社会发展",
+        "自我同一性",
+        "信任"
+      ],
+      "wordCount": 1331,
+      "id": "4ffa80d1b2387788"
+    },
+    {
+      "filename": "道德发展.json",
+      "title": "道德发展专题",
+      "description": "科尔伯格三水平六阶段理论、Piaget的道德发展理论、道德发展与认知发展的关系",
+      "category": "心理学/发展心理学",
+      "tags": [
+        "道德发展",
+        "科尔伯格",
+        "前习俗",
+        "习俗",
+        "后习俗"
+      ],
+      "wordCount": 1102,
+      "id": "d726a2e255cb8b6d"
+    },
+    {
+      "filename": "发展心理学.json",
+      "title": "发展心理学",
+      "description": "儿童认知发展的理论和阶段",
+      "category": "心理学/发展心理学",
+      "tags": [
+        "发展心理学",
+        "认知发展",
+        "儿童心理学"
+      ],
+      "wordCount": 2695,
+      "id": "20e1a03d67e7e549"
+    },
+    {
+      "filename": "一，社会文化理论的核心.json",
+      "title": "一，社会文化理论的核心",
+      "description": "一，社会文化理论的核心",
+      "category": "心理学/发展心理学",
       "tags": [],
-      "wordCount": 288,
-      "id": "c33b6fbcde05c601"
+      "wordCount": 226,
+      "id": "c4a4e98bebb6174b"
     },
     {
-      "filename": "安全架构.json",
-      "title": "安全架构",
-      "description": "信息安全架构设计",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "依恋理论.json",
+      "title": "依恋理论专题",
+      "description": "依恋的定义与类型（A型、B型、C型）、依恋的形成机制、依恋对发展的影响",
+      "category": "心理学/发展心理学",
       "tags": [
-        "安全架构",
-        "WPDRRC",
-        "信息安全",
-        "威胁防护",
-        "安全体系"
+        "依恋",
+        "Ainsworth",
+        "安全依恋",
+        "依恋类型"
       ],
-      "wordCount": 1067,
-      "id": "c7cce54551349698"
+      "wordCount": 1137,
+      "id": "f96a38b160190976"
     },
     {
-      "filename": "存储与备份技术.json",
-      "title": "存储与备份技术",
-      "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "语言发展.json",
+      "title": "语言发展专题",
+      "description": "语言发展的阶段（语音、词汇、语法、语用）、词汇爆发、电报句、Wh-问题",
+      "category": "心理学/发展心理学",
       "tags": [
-        "存储技术",
-        "RAID",
-        "备份",
-        "系统集成"
+        "语言发展",
+        "词汇爆发",
+        "语法发展",
+        "心理语言学"
       ],
-      "wordCount": 982,
-      "id": "df35da523c5af5d5"
+      "wordCount": 1421,
+      "id": "549cd0033cf48b52"
     },
     {
-      "filename": "访问控制.json",
-      "title": "访问控制",
-      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "智力理论.json",
+      "title": "智力理论专题",
+      "description": "智力一元论与多元论、斯皮尔曼二因素论、卡特流体-晶体智力、智力的PASS模型",
+      "category": "心理学/发展心理学",
       "tags": [
-        "访问控制",
-        "DAC",
-        "MAC",
-        "RBAC",
-        "ABAC"
+        "智力理论",
+        "流体智力",
+        "晶体智力",
+        "多元智力"
       ],
-      "wordCount": 1481,
-      "id": "a4acf88dba3cb424"
+      "wordCount": 1589,
+      "id": "79149e885e4e0570"
     },
     {
-      "filename": "计算机网络基础.json",
-      "title": "计算机网络基础",
-      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "网络基础",
-        "OSI模型",
-        "TCP-IP协议",
-        "系统集成"
-      ],
-      "wordCount": 1085,
-      "id": "9b3e767751872604"
+      "filename": "备考重点.json",
+      "title": "备考重点",
+      "description": "备考重点",
+      "category": "心理学/基础心理学",
+      "tags": [],
+      "wordCount": 100,
+      "id": "58f91aed28b49c57"
     },
     {
-      "filename": "密码技术.json",
-      "title": "密码技术",
-      "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "感觉与知觉心理学.json",
+      "title": "感觉与知觉心理学",
+      "description": "感觉与知觉的原理、机制和应用",
+      "category": "心理学/基础心理学",
       "tags": [
-        "密码技术",
-        "加密",
-        "数字签名",
-        "PKI",
-        "CA"
+        "感觉",
+        "知觉",
+        "心理学"
       ],
-      "wordCount": 1375,
-      "id": "022c47ea42e3243e"
+      "wordCount": 1857,
+      "id": "0f5b182e90ee40b0"
     },
     {
-      "filename": "身份认证.json",
-      "title": "身份认证",
-      "description": "认证技术、认证协议、身份管理、单点登录",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "记忆心理学.json",
+      "title": "记忆心理学",
+      "description": "记忆的原理、机制和应用",
+      "category": "心理学/基础心理学",
       "tags": [
-        "身份认证",
-        "认证技术",
-        "认证协议",
-        "单点登录"
+        "记忆",
+        "心理学",
+        "认知"
       ],
-      "wordCount": 1395,
-      "id": "e5a2802f2cb0eb4e"
+      "wordCount": 1638,
+      "id": "256ac01e6b4ee7e3"
     },
     {
-      "filename": "数据安全与隐私保护.json",
-      "title": "数据安全与隐私保护",
-      "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "思维与问题解决.json",
+      "title": "思维与问题解决专题",
+      "description": "思维的种类、表征、问题解决策略、影响因素（定势与功能固着）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "数据安全",
-        "隐私保护",
-        "数据安全法",
-        "个人信息保护"
+        "思维",
+        "问题解决",
+        "定势",
+        "功能固着",
+        "表征"
       ],
-      "wordCount": 1701,
-      "id": "6be8c5f466c39d08"
+      "wordCount": 1435,
+      "id": "b2513731d99a2f6d"
     },
     {
-      "filename": "数据集成.json",
-      "title": "数据集成",
-      "description": "数据集成方案、数据集成方法、数据访问接口",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "心理生理基础.json",
+      "title": "心理生理基础专题",
+      "description": "神经元结构、神经系统分类、大脑皮层功能区、内分泌系统与行为",
+      "category": "心理学/基础心理学",
       "tags": [
-        "数据集成",
-        "数据集成方法",
-        "ETL",
-        "数据集成方案"
+        "神经元",
+        "大脑皮层",
+        "神经系统",
+        "内分泌系统"
       ],
-      "wordCount": 1615,
-      "id": "7137f6238a7839b4"
+      "wordCount": 1233,
+      "id": "f2e412fe55237ca5"
     },
     {
-      "filename": "数据架构.json",
-      "title": "数据架构",
-      "description": "数据架构设计、数据建模",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "心理学研究方法.json",
+      "title": "心理学研究方法",
+      "description": "心理学研究的主要方法和应用",
+      "category": "心理学/基础心理学",
       "tags": [
-        "数据架构",
-        "数据分层",
-        "数据建模",
-        "数据仓库",
-        "大数据"
+        "研究方法",
+        "心理学",
+        "实验设计"
       ],
-      "wordCount": 919,
-      "id": "e4d7f2ae9837e94e"
+      "wordCount": 2273,
+      "id": "f30f3b9385a17c36"
     },
     {
-      "filename": "数据库基础.json",
-      "title": "数据库基础",
-      "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "注意品质与分类.json",
+      "title": "注意品质与分类专题",
+      "description": "无意注意、有意注意、有意后注意；注意的四种品质（广度、稳定性、分配、转移）",
+      "category": "心理学/基础心理学",
       "tags": [
-        "数据库",
-        "SQL",
-        "范式",
-        "系统集成"
+        "注意",
+        "注意分类",
+        "注意品质",
+        "无意注意",
+        "有意注意"
       ],
-      "wordCount": 985,
-      "id": "03ba6ce84d86c148"
+      "wordCount": 1042,
+      "id": "8a74799c73e25f42"
     },
     {
-      "filename": "网络安全.json",
-      "title": "网络安全",
-      "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "情绪调节与情商.json",
+      "title": "情绪调节与情商专题",
+      "description": "Gross情绪调节过程模型、情商五要素（Goleman）、情绪调节策略",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "网络安全",
-        "防火墙",
-        "入侵检测与防御",
-        "VPN",
-        "安全防护"
+        "情绪调节",
+        "情商",
+        "Gross模型",
+        "Goleman"
       ],
-      "wordCount": 1755,
-      "id": "1c8b5f928be1d3f9"
+      "wordCount": 1222,
+      "id": "5816314001b8e360"
     },
     {
-      "filename": "网络集成.json",
-      "title": "网络集成",
-      "description": "网络系统集成的技术、传输介质、交换技术",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "情绪理论.json",
+      "title": "情绪理论专题",
+      "description": "詹姆斯-兰格理论、坎农-巴德理论、沙赫特-辛格认知理论、拉扎勒斯认知评价理论",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "网络集成",
-        "网络工程",
-        "交换技术",
-        "安全子系统"
+        "情绪理论",
+        "詹姆斯-兰格",
+        "沙赫特-辛格",
+        "认知评价"
       ],
-      "wordCount": 1269,
-      "id": "56186a279e496b3f"
+      "wordCount": 807,
+      "id": "b167ac6bea8adc57"
     },
     {
-      "filename": "网络架构.json",
-      "title": "网络架构",
-      "description": "网络架构设计、网络分层",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "压力与应对.json",
+      "title": "压力与应对专题",
+      "description": "压力的定义与类型、压力反应、生理应激机制、应对策略",
+      "category": "心理学/情绪心理学",
       "tags": [
-        "网络架构",
-        "局域网",
-        "广域网",
-        "移动通信网",
-        "SDN"
+        "压力",
+        "应对策略",
+        "应激",
+        "压力源"
       ],
-      "wordCount": 1050,
-      "id": "57f12946f1cedfe6"
-    },
-    {
-      "filename": "系统集成概述.json",
-      "title": "系统集成概述",
-      "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "系统集成",
-        "信息系统",
-        "集成资质",
-        "中项核心"
-      ],
-      "wordCount": 954,
-      "id": "424f5eb505d95974"
-    },
-    {
-      "filename": "系统架构.json",
-      "title": "系统架构",
-      "description": "架构概论、系统架构设计原则",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "系统架构",
-        "架构设计",
-        "TOGAF",
-        "ADM",
-        "价值驱动"
-      ],
-      "wordCount": 1213,
-      "id": "4d18d608c6f5855a"
-    },
-    {
-      "filename": "信息安全基础.json",
-      "title": "信息安全基础",
-      "description": "信息安全概念、安全属性、安全管理、等级保护",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "信息安全",
-        "CIA",
-        "安全管理",
-        "等级保护"
-      ],
-      "wordCount": 1272,
-      "id": "0abfa84f1b5a76b3"
-    },
-    {
-      "filename": "信息技术服务.json",
-      "title": "信息技术服务",
-      "description": "IT服务内涵、特征、原理与组成",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "IT服务",
-        "PPTR",
-        "服务特征",
-        "人员",
-        "过程",
-        "技术",
-        "资源"
-      ],
-      "wordCount": 991,
-      "id": "794574c48071d0bb"
+      "wordCount": 1241,
+      "id": "5c5c24851901db22"
     }
   ]
 }

@@ -1,205 +1,285 @@
 {
   "page": 3,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "二、我踩过的 10 个坑.json",
-      "title": "二、我踩过的 10 个坑",
-      "description": "二、我踩过的 10 个坑",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 2894,
-      "id": "96b0ec3664bf24a4"
-    },
-    {
-      "filename": "解决方案.json",
-      "title": "解决方案",
-      "description": "解决方案",
-      "category": "产品研发/开发实践",
-      "tags": [],
-      "wordCount": 3044,
-      "id": "90f366c237a3b80a"
-    },
-    {
-      "filename": "二、零服务器的架构设计.json",
-      "title": "二、零服务器的架构设计",
-      "description": "二、零服务器的架构设计",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 409,
-      "id": "1b227b0c4bb214af"
-    },
-    {
-      "filename": "六、你可以做什么？.json",
-      "title": "六、你可以做什么？",
-      "description": "六、你可以做什么？",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 150,
-      "id": "e218a93b6d3a1bcb"
-    },
-    {
-      "filename": "三、开源：MIT 协议.json",
-      "title": "三、开源：MIT 协议",
-      "description": "三、开源：MIT 协议",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 418,
-      "id": "c20aa1eb9b0b023f"
-    },
-    {
-      "filename": "四、零成本的运营模式.json",
-      "title": "四、零成本的运营模式",
-      "description": "四、零成本的运营模式",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 279,
-      "id": "f88511f4bbcccc37"
-    },
-    {
-      "filename": "五、开源项目的生存之道.json",
-      "title": "五、开源项目的生存之道",
-      "description": "五、开源项目的生存之道",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 311,
-      "id": "05bff7a6163ad637"
-    },
-    {
-      "filename": "一、什么是 MIT 协议？.json",
-      "title": "一、什么是 MIT 协议？",
-      "description": "一、什么是 MIT 协议？",
-      "category": "产品研发/开源生态",
-      "tags": [],
-      "wordCount": 1111,
-      "id": "da1432b1e62f1fab"
-    },
-    {
-      "filename": "财务管理与财富自由_从零开始的财务规划指南.json",
-      "title": "财务管理与财富自由：从零开始的财务规划指南",
-      "description": "财务管理与财富自由：从零开始的财务规划指南的核心知识点汇总",
-      "category": "创业指南/财务规划",
-      "tags": [
-        "财富自由",
-        "财务管理",
-        "理财"
-      ],
-      "wordCount": 1904,
-      "id": "344415675d41a97d"
-    },
-    {
-      "filename": "初创企业税务入门.json",
-      "title": "初创企业税务入门",
-      "description": "中国创业者在公司成立后必须了解的基础税务知识，包括主要税种、申报流程、税收优惠与常见误区",
-      "category": "创业指南/财务规划",
-      "tags": [
-        "税务",
-        "企业所得税",
-        "增值税",
-        "个人所得税",
-        "创业财务"
-      ],
-      "wordCount": 1217,
-      "id": "233747d5370cb4da"
-    },
-    {
-      "filename": "创业前必须完成的六个准备功课_从0到1的全方位指南.json",
-      "title": "创业前必须完成的六个准备功课：从0到1的全方位指南",
-      "description": "创业前必须完成的六个准备功课：从0到1的全方位指南的核心知识点汇总",
-      "category": "创业指南/创业准备",
-      "tags": [
-        "商业",
-        "创业",
-        "规划"
-      ],
-      "wordCount": 1722,
-      "id": "d4e0b5625f50de09"
-    },
-    {
-      "filename": "二、融资的轮次体系.json",
-      "title": "二、融资的轮次体系",
-      "description": "二、融资的轮次体系",
-      "category": "创业指南/创业准备",
-      "tags": [],
-      "wordCount": 834,
-      "id": "62851bde2bae9d62"
-    },
-    {
-      "filename": "二、BP的标准结构.json",
-      "title": "二、BP的标准结构",
+      "filename": "项目安全管理.json",
+      "title": "项目安全管理",
       "description": "",
-      "category": "创业指南/创业准备",
-      "tags": [],
-      "wordCount": 1569,
-      "id": "571113721481cb08"
-    },
-    {
-      "filename": "极简生活实践手册_从断舍离到可持续生活.json",
-      "title": "极简生活实践手册：从断舍离到可持续生活",
-      "description": "极简生活实践手册：从断舍离到可持续生活的核心知识点汇总",
-      "category": "创业指南/创业准备",
+      "category": "建造师/二级建造师",
       "tags": [
-        "生活方式",
-        "极简主义",
-        "断舍离"
+        "二建",
+        "安全管理",
+        "项目管理",
+        "建造师"
       ],
-      "wordCount": 4095,
-      "id": "81676dc754485af1"
+      "wordCount": 200,
+      "id": "8fe4ea7995d306b2"
     },
     {
-      "filename": "六、融资的时机.json",
-      "title": "六、融资的时机",
-      "description": "六、融资的时机",
-      "category": "创业指南/创业准备",
-      "tags": [],
-      "wordCount": 170,
-      "id": "85215e3f268f23ad"
-    },
-    {
-      "filename": "三、估值的基本概念.json",
-      "title": "三、估值的基本概念",
-      "description": "三、估值的基本概念",
-      "category": "创业指南/创业准备",
-      "tags": [],
-      "wordCount": 530,
-      "id": "3585c2aa59c3cc46"
-    },
-    {
-      "filename": "三、BP写作的常见错误.json",
-      "title": "三、BP写作的常见错误",
+      "filename": "项目成本管理.json",
+      "title": "项目成本管理",
       "description": "",
-      "category": "创业指南/创业准备",
-      "tags": [],
-      "wordCount": 486,
-      "id": "998c7805dd7f4639"
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "成本管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 205,
+      "id": "b8d7bb2f2668fe1b"
     },
     {
-      "filename": "四、核心术语.json",
-      "title": "四、核心术语",
-      "description": "四、核心术语",
-      "category": "创业指南/创业准备",
-      "tags": [],
-      "wordCount": 682,
-      "id": "efedda72e8fc7d31"
-    },
-    {
-      "filename": "四、BP的格式建议.json",
-      "title": "四、BP的格式建议",
+      "filename": "项目管理实务.json",
+      "title": "项目管理实务",
       "description": "",
-      "category": "创业指南/创业准备",
-      "tags": [],
-      "wordCount": 153,
-      "id": "3301d92fcb7bab76"
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "项目管理",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 255,
+      "id": "af4d0bf7f7db151a"
     },
     {
-      "filename": "五、融资流程.json",
-      "title": "五、融资流程",
-      "description": "五、融资流程",
-      "category": "创业指南/创业准备",
-      "tags": [],
+      "filename": "项目进度管理.json",
+      "title": "项目进度管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "进度管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 166,
+      "id": "c7c752a4767c2f39"
+    },
+    {
+      "filename": "项目质量管理.json",
+      "title": "项目质量管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "质量管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 199,
+      "id": "71c39f516c268fd1"
+    },
+    {
+      "filename": "公路工程管理与实务.json",
+      "title": "公路工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "公路工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 207,
+      "id": "fc359992b46f3ed3"
+    },
+    {
+      "filename": "机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "机电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 211,
+      "id": "a7b57ed1618be4bb"
+    },
+    {
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "法规",
+        "建造师"
+      ],
       "wordCount": 559,
-      "id": "176c6cd51e95907b"
+      "id": "7eef789c72cc2e71"
+    },
+    {
+      "filename": "建设工程法律法规实务.json",
+      "title": "建设工程法律法规实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "法律法规",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 279,
+      "id": "fa1244339a69ec42"
+    },
+    {
+      "filename": "建设工程经济.json",
+      "title": "建设工程经济",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "工程经济",
+        "建造师"
+      ],
+      "wordCount": 214,
+      "id": "ca0d0ae8cf075c84"
+    },
+    {
+      "filename": "建设工程项目管理.json",
+      "title": "建设工程项目管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "项目管理",
+        "PMBOK",
+        "建造师"
+      ],
+      "wordCount": 629,
+      "id": "7159a8aa660324b4"
+    },
+    {
+      "filename": "建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "建筑工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 156,
+      "id": "30f9152bdb630791"
+    },
+    {
+      "filename": "施工技术与管理.json",
+      "title": "施工技术与管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "施工技术",
+        "管理",
+        "建造师"
+      ],
+      "wordCount": 173,
+      "id": "24279326babd9df0"
+    },
+    {
+      "filename": "市政公用工程管理与实务.json",
+      "title": "市政公用工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "市政工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 274,
+      "id": "5793250af66a75fb"
+    },
+    {
+      "filename": "水利水电工程管理与实务.json",
+      "title": "水利水电工程管理与实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "水利水电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 299,
+      "id": "c1e52e11bb2d17af"
+    },
+    {
+      "filename": "项目安全管理.json",
+      "title": "项目安全管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "安全管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 200,
+      "id": "45de03bdcf1f0f2c"
+    },
+    {
+      "filename": "项目成本管理.json",
+      "title": "项目成本管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "成本管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 205,
+      "id": "37ba86cbdaa95f4c"
+    },
+    {
+      "filename": "项目风险管理.json",
+      "title": "项目风险管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "风险管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 247,
+      "id": "8c658d432fcf62f0"
+    },
+    {
+      "filename": "项目沟通管理.json",
+      "title": "项目沟通管理",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "沟通管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 224,
+      "id": "cecb4e65997daedd"
+    },
+    {
+      "filename": "项目管理实务.json",
+      "title": "项目管理实务",
+      "description": "",
+      "category": "建造师/一级建造师",
+      "tags": [
+        "一建",
+        "项目管理",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 255,
+      "id": "592f2ac643888a83"
     }
   ]
 }

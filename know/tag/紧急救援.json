@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "紧急救援",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "急救知识综合指南.json",
+      "title": "急救知识综合指南",
+      "description": "全面的急救知识，包括心肺复苏、AED使用等内容",
+      "category": "生活通识/急救知识",
+      "tags": [
+        "急救知识",
+        "心肺复苏",
+        "AED",
+        "紧急救援"
+      ],
+      "wordCount": 1921,
+      "id": "e779f911e981f3c9"
+    }
+  ]
+}

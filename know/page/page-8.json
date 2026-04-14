@@ -1,282 +1,261 @@
 {
   "page": 8,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
+      "filename": "教育心理学概述.json",
+      "title": "教育心理学概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "教育心理学",
+        "考研"
+      ],
+      "wordCount": 440,
+      "id": "190810ca16151813"
+    },
+    {
+      "filename": "教育学原理概述.json",
+      "title": "教育学原理概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "原理",
+        "考研"
+      ],
+      "wordCount": 271,
+      "id": "9f7678e998c22920"
+    },
+    {
+      "filename": "教育研究方法概述.json",
+      "title": "教育研究方法概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "研究方法",
+        "考研"
+      ],
+      "wordCount": 462,
+      "id": "cb76ac3d73313f7a"
+    },
+    {
+      "filename": "教育与人的发展.json",
+      "title": "教育与人的发展",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "人的发展",
+        "考研"
+      ],
+      "wordCount": 344,
+      "id": "17f5df24d454b3d5"
+    },
+    {
+      "filename": "课程理论与实践.json",
+      "title": "课程理论与实践",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "课程",
+        "考研"
+      ],
+      "wordCount": 555,
+      "id": "66fc11554d006482"
+    },
+    {
+      "filename": "外国教育史概述.json",
+      "title": "外国教育史概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "外国教育史",
+        "考研"
+      ],
+      "wordCount": 388,
+      "id": "dcfd9d081cf9e3fd"
+    },
+    {
+      "filename": "学习动机.json",
+      "title": "学习动机",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "学习动机",
+        "考研"
+      ],
+      "wordCount": 597,
+      "id": "bafe8524c17a0580"
+    },
+    {
+      "filename": "学习理论.json",
+      "title": "学习理论",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "学习理论",
+        "考研"
+      ],
+      "wordCount": 557,
+      "id": "9e9ce2126377fc96"
+    },
+    {
+      "filename": "学校管理.json",
+      "title": "学校管理",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "学校管理",
+        "考研"
+      ],
+      "wordCount": 509,
+      "id": "5739365a0d864529"
+    },
+    {
+      "filename": "中国教育史概述.json",
+      "title": "中国教育史概述",
+      "description": "",
+      "category": "考研专业课/教育学专业基础综合",
+      "tags": [
+        "教育学",
+        "中国教育史",
+        "考研"
+      ],
+      "wordCount": 373,
+      "id": "4c97f0f84e412346"
+    },
+    {
+      "filename": "心理学备考综合指南.json",
+      "title": "心理学备考综合指南",
+      "description": "心理学高频考点速查表、计算题公式汇总、简答论述答题模板、备考策略",
+      "category": "考研专业课/心理学备考",
+      "tags": [
+        "心理学备考",
+        "高频考点",
+        "计算公式",
+        "答题模板"
+      ],
+      "wordCount": 2110,
+      "id": "f964c9fe63d8c5c3"
+    },
+    {
+      "filename": "绩效管理.json",
+      "title": "绩效管理",
+      "description": "绩效管理的体系、方法和实施策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "绩效管理"
+      ],
+      "wordCount": 756,
+      "id": "3df6d718c061ee27"
+    },
+    {
+      "filename": "劳动法规.json",
+      "title": "劳动法规",
+      "description": "劳动法规的基本内容、应用和合规管理",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "劳动法规"
+      ],
+      "wordCount": 1072,
+      "id": "40b246defbcf3d65"
+    },
+    {
+      "filename": "劳动关系.json",
+      "title": "劳动关系",
+      "description": "劳动关系的概念、管理和协调策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "劳动关系"
+      ],
+      "wordCount": 774,
+      "id": "fd236277fb520467"
+    },
+    {
+      "filename": "培训开发.json",
+      "title": "培训开发",
+      "description": "培训开发的体系、方法和实施策略",
+      "category": "人力资源管理师",
+      "tags": [
+        "人力资源管理师",
+        "培训",
+        "开发"
+      ],
+      "wordCount": 697,
+      "id": "4b0e8eca0f576f1d"
+    },
+    {
       "filename": "核心考点.json",
-      "title": "建造师考试核心考点",
-      "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
-      "category": "建造师",
+      "title": "人力资源管理师核心考点",
+      "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
+      "category": "人力资源管理师",
       "tags": [
-        "建造师",
-        "一建",
-        "二建"
+        "人力资源",
+        "HR",
+        "劳动法"
       ],
-      "wordCount": 4763,
-      "id": "891b181955bf8c6c"
+      "wordCount": 30,
+      "id": "89130bc5d5b8903d"
     },
     {
-      "filename": "公路工程管理与实务.json",
-      "title": "公路工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "人力资源管理师职业发展.json",
+      "title": "人力资源管理师职业发展",
+      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
+      "category": "人力资源管理师",
       "tags": [
-        "二建",
-        "公路工程",
-        "实务",
-        "建造师"
+        "人力资源管理师",
+        "职业发展"
       ],
-      "wordCount": 207,
-      "id": "1240fa0d522af118"
+      "wordCount": 932,
+      "id": "b003aff1861bb29f"
     },
     {
-      "filename": "机电工程管理与实务.json",
-      "title": "机电工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "人力资源规划.json",
+      "title": "人力资源规划",
+      "description": "人力资源规划的核心概念、流程和实践方法",
+      "category": "人力资源管理师",
       "tags": [
-        "二建",
-        "机电工程",
-        "实务",
-        "建造师"
+        "人力资源管理师",
+        "人力资源规划"
       ],
-      "wordCount": 211,
-      "id": "bfe11c4860e52603"
+      "wordCount": 523,
+      "id": "7d04338392048966"
     },
     {
-      "filename": "建设工程法规及相关知识.json",
-      "title": "建设工程法规及相关知识",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "人力资源信息化.json",
+      "title": "人力资源信息化",
+      "description": "人力资源信息化的概念、实施和管理策略",
+      "category": "人力资源管理师",
       "tags": [
-        "二建",
-        "法规",
-        "建造师"
+        "人力资源管理师",
+        "人力资源信息化"
       ],
-      "wordCount": 559,
-      "id": "db168e021cb0af71"
+      "wordCount": 873,
+      "id": "22b9ef7332fc03a9"
     },
     {
-      "filename": "建设工程法律法规实务.json",
-      "title": "建设工程法律法规实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "薪酬管理.json",
+      "title": "薪酬管理",
+      "description": "薪酬管理的体系、设计和实施策略",
+      "category": "人力资源管理师",
       "tags": [
-        "二建",
-        "法律法规",
-        "实务",
-        "建造师"
+        "人力资源管理师",
+        "薪酬管理"
       ],
-      "wordCount": 279,
-      "id": "1b488fe70388ed27"
-    },
-    {
-      "filename": "建设工程施工管理.json",
-      "title": "建设工程施工管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "施工管理",
-        "建造师"
-      ],
-      "wordCount": 451,
-      "id": "6a8179b10f109354"
-    },
-    {
-      "filename": "建筑工程管理与实务.json",
-      "title": "建筑工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "建筑工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 156,
-      "id": "a1bcf29ecea453db"
-    },
-    {
-      "filename": "施工技术与管理.json",
-      "title": "施工技术与管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "施工技术",
-        "管理",
-        "建造师"
-      ],
-      "wordCount": 173,
-      "id": "2cf94587fbc8d89b"
-    },
-    {
-      "filename": "市政公用工程管理与实务.json",
-      "title": "市政公用工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "市政工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 274,
-      "id": "f936e49ca2584e1f"
-    },
-    {
-      "filename": "水利水电工程管理与实务.json",
-      "title": "水利水电工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "水利水电工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 299,
-      "id": "2a47b56568900495"
-    },
-    {
-      "filename": "项目安全管理.json",
-      "title": "项目安全管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "安全管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 200,
-      "id": "8fe4ea7995d306b2"
-    },
-    {
-      "filename": "项目成本管理.json",
-      "title": "项目成本管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "成本管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 205,
-      "id": "b8d7bb2f2668fe1b"
-    },
-    {
-      "filename": "项目管理实务.json",
-      "title": "项目管理实务",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "项目管理",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 255,
-      "id": "af4d0bf7f7db151a"
-    },
-    {
-      "filename": "项目进度管理.json",
-      "title": "项目进度管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "进度管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 166,
-      "id": "c7c752a4767c2f39"
-    },
-    {
-      "filename": "项目质量管理.json",
-      "title": "项目质量管理",
-      "description": "",
-      "category": "建造师/二级建造师",
-      "tags": [
-        "二建",
-        "质量管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 199,
-      "id": "71c39f516c268fd1"
-    },
-    {
-      "filename": "公路工程管理与实务.json",
-      "title": "公路工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "公路工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 207,
-      "id": "fc359992b46f3ed3"
-    },
-    {
-      "filename": "机电工程管理与实务.json",
-      "title": "机电工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "机电工程",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 211,
-      "id": "a7b57ed1618be4bb"
-    },
-    {
-      "filename": "建设工程法规及相关知识.json",
-      "title": "建设工程法规及相关知识",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "法规",
-        "建造师"
-      ],
-      "wordCount": 559,
-      "id": "7eef789c72cc2e71"
-    },
-    {
-      "filename": "建设工程法律法规实务.json",
-      "title": "建设工程法律法规实务",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "法律法规",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 279,
-      "id": "fa1244339a69ec42"
-    },
-    {
-      "filename": "建设工程经济.json",
-      "title": "建设工程经济",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "工程经济",
-        "建造师"
-      ],
-      "wordCount": 214,
-      "id": "ca0d0ae8cf075c84"
+      "wordCount": 733,
+      "id": "c450ac405a5ae475"
     }
   ]
 }

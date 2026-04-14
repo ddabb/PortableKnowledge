@@ -1,179 +1,22 @@
 {
   "meta": {
     "category": "生活通识/安全防范",
-    "count": 19
+    "count": 1
   },
   "articles": [
     {
-      "filename": "二、常见诈骗类型.json",
-      "title": "二、常见诈骗类型",
-      "description": "二、常见诈骗类型",
+      "filename": "安全防范综合指南.json",
+      "title": "安全防范综合指南",
+      "description": "全面的安全防范知识，包括诈骗防范、赌博防范等内容",
       "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 657,
-      "id": "629f6b2a5047f4d8"
-    },
-    {
-      "filename": "二、赌博防范.json",
-      "title": "二、赌博防范",
-      "description": "二、赌博防范",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 560,
-      "id": "51b494cf85407150"
-    },
-    {
-      "filename": "二、网络诈骗.json",
-      "title": "二、网络诈骗",
-      "description": "二、网络诈骗",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 320,
-      "id": "646464a36c798ef2"
-    },
-    {
-      "filename": "六、保护个人信息.json",
-      "title": "六、保护个人信息",
-      "description": "六、保护个人信息",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 116,
-      "id": "bb22bb274895c7f8"
-    },
-    {
-      "filename": "六、遭遇诈骗后的处理.json",
-      "title": "六、遭遇诈骗后的处理",
-      "description": "六、遭遇诈骗后的处理",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 116,
-      "id": "4cc01f0018a39b81"
-    },
-    {
-      "filename": "七、国家反诈中心APP.json",
-      "title": "七、国家反诈中心APP",
-      "description": "七、国家反诈中心APP",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 167,
-      "id": "851a588047637e1c"
-    },
-    {
-      "filename": "七、总结.json",
-      "title": "七、总结",
-      "description": "七、总结",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 110,
-      "id": "cdadc0c360452131"
-    },
-    {
-      "filename": "三、防诈骗·八个凡是·.json",
-      "title": "三、防诈骗·八个凡是·",
-      "description": "三、防诈骗·八个凡是·",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 199,
-      "id": "cdc63b2554cdf44e"
-    },
-    {
-      "filename": "三、老年人诈骗.json",
-      "title": "三、老年人诈骗",
-      "description": "三、老年人诈骗",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 232,
-      "id": "24b58ddac7edae2a"
-    },
-    {
-      "filename": "三、色情防范.json",
-      "title": "三、色情防范",
-      "description": "三、色情防范",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 385,
-      "id": "e09ec72ac9c84ceb"
-    },
-    {
-      "filename": "四、·三不一多·原则.json",
-      "title": "四、·三不一多·原则",
-      "description": "四、·三不一多·原则",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 121,
-      "id": "72f224f0bbb82b37"
-    },
-    {
-      "filename": "四、如何寻求帮助.json",
-      "title": "四、如何寻求帮助",
-      "description": "四、如何寻求帮助",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 161,
-      "id": "4d1dfeaf9ab5271a"
-    },
-    {
-      "filename": "四、学生群体诈骗.json",
-      "title": "四、学生群体诈骗",
-      "description": "四、学生群体诈骗",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 216,
-      "id": "37bb1a4f434f958b"
-    },
-    {
-      "filename": "五、防范技巧汇总.json",
-      "title": "五、防范技巧汇总",
-      "description": "五、防范技巧汇总",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 196,
-      "id": "2bbbac34ef523b8e"
-    },
-    {
-      "filename": "五、遭遇诈骗后的处理.json",
-      "title": "五、遭遇诈骗后的处理",
-      "description": "五、遭遇诈骗后的处理",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 142,
-      "id": "31c06b9d4f0b8252"
-    },
-    {
-      "filename": "五、总结.json",
-      "title": "五、总结",
-      "description": "五、总结",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 147,
-      "id": "d71dfbbffdcdbddf"
-    },
-    {
-      "filename": "一、毒品防范.json",
-      "title": "一、毒品防范",
-      "description": "一、毒品防范",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 605,
-      "id": "add53a872c46c50b"
-    },
-    {
-      "filename": "一、街头诈骗.json",
-      "title": "一、街头诈骗",
-      "description": "一、街头诈骗",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 259,
-      "id": "0ec48cb21c9199ae"
-    },
-    {
-      "filename": "一、诈骗形势.json",
-      "title": "一、诈骗形势",
-      "description": "一、诈骗形势",
-      "category": "生活通识/安全防范",
-      "tags": [],
-      "wordCount": 132,
-      "id": "3bd2d5bd6211d8f4"
+      "tags": [
+        "安全防范",
+        "诈骗",
+        "赌博",
+        "个人信息保护"
+      ],
+      "wordCount": 2524,
+      "id": "29dd80ae24a63146"
     }
   ]
 }

@@ -1,187 +1,278 @@
 {
   "page": 2,
-  "totalPages": 51,
-  "totalItems": 1009,
+  "totalPages": 41,
+  "totalItems": 805,
   "items": [
     {
-      "filename": "六、我的改变.json",
-      "title": "六、我的改变",
-      "description": "六、我的改变",
-      "category": "产品研发/产品思考",
+      "filename": "五、实例分析.json",
+      "title": "五、实例分析",
+      "description": "五、实例分析",
+      "category": "公务员/申论",
       "tags": [],
-      "wordCount": 162,
-      "id": "563e1af22b7245d5"
+      "wordCount": 407,
+      "id": "9e4fb7314bc3f860"
     },
     {
-      "filename": "六、写给用户的建议.json",
-      "title": "六、写给用户的建议",
-      "description": "六、写给用户的建议",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 177,
-      "id": "26b376afc853e837"
-    },
-    {
-      "filename": "六、写在最后.json",
-      "title": "六、写在最后",
-      "description": "六、写在最后",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 162,
-      "id": "b0d5efc935d5cc9e"
-    },
-    {
-      "filename": "七、写在最后.json",
-      "title": "七、写在最后",
-      "description": "七、写在最后",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 152,
-      "id": "5d31e84ffb4f275b"
-    },
-    {
-      "filename": "三、「工具焦虑」的真相.json",
-      "title": "三、「工具焦虑」的真相",
-      "description": "三、「工具焦虑」的真相",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 292,
-      "id": "a4c6dd793e593969"
-    },
-    {
-      "filename": "三、认知升级：少即是多.json",
-      "title": "三、认知升级：少即是多",
-      "description": "三、认知升级：少即是多",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 272,
-      "id": "83a661ba9c598777"
-    },
-    {
-      "filename": "三、数据改变的产品决策.json",
-      "title": "三、数据改变的产品决策",
-      "description": "三、数据改变的产品决策",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 315,
-      "id": "51b2df4331459849"
-    },
-    {
-      "filename": "三、为什么我还要坚持免费？.json",
-      "title": "三、为什么我还要坚持免费？",
-      "description": "三、为什么我还要坚持免费？",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 359,
-      "id": "8e6ce097d8e10995"
-    },
-    {
-      "filename": "四、「免费」什么时候不值得？.json",
-      "title": "四、「免费」什么时候不值得？",
-      "description": "四、「免费」什么时候不值得？",
-      "category": "产品研发/产品思考",
+      "filename": "五、注意事项.json",
+      "title": "五、注意事项",
+      "description": "五、注意事项",
+      "category": "公务员/申论",
       "tags": [],
       "wordCount": 265,
-      "id": "66086ff1029f4210"
+      "id": "74dfba907dfb76ec"
     },
     {
-      "filename": "四、如何对抗「工具焦虑」？.json",
-      "title": "四、如何对抗「工具焦虑」？",
-      "description": "四、如何对抗「工具焦虑」？",
-      "category": "产品研发/产品思考",
+      "filename": "一、核心考点.json",
+      "title": "一、核心考点",
+      "description": "一、核心考点",
+      "category": "公务员/申论",
       "tags": [],
-      "wordCount": 418,
-      "id": "3e8779fb8fb29da1"
+      "wordCount": 1326,
+      "id": "af7978997694bb01"
     },
     {
-      "filename": "四、少即是多的三个层次.json",
-      "title": "四、少即是多的三个层次",
-      "description": "四、少即是多的三个层次",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 316,
-      "id": "4e0e742e95e04ae3"
+      "filename": "综合分析.json",
+      "title": "综合分析",
+      "description": "",
+      "category": "公务员/申论",
+      "tags": [
+        "申论",
+        "综合分析",
+        "分析方法",
+        "逻辑思维"
+      ],
+      "wordCount": 115,
+      "id": "85fd8260bcc67102"
     },
     {
-      "filename": "四、数据教会我的 4 件事.json",
-      "title": "四、数据教会我的 4 件事",
-      "description": "四、数据教会我的 4 件事",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 531,
-      "id": "e4c3b245444f688c"
+      "filename": "常识判断.json",
+      "title": "常识判断",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "常识判断",
+        "政治",
+        "经济",
+        "法律",
+        "科技",
+        "历史",
+        "地理"
+      ],
+      "wordCount": 195,
+      "id": "ad827cbb8bf8f659"
     },
     {
-      "filename": "五、「免费」的正确姿势.json",
-      "title": "五、「免费」的正确姿势",
-      "description": "五、「免费」的正确姿势",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 301,
-      "id": "6c70d20ec4850ee0"
+      "filename": "判断推理.json",
+      "title": "判断推理",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "判断推理",
+        "图形推理",
+        "定义判断",
+        "类比推理",
+        "逻辑判断"
+      ],
+      "wordCount": 236,
+      "id": "9050b3beccad874f"
     },
     {
-      "filename": "五、产品如此，人生亦然.json",
-      "title": "五、产品如此，人生亦然",
-      "description": "五、产品如此，人生亦然",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 316,
-      "id": "23ec7018c3e1d477"
+      "filename": "数量关系.json",
+      "title": "数量关系",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "数量关系",
+        "数学运算",
+        "数字推理"
+      ],
+      "wordCount": 182,
+      "id": "f8b4a33207004494"
     },
     {
-      "filename": "五、产品设计者的视角.json",
-      "title": "五、产品设计者的视角",
-      "description": "五、产品设计者的视角",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 305,
-      "id": "1a1ccb8d79f3b6ae"
+      "filename": "言语理解.json",
+      "title": "言语理解",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "言语理解",
+        "逻辑填空",
+        "片段阅读",
+        "语句表达"
+      ],
+      "wordCount": 177,
+      "id": "915e1a246acfeb53"
     },
     {
-      "filename": "五、我的数据复盘方法.json",
-      "title": "五、我的数据复盘方法",
-      "description": "五、我的数据复盘方法",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 201,
-      "id": "dc3fadfae5a11f99"
+      "filename": "资料分析.json",
+      "title": "资料分析",
+      "description": "",
+      "category": "公务员/行政职业能力测验",
+      "tags": [
+        "行测",
+        "资料分析",
+        "统计术语",
+        "速算技巧",
+        "图表分析"
+      ],
+      "wordCount": 152,
+      "id": "edd1848040ae9fb2"
     },
     {
-      "filename": "一、为什么我要做「免费」？.json",
-      "title": "一、为什么我要做「免费」？",
-      "description": "一、为什么我要做「免费」？",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 185,
-      "id": "13d89ffde4f9083a"
+      "filename": "家庭理财综合指南.json",
+      "title": "家庭理财综合指南",
+      "description": "全面的家庭理财知识，包括基金投资、保险配置、资产配置等内容",
+      "category": "家庭理财",
+      "tags": [
+        "家庭理财",
+        "基金投资",
+        "保险配置",
+        "资产配置",
+        "个人理财"
+      ],
+      "wordCount": 5722,
+      "id": "fb3a22b540eb22a8"
     },
     {
-      "filename": "一、我的「工具收集癖」.json",
-      "title": "一、我的「工具收集癖」",
-      "description": "一、我的「工具收集癖」",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 285,
-      "id": "be70e7b696d416d3"
+      "filename": "核心考点.json",
+      "title": "建造师考试核心考点",
+      "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
+      "category": "建造师",
+      "tags": [
+        "建造师",
+        "一建",
+        "二建"
+      ],
+      "wordCount": 4763,
+      "id": "891b181955bf8c6c"
     },
     {
-      "filename": "一、我以为我知道，但数据告诉我我错了.json",
-      "title": "一、我以为我知道，但数据告诉我我错了",
-      "description": "一、我以为我知道，但数据告诉我我错了",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 379,
-      "id": "871e6bb804b9be51"
+      "filename": "公路工程管理与实务.json",
+      "title": "公路工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "公路工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 207,
+      "id": "1240fa0d522af118"
     },
     {
-      "filename": "一、一个普遍的现象.json",
-      "title": "一、一个普遍的现象",
-      "description": "一、一个普遍的现象",
-      "category": "产品研发/产品思考",
-      "tags": [],
-      "wordCount": 188,
-      "id": "265448c1b4237854"
+      "filename": "机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "机电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 211,
+      "id": "bfe11c4860e52603"
+    },
+    {
+      "filename": "建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "法规",
+        "建造师"
+      ],
+      "wordCount": 559,
+      "id": "db168e021cb0af71"
+    },
+    {
+      "filename": "建设工程法律法规实务.json",
+      "title": "建设工程法律法规实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "法律法规",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 279,
+      "id": "1b488fe70388ed27"
+    },
+    {
+      "filename": "建设工程施工管理.json",
+      "title": "建设工程施工管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "施工管理",
+        "建造师"
+      ],
+      "wordCount": 451,
+      "id": "6a8179b10f109354"
+    },
+    {
+      "filename": "建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "建筑工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 156,
+      "id": "a1bcf29ecea453db"
+    },
+    {
+      "filename": "施工技术与管理.json",
+      "title": "施工技术与管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "施工技术",
+        "管理",
+        "建造师"
+      ],
+      "wordCount": 173,
+      "id": "2cf94587fbc8d89b"
+    },
+    {
+      "filename": "市政公用工程管理与实务.json",
+      "title": "市政公用工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "市政工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 274,
+      "id": "f936e49ca2584e1f"
+    },
+    {
+      "filename": "水利水电工程管理与实务.json",
+      "title": "水利水电工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "水利水电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 299,
+      "id": "2a47b56568900495"
     }
   ]
 }
