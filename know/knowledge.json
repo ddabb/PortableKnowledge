@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 545,
+    "totalArticles": 554,
     "totalCategories": 65,
-    "totalTags": 860
+    "totalTags": 900
   },
   "categories": [
     {
@@ -102,6 +102,10 @@
       "count": 11
     },
     {
+      "name": "生活通识/健康养生",
+      "count": 11
+    },
+    {
       "name": "教师资格证/幼儿",
       "count": 10
     },
@@ -159,10 +163,6 @@
     },
     {
       "name": "软考/项目管理/项目立项管理",
-      "count": 2
-    },
-    {
-      "name": "生活通识/健康养生",
       "count": 2
     },
     {

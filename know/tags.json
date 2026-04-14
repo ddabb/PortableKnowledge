@@ -1,6 +1,6 @@
 {
   "meta": {
-    "totalTags": 860
+    "totalTags": 900
   },
   "tags": [
     {
@@ -388,6 +388,10 @@
       "count": 3
     },
     {
+      "name": "预防",
+      "count": 3
+    },
+    {
       "name": "自然灾害",
       "count": 3
     },
@@ -697,6 +701,18 @@
     },
     {
       "name": "信息与信息化",
+      "count": 2
+    },
+    {
+      "name": "筛查",
+      "count": 2
+    },
+    {
+      "name": "心梗",
+      "count": 2
+    },
+    {
+      "name": "压力管理",
       "count": 2
     },
     {
@@ -2480,6 +2496,18 @@
       "count": 1
     },
     {
+      "name": "癌症",
+      "count": 1
+    },
+    {
+      "name": "肿瘤",
+      "count": 1
+    },
+    {
+      "name": "早期发现",
+      "count": 1
+    },
+    {
       "name": "猝死",
       "count": 1
     },
@@ -2496,19 +2524,35 @@
       "count": 1
     },
     {
-      "name": "预防",
-      "count": 1
-    },
-    {
       "name": "心脏骤停",
       "count": 1
     },
     {
-      "name": "心梗",
+      "name": "呼吸系统",
       "count": 1
     },
     {
-      "name": "健康养生",
+      "name": "肺",
+      "count": 1
+    },
+    {
+      "name": "哮喘",
+      "count": 1
+    },
+    {
+      "name": "肺炎",
+      "count": 1
+    },
+    {
+      "name": "空气质量",
+      "count": 1
+    },
+    {
+      "name": "体检",
+      "count": 1
+    },
+    {
+      "name": "健康检查",
       "count": 1
     },
     {
@@ -2516,7 +2560,47 @@
       "count": 1
     },
     {
-      "name": "生活方式",
+      "name": "BMI",
+      "count": 1
+    },
+    {
+      "name": "饮食",
+      "count": 1
+    },
+    {
+      "name": "营养",
+      "count": 1
+    },
+    {
+      "name": "健康饮食",
+      "count": 1
+    },
+    {
+      "name": "膳食纤维",
+      "count": 1
+    },
+    {
+      "name": "减盐减糖",
+      "count": 1
+    },
+    {
+      "name": "睡眠",
+      "count": 1
+    },
+    {
+      "name": "失眠",
+      "count": 1
+    },
+    {
+      "name": "睡眠质量",
+      "count": 1
+    },
+    {
+      "name": "生物钟",
+      "count": 1
+    },
+    {
+      "name": "作息",
       "count": 1
     },
     {
@@ -2524,7 +2608,87 @@
       "count": 1
     },
     {
-      "name": "睡眠管理",
+      "name": "春季",
+      "count": 1
+    },
+    {
+      "name": "夏季",
+      "count": 1
+    },
+    {
+      "name": "秋季",
+      "count": 1
+    },
+    {
+      "name": "冬季",
+      "count": 1
+    },
+    {
+      "name": "糖尿病",
+      "count": 1
+    },
+    {
+      "name": "血糖",
+      "count": 1
+    },
+    {
+      "name": "胰岛素",
+      "count": 1
+    },
+    {
+      "name": "并发症",
+      "count": 1
+    },
+    {
+      "name": "糖尿病前期",
+      "count": 1
+    },
+    {
+      "name": "消化系统",
+      "count": 1
+    },
+    {
+      "name": "胃",
+      "count": 1
+    },
+    {
+      "name": "肠道",
+      "count": 1
+    },
+    {
+      "name": "幽门螺杆菌",
+      "count": 1
+    },
+    {
+      "name": "便秘",
+      "count": 1
+    },
+    {
+      "name": "心脑血管",
+      "count": 1
+    },
+    {
+      "name": "高血压",
+      "count": 1
+    },
+    {
+      "name": "脑卒中",
+      "count": 1
+    },
+    {
+      "name": "运动",
+      "count": 1
+    },
+    {
+      "name": "心理健康",
+      "count": 1
+    },
+    {
+      "name": "情绪调节",
+      "count": 1
+    },
+    {
+      "name": "有氧运动",
       "count": 1
     },
     {
@@ -2669,10 +2833,6 @@
     },
     {
       "name": "情绪管理",
-      "count": 1
-    },
-    {
-      "name": "压力管理",
       "count": 1
     },
     {

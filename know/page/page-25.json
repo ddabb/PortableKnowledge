@@ -1,8 +1,129 @@
 {
   "page": 25,
   "totalPages": 28,
-  "totalItems": 545,
+  "totalItems": 554,
   "items": [
+    {
+      "filename": "资本结构.json",
+      "title": "资本结构",
+      "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "资本结构",
+        "最优资本结构"
+      ],
+      "wordCount": 1105,
+      "id": "132d229e1b8c363c"
+    },
+    {
+      "filename": "作业成本法.json",
+      "title": "作业成本法",
+      "description": "CPA财务成本管理作业成本法章节核心知识点，包括作业成本的计算和应用",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "作业成本法",
+        "作业成本计算"
+      ],
+      "wordCount": 1082,
+      "id": "95515ebefa36205d"
+    },
+    {
+      "filename": "风险与风险管理.json",
+      "title": "风险与风险管理",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "风险",
+        "风险管理",
+        "CPA"
+      ],
+      "wordCount": 325,
+      "id": "c8ef74778c2a8653"
+    },
+    {
+      "filename": "公司治理.json",
+      "title": "公司治理",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "公司治理",
+        "董事会",
+        "监事会",
+        "CPA"
+      ],
+      "wordCount": 319,
+      "id": "e25e79384e2ea402"
+    },
+    {
+      "filename": "国际化经营战略.json",
+      "title": "国际化经营战略",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "国际化经营",
+        "战略",
+        "CPA"
+      ],
+      "wordCount": 305,
+      "id": "d60db92a0a1e612d"
+    },
+    {
+      "filename": "内部控制.json",
+      "title": "内部控制",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "内部控制",
+        "COSO框架",
+        "CPA"
+      ],
+      "wordCount": 353,
+      "id": "2f119a4f008efbc3"
+    },
+    {
+      "filename": "数字化转型战略.json",
+      "title": "数字化转型战略",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "数字化转型",
+        "战略",
+        "CPA"
+      ],
+      "wordCount": 395,
+      "id": "905b4983f825a260"
+    },
+    {
+      "filename": "战略分析.json",
+      "title": "战略分析",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略分析",
+        "外部环境",
+        "内部环境",
+        "CPA"
+      ],
+      "wordCount": 391,
+      "id": "d20a69426118ea9f"
+    },
+    {
+      "filename": "战略管理概述.json",
+      "title": "战略管理概述",
+      "description": "",
+      "category": "注册会计师/公司战略与风险管理",
+      "tags": [
+        "战略管理",
+        "公司战略",
+        "CPA"
+      ],
+      "wordCount": 272,
+      "id": "fc146a253ac6f230"
+    },
     {
       "filename": "战略控制.json",
       "title": "战略控制",
@@ -156,132 +277,6 @@
       ],
       "wordCount": 1132,
       "id": "602d76b9bea46d42"
-    },
-    {
-      "filename": "投资性房地产.json",
-      "title": "投资性房地产",
-      "description": "CPA会计投资性房地产章节核心知识点，包括投资性房地产的确认、计量和转换",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "投资性房地产",
-        "计量模式"
-      ],
-      "wordCount": 1634,
-      "id": "6459a2efc0496b74"
-    },
-    {
-      "filename": "无形资产.json",
-      "title": "无形资产",
-      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "无形资产",
-        "摊销"
-      ],
-      "wordCount": 1259,
-      "id": "b2a8b4a2135a7253"
-    },
-    {
-      "filename": "应付利息和应付股利.json",
-      "title": "应付利息和应付股利",
-      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应付利息",
-        "应付股利"
-      ],
-      "wordCount": 668,
-      "id": "548bdca14739cb31"
-    },
-    {
-      "filename": "应付票据.json",
-      "title": "应付票据",
-      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应付票据",
-        "商业汇票"
-      ],
-      "wordCount": 762,
-      "id": "b6bd3ee4d13fca56"
-    },
-    {
-      "filename": "应付账款.json",
-      "title": "应付账款",
-      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应付账款",
-        "现金折扣"
-      ],
-      "wordCount": 1044,
-      "id": "2350ee48d8cc9b5b"
-    },
-    {
-      "filename": "应付职工薪酬.json",
-      "title": "应付职工薪酬",
-      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应付职工薪酬",
-        "核算"
-      ],
-      "wordCount": 1144,
-      "id": "568e00039dccb6b5"
-    },
-    {
-      "filename": "应交税费.json",
-      "title": "应交税费",
-      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应交税费",
-        "增值税"
-      ],
-      "wordCount": 1207,
-      "id": "42db45ed35059dd0"
-    },
-    {
-      "filename": "应收及预付款项.json",
-      "title": "应收及预付款项",
-      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "应收账款",
-        "应收票据"
-      ],
-      "wordCount": 1285,
-      "id": "b149d1a5237bfb5f"
-    },
-    {
-      "filename": "预收账款.json",
-      "title": "预收账款",
-      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "预收账款",
-        "核算"
-      ],
-      "wordCount": 702,
-      "id": "5a1db8a8635278a1"
     }
   ]
 }

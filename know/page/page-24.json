@@ -1,8 +1,145 @@
 {
   "page": 24,
   "totalPages": 28,
-  "totalItems": 545,
+  "totalItems": 554,
   "items": [
+    {
+      "filename": "人力资源管理概述.json",
+      "title": "人力资源管理概述",
+      "description": "中级经济师人力资源章节核心知识点，包括人力资源管理定义、职能、发展历程和战略人力资源管理",
+      "category": "中级经济师/人力资源",
+      "tags": [
+        "中级经济师",
+        "人力资源",
+        "人力资源管理",
+        "战略人力资源管理",
+        "人力资源规划",
+        "招聘与配置"
+      ],
+      "wordCount": 3183,
+      "id": "19ca30d7a5e1b921"
+    },
+    {
+      "filename": "人力资源规划.json",
+      "title": "人力资源规划",
+      "description": "中级经济师人力资源章节核心知识点，包括人力资源规划定义、流程、方法和实施",
+      "category": "中级经济师/人力资源",
+      "tags": [
+        "中级经济师",
+        "人力资源",
+        "人力资源规划",
+        "需求预测",
+        "供给预测",
+        "人力资源计划"
+      ],
+      "wordCount": 3023,
+      "id": "878dd468aadba640"
+    },
+    {
+      "filename": "招聘与配置.json",
+      "title": "招聘与配置",
+      "description": "中级经济师人力资源章节核心知识点，包括招聘定义、流程、渠道和配置方法",
+      "category": "中级经济师/人力资源",
+      "tags": [
+        "中级经济师",
+        "人力资源",
+        "招聘与配置",
+        "招聘渠道",
+        "选拔方法",
+        "人员配置"
+      ],
+      "wordCount": 1961,
+      "id": "a7dce44ebfac4cbf"
+    },
+    {
+      "filename": "组织行为学概述.json",
+      "title": "组织行为学概述",
+      "description": "中级经济师人力资源章节核心知识点，包括组织行为学定义、研究对象、基本理论和研究方法",
+      "category": "中级经济师/人力资源",
+      "tags": [
+        "中级经济师",
+        "人力资源",
+        "组织行为学",
+        "个体行为",
+        "群体行为",
+        "组织行为"
+      ],
+      "wordCount": 2187,
+      "id": "f4d8fb67f1127bde"
+    },
+    {
+      "filename": "金融市场概述.json",
+      "title": "金融市场概述",
+      "description": "中级经济师金融章节核心知识点，包括金融市场定义、类型、功能和发展趋势",
+      "category": "中级经济师/专业科目",
+      "tags": [
+        "中级经济师",
+        "金融",
+        "金融市场",
+        "货币市场",
+        "资本市场",
+        "金融工具"
+      ],
+      "wordCount": 1860,
+      "id": "bda87b9b4d9beb05"
+    },
+    {
+      "filename": "企业战略管理.json",
+      "title": "企业战略管理",
+      "description": "中级经济师工商管理章节核心知识点，包括企业战略定义、类型、制定过程和实施",
+      "category": "中级经济师/专业科目",
+      "tags": [
+        "中级经济师",
+        "工商管理",
+        "企业战略",
+        "战略管理",
+        "战略制定",
+        "战略实施"
+      ],
+      "wordCount": 2101,
+      "id": "776f43da18e81d08"
+    },
+    {
+      "filename": "核心考点.json",
+      "title": "注册会计师考试核心考点",
+      "description": "CPA备考知识体系：会计、审计、财管、税法、经济法、公司战略核心考点",
+      "category": "注册会计师",
+      "tags": [
+        "CPA",
+        "会计",
+        "审计"
+      ],
+      "wordCount": 30,
+      "id": "f6856ff8e910a234"
+    },
+    {
+      "filename": "本量利分析.json",
+      "title": "本量利分析",
+      "description": "CPA财务成本管理本量利分析章节核心知识点，包括成本、业务量和利润之间的关系",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "本量利分析",
+        "盈亏平衡分析"
+      ],
+      "wordCount": 1238,
+      "id": "e69fb0be6ed42e87"
+    },
+    {
+      "filename": "标准成本法.json",
+      "title": "标准成本法",
+      "description": "CPA财务成本管理标准成本法章节核心知识点，包括标准成本的制定和差异分析",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "标准成本法",
+        "差异分析"
+      ],
+      "wordCount": 1197,
+      "id": "ada36c7df44cfc8c"
+    },
     {
       "filename": "财务报表分析.json",
       "title": "财务报表分析",
@@ -156,127 +293,6 @@
       ],
       "wordCount": 1077,
       "id": "b92a62598fbda8c6"
-    },
-    {
-      "filename": "资本结构.json",
-      "title": "资本结构",
-      "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "资本结构",
-        "最优资本结构"
-      ],
-      "wordCount": 1105,
-      "id": "132d229e1b8c363c"
-    },
-    {
-      "filename": "作业成本法.json",
-      "title": "作业成本法",
-      "description": "CPA财务成本管理作业成本法章节核心知识点，包括作业成本的计算和应用",
-      "category": "注册会计师/财务成本管理",
-      "tags": [
-        "CPA",
-        "财务成本管理",
-        "作业成本法",
-        "作业成本计算"
-      ],
-      "wordCount": 1082,
-      "id": "95515ebefa36205d"
-    },
-    {
-      "filename": "风险与风险管理.json",
-      "title": "风险与风险管理",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "风险",
-        "风险管理",
-        "CPA"
-      ],
-      "wordCount": 325,
-      "id": "c8ef74778c2a8653"
-    },
-    {
-      "filename": "公司治理.json",
-      "title": "公司治理",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "公司治理",
-        "董事会",
-        "监事会",
-        "CPA"
-      ],
-      "wordCount": 319,
-      "id": "e25e79384e2ea402"
-    },
-    {
-      "filename": "国际化经营战略.json",
-      "title": "国际化经营战略",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "国际化经营",
-        "战略",
-        "CPA"
-      ],
-      "wordCount": 305,
-      "id": "d60db92a0a1e612d"
-    },
-    {
-      "filename": "内部控制.json",
-      "title": "内部控制",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "内部控制",
-        "COSO框架",
-        "CPA"
-      ],
-      "wordCount": 353,
-      "id": "2f119a4f008efbc3"
-    },
-    {
-      "filename": "数字化转型战略.json",
-      "title": "数字化转型战略",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "数字化转型",
-        "战略",
-        "CPA"
-      ],
-      "wordCount": 395,
-      "id": "905b4983f825a260"
-    },
-    {
-      "filename": "战略分析.json",
-      "title": "战略分析",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略分析",
-        "外部环境",
-        "内部环境",
-        "CPA"
-      ],
-      "wordCount": 391,
-      "id": "d20a69426118ea9f"
-    },
-    {
-      "filename": "战略管理概述.json",
-      "title": "战略管理概述",
-      "description": "",
-      "category": "注册会计师/公司战略与风险管理",
-      "tags": [
-        "战略管理",
-        "公司战略",
-        "CPA"
-      ],
-      "wordCount": 272,
-      "id": "fc146a253ac6f230"
     }
   ]
 }

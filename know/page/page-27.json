@@ -1,8 +1,130 @@
 {
   "page": 27,
   "totalPages": 28,
-  "totalItems": 545,
+  "totalItems": 554,
   "items": [
+    {
+      "filename": "涉外经济法律制度概述.json",
+      "title": "涉外经济法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "涉外经济法律制度",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "id": "3b46227da5fa1039"
+    },
+    {
+      "filename": "物权法概述.json",
+      "title": "物权法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "物权法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 227,
+      "id": "fcba634f56916172"
+    },
+    {
+      "filename": "证券法概述.json",
+      "title": "证券法概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "证券法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 281,
+      "id": "50fe1fd4db5165f0"
+    },
+    {
+      "filename": "知识产权法律制度概述.json",
+      "title": "知识产权法律制度概述",
+      "description": "",
+      "category": "注册会计师/经济法",
+      "tags": [
+        "知识产权法律制度",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 264,
+      "id": "8efeb824fe4f7d9a"
+    },
+    {
+      "filename": "采购与付款循环审计.json",
+      "title": "采购与付款循环审计",
+      "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "采购与付款循环",
+        "内部控制"
+      ],
+      "wordCount": 1060,
+      "id": "5e0a4dc4e760fc53"
+    },
+    {
+      "filename": "风险评估.json",
+      "title": "风险评估",
+      "description": "CPA审计风险评估章节核心知识点，包括风险评估程序和重大错报风险评估",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "风险评估",
+        "重大错报风险"
+      ],
+      "wordCount": 925,
+      "id": "05e487191787af09"
+    },
+    {
+      "filename": "会计师事务所质量控制.json",
+      "title": "会计师事务所质量控制",
+      "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "质量控制",
+        "要素程序"
+      ],
+      "wordCount": 1634,
+      "id": "6382ed54c5889567"
+    },
+    {
+      "filename": "货币资金审计.json",
+      "title": "货币资金审计",
+      "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "货币资金",
+        "内部控制"
+      ],
+      "wordCount": 784,
+      "id": "bd85c1e789684a32"
+    },
+    {
+      "filename": "内部控制审计.json",
+      "title": "内部控制审计",
+      "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "内部控制审计",
+        "内部控制"
+      ],
+      "wordCount": 1156,
+      "id": "85b4de9995f649ea"
+    },
     {
       "filename": "审计报告.json",
       "title": "审计报告",
@@ -155,127 +277,6 @@
       ],
       "wordCount": 419,
       "id": "f18e2515104afc66"
-    },
-    {
-      "filename": "房产税.json",
-      "title": "房产税",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "房产税",
-        "税法",
-        "CPA"
-      ],
-      "wordCount": 286,
-      "id": "877daef2d9bb5f59"
-    },
-    {
-      "filename": "个人所得税概述.json",
-      "title": "个人所得税概述",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "个人所得税",
-        "税法",
-        "CPA"
-      ],
-      "wordCount": 550,
-      "id": "9ddf90f68934eb79"
-    },
-    {
-      "filename": "个人所得税税收优惠.json",
-      "title": "个人所得税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "个人所得税",
-        "税收优惠",
-        "减免税",
-        "CPA"
-      ],
-      "wordCount": 549,
-      "id": "215c769b099e3c2f"
-    },
-    {
-      "filename": "个人所得税应纳税额计算.json",
-      "title": "个人所得税应纳税额计算",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "个人所得税",
-        "应纳税额",
-        "计算",
-        "CPA"
-      ],
-      "wordCount": 759,
-      "id": "978350a148cbae33"
-    },
-    {
-      "filename": "企业所得税概述.json",
-      "title": "企业所得税概述",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "企业所得税",
-        "税法",
-        "CPA"
-      ],
-      "wordCount": 395,
-      "id": "d73ba40442f0aeea"
-    },
-    {
-      "filename": "企业所得税税收优惠.json",
-      "title": "企业所得税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "企业所得税",
-        "税收优惠",
-        "减免税",
-        "CPA"
-      ],
-      "wordCount": 929,
-      "id": "de2aa7c5c7accbcc"
-    },
-    {
-      "filename": "企业所得税应纳税所得额.json",
-      "title": "企业所得税应纳税所得额",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "企业所得税",
-        "应纳税所得额",
-        "计算",
-        "CPA"
-      ],
-      "wordCount": 941,
-      "id": "2307cec8cfad239d"
-    },
-    {
-      "filename": "土地增值税.json",
-      "title": "土地增值税",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "土地增值税",
-        "税法",
-        "CPA"
-      ],
-      "wordCount": 638,
-      "id": "e7718a8ce428646e"
-    },
-    {
-      "filename": "消费税概述.json",
-      "title": "消费税概述",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "消费税",
-        "税法",
-        "CPA"
-      ],
-      "wordCount": 489,
-      "id": "8a60a154349ac4a8"
     }
   ]
 }
