@@ -1,8 +1,110 @@
 {
   "page": 19,
   "totalPages": 30,
-  "totalItems": 581,
+  "totalItems": 588,
   "items": [
+    {
+      "filename": "系统架构.json",
+      "title": "系统架构",
+      "description": "架构概论、系统架构设计原则",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "系统架构",
+        "架构设计",
+        "TOGAF",
+        "ADM",
+        "价值驱动"
+      ],
+      "wordCount": 1213,
+      "id": "4d18d608c6f5855a"
+    },
+    {
+      "filename": "信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
+      ],
+      "wordCount": 1272,
+      "id": "0abfa84f1b5a76b3"
+    },
+    {
+      "filename": "信息技术服务.json",
+      "title": "信息技术服务",
+      "description": "IT服务内涵、特征、原理与组成",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "IT服务",
+        "PPTR",
+        "服务特征",
+        "人员",
+        "过程",
+        "技术",
+        "资源"
+      ],
+      "wordCount": 991,
+      "id": "794574c48071d0bb"
+    },
+    {
+      "filename": "信息系统及其特性.json",
+      "title": "信息系统及其特性",
+      "description": "信息系统是结合管理理论和方法，应用信息技术解决管理问题，提高生产效率的系统。信息系统具有开放性、脆弱性和健壮性等突出特性。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息系统",
+        "软考备考"
+      ],
+      "wordCount": 543,
+      "id": "1cd8778c4ef5a853"
+    },
+    {
+      "filename": "应用集成.json",
+      "title": "应用集成",
+      "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "应用集成",
+        "EAI",
+        "ESB",
+        "SOA",
+        "业务应用集成"
+      ],
+      "wordCount": 1505,
+      "id": "44ad11c8fc4dfbff"
+    },
+    {
+      "filename": "应用架构.json",
+      "title": "应用架构",
+      "description": "应用架构模式、SOA与微服务",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "应用架构",
+        "SOA",
+        "微服务",
+        "MVC",
+        "分层分域"
+      ],
+      "wordCount": 844,
+      "id": "e9f728e7f7a1ea26"
+    },
+    {
+      "filename": "云计算与虚拟化.json",
+      "title": "云计算与虚拟化",
+      "description": "软考中项云计算核心知识，包括云计算三种服务模式、四种部署方式及虚拟化技术要点。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "云计算",
+        "虚拟化",
+        "IaaS",
+        "系统集成"
+      ],
+      "wordCount": 989,
+      "id": "668c8b1ad8186950"
+    },
     {
       "filename": "IT服务标准化.json",
       "title": "IT服务标准化",
@@ -188,96 +290,6 @@
       ],
       "wordCount": 1220,
       "id": "7fdb4b2adeb101bf"
-    },
-    {
-      "filename": "需求工程.json",
-      "title": "需求工程",
-      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "需求工程",
-        "需求分析",
-        "SRS",
-        "需求变更"
-      ],
-      "wordCount": 1170,
-      "id": "e6e021df007bc16e"
-    },
-    {
-      "filename": "裁剪.json",
-      "title": "裁剪",
-      "description": "项目经理通常将项目管理方法论应用于工作。方法论是由专门的从业人员所采用的实践、技术、程序和规则所组成的体系。根据这一定义，本指南本身并不是方法论。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "PMP"
-      ],
-      "wordCount": 642,
-      "id": "fd1269f820880db7"
-    },
-    {
-      "filename": "大数据.json",
-      "title": "大数据",
-      "description": "大数据特征、处理流程、关键技术及应用",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "5V特征",
-        "数据处理",
-        "Hadoop",
-        "Spark",
-        "数据挖掘"
-      ],
-      "wordCount": 932,
-      "id": "efd97da51b1af147"
-    },
-    {
-      "filename": "道德与专业行为规范.json",
-      "title": "道德与专业行为规范",
-      "description": "PMI 发布了《道德与专业行为规范》[5]，为项目管理专业人员增强了信心并帮助个人做出明智的决策，尤其是在面对被要求违背正直诚信或价值观的困境时。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "指南概述和目的"
-      ],
-      "wordCount": 326,
-      "id": "2f4ed6e3b5fc22fc"
-    },
-    {
-      "filename": "工业互联网.json",
-      "title": "工业互联网",
-      "description": "工业互联网是新一代信息通信技术与工业经济深度融合的新型基础设施、应用模式和工业生态，通过对人、机、物、系统等的全面连接，构建起覆盖全产业链、全价值链的全新制造和服务体系。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "工业互联网",
-        "软考备考"
-      ],
-      "wordCount": 544,
-      "id": "3e722211e2851ef8"
-    },
-    {
-      "filename": "价值交付系统.json",
-      "title": "价值交付系统",
-      "description": "价值创造方式、价值交付组件、信息流",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "价值交付",
-        "PMP",
-        "PMBOK"
-      ],
-      "wordCount": 2007,
-      "id": "736351a7ddd126ce"
-    },
-    {
-      "filename": "阶段关口.json",
-      "title": "阶段关口",
-      "description": "阶段关口在项目阶段结束时进行，将项目的绩效和进度与项目和业务文件比较，这些文件包括（ 但不限于）：",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分"
-      ],
-      "wordCount": 238,
-      "id": "880fb41ab2ba7f95"
     }
   ]
 }

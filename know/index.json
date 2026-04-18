@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalArticles": 581,
+    "totalArticles": 588,
     "totalCategories": 72,
-    "totalTags": 1015
+    "totalTags": 1023
   },
   "categories": [
     {
@@ -122,6 +122,10 @@
       "count": 9
     },
     {
+      "name": "软考/综合知识/软考备考",
+      "count": 8
+    },
+    {
       "name": "软考/综合知识/法律法规与标准",
       "count": 7
     },
@@ -239,10 +243,6 @@
     },
     {
       "name": "认知思维/学习方法",
-      "count": 1
-    },
-    {
-      "name": "软考/综合知识/软考备考",
       "count": 1
     },
     {

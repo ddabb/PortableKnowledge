@@ -1,8 +1,102 @@
 {
   "page": 21,
   "totalPages": 30,
-  "totalItems": 581,
+  "totalItems": 588,
   "items": [
+    {
+      "filename": "项目管理的重要性.json",
+      "title": "项目管理的重要性",
+      "description": "项目管理就是将知识、技能、工具与技术应用于项目活动，以满足项目的要求。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "项目管理"
+      ],
+      "wordCount": 570,
+      "id": "28fbf90f2e86835c"
+    },
+    {
+      "filename": "项目管理过程.json",
+      "title": "项目管理过程",
+      "description": "项目生命周期是通过一系列项目管理活动进行的，即项目管理过程。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分",
+        "项目管理",
+        "PMP",
+        "项目管理知识体系"
+      ],
+      "wordCount": 466,
+      "id": "be6b15a9b2452508"
+    },
+    {
+      "filename": "项目管理过程组.json",
+      "title": "项目管理过程组",
+      "description": "项目管理过程组指对项目管理过程进行逻辑分组，以达成项目的特定目标。过程组不同于项目阶段。项目管理过程可分为以下五个项目管理过程组：",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分",
+        "项目管理",
+        "项目管理知识体系"
+      ],
+      "wordCount": 421,
+      "id": "f0df280cd576e7ae"
+    },
+    {
+      "filename": "项目管理数据和信息.json",
+      "title": "项目管理数据和信息",
+      "description": "整个项目生命周期需要收集、分析和转化大量的数据。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分",
+        "项目管理"
+      ],
+      "wordCount": 500,
+      "id": "f329a5f6998c2a5a"
+    },
+    {
+      "filename": "项目管理原则.json",
+      "title": "项目管理原则",
+      "description": "PMBOK第7版定义的12个项目管理原则",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "项目管理原则",
+        "PMP",
+        "PMBOK"
+      ],
+      "wordCount": 2301,
+      "id": "aa80d2be512fd91a"
+    },
+    {
+      "filename": "项目管理知识领域.json",
+      "title": "项目管理知识领域",
+      "description": "10个知识领域概述、5个过程组与知识领域的矩阵关系",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "知识领域",
+        "PMP",
+        "PMBOK",
+        "项目管理"
+      ],
+      "wordCount": 1779,
+      "id": "21c05eebccbacefb"
+    },
+    {
+      "filename": "项目和开发生命周期.json",
+      "title": "项目和开发生命周期",
+      "description": "项目生命周期指项目从启动到完成所经历的一系列阶段。",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "基本要素",
+        "指南的组成部分",
+        "项目管理"
+      ],
+      "wordCount": 810,
+      "id": "d3a5008427d010e5"
+    },
     {
       "filename": "项目基本要素.json",
       "title": "项目基本要素",
@@ -175,106 +269,6 @@
       ],
       "wordCount": 409,
       "id": "be384342350e68e2"
-    },
-    {
-      "filename": "云计算.json",
-      "title": "云计算",
-      "description": "云计算概念、服务模式、部署模式及关键技术",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "IaaS",
-        "PaaS",
-        "SaaS",
-        "虚拟化",
-        "云存储",
-        "分布式计算"
-      ],
-      "wordCount": 994,
-      "id": "51de51bc04ef8c7d"
-    },
-    {
-      "filename": "指南概述和目的.json",
-      "title": "指南概述和目的",
-      "description": "项目管理并非新概念，它已存在数百年之久。项目成果的例子包括：",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "指南概述和目的",
-        "PMP"
-      ],
-      "wordCount": 918,
-      "id": "8105ec5194a73f2f"
-    },
-    {
-      "filename": "PMBOK的发展.json",
-      "title": "PMBOK的发展",
-      "description": "PMBOK各版本演变历程及关键变化",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "PMBOK",
-        "PMI",
-        "项目管理",
-        "版本演变"
-      ],
-      "wordCount": 986,
-      "id": "e5768cb7ba885bba"
-    },
-    {
-      "filename": "安全防范综合指南.json",
-      "title": "安全防范综合指南",
-      "description": "全面的安全防范知识，包括诈骗防范、赌博防范等内容",
-      "category": "生活通识/安全防范",
-      "tags": [
-        "安全防范",
-        "诈骗",
-        "赌博",
-        "个人信息保护"
-      ],
-      "wordCount": 2524,
-      "id": "29dd80ae24a63146"
-    },
-    {
-      "filename": "急救知识综合指南.json",
-      "title": "急救知识综合指南",
-      "description": "全面的急救知识，包括心肺复苏、AED使用等内容",
-      "category": "生活通识/急救知识",
-      "tags": [
-        "急救知识",
-        "心肺复苏",
-        "AED",
-        "紧急救援"
-      ],
-      "wordCount": 1921,
-      "id": "e779f911e981f3c9"
-    },
-    {
-      "filename": "癌症预防指南.json",
-      "title": "癌症预防指南：风险评估与早期筛查",
-      "description": "科学的癌症预防知识，包括风险评估、生活方式调整、筛查建议和常见误区。",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "癌症",
-        "肿瘤",
-        "筛查",
-        "预防",
-        "早期发现"
-      ],
-      "wordCount": 1895,
-      "id": "011ddaf520cd97c9"
-    },
-    {
-      "filename": "悲伤管理与自我接纳.json",
-      "title": "悲伤管理与自我接纳：在失去中找到力量",
-      "description": "面对悲伤与失落的正确方式，学会自我接纳与在痛苦中成长",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "悲伤",
-        "自我接纳",
-        "心理韧性",
-        "情绪管理",
-        "自我同情"
-      ],
-      "wordCount": 1701,
-      "id": "4cbcb2b395ab5cd6"
     }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "meta": {
     "tag": "需求变更",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "案例分析-范围管理问题.json",
+      "title": "案例分析 - 范围管理问题",
+      "description": "软考中项案例分析：范围蔓延、需求变更、验收问题等解题框架",
+      "category": "软考/综合知识/软考备考",
+      "tags": [
+        "软考备考",
+        "案例分析",
+        "范围管理",
+        "需求变更",
+        "范围蔓延"
+      ],
+      "wordCount": 1454,
+      "id": "ee1e3a98bf8faf01"
+    },
     {
       "filename": "需求工程.json",
       "title": "需求工程",
