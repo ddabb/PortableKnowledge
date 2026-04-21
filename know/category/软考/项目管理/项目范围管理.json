@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "软考/项目管理/项目范围管理",
-    "count": 18
+    "count": 19
   },
   "articles": [
     {
@@ -20,7 +20,7 @@
     {
       "filename": "创建WBS.json",
       "title": "创建WBS",
-      "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
+      "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程，是PMBOK规划范围管理的核心过程之一。",
       "category": "软考/项目管理/项目范围管理",
       "tags": [
         "规划过程组",
@@ -28,20 +28,8 @@
         "WBS",
         "PMP"
       ],
-      "wordCount": 324,
+      "wordCount": 783,
       "id": "c4254a24136b8269"
-    },
-    {
-      "filename": "wbs.json",
-      "title": "创建WBS",
-      "description": "创建工作分解结构（WBS）是把项目可交付成果和项目工作分解成较小、更易于管理的组件的过程。",
-      "category": "软考/项目管理/项目范围管理",
-      "tags": [
-        "WBS",
-        "PMP"
-      ],
-      "wordCount": 377,
-      "id": "819f0fba5f2d239e"
     },
     {
       "filename": "定义范围.json",
@@ -55,6 +43,22 @@
       ],
       "wordCount": 430,
       "id": "e9fcd2f975d3c694"
+    },
+    {
+      "filename": "范围管理裁剪指南.json",
+      "title": "范围管理裁剪指南",
+      "description": "范围管理各过程的裁剪思路：规划范围管理、收集需求、定义范围、创建WBS、确认范围、控制范围的裁剪决策与适用场景。",
+      "category": "软考/项目管理/项目范围管理",
+      "tags": [
+        "范围管理",
+        "裁剪",
+        "范围管理计划",
+        "WBS",
+        "范围基准",
+        "需求管理"
+      ],
+      "wordCount": 4207,
+      "id": "3cb3ad05f594f59e"
     },
     {
       "filename": "范围管理计划.json",
@@ -230,6 +234,20 @@
       ],
       "wordCount": 316,
       "id": "e9bccdb0e43fed18"
+    },
+    {
+      "filename": "wbs.json",
+      "title": "WBS（工作分解结构）",
+      "description": "工作分解结构（WBS）的概念、创建方法、分解原则与WBS词典，是范围管理的核心工具。",
+      "category": "软考/项目管理/项目范围管理",
+      "tags": [
+        "WBS",
+        "工作分解结构",
+        "范围管理",
+        "PMP"
+      ],
+      "wordCount": 853,
+      "id": "819f0fba5f2d239e"
     }
   ]
 }

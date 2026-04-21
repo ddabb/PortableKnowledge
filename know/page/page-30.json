@@ -1,8 +1,130 @@
 {
   "page": 30,
   "totalPages": 30,
-  "totalItems": 588,
+  "totalItems": 597,
   "items": [
+    {
+      "filename": "销售与收款循环审计.json",
+      "title": "销售与收款循环审计",
+      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "销售与收款循环",
+        "内部控制"
+      ],
+      "wordCount": 1067,
+      "id": "883f48c880c7679e"
+    },
+    {
+      "filename": "注册会计师职业道德.json",
+      "title": "注册会计师职业道德",
+      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "职业道德",
+        "基本原则"
+      ],
+      "wordCount": 1126,
+      "id": "a1173c0d033fea11"
+    },
+    {
+      "filename": "车船税.json",
+      "title": "车船税",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "车船税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 419,
+      "id": "f18e2515104afc66"
+    },
+    {
+      "filename": "房产税.json",
+      "title": "房产税",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "房产税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 286,
+      "id": "877daef2d9bb5f59"
+    },
+    {
+      "filename": "个人所得税概述.json",
+      "title": "个人所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 550,
+      "id": "9ddf90f68934eb79"
+    },
+    {
+      "filename": "个人所得税税收优惠.json",
+      "title": "个人所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 549,
+      "id": "215c769b099e3c2f"
+    },
+    {
+      "filename": "个人所得税应纳税额计算.json",
+      "title": "个人所得税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "应纳税额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 759,
+      "id": "978350a148cbae33"
+    },
+    {
+      "filename": "企业所得税概述.json",
+      "title": "企业所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 395,
+      "id": "d73ba40442f0aeea"
+    },
+    {
+      "filename": "企业所得税税收优惠.json",
+      "title": "企业所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 929,
+      "id": "de2aa7c5c7accbcc"
+    },
     {
       "filename": "企业所得税应纳税所得额.json",
       "title": "企业所得税应纳税所得额",

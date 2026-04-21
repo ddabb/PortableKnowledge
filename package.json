@@ -8,9 +8,10 @@
     "dev": "node build.js"
   },
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^5.6.205"
   },
-  "devDependencies": {},
   "keywords": [
     "knowledge",
     "builder",

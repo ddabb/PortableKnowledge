@@ -1,8 +1,21 @@
 {
   "page": 9,
   "totalPages": 30,
-  "totalItems": 588,
+  "totalItems": 597,
   "items": [
+    {
+      "filename": "规划范围管理.json",
+      "title": "规划范围管理",
+      "description": "规划范围管理是为记录如何定义、确认和控制项目范围及产品范围，而创建范围管理计划的过程。",
+      "category": "软考/项目管理/项目范围管理",
+      "tags": [
+        "规划过程组",
+        "规划范围管理",
+        "PMP"
+      ],
+      "wordCount": 298,
+      "id": "7b6962fb2c1401bd"
+    },
     {
       "filename": "控制范围.json",
       "title": "控制范围",
@@ -129,6 +142,20 @@
       "id": "e9bccdb0e43fed18"
     },
     {
+      "filename": "wbs.json",
+      "title": "WBS（工作分解结构）",
+      "description": "工作分解结构（WBS）的概念、创建方法、分解原则与WBS词典，是范围管理的核心工具。",
+      "category": "软考/项目管理/项目范围管理",
+      "tags": [
+        "WBS",
+        "工作分解结构",
+        "范围管理",
+        "PMP"
+      ],
+      "wordCount": 853,
+      "id": "819f0fba5f2d239e"
+    },
+    {
       "filename": "不确定性表现方式.json",
       "title": "不确定性表现方式",
       "description": "要开展定量风险分析，就需要建立能反映单个项目风险和其他不确定性来源的定量风险分析模型，并为之提供输入。",
@@ -232,34 +259,6 @@
       ],
       "wordCount": 391,
       "id": "23ef1fe06f776588"
-    },
-    {
-      "filename": "识别风险.json",
-      "title": "识别风险",
-      "description": "识别风险是识别单个项目风险以及整体项目风险的来源，并记录风险特征的过程。",
-      "category": "软考/项目管理/项目风险管理",
-      "tags": [
-        "规划过程组",
-        "识别风险",
-        "风险管理",
-        "PMP"
-      ],
-      "wordCount": 633,
-      "id": "57ee24b1c0b9ab2f"
-    },
-    {
-      "filename": "实施定量风险分析.json",
-      "title": "实施定量风险分析",
-      "description": "实施定量风险分析是就已识别的单个项目风险和不确定性的其他来源对整体项目目标的影响进行定量分析的过程。",
-      "category": "软考/项目管理/项目风险管理",
-      "tags": [
-        "规划过程组",
-        "定量风险分析",
-        "风险管理",
-        "PMP"
-      ],
-      "wordCount": 1454,
-      "id": "635fd39d6b9e5c81"
     }
   ]
 }
