@@ -1,8 +1,20 @@
 {
   "page": 12,
   "totalPages": 30,
-  "totalItems": 597,
+  "totalItems": 598,
   "items": [
+    {
+      "filename": "自下而上估算.json",
+      "title": "自下而上估算",
+      "description": "自下而上估算是一种估算项目持续时间或成本的方法，通过从下到上逐层汇总 WBS 组成部分的估算而得到项目估算。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "估算活动持续时间"
+      ],
+      "wordCount": 188,
+      "id": "fcd73f1215a8cb4e"
+    },
     {
       "filename": "背景层面的整合.json",
       "title": "背景层面的整合",
@@ -239,19 +251,6 @@
       ],
       "wordCount": 946,
       "id": "6c9a12a5b02fd37d"
-    },
-    {
-      "filename": "相关方参与计划.json",
-      "title": "相关方参与计划",
-      "description": "它确定用于促进相关方有效参与决策和执行的策略和行动。",
-      "category": "软考/项目管理/项目相关方管理",
-      "tags": [
-        "规划过程组",
-        "规划相关方参与",
-        "干系人管理"
-      ],
-      "wordCount": 125,
-      "id": "dff38ea467d9ec02"
     }
   ]
 }

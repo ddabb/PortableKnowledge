@@ -1,8 +1,21 @@
 {
   "page": 22,
   "totalPages": 30,
-  "totalItems": 597,
+  "totalItems": 598,
   "items": [
+    {
+      "filename": "项目立项管理.json",
+      "title": "项目立项管理",
+      "description": "项目建议与立项申请、可行性研究、项目评估与决策",
+      "category": "软考/综合知识/引论",
+      "tags": [
+        "项目立项",
+        "可行性研究",
+        "项目评估"
+      ],
+      "wordCount": 2367,
+      "id": "97c4ef457af336d5"
+    },
     {
       "filename": "项目商业论证.json",
       "title": "项目商业论证",
@@ -267,21 +280,6 @@
       ],
       "wordCount": 1495,
       "id": "8e655c4e57db1674"
-    },
-    {
-      "filename": "健康饮食建议.json",
-      "title": "健康饮食建议：吃什么、怎么吃",
-      "description": "科学的健康饮食指南，包括均衡营养、控制热量、选择健康食物等建议。",
-      "category": "生活通识/健康养生",
-      "tags": [
-        "饮食",
-        "营养",
-        "健康饮食",
-        "膳食纤维",
-        "减盐减糖"
-      ],
-      "wordCount": 1365,
-      "id": "fe3b6104c7724da6"
     }
   ]
 }

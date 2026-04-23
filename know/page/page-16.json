@@ -1,8 +1,20 @@
 {
   "page": 16,
   "totalPages": 30,
-  "totalItems": 597,
+  "totalItems": 598,
   "items": [
+    {
+      "filename": "控制资源.json",
+      "title": "控制资源",
+      "description": "控制资源是确保按计划为项目分配实物资源，以及根据资源使用计划监督资源实际使用情况，并采取必要纠正措施的过程。",
+      "category": "软考/项目管理/项目资源管理",
+      "tags": [
+        "监控过程组",
+        "控制资源"
+      ],
+      "wordCount": 444,
+      "id": "cceca3c534f2abc2"
+    },
     {
       "filename": "实物资源分配单.json",
       "title": "实物资源分配单",
@@ -252,21 +264,6 @@
       ],
       "wordCount": 1133,
       "id": "d681689dec42d2a6"
-    },
-    {
-      "filename": "职业道德规范.json",
-      "title": "职业道德规范",
-      "description": "项目管理工程师职业道德规范、岗位职责、团队管理责任及个人道德修养提升",
-      "category": "软考/综合知识/法律法规与标准",
-      "tags": [
-        "职业道德",
-        "项目管理工程师",
-        "岗位职责",
-        "团队管理",
-        "道德修养"
-      ],
-      "wordCount": 1786,
-      "id": "7571d6c20b4dac1c"
     }
   ]
 }

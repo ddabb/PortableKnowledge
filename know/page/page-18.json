@@ -1,8 +1,22 @@
 {
   "page": 18,
   "totalPages": 30,
-  "totalItems": 597,
+  "totalItems": 598,
   "items": [
+    {
+      "filename": "网络图与关键路径计算.json",
+      "title": "网络图与关键路径计算",
+      "description": "软考中项必考计算——网络图分析、关键路径法（CPM）及各节点时间参数计算方法与例题。",
+      "category": "软考/综合知识/计算题专项",
+      "tags": [
+        "网络图",
+        "关键路径",
+        "CPM",
+        "计算题"
+      ],
+      "wordCount": 1130,
+      "id": "31c4b9b088ef715f"
+    },
     {
       "filename": "挣值分析计算专项.json",
       "title": "挣值分析计算专项",
@@ -273,21 +287,6 @@
       ],
       "wordCount": 1615,
       "id": "7137f6238a7839b4"
-    },
-    {
-      "filename": "数据架构.json",
-      "title": "数据架构",
-      "description": "数据架构设计、数据建模",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "数据架构",
-        "数据分层",
-        "数据建模",
-        "数据仓库",
-        "大数据"
-      ],
-      "wordCount": 919,
-      "id": "e4d7f2ae9837e94e"
     }
   ]
 }

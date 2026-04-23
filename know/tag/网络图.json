@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "网络图",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
@@ -21,6 +21,19 @@
       ],
       "wordCount": 4140,
       "id": "f804b62b314ee4ef"
+    },
+    {
+      "filename": "活动依赖关系类型.json",
+      "title": "活动依赖关系类型",
+      "description": "活动之间的四种逻辑关系类型（FS/SS/FF/SF）、紧前紧后活动概念及单双代号网络图。",
+      "category": "软考/项目管理/项目进度管理",
+      "tags": [
+        "规划过程组",
+        "排列活动顺序",
+        "网络图"
+      ],
+      "wordCount": 2292,
+      "id": "ca0a080d2bc3e3ba"
     },
     {
       "filename": "网络图与关键路径计算.json",

@@ -1,8 +1,22 @@
 {
   "page": 30,
   "totalPages": 30,
-  "totalItems": 597,
+  "totalItems": 598,
   "items": [
+    {
+      "filename": "特殊项目审计.json",
+      "title": "特殊项目审计",
+      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "特殊项目",
+        "舞弊风险"
+      ],
+      "wordCount": 1074,
+      "id": "ad003efcd7a46dec"
+    },
     {
       "filename": "销售与收款循环审计.json",
       "title": "销售与收款循环审计",

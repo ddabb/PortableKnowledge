@@ -1,8 +1,22 @@
 {
   "page": 28,
   "totalPages": 30,
-  "totalItems": 597,
+  "totalItems": 598,
   "items": [
+    {
+      "filename": "货币资金.json",
+      "title": "货币资金",
+      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
+      "category": "注册会计师/会计",
+      "tags": [
+        "CPA",
+        "会计",
+        "货币资金",
+        "现金管理"
+      ],
+      "wordCount": 1178,
+      "id": "33408f637aca0506"
+    },
     {
       "filename": "金融资产.json",
       "title": "金融资产",
@@ -264,20 +278,6 @@
       ],
       "wordCount": 318,
       "id": "103610937ddf56f5"
-    },
-    {
-      "filename": "经济纠纷解决方式.json",
-      "title": "经济纠纷解决方式",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "经济纠纷",
-        "解决方式",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 624,
-      "id": "6f28046aa934540d"
     }
   ]
 }

@@ -1,8 +1,22 @@
 {
   "page": 27,
   "totalPages": 30,
-  "totalItems": 597,
+  "totalItems": 598,
   "items": [
+    {
+      "filename": "业绩评价.json",
+      "title": "业绩评价",
+      "description": "CPA财务成本管理业绩评价章节核心知识点，包括责任中心业绩评价和平衡计分卡",
+      "category": "注册会计师/财务成本管理",
+      "tags": [
+        "CPA",
+        "财务成本管理",
+        "业绩评价",
+        "责任中心"
+      ],
+      "wordCount": 1454,
+      "id": "d53ebb5704b79ab8"
+    },
     {
       "filename": "营运资本管理.json",
       "title": "营运资本管理",
@@ -263,20 +277,6 @@
       ],
       "wordCount": 1300,
       "id": "44317f6c09f098d5"
-    },
-    {
-      "filename": "货币资金.json",
-      "title": "货币资金",
-      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
-      "category": "注册会计师/会计",
-      "tags": [
-        "CPA",
-        "会计",
-        "货币资金",
-        "现金管理"
-      ],
-      "wordCount": 1178,
-      "id": "33408f637aca0506"
     }
   ]
 }
