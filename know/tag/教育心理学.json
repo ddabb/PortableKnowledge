@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "小学教育心理学知识.json",
+      "filename": "小学_小学教育心理学知识.json",
       "title": "小学教育心理学知识",
       "description": "",
       "category": "教师资格证/小学",
@@ -18,7 +18,7 @@
       "id": "b73086b5633432e6"
     },
     {
-      "filename": "教育心理学案例分析.json",
+      "filename": "中学_教育心理学案例分析.json",
       "title": "教育心理学案例分析",
       "description": "",
       "category": "教师资格证/中学",
@@ -31,7 +31,7 @@
       "id": "a2c3c35dc85d4b1c"
     },
     {
-      "filename": "教育心理学知识.json",
+      "filename": "中学_教育心理学知识.json",
       "title": "教育心理学知识",
       "description": "",
       "category": "教师资格证/中学",
@@ -44,7 +44,7 @@
       "id": "3f7a8875e981abc4"
     },
     {
-      "filename": "教育学原理备考.json",
+      "filename": "考研专业课_教育学原理备考.json",
       "title": "教育学原理备考：从教育本质到师生关系",
       "description": "教育学原理、教育心理学、中外教育史、教育研究方法和课程教学德育的完整备考指南",
       "category": "考研专业课",

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "tag": "信息系统治理",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "组织治理与管理_IT治理基础.json",
+      "title": "IT治理基础",
+      "description": "IT治理定义、三大目标、管理层次、核心内容",
+      "category": "软考/综合知识/组织治理与管理",
+      "tags": [
+        "软考高项",
+        "IT治理",
+        "信息系统治理"
+      ],
+      "wordCount": 921,
+      "id": "b4282109c9ecbafc"
+    }
+  ]
+}

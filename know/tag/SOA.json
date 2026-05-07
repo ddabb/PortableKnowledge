@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "应用集成.json",
+      "filename": "系统集成基础_应用集成.json",
       "title": "应用集成",
       "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
       "category": "软考/综合知识/系统集成基础",
@@ -20,7 +20,7 @@
       "id": "44ad11c8fc4dfbff"
     },
     {
-      "filename": "应用架构.json",
+      "filename": "系统集成基础_应用架构.json",
       "title": "应用架构",
       "description": "应用架构模式、SOA与微服务",
       "category": "软考/综合知识/系统集成基础",
@@ -35,7 +35,7 @@
       "id": "e9f728e7f7a1ea26"
     },
     {
-      "filename": "软件集成技术.json",
+      "filename": "信息系统开发_软件集成技术.json",
       "title": "软件集成技术",
       "description": "API、中间件、组件技术、SOA架构",
       "category": "软考/综合知识/信息系统开发",

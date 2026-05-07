@@ -1,290 +1,291 @@
 {
   "page": 20,
-  "totalPages": 30,
-  "totalItems": 598,
+  "totalPages": 33,
+  "totalItems": 641,
   "items": [
     {
-      "filename": "软件工程过程.json",
-      "title": "软件工程过程",
-      "description": "软件工程过程的定义、组成要素和主要活动",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "软件工程",
-        "过程管理",
-        "开发活动"
-      ],
-      "wordCount": 705,
-      "id": "65185a18e8df025f"
+      "filename": "数据流向图_数据流向图.json",
+      "title": "数据流向图",
+      "description": "数据流向图（DFD）的概念、组成元素与绘制要点",
+      "category": "软考/综合知识/数据流向图",
+      "tags": [],
+      "wordCount": 288,
+      "id": "c33b6fbcde05c601"
     },
     {
-      "filename": "软件集成技术.json",
-      "title": "软件集成技术",
-      "description": "API、中间件、组件技术、SOA架构",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_安全架构.json",
+      "title": "安全架构",
+      "description": "信息安全架构设计",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "软件集成",
-        "中间件",
-        "API",
-        "组件技术",
-        "SOA"
+        "安全架构",
+        "WPDRRC",
+        "信息安全",
+        "威胁防护",
+        "安全体系"
       ],
-      "wordCount": 1156,
-      "id": "f8a4a873312b7ef4"
+      "wordCount": 1067,
+      "id": "c7cce54551349698"
     },
     {
-      "filename": "软件开发模型.json",
-      "title": "软件开发模型",
-      "description": "软考中项软件开发模型核心考点，包括瀑布、螺旋、原型、敏捷、RUP、喷泉等模型的特点与适用场景。",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_存储与备份技术.json",
+      "title": "存储与备份技术",
+      "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "软件开发",
-        "开发模型",
-        "瀑布模型",
-        "敏捷开发",
-        "RUP",
-        "喷泉模型",
-        "增量模型",
-        "迭代模型",
-        "RAD",
-        "V模型"
+        "存储技术",
+        "RAID",
+        "备份",
+        "系统集成"
       ],
-      "wordCount": 2759,
-      "id": "ec7d44d960838dac"
+      "wordCount": 982,
+      "id": "df35da523c5af5d5"
     },
     {
-      "filename": "软件设计.json",
-      "title": "软件设计",
-      "description": "结构化设计、面向对象设计、UML、设计原则",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_访问控制.json",
+      "title": "访问控制",
+      "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "软件设计",
-        "结构化设计",
-        "OOD",
-        "UML",
-        "设计模式"
+        "访问控制",
+        "DAC",
+        "MAC",
+        "RBAC",
+        "ABAC"
       ],
-      "wordCount": 1711,
-      "id": "008f8f7950c935c7"
+      "wordCount": 1481,
+      "id": "a4acf88dba3cb424"
     },
     {
-      "filename": "软件质量保证.json",
-      "title": "软件质量保证",
-      "description": "软件质量管理、SQA活动、质量模型、测试方法",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_计算机网络基础.json",
+      "title": "计算机网络基础",
+      "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "软件质量",
-        "SQA",
-        "CMMI",
-        "软件测试"
+        "网络基础",
+        "OSI模型",
+        "TCP-IP协议",
+        "系统集成"
       ],
-      "wordCount": 1456,
-      "id": "2a9e91bd4e628181"
+      "wordCount": 1085,
+      "id": "9b3e767751872604"
     },
     {
-      "filename": "数据仓库.json",
-      "title": "数据仓库",
-      "description": "数据仓库概念、特点、架构与数据资产管理",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_密码技术.json",
+      "title": "密码技术",
+      "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "数据仓库",
-        "OLAP",
-        "数据资产",
-        "主题库"
+        "密码技术",
+        "加密",
+        "数字签名",
+        "PKI",
+        "CA"
       ],
-      "wordCount": 1694,
-      "id": "b049e1747ee3425b"
+      "wordCount": 1375,
+      "id": "022c47ea42e3243e"
     },
     {
-      "filename": "数据工程概述.json",
-      "title": "数据工程概述",
-      "description": "数据工程概念、数据采集与预处理、数据存储与管理",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_身份认证.json",
+      "title": "身份认证",
+      "description": "认证技术、认证协议、身份管理、单点登录",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "数据工程",
-        "数据采集",
-        "数据预处理",
-        "数据存储"
+        "身份认证",
+        "认证技术",
+        "认证协议",
+        "单点登录"
       ],
-      "wordCount": 1434,
-      "id": "5abc3a58e7e58910"
+      "wordCount": 1395,
+      "id": "e5a2802f2cb0eb4e"
     },
     {
-      "filename": "数据挖掘.json",
-      "title": "数据挖掘",
-      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_数据安全与隐私保护.json",
+      "title": "数据安全与隐私保护",
+      "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "数据挖掘",
-        "数据分析",
+        "数据安全",
+        "隐私保护",
+        "数据安全法",
+        "个人信息保护"
+      ],
+      "wordCount": 1701,
+      "id": "6be8c5f466c39d08"
+    },
+    {
+      "filename": "系统集成基础_数据集成.json",
+      "title": "数据集成",
+      "description": "数据集成方案、数据集成方法、数据访问接口",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
         "数据集成",
-        "数据可视化"
+        "数据集成方法",
+        "ETL",
+        "数据集成方案"
       ],
-      "wordCount": 1783,
-      "id": "4d49fa1d72cc021d"
+      "wordCount": 1615,
+      "id": "7137f6238a7839b4"
     },
     {
-      "filename": "数据治理.json",
-      "title": "数据治理",
-      "description": "数据治理框架、数据标准化、数据质量管理",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_数据架构.json",
+      "title": "数据架构",
+      "description": "数据架构设计、数据建模",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "数据治理",
-        "数据标准化",
-        "数据质量",
-        "元数据"
+        "数据架构",
+        "数据分层",
+        "数据建模",
+        "数据仓库",
+        "大数据"
       ],
-      "wordCount": 1613,
-      "id": "8f6593ae23dbd0c8"
+      "wordCount": 919,
+      "id": "e4d7f2ae9837e94e"
     },
     {
-      "filename": "系统运行与维护.json",
-      "title": "系统运行与维护",
-      "description": "软考中项系统运维核心知识，包括运维类型、SLA、变更管理及ITIL服务管理框架。",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_数据库基础.json",
+      "title": "数据库基础",
+      "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "系统运维",
-        "SLA",
-        "ITIL",
-        "软件开发"
+        "数据库",
+        "SQL",
+        "范式",
+        "系统集成"
       ],
-      "wordCount": 1220,
-      "id": "7fdb4b2adeb101bf"
+      "wordCount": 985,
+      "id": "03ba6ce84d86c148"
     },
     {
-      "filename": "需求工程.json",
-      "title": "需求工程",
-      "description": "软件需求层次、质量功能部署、需求获取与分析方法",
-      "category": "软考/综合知识/信息系统开发",
+      "filename": "系统集成基础_网络安全.json",
+      "title": "网络安全",
+      "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "需求工程",
-        "需求分析",
-        "SRS",
-        "需求变更"
+        "网络安全",
+        "防火墙",
+        "入侵检测与防御",
+        "VPN",
+        "安全防护"
       ],
-      "wordCount": 1170,
-      "id": "e6e021df007bc16e"
+      "wordCount": 1755,
+      "id": "1c8b5f928be1d3f9"
     },
     {
-      "filename": "裁剪.json",
-      "title": "裁剪",
-      "description": "PMBOK项目管理的核心概念：什么是裁剪、六个裁剪维度、决策流程、预测型与敏捷型裁剪对比、各知识领域裁剪示例。",
-      "category": "软考/综合知识/引论",
+      "filename": "系统集成基础_网络集成.json",
+      "title": "网络集成",
+      "description": "网络系统集成的技术、传输介质、交换技术",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "裁剪",
-        "项目管理方法论",
-        "预测型",
-        "适应型",
-        "PMBOK",
-        "PMP",
-        "敏捷"
+        "网络集成",
+        "网络工程",
+        "交换技术",
+        "安全子系统"
       ],
-      "wordCount": 3588,
-      "id": "fd1269f820880db7"
+      "wordCount": 1269,
+      "id": "56186a279e496b3f"
     },
     {
-      "filename": "大数据.json",
-      "title": "大数据",
-      "description": "大数据特征、处理流程、关键技术及应用",
-      "category": "软考/综合知识/引论",
+      "filename": "系统集成基础_网络架构.json",
+      "title": "网络架构",
+      "description": "网络架构设计、网络分层",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "5V特征",
-        "数据处理",
-        "Hadoop",
-        "Spark",
-        "数据挖掘"
+        "网络架构",
+        "局域网",
+        "广域网",
+        "移动通信网",
+        "SDN"
       ],
-      "wordCount": 932,
-      "id": "efd97da51b1af147"
+      "wordCount": 1050,
+      "id": "57f12946f1cedfe6"
     },
     {
-      "filename": "道德与专业行为规范.json",
-      "title": "道德与专业行为规范",
-      "description": "PMI 发布了《道德与专业行为规范》[5]，为项目管理专业人员增强了信心并帮助个人做出明智的决策，尤其是在面对被要求违背正直诚信或价值观的困境时。",
-      "category": "软考/综合知识/引论",
+      "filename": "系统集成基础_系统集成概述.json",
+      "title": "系统集成概述",
+      "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "指南概述和目的"
+        "系统集成",
+        "信息系统",
+        "集成资质",
+        "中项核心"
       ],
-      "wordCount": 326,
-      "id": "2f4ed6e3b5fc22fc"
+      "wordCount": 954,
+      "id": "424f5eb505d95974"
     },
     {
-      "filename": "工业互联网.json",
-      "title": "工业互联网",
-      "description": "工业互联网是新一代信息通信技术与工业经济深度融合的新型基础设施、应用模式和工业生态，通过对人、机、物、系统等的全面连接，构建起覆盖全产业链、全价值链的全新制造和服务体系。",
-      "category": "软考/综合知识/引论",
+      "filename": "系统集成基础_系统架构.json",
+      "title": "系统架构",
+      "description": "架构概论、系统架构设计原则",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "工业互联网",
+        "系统架构",
+        "架构设计",
+        "TOGAF",
+        "ADM",
+        "价值驱动"
+      ],
+      "wordCount": 1213,
+      "id": "4d18d608c6f5855a"
+    },
+    {
+      "filename": "系统集成基础_信息安全基础.json",
+      "title": "信息安全基础",
+      "description": "信息安全概念、安全属性、安全管理、等级保护",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息安全",
+        "CIA",
+        "安全管理",
+        "等级保护"
+      ],
+      "wordCount": 1272,
+      "id": "0abfa84f1b5a76b3"
+    },
+    {
+      "filename": "系统集成基础_信息技术服务.json",
+      "title": "信息技术服务",
+      "description": "IT服务内涵、特征、原理与组成",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "IT服务",
+        "PPTR",
+        "服务特征",
+        "人员",
+        "过程",
+        "技术",
+        "资源"
+      ],
+      "wordCount": 991,
+      "id": "794574c48071d0bb"
+    },
+    {
+      "filename": "系统集成基础_信息系统及其特性.json",
+      "title": "信息系统及其特性",
+      "description": "信息系统是结合管理理论和方法，应用信息技术解决管理问题，提高生产效率的系统。信息系统具有开放性、脆弱性和健壮性等突出特性。",
+      "category": "软考/综合知识/系统集成基础",
+      "tags": [
+        "信息系统",
         "软考备考"
       ],
-      "wordCount": 544,
-      "id": "3e722211e2851ef8"
+      "wordCount": 543,
+      "id": "1cd8778c4ef5a853"
     },
     {
-      "filename": "价值交付系统.json",
-      "title": "价值交付系统",
-      "description": "价值创造方式、价值交付组件、信息流",
-      "category": "软考/综合知识/引论",
+      "filename": "系统集成基础_应用集成.json",
+      "title": "应用集成",
+      "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
+      "category": "软考/综合知识/系统集成基础",
       "tags": [
-        "价值交付",
-        "PMP",
-        "PMBOK"
+        "应用集成",
+        "EAI",
+        "ESB",
+        "SOA",
+        "业务应用集成"
       ],
-      "wordCount": 2007,
-      "id": "736351a7ddd126ce"
-    },
-    {
-      "filename": "阶段关口.json",
-      "title": "阶段关口",
-      "description": "阶段关口在项目阶段结束时进行，将项目的绩效和进度与项目和业务文件比较，这些文件包括（ 但不限于）：",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分"
-      ],
-      "wordCount": 238,
-      "id": "880fb41ab2ba7f95"
-    },
-    {
-      "filename": "两化融合.json",
-      "title": "两化融合",
-      "description": "两化融合是信息化和工业化的高层次的深度结合，包括技术融合、产品融合、业务融合和产业衍生四个方面，是数字经济时代建设制造强国、网络强国和数字中国的结合点。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "两化融合",
-        "工业现代化",
-        "软考备考"
-      ],
-      "wordCount": 576,
-      "id": "4469c5c0f3aaeb4e"
-    },
-    {
-      "filename": "启动过程组的重点工作.json",
-      "title": "启动过程组的重点工作",
-      "description": "启动过程组包括定义新项目或新阶段、授权开始项目的一组过程，其重点工作包括项目启动会议和关注价值与目标。",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "启动过程组",
-        "PMP",
-        "过程组"
-      ],
-      "wordCount": 1243,
-      "id": "af83fb68563e0eb6"
-    },
-    {
-      "filename": "区块链.json",
-      "title": "区块链",
-      "description": "区块链概念、核心技术、类型及应用",
-      "category": "软考/综合知识/引论",
-      "tags": [
-        "区块链",
-        "共识机制",
-        "智能合约",
-        "分布式账本",
-        "公有链",
-        "私有链"
-      ],
-      "wordCount": 1001,
-      "id": "258e3511c26a1d04"
+      "wordCount": 1505,
+      "id": "44ad11c8fc4dfbff"
     }
   ]
 }

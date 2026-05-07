@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "项目进度管理.json",
+      "filename": "二级建造师_项目进度管理.json",
       "title": "项目进度管理",
       "description": "",
       "category": "建造师/二级建造师",
@@ -19,7 +19,7 @@
       "id": "c7c752a4767c2f39"
     },
     {
-      "filename": "项目进度管理.json",
+      "filename": "一级建造师_项目进度管理.json",
       "title": "项目进度管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -33,7 +33,7 @@
       "id": "d3e3167c6698282e"
     },
     {
-      "filename": "案例分析-进度管理问题.json",
+      "filename": "软考备考_案例分析-进度管理问题.json",
       "title": "案例分析 - 进度管理问题",
       "description": "软考中项案例分析：进度延误、关键路径分析、进度压缩等问题的解题框架",
       "category": "软考/综合知识/软考备考",

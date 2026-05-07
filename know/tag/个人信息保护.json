@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "个人信息保护法要点.json",
+      "filename": "法律常识_个人信息保护法要点.json",
       "title": "个人信息保护法要点：你的数据谁说了算？",
       "description": "个人信息保护法的敏感信息范围、平台义务、个人权利和违规处罚",
       "category": "法律常识",
@@ -20,7 +20,7 @@
       "id": "feef8e3b500ba56d"
     },
     {
-      "filename": "数据安全与隐私保护.json",
+      "filename": "系统集成基础_数据安全与隐私保护.json",
       "title": "数据安全与隐私保护",
       "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
       "category": "软考/综合知识/系统集成基础",
@@ -34,7 +34,7 @@
       "id": "6be8c5f466c39d08"
     },
     {
-      "filename": "安全防范综合指南.json",
+      "filename": "安全防范_安全防范综合指南.json",
       "title": "安全防范综合指南",
       "description": "全面的安全防范知识，包括诈骗防范、赌博防范等内容",
       "category": "生活通识/安全防范",

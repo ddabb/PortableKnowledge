@@ -99,7 +99,16 @@ function createStableArticleId(relativePath) {
 }
 
 function createDetailFilename(relativePath) {
-  const rawBaseName = normalizePath(relativePath).split('/').pop() || 'article.md';
+  const normalized = normalizePath(relativePath);
+  const parts = normalized.split('/');
+  // 包含目录层级以避免跨分类同名文件互相覆盖
+  // 例：建造师/一级建造师/项目成本管理.md → 一级建造师_项目成本管理.json
+  if (parts.length >= 2) {
+    const dirPart = parts.slice(-2, -1)[0]; // 倒数第二层（叶子分类名）
+    const baseName = parts[parts.length - 1].replace(/\.md$/i, '');
+    return `${dirPart}_${baseName}.json`;
+  }
+  const rawBaseName = parts.pop() || 'article.md';
   return rawBaseName.replace(/\.md$/i, '.json');
 }
 

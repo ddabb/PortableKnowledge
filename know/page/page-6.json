@@ -1,10 +1,10 @@
 {
   "page": 6,
-  "totalPages": 30,
-  "totalItems": 598,
+  "totalPages": 33,
+  "totalItems": 641,
   "items": [
     {
-      "filename": "教育心理学知识.json",
+      "filename": "中学_教育心理学知识.json",
       "title": "教育心理学知识",
       "description": "",
       "category": "教师资格证/中学",
@@ -17,7 +17,7 @@
       "id": "3f7a8875e981abc4"
     },
     {
-      "filename": "教育学基础知识.json",
+      "filename": "中学_教育学基础知识.json",
       "title": "教育学基础知识",
       "description": "",
       "category": "教师资格证/中学",
@@ -30,7 +30,7 @@
       "id": "f0460d10e2cbd9fe"
     },
     {
-      "filename": "教育研究方法.json",
+      "filename": "中学_教育研究方法.json",
       "title": "教育研究方法",
       "description": "",
       "category": "教师资格证/中学",
@@ -43,7 +43,7 @@
       "id": "e259e78f89d8bb0a"
     },
     {
-      "filename": "学科知识与教学能力.json",
+      "filename": "中学_学科知识与教学能力.json",
       "title": "学科知识与教学能力",
       "description": "",
       "category": "教师资格证/中学",
@@ -56,7 +56,7 @@
       "id": "cdfec0b48388b79b"
     },
     {
-      "filename": "管理类联考备考.json",
+      "filename": "考研专业课_管理类联考备考.json",
       "title": "管理类联考备考：数学逻辑写作三科攻略",
       "description": "管理类联考数学基础、逻辑推理和写作的完整备考指南",
       "category": "考研专业课",
@@ -71,7 +71,7 @@
       "id": "1c13e3b5c6355f4d"
     },
     {
-      "filename": "计算机学科基础.json",
+      "filename": "考研专业课_计算机学科基础.json",
       "title": "计算机学科基础：数据结构到网络全解析",
       "description": "数据结构、计算机组成原理、操作系统和计算机网络的考研核心知识点",
       "category": "考研专业课",
@@ -86,7 +86,7 @@
       "id": "62fa8bb23d5e46b4"
     },
     {
-      "filename": "教育学原理备考.json",
+      "filename": "考研专业课_教育学原理备考.json",
       "title": "教育学原理备考：从教育本质到师生关系",
       "description": "教育学原理、教育心理学、中外教育史、教育研究方法和课程教学德育的完整备考指南",
       "category": "考研专业课",
@@ -102,7 +102,7 @@
       "id": "7654cfedd671ad7d"
     },
     {
-      "filename": "心理学考研指南.json",
+      "filename": "考研专业课_心理学考研指南.json",
       "title": "心理学考研指南：五科备考策略与复习规划",
       "description": "心理学考研概述、普通心理学、发展心理学、实验心理学和心理统计测量的备考指南",
       "category": "考研专业课",
@@ -117,7 +117,7 @@
       "id": "5a8a73ebc72161b9"
     },
     {
-      "filename": "绩效管理.json",
+      "filename": "人力资源管理师_绩效管理.json",
       "title": "绩效管理",
       "description": "绩效管理的体系、方法和实施策略",
       "category": "人力资源管理师",
@@ -129,7 +129,7 @@
       "id": "3df6d718c061ee27"
     },
     {
-      "filename": "劳动法规.json",
+      "filename": "人力资源管理师_劳动法规.json",
       "title": "劳动法规",
       "description": "劳动法规的基本内容、应用和合规管理",
       "category": "人力资源管理师",
@@ -141,7 +141,7 @@
       "id": "40b246defbcf3d65"
     },
     {
-      "filename": "劳动关系.json",
+      "filename": "人力资源管理师_劳动关系.json",
       "title": "劳动关系",
       "description": "劳动关系的概念、管理和协调策略",
       "category": "人力资源管理师",
@@ -153,7 +153,7 @@
       "id": "fd236277fb520467"
     },
     {
-      "filename": "培训开发.json",
+      "filename": "人力资源管理师_培训开发.json",
       "title": "培训开发",
       "description": "培训开发的体系、方法和实施策略",
       "category": "人力资源管理师",
@@ -166,7 +166,7 @@
       "id": "4b0e8eca0f576f1d"
     },
     {
-      "filename": "核心考点.json",
+      "filename": "人力资源管理师_核心考点.json",
       "title": "人力资源管理师核心考点",
       "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
       "category": "人力资源管理师",
@@ -179,7 +179,7 @@
       "id": "89130bc5d5b8903d"
     },
     {
-      "filename": "人力资源管理师职业发展.json",
+      "filename": "人力资源管理师_人力资源管理师职业发展.json",
       "title": "人力资源管理师职业发展",
       "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
       "category": "人力资源管理师",
@@ -191,7 +191,7 @@
       "id": "b003aff1861bb29f"
     },
     {
-      "filename": "人力资源规划.json",
+      "filename": "人力资源管理师_人力资源规划.json",
       "title": "人力资源规划",
       "description": "人力资源规划的核心概念、流程和实践方法",
       "category": "人力资源管理师",
@@ -203,7 +203,7 @@
       "id": "7d04338392048966"
     },
     {
-      "filename": "人力资源信息化.json",
+      "filename": "人力资源管理师_人力资源信息化.json",
       "title": "人力资源信息化",
       "description": "人力资源信息化的概念、实施和管理策略",
       "category": "人力资源管理师",
@@ -215,7 +215,7 @@
       "id": "22b9ef7332fc03a9"
     },
     {
-      "filename": "薪酬管理.json",
+      "filename": "人力资源管理师_薪酬管理.json",
       "title": "薪酬管理",
       "description": "薪酬管理的体系、设计和实施策略",
       "category": "人力资源管理师",
@@ -227,7 +227,7 @@
       "id": "c450ac405a5ae475"
     },
     {
-      "filename": "员工福利管理.json",
+      "filename": "人力资源管理师_员工福利管理.json",
       "title": "员工福利管理",
       "description": "员工福利管理的体系、设计和实施策略",
       "category": "人力资源管理师",
@@ -239,7 +239,7 @@
       "id": "6e92b5ebeb4989fb"
     },
     {
-      "filename": "员工关系管理.json",
+      "filename": "人力资源管理师_员工关系管理.json",
       "title": "员工关系管理",
       "description": "员工关系管理的概念、方法和实施策略",
       "category": "人力资源管理师",
@@ -251,7 +251,7 @@
       "id": "a2b4325c1626edca"
     },
     {
-      "filename": "战略性人力资源管理.json",
+      "filename": "人力资源管理师_战略性人力资源管理.json",
       "title": "战略性人力资源管理",
       "description": "战略性人力资源管理的概念、实施和管理策略",
       "category": "人力资源管理师",

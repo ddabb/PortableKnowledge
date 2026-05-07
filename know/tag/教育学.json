@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "核心考点.json",
+      "filename": "教师资格证_核心考点.json",
       "title": "教师资格证考试核心考点",
       "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
       "category": "教师资格证",
@@ -18,7 +18,7 @@
       "id": "bd7849ae8f9e3d7a"
     },
     {
-      "filename": "小学教育学基础知识.json",
+      "filename": "小学_小学教育学基础知识.json",
       "title": "小学教育学基础知识",
       "description": "",
       "category": "教师资格证/小学",
@@ -31,7 +31,7 @@
       "id": "b6f3ffb99693b5a1"
     },
     {
-      "filename": "教育学基础知识.json",
+      "filename": "中学_教育学基础知识.json",
       "title": "教育学基础知识",
       "description": "",
       "category": "教师资格证/中学",
@@ -44,7 +44,7 @@
       "id": "f0460d10e2cbd9fe"
     },
     {
-      "filename": "教育学原理备考.json",
+      "filename": "考研专业课_教育学原理备考.json",
       "title": "教育学原理备考：从教育本质到师生关系",
       "description": "教育学原理、教育心理学、中外教育史、教育研究方法和课程教学德育的完整备考指南",
       "category": "考研专业课",

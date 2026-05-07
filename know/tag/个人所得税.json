@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "理财实用知识.json",
+      "filename": "家庭理财_理财实用知识.json",
       "title": "理财实用知识：信用卡与个税指南",
       "description": "信用卡使用技巧、个人所得税专项附加扣除和常见理财误区",
       "category": "家庭理财",
@@ -19,7 +19,7 @@
       "id": "00f3356ba2255dc0"
     },
     {
-      "filename": "个人所得税概述.json",
+      "filename": "税法_个人所得税概述.json",
       "title": "个人所得税概述",
       "description": "",
       "category": "注册会计师/税法",
@@ -32,7 +32,7 @@
       "id": "9ddf90f68934eb79"
     },
     {
-      "filename": "个人所得税税收优惠.json",
+      "filename": "税法_个人所得税税收优惠.json",
       "title": "个人所得税税收优惠",
       "description": "",
       "category": "注册会计师/税法",
@@ -46,7 +46,7 @@
       "id": "215c769b099e3c2f"
     },
     {
-      "filename": "个人所得税应纳税额计算.json",
+      "filename": "税法_个人所得税应纳税额计算.json",
       "title": "个人所得税应纳税额计算",
       "description": "",
       "category": "注册会计师/税法",

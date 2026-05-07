@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "安全架构.json",
+      "filename": "系统集成基础_安全架构.json",
       "title": "安全架构",
       "description": "信息安全架构设计",
       "category": "软考/综合知识/系统集成基础",
@@ -20,7 +20,7 @@
       "id": "c7cce54551349698"
     },
     {
-      "filename": "存储与备份技术.json",
+      "filename": "系统集成基础_存储与备份技术.json",
       "title": "存储与备份技术",
       "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
       "category": "软考/综合知识/系统集成基础",
@@ -34,7 +34,7 @@
       "id": "df35da523c5af5d5"
     },
     {
-      "filename": "访问控制.json",
+      "filename": "系统集成基础_访问控制.json",
       "title": "访问控制",
       "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
       "category": "软考/综合知识/系统集成基础",
@@ -49,7 +49,7 @@
       "id": "a4acf88dba3cb424"
     },
     {
-      "filename": "计算机网络基础.json",
+      "filename": "系统集成基础_计算机网络基础.json",
       "title": "计算机网络基础",
       "description": "软考中项必考的计算机网络核心知识，包括OSI模型、TCP/IP协议族、网络设备与组网技术。",
       "category": "软考/综合知识/系统集成基础",
@@ -63,7 +63,7 @@
       "id": "9b3e767751872604"
     },
     {
-      "filename": "密码技术.json",
+      "filename": "系统集成基础_密码技术.json",
       "title": "密码技术",
       "description": "对称加密、非对称加密、数字签名、PKI、CA认证",
       "category": "软考/综合知识/系统集成基础",
@@ -78,7 +78,7 @@
       "id": "022c47ea42e3243e"
     },
     {
-      "filename": "身份认证.json",
+      "filename": "系统集成基础_身份认证.json",
       "title": "身份认证",
       "description": "认证技术、认证协议、身份管理、单点登录",
       "category": "软考/综合知识/系统集成基础",
@@ -92,7 +92,7 @@
       "id": "e5a2802f2cb0eb4e"
     },
     {
-      "filename": "数据安全与隐私保护.json",
+      "filename": "系统集成基础_数据安全与隐私保护.json",
       "title": "数据安全与隐私保护",
       "description": "数据安全法、个人信息保护、数据脱敏、安全合规",
       "category": "软考/综合知识/系统集成基础",
@@ -106,7 +106,7 @@
       "id": "6be8c5f466c39d08"
     },
     {
-      "filename": "数据集成.json",
+      "filename": "系统集成基础_数据集成.json",
       "title": "数据集成",
       "description": "数据集成方案、数据集成方法、数据访问接口",
       "category": "软考/综合知识/系统集成基础",
@@ -120,7 +120,7 @@
       "id": "7137f6238a7839b4"
     },
     {
-      "filename": "数据架构.json",
+      "filename": "系统集成基础_数据架构.json",
       "title": "数据架构",
       "description": "数据架构设计、数据建模",
       "category": "软考/综合知识/系统集成基础",
@@ -135,7 +135,7 @@
       "id": "e4d7f2ae9837e94e"
     },
     {
-      "filename": "数据库基础.json",
+      "filename": "系统集成基础_数据库基础.json",
       "title": "数据库基础",
       "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
       "category": "软考/综合知识/系统集成基础",
@@ -149,7 +149,7 @@
       "id": "03ba6ce84d86c148"
     },
     {
-      "filename": "网络安全.json",
+      "filename": "系统集成基础_网络安全.json",
       "title": "网络安全",
       "description": "防火墙、入侵检测与防御系统、VPN、网络安全防护体系",
       "category": "软考/综合知识/系统集成基础",
@@ -164,7 +164,7 @@
       "id": "1c8b5f928be1d3f9"
     },
     {
-      "filename": "网络集成.json",
+      "filename": "系统集成基础_网络集成.json",
       "title": "网络集成",
       "description": "网络系统集成的技术、传输介质、交换技术",
       "category": "软考/综合知识/系统集成基础",
@@ -178,7 +178,7 @@
       "id": "56186a279e496b3f"
     },
     {
-      "filename": "网络架构.json",
+      "filename": "系统集成基础_网络架构.json",
       "title": "网络架构",
       "description": "网络架构设计、网络分层",
       "category": "软考/综合知识/系统集成基础",
@@ -193,7 +193,7 @@
       "id": "57f12946f1cedfe6"
     },
     {
-      "filename": "系统集成概述.json",
+      "filename": "系统集成基础_系统集成概述.json",
       "title": "系统集成概述",
       "description": "软考中项系统集成项目管理核心概念，包括系统集成的定义、特点、资质要求及项目特征。",
       "category": "软考/综合知识/系统集成基础",
@@ -207,7 +207,7 @@
       "id": "424f5eb505d95974"
     },
     {
-      "filename": "系统架构.json",
+      "filename": "系统集成基础_系统架构.json",
       "title": "系统架构",
       "description": "架构概论、系统架构设计原则",
       "category": "软考/综合知识/系统集成基础",
@@ -222,7 +222,7 @@
       "id": "4d18d608c6f5855a"
     },
     {
-      "filename": "信息安全基础.json",
+      "filename": "系统集成基础_信息安全基础.json",
       "title": "信息安全基础",
       "description": "信息安全概念、安全属性、安全管理、等级保护",
       "category": "软考/综合知识/系统集成基础",
@@ -236,7 +236,7 @@
       "id": "0abfa84f1b5a76b3"
     },
     {
-      "filename": "信息技术服务.json",
+      "filename": "系统集成基础_信息技术服务.json",
       "title": "信息技术服务",
       "description": "IT服务内涵、特征、原理与组成",
       "category": "软考/综合知识/系统集成基础",
@@ -253,7 +253,7 @@
       "id": "794574c48071d0bb"
     },
     {
-      "filename": "信息系统及其特性.json",
+      "filename": "系统集成基础_信息系统及其特性.json",
       "title": "信息系统及其特性",
       "description": "信息系统是结合管理理论和方法，应用信息技术解决管理问题，提高生产效率的系统。信息系统具有开放性、脆弱性和健壮性等突出特性。",
       "category": "软考/综合知识/系统集成基础",
@@ -265,7 +265,7 @@
       "id": "1cd8778c4ef5a853"
     },
     {
-      "filename": "应用集成.json",
+      "filename": "系统集成基础_应用集成.json",
       "title": "应用集成",
       "description": "应用集成模式（EAI、ESB）、SOA、业务应用集成",
       "category": "软考/综合知识/系统集成基础",
@@ -280,7 +280,7 @@
       "id": "44ad11c8fc4dfbff"
     },
     {
-      "filename": "应用架构.json",
+      "filename": "系统集成基础_应用架构.json",
       "title": "应用架构",
       "description": "应用架构模式、SOA与微服务",
       "category": "软考/综合知识/系统集成基础",
@@ -295,7 +295,7 @@
       "id": "e9f728e7f7a1ea26"
     },
     {
-      "filename": "云计算与虚拟化.json",
+      "filename": "系统集成基础_云计算与虚拟化.json",
       "title": "云计算与虚拟化",
       "description": "软考中项云计算核心知识，包括云计算三种服务模式、四种部署方式及虚拟化技术要点。",
       "category": "软考/综合知识/系统集成基础",
@@ -309,7 +309,7 @@
       "id": "668c8b1ad8186950"
     },
     {
-      "filename": "IT服务标准化.json",
+      "filename": "系统集成基础_IT服务标准化.json",
       "title": "IT服务标准化",
       "description": "ITSS标准体系、服务标准及产业化",
       "category": "软考/综合知识/系统集成基础",
@@ -324,7 +324,7 @@
       "id": "d10daa126be329b3"
     },
     {
-      "filename": "IT服务生命周期.json",
+      "filename": "系统集成基础_IT服务生命周期.json",
       "title": "IT服务生命周期",
       "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
       "category": "软考/综合知识/系统集成基础",

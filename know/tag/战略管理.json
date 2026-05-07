@@ -1,11 +1,25 @@
 {
   "meta": {
     "tag": "战略管理",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
-      "filename": "企业战略管理.json",
+      "filename": "组织治理与管理_组织战略基础.json",
+      "title": "组织战略基础",
+      "description": "组织战略概述、战略类型、战略特性、组织定位（使命、愿景、价值观、文化）",
+      "category": "软考/综合知识/组织治理与管理",
+      "tags": [
+        "软考高项",
+        "组织战略",
+        "战略管理",
+        "组织定位"
+      ],
+      "wordCount": 1185,
+      "id": "158245b6e2a7ede8"
+    },
+    {
+      "filename": "专业科目_企业战略管理.json",
       "title": "企业战略管理",
       "description": "中级经济师工商管理章节核心知识点，包括企业战略定义、类型、制定过程和实施",
       "category": "中级经济师/专业科目",
@@ -21,7 +35,7 @@
       "id": "776f43da18e81d08"
     },
     {
-      "filename": "战略管理概述.json",
+      "filename": "公司战略与风险管理_战略管理概述.json",
       "title": "战略管理概述",
       "description": "",
       "category": "注册会计师/公司战略与风险管理",

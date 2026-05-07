@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "SPC",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "高级项目管理_量化管理理论.json",
+      "title": "量化管理理论",
+      "description": "量化管理理论发展阶段、统计过程控制SPC、六西格玛DMAIC、CMMI高成熟度特征",
+      "category": "软考/项目管理/高级项目管理",
+      "tags": [
+        "软考高项",
+        "量化管理",
+        "SPC",
+        "六西格玛",
+        "CMMI"
+      ],
+      "wordCount": 848,
+      "id": "1b39f6bc9987e942"
+    }
+  ]
+}

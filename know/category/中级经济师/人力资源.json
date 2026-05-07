@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "人力资源管理概述.json",
+      "filename": "人力资源_人力资源管理概述.json",
       "title": "人力资源管理概述",
       "description": "中级经济师人力资源章节核心知识点，包括人力资源管理定义、职能、发展历程和战略人力资源管理",
       "category": "中级经济师/人力资源",
@@ -21,7 +21,7 @@
       "id": "19ca30d7a5e1b921"
     },
     {
-      "filename": "人力资源规划.json",
+      "filename": "人力资源_人力资源规划.json",
       "title": "人力资源规划",
       "description": "中级经济师人力资源章节核心知识点，包括人力资源规划定义、流程、方法和实施",
       "category": "中级经济师/人力资源",
@@ -37,7 +37,7 @@
       "id": "878dd468aadba640"
     },
     {
-      "filename": "招聘与配置.json",
+      "filename": "人力资源_招聘与配置.json",
       "title": "招聘与配置",
       "description": "中级经济师人力资源章节核心知识点，包括招聘定义、流程、渠道和配置方法",
       "category": "中级经济师/人力资源",
@@ -53,7 +53,7 @@
       "id": "a7dce44ebfac4cbf"
     },
     {
-      "filename": "组织行为学概述.json",
+      "filename": "人力资源_组织行为学概述.json",
       "title": "组织行为学概述",
       "description": "中级经济师人力资源章节核心知识点，包括组织行为学定义、研究对象、基本理论和研究方法",
       "category": "中级经济师/人力资源",

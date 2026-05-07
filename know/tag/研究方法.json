@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "小学教育科研方法.json",
+      "filename": "小学_小学教育科研方法.json",
       "title": "小学教育科研方法",
       "description": "",
       "category": "教师资格证/小学",
@@ -18,7 +18,7 @@
       "id": "32c63f0d34200f06"
     },
     {
-      "filename": "教育研究方法.json",
+      "filename": "中学_教育研究方法.json",
       "title": "教育研究方法",
       "description": "",
       "category": "教师资格证/中学",
@@ -31,7 +31,7 @@
       "id": "e259e78f89d8bb0a"
     },
     {
-      "filename": "心理学研究方法.json",
+      "filename": "基础心理学_心理学研究方法.json",
       "title": "心理学研究到底靠谱吗？揭开6种核心方法的神秘面纱",
       "description": "心理学研究方法全面解析，从实验法到心理测量法，了解心理学家如何探索人类心灵",
       "category": "心理学/基础心理学",

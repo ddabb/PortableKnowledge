@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "内部控制.json",
+      "filename": "公司战略与风险管理_内部控制.json",
       "title": "内部控制",
       "description": "",
       "category": "注册会计师/公司战略与风险管理",
@@ -18,7 +18,7 @@
       "id": "2f119a4f008efbc3"
     },
     {
-      "filename": "采购与付款循环审计.json",
+      "filename": "审计_采购与付款循环审计.json",
       "title": "采购与付款循环审计",
       "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
       "category": "注册会计师/审计",
@@ -32,7 +32,7 @@
       "id": "5e0a4dc4e760fc53"
     },
     {
-      "filename": "货币资金审计.json",
+      "filename": "审计_货币资金审计.json",
       "title": "货币资金审计",
       "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制和审计程序",
       "category": "注册会计师/审计",
@@ -46,7 +46,7 @@
       "id": "bd85c1e789684a32"
     },
     {
-      "filename": "内部控制审计.json",
+      "filename": "审计_内部控制审计.json",
       "title": "内部控制审计",
       "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
       "category": "注册会计师/审计",
@@ -60,7 +60,7 @@
       "id": "85b4de9995f649ea"
     },
     {
-      "filename": "生产与存货循环审计.json",
+      "filename": "审计_生产与存货循环审计.json",
       "title": "生产与存货循环审计",
       "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
       "category": "注册会计师/审计",
@@ -74,7 +74,7 @@
       "id": "facd964c35ef171a"
     },
     {
-      "filename": "销售与收款循环审计.json",
+      "filename": "审计_销售与收款循环审计.json",
       "title": "销售与收款循环审计",
       "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
       "category": "注册会计师/审计",

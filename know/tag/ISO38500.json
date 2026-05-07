@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "ISO38500",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "组织治理与管理_IT治理方法与标准.json",
+      "title": "IT治理方法与标准",
+      "description": "ITSS体系框架、COBIT框架五大领域、IT治理国际标准ISO/IEC 38500",
+      "category": "软考/综合知识/组织治理与管理",
+      "tags": [
+        "软考高项",
+        "IT治理",
+        "ITSS",
+        "COBIT",
+        "ISO38500"
+      ],
+      "wordCount": 1237,
+      "id": "1e12adca632ec968"
+    }
+  ]
+}

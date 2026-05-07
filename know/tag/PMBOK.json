@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "建设工程项目管理.json",
+      "filename": "一级建造师_建设工程项目管理.json",
       "title": "建设工程项目管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -19,7 +19,7 @@
       "id": "7159a8aa660324b4"
     },
     {
-      "filename": "裁剪.json",
+      "filename": "引论_裁剪.json",
       "title": "裁剪",
       "description": "PMBOK项目管理的核心概念：什么是裁剪、六个裁剪维度、决策流程、预测型与敏捷型裁剪对比、各知识领域裁剪示例。",
       "category": "软考/综合知识/引论",
@@ -36,7 +36,7 @@
       "id": "fd1269f820880db7"
     },
     {
-      "filename": "价值交付系统.json",
+      "filename": "引论_价值交付系统.json",
       "title": "价值交付系统",
       "description": "价值创造方式、价值交付组件、信息流",
       "category": "软考/综合知识/引论",
@@ -49,7 +49,7 @@
       "id": "736351a7ddd126ce"
     },
     {
-      "filename": "项目管理原则.json",
+      "filename": "引论_项目管理原则.json",
       "title": "项目管理原则",
       "description": "PMBOK第7版定义的12个项目管理原则",
       "category": "软考/综合知识/引论",
@@ -62,7 +62,7 @@
       "id": "aa80d2be512fd91a"
     },
     {
-      "filename": "项目管理知识领域.json",
+      "filename": "引论_项目管理知识领域.json",
       "title": "项目管理知识领域",
       "description": "10个知识领域概述、5个过程组与知识领域的矩阵关系",
       "category": "软考/综合知识/引论",
@@ -76,7 +76,7 @@
       "id": "21c05eebccbacefb"
     },
     {
-      "filename": "PMBOK的发展.json",
+      "filename": "引论_PMBOK的发展.json",
       "title": "PMBOK的发展",
       "description": "PMBOK各版本演变历程及关键变化",
       "category": "软考/综合知识/引论",

@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "质量功能展开.json",
+      "filename": "工具与技术_质量功能展开.json",
       "title": "质量功能展开完全指南",
       "description": "QFD质量屋的原理、构建步骤、软件开发中的应用和实施要点",
       "category": "软考/综合知识/工具与技术",
@@ -20,7 +20,7 @@
       "id": "adf996186008b004"
     },
     {
-      "filename": "需求工程.json",
+      "filename": "信息系统开发_需求工程.json",
       "title": "需求工程",
       "description": "软件需求层次、质量功能部署、需求获取与分析方法",
       "category": "软考/综合知识/信息系统开发",

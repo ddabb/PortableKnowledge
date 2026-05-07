@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "营运资本管理.json",
+      "filename": "财务成本管理_营运资本管理.json",
       "title": "营运资本管理",
       "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
       "category": "注册会计师/财务成本管理",
@@ -19,7 +19,7 @@
       "id": "2d7e42c1f5481c14"
     },
     {
-      "filename": "货币资金.json",
+      "filename": "会计_货币资金.json",
       "title": "货币资金",
       "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
       "category": "注册会计师/会计",

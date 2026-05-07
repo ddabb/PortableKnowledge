@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "金融市场概述.json",
+      "filename": "专业科目_金融市场概述.json",
       "title": "金融市场概述",
       "description": "中级经济师金融章节核心知识点，包括金融市场定义、类型、功能和发展趋势",
       "category": "中级经济师/专业科目",
@@ -21,7 +21,7 @@
       "id": "bda87b9b4d9beb05"
     },
     {
-      "filename": "企业战略管理.json",
+      "filename": "专业科目_企业战略管理.json",
       "title": "企业战略管理",
       "description": "中级经济师工商管理章节核心知识点，包括企业战略定义、类型、制定过程和实施",
       "category": "中级经济师/专业科目",

@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "项目质量管理.json",
+      "filename": "二级建造师_项目质量管理.json",
       "title": "项目质量管理",
       "description": "",
       "category": "建造师/二级建造师",
@@ -19,7 +19,7 @@
       "id": "71c39f516c268fd1"
     },
     {
-      "filename": "项目质量管理.json",
+      "filename": "一级建造师_项目质量管理.json",
       "title": "项目质量管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -33,7 +33,7 @@
       "id": "ef5aeb98d5443572"
     },
     {
-      "filename": "信息系统监理.json",
+      "filename": "项目立项管理_信息系统监理.json",
       "title": "信息系统监理",
       "description": "软考中项信息系统工程监理核心知识，包括监理的概念、职责范围、监理文档及监理人员要求。",
       "category": "软考/项目管理/项目立项管理",
@@ -47,7 +47,7 @@
       "id": "8e0ddbe56e10793f"
     },
     {
-      "filename": "核对单.json",
+      "filename": "工具与技术_核对单.json",
       "title": "核对单完全指南",
       "description": "核对单的定义、类型、编制方法、使用场景和注意事项",
       "category": "软考/综合知识/工具与技术",
@@ -61,7 +61,7 @@
       "id": "fa10b174d54144c2"
     },
     {
-      "filename": "亲和图.json",
+      "filename": "工具与技术_亲和图.json",
       "title": "亲和图",
       "description": "一种用于组织和分析大量创意或信息的技术，通过分组整理以便进一步审查和分析。",
       "category": "软考/综合知识/工具与技术",
@@ -74,7 +74,7 @@
       "id": "2778377756582ebd"
     },
     {
-      "filename": "案例分析-质量管理问题.json",
+      "filename": "软考备考_案例分析-质量管理问题.json",
       "title": "案例分析 - 质量管理问题",
       "description": "软考中项案例分析：质量缺陷、质量控制流程、测试管理等问题的解题框架",
       "category": "软考/综合知识/软考备考",

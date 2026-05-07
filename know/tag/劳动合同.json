@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "劳动合同法要点.json",
+      "filename": "法律常识_劳动合同法要点.json",
       "title": "劳动合同法要点：签合同必知的权利义务",
       "description": "劳动合同签订、试用期、工资工时、社保公积金和解除补偿的法律规定",
       "category": "法律常识",
@@ -21,7 +21,7 @@
       "id": "f55a2dedc3de17a1"
     },
     {
-      "filename": "劳动合同法基础.json",
+      "filename": "劳动权益_劳动合同法基础.json",
       "title": "劳动合同法基础：签合同必知的事项",
       "description": "劳动合同签订要求、必备条款、试用期规定和合同类型详解",
       "category": "职场生存/劳动权益",

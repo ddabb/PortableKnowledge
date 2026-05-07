@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "范围管理裁剪指南.json",
+      "filename": "项目范围管理_范围管理裁剪指南.json",
       "title": "范围管理裁剪指南",
       "description": "范围管理各过程的裁剪思路：规划范围管理、收集需求、定义范围、创建WBS、确认范围、控制范围的裁剪决策与适用场景。",
       "category": "软考/项目管理/项目范围管理",
@@ -21,7 +21,7 @@
       "id": "3cb3ad05f594f59e"
     },
     {
-      "filename": "wbs.json",
+      "filename": "项目范围管理_wbs.json",
       "title": "WBS（工作分解结构）",
       "description": "工作分解结构（WBS）的概念、创建方法、分解原则与WBS词典，是范围管理的核心工具。",
       "category": "软考/项目管理/项目范围管理",
@@ -35,7 +35,7 @@
       "id": "819f0fba5f2d239e"
     },
     {
-      "filename": "案例分析-范围管理问题.json",
+      "filename": "软考备考_案例分析-范围管理问题.json",
       "title": "案例分析 - 范围管理问题",
       "description": "软考中项案例分析：范围蔓延、需求变更、验收问题等解题框架",
       "category": "软考/综合知识/软考备考",

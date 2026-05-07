@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "应交税费.json",
+      "filename": "会计_应交税费.json",
       "title": "应交税费",
       "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
       "category": "注册会计师/会计",
@@ -19,7 +19,7 @@
       "id": "42db45ed35059dd0"
     },
     {
-      "filename": "增值税概述.json",
+      "filename": "税法_增值税概述.json",
       "title": "增值税概述",
       "description": "",
       "category": "注册会计师/税法",
@@ -32,7 +32,7 @@
       "id": "4c1eeec0434a501d"
     },
     {
-      "filename": "增值税税收优惠.json",
+      "filename": "税法_增值税税收优惠.json",
       "title": "增值税税收优惠",
       "description": "",
       "category": "注册会计师/税法",
@@ -46,7 +46,7 @@
       "id": "541e58286de87b05"
     },
     {
-      "filename": "增值税应纳税额计算.json",
+      "filename": "税法_增值税应纳税额计算.json",
       "title": "增值税应纳税额计算",
       "description": "",
       "category": "注册会计师/税法",

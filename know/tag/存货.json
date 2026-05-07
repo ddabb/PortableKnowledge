@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "存货.json",
+      "filename": "会计_存货.json",
       "title": "存货",
       "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
       "category": "注册会计师/会计",

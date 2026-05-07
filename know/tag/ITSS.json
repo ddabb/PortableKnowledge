@@ -1,11 +1,11 @@
 {
   "meta": {
     "tag": "ITSS",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
-      "filename": "IT服务标准化.json",
+      "filename": "系统集成基础_IT服务标准化.json",
       "title": "IT服务标准化",
       "description": "ITSS标准体系、服务标准及产业化",
       "category": "软考/综合知识/系统集成基础",
@@ -20,7 +20,7 @@
       "id": "d10daa126be329b3"
     },
     {
-      "filename": "IT服务生命周期.json",
+      "filename": "系统集成基础_IT服务生命周期.json",
       "title": "IT服务生命周期",
       "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
       "category": "软考/综合知识/系统集成基础",
@@ -34,6 +34,21 @@
       ],
       "wordCount": 1009,
       "id": "38d665afd4e8415a"
+    },
+    {
+      "filename": "组织治理与管理_IT治理方法与标准.json",
+      "title": "IT治理方法与标准",
+      "description": "ITSS体系框架、COBIT框架五大领域、IT治理国际标准ISO/IEC 38500",
+      "category": "软考/综合知识/组织治理与管理",
+      "tags": [
+        "软考高项",
+        "IT治理",
+        "ITSS",
+        "COBIT",
+        "ISO38500"
+      ],
+      "wordCount": 1237,
+      "id": "1e12adca632ec968"
     }
   ]
 }

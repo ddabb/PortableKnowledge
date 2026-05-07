@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "常识判断.json",
+      "filename": "行政职业能力测验_常识判断.json",
       "title": "常识判断",
       "description": "",
       "category": "公务员/行政职业能力测验",
@@ -23,7 +23,7 @@
       "id": "ad827cbb8bf8f659"
     },
     {
-      "filename": "判断推理.json",
+      "filename": "行政职业能力测验_判断推理.json",
       "title": "判断推理",
       "description": "",
       "category": "公务员/行政职业能力测验",
@@ -39,7 +39,7 @@
       "id": "9050b3beccad874f"
     },
     {
-      "filename": "数量关系.json",
+      "filename": "行政职业能力测验_数量关系.json",
       "title": "数量关系",
       "description": "",
       "category": "公务员/行政职业能力测验",
@@ -53,7 +53,7 @@
       "id": "f8b4a33207004494"
     },
     {
-      "filename": "言语理解.json",
+      "filename": "行政职业能力测验_言语理解.json",
       "title": "言语理解",
       "description": "",
       "category": "公务员/行政职业能力测验",
@@ -68,7 +68,7 @@
       "id": "915e1a246acfeb53"
     },
     {
-      "filename": "资料分析.json",
+      "filename": "行政职业能力测验_资料分析.json",
       "title": "资料分析",
       "description": "",
       "category": "公务员/行政职业能力测验",

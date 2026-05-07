@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "确认范围.json",
+      "filename": "项目范围管理_确认范围.json",
       "title": "确认范围",
       "description": "确认范围是正式验收已完成的项目可交付成果的过程。",
       "category": "软考/项目管理/项目范围管理",
@@ -19,7 +19,7 @@
       "id": "5a2efec968f5a87e"
     },
     {
-      "filename": "验收的可交付成果.json",
+      "filename": "项目范围管理_验收的可交付成果.json",
       "title": "验收的可交付成果",
       "description": "符合验收标准的可交付成果应该由客户或发起人正式签字批准。",
       "category": "软考/项目管理/项目范围管理",

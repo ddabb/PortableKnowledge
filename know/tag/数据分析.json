@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "成本效益分析.json",
+      "filename": "工具与技术_成本效益分析.json",
       "title": "成本效益分析完全指南",
       "description": "成本效益分析的定义、步骤、方法和项目管理中的应用",
       "category": "软考/综合知识/工具与技术",
@@ -19,7 +19,7 @@
       "id": "8e8ec6fab964e8fd"
     },
     {
-      "filename": "数据挖掘.json",
+      "filename": "信息系统开发_数据挖掘.json",
       "title": "数据挖掘",
       "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
       "category": "软考/综合知识/信息系统开发",

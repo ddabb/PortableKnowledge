@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "企业战略管理.json",
+      "filename": "专业科目_企业战略管理.json",
       "title": "企业战略管理",
       "description": "中级经济师工商管理章节核心知识点，包括企业战略定义、类型、制定过程和实施",
       "category": "中级经济师/专业科目",
@@ -21,7 +21,7 @@
       "id": "776f43da18e81d08"
     },
     {
-      "filename": "战略实施.json",
+      "filename": "公司战略与风险管理_战略实施.json",
       "title": "战略实施",
       "description": "",
       "category": "注册会计师/公司战略与风险管理",

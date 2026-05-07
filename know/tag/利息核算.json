@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "短期借款.json",
+      "filename": "会计_短期借款.json",
       "title": "短期借款",
       "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
       "category": "注册会计师/会计",
@@ -19,7 +19,7 @@
       "id": "2ce4bfe39200714a"
     },
     {
-      "filename": "长期借款.json",
+      "filename": "会计_长期借款.json",
       "title": "长期借款",
       "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
       "category": "注册会计师/会计",

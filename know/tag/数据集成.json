@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "数据集成.json",
+      "filename": "系统集成基础_数据集成.json",
       "title": "数据集成",
       "description": "数据集成方案、数据集成方法、数据访问接口",
       "category": "软考/综合知识/系统集成基础",
@@ -19,7 +19,7 @@
       "id": "7137f6238a7839b4"
     },
     {
-      "filename": "数据挖掘.json",
+      "filename": "信息系统开发_数据挖掘.json",
       "title": "数据挖掘",
       "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
       "category": "软考/综合知识/信息系统开发",

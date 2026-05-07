@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "财政政策.json",
+      "filename": "财政税收_财政政策.json",
       "title": "财政政策",
       "description": "中级经济师财政税收章节核心知识点，包括财政政策定义、目标、工具和效果",
       "category": "中级经济师/财政税收",
@@ -21,7 +21,7 @@
       "id": "0467e3848d41a2bc"
     },
     {
-      "filename": "税收制度.json",
+      "filename": "财政税收_税收制度.json",
       "title": "税收制度",
       "description": "中级经济师财政税收章节核心知识点，包括税收制度定义、构成要素、分类和改革",
       "category": "中级经济师/财政税收",

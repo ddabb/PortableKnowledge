@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "软考图表速查.json",
+      "filename": "软考_软考图表速查.json",
       "title": "软考图表速查",
       "description": "软考中最核心、最高频的图按照软件设计/架构类、项目管理类、通用基础类进行系统梳理，附核心概念和考点说明",
       "category": "软考",
@@ -23,7 +23,7 @@
       "id": "f804b62b314ee4ef"
     },
     {
-      "filename": "软件设计.json",
+      "filename": "信息系统开发_软件设计.json",
       "title": "软件设计",
       "description": "结构化设计、面向对象设计、UML、设计原则",
       "category": "软考/综合知识/信息系统开发",

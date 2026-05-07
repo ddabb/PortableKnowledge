@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "项目安全管理.json",
+      "filename": "二级建造师_项目安全管理.json",
       "title": "项目安全管理",
       "description": "",
       "category": "建造师/二级建造师",
@@ -19,7 +19,7 @@
       "id": "8fe4ea7995d306b2"
     },
     {
-      "filename": "项目安全管理.json",
+      "filename": "一级建造师_项目安全管理.json",
       "title": "项目安全管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -33,7 +33,7 @@
       "id": "45de03bdcf1f0f2c"
     },
     {
-      "filename": "信息安全基础.json",
+      "filename": "系统集成基础_信息安全基础.json",
       "title": "信息安全基础",
       "description": "信息安全概念、安全属性、安全管理、等级保护",
       "category": "软考/综合知识/系统集成基础",

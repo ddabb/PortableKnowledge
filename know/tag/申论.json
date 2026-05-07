@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "核心考点.json",
+      "filename": "公务员_核心考点.json",
       "title": "公务员考试核心考点",
       "description": "公考备考知识体系：行测、申论核心考点",
       "category": "公务员",
@@ -18,7 +18,7 @@
       "id": "7a8272032cf6c22c"
     },
     {
-      "filename": "申论大作文与概括分析.json",
+      "filename": "申论_申论大作文与概括分析.json",
       "title": "申论大作文与概括分析：高分答题技巧",
       "description": "申论大作文写作框架、归纳概括与综合分析的答题方法",
       "category": "公务员/申论",
@@ -33,7 +33,7 @@
       "id": "bdda351ba1d21b9a"
     },
     {
-      "filename": "申论对策与写作结构.json",
+      "filename": "申论_申论对策与写作结构.json",
       "title": "申论对策与写作结构：提出问题分析问题解决问题",
       "description": "申论写作结构、对策类型与实例分析，掌握提出对策的核心方法",
       "category": "公务员/申论",
@@ -48,7 +48,7 @@
       "id": "e91767d79d24a297"
     },
     {
-      "filename": "申论应用文写作.json",
+      "filename": "申论_申论应用文写作.json",
       "title": "申论应用文写作：通知报告请示等文种详解",
       "description": "申论常见应用文文种的格式要求、写作模板和解题技巧",
       "category": "公务员/申论",

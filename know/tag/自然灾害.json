@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "地震防范与应急.json",
+      "filename": "自然灾害_地震防范与应急.json",
       "title": "地震防范与应急",
       "description": "地震发生时的应对措施、逃生技巧和日常准备",
       "category": "生活通识/自然灾害",
@@ -19,7 +19,7 @@
       "id": "be8e5050f8013cf0"
     },
     {
-      "filename": "洪水防范与应对.json",
+      "filename": "自然灾害_洪水防范与应对.json",
       "title": "洪水防范与应对",
       "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
       "category": "生活通识/自然灾害",
@@ -33,7 +33,7 @@
       "id": "ba444651c5345d81"
     },
     {
-      "filename": "台风防范指南.json",
+      "filename": "自然灾害_台风防范指南.json",
       "title": "台风防范指南",
       "description": "台风的形成、预警等级及防范措施",
       "category": "生活通识/自然灾害",

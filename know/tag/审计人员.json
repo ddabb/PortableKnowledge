@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "审计人员",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "组织治理与管理_IT审计基础.json",
+      "title": "IT审计基础",
+      "description": "IT审计定义、目的、目标、范围、人员要求",
+      "category": "软考/综合知识/组织治理与管理",
+      "tags": [
+        "软考高项",
+        "IT审计",
+        "审计范围",
+        "审计人员"
+      ],
+      "wordCount": 952,
+      "id": "4ee010d0411f6bca"
+    }
+  ]
+}

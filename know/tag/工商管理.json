@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "核心考点.json",
+      "filename": "中级经济师_核心考点.json",
       "title": "中级经济师核心考点",
       "description": "经济师备考知识体系：经济基础、人力、金融、财政税收、工商管理",
       "category": "中级经济师",
@@ -21,7 +21,7 @@
       "id": "c26b861be7d55dbf"
     },
     {
-      "filename": "企业战略管理.json",
+      "filename": "专业科目_企业战略管理.json",
       "title": "企业战略管理",
       "description": "中级经济师工商管理章节核心知识点，包括企业战略定义、类型、制定过程和实施",
       "category": "中级经济师/专业科目",

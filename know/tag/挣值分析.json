@@ -1,11 +1,27 @@
 {
   "meta": {
     "tag": "挣值分析",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
-      "filename": "挣值分析计算专项.json",
+      "filename": "项目绩效域管理_度量绩效域.json",
+      "title": "度量绩效域",
+      "description": "度量绩效域涉及评估项目绩效和采取适当行动维持可接受绩效的活动，包含KPI、SMART原则、利特尔法则等核心内容。",
+      "category": "软考/项目管理/项目绩效域管理",
+      "tags": [
+        "度量绩效域",
+        "KPI",
+        "SMART原则",
+        "利特尔法则",
+        "挣值分析",
+        "项目绩效域管理"
+      ],
+      "wordCount": 897,
+      "id": "b66d8969a9eec7ba"
+    },
+    {
+      "filename": "计算题专项_挣值分析计算专项.json",
       "title": "挣值分析计算专项",
       "description": "软考中项计算必考——挣值分析（EVM）全套公式及典型例题解析，含CV、SV、CPI、SPI、EAC等核心指标。",
       "category": "软考/综合知识/计算题专项",
@@ -19,7 +35,7 @@
       "id": "261aaa76fbd66b9b"
     },
     {
-      "filename": "案例分析-成本管理问题.json",
+      "filename": "软考备考_案例分析-成本管理问题.json",
       "title": "案例分析 - 成本管理问题",
       "description": "软考中项案例分析：成本超支、成本控制、成本预测等问题的解题框架",
       "category": "软考/综合知识/软考备考",

@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "核心考点.json",
+      "filename": "教师资格证_核心考点.json",
       "title": "教师资格证考试核心考点",
       "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
       "category": "教师资格证",
@@ -18,7 +18,7 @@
       "id": "bd7849ae8f9e3d7a"
     },
     {
-      "filename": "安全卫生.json",
+      "filename": "幼儿_安全卫生.json",
       "title": "安全卫生",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -31,7 +31,7 @@
       "id": "b5ad38e86ee32c6d"
     },
     {
-      "filename": "游戏指导.json",
+      "filename": "幼儿_游戏指导.json",
       "title": "游戏指导",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -44,7 +44,7 @@
       "id": "237e21b131ef5c8e"
     },
     {
-      "filename": "幼儿发展特点.json",
+      "filename": "幼儿_幼儿发展特点.json",
       "title": "幼儿发展特点",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -57,7 +57,7 @@
       "id": "d99d8a2101ee1257"
     },
     {
-      "filename": "幼儿教育方法.json",
+      "filename": "幼儿_幼儿教育方法.json",
       "title": "幼儿教育方法",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -70,7 +70,7 @@
       "id": "b4e643bc15376f7f"
     },
     {
-      "filename": "幼儿科学教育.json",
+      "filename": "幼儿_幼儿科学教育.json",
       "title": "幼儿科学教育",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -83,7 +83,7 @@
       "id": "085a0987c5052b3e"
     },
     {
-      "filename": "幼儿情绪发展.json",
+      "filename": "幼儿_幼儿情绪发展.json",
       "title": "幼儿情绪发展",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -96,7 +96,7 @@
       "id": "41ccc8cea733cbca"
     },
     {
-      "filename": "幼儿认知发展.json",
+      "filename": "幼儿_幼儿认知发展.json",
       "title": "幼儿认知发展",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -109,7 +109,7 @@
       "id": "c000081953871a25"
     },
     {
-      "filename": "幼儿社会性发展.json",
+      "filename": "幼儿_幼儿社会性发展.json",
       "title": "幼儿社会性发展",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -122,7 +122,7 @@
       "id": "1af5319899764194"
     },
     {
-      "filename": "幼儿艺术教育.json",
+      "filename": "幼儿_幼儿艺术教育.json",
       "title": "幼儿艺术教育",
       "description": "",
       "category": "教师资格证/幼儿",
@@ -135,7 +135,7 @@
       "id": "d5b6dfdba330ba4a"
     },
     {
-      "filename": "幼儿语言发展.json",
+      "filename": "幼儿_幼儿语言发展.json",
       "title": "幼儿语言发展",
       "description": "",
       "category": "教师资格证/幼儿",

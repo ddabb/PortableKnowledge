@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "审计流程",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "组织治理与管理_IT审计流程.json",
+      "title": "IT审计流程",
+      "description": "IT审计四大阶段：准备、实施、终结、后续审计；IT审计业务分类",
+      "category": "软考/综合知识/组织治理与管理",
+      "tags": [
+        "软考高项",
+        "IT审计",
+        "审计流程",
+        "审计阶段"
+      ],
+      "wordCount": 800,
+      "id": "7ecb9a05f860d092"
+    }
+  ]
+}

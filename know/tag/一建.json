@@ -5,7 +5,7 @@
   },
   "articles": [
     {
-      "filename": "核心考点.json",
+      "filename": "建造师_核心考点.json",
       "title": "建造师考试核心考点",
       "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
       "category": "建造师",
@@ -18,7 +18,7 @@
       "id": "891b181955bf8c6c"
     },
     {
-      "filename": "公路工程管理与实务.json",
+      "filename": "一级建造师_公路工程管理与实务.json",
       "title": "公路工程管理与实务",
       "description": "",
       "category": "建造师/一级建造师",
@@ -32,7 +32,7 @@
       "id": "fc359992b46f3ed3"
     },
     {
-      "filename": "机电工程管理与实务.json",
+      "filename": "一级建造师_机电工程管理与实务.json",
       "title": "机电工程管理与实务",
       "description": "",
       "category": "建造师/一级建造师",
@@ -46,7 +46,7 @@
       "id": "a7b57ed1618be4bb"
     },
     {
-      "filename": "建设工程法规及相关知识.json",
+      "filename": "一级建造师_建设工程法规及相关知识.json",
       "title": "建设工程法规及相关知识",
       "description": "",
       "category": "建造师/一级建造师",
@@ -59,7 +59,7 @@
       "id": "7eef789c72cc2e71"
     },
     {
-      "filename": "建设工程法律法规实务.json",
+      "filename": "一级建造师_建设工程法律法规实务.json",
       "title": "建设工程法律法规实务",
       "description": "",
       "category": "建造师/一级建造师",
@@ -73,7 +73,7 @@
       "id": "fa1244339a69ec42"
     },
     {
-      "filename": "建设工程经济.json",
+      "filename": "一级建造师_建设工程经济.json",
       "title": "建设工程经济",
       "description": "",
       "category": "建造师/一级建造师",
@@ -86,7 +86,7 @@
       "id": "ca0d0ae8cf075c84"
     },
     {
-      "filename": "建设工程项目管理.json",
+      "filename": "一级建造师_建设工程项目管理.json",
       "title": "建设工程项目管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -100,7 +100,7 @@
       "id": "7159a8aa660324b4"
     },
     {
-      "filename": "建筑工程管理与实务.json",
+      "filename": "一级建造师_建筑工程管理与实务.json",
       "title": "建筑工程管理与实务",
       "description": "",
       "category": "建造师/一级建造师",
@@ -114,7 +114,7 @@
       "id": "30f9152bdb630791"
     },
     {
-      "filename": "施工技术与管理.json",
+      "filename": "一级建造师_施工技术与管理.json",
       "title": "施工技术与管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -128,7 +128,7 @@
       "id": "24279326babd9df0"
     },
     {
-      "filename": "市政公用工程管理与实务.json",
+      "filename": "一级建造师_市政公用工程管理与实务.json",
       "title": "市政公用工程管理与实务",
       "description": "",
       "category": "建造师/一级建造师",
@@ -142,7 +142,7 @@
       "id": "5793250af66a75fb"
     },
     {
-      "filename": "水利水电工程管理与实务.json",
+      "filename": "一级建造师_水利水电工程管理与实务.json",
       "title": "水利水电工程管理与实务",
       "description": "",
       "category": "建造师/一级建造师",
@@ -156,7 +156,7 @@
       "id": "c1e52e11bb2d17af"
     },
     {
-      "filename": "项目安全管理.json",
+      "filename": "一级建造师_项目安全管理.json",
       "title": "项目安全管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -170,7 +170,7 @@
       "id": "45de03bdcf1f0f2c"
     },
     {
-      "filename": "项目成本管理.json",
+      "filename": "一级建造师_项目成本管理.json",
       "title": "项目成本管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -184,7 +184,7 @@
       "id": "37ba86cbdaa95f4c"
     },
     {
-      "filename": "项目风险管理.json",
+      "filename": "一级建造师_项目风险管理.json",
       "title": "项目风险管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -198,7 +198,7 @@
       "id": "8c658d432fcf62f0"
     },
     {
-      "filename": "项目沟通管理.json",
+      "filename": "一级建造师_项目沟通管理.json",
       "title": "项目沟通管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -212,7 +212,7 @@
       "id": "cecb4e65997daedd"
     },
     {
-      "filename": "项目管理实务.json",
+      "filename": "一级建造师_项目管理实务.json",
       "title": "项目管理实务",
       "description": "",
       "category": "建造师/一级建造师",
@@ -226,7 +226,7 @@
       "id": "592f2ac643888a83"
     },
     {
-      "filename": "项目合同管理.json",
+      "filename": "一级建造师_项目合同管理.json",
       "title": "项目合同管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -240,7 +240,7 @@
       "id": "26b9c0766862828c"
     },
     {
-      "filename": "项目进度管理.json",
+      "filename": "一级建造师_项目进度管理.json",
       "title": "项目进度管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -254,7 +254,7 @@
       "id": "d3e3167c6698282e"
     },
     {
-      "filename": "项目收尾管理.json",
+      "filename": "一级建造师_项目收尾管理.json",
       "title": "项目收尾管理",
       "description": "",
       "category": "建造师/一级建造师",
@@ -268,7 +268,7 @@
       "id": "ae4580952208ff40"
     },
     {
-      "filename": "项目质量管理.json",
+      "filename": "一级建造师_项目质量管理.json",
       "title": "项目质量管理",
       "description": "",
       "category": "建造师/一级建造师",
