@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "tag": "JOIN",
+    "count": 3
+  },
+  "articles": [
+    {
+      "filename": "数据分析师_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式",
+      "category": "数据分析师",
+      "tags": [
+        "数据分析师",
+        "SQL",
+        "多表连接",
+        "JOIN",
+        "数据分析"
+      ],
+      "wordCount": 8136,
+      "id": "819c3ef0945bafce"
+    },
+    {
+      "filename": "SQL数据库_多表连接.json",
+      "title": "SQL多表连接",
+      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "多表连接",
+        "JOIN"
+      ],
+      "wordCount": 11305,
+      "id": "3e58a7ce48a92ddc"
+    },
+    {
+      "filename": "SQL数据库_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL多表连接",
+        "JOIN",
+        "数据分析"
+      ],
+      "wordCount": 8928,
+      "id": "98f21c7ba430dfe8"
+    }
+  ]
+}

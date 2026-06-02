@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "category": "数据分析师/Python数据分析",
+    "count": 5
+  },
+  "articles": [
+    {
+      "filename": "Python数据分析_数据可视化基础.json",
+      "title": "数据可视化基础",
+      "description": "数据可视化是数据分析师展示分析结果的重要手段，Matplotlib和Seaborn是Python中最常用的可视化库",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "数据可视化",
+        "Matplotlib",
+        "Seaborn"
+      ],
+      "wordCount": 9353,
+      "id": "5e3c2f6dd90debe5"
+    },
+    {
+      "filename": "Python数据分析_数据清洗与预处理.json",
+      "title": "数据清洗与预处理",
+      "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "数据清洗",
+        "数据预处理",
+        "缺失值处理",
+        "异常值处理",
+        "数据分析"
+      ],
+      "wordCount": 12373,
+      "id": "d9aa0068a0606808"
+    },
+    {
+      "filename": "Python数据分析_NumPy基础.json",
+      "title": "NumPy基础",
+      "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "NumPy",
+        "数组操作",
+        "数值计算"
+      ],
+      "wordCount": 9306,
+      "id": "27b450b610ab9b26"
+    },
+    {
+      "filename": "Python数据分析_Pandas基础.json",
+      "title": "Pandas基础",
+      "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "DataFrame",
+        "Series"
+      ],
+      "wordCount": 10550,
+      "id": "258855724483295f"
+    },
+    {
+      "filename": "Python数据分析_Python数据分析基础.json",
+      "title": "Python数据分析基础",
+      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Python基础",
+        "NumPy",
+        "Pandas",
+        "数据分析"
+      ],
+      "wordCount": 10145,
+      "id": "e3e9daf172bc90aa"
+    }
+  ]
+}

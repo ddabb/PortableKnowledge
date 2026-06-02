@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "数据分析",
-    "count": 4
+    "count": 19
   },
   "articles": [
     {
@@ -57,6 +57,245 @@
       ],
       "wordCount": 1783,
       "id": "4d49fa1d72cc021d"
+    },
+    {
+      "filename": "数据分析师_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式",
+      "category": "数据分析师",
+      "tags": [
+        "数据分析师",
+        "SQL",
+        "多表连接",
+        "JOIN",
+        "数据分析"
+      ],
+      "wordCount": 8136,
+      "id": "819c3ef0945bafce"
+    },
+    {
+      "filename": "统计学基础_抽样理论.json",
+      "title": "抽样理论",
+      "description": "抽样理论是数据分析师进行统计推断的基础，包括抽样方法、样本量计算、抽样误差等",
+      "category": "数据分析师/统计学基础",
+      "tags": [
+        "数据分析师",
+        "统计学基础",
+        "抽样理论",
+        "抽样方法",
+        "样本量计算",
+        "抽样误差",
+        "数据分析"
+      ],
+      "wordCount": 5869,
+      "id": "669be3b708990395"
+    },
+    {
+      "filename": "统计学基础_概率分布.json",
+      "title": "概率分布",
+      "description": "概率分布是数据分析师理解数据随机性、进行统计推断的基础，包括离散分布和连续分布",
+      "category": "数据分析师/统计学基础",
+      "tags": [
+        "数据分析师",
+        "统计学基础",
+        "概率分布",
+        "离散分布",
+        "连续分布",
+        "正态分布",
+        "数据分析"
+      ],
+      "wordCount": 5780,
+      "id": "22da3ca46b08228e"
+    },
+    {
+      "filename": "统计学基础_描述性统计.json",
+      "title": "描述性统计",
+      "description": "描述性统计是数据分析师理解数据基本特征的基础技能，包括集中趋势、离散程度、分布形态等",
+      "category": "数据分析师/统计学基础",
+      "tags": [
+        "数据分析师",
+        "统计学基础",
+        "描述性统计",
+        "集中趋势",
+        "离散程度",
+        "分布形态",
+        "数据分析"
+      ],
+      "wordCount": 5374,
+      "id": "0c69d3d6b5b03484"
+    },
+    {
+      "filename": "统计学基础_时间序列分析.json",
+      "title": "时间序列分析",
+      "description": "时间序列分析是研究按时间顺序排列的数据，识别模式并进行预测的统计学方法",
+      "category": "数据分析师/统计学基础",
+      "tags": [
+        "数据分析师",
+        "统计学基础",
+        "时间序列分析",
+        "预测",
+        "数据分析"
+      ],
+      "wordCount": 8321,
+      "id": "708374f61d874783"
+    },
+    {
+      "filename": "统计学基础_相关分析.json",
+      "title": "相关分析",
+      "description": "相关分析用于研究两个或多个变量之间的关联程度和方向，是数据分析的核心基础",
+      "category": "数据分析师/统计学基础",
+      "tags": [
+        "数据分析师",
+        "统计学基础",
+        "相关分析",
+        "相关系数",
+        "数据分析"
+      ],
+      "wordCount": 7111,
+      "id": "da9c40384436dafc"
+    },
+    {
+      "filename": "Excel数据分析_Excel高级数据分析功能.json",
+      "title": "Excel高级数据分析功能",
+      "description": "Excel高级数据分析功能包括假设分析、规划求解、数据分析工具库等，是数据分析师使用Excel进行复杂分析的核心技能",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "假设分析",
+        "规划求解",
+        "数据分析工具库",
+        "数据分析"
+      ],
+      "wordCount": 5941,
+      "id": "da7f2d50dfdfbd0e"
+    },
+    {
+      "filename": "Excel数据分析_Excel公式与函数进阶.json",
+      "title": "Excel公式与函数进阶",
+      "description": "Excel公式与函数进阶是数据分析师使用Excel进行复杂数据分析的技能，包括逻辑函数、查找函数、文本函数、日期函数等",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "Excel公式",
+        "Excel函数",
+        "逻辑函数",
+        "查找函数",
+        "数据分析"
+      ],
+      "wordCount": 6649,
+      "id": "3b9896474651ac17"
+    },
+    {
+      "filename": "Excel数据分析_Excel数据透视表与图表.json",
+      "title": "Excel数据透视表与图表",
+      "description": "Excel数据透视表与图表是数据分析师使用Excel进行快速数据分析和可视化的核心技能",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "数据透视表",
+        "图表",
+        "数据分析",
+        "数据可视化"
+      ],
+      "wordCount": 5312,
+      "id": "f8be546aa340a750"
+    },
+    {
+      "filename": "Python数据分析_数据清洗与预处理.json",
+      "title": "数据清洗与预处理",
+      "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "数据清洗",
+        "数据预处理",
+        "缺失值处理",
+        "异常值处理",
+        "数据分析"
+      ],
+      "wordCount": 12373,
+      "id": "d9aa0068a0606808"
+    },
+    {
+      "filename": "Python数据分析_Python数据分析基础.json",
+      "title": "Python数据分析基础",
+      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Python基础",
+        "NumPy",
+        "Pandas",
+        "数据分析"
+      ],
+      "wordCount": 10145,
+      "id": "e3e9daf172bc90aa"
+    },
+    {
+      "filename": "SQL数据库_SQL窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "SQL高级查询",
+        "数据分析"
+      ],
+      "wordCount": 9748,
+      "id": "0640b04a4e030b50"
+    },
+    {
+      "filename": "SQL数据库_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL多表连接",
+        "JOIN",
+        "数据分析"
+      ],
+      "wordCount": 8928,
+      "id": "98f21c7ba430dfe8"
+    },
+    {
+      "filename": "SQL数据库_SQL基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师操作数据库的核心技能，包括SELECT、FROM、WHERE、GROUP BY、HAVING、ORDER BY等关键字的使用",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础查询",
+        "SELECT",
+        "数据分析"
+      ],
+      "wordCount": 7731,
+      "id": "86f4946ddc372b74"
+    },
+    {
+      "filename": "SQL数据库_SQL性能优化.json",
+      "title": "SQL性能优化",
+      "description": "SQL性能优化是数据分析师处理大数据集的关键技能，包括索引优化、查询重写、执行计划分析等",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL性能优化",
+        "索引优化",
+        "查询优化",
+        "数据分析"
+      ],
+      "wordCount": 8061,
+      "id": "f9fca9a70f72fd99"
     }
   ]
 }

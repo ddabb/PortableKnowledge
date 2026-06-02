@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "category": "数据分析师/Excel数据分析",
+    "count": 7
+  },
+  "articles": [
+    {
+      "filename": "Excel数据分析_数据清洗.json",
+      "title": "数据清洗",
+      "description": "数据清洗是数据分析的基础步骤，包括处理缺失值、重复值、异常值、格式统一等，确保数据质量符合分析要求",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "数据清洗",
+        "数据质量"
+      ],
+      "wordCount": 6352,
+      "id": "8bd8d15533e6a1bf"
+    },
+    {
+      "filename": "Excel数据分析_数据透视表.json",
+      "title": "数据透视表",
+      "description": "数据透视表是Excel中最强大的数据分析工具，能够快速对大量数据进行汇总、分组、筛选和可视化，是数据分析师必备技能",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "数据透视表",
+        "数据汇总"
+      ],
+      "wordCount": 7027,
+      "id": "386021153911c037"
+    },
+    {
+      "filename": "Excel数据分析_常用函数.json",
+      "title": "Excel常用函数",
+      "description": "Excel常用函数是数据分析师处理数据的基础工具，包括文本函数、逻辑函数、查找函数、统计函数等",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "常用函数",
+        "函数应用"
+      ],
+      "wordCount": 8528,
+      "id": "eeb348eb122e5225"
+    },
+    {
+      "filename": "Excel数据分析_Excel高级数据分析功能.json",
+      "title": "Excel高级数据分析功能",
+      "description": "Excel高级数据分析功能包括假设分析、规划求解、数据分析工具库等，是数据分析师使用Excel进行复杂分析的核心技能",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "假设分析",
+        "规划求解",
+        "数据分析工具库",
+        "数据分析"
+      ],
+      "wordCount": 5941,
+      "id": "da7f2d50dfdfbd0e"
+    },
+    {
+      "filename": "Excel数据分析_Excel公式与函数进阶.json",
+      "title": "Excel公式与函数进阶",
+      "description": "Excel公式与函数进阶是数据分析师使用Excel进行复杂数据分析的技能，包括逻辑函数、查找函数、文本函数、日期函数等",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "Excel公式",
+        "Excel函数",
+        "逻辑函数",
+        "查找函数",
+        "数据分析"
+      ],
+      "wordCount": 6649,
+      "id": "3b9896474651ac17"
+    },
+    {
+      "filename": "Excel数据分析_Excel数据透视表与图表.json",
+      "title": "Excel数据透视表与图表",
+      "description": "Excel数据透视表与图表是数据分析师使用Excel进行快速数据分析和可视化的核心技能",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "数据透视表",
+        "图表",
+        "数据分析",
+        "数据可视化"
+      ],
+      "wordCount": 5312,
+      "id": "f8be546aa340a750"
+    },
+    {
+      "filename": "Excel数据分析_图表制作.json",
+      "title": "Excel图表制作",
+      "description": "Excel图表制作是数据分析师展示数据洞察的重要技能，包括柱状图、折线图、饼图等多种图表类型",
+      "category": "数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "图表制作",
+        "数据可视化",
+        "Excel图表"
+      ],
+      "wordCount": 5889,
+      "id": "a03d5d2137d06487"
+    }
+  ]
+}

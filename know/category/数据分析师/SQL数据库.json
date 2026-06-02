@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "category": "数据分析师/SQL数据库",
+    "count": 11
+  },
+  "articles": [
+    {
+      "filename": "SQL数据库_窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "Window Functions"
+      ],
+      "wordCount": 9326,
+      "id": "755ac7c09bbbacab"
+    },
+    {
+      "filename": "SQL数据库_SQL窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "SQL高级查询",
+        "数据分析"
+      ],
+      "wordCount": 9748,
+      "id": "0640b04a4e030b50"
+    },
+    {
+      "filename": "SQL数据库_多表连接.json",
+      "title": "SQL多表连接",
+      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "多表连接",
+        "JOIN"
+      ],
+      "wordCount": 11305,
+      "id": "3e58a7ce48a92ddc"
+    },
+    {
+      "filename": "SQL数据库_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL多表连接",
+        "JOIN",
+        "数据分析"
+      ],
+      "wordCount": 8928,
+      "id": "98f21c7ba430dfe8"
+    },
+    {
+      "filename": "SQL数据库_分组聚合.json",
+      "title": "SQL分组聚合",
+      "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "分组聚合",
+        "GROUP BY",
+        "聚合函数"
+      ],
+      "wordCount": 9890,
+      "id": "ed472be2cb41192d"
+    },
+    {
+      "filename": "SQL数据库_SQL基础.json",
+      "title": "SQL基础",
+      "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础",
+        "SELECT",
+        "WHERE"
+      ],
+      "wordCount": 8372,
+      "id": "be4b4354f95f1004"
+    },
+    {
+      "filename": "SQL数据库_基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师最常用的技能，包括SELECT语句、WHERE过滤、ORDER BY排序、LIMIT限制等核心操作",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "基础查询",
+        "SELECT"
+      ],
+      "wordCount": 9500,
+      "id": "e78cfd8085599efa"
+    },
+    {
+      "filename": "SQL数据库_SQL基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师操作数据库的核心技能，包括SELECT、FROM、WHERE、GROUP BY、HAVING、ORDER BY等关键字的使用",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础查询",
+        "SELECT",
+        "数据分析"
+      ],
+      "wordCount": 7731,
+      "id": "86f4946ddc372b74"
+    },
+    {
+      "filename": "SQL数据库_SQL性能优化.json",
+      "title": "SQL性能优化",
+      "description": "SQL性能优化是数据分析师处理大数据集的关键技能，包括索引优化、查询重写、执行计划分析等",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL性能优化",
+        "索引优化",
+        "查询优化",
+        "数据分析"
+      ],
+      "wordCount": 8061,
+      "id": "f9fca9a70f72fd99"
+    },
+    {
+      "filename": "SQL数据库_子查询.json",
+      "title": "SQL子查询",
+      "description": "子查询是嵌套在其他SQL语句中的查询，用于复杂条件过滤、多表关联分析，是数据分析师必备技能",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "子查询",
+        "Subquery"
+      ],
+      "wordCount": 10233,
+      "id": "b70bfeda43252eed"
+    },
+    {
+      "filename": "SQL数据库_SQL子查询.json",
+      "title": "SQL子查询",
+      "description": "SQL子查询（Subquery）是嵌套在另一个SQL语句中的查询，用于解决复杂的数据提取需求",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL子查询",
+        "Subquery",
+        "嵌套查询"
+      ],
+      "wordCount": 8655,
+      "id": "3bd5c770e7e8db64"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "tag": "SELECT",
+    "count": 3
+  },
+  "articles": [
+    {
+      "filename": "SQL数据库_SQL基础.json",
+      "title": "SQL基础",
+      "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础",
+        "SELECT",
+        "WHERE"
+      ],
+      "wordCount": 8372,
+      "id": "be4b4354f95f1004"
+    },
+    {
+      "filename": "SQL数据库_基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师最常用的技能，包括SELECT语句、WHERE过滤、ORDER BY排序、LIMIT限制等核心操作",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "基础查询",
+        "SELECT"
+      ],
+      "wordCount": 9500,
+      "id": "e78cfd8085599efa"
+    },
+    {
+      "filename": "SQL数据库_SQL基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师操作数据库的核心技能，包括SELECT、FROM、WHERE、GROUP BY、HAVING、ORDER BY等关键字的使用",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础查询",
+        "SELECT",
+        "数据分析"
+      ],
+      "wordCount": 7731,
+      "id": "86f4946ddc372b74"
+    }
+  ]
+}

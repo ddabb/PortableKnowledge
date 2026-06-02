@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "tag": "子查询",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "SQL数据库_子查询.json",
+      "title": "SQL子查询",
+      "description": "子查询是嵌套在其他SQL语句中的查询，用于复杂条件过滤、多表关联分析，是数据分析师必备技能",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "子查询",
+        "Subquery"
+      ],
+      "wordCount": 10233,
+      "id": "b70bfeda43252eed"
+    }
+  ]
+}

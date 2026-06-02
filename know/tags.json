@@ -1,6 +1,6 @@
 {
   "meta": {
-    "totalTags": 1333
+    "totalTags": 1432
   },
   "tags": [
     {
@@ -18,6 +18,14 @@
     {
       "name": "项目管理",
       "count": 52
+    },
+    {
+      "name": "心理咨询师",
+      "count": 41
+    },
+    {
+      "name": "数据分析师",
+      "count": 37
     },
     {
       "name": "建造师",
@@ -50,6 +58,10 @@
     {
       "name": "一建",
       "count": 20
+    },
+    {
+      "name": "数据分析",
+      "count": 19
     },
     {
       "name": "基础知识",
@@ -96,6 +108,10 @@
       "count": 12
     },
     {
+      "name": "心理障碍",
+      "count": 12
+    },
+    {
       "name": "经济学基础",
       "count": 12
     },
@@ -114,6 +130,14 @@
     {
       "name": "基本要素",
       "count": 11
+    },
+    {
+      "name": "SQL数据库",
+      "count": 11
+    },
+    {
+      "name": "统计学基础",
+      "count": 10
     },
     {
       "name": "规划采购管理",
@@ -156,6 +180,10 @@
       "count": 8
     },
     {
+      "name": "基础心理学",
+      "count": 8
+    },
+    {
       "name": "质量管理",
       "count": 7
     },
@@ -181,6 +209,10 @@
     },
     {
       "name": "制定项目章程",
+      "count": 7
+    },
+    {
+      "name": "Excel数据分析",
       "count": 7
     },
     {
@@ -228,6 +260,18 @@
       "count": 6
     },
     {
+      "name": "发展心理学",
+      "count": 6
+    },
+    {
+      "name": "社会心理学",
+      "count": 6
+    },
+    {
+      "name": "伦理与法律",
+      "count": 6
+    },
+    {
       "name": "内部控制",
       "count": 6
     },
@@ -253,6 +297,14 @@
     },
     {
       "name": "系统集成",
+      "count": 5
+    },
+    {
+      "name": "Python数据分析",
+      "count": 5
+    },
+    {
+      "name": "咨询技能",
       "count": 5
     },
     {
@@ -293,10 +345,6 @@
     },
     {
       "name": "实施采购",
-      "count": 4
-    },
-    {
-      "name": "数据分析",
       "count": 4
     },
     {
@@ -349,6 +397,10 @@
     },
     {
       "name": "计算题",
+      "count": 4
+    },
+    {
+      "name": "数据可视化",
       "count": 4
     },
     {
@@ -557,6 +609,22 @@
     },
     {
       "name": "自然灾害",
+      "count": 3
+    },
+    {
+      "name": "JOIN",
+      "count": 3
+    },
+    {
+      "name": "数据清洗",
+      "count": 3
+    },
+    {
+      "name": "假设检验",
+      "count": 3
+    },
+    {
+      "name": "SELECT",
       "count": 3
     },
     {
@@ -824,6 +892,10 @@
       "count": 2
     },
     {
+      "name": "产品分析",
+      "count": 2
+    },
+    {
       "name": "范围管理计划",
       "count": 2
     },
@@ -881,6 +953,10 @@
     },
     {
       "name": "控制进度",
+      "count": 2
+    },
+    {
+      "name": "专家判断",
       "count": 2
     },
     {
@@ -1016,6 +1092,10 @@
       "count": 2
     },
     {
+      "name": "SQL",
+      "count": 2
+    },
+    {
       "name": "虚拟化",
       "count": 2
     },
@@ -1044,7 +1124,15 @@
       "count": 2
     },
     {
+      "name": "数据预处理",
+      "count": 2
+    },
+    {
       "name": "数据挖掘",
+      "count": 2
+    },
+    {
+      "name": "数据质量",
       "count": 2
     },
     {
@@ -1101,6 +1189,46 @@
     },
     {
       "name": "防汛",
+      "count": 2
+    },
+    {
+      "name": "多表连接",
+      "count": 2
+    },
+    {
+      "name": "实战案例",
+      "count": 2
+    },
+    {
+      "name": "缺失值处理",
+      "count": 2
+    },
+    {
+      "name": "异常值处理",
+      "count": 2
+    },
+    {
+      "name": "抽样方法",
+      "count": 2
+    },
+    {
+      "name": "数据透视表",
+      "count": 2
+    },
+    {
+      "name": "NumPy",
+      "count": 2
+    },
+    {
+      "name": "Pandas",
+      "count": 2
+    },
+    {
+      "name": "窗口函数",
+      "count": 2
+    },
+    {
+      "name": "Subquery",
       "count": 2
     },
     {
@@ -2208,10 +2336,6 @@
       "count": 1
     },
     {
-      "name": "产品分析",
-      "count": 1
-    },
-    {
       "name": "范围基准",
       "count": 1
     },
@@ -2453,6 +2577,22 @@
     },
     {
       "name": "进度预测",
+      "count": 1
+    },
+    {
+      "name": "粗略估算",
+      "count": 1
+    },
+    {
+      "name": "历史数据",
+      "count": 1
+    },
+    {
+      "name": "成本较低",
+      "count": 1
+    },
+    {
+      "name": "耗时较少",
       "count": 1
     },
     {
@@ -2705,10 +2845,6 @@
     },
     {
       "name": "文档定级保护",
-      "count": 1
-    },
-    {
-      "name": "专家判断",
       "count": 1
     },
     {
@@ -3196,10 +3332,6 @@
       "count": 1
     },
     {
-      "name": "SQL",
-      "count": 1
-    },
-    {
       "name": "范式",
       "count": 1
     },
@@ -3548,23 +3680,11 @@
       "count": 1
     },
     {
-      "name": "数据预处理",
-      "count": 1
-    },
-    {
-      "name": "数据可视化",
-      "count": 1
-    },
-    {
       "name": "数据治理",
       "count": 1
     },
     {
       "name": "数据标准化",
-      "count": 1
-    },
-    {
-      "name": "数据质量",
       "count": 1
     },
     {
@@ -4236,7 +4356,279 @@
       "count": 1
     },
     {
-      "name": "发展心理学",
+      "name": "业务分析方法",
+      "count": 1
+    },
+    {
+      "name": "用户分析",
+      "count": 1
+    },
+    {
+      "name": "运营分析",
+      "count": 1
+    },
+    {
+      "name": "电商数据分析",
+      "count": 1
+    },
+    {
+      "name": "用户行为分析",
+      "count": 1
+    },
+    {
+      "name": "商品分析",
+      "count": 1
+    },
+    {
+      "name": "抽样理论",
+      "count": 1
+    },
+    {
+      "name": "样本量计算",
+      "count": 1
+    },
+    {
+      "name": "抽样误差",
+      "count": 1
+    },
+    {
+      "name": "方差分析",
+      "count": 1
+    },
+    {
+      "name": "ANOVA",
+      "count": 1
+    },
+    {
+      "name": "概率分布",
+      "count": 1
+    },
+    {
+      "name": "离散分布",
+      "count": 1
+    },
+    {
+      "name": "连续分布",
+      "count": 1
+    },
+    {
+      "name": "正态分布",
+      "count": 1
+    },
+    {
+      "name": "回归分析",
+      "count": 1
+    },
+    {
+      "name": "线性回归",
+      "count": 1
+    },
+    {
+      "name": "逻辑回归",
+      "count": 1
+    },
+    {
+      "name": "统计推断",
+      "count": 1
+    },
+    {
+      "name": "P值",
+      "count": 1
+    },
+    {
+      "name": "卡方检验",
+      "count": 1
+    },
+    {
+      "name": "分类变量",
+      "count": 1
+    },
+    {
+      "name": "独立性检验",
+      "count": 1
+    },
+    {
+      "name": "描述性统计",
+      "count": 1
+    },
+    {
+      "name": "集中趋势",
+      "count": 1
+    },
+    {
+      "name": "离散程度",
+      "count": 1
+    },
+    {
+      "name": "分布形态",
+      "count": 1
+    },
+    {
+      "name": "时间序列分析",
+      "count": 1
+    },
+    {
+      "name": "预测",
+      "count": 1
+    },
+    {
+      "name": "推断性统计",
+      "count": 1
+    },
+    {
+      "name": "参数估计",
+      "count": 1
+    },
+    {
+      "name": "相关分析",
+      "count": 1
+    },
+    {
+      "name": "相关系数",
+      "count": 1
+    },
+    {
+      "name": "数据汇总",
+      "count": 1
+    },
+    {
+      "name": "常用函数",
+      "count": 1
+    },
+    {
+      "name": "函数应用",
+      "count": 1
+    },
+    {
+      "name": "假设分析",
+      "count": 1
+    },
+    {
+      "name": "规划求解",
+      "count": 1
+    },
+    {
+      "name": "数据分析工具库",
+      "count": 1
+    },
+    {
+      "name": "Excel公式",
+      "count": 1
+    },
+    {
+      "name": "Excel函数",
+      "count": 1
+    },
+    {
+      "name": "逻辑函数",
+      "count": 1
+    },
+    {
+      "name": "查找函数",
+      "count": 1
+    },
+    {
+      "name": "图表",
+      "count": 1
+    },
+    {
+      "name": "图表制作",
+      "count": 1
+    },
+    {
+      "name": "Excel图表",
+      "count": 1
+    },
+    {
+      "name": "Matplotlib",
+      "count": 1
+    },
+    {
+      "name": "Seaborn",
+      "count": 1
+    },
+    {
+      "name": "数组操作",
+      "count": 1
+    },
+    {
+      "name": "数值计算",
+      "count": 1
+    },
+    {
+      "name": "DataFrame",
+      "count": 1
+    },
+    {
+      "name": "Series",
+      "count": 1
+    },
+    {
+      "name": "Python基础",
+      "count": 1
+    },
+    {
+      "name": "Window Functions",
+      "count": 1
+    },
+    {
+      "name": "SQL高级查询",
+      "count": 1
+    },
+    {
+      "name": "SQL多表连接",
+      "count": 1
+    },
+    {
+      "name": "分组聚合",
+      "count": 1
+    },
+    {
+      "name": "GROUP BY",
+      "count": 1
+    },
+    {
+      "name": "聚合函数",
+      "count": 1
+    },
+    {
+      "name": "SQL基础",
+      "count": 1
+    },
+    {
+      "name": "WHERE",
+      "count": 1
+    },
+    {
+      "name": "基础查询",
+      "count": 1
+    },
+    {
+      "name": "SQL基础查询",
+      "count": 1
+    },
+    {
+      "name": "SQL性能优化",
+      "count": 1
+    },
+    {
+      "name": "索引优化",
+      "count": 1
+    },
+    {
+      "name": "查询优化",
+      "count": 1
+    },
+    {
+      "name": "子查询",
+      "count": 1
+    },
+    {
+      "name": "SQL子查询",
+      "count": 1
+    },
+    {
+      "name": "嵌套查询",
       "count": 1
     },
     {
@@ -4308,10 +4700,6 @@
       "count": 1
     },
     {
-      "name": "社会心理学",
-      "count": 1
-    },
-    {
       "name": "社会认知",
       "count": 1
     },
@@ -4357,6 +4745,18 @@
     },
     {
       "name": "心理量表",
+      "count": 1
+    },
+    {
+      "name": "英语考试",
+      "count": 1
+    },
+    {
+      "name": "四六级",
+      "count": 1
+    },
+    {
+      "name": "词汇",
       "count": 1
     },
     {
@@ -5261,10 +5661,6 @@
     },
     {
       "name": "审计抽样",
-      "count": 1
-    },
-    {
-      "name": "抽样方法",
       "count": 1
     },
     {

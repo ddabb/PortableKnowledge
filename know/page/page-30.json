@@ -1,286 +1,255 @@
 {
   "page": 30,
-  "totalPages": 33,
-  "totalItems": 641,
+  "totalPages": 36,
+  "totalItems": 720,
   "items": [
     {
-      "filename": "会计_短期借款.json",
-      "title": "短期借款",
-      "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
-      "category": "注册会计师/会计",
+      "filename": "咨询技能_心理评估.json",
+      "title": "心理评估",
+      "description": "心理评估是心理咨询的重要环节，为制定咨询方案、选择咨询技术、评估咨询效果提供依据。在心理咨询师考试中，心理评估是重点考查内容。",
+      "category": "心理咨询师/咨询技能",
       "tags": [
-        "CPA",
-        "会计",
-        "短期借款",
-        "利息核算"
+        "心理咨询师",
+        "咨询技能"
       ],
-      "wordCount": 674,
-      "id": "2ce4bfe39200714a"
+      "wordCount": 4100,
+      "id": "479c46cedf8d48bc"
     },
     {
-      "filename": "会计_负债概述.json",
-      "title": "负债概述",
-      "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
-      "category": "注册会计师/会计",
+      "filename": "咨询技能_咨询方案制定.json",
+      "title": "咨询方案制定",
+      "description": "咨询方案是心理咨询的重要环节，它为咨询提供清晰的方向、框架，帮助咨询师与来访者达成共识，提高咨询效果。在心理咨询师考试中，咨询方案制定是重点考查内容。",
+      "category": "心理咨询师/咨询技能",
       "tags": [
-        "CPA",
-        "会计",
-        "负债",
-        "确认计量"
+        "心理咨询师",
+        "咨询技能"
       ],
-      "wordCount": 707,
-      "id": "2a8d3bc844708f18"
+      "wordCount": 4116,
+      "id": "c838b2d5bad967c0"
     },
     {
-      "filename": "会计_固定资产.json",
-      "title": "固定资产",
-      "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
-      "category": "注册会计师/会计",
+      "filename": "咨询技能_咨询关系建立.json",
+      "title": "咨询关系建立",
+      "description": "良好的咨询关系是心理咨询有效性的前提，它能为来访者提供安全、信任、接纳的环境，促进来访者的自我探索与改变。在心理咨询师考试中，咨询关系建立是重点考查内容。",
+      "category": "心理咨询师/咨询技能",
       "tags": [
-        "CPA",
-        "会计",
-        "固定资产",
-        "折旧"
+        "心理咨询师",
+        "咨询技能"
       ],
-      "wordCount": 1300,
-      "id": "44317f6c09f098d5"
+      "wordCount": 3558,
+      "id": "9948c6a9edbe7fe0"
     },
     {
-      "filename": "会计_货币资金.json",
-      "title": "货币资金",
-      "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
-      "category": "注册会计师/会计",
+      "filename": "咨询技能_咨询技术.json",
+      "title": "咨询技术",
+      "description": "咨询技术是心理咨询的重要组成部分，直接影响咨询效果。不同的咨询理论有不同的技术，但有些技术是通用的。在心理咨询师考试中，咨询技术是重点考查内容。",
+      "category": "心理咨询师/咨询技能",
       "tags": [
-        "CPA",
-        "会计",
-        "货币资金",
-        "现金管理"
+        "心理咨询师",
+        "咨询技能"
       ],
-      "wordCount": 1178,
-      "id": "33408f637aca0506"
+      "wordCount": 4615,
+      "id": "06f5a9912f6322c9"
     },
     {
-      "filename": "会计_金融资产.json",
-      "title": "金融资产",
-      "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
-      "category": "注册会计师/会计",
+      "filename": "词汇_高频词汇.json",
+      "title": "高频词汇",
+      "description": "高频词汇是指在英语考试（如四六级、考研、雅思等）中频繁出现、考查概率较高的词汇。掌握这些词汇是提高阅读速度、理解准确性和写作表达丰富性的基础。",
+      "category": "英语考试/四六级/词汇",
       "tags": [
-        "CPA",
-        "会计",
-        "金融资产",
-        "分类"
+        "英语考试",
+        "四六级",
+        "词汇"
       ],
-      "wordCount": 1398,
-      "id": "0568b7fcfb220ec9"
+      "wordCount": 2442,
+      "id": "edd93da11bae2dec"
     },
     {
-      "filename": "会计_其他应付款.json",
-      "title": "其他应付款",
-      "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
-      "category": "注册会计师/会计",
+      "filename": "营销增长_内容创作方法论.json",
+      "title": "内容创作方法论：从选题到发布的完整流程",
+      "description": "系统讲解内容创作的完整流程，包括选题策划、标题技巧、内容结构、视觉体验、发布策略和数据分析",
+      "category": "营销增长",
       "tags": [
-        "CPA",
-        "会计",
-        "其他应付款",
-        "核算"
+        "内容创作",
+        "选题",
+        "标题",
+        "排版"
       ],
-      "wordCount": 525,
-      "id": "23ba7ef0a40abfe7"
+      "wordCount": 2134,
+      "id": "1ad9665c7c7ad87d"
     },
     {
-      "filename": "会计_所有者权益概述.json",
-      "title": "所有者权益概述",
-      "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
-      "category": "注册会计师/会计",
+      "filename": "营销增长_增长策略与私域运营.json",
+      "title": "增长策略与私域运营：AARRR模型实践指南",
+      "description": "系统化的增长方法论，从AARRR漏斗到私域流量运营的完整指南",
+      "category": "营销增长",
       "tags": [
-        "CPA",
-        "会计",
-        "所有者权益",
-        "构成"
+        "增长策略",
+        "AARRR",
+        "私域流量",
+        "用户增长",
+        "留存",
+        "变现"
       ],
-      "wordCount": 1132,
-      "id": "602d76b9bea46d42"
+      "wordCount": 3302,
+      "id": "f8203cddf7e58939"
     },
     {
-      "filename": "会计_投资性房地产.json",
-      "title": "投资性房地产",
-      "description": "CPA会计投资性房地产章节核心知识点，包括投资性房地产的确认、计量和转换",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_常见药物分类.json",
+      "title": "常见药物分类",
+      "description": "常见药物的分类方法和代表药物",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "投资性房地产",
-        "计量模式"
+        "执业药师",
+        "药物分类"
       ],
-      "wordCount": 1634,
-      "id": "6459a2efc0496b74"
+      "wordCount": 1356,
+      "id": "b75b5e129e44e042"
     },
     {
-      "filename": "会计_无形资产.json",
-      "title": "无形资产",
-      "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_临床药理学.json",
+      "title": "临床药理学",
+      "description": "临床药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "无形资产",
-        "摊销"
+        "执业药师",
+        "临床药理学"
       ],
-      "wordCount": 1259,
-      "id": "b2a8b4a2135a7253"
+      "wordCount": 928,
+      "id": "019a37c34d921c94"
     },
     {
-      "filename": "会计_应付利息和应付股利.json",
-      "title": "应付利息和应付股利",
-      "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_临床药物治疗学.json",
+      "title": "临床药物治疗学",
+      "description": "临床药物治疗学的基本概念、方法和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "应付利息",
-        "应付股利"
+        "执业药师",
+        "临床药物治疗学"
       ],
-      "wordCount": 668,
-      "id": "548bdca14739cb31"
+      "wordCount": 1068,
+      "id": "0cc7be10dd883bdd"
     },
     {
-      "filename": "会计_应付票据.json",
-      "title": "应付票据",
-      "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_药剂学.json",
+      "title": "药剂学",
+      "description": "药剂学的基本概念、剂型设计和质量控制",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "应付票据",
-        "商业汇票"
+        "执业药师",
+        "药剂学"
       ],
-      "wordCount": 762,
-      "id": "b6bd3ee4d13fca56"
+      "wordCount": 895,
+      "id": "c9af10b06a7a5fdc"
     },
     {
-      "filename": "会计_应付账款.json",
-      "title": "应付账款",
-      "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_药理学.json",
+      "title": "药理学",
+      "description": "药理学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "应付账款",
-        "现金折扣"
+        "执业药师",
+        "药理学"
       ],
-      "wordCount": 1044,
-      "id": "2350ee48d8cc9b5b"
+      "wordCount": 765,
+      "id": "778ba3a88cb777e6"
     },
     {
-      "filename": "会计_应付职工薪酬.json",
-      "title": "应付职工薪酬",
-      "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_药事法规.json",
+      "title": "药事法规",
+      "description": "药事法规的基本内容和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "应付职工薪酬",
-        "核算"
+        "执业药师",
+        "药事法规"
       ],
-      "wordCount": 1144,
-      "id": "568e00039dccb6b5"
+      "wordCount": 1102,
+      "id": "96e5785a6604edbe"
     },
     {
-      "filename": "会计_应交税费.json",
-      "title": "应交税费",
-      "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_药物分析.json",
+      "title": "药物分析",
+      "description": "药物分析的基本概念、方法和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "应交税费",
-        "增值税"
+        "执业药师",
+        "药物分析"
       ],
-      "wordCount": 1207,
-      "id": "42db45ed35059dd0"
+      "wordCount": 687,
+      "id": "f827d9c6e100d0c6"
     },
     {
-      "filename": "会计_应收及预付款项.json",
-      "title": "应收及预付款项",
-      "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_药物化学.json",
+      "title": "药物化学",
+      "description": "药物化学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "应收账款",
-        "应收票据"
+        "执业药师",
+        "药物化学"
       ],
-      "wordCount": 1285,
-      "id": "b149d1a5237bfb5f"
+      "wordCount": 712,
+      "id": "283f7d749ab0a9bd"
     },
     {
-      "filename": "会计_预收账款.json",
-      "title": "预收账款",
-      "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_药物流行病学.json",
+      "title": "药物流行病学",
+      "description": "药物流行病学的基本概念、研究方法和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "预收账款",
-        "核算"
+        "执业药师",
+        "药物流行病学"
       ],
-      "wordCount": 702,
-      "id": "5a1db8a8635278a1"
+      "wordCount": 785,
+      "id": "479906c22a84c019"
     },
     {
-      "filename": "会计_长期股权投资.json",
-      "title": "长期股权投资",
-      "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_药物信息学.json",
+      "title": "药物信息学",
+      "description": "药物信息学的基本概念、方法和应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "长期股权投资",
-        "权益法"
+        "执业药师",
+        "药物信息学"
       ],
-      "wordCount": 1636,
-      "id": "ea6795870a4ab109"
+      "wordCount": 627,
+      "id": "ec33fb671d75b331"
     },
     {
-      "filename": "会计_长期借款.json",
-      "title": "长期借款",
-      "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_药学综合知识.json",
+      "title": "药学综合知识",
+      "description": "药学综合知识的核心内容和实践应用",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "长期借款",
-        "利息核算"
+        "执业药师",
+        "药学综合知识"
       ],
-      "wordCount": 1007,
-      "id": "f71eb9e8b48a6518"
+      "wordCount": 751,
+      "id": "744569747e72cf13"
     },
     {
-      "filename": "会计_资产概述.json",
-      "title": "资产概述",
-      "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
-      "category": "注册会计师/会计",
+      "filename": "执业药师_用药安全.json",
+      "title": "用药安全",
+      "description": "用药安全的重要性、常见问题和防范措施",
+      "category": "执业药师",
       "tags": [
-        "CPA",
-        "会计",
-        "资产",
-        "确认计量"
+        "执业药师",
+        "用药安全"
       ],
-      "wordCount": 665,
-      "id": "0d0c571d57a88cef"
+      "wordCount": 1386,
+      "id": "5026e3c2e834005f"
     },
     {
-      "filename": "经济法_反不正当竞争法概述.json",
-      "title": "反不正当竞争法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
+      "filename": "执业药师_核心考点.json",
+      "title": "执业药师核心考点",
+      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
+      "category": "执业药师",
       "tags": [
-        "反不正当竞争法",
-        "经济法",
-        "CPA"
+        "药师",
+        "药学",
+        "法规"
       ],
-      "wordCount": 757,
-      "id": "c4e8b6f024c78459"
+      "wordCount": 2516,
+      "id": "1ad4d4522a1af0f5"
     }
   ]
 }

@@ -1,306 +1,311 @@
 {
   "page": 27,
-  "totalPages": 33,
-  "totalItems": 641,
+  "totalPages": 36,
+  "totalItems": 720,
   "items": [
     {
-      "filename": "执业药师_核心考点.json",
-      "title": "执业药师核心考点",
-      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
-      "category": "执业药师",
+      "filename": "Python数据分析_数据清洗与预处理.json",
+      "title": "数据清洗与预处理",
+      "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
+      "category": "数据分析师/Python数据分析",
       "tags": [
-        "药师",
-        "药学",
-        "法规"
+        "数据分析师",
+        "Python数据分析",
+        "数据清洗",
+        "数据预处理",
+        "缺失值处理",
+        "异常值处理",
+        "数据分析"
       ],
-      "wordCount": 2516,
-      "id": "1ad4d4522a1af0f5"
+      "wordCount": 12373,
+      "id": "d9aa0068a0606808"
     },
     {
-      "filename": "执业药师_执业药师职业发展.json",
-      "title": "执业药师职业发展",
-      "description": "执业药师的职业发展路径、能力要求和发展策略",
-      "category": "执业药师",
+      "filename": "Python数据分析_NumPy基础.json",
+      "title": "NumPy基础",
+      "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
+      "category": "数据分析师/Python数据分析",
       "tags": [
-        "执业药师",
-        "职业发展"
+        "数据分析师",
+        "Python数据分析",
+        "NumPy",
+        "数组操作",
+        "数值计算"
       ],
-      "wordCount": 966,
-      "id": "b9eedacd274ec4f7"
+      "wordCount": 9306,
+      "id": "27b450b610ab9b26"
     },
     {
-      "filename": "执业药师_中药药理学.json",
-      "title": "中药药理学",
-      "description": "中药药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "Python数据分析_Pandas基础.json",
+      "title": "Pandas基础",
+      "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
+      "category": "数据分析师/Python数据分析",
       "tags": [
-        "执业药师",
-        "中药药理学"
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "DataFrame",
+        "Series"
       ],
-      "wordCount": 830,
-      "id": "9b066dbcc5222aa4"
+      "wordCount": 10550,
+      "id": "258855724483295f"
     },
     {
-      "filename": "个人品牌_打造个人品牌的实用攻略_从0到1建立影响力资产.json",
-      "title": "打造个人品牌的实用攻略：从0到1建立影响力资产",
-      "description": "打造个人品牌的实用攻略：从0到1建立影响力资产的核心知识点汇总",
-      "category": "职场生存/个人品牌",
+      "filename": "Python数据分析_Python数据分析基础.json",
+      "title": "Python数据分析基础",
+      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
+      "category": "数据分析师/Python数据分析",
       "tags": [
-        "个人品牌",
-        "IP",
-        "影响力"
+        "数据分析师",
+        "Python数据分析",
+        "Python基础",
+        "NumPy",
+        "Pandas",
+        "数据分析"
       ],
-      "wordCount": 2991,
-      "id": "07f49de7bf796592"
+      "wordCount": 10145,
+      "id": "e3e9daf172bc90aa"
     },
     {
-      "filename": "个人品牌_个人品牌定位与变现_细分赛道选择与价值打造.json",
-      "title": "个人品牌定位与变现：细分赛道选择与价值打造",
-      "description": "个人品牌定位与变现：细分赛道选择与价值打造的核心知识点汇总",
-      "category": "职场生存/个人品牌",
+      "filename": "SQL数据库_窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "个人品牌",
-        "IP",
-        "影响力"
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "Window Functions"
       ],
-      "wordCount": 6630,
-      "id": "08f76f2d89263def"
+      "wordCount": 9326,
+      "id": "755ac7c09bbbacab"
     },
     {
-      "filename": "劳动权益_经济补偿金与维权.json",
-      "title": "经济补偿金与维权：离职时你应该拿多少钱",
-      "description": "经济补偿金计算标准、N+1补偿、违法解除赔偿金和维权途径详解",
-      "category": "职场生存/劳动权益",
+      "filename": "SQL数据库_SQL窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "经济补偿金",
-        "维权",
-        "劳动仲裁",
-        "N+1",
-        "违法解除"
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "SQL高级查询",
+        "数据分析"
       ],
-      "wordCount": 1467,
-      "id": "885727a7d56cfedb"
+      "wordCount": 9748,
+      "id": "0640b04a4e030b50"
     },
     {
-      "filename": "劳动权益_劳动合同法基础.json",
-      "title": "劳动合同法基础：签合同必知的事项",
-      "description": "劳动合同签订要求、必备条款、试用期规定和合同类型详解",
-      "category": "职场生存/劳动权益",
+      "filename": "SQL数据库_多表连接.json",
+      "title": "SQL多表连接",
+      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "劳动合同",
-        "试用期",
-        "合同类型",
-        "必备条款",
-        "签订要求"
+        "数据分析师",
+        "SQL数据库",
+        "多表连接",
+        "JOIN"
       ],
-      "wordCount": 709,
-      "id": "9491cfeea6c75cdd"
+      "wordCount": 11305,
+      "id": "3e58a7ce48a92ddc"
     },
     {
-      "filename": "劳动权益_五险一金全解读.json",
-      "title": "五险一金全解读：你的钱去哪了",
-      "description": "养老保险、医疗保险、失业保险、工伤保险、生育保险和住房公积金的详细解读",
-      "category": "职场生存/劳动权益",
+      "filename": "SQL数据库_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "五险一金",
-        "养老保险",
-        "医疗保险",
-        "住房公积金",
-        "社保"
+        "数据分析师",
+        "SQL数据库",
+        "SQL多表连接",
+        "JOIN",
+        "数据分析"
       ],
-      "wordCount": 3589,
-      "id": "741a73a4774be150"
+      "wordCount": 8928,
+      "id": "98f21c7ba430dfe8"
     },
     {
-      "filename": "中级经济师_核心考点.json",
-      "title": "中级经济师核心考点",
-      "description": "经济师备考知识体系：经济基础、人力、金融、财政税收、工商管理",
-      "category": "中级经济师",
+      "filename": "SQL数据库_分组聚合.json",
+      "title": "SQL分组聚合",
+      "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "经济师",
-        "经济基础",
-        "人力",
-        "金融",
-        "财政税收",
-        "工商管理"
+        "数据分析师",
+        "SQL数据库",
+        "分组聚合",
+        "GROUP BY",
+        "聚合函数"
       ],
-      "wordCount": 3563,
-      "id": "c26b861be7d55dbf"
+      "wordCount": 9890,
+      "id": "ed472be2cb41192d"
     },
     {
-      "filename": "财政税收_财政政策.json",
-      "title": "财政政策",
-      "description": "中级经济师财政税收章节核心知识点，包括财政政策定义、目标、工具和效果",
-      "category": "中级经济师/财政税收",
+      "filename": "SQL数据库_SQL基础.json",
+      "title": "SQL基础",
+      "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "中级经济师",
-        "财政税收",
-        "财政政策",
-        "财政收入",
-        "财政支出",
-        "财政赤字"
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础",
+        "SELECT",
+        "WHERE"
       ],
-      "wordCount": 2107,
-      "id": "0467e3848d41a2bc"
+      "wordCount": 8372,
+      "id": "be4b4354f95f1004"
     },
     {
-      "filename": "财政税收_税收制度.json",
-      "title": "税收制度",
-      "description": "中级经济师财政税收章节核心知识点，包括税收制度定义、构成要素、分类和改革",
-      "category": "中级经济师/财政税收",
+      "filename": "SQL数据库_基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师最常用的技能，包括SELECT语句、WHERE过滤、ORDER BY排序、LIMIT限制等核心操作",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "中级经济师",
-        "财政税收",
-        "税收制度",
-        "税收要素",
-        "税收分类",
-        "税收改革"
+        "数据分析师",
+        "SQL数据库",
+        "基础查询",
+        "SELECT"
       ],
-      "wordCount": 3985,
-      "id": "0df0a1e8933abfd9"
+      "wordCount": 9500,
+      "id": "e78cfd8085599efa"
     },
     {
-      "filename": "基础知识_财政基础知识.json",
-      "title": "财政基础知识",
-      "description": "中级经济师财政章节核心知识点，包括财政职能、财政支出、财政收入和财政政策",
-      "category": "中级经济师/基础知识",
+      "filename": "SQL数据库_SQL基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师操作数据库的核心技能，包括SELECT、FROM、WHERE、GROUP BY、HAVING、ORDER BY等关键字的使用",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "财政",
-        "财政职能",
-        "财政支出",
-        "财政收入"
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础查询",
+        "SELECT",
+        "数据分析"
       ],
-      "wordCount": 1856,
-      "id": "096c2568ebc775dc"
+      "wordCount": 7731,
+      "id": "86f4946ddc372b74"
     },
     {
-      "filename": "基础知识_成本理论.json",
-      "title": "成本理论",
-      "description": "中级经济师经济学基础章节核心知识点，包括成本的概念、短期成本、长期成本和利润最大化",
-      "category": "中级经济师/基础知识",
+      "filename": "SQL数据库_SQL性能优化.json",
+      "title": "SQL性能优化",
+      "description": "SQL性能优化是数据分析师处理大数据集的关键技能，包括索引优化、查询重写、执行计划分析等",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "成本理论",
-        "短期成本",
-        "长期成本"
+        "数据分析师",
+        "SQL数据库",
+        "SQL性能优化",
+        "索引优化",
+        "查询优化",
+        "数据分析"
       ],
-      "wordCount": 1465,
-      "id": "f15e5890f3b3756e"
+      "wordCount": 8061,
+      "id": "f9fca9a70f72fd99"
     },
     {
-      "filename": "基础知识_发展经济学.json",
-      "title": "发展经济学",
-      "description": "中级经济师经济学基础章节核心知识点，包括经济发展理论、发展中国家的特征、经济发展战略和可持续发展",
-      "category": "中级经济师/基础知识",
+      "filename": "SQL数据库_子查询.json",
+      "title": "SQL子查询",
+      "description": "子查询是嵌套在其他SQL语句中的查询，用于复杂条件过滤、多表关联分析，是数据分析师必备技能",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "发展经济学",
-        "经济发展",
-        "可持续发展"
+        "数据分析师",
+        "SQL数据库",
+        "子查询",
+        "Subquery"
       ],
-      "wordCount": 2665,
-      "id": "be8ba0753af78aaf"
+      "wordCount": 10233,
+      "id": "b70bfeda43252eed"
     },
     {
-      "filename": "基础知识_国际经济学.json",
-      "title": "国际经济学",
-      "description": "中级经济师经济学基础章节核心知识点，包括国际贸易理论、国际收支、汇率和国际经济政策协调",
-      "category": "中级经济师/基础知识",
+      "filename": "SQL数据库_SQL子查询.json",
+      "title": "SQL子查询",
+      "description": "SQL子查询（Subquery）是嵌套在另一个SQL语句中的查询，用于解决复杂的数据提取需求",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "国际经济学",
-        "国际贸易",
-        "国际收支"
+        "数据分析师",
+        "SQL数据库",
+        "SQL子查询",
+        "Subquery",
+        "嵌套查询"
       ],
-      "wordCount": 2081,
-      "id": "2c9cedb062515fcd"
+      "wordCount": 8655,
+      "id": "3bd5c770e7e8db64"
     },
     {
-      "filename": "基础知识_国民收入核算.json",
-      "title": "国民收入核算",
-      "description": "中级经济师经济学基础章节核心知识点，包括国内生产总值（GDP）、国民生产总值（GNP）、国民收入核算方法和宏观经济指标",
-      "category": "中级经济师/基础知识",
+      "filename": "发展心理学_发展心理学概论.json",
+      "title": "发展心理学概论：从婴儿到老年的人生旅程",
+      "description": "发展心理学的研究方法、发展理论、各年龄阶段的心理发展特征和语言道德发展",
+      "category": "心理学/发展心理学",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "国民收入核算",
-        "GDP",
-        "GNP"
+        "发展心理学",
+        "皮亚杰",
+        "埃里克森",
+        "认知发展",
+        "道德发展",
+        "语言发展"
       ],
-      "wordCount": 1243,
-      "id": "6845048c04b7fdfb"
+      "wordCount": 1786,
+      "id": "e2cb2ae1be284232"
     },
     {
-      "filename": "基础知识_宏观经济政策.json",
-      "title": "宏观经济政策",
-      "description": "中级经济师经济学基础章节核心知识点，包括财政政策、货币政策、宏观经济政策目标和政策搭配",
-      "category": "中级经济师/基础知识",
+      "filename": "基础心理学_感知觉与注意.json",
+      "title": "你看到的是真实世界吗？感知觉与注意的惊人真相",
+      "description": "探索感觉与知觉的奥秘，揭示注意的四大品质与三大理论，看清大脑如何构建你的主观世界",
+      "category": "心理学/基础心理学",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "宏观经济政策",
-        "财政政策",
-        "货币政策"
+        "心理学",
+        "感觉",
+        "知觉",
+        "注意",
+        "错觉",
+        "认知"
       ],
-      "wordCount": 1560,
-      "id": "30374bde538d3089"
+      "wordCount": 3024,
+      "id": "cee322b54dcb0572"
     },
     {
-      "filename": "基础知识_会计基础知识.json",
-      "title": "会计基础知识",
-      "description": "中级经济师会计章节核心知识点，包括会计基本概念、会计要素、会计等式和会计核算方法",
-      "category": "中级经济师/基础知识",
+      "filename": "基础心理学_心理学研究方法.json",
+      "title": "心理学研究到底靠谱吗？揭开6种核心方法的神秘面纱",
+      "description": "心理学研究方法全面解析，从实验法到心理测量法，了解心理学家如何探索人类心灵",
+      "category": "心理学/基础心理学",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "会计",
-        "会计要素",
-        "会计等式",
-        "会计核算"
+        "心理学",
+        "研究方法",
+        "实验法",
+        "观察法",
+        "调查法",
+        "心理测量"
       ],
-      "wordCount": 2035,
-      "id": "d8775c080d4c94d2"
+      "wordCount": 2230,
+      "id": "f30f3b9385a17c36"
     },
     {
-      "filename": "基础知识_货币与金融.json",
-      "title": "货币与金融",
-      "description": "中级经济师货币与金融章节核心知识点，包括货币理论、金融市场、金融机构和货币政策",
-      "category": "中级经济师/基础知识",
+      "filename": "人格与行为心理学_人格理论与行为学习.json",
+      "title": "人格、行为与情绪心理学：从理论到应用",
+      "description": "人格理论、行为学习、情绪调节与情商的完整指南",
+      "category": "心理学/人格与行为心理学",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "货币与金融",
-        "货币理论",
-        "金融市场",
-        "金融机构"
+        "人格",
+        "行为主义",
+        "情绪调节",
+        "情商",
+        "压力应对"
       ],
-      "wordCount": 2056,
-      "id": "807c952925a2497e"
+      "wordCount": 1406,
+      "id": "b15f781e5bcad30d"
     },
     {
-      "filename": "基础知识_经济学基础概述.json",
-      "title": "经济学基础概述",
-      "description": "中级经济师经济学基础章节核心知识点，包括经济学定义、研究对象、基本假设和分析方法",
-      "category": "中级经济师/基础知识",
+      "filename": "认知心理学_认知心理学概论.json",
+      "title": "认知心理学：注意、记忆与决策的科学",
+      "description": "认知心理学的研究范围，注意的品质与理论，记忆的编码存储提取和问题解决策略",
+      "category": "心理学/认知心理学",
       "tags": [
-        "中级经济师",
-        "基础知识",
-        "经济学基础",
-        "微观经济学",
-        "宏观经济学"
+        "认知心理学",
+        "注意",
+        "记忆",
+        "思维",
+        "问题解决",
+        "决策"
       ],
-      "wordCount": 929,
-      "id": "4e392a1647c1d262"
+      "wordCount": 1675,
+      "id": "70e95ac2f6755e45"
     }
   ]
 }

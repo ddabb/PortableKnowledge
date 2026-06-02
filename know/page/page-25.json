@@ -1,7 +1,7 @@
 {
   "page": 25,
-  "totalPages": 33,
-  "totalItems": 641,
+  "totalPages": 36,
+  "totalItems": 720,
   "items": [
     {
       "filename": "健康养生_猝死预防与急救.json",
@@ -276,36 +276,34 @@
       "id": "2411eb1484625054"
     },
     {
-      "filename": "发展心理学_发展心理学概论.json",
-      "title": "发展心理学概论：从婴儿到老年的人生旅程",
-      "description": "发展心理学的研究方法、发展理论、各年龄阶段的心理发展特征和语言道德发展",
-      "category": "心理学/发展心理学",
+      "filename": "数据分析师_业务分析方法.json",
+      "title": "业务分析方法",
+      "description": "业务分析方法是数据分析师将数据分析结果转化为业务价值的关键能力，包括用户分析、产品分析、运营分析等多个维度",
+      "category": "数据分析师",
       "tags": [
-        "发展心理学",
-        "皮亚杰",
-        "埃里克森",
-        "认知发展",
-        "道德发展",
-        "语言发展"
+        "数据分析师",
+        "业务分析方法",
+        "用户分析",
+        "产品分析",
+        "运营分析"
       ],
-      "wordCount": 1786,
-      "id": "e2cb2ae1be284232"
+      "wordCount": 6760,
+      "id": "c4cba16d86c004cb"
     },
     {
-      "filename": "基础心理学_感知觉与注意.json",
-      "title": "你看到的是真实世界吗？感知觉与注意的惊人真相",
-      "description": "探索感觉与知觉的奥秘，揭示注意的四大品质与三大理论，看清大脑如何构建你的主观世界",
-      "category": "心理学/基础心理学",
+      "filename": "数据分析师_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式",
+      "category": "数据分析师",
       "tags": [
-        "心理学",
-        "感觉",
-        "知觉",
-        "注意",
-        "错觉",
-        "认知"
+        "数据分析师",
+        "SQL",
+        "多表连接",
+        "JOIN",
+        "数据分析"
       ],
-      "wordCount": 3024,
-      "id": "cee322b54dcb0572"
+      "wordCount": 8136,
+      "id": "819c3ef0945bafce"
     }
   ]
 }
