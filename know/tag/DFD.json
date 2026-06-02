@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "DFD",
-    "count": 3
+    "count": 4
   },
   "articles": [
     {
@@ -21,6 +21,21 @@
       ],
       "wordCount": 4140,
       "id": "f804b62b314ee4ef"
+    },
+    {
+      "filename": "数据流向图_数据流向图.json",
+      "title": "数据流向图",
+      "description": "数据流向图（DFD）的概念、组成元素与绘制要点",
+      "category": "软考/综合知识/数据流向图",
+      "tags": [
+        "数据流向图",
+        "DFD",
+        "结构化分析",
+        "系统分析",
+        "数据流向图绘制"
+      ],
+      "wordCount": 3111,
+      "id": "c33b6fbcde05c601"
     },
     {
       "filename": "业务流程分析_数据流程图.json",
