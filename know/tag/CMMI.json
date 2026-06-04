@@ -8,7 +8,7 @@
       "filename": "高级项目管理_量化管理理论.json",
       "title": "量化管理理论",
       "description": "量化管理理论发展阶段、统计过程控制SPC、六西格玛DMAIC、CMMI高成熟度特征",
-      "category": "软考/项目管理/高级项目管理",
+      "category": "05_通用知识领域/软考/项目管理/高级项目管理",
       "tags": [
         "软考高项",
         "量化管理",
@@ -17,13 +17,13 @@
         "CMMI"
       ],
       "wordCount": 848,
-      "id": "1b39f6bc9987e942"
+      "id": "6112c1825eed9790"
     },
     {
       "filename": "高级项目管理_CMMI与PRINCE2模型.json",
       "title": "CMMI与PRINCE2模型",
       "description": "CMMI模型四大能力域和五级模型；PRINCE2七原则、七主题、七流程",
-      "category": "软考/项目管理/高级项目管理",
+      "category": "05_通用知识领域/软考/项目管理/高级项目管理",
       "tags": [
         "软考高项",
         "CMMI",
@@ -31,13 +31,13 @@
         "能力域"
       ],
       "wordCount": 1054,
-      "id": "b3c9d3ec25dbf1d9"
+      "id": "8a9f6c986b81cb6c"
     },
     {
       "filename": "信息系统开发_软件质量保证.json",
       "title": "软件质量保证",
       "description": "软件质量管理、SQA活动、质量模型、测试方法",
-      "category": "软考/综合知识/信息系统开发",
+      "category": "05_通用知识领域/软考/综合知识/信息系统开发",
       "tags": [
         "软件质量",
         "SQA",
@@ -45,7 +45,7 @@
         "软件测试"
       ],
       "wordCount": 1456,
-      "id": "2a9e91bd4e628181"
+      "id": "c65dbc59d49fe828"
     }
   ]
 }

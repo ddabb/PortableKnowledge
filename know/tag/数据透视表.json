@@ -8,7 +8,7 @@
       "filename": "Excel数据分析_数据透视表.json",
       "title": "数据透视表",
       "description": "数据透视表是Excel中最强大的数据分析工具，能够快速对大量数据进行汇总、分组、筛选和可视化，是数据分析师必备技能",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -16,13 +16,13 @@
         "数据汇总"
       ],
       "wordCount": 7027,
-      "id": "386021153911c037"
+      "id": "5c6f98f8846d85d2"
     },
     {
       "filename": "Excel数据分析_Excel数据透视表与图表.json",
       "title": "Excel数据透视表与图表",
       "description": "Excel数据透视表和图表是强大的数据分析工具，掌握这些功能能有效提升数据分析效率和可视化效果",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -34,7 +34,7 @@
         "图表类型"
       ],
       "wordCount": 4888,
-      "id": "f8be546aa340a750"
+      "id": "806c98888342ebc5"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "filename": "云原生_云原生网络.json",
       "title": "云原生网络",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "容器网络",
@@ -18,7 +18,7 @@
         "NetworkPolicy"
       ],
       "wordCount": 5310,
-      "id": "086389be3198c2f6"
+      "id": "d29590536f1a5902"
     }
   ]
 }

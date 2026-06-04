@@ -5,37 +5,23 @@
   },
   "articles": [
     {
-      "filename": "家庭理财_理财实用知识.json",
-      "title": "理财实用知识：信用卡与个税指南",
-      "description": "信用卡使用技巧、个人所得税专项附加扣除和常见理财误区",
-      "category": "家庭理财",
-      "tags": [
-        "信用卡",
-        "个人所得税",
-        "专项附加扣除",
-        "理财误区"
-      ],
-      "wordCount": 1210,
-      "id": "00f3356ba2255dc0"
-    },
-    {
       "filename": "税法_个人所得税概述.json",
       "title": "个人所得税概述",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "个人所得税",
         "税法",
         "CPA"
       ],
       "wordCount": 550,
-      "id": "9ddf90f68934eb79"
+      "id": "d3483961f53f559a"
     },
     {
       "filename": "税法_个人所得税税收优惠.json",
       "title": "个人所得税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "个人所得税",
         "税收优惠",
@@ -43,13 +29,13 @@
         "CPA"
       ],
       "wordCount": 549,
-      "id": "215c769b099e3c2f"
+      "id": "f38aea670b7b61be"
     },
     {
       "filename": "税法_个人所得税应纳税额计算.json",
       "title": "个人所得税应纳税额计算",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "个人所得税",
         "应纳税额",
@@ -57,7 +43,21 @@
         "CPA"
       ],
       "wordCount": 759,
-      "id": "978350a148cbae33"
+      "id": "d00cf44bc11486ad"
+    },
+    {
+      "filename": "家庭理财_理财实用知识.json",
+      "title": "理财实用知识：信用卡与个税指南",
+      "description": "信用卡使用技巧、个人所得税专项附加扣除和常见理财误区",
+      "category": "05_通用知识领域/家庭理财",
+      "tags": [
+        "信用卡",
+        "个人所得税",
+        "专项附加扣除",
+        "理财误区"
+      ],
+      "wordCount": 1210,
+      "id": "f768be2970c846da"
     }
   ]
 }

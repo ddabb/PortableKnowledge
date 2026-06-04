@@ -8,40 +8,40 @@
       "filename": "小学_小学教育法律法规.json",
       "title": "小学教育法律法规",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "02_考试证书领域/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育法律法规",
         "法律责任"
       ],
       "wordCount": 4252,
-      "id": "13661ad8ab96940a"
+      "id": "86178c7e904a2d73"
     },
     {
       "filename": "中学_教育法律法规案例分析.json",
       "title": "教育法律法规案例分析",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "02_考试证书领域/教师资格证/中学",
       "tags": [
         "教育法律法规",
         "案例分析",
         "法律责任"
       ],
       "wordCount": 4480,
-      "id": "4c465f57472777a5"
+      "id": "1bfbd59c37a0b3ee"
     },
     {
       "filename": "中学_教育法律法规与教师职业道德.json",
       "title": "教育法律法规与教师职业道德",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "02_考试证书领域/教师资格证/中学",
       "tags": [
         "教育法律法规",
         "教师职业道德",
         "法律责任"
       ],
       "wordCount": 4917,
-      "id": "606effbf3fd22802"
+      "id": "4e3cda7ece3db0cb"
     }
   ]
 }

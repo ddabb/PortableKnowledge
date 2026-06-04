@@ -8,7 +8,7 @@
       "filename": "分布式系统_分布式计算.json",
       "title": "分布式计算",
       "description": "",
-      "category": "分布式系统",
+      "category": "01_技术IT领域/分布式系统",
       "tags": [
         "分布式计算",
         "MapReduce",
@@ -18,13 +18,13 @@
         "流处理"
       ],
       "wordCount": 6159,
-      "id": "e157c0abb4cd3b60"
+      "id": "62a2b3b9830c03fe"
     },
     {
       "filename": "引论_云计算.json",
       "title": "云计算",
       "description": "云计算概念、服务模式、部署模式及关键技术",
-      "category": "软考/综合知识/引论",
+      "category": "05_通用知识领域/软考/综合知识/引论",
       "tags": [
         "IaaS",
         "PaaS",
@@ -34,7 +34,7 @@
         "分布式计算"
       ],
       "wordCount": 994,
-      "id": "51de51bc04ef8c7d"
+      "id": "2e74bb74b0bd6cc1"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "filename": "SQL数据库_SQL基础.json",
       "title": "SQL基础",
       "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -17,7 +17,7 @@
         "WHERE"
       ],
       "wordCount": 8372,
-      "id": "be4b4354f95f1004"
+      "id": "eb485a941f5016fc"
     }
   ]
 }

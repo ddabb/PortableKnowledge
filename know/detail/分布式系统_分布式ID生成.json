@@ -2,7 +2,7 @@
   "filename": "分布式系统_分布式ID生成.json",
   "title": "分布式ID生成",
   "description": "分布式ID生成的核心概念、实现方案、关键问题及最佳实践",
-  "category": "分布式系统",
+  "category": "01_技术IT领域/分布式系统",
   "tags": [
     "分布式ID",
     "Snowflake",

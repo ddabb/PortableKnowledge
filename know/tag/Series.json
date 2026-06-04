@@ -8,7 +8,7 @@
       "filename": "Python数据分析_Pandas基础.json",
       "title": "Pandas基础",
       "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -17,7 +17,7 @@
         "Series"
       ],
       "wordCount": 10550,
-      "id": "258855724483295f"
+      "id": "968779257c57b71c"
     }
   ]
 }

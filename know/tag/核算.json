@@ -8,7 +8,7 @@
       "filename": "会计_其他应付款.json",
       "title": "其他应付款",
       "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -16,13 +16,13 @@
         "核算"
       ],
       "wordCount": 525,
-      "id": "23ba7ef0a40abfe7"
+      "id": "48914832e1212ebb"
     },
     {
       "filename": "会计_应付职工薪酬.json",
       "title": "应付职工薪酬",
       "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -30,13 +30,13 @@
         "核算"
       ],
       "wordCount": 1144,
-      "id": "568e00039dccb6b5"
+      "id": "4e0f2054809161f1"
     },
     {
       "filename": "会计_预收账款.json",
       "title": "预收账款",
       "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -44,7 +44,7 @@
         "核算"
       ],
       "wordCount": 702,
-      "id": "5a1db8a8635278a1"
+      "id": "3a369c7d1fdc7d9d"
     }
   ]
 }

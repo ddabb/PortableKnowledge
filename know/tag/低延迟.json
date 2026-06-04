@@ -1,14 +1,30 @@
 {
   "meta": {
     "tag": "低延迟",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "高性能金融系统_高性能金融系统架构设计.json",
+      "title": "高性能金融系统架构设计",
+      "description": "高性能金融系统的架构设计，涵盖性能优化、高并发处理、低延迟交易和分布式架构",
+      "category": "01_技术IT领域/金融信贷科技/高性能金融系统",
+      "tags": [
+        "高性能",
+        "金融系统",
+        "低延迟",
+        "高并发",
+        "性能优化",
+        "分布式架构"
+      ],
+      "wordCount": 6280,
+      "id": "61187784e6001087"
+    },
     {
       "filename": "AI推理加速_TensorRT-LLM推理引擎.json",
       "title": "TensorRT-LLM推理引擎",
       "description": "TensorRT-LLM的核心技术、架构设计、使用方法和性能优化，涵盖算子融合、量化、FP8、模型并行等高级技术",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "TensorRT-LLM",
         "NVIDIA",
@@ -20,7 +36,7 @@
         "低延迟"
       ],
       "wordCount": 10555,
-      "id": "41a7e53b53837760"
+      "id": "b4b7c29b296cf917"
     }
   ]
 }

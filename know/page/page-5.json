@@ -1,305 +1,329 @@
 {
   "page": 5,
   "totalPages": 44,
-  "totalItems": 867,
+  "totalItems": 877,
   "items": [
     {
-      "filename": "一级建造师_建设工程法律法规实务.json",
-      "title": "建设工程法律法规实务",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "Python数据分析_Pandas高级数据处理.json",
+      "title": "Pandas高级数据处理",
+      "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
-        "一建",
-        "法律法规",
-        "实务",
-        "建造师",
-        "法人制度",
-        "代理制度",
-        "物权制度",
-        "债权制度",
-        "知识产权制度",
-        "担保制度",
-        "保险制度",
-        "法律责任制度",
-        "招标投标制度",
-        "承发包制度",
-        "分包制度",
-        "安全生产",
-        "质量保修"
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "高级数据处理",
+        "数据清洗",
+        "数据转换",
+        "数据分析"
       ],
-      "wordCount": 5957,
-      "id": "fa1244339a69ec42"
+      "wordCount": 9337,
+      "id": "9f2b17b764fffcbc"
     },
     {
-      "filename": "一级建造师_建设工程经济.json",
-      "title": "建设工程经济",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "Python数据分析_Pandas基础.json",
+      "title": "Pandas基础",
+      "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
-        "一建",
-        "工程经济",
-        "建造师"
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "DataFrame",
+        "Series"
       ],
-      "wordCount": 4608,
-      "id": "ca0d0ae8cf075c84"
+      "wordCount": 10550,
+      "id": "968779257c57b71c"
     },
     {
-      "filename": "一级建造师_建设工程项目管理.json",
-      "title": "建设工程项目管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "Python数据分析_Python数据分析基础.json",
+      "title": "Python数据分析基础",
+      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
-        "一建",
-        "项目管理",
-        "PMBOK",
-        "建造师"
+        "数据分析师",
+        "Python数据分析",
+        "Python基础",
+        "NumPy",
+        "Pandas",
+        "数据分析"
       ],
-      "wordCount": 629,
-      "id": "7159a8aa660324b4"
+      "wordCount": 10145,
+      "id": "830622b92a8a111e"
     },
     {
-      "filename": "一级建造师_建筑工程管理与实务.json",
-      "title": "建筑工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "Python数据分析_Scikit-learn机器学习入门.json",
+      "title": "Scikit-learn机器学习入门",
+      "description": "Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
-        "一建",
-        "建筑工程",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "Python数据分析",
+        "Scikit-learn",
+        "机器学习",
+        "预测建模",
+        "监督学习",
+        "无监督学习",
+        "数据分析"
       ],
-      "wordCount": 1811,
-      "id": "30f9152bdb630791"
+      "wordCount": 12849,
+      "id": "b175cf35ec41be0f"
     },
     {
-      "filename": "一级建造师_施工技术与管理.json",
-      "title": "施工技术与管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "施工技术",
-        "管理",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "Window Functions"
       ],
-      "wordCount": 2233,
-      "id": "24279326babd9df0"
+      "wordCount": 9326,
+      "id": "d52149a403771162"
     },
     {
-      "filename": "一级建造师_市政公用工程管理与实务.json",
-      "title": "市政公用工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_SQL窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "市政工程",
-        "实务",
-        "建造师",
-        "市政公用工程技术",
-        "市政公用工程项目施工管理",
-        "市政公用工程项目施工相关法规与标准"
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "SQL高级查询",
+        "数据分析"
       ],
-      "wordCount": 3101,
-      "id": "5793250af66a75fb"
+      "wordCount": 9748,
+      "id": "c87ac21a62f93013"
     },
     {
-      "filename": "一级建造师_水利水电工程管理与实务.json",
-      "title": "水利水电工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_多表连接.json",
+      "title": "SQL多表连接",
+      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "水利水电工程",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "多表连接",
+        "JOIN"
       ],
-      "wordCount": 299,
-      "id": "c1e52e11bb2d17af"
+      "wordCount": 11305,
+      "id": "4c9d83baa2e75ad8"
     },
     {
-      "filename": "一级建造师_项目安全管理.json",
-      "title": "项目安全管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "安全管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "SQL多表连接",
+        "JOIN",
+        "数据分析"
       ],
-      "wordCount": 5118,
-      "id": "45de03bdcf1f0f2c"
+      "wordCount": 8928,
+      "id": "a7b97952ea9c4f31"
     },
     {
-      "filename": "一级建造师_项目成本管理.json",
-      "title": "项目成本管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_分组聚合.json",
+      "title": "SQL分组聚合",
+      "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "成本管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "分组聚合",
+        "GROUP BY",
+        "聚合函数"
       ],
-      "wordCount": 2412,
-      "id": "37ba86cbdaa95f4c"
+      "wordCount": 9890,
+      "id": "23d9fe65f9a1a33f"
     },
     {
-      "filename": "一级建造师_项目风险管理.json",
-      "title": "项目风险管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_SQL高级查询.json",
+      "title": "SQL高级查询",
+      "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "风险管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "SQL高级查询",
+        "窗口函数",
+        "CTE",
+        "子查询",
+        "集合操作",
+        "数据分析"
       ],
-      "wordCount": 3402,
-      "id": "8c658d432fcf62f0"
+      "wordCount": 8225,
+      "id": "3abf1418542fa9e5"
     },
     {
-      "filename": "一级建造师_项目沟通管理.json",
-      "title": "项目沟通管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_SQL基础.json",
+      "title": "SQL基础",
+      "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "沟通管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础",
+        "SELECT",
+        "WHERE"
       ],
-      "wordCount": 2709,
-      "id": "cecb4e65997daedd"
+      "wordCount": 8372,
+      "id": "eb485a941f5016fc"
     },
     {
-      "filename": "一级建造师_项目管理实务.json",
-      "title": "项目管理实务",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师最常用的技能，包括SELECT语句、WHERE过滤、ORDER BY排序、LIMIT限制等核心操作",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "项目管理",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "基础查询",
+        "SELECT"
       ],
-      "wordCount": 5027,
-      "id": "592f2ac643888a83"
+      "wordCount": 9500,
+      "id": "7b0aba6f346a7293"
     },
     {
-      "filename": "一级建造师_项目合同管理.json",
-      "title": "项目合同管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_SQL基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师操作数据库的基本技能，掌握SELECT、WHERE、GROUP BY、HAVING、ORDER BY等子句是进行数据查询和分析的基础",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "合同管理",
-        "项目管理",
-        "建造师",
-        "合同管理概述",
-        "合同订立",
-        "合同履行",
-        "合同变更与解除",
-        "违约责任",
-        "合同纠纷处理",
-        "合同管理实务"
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础查询",
+        "SELECT",
+        "WHERE",
+        "GROUP BY",
+        "HAVING",
+        "ORDER BY",
+        "数据分析"
       ],
-      "wordCount": 3449,
-      "id": "26b9c0766862828c"
+      "wordCount": 7051,
+      "id": "7b417b49c928625f"
     },
     {
-      "filename": "一级建造师_项目进度管理.json",
-      "title": "项目进度管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_SQL数据分析实战.json",
+      "title": "SQL数据分析实战",
+      "description": "SQL数据分析实战涵盖使用SQL进行数据查询、数据聚合、数据分组、数据筛选等操作，是数据分析师日常工作的核心技能",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "进度管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "SQL数据分析实战",
+        "数据查询",
+        "数据聚合",
+        "数据分组",
+        "数据分析"
       ],
-      "wordCount": 3123,
-      "id": "d3e3167c6698282e"
+      "wordCount": 8873,
+      "id": "1d8122d7ae316304"
     },
     {
-      "filename": "一级建造师_项目收尾管理.json",
-      "title": "项目收尾管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_SQL性能优化.json",
+      "title": "SQL性能优化",
+      "description": "SQL性能优化是数据分析师必须掌握的技能，包括索引优化、查询优化、执行计划分析等，掌握这些技能能有效提升数据分析效率",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "收尾管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "SQL性能优化",
+        "索引优化",
+        "查询优化",
+        "执行计划",
+        "数据分析"
       ],
-      "wordCount": 2866,
-      "id": "ae4580952208ff40"
+      "wordCount": 8680,
+      "id": "93b8d619188627ec"
     },
     {
-      "filename": "一级建造师_项目质量管理.json",
-      "title": "项目质量管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "SQL数据库_子查询.json",
+      "title": "SQL子查询",
+      "description": "子查询是嵌套在其他SQL语句中的查询，用于复杂条件过滤、多表关联分析，是数据分析师必备技能",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "一建",
-        "质量管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "SQL数据库",
+        "子查询",
+        "Subquery"
       ],
-      "wordCount": 4656,
-      "id": "ef5aeb98d5443572"
+      "wordCount": 10233,
+      "id": "0605b245c9cbe13b"
     },
     {
-      "filename": "教师资格证_核心考点.json",
-      "title": "教师资格证考试核心考点",
-      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
-      "category": "教师资格证",
+      "filename": "SQL数据库_SQL子查询.json",
+      "title": "SQL子查询",
+      "description": "SQL子查询（Subquery）是嵌套在另一个SQL语句中的查询，用于解决复杂的数据提取需求",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
-        "教资",
-        "教育学",
-        "心理学"
+        "数据分析师",
+        "SQL数据库",
+        "SQL子查询",
+        "Subquery",
+        "嵌套查询"
       ],
-      "wordCount": 3569,
-      "id": "bd7849ae8f9e3d7a"
+      "wordCount": 8655,
+      "id": "bb9120c004a63061"
     },
     {
-      "filename": "小学_小学班级管理.json",
-      "title": "小学班级管理",
-      "description": "",
-      "category": "教师资格证/小学",
+      "filename": "数据库内核_查询引擎实现.json",
+      "title": "查询引擎实现",
+      "description": "查询引擎的核心实现技术，涵盖查询解析、查询优化（RBO/CBO）、查询执行（火山模型/向量化/编译执行）和代价模型",
+      "category": "01_技术IT领域/数据库内核",
       "tags": [
-        "小学教育",
-        "班级管理",
-        "学生管理"
+        "查询引擎",
+        "查询解析",
+        "查询优化",
+        "RBO",
+        "CBO",
+        "查询执行",
+        "火山模型",
+        "向量化执行",
+        "编译执行",
+        "代价模型"
       ],
-      "wordCount": 3662,
-      "id": "f83ca1688447cb2a"
+      "wordCount": 8591,
+      "id": "085a5ce86ff0a4a9"
     },
     {
-      "filename": "小学_小学教师职业道德.json",
-      "title": "小学教师职业道德",
-      "description": "",
-      "category": "教师资格证/小学",
+      "filename": "数据库内核_查询优化器实现.json",
+      "title": "查询优化器实现",
+      "description": "数据库查询优化器的核心概念、实现原理、优化技术（RBO、CBO）、代价模型及最佳实践",
+      "category": "01_技术IT领域/数据库内核",
       "tags": [
-        "小学教育",
-        "教师职业道德",
-        "师德师风"
+        "数据库内核",
+        "查询优化器",
+        "RBO",
+        "CBO",
+        "代价模型",
+        "执行计划",
+        "查询性能"
       ],
-      "wordCount": 2833,
-      "id": "562e4f8f9266c0bb"
+      "wordCount": 7249,
+      "id": "7e32a709ee6d9d31"
     },
     {
-      "filename": "小学_小学教育法律法规.json",
-      "title": "小学教育法律法规",
-      "description": "",
-      "category": "教师资格证/小学",
+      "filename": "数据库内核_存储引擎对比.json",
+      "title": "存储引擎对比",
+      "description": "主流数据库存储引擎（InnoDB、MyISAM、PostgreSQL、RocksDB、WiredTiger）的架构对比、优缺点及适用场景",
+      "category": "01_技术IT领域/数据库内核",
       "tags": [
-        "小学教育",
-        "教育法律法规",
-        "法律责任"
+        "数据库内核",
+        "存储引擎",
+        "InnoDB",
+        "MyISAM",
+        "PostgreSQL",
+        "RocksDB",
+        "WiredTiger"
       ],
-      "wordCount": 4252,
-      "id": "13661ad8ab96940a"
+      "wordCount": 6559,
+      "id": "21bcc78911c0d4cf"
     }
   ]
 }

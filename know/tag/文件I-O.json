@@ -8,7 +8,7 @@
       "filename": "系统编程_文件I_O优化.json",
       "title": "文件I/O优化",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "文件I/O",
@@ -17,13 +17,13 @@
         "性能优化"
       ],
       "wordCount": 5392,
-      "id": "cc6a25a028f5d6d3"
+      "id": "9a2d81dda902fb71"
     },
     {
       "filename": "系统编程_Linux系统编程API详解.json",
       "title": "Linux系统编程API详解",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "Linux",
@@ -33,7 +33,7 @@
         "进程管理"
       ],
       "wordCount": 6425,
-      "id": "fed90755b175de26"
+      "id": "4c41d33007f55402"
     }
   ]
 }

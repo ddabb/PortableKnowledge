@@ -1,288 +1,292 @@
 {
   "page": 43,
   "totalPages": 44,
-  "totalItems": 867,
+  "totalItems": 877,
   "items": [
     {
-      "filename": "审计_特殊项目审计.json",
-      "title": "特殊项目审计",
-      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
-      "category": "注册会计师/审计",
+      "filename": "引论_PMBOK的发展.json",
+      "title": "PMBOK的发展",
+      "description": "PMBOK各版本演变历程及关键变化",
+      "category": "05_通用知识领域/软考/综合知识/引论",
       "tags": [
-        "CPA",
-        "审计",
-        "特殊项目",
-        "舞弊风险"
+        "PMBOK",
+        "PMI",
+        "项目管理",
+        "版本演变"
       ],
-      "wordCount": 1074,
-      "id": "ad003efcd7a46dec"
+      "wordCount": 986,
+      "id": "b6e97d7e62397a93"
     },
     {
-      "filename": "审计_销售与收款循环审计.json",
-      "title": "销售与收款循环审计",
-      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "filename": "组织治理与管理_绩效管理.json",
+      "title": "绩效管理",
+      "description": "绩效计划、实施、治理、评估、反馈与应用",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "CPA",
-        "审计",
-        "销售与收款循环",
-        "内部控制"
+        "软考高项",
+        "绩效管理",
+        "绩效评估",
+        "绩效治理"
       ],
-      "wordCount": 1067,
-      "id": "883f48c880c7679e"
+      "wordCount": 1168,
+      "id": "44c8a53b10a4b7bc"
     },
     {
-      "filename": "审计_注册会计师职业道德.json",
-      "title": "注册会计师职业道德",
-      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
-      "category": "注册会计师/审计",
+      "filename": "组织治理与管理_流程管理.json",
+      "title": "流程管理",
+      "description": "流程基础、流程规划、流程执行、流程评价、流程持续改进",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "CPA",
-        "审计",
-        "职业道德",
-        "基本原则"
+        "软考高项",
+        "流程管理",
+        "流程规划",
+        "战略执行"
       ],
-      "wordCount": 1126,
-      "id": "a1173c0d033fea11"
+      "wordCount": 1115,
+      "id": "63db7d236792748d"
     },
     {
-      "filename": "税法_车船税.json",
-      "title": "车船税",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_人力资源管理.json",
+      "title": "人力资源管理",
+      "description": "人力资源管理基础、工作分析与岗位设计、招聘与培训、薪酬管理",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "车船税",
-        "税法",
-        "CPA"
+        "软考高项",
+        "人力资源",
+        "工作分析",
+        "薪酬管理"
       ],
-      "wordCount": 419,
-      "id": "f18e2515104afc66"
+      "wordCount": 1350,
+      "id": "2151eec2e8c2cbbf"
     },
     {
-      "filename": "税法_房产税.json",
-      "title": "房产税",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_市场营销.json",
+      "title": "市场营销",
+      "description": "市场营销定义、核心概念、营销组合、营销环境、营销管控",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "房产税",
-        "税法",
-        "CPA",
-        "财产税"
+        "软考高项",
+        "市场营销",
+        "营销环境",
+        "营销管控"
       ],
-      "wordCount": 2857,
-      "id": "877daef2d9bb5f59"
+      "wordCount": 833,
+      "id": "9cdc80516515e5d2"
     },
     {
-      "filename": "税法_个人所得税概述.json",
-      "title": "个人所得税概述",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_战略转型与数字化转型.json",
+      "title": "战略转型与数字化转型",
+      "description": "组织战略转型升级、数字化转型实施",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "个人所得税",
-        "税法",
-        "CPA"
+        "软考高项",
+        "战略转型",
+        "数字化转型",
+        "数字经济"
       ],
-      "wordCount": 550,
-      "id": "9ddf90f68934eb79"
+      "wordCount": 1010,
+      "id": "b472c780f670babd"
     },
     {
-      "filename": "税法_个人所得税税收优惠.json",
-      "title": "个人所得税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_知识管理.json",
+      "title": "知识管理",
+      "description": "知识管理基础、显性知识与隐性知识、知识价值链、知识管理过程、知识协同与创新",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "个人所得税",
-        "税收优惠",
-        "减免税",
-        "CPA"
+        "软考高项",
+        "知识管理",
+        "显性知识",
+        "隐性知识",
+        "知识价值链"
       ],
-      "wordCount": 549,
-      "id": "215c769b099e3c2f"
+      "wordCount": 1053,
+      "id": "0bbf1f7c74f467d6"
     },
     {
-      "filename": "税法_个人所得税应纳税额计算.json",
-      "title": "个人所得税应纳税额计算",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_组织战略基础.json",
+      "title": "组织战略基础",
+      "description": "组织战略概述、战略类型、战略特性、组织定位（使命、愿景、价值观、文化）",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "个人所得税",
-        "应纳税额",
-        "计算",
-        "CPA"
+        "软考高项",
+        "组织战略",
+        "战略管理",
+        "组织定位"
       ],
-      "wordCount": 759,
-      "id": "978350a148cbae33"
+      "wordCount": 1185,
+      "id": "677f666db1652f3d"
     },
     {
-      "filename": "税法_企业所得税概述.json",
-      "title": "企业所得税概述",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_IT审计方法与技术.json",
+      "title": "IT审计方法与技术",
+      "description": "IT审计风险（固有风险、控制风险、检查风险）、审计方法、审计证据",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "企业所得税",
-        "税法",
-        "CPA"
+        "软考高项",
+        "IT审计",
+        "审计风险",
+        "审计方法"
       ],
-      "wordCount": 395,
-      "id": "d73ba40442f0aeea"
+      "wordCount": 1295,
+      "id": "af6b7fbace330dbf"
     },
     {
-      "filename": "税法_企业所得税税收优惠.json",
-      "title": "企业所得税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_IT审计基础.json",
+      "title": "IT审计基础",
+      "description": "IT审计定义、目的、目标、范围、人员要求",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "企业所得税",
-        "税收优惠",
-        "减免税",
-        "CPA"
+        "软考高项",
+        "IT审计",
+        "审计范围",
+        "审计人员"
       ],
-      "wordCount": 929,
-      "id": "de2aa7c5c7accbcc"
+      "wordCount": 952,
+      "id": "fc269e8c99c1b652"
     },
     {
-      "filename": "税法_企业所得税应纳税所得额.json",
-      "title": "企业所得税应纳税所得额",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_IT审计流程.json",
+      "title": "IT审计流程",
+      "description": "IT审计四大阶段：准备、实施、终结、后续审计；IT审计业务分类",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "企业所得税",
-        "应纳税所得额",
-        "计算",
-        "CPA"
+        "软考高项",
+        "IT审计",
+        "审计流程",
+        "审计阶段"
       ],
-      "wordCount": 941,
-      "id": "2307cec8cfad239d"
+      "wordCount": 800,
+      "id": "36d552a167c424cd"
     },
     {
-      "filename": "税法_土地增值税.json",
-      "title": "土地增值税",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_IT治理方法与标准.json",
+      "title": "IT治理方法与标准",
+      "description": "ITSS体系框架、COBIT框架五大领域、IT治理国际标准ISO/IEC 38500",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "土地增值税",
-        "税法",
-        "CPA"
+        "软考高项",
+        "IT治理",
+        "ITSS",
+        "COBIT",
+        "ISO38500"
       ],
-      "wordCount": 638,
-      "id": "e7718a8ce428646e"
+      "wordCount": 1237,
+      "id": "38f354617d351cf3"
     },
     {
-      "filename": "税法_消费税概述.json",
-      "title": "消费税概述",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_IT治理基础.json",
+      "title": "IT治理基础",
+      "description": "IT治理定义、三大目标、管理层次、核心内容",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "消费税",
-        "税法",
-        "CPA"
+        "软考高项",
+        "IT治理",
+        "信息系统治理"
       ],
-      "wordCount": 489,
-      "id": "8a60a154349ac4a8"
+      "wordCount": 921,
+      "id": "27e358fe99d591ca"
     },
     {
-      "filename": "税法_消费税税收优惠.json",
-      "title": "消费税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_IT治理任务.json",
+      "title": "IT治理任务",
+      "description": "IT治理五大任务：全局统筹、价值导向、机制保障、创新发展、文化助推；IT治理模型",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "消费税",
-        "税收优惠",
-        "减免税",
-        "CPA"
+        "软考高项",
+        "IT治理",
+        "治理任务"
       ],
-      "wordCount": 318,
-      "id": "c8ecba9b705482cf"
+      "wordCount": 703,
+      "id": "08dca83d2c65223b"
     },
     {
-      "filename": "税法_消费税应纳税额计算.json",
-      "title": "消费税应纳税额计算",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "组织治理与管理_IT治理体系.json",
+      "title": "IT治理体系",
+      "description": "IT治理体系框架、关键决策、IT治理机制经验",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
-        "消费税",
-        "应纳税额",
-        "计算",
-        "CPA"
+        "软考高项",
+        "IT治理",
+        "治理框架",
+        "治理标准"
       ],
-      "wordCount": 647,
-      "id": "6894c86a560d13be"
+      "wordCount": 1105,
+      "id": "7a26b247aef7da77"
     },
     {
-      "filename": "税法_增值税概述.json",
-      "title": "增值税概述",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "安全防范_安全防范综合指南.json",
+      "title": "安全防范综合指南",
+      "description": "全面的安全防范知识，包括诈骗防范、赌博防范等内容",
+      "category": "05_通用知识领域/生活通识/安全防范",
       "tags": [
-        "增值税",
-        "税法",
-        "CPA"
+        "安全防范",
+        "诈骗",
+        "赌博",
+        "个人信息保护"
       ],
-      "wordCount": 393,
-      "id": "4c1eeec0434a501d"
+      "wordCount": 2524,
+      "id": "7fac211b59de1737"
     },
     {
-      "filename": "税法_增值税税收优惠.json",
-      "title": "增值税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "急救知识_急救知识综合指南.json",
+      "title": "急救知识综合指南",
+      "description": "全面的急救知识，包括心肺复苏、AED使用等内容",
+      "category": "05_通用知识领域/生活通识/急救知识",
       "tags": [
-        "增值税",
-        "税收优惠",
-        "减免税",
-        "CPA"
+        "急救知识",
+        "心肺复苏",
+        "AED",
+        "紧急救援"
       ],
-      "wordCount": 1223,
-      "id": "541e58286de87b05"
+      "wordCount": 1921,
+      "id": "47124e1726d1b8d3"
     },
     {
-      "filename": "税法_增值税应纳税额计算.json",
-      "title": "增值税应纳税额计算",
-      "description": "",
-      "category": "注册会计师/税法",
+      "filename": "健康养生_癌症预防指南.json",
+      "title": "癌症预防指南：风险评估与早期筛查",
+      "description": "科学的癌症预防知识，包括风险评估、生活方式调整、筛查建议和常见误区。",
+      "category": "05_通用知识领域/生活通识/健康养生",
       "tags": [
-        "增值税",
-        "应纳税额",
-        "计算",
-        "CPA"
+        "癌症",
+        "肿瘤",
+        "筛查",
+        "预防",
+        "早期发现"
       ],
-      "wordCount": 511,
-      "id": "acaeaa880437f40f"
+      "wordCount": 1895,
+      "id": "7ab0d8fda6ababfa"
     },
     {
-      "filename": "AI推理加速_分布式推理.json",
-      "title": "分布式推理",
-      "description": "分布式推理的核心技术、并行策略、通信优化和实战案例，涵盖张量并行、流水线并行、序列并行、数据并行等",
-      "category": "AI推理加速",
+      "filename": "健康养生_悲伤管理与自我接纳.json",
+      "title": "悲伤管理与自我接纳：在失去中找到力量",
+      "description": "面对悲伤与失落的正确方式，学会自我接纳与在痛苦中成长",
+      "category": "05_通用知识领域/生活通识/健康养生",
       "tags": [
-        "分布式推理",
-        "张量并行",
-        "流水线并行",
-        "序列并行",
-        "数据并行",
-        "模型并行",
-        "通信优化"
+        "悲伤",
+        "自我接纳",
+        "心理韧性",
+        "情绪管理",
+        "自我同情"
       ],
-      "wordCount": 9452,
-      "id": "ed1ce0a5e956dd93"
+      "wordCount": 1701,
+      "id": "8c8559219d8d58d1"
     },
     {
-      "filename": "AI推理加速_模型量化技术.json",
-      "title": "模型量化技术",
-      "description": "模型量化技术的原理、方法、工具链和实战案例，涵盖训练后量化、量化感知训练、GPTQ、AWQ等主流量化算法",
-      "category": "AI推理加速",
+      "filename": "健康养生_猝死预防与急救.json",
+      "title": "猝死：离我们并不遥远的健康隐患",
+      "description": "了解猝死的定义、类型、高危人群、预警信号和预防措施，关键时刻能救命。",
+      "category": "05_通用知识领域/生活通识/健康养生",
       "tags": [
-        "模型量化",
-        "训练后量化",
-        "量化感知训练",
-        "GPTQ",
-        "AWQ",
-        "INT8量化",
-        "INT4量化",
-        "模型压缩"
+        "猝死",
+        "心源性猝死",
+        "健康",
+        "急救",
+        "预防",
+        "心脏骤停",
+        "心梗"
       ],
-      "wordCount": 10756,
-      "id": "def0789a38f91035"
+      "wordCount": 1989,
+      "id": "3bea4878043d509a"
     }
   ]
 }

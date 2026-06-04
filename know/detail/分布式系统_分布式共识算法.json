@@ -2,7 +2,7 @@
   "filename": "分布式系统_分布式共识算法.json",
   "title": "分布式共识算法",
   "description": "分布式共识算法的核心概念、工作原理、适用场景及最佳实践",
-  "category": "分布式系统",
+  "category": "01_技术IT领域/分布式系统",
   "tags": [
     "分布式共识",
     "Paxos",

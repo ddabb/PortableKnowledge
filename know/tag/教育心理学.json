@@ -8,46 +8,46 @@
       "filename": "小学_小学教育心理学知识.json",
       "title": "小学教育心理学知识",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "02_考试证书领域/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育心理学",
         "学生心理"
       ],
       "wordCount": 3742,
-      "id": "b73086b5633432e6"
+      "id": "4b161a9bb05f90a4"
     },
     {
       "filename": "中学_教育心理学案例分析.json",
       "title": "教育心理学案例分析",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "02_考试证书领域/教师资格证/中学",
       "tags": [
         "教育心理学",
         "案例分析",
         "教学实践"
       ],
       "wordCount": 4160,
-      "id": "a2c3c35dc85d4b1c"
+      "id": "4ba7a7a98d290e1b"
     },
     {
       "filename": "中学_教育心理学知识.json",
       "title": "教育心理学知识",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "02_考试证书领域/教师资格证/中学",
       "tags": [
         "教育心理学",
         "学习理论",
         "学生心理"
       ],
       "wordCount": 5273,
-      "id": "3f7a8875e981abc4"
+      "id": "b5b10fffb5851e16"
     },
     {
       "filename": "考研专业课_教育学原理备考.json",
       "title": "教育学原理备考：从教育本质到师生关系",
       "description": "教育学原理、教育心理学、中外教育史、教育研究方法和课程教学德育的完整备考指南",
-      "category": "考研专业课",
+      "category": "02_考试证书领域/考研专业课",
       "tags": [
         "教育学",
         "教育心理学",
@@ -57,7 +57,7 @@
         "教师学生"
       ],
       "wordCount": 1616,
-      "id": "7654cfedd671ad7d"
+      "id": "d8ca5dd4f7bb1464"
     }
   ]
 }

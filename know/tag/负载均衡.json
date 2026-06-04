@@ -8,7 +8,7 @@
       "filename": "AI推理加速_AI推理服务部署.json",
       "title": "AI推理服务部署",
       "description": "AI推理服务的架构设计、部署策略、性能优化和高可用保障，涵盖服务化、负载均衡、自动扩缩容、监控告警等核心技术",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "AI推理服务",
         "服务化部署",
@@ -19,7 +19,7 @@
         "性能优化"
       ],
       "wordCount": 9852,
-      "id": "37a65b0713cb6081"
+      "id": "cfddd2ebed7de84a"
     }
   ]
 }

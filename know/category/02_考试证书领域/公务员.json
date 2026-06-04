@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "category": "02_考试证书领域/公务员",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "公务员_核心考点.json",
+      "title": "公务员考试核心考点",
+      "description": "公考备考知识体系：行测、申论核心考点",
+      "category": "02_考试证书领域/公务员",
+      "tags": [
+        "公考",
+        "行测",
+        "申论"
+      ],
+      "wordCount": 2401,
+      "id": "7cebcab58a08f844"
+    }
+  ]
+}

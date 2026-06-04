@@ -8,7 +8,7 @@
       "filename": "AI推理加速_SGLang推理引擎.json",
       "title": "SGLang推理引擎",
       "description": "SGLang推理引擎的核心技术、架构设计、编程模型和性能优化，涵盖Radix Attention、动态编程、灵活推理等创新技术",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "SGLang",
         "推理引擎",
@@ -19,13 +19,13 @@
         "高性能"
       ],
       "wordCount": 10979,
-      "id": "4d1cada355aec519"
+      "id": "75399bd817c0a3b5"
     },
     {
       "filename": "AI推理加速_TensorRT-LLM推理引擎.json",
       "title": "TensorRT-LLM推理引擎",
       "description": "TensorRT-LLM的核心技术、架构设计、使用方法和性能优化，涵盖算子融合、量化、FP8、模型并行等高级技术",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "TensorRT-LLM",
         "NVIDIA",
@@ -37,13 +37,13 @@
         "低延迟"
       ],
       "wordCount": 10555,
-      "id": "41a7e53b53837760"
+      "id": "b4b7c29b296cf917"
     },
     {
       "filename": "AI推理加速_vLLM推理引擎.json",
       "title": "vLLM推理引擎",
       "description": "vLLM推理引擎的核心技术、架构设计、使用方法和性能优化，涵盖PagedAttention、Continuous Batching等创新技术",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "vLLM",
         "推理引擎",
@@ -54,7 +54,7 @@
         "易用性"
       ],
       "wordCount": 10150,
-      "id": "5dac743f12d2e4dd"
+      "id": "d219cebfea1078d0"
     }
   ]
 }

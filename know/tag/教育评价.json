@@ -8,27 +8,27 @@
       "filename": "小学_小学教育评价.json",
       "title": "小学教育评价",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "02_考试证书领域/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育评价",
         "学生评价"
       ],
       "wordCount": 3105,
-      "id": "3086d2831fabf871"
+      "id": "1fdbde1a7ea0262a"
     },
     {
       "filename": "中学_教育评价与反思.json",
       "title": "教育评价与反思",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "02_考试证书领域/教师资格证/中学",
       "tags": [
         "教育评价",
         "教学反思",
         "专业发展"
       ],
       "wordCount": 3348,
-      "id": "09a6af8a8a2a3cd0"
+      "id": "a2ee9eb1420399fa"
     }
   ]
 }

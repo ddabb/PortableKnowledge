@@ -5,64 +5,10 @@
   },
   "articles": [
     {
-      "filename": "项目采购管理_自制或外购决策.json",
-      "title": "自制或外购决策",
-      "description": "通过自制或外购分析，做出某项特定工作最好由项目团队自己完成，还是需要从外部渠道采购的决策。是规划采购管理过程的重要工具。",
-      "category": "软考/项目管理/项目采购管理",
-      "tags": [
-        "规划过程组",
-        "规划采购管理",
-        "数据分析"
-      ],
-      "wordCount": 2830,
-      "id": "68f88beb26c7eb2b"
-    },
-    {
-      "filename": "工具与技术_成本效益分析.json",
-      "title": "成本效益分析完全指南",
-      "description": "成本效益分析的定义、步骤、方法和项目管理中的应用",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "数据分析",
-        "成本效益分析",
-        "决策",
-        "投资分析"
-      ],
-      "wordCount": 2247,
-      "id": "8e8ec6fab964e8fd"
-    },
-    {
-      "filename": "工具与技术_多标准决策分析.json",
-      "title": "多标准决策分析",
-      "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。是收集需求、识别风险等过程的工具。",
-      "category": "软考/综合知识/工具与技术",
-      "tags": [
-        "决策",
-        "数据分析",
-        "创意技术"
-      ],
-      "wordCount": 3020,
-      "id": "20cab351439d27fa"
-    },
-    {
-      "filename": "信息系统开发_数据挖掘.json",
-      "title": "数据挖掘",
-      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
-      "category": "软考/综合知识/信息系统开发",
-      "tags": [
-        "数据挖掘",
-        "数据分析",
-        "数据集成",
-        "数据可视化"
-      ],
-      "wordCount": 1783,
-      "id": "4d49fa1d72cc021d"
-    },
-    {
       "filename": "数据分析师_SQL多表连接.json",
       "title": "SQL多表连接",
       "description": "SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式",
-      "category": "数据分析师",
+      "category": "01_技术IT领域/数据分析师",
       "tags": [
         "数据分析师",
         "SQL",
@@ -71,13 +17,13 @@
         "数据分析"
       ],
       "wordCount": 8136,
-      "id": "819c3ef0945bafce"
+      "id": "f3888b3c2cecb590"
     },
     {
       "filename": "机器学习_机器学习基础.json",
       "title": "机器学习基础",
       "description": "机器学习是数据分析的高级技能，通过算法让计算机从数据中学习规律",
-      "category": "数据分析师/机器学习",
+      "category": "01_技术IT领域/数据分析师/机器学习",
       "tags": [
         "数据分析师",
         "机器学习",
@@ -87,13 +33,13 @@
         "数据分析"
       ],
       "wordCount": 9212,
-      "id": "7fceb7ef6de3bd35"
+      "id": "472fccf0476d8b8a"
     },
     {
       "filename": "机器学习_监督学习.json",
       "title": "监督学习",
       "description": "监督学习是机器学习的重要分支，使用带标签的数据训练模型",
-      "category": "数据分析师/机器学习",
+      "category": "01_技术IT领域/数据分析师/机器学习",
       "tags": [
         "数据分析师",
         "机器学习",
@@ -103,13 +49,13 @@
         "数据分析"
       ],
       "wordCount": 9281,
-      "id": "9cb12016b55a9160"
+      "id": "5dc1f40379084a61"
     },
     {
       "filename": "机器学习_神经网络与深度学习.json",
       "title": "神经网络与深度学习",
       "description": "神经网络与深度学习是机器学习的重要分支，用于解决复杂的非线性问题",
-      "category": "数据分析师/机器学习",
+      "category": "01_技术IT领域/数据分析师/机器学习",
       "tags": [
         "数据分析师",
         "机器学习",
@@ -119,13 +65,13 @@
         "数据分析"
       ],
       "wordCount": 12326,
-      "id": "9f3fc40a810f63df"
+      "id": "0826398c135ac6c5"
     },
     {
       "filename": "机器学习_无监督学习.json",
       "title": "无监督学习",
       "description": "无监督学习是机器学习的重要分支，使用不带标签的数据训练模型",
-      "category": "数据分析师/机器学习",
+      "category": "01_技术IT领域/数据分析师/机器学习",
       "tags": [
         "数据分析师",
         "机器学习",
@@ -135,13 +81,13 @@
         "数据分析"
       ],
       "wordCount": 9555,
-      "id": "cbb321c00f5ca099"
+      "id": "793b17731aad2c32"
     },
     {
       "filename": "数据可视化_数据可视化基础.json",
       "title": "数据可视化基础",
       "description": "数据可视化基础包括数据可视化原则、图表选择、颜色使用、布局设计等，掌握这些基础知识能有效提升数据可视化能力",
-      "category": "数据分析师/数据可视化",
+      "category": "01_技术IT领域/数据分析师/数据可视化",
       "tags": [
         "数据分析师",
         "数据可视化",
@@ -153,13 +99,13 @@
         "数据分析"
       ],
       "wordCount": 5847,
-      "id": "bad5b137885fa5b1"
+      "id": "0d9d2c87e8e14e5e"
     },
     {
       "filename": "数据可视化_Power BI基础.json",
       "title": "Power BI基础",
       "description": "Power BI是微软推出的商业智能工具，掌握Power BI基础操作能有效提升数据分析和可视化能力",
-      "category": "数据分析师/数据可视化",
+      "category": "01_技术IT领域/数据分析师/数据可视化",
       "tags": [
         "数据分析师",
         "数据可视化",
@@ -171,13 +117,13 @@
         "数据分析"
       ],
       "wordCount": 6638,
-      "id": "15fd65c7dcda74db"
+      "id": "3735ba56f0201e81"
     },
     {
       "filename": "数据可视化_Python可视化.json",
       "title": "Python可视化",
       "description": "Python可视化通过Matplotlib、Seaborn、Plotly等库实现数据可视化，掌握这些库的用法能有效提升数据分析和可视化能力",
-      "category": "数据分析师/数据可视化",
+      "category": "01_技术IT领域/数据分析师/数据可视化",
       "tags": [
         "数据分析师",
         "数据可视化",
@@ -188,13 +134,13 @@
         "数据分析"
       ],
       "wordCount": 10200,
-      "id": "34ea7997c9e90539"
+      "id": "f7e282678698cd70"
     },
     {
       "filename": "数据可视化_Tableau基础.json",
       "title": "Tableau基础",
       "description": "Tableau是主流数据可视化工具，掌握Tableau基础操作能有效提升数据分析和可视化能力",
-      "category": "数据分析师/数据可视化",
+      "category": "01_技术IT领域/数据分析师/数据可视化",
       "tags": [
         "数据分析师",
         "数据可视化",
@@ -206,13 +152,13 @@
         "数据分析"
       ],
       "wordCount": 6125,
-      "id": "9b0635eda1b4bf50"
+      "id": "abded850eff05798"
     },
     {
       "filename": "统计学基础_抽样理论.json",
       "title": "抽样理论",
       "description": "抽样理论是数据分析师进行统计推断的基础，包括抽样方法、样本量计算、抽样误差等",
-      "category": "数据分析师/统计学基础",
+      "category": "01_技术IT领域/数据分析师/统计学基础",
       "tags": [
         "数据分析师",
         "统计学基础",
@@ -223,13 +169,13 @@
         "数据分析"
       ],
       "wordCount": 5869,
-      "id": "669be3b708990395"
+      "id": "ff762699379328b2"
     },
     {
       "filename": "统计学基础_概率分布.json",
       "title": "概率分布",
       "description": "概率分布是数据分析师理解数据随机性、进行统计推断的基础，包括离散分布和连续分布",
-      "category": "数据分析师/统计学基础",
+      "category": "01_技术IT领域/数据分析师/统计学基础",
       "tags": [
         "数据分析师",
         "统计学基础",
@@ -240,13 +186,13 @@
         "数据分析"
       ],
       "wordCount": 5780,
-      "id": "22da3ca46b08228e"
+      "id": "5c22c0684f9059f0"
     },
     {
       "filename": "统计学基础_描述性统计.json",
       "title": "描述性统计",
       "description": "描述性统计是数据分析师理解数据基本特征的基础技能，包括集中趋势、离散程度、分布形态等",
-      "category": "数据分析师/统计学基础",
+      "category": "01_技术IT领域/数据分析师/统计学基础",
       "tags": [
         "数据分析师",
         "统计学基础",
@@ -257,13 +203,13 @@
         "数据分析"
       ],
       "wordCount": 5374,
-      "id": "0c69d3d6b5b03484"
+      "id": "98b62753041b4750"
     },
     {
       "filename": "统计学基础_时间序列分析.json",
       "title": "时间序列分析",
       "description": "时间序列分析是研究按时间顺序排列的数据，识别模式并进行预测的统计学方法",
-      "category": "数据分析师/统计学基础",
+      "category": "01_技术IT领域/数据分析师/统计学基础",
       "tags": [
         "数据分析师",
         "统计学基础",
@@ -272,13 +218,13 @@
         "数据分析"
       ],
       "wordCount": 8321,
-      "id": "708374f61d874783"
+      "id": "352acbe8b1ab4bfe"
     },
     {
       "filename": "统计学基础_相关分析.json",
       "title": "相关分析",
       "description": "相关分析用于研究两个或多个变量之间的关联程度和方向，是数据分析的核心基础",
-      "category": "数据分析师/统计学基础",
+      "category": "01_技术IT领域/数据分析师/统计学基础",
       "tags": [
         "数据分析师",
         "统计学基础",
@@ -287,13 +233,13 @@
         "数据分析"
       ],
       "wordCount": 7111,
-      "id": "da9c40384436dafc"
+      "id": "23a11e840218b05e"
     },
     {
       "filename": "业务分析方法_漏斗分析.json",
       "title": "漏斗分析",
       "description": "漏斗分析是用户行为分析的重要方法，用于分析用户在各个步骤的转化情况",
-      "category": "数据分析师/业务分析方法",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
         "数据分析师",
         "业务分析方法",
@@ -303,13 +249,13 @@
         "数据分析"
       ],
       "wordCount": 9573,
-      "id": "452952e135e0f26c"
+      "id": "c33038f983fcf35c"
     },
     {
       "filename": "业务分析方法_帕累托分析.json",
       "title": "帕累托分析",
       "description": "帕累托分析是基于二八法则的重要分析方法，用于找出影响业务的关键因素",
-      "category": "数据分析师/业务分析方法",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
         "数据分析师",
         "业务分析方法",
@@ -319,13 +265,13 @@
         "数据分析"
       ],
       "wordCount": 10323,
-      "id": "102103053640b274"
+      "id": "71b60cc5f56c5a73"
     },
     {
       "filename": "业务分析方法_同期群分析.json",
       "title": "同期群分析",
       "description": "同期群分析是用户行为分析的重要方法，用于将用户按时间周期分组，分析不同组别的行为差异",
-      "category": "数据分析师/业务分析方法",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
         "数据分析师",
         "业务分析方法",
@@ -335,13 +281,13 @@
         "数据分析"
       ],
       "wordCount": 9752,
-      "id": "1596db3f6b218edb"
+      "id": "ac392bb2b7ae49c1"
     },
     {
       "filename": "业务分析方法_用户画像分析.json",
       "title": "用户画像分析",
       "description": "用户画像分析是用户行为分析的重要方法，用于构建用户特征模型，支持精准营销和个性化推荐",
-      "category": "数据分析师/业务分析方法",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
         "数据分析师",
         "业务分析方法",
@@ -351,13 +297,13 @@
         "数据分析"
       ],
       "wordCount": 8976,
-      "id": "be6ec917d2dec36a"
+      "id": "1dad64a40b32e4df"
     },
     {
       "filename": "业务分析方法_A_B测试.json",
       "title": "A/B测试",
       "description": "A/B测试是数据分析中常用的实验方法，用于比较两种或多种方案的效果差异",
-      "category": "数据分析师/业务分析方法",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
         "数据分析师",
         "业务分析方法",
@@ -367,13 +313,13 @@
         "数据分析"
       ],
       "wordCount": 8997,
-      "id": "a99aa546288fa1f2"
+      "id": "4a9ffc3972c4e342"
     },
     {
       "filename": "业务分析方法_RFM分析.json",
       "title": "RFM分析",
       "description": "RFM分析是用户价值分析的重要方法，通过最近一次消费(Recency)、消费频率(Frequency)、消费金额(Monetary)三个指标对用户进行分层",
-      "category": "数据分析师/业务分析方法",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
         "数据分析师",
         "业务分析方法",
@@ -383,13 +329,13 @@
         "数据分析"
       ],
       "wordCount": 7945,
-      "id": "049f3fb242920b6b"
+      "id": "4dd305d3eeae00b2"
     },
     {
       "filename": "Excel数据分析_Excel高级公式应用.json",
       "title": "Excel高级公式应用",
       "description": "Excel高级公式包括数组公式、动态数组、LET函数、LAMBDA函数等，掌握这些高级公式能显著提升数据分析效率",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -401,13 +347,13 @@
         "数据分析"
       ],
       "wordCount": 5799,
-      "id": "cb58f09f0a07d796"
+      "id": "a6f07c7fc1c71459"
     },
     {
       "filename": "Excel数据分析_Excel高级数据分析功能.json",
       "title": "Excel高级数据分析功能",
       "description": "Excel提供了多种高级数据分析功能，包括分析工具库、规划求解、方案管理器等，掌握这些功能能有效提升数据分析效率",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -418,13 +364,13 @@
         "数据分析"
       ],
       "wordCount": 5213,
-      "id": "da7f2d50dfdfbd0e"
+      "id": "98ea1842c57fb751"
     },
     {
       "filename": "Excel数据分析_Excel公式与函数进阶.json",
       "title": "Excel公式与函数进阶",
       "description": "Excel公式与函数进阶是数据分析师使用Excel进行复杂数据分析的技能，包括逻辑函数、查找函数、文本函数、日期函数等",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -435,13 +381,13 @@
         "数据分析"
       ],
       "wordCount": 6649,
-      "id": "3b9896474651ac17"
+      "id": "4500330c0e930640"
     },
     {
       "filename": "Excel数据分析_Excel数据分析常用函数.json",
       "title": "Excel数据分析常用函数",
       "description": "Excel提供了丰富的数据分析函数，包括查找函数、逻辑函数、文本函数、日期时间函数等，掌握这些函数能有效提升数据分析效率",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -453,13 +399,13 @@
         "数据分析"
       ],
       "wordCount": 7070,
-      "id": "f63319d1f4980ec6"
+      "id": "59817e1a903326f1"
     },
     {
       "filename": "Excel数据分析_Excel数据建模.json",
       "title": "Excel数据建模",
       "description": "Excel数据建模是通过建立数据模型来实现复杂数据分析和报表制作的过程，掌握数据建模能有效提升数据分析能力",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -470,13 +416,13 @@
         "数据分析"
       ],
       "wordCount": 5874,
-      "id": "1c38fcbb665ce166"
+      "id": "a7a6d181527b8131"
     },
     {
       "filename": "Excel数据分析_Excel数据透视表与图表.json",
       "title": "Excel数据透视表与图表",
       "description": "Excel数据透视表和图表是强大的数据分析工具，掌握这些功能能有效提升数据分析效率和可视化效果",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -488,13 +434,13 @@
         "图表类型"
       ],
       "wordCount": 4888,
-      "id": "f8be546aa340a750"
+      "id": "806c98888342ebc5"
     },
     {
       "filename": "Python数据分析_数据清洗与预处理.json",
       "title": "数据清洗与预处理",
       "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -505,13 +451,13 @@
         "数据分析"
       ],
       "wordCount": 12373,
-      "id": "d9aa0068a0606808"
+      "id": "76d2867c0ecc6462"
     },
     {
       "filename": "Python数据分析_Matplotlib_Seaborn可视化进阶.json",
       "title": "Matplotlib/Seaborn可视化进阶",
       "description": "Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -522,13 +468,13 @@
         "数据分析"
       ],
       "wordCount": 9790,
-      "id": "df231dd7719e3552"
+      "id": "fa46c680fde09b61"
     },
     {
       "filename": "Python数据分析_Pandas高级数据处理.json",
       "title": "Pandas高级数据处理",
       "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -539,13 +485,13 @@
         "数据分析"
       ],
       "wordCount": 9337,
-      "id": "1c55029bf4ae44b4"
+      "id": "9f2b17b764fffcbc"
     },
     {
       "filename": "Python数据分析_Python数据分析基础.json",
       "title": "Python数据分析基础",
       "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -555,13 +501,13 @@
         "数据分析"
       ],
       "wordCount": 10145,
-      "id": "e3e9daf172bc90aa"
+      "id": "830622b92a8a111e"
     },
     {
       "filename": "Python数据分析_Scikit-learn机器学习入门.json",
       "title": "Scikit-learn机器学习入门",
       "description": "Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -573,13 +519,13 @@
         "数据分析"
       ],
       "wordCount": 12849,
-      "id": "70ba56e04a2466d3"
+      "id": "b175cf35ec41be0f"
     },
     {
       "filename": "SQL数据库_SQL窗口函数.json",
       "title": "SQL窗口函数",
       "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -588,13 +534,13 @@
         "数据分析"
       ],
       "wordCount": 9748,
-      "id": "0640b04a4e030b50"
+      "id": "c87ac21a62f93013"
     },
     {
       "filename": "SQL数据库_SQL多表连接.json",
       "title": "SQL多表连接",
       "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -603,13 +549,13 @@
         "数据分析"
       ],
       "wordCount": 8928,
-      "id": "98f21c7ba430dfe8"
+      "id": "a7b97952ea9c4f31"
     },
     {
       "filename": "SQL数据库_SQL高级查询.json",
       "title": "SQL高级查询",
       "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -621,13 +567,13 @@
         "数据分析"
       ],
       "wordCount": 8225,
-      "id": "c2edfb15bd75b236"
+      "id": "3abf1418542fa9e5"
     },
     {
       "filename": "SQL数据库_SQL基础查询.json",
       "title": "SQL基础查询",
       "description": "SQL基础查询是数据分析师操作数据库的基本技能，掌握SELECT、WHERE、GROUP BY、HAVING、ORDER BY等子句是进行数据查询和分析的基础",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -640,13 +586,13 @@
         "数据分析"
       ],
       "wordCount": 7051,
-      "id": "86f4946ddc372b74"
+      "id": "7b417b49c928625f"
     },
     {
       "filename": "SQL数据库_SQL数据分析实战.json",
       "title": "SQL数据分析实战",
       "description": "SQL数据分析实战涵盖使用SQL进行数据查询、数据聚合、数据分组、数据筛选等操作，是数据分析师日常工作的核心技能",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -657,13 +603,13 @@
         "数据分析"
       ],
       "wordCount": 8873,
-      "id": "dec50c58c2e60022"
+      "id": "1d8122d7ae316304"
     },
     {
       "filename": "SQL数据库_SQL性能优化.json",
       "title": "SQL性能优化",
       "description": "SQL性能优化是数据分析师必须掌握的技能，包括索引优化、查询优化、执行计划分析等，掌握这些技能能有效提升数据分析效率",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -674,7 +620,61 @@
         "数据分析"
       ],
       "wordCount": 8680,
-      "id": "f9fca9a70f72fd99"
+      "id": "93b8d619188627ec"
+    },
+    {
+      "filename": "项目采购管理_自制或外购决策.json",
+      "title": "自制或外购决策",
+      "description": "通过自制或外购分析，做出某项特定工作最好由项目团队自己完成，还是需要从外部渠道采购的决策。是规划采购管理过程的重要工具。",
+      "category": "05_通用知识领域/软考/项目管理/项目采购管理",
+      "tags": [
+        "规划过程组",
+        "规划采购管理",
+        "数据分析"
+      ],
+      "wordCount": 2830,
+      "id": "3855aa71838abf4f"
+    },
+    {
+      "filename": "工具与技术_成本效益分析.json",
+      "title": "成本效益分析完全指南",
+      "description": "成本效益分析的定义、步骤、方法和项目管理中的应用",
+      "category": "05_通用知识领域/软考/综合知识/工具与技术",
+      "tags": [
+        "数据分析",
+        "成本效益分析",
+        "决策",
+        "投资分析"
+      ],
+      "wordCount": 2247,
+      "id": "67e22d279f0a8212"
+    },
+    {
+      "filename": "工具与技术_多标准决策分析.json",
+      "title": "多标准决策分析",
+      "description": "该技术借助决策矩阵，用系统分析方法建立诸如风险水平、不确定性和价值收益等多种标准，以对众多创意进行评估和排序。是收集需求、识别风险等过程的工具。",
+      "category": "05_通用知识领域/软考/综合知识/工具与技术",
+      "tags": [
+        "决策",
+        "数据分析",
+        "创意技术"
+      ],
+      "wordCount": 3020,
+      "id": "96307bf7f54a57d4"
+    },
+    {
+      "filename": "信息系统开发_数据挖掘.json",
+      "title": "数据挖掘",
+      "description": "数据挖掘概念、技术方法、挖掘流程、应用场景",
+      "category": "05_通用知识领域/软考/综合知识/信息系统开发",
+      "tags": [
+        "数据挖掘",
+        "数据分析",
+        "数据集成",
+        "数据可视化"
+      ],
+      "wordCount": 1783,
+      "id": "7aa218262a9ce44d"
     }
   ]
 }

@@ -8,27 +8,27 @@
       "filename": "小学_小学教育科研.json",
       "title": "小学教育科研",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "02_考试证书领域/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育科研",
         "教师专业发展"
       ],
       "wordCount": 4389,
-      "id": "8a3bdad264b87987"
+      "id": "6c60814ca4dff27a"
     },
     {
       "filename": "小学_小学教育科研方法.json",
       "title": "小学教育科研方法",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "02_考试证书领域/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育科研",
         "研究方法"
       ],
       "wordCount": 3692,
-      "id": "32c63f0d34200f06"
+      "id": "f73278be3a829aef"
     }
   ]
 }

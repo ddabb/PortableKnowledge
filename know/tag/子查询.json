@@ -8,7 +8,7 @@
       "filename": "SQL数据库_SQL高级查询.json",
       "title": "SQL高级查询",
       "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -20,13 +20,13 @@
         "数据分析"
       ],
       "wordCount": 8225,
-      "id": "c2edfb15bd75b236"
+      "id": "3abf1418542fa9e5"
     },
     {
       "filename": "SQL数据库_子查询.json",
       "title": "SQL子查询",
       "description": "子查询是嵌套在其他SQL语句中的查询，用于复杂条件过滤、多表关联分析，是数据分析师必备技能",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -34,7 +34,7 @@
         "Subquery"
       ],
       "wordCount": 10233,
-      "id": "b70bfeda43252eed"
+      "id": "0605b245c9cbe13b"
     }
   ]
 }

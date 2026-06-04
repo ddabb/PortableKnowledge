@@ -1,273 +1,332 @@
 {
   "page": 8,
   "totalPages": 44,
-  "totalItems": 867,
+  "totalItems": 877,
   "items": [
     {
-      "filename": "人力资源管理师_劳动关系.json",
-      "title": "劳动关系",
-      "description": "劳动关系的概念、管理和协调策略",
-      "category": "人力资源管理师",
+      "filename": "云原生_云原生存储.json",
+      "title": "云原生存储",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源管理师",
-        "劳动关系"
+        "云原生",
+        "存储",
+        "PV",
+        "PVC",
+        "StorageClass",
+        "CSI"
       ],
-      "wordCount": 774,
-      "id": "fd236277fb520467"
+      "wordCount": 5277,
+      "id": "30c862953678a811"
     },
     {
-      "filename": "人力资源管理师_培训开发.json",
-      "title": "培训开发",
-      "description": "培训开发的体系、方法和实施策略",
-      "category": "人力资源管理师",
+      "filename": "云原生_云原生概述.json",
+      "title": "云原生概述",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源管理师",
-        "培训",
-        "开发"
+        "云原生",
+        "Cloud Native",
+        "容器",
+        "微服务",
+        "DevOps"
       ],
-      "wordCount": 697,
-      "id": "4b0e8eca0f576f1d"
+      "wordCount": 3585,
+      "id": "4d8e80b89a85568a"
     },
     {
-      "filename": "人力资源管理师_核心考点.json",
-      "title": "人力资源管理师核心考点",
-      "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
-      "category": "人力资源管理师",
+      "filename": "云原生_云原生可观测性.json",
+      "title": "云原生可观测性",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源",
-        "HR",
-        "劳动法"
+        "云原生",
+        "可观测性",
+        "监控",
+        "日志",
+        "分布式追踪",
+        "Prometheus",
+        "Grafana"
       ],
-      "wordCount": 1426,
-      "id": "89130bc5d5b8903d"
+      "wordCount": 5365,
+      "id": "c4733cfddf760d2c"
     },
     {
-      "filename": "人力资源管理师_人力资源管理师职业发展.json",
-      "title": "人力资源管理师职业发展",
-      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
-      "category": "人力资源管理师",
+      "filename": "云原生_云原生网络.json",
+      "title": "云原生网络",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源管理师",
-        "职业发展"
+        "云原生",
+        "容器网络",
+        "CNI",
+        "Service",
+        "Ingress",
+        "NetworkPolicy"
       ],
-      "wordCount": 932,
-      "id": "b003aff1861bb29f"
+      "wordCount": 5310,
+      "id": "d29590536f1a5902"
     },
     {
-      "filename": "人力资源管理师_人力资源规划.json",
-      "title": "人力资源规划",
-      "description": "人力资源规划的核心概念、流程和实践方法",
-      "category": "人力资源管理师",
+      "filename": "云原生_云原生未来趋势.json",
+      "title": "云原生未来趋势",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源管理师",
-        "人力资源规划"
+        "云原生",
+        "未来趋势",
+        "eBPF",
+        "WebAssembly",
+        "FinOps",
+        "平台工程",
+        "AI for Ops"
       ],
-      "wordCount": 523,
-      "id": "7d04338392048966"
+      "wordCount": 5636,
+      "id": "9de2d6d4d2ad3290"
     },
     {
-      "filename": "人力资源管理师_人力资源信息化.json",
-      "title": "人力资源信息化",
-      "description": "人力资源信息化的概念、实施和管理策略",
-      "category": "人力资源管理师",
+      "filename": "云原生_DevOps与CI_CD.json",
+      "title": "DevOps与CI/CD",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源管理师",
-        "人力资源信息化"
+        "云原生",
+        "DevOps",
+        "CI/CD",
+        "持续集成",
+        "持续交付",
+        "GitOps"
       ],
-      "wordCount": 873,
-      "id": "22b9ef7332fc03a9"
+      "wordCount": 5299,
+      "id": "f0ca49b9a538a462"
     },
     {
-      "filename": "人力资源管理师_薪酬管理.json",
-      "title": "薪酬管理",
-      "description": "薪酬管理的体系、设计和实施策略",
-      "category": "人力资源管理师",
+      "filename": "云原生_Docker容器化.json",
+      "title": "Docker容器化",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源管理师",
-        "薪酬管理"
+        "云原生",
+        "Docker",
+        "容器化",
+        "镜像构建",
+        "容器编排"
       ],
-      "wordCount": 733,
-      "id": "c450ac405a5ae475"
+      "wordCount": 5477,
+      "id": "22dc5e1ef7540d20"
     },
     {
-      "filename": "人力资源管理师_员工福利管理.json",
-      "title": "员工福利管理",
-      "description": "员工福利管理的体系、设计和实施策略",
-      "category": "人力资源管理师",
+      "filename": "云原生_Kubernetes核心概念.json",
+      "title": "Kubernetes核心概念",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源管理师",
-        "员工福利"
+        "云原生",
+        "Kubernetes",
+        "容器编排",
+        "容器管理"
       ],
-      "wordCount": 828,
-      "id": "6e92b5ebeb4989fb"
+      "wordCount": 4987,
+      "id": "e0e771f09d223358"
     },
     {
-      "filename": "人力资源管理师_员工关系管理.json",
-      "title": "员工关系管理",
-      "description": "员工关系管理的概念、方法和实施策略",
-      "category": "人力资源管理师",
+      "filename": "云原生_Serverless与函数计算.json",
+      "title": "Serverless与函数计算",
+      "description": "",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "人力资源管理师",
-        "员工关系"
+        "云原生",
+        "Serverless",
+        "函数计算",
+        "FaaS",
+        "BaaS",
+        "Knative"
       ],
-      "wordCount": 994,
-      "id": "a2b4325c1626edca"
+      "wordCount": 4651,
+      "id": "f91e3cc23f64790e"
     },
     {
-      "filename": "人力资源管理师_战略性人力资源管理.json",
-      "title": "战略性人力资源管理",
-      "description": "战略性人力资源管理的概念、实施和管理策略",
-      "category": "人力资源管理师",
+      "filename": "AI推理加速_分布式推理.json",
+      "title": "分布式推理",
+      "description": "分布式推理的核心技术、并行策略、通信优化和实战案例，涵盖张量并行、流水线并行、序列并行、数据并行等",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "人力资源管理师",
-        "战略性人力资源管理"
+        "分布式推理",
+        "张量并行",
+        "流水线并行",
+        "序列并行",
+        "数据并行",
+        "模型并行",
+        "通信优化"
       ],
-      "wordCount": 883,
-      "id": "4e0c2768a54f324e"
+      "wordCount": 9452,
+      "id": "896c456ac1aa437d"
     },
     {
-      "filename": "人力资源管理师_招聘与配置.json",
-      "title": "招聘与配置",
-      "description": "招聘与配置的流程、方法和最佳实践",
-      "category": "人力资源管理师",
+      "filename": "AI推理加速_模型量化技术.json",
+      "title": "模型量化技术",
+      "description": "模型量化技术的原理、方法、工具链和实战案例，涵盖训练后量化、量化感知训练、GPTQ、AWQ等主流量化算法",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "人力资源管理师",
-        "招聘",
-        "配置"
+        "模型量化",
+        "训练后量化",
+        "量化感知训练",
+        "GPTQ",
+        "AWQ",
+        "INT8量化",
+        "INT4量化",
+        "模型压缩"
       ],
-      "wordCount": 720,
-      "id": "5c83fb187aec2197"
+      "wordCount": 10756,
+      "id": "93debc24548e1b01"
     },
     {
-      "filename": "认知偏差_常见认知偏差.json",
-      "title": "常见认知偏差：你每天都在犯的思维错误",
-      "description": "识别并规避幸存者偏差、确认偏误、锚定效应等常见认知偏差，提升决策质量",
-      "category": "认知思维/认知偏差",
+      "filename": "AI推理加速_AI推理服务部署.json",
+      "title": "AI推理服务部署",
+      "description": "AI推理服务的架构设计、部署策略、性能优化和高可用保障，涵盖服务化、负载均衡、自动扩缩容、监控告警等核心技术",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "认知偏差",
-        "幸存者偏差",
-        "确认偏误",
-        "锚定效应"
+        "AI推理服务",
+        "服务化部署",
+        "负载均衡",
+        "自动扩缩容",
+        "高可用",
+        "监控告警",
+        "性能优化"
       ],
-      "wordCount": 1178,
-      "id": "2cc2a1cfcddf4802"
+      "wordCount": 9852,
+      "id": "cfddd2ebed7de84a"
     },
     {
-      "filename": "思维工具_实用思维工具.json",
-      "title": "实用思维工具：SWOT分析与决策矩阵",
-      "description": "掌握SWOT分析、决策矩阵、思维导图等实用思维工具，提升分析和决策能力",
-      "category": "认知思维/思维工具",
+      "filename": "AI推理加速_AI推理加速概述.json",
+      "title": "AI推理加速概述",
+      "description": "AI推理加速的基本概念、技术方法和实战指南，涵盖推理优化、硬件加速和服务化部署",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "思维工具",
-        "SWOT",
-        "决策矩阵",
-        "思维导图"
+        "AI推理加速",
+        "推理优化",
+        "模型压缩",
+        "量化",
+        "硬件加速",
+        "服务化部署"
       ],
-      "wordCount": 520,
-      "id": "2292cb93f0b2cdad"
+      "wordCount": 6184,
+      "id": "907a930e352d27f7"
     },
     {
-      "filename": "学习方法_高效学习方法.json",
-      "title": "高效学习方法：科学记忆与刻意练习",
-      "description": "掌握费曼学习法、间隔重复、刻意练习等核心学习方法，提升学习效率",
-      "category": "认知思维/学习方法",
+      "filename": "AI推理加速_GPU编程与CUDA优化.json",
+      "title": "GPU编程与CUDA优化",
+      "description": "GPU编程基础、CUDA核心概念、优化技巧和实战案例，涵盖线程模型、内存层次、算子优化等核心技术",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "学习方法",
-        "费曼学习法",
-        "间隔重复",
-        "刻意练习"
+        "GPU编程",
+        "CUDA",
+        "并行计算",
+        "线程模型",
+        "内存优化",
+        "算子优化",
+        "性能调优"
       ],
-      "wordCount": 1902,
-      "id": "1c8f7f54a48ac2dc"
+      "wordCount": 8952,
+      "id": "add6902f21020c34"
     },
     {
-      "filename": "软考_软考图表速查.json",
-      "title": "软考图表速查",
-      "description": "软考中最核心、最高频的图按照软件设计/架构类、项目管理类、通用基础类进行系统梳理，附核心概念和考点说明",
-      "category": "软考",
+      "filename": "AI推理加速_LLM推理优化.json",
+      "title": "LLM推理优化",
+      "description": "大语言模型推理优化技术，涵盖KV Cache、PagedAttention、Continuous Batching、量化、并行策略等核心技术",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "软考",
-        "图表速查",
-        "DFD",
-        "E-R图",
-        "UML",
-        "网络图",
-        "甘特图",
-        "软考备考"
+        "LLM",
+        "大语言模型",
+        "推理优化",
+        "KV Cache",
+        "PagedAttention",
+        "Continuous Batching",
+        "模型量化",
+        "模型并行"
       ],
-      "wordCount": 4140,
-      "id": "f804b62b314ee4ef"
+      "wordCount": 7718,
+      "id": "e4ed43c81f3ab0bb"
     },
     {
-      "filename": "高级项目管理_量化管理理论.json",
-      "title": "量化管理理论",
-      "description": "量化管理理论发展阶段、统计过程控制SPC、六西格玛DMAIC、CMMI高成熟度特征",
-      "category": "软考/项目管理/高级项目管理",
+      "filename": "AI推理加速_SGLang推理引擎.json",
+      "title": "SGLang推理引擎",
+      "description": "SGLang推理引擎的核心技术、架构设计、编程模型和性能优化，涵盖Radix Attention、动态编程、灵活推理等创新技术",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "软考高项",
-        "量化管理",
-        "SPC",
-        "六西格玛",
-        "CMMI"
+        "SGLang",
+        "推理引擎",
+        "Radix Attention",
+        "动态编程",
+        "灵活推理",
+        "LLM服务",
+        "高性能"
       ],
-      "wordCount": 848,
-      "id": "1b39f6bc9987e942"
+      "wordCount": 10979,
+      "id": "75399bd817c0a3b5"
     },
     {
-      "filename": "高级项目管理_项目集管理概述.json",
-      "title": "项目集管理概述",
-      "description": "项目集定义、角色职责（发起人、指导委员会、项目集经理），与项目和项目组合的区别",
-      "category": "软考/项目管理/高级项目管理",
+      "filename": "AI推理加速_TensorRT-LLM推理引擎.json",
+      "title": "TensorRT-LLM推理引擎",
+      "description": "TensorRT-LLM的核心技术、架构设计、使用方法和性能优化，涵盖算子融合、量化、FP8、模型并行等高级技术",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "软考高项",
-        "项目集",
-        "项目集经理",
-        "指导委员会"
+        "TensorRT-LLM",
+        "NVIDIA",
+        "推理引擎",
+        "算子融合",
+        "量化",
+        "FP8",
+        "模型并行",
+        "低延迟"
       ],
-      "wordCount": 766,
-      "id": "fcc60cc2f273aa7d"
+      "wordCount": 10555,
+      "id": "b4b7c29b296cf917"
     },
     {
-      "filename": "高级项目管理_项目集管理绩效域.json",
-      "title": "项目集管理绩效域",
-      "description": "项目集五大绩效域：战略一致性、效益管理、干系人参与、治理、生命周期管理",
-      "category": "软考/项目管理/高级项目管理",
+      "filename": "AI推理加速_vLLM推理引擎.json",
+      "title": "vLLM推理引擎",
+      "description": "vLLM推理引擎的核心技术、架构设计、使用方法和性能优化，涵盖PagedAttention、Continuous Batching等创新技术",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
-        "软考高项",
-        "项目集管理",
-        "绩效域",
-        "效益管理"
+        "vLLM",
+        "推理引擎",
+        "PagedAttention",
+        "Continuous Batching",
+        "LLM推理",
+        "高吞吐量",
+        "易用性"
       ],
-      "wordCount": 890,
-      "id": "019d225b9a9e295b"
+      "wordCount": 10150,
+      "id": "d219cebfea1078d0"
     },
     {
-      "filename": "高级项目管理_项目组合管理概述.json",
-      "title": "项目组合管理概述",
-      "description": "项目组合定义、角色职责（组合管理经理）、与其他管理的区别",
-      "category": "软考/项目管理/高级项目管理",
+      "filename": "公务员_核心考点.json",
+      "title": "公务员考试核心考点",
+      "description": "公考备考知识体系：行测、申论核心考点",
+      "category": "02_考试证书领域/公务员",
       "tags": [
-        "软考高项",
-        "项目组合",
-        "组合管理经理",
-        "治理机构"
+        "公考",
+        "行测",
+        "申论"
       ],
-      "wordCount": 815,
-      "id": "a782f545eddc164a"
+      "wordCount": 2401,
+      "id": "7cebcab58a08f844"
     },
     {
-      "filename": "高级项目管理_项目组合管理绩效域.json",
-      "title": "项目组合管理绩效域",
-      "description": "项目组合六大绩效域：战略管理、治理、产能与能力管理、价值管理、风险管理、干系人参与",
-      "category": "软考/项目管理/高级项目管理",
+      "filename": "申论_申论大作文与概括分析.json",
+      "title": "申论大作文与概括分析：高分答题技巧",
+      "description": "申论大作文写作框架、归纳概括与综合分析的答题方法",
+      "category": "02_考试证书领域/公务员/申论",
       "tags": [
-        "软考高项",
-        "项目组合",
-        "绩效域",
-        "风险管理"
+        "申论",
+        "大作文",
+        "归纳概括",
+        "综合分析",
+        "论证方法"
       ],
-      "wordCount": 838,
-      "id": "622780f9408161a3"
+      "wordCount": 1229,
+      "id": "52a4b310089b2468"
     }
   ]
 }

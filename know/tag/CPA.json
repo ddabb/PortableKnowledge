@@ -8,20 +8,20 @@
       "filename": "注册会计师_核心考点.json",
       "title": "注册会计师考试核心考点",
       "description": "CPA备考知识体系：会计、审计、财管、税法、经济法、公司战略核心考点",
-      "category": "注册会计师",
+      "category": "02_考试证书领域/注册会计师",
       "tags": [
         "CPA",
         "会计",
         "审计"
       ],
       "wordCount": 2585,
-      "id": "f6856ff8e910a234"
+      "id": "7ddeb4c1a935519c"
     },
     {
       "filename": "财务成本管理_本量利分析.json",
       "title": "本量利分析",
       "description": "CPA财务成本管理本量利分析章节核心知识点，包括成本、业务量和利润之间的关系",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -29,13 +29,13 @@
         "盈亏平衡分析"
       ],
       "wordCount": 1238,
-      "id": "e69fb0be6ed42e87"
+      "id": "4baf1b3a355dbc20"
     },
     {
       "filename": "财务成本管理_标准成本法.json",
       "title": "标准成本法",
       "description": "CPA财务成本管理标准成本法章节核心知识点，包括标准成本的制定和差异分析",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -43,13 +43,13 @@
         "差异分析"
       ],
       "wordCount": 1197,
-      "id": "ada36c7df44cfc8c"
+      "id": "c60aea9359548517"
     },
     {
       "filename": "财务成本管理_财务报表分析.json",
       "title": "财务报表分析",
       "description": "CPA财务成本管理财务报表分析章节核心知识点，包括财务比率分析和财务报表解读",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -57,13 +57,13 @@
         "财务比率"
       ],
       "wordCount": 1142,
-      "id": "d6bad0bd03b2b269"
+      "id": "34aa9de288b90e87"
     },
     {
       "filename": "财务成本管理_财务管理概述.json",
       "title": "财务管理概述",
       "description": "CPA财务成本管理财务管理概述章节核心知识点，包括财务管理的目标和内容",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -71,13 +71,13 @@
         "目标内容"
       ],
       "wordCount": 971,
-      "id": "8950688bbf2ec982"
+      "id": "d317fea7a9499d28"
     },
     {
       "filename": "财务成本管理_财务预测.json",
       "title": "财务预测",
       "description": "CPA财务成本管理财务预测章节核心知识点，包括销售预测和财务报表预测",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -85,13 +85,13 @@
         "销售预测"
       ],
       "wordCount": 1153,
-      "id": "11b78855ee02f677"
+      "id": "93bf8024e044d78f"
     },
     {
       "filename": "财务成本管理_成本计算.json",
       "title": "成本计算",
       "description": "CPA财务成本管理成本计算章节核心知识点，包括产品成本计算和期间费用核算",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -99,13 +99,13 @@
         "产品成本"
       ],
       "wordCount": 1906,
-      "id": "065c8ad87974a650"
+      "id": "ae9f7cf1f05cea43"
     },
     {
       "filename": "财务成本管理_短期经营决策.json",
       "title": "短期经营决策",
       "description": "CPA财务成本管理短期经营决策章节核心知识点，包括生产决策和定价决策",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -113,13 +113,13 @@
         "生产决策"
       ],
       "wordCount": 1645,
-      "id": "84b668cd84915823"
+      "id": "a49628cf2fc58d38"
     },
     {
       "filename": "财务成本管理_股利分配管理.json",
       "title": "股利分配管理",
       "description": "CPA财务成本管理股利分配管理章节核心知识点，包括股利政策和股利分配程序",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -127,13 +127,13 @@
         "股利政策"
       ],
       "wordCount": 1367,
-      "id": "f5381d37d1ad70e5"
+      "id": "753c643fcafec616"
     },
     {
       "filename": "财务成本管理_投资项目资本预算.json",
       "title": "投资项目资本预算",
       "description": "CPA财务成本管理投资项目资本预算章节核心知识点，包括投资项目评价方法和现金流量估计",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -141,13 +141,13 @@
         "投资评价"
       ],
       "wordCount": 1294,
-      "id": "55190ec6c81061af"
+      "id": "b75f09d183845289"
     },
     {
       "filename": "财务成本管理_业绩评价.json",
       "title": "业绩评价",
       "description": "CPA财务成本管理业绩评价章节核心知识点，包括责任中心业绩评价和平衡计分卡",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -155,13 +155,13 @@
         "责任中心"
       ],
       "wordCount": 1454,
-      "id": "d53ebb5704b79ab8"
+      "id": "c5f0ad565e8a2496"
     },
     {
       "filename": "财务成本管理_营运资本管理.json",
       "title": "营运资本管理",
       "description": "CPA财务成本管理营运资本管理章节核心知识点，包括现金管理、应收账款管理和存货管理",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -169,13 +169,13 @@
         "现金管理"
       ],
       "wordCount": 1667,
-      "id": "2d7e42c1f5481c14"
+      "id": "21fc17d68b293131"
     },
     {
       "filename": "财务成本管理_长期筹资决策.json",
       "title": "长期筹资决策",
       "description": "CPA财务成本管理长期筹资决策章节核心知识点，包括长期债务筹资和权益筹资",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -183,13 +183,13 @@
         "债务筹资"
       ],
       "wordCount": 2247,
-      "id": "670d126dde85e887"
+      "id": "96165ede30da32e9"
     },
     {
       "filename": "财务成本管理_资本成本.json",
       "title": "资本成本",
       "description": "CPA财务成本管理资本成本章节核心知识点，包括个别资本成本和加权平均资本成本",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -197,13 +197,13 @@
         "加权平均资本成本"
       ],
       "wordCount": 1077,
-      "id": "b92a62598fbda8c6"
+      "id": "ab673d1175887be5"
     },
     {
       "filename": "财务成本管理_资本结构.json",
       "title": "资本结构",
       "description": "CPA财务成本管理资本结构章节核心知识点，包括资本结构理论和最优资本结构",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -211,13 +211,13 @@
         "最优资本结构"
       ],
       "wordCount": 1105,
-      "id": "132d229e1b8c363c"
+      "id": "05f2b4bf831ba3eb"
     },
     {
       "filename": "财务成本管理_作业成本法.json",
       "title": "作业成本法",
       "description": "CPA财务成本管理作业成本法章节核心知识点，包括作业成本的计算和应用",
-      "category": "注册会计师/财务成本管理",
+      "category": "02_考试证书领域/注册会计师/财务成本管理",
       "tags": [
         "CPA",
         "财务成本管理",
@@ -225,26 +225,26 @@
         "作业成本计算"
       ],
       "wordCount": 1082,
-      "id": "95515ebefa36205d"
+      "id": "9bcd755e483ff23c"
     },
     {
       "filename": "公司战略与风险管理_风险与风险管理.json",
       "title": "风险与风险管理",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "风险",
         "风险管理",
         "CPA"
       ],
       "wordCount": 325,
-      "id": "c8ef74778c2a8653"
+      "id": "626c570512873454"
     },
     {
       "filename": "公司战略与风险管理_公司治理.json",
       "title": "公司治理",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "公司治理",
         "董事会",
@@ -252,52 +252,52 @@
         "CPA"
       ],
       "wordCount": 319,
-      "id": "e25e79384e2ea402"
+      "id": "21d4c63390dd7485"
     },
     {
       "filename": "公司战略与风险管理_国际化经营战略.json",
       "title": "国际化经营战略",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "国际化经营",
         "战略",
         "CPA"
       ],
       "wordCount": 305,
-      "id": "d60db92a0a1e612d"
+      "id": "554b759cdc2cc2e6"
     },
     {
       "filename": "公司战略与风险管理_内部控制.json",
       "title": "内部控制",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "内部控制",
         "COSO框架",
         "CPA"
       ],
       "wordCount": 353,
-      "id": "2f119a4f008efbc3"
+      "id": "68de2e39c3374d39"
     },
     {
       "filename": "公司战略与风险管理_数字化转型战略.json",
       "title": "数字化转型战略",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "数字化转型",
         "战略",
         "CPA"
       ],
       "wordCount": 395,
-      "id": "905b4983f825a260"
+      "id": "89bf947546c6f5a6"
     },
     {
       "filename": "公司战略与风险管理_战略分析.json",
       "title": "战略分析",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "战略分析",
         "外部环境",
@@ -305,13 +305,13 @@
         "CPA"
       ],
       "wordCount": 391,
-      "id": "d20a69426118ea9f"
+      "id": "71cb234188c3752a"
     },
     {
       "filename": "公司战略与风险管理_战略管理概述.json",
       "title": "战略管理概述",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "战略管理",
         "公司战略",
@@ -322,13 +322,13 @@
         "CPA"
       ],
       "wordCount": 2794,
-      "id": "fc146a253ac6f230"
+      "id": "82c6afc2b7c47549"
     },
     {
       "filename": "公司战略与风险管理_战略控制.json",
       "title": "战略控制",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "战略控制",
         "预算控制",
@@ -340,13 +340,13 @@
         "战略控制过程"
       ],
       "wordCount": 7385,
-      "id": "f49cbddb991d1ae2"
+      "id": "feb9ed3afcd580bb"
     },
     {
       "filename": "公司战略与风险管理_战略实施.json",
       "title": "战略实施",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "战略实施",
         "组织结构",
@@ -357,13 +357,13 @@
         "CPA"
       ],
       "wordCount": 3641,
-      "id": "43412207cdc7f6c8"
+      "id": "18118c6bccff2c41"
     },
     {
       "filename": "公司战略与风险管理_战略选择.json",
       "title": "战略选择",
       "description": "",
-      "category": "注册会计师/公司战略与风险管理",
+      "category": "02_考试证书领域/注册会计师/公司战略与风险管理",
       "tags": [
         "战略选择",
         "总体战略",
@@ -371,13 +371,13 @@
         "CPA"
       ],
       "wordCount": 335,
-      "id": "e8dbbb72eb78980a"
+      "id": "0b53810053b01328"
     },
     {
       "filename": "会计_存货.json",
       "title": "存货",
       "description": "CPA会计存货章节核心知识点，包括存货的确认、计量、发出和清查",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -385,13 +385,13 @@
         "计量方法"
       ],
       "wordCount": 1214,
-      "id": "f4d27b56c0abc7b6"
+      "id": "1ca0659b01ef8da6"
     },
     {
       "filename": "会计_短期借款.json",
       "title": "短期借款",
       "description": "CPA会计短期借款章节核心知识点，包括短期借款的核算和利息处理",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -399,13 +399,13 @@
         "利息核算"
       ],
       "wordCount": 674,
-      "id": "2ce4bfe39200714a"
+      "id": "f93193abaf3a8fa8"
     },
     {
       "filename": "会计_负债概述.json",
       "title": "负债概述",
       "description": "CPA会计负债章节核心知识点，包括负债的定义、分类、确认和计量",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -413,13 +413,13 @@
         "确认计量"
       ],
       "wordCount": 707,
-      "id": "2a8d3bc844708f18"
+      "id": "421f08676193078c"
     },
     {
       "filename": "会计_固定资产.json",
       "title": "固定资产",
       "description": "CPA会计固定资产章节核心知识点，包括固定资产的确认、计量、折旧和处置",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -427,13 +427,13 @@
         "折旧"
       ],
       "wordCount": 1300,
-      "id": "44317f6c09f098d5"
+      "id": "80d71e45e09e615a"
     },
     {
       "filename": "会计_货币资金.json",
       "title": "货币资金",
       "description": "CPA会计货币资金章节核心知识点，包括现金、银行存款和其他货币资金的核算",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -441,13 +441,13 @@
         "现金管理"
       ],
       "wordCount": 1178,
-      "id": "33408f637aca0506"
+      "id": "207788b35dc64d3d"
     },
     {
       "filename": "会计_金融资产.json",
       "title": "金融资产",
       "description": "CPA会计金融资产章节核心知识点，包括金融资产的分类、计量和处置",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -455,13 +455,13 @@
         "分类"
       ],
       "wordCount": 1398,
-      "id": "0568b7fcfb220ec9"
+      "id": "c1b70e4fc15d2ba1"
     },
     {
       "filename": "会计_其他应付款.json",
       "title": "其他应付款",
       "description": "CPA会计其他应付款章节核心知识点，包括其他应付款的核算和内容",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -469,13 +469,13 @@
         "核算"
       ],
       "wordCount": 525,
-      "id": "23ba7ef0a40abfe7"
+      "id": "48914832e1212ebb"
     },
     {
       "filename": "会计_所有者权益概述.json",
       "title": "所有者权益概述",
       "description": "CPA会计所有者权益章节核心知识点，包括所有者权益的定义、构成和核算",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -483,13 +483,13 @@
         "构成"
       ],
       "wordCount": 1132,
-      "id": "602d76b9bea46d42"
+      "id": "f8d55432e7125800"
     },
     {
       "filename": "会计_投资性房地产.json",
       "title": "投资性房地产",
       "description": "CPA会计投资性房地产章节核心知识点，包括投资性房地产的确认、计量和转换",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -497,13 +497,13 @@
         "计量模式"
       ],
       "wordCount": 1634,
-      "id": "6459a2efc0496b74"
+      "id": "c16763679f7d5aa6"
     },
     {
       "filename": "会计_无形资产.json",
       "title": "无形资产",
       "description": "CPA会计无形资产章节核心知识点，包括无形资产的确认、计量、摊销和处置",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -511,13 +511,13 @@
         "摊销"
       ],
       "wordCount": 1259,
-      "id": "b2a8b4a2135a7253"
+      "id": "01ecdc9202a21dd7"
     },
     {
       "filename": "会计_应付利息和应付股利.json",
       "title": "应付利息和应付股利",
       "description": "CPA会计应付利息和应付股利章节核心知识点，包括应付利息和应付股利的核算",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -525,13 +525,13 @@
         "应付股利"
       ],
       "wordCount": 668,
-      "id": "548bdca14739cb31"
+      "id": "cc1476216bf1a55a"
     },
     {
       "filename": "会计_应付票据.json",
       "title": "应付票据",
       "description": "CPA会计应付票据章节核心知识点，包括应付票据的核算和贴现处理",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -539,13 +539,13 @@
         "商业汇票"
       ],
       "wordCount": 762,
-      "id": "b6bd3ee4d13fca56"
+      "id": "2420a51e2d83bd4f"
     },
     {
       "filename": "会计_应付账款.json",
       "title": "应付账款",
       "description": "CPA会计应付账款章节核心知识点，包括应付账款的核算和现金折扣处理",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -553,13 +553,13 @@
         "现金折扣"
       ],
       "wordCount": 1044,
-      "id": "2350ee48d8cc9b5b"
+      "id": "b5c8948837b88984"
     },
     {
       "filename": "会计_应付职工薪酬.json",
       "title": "应付职工薪酬",
       "description": "CPA会计应付职工薪酬章节核心知识点，包括应付职工薪酬的核算和分类",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -567,13 +567,13 @@
         "核算"
       ],
       "wordCount": 1144,
-      "id": "568e00039dccb6b5"
+      "id": "4e0f2054809161f1"
     },
     {
       "filename": "会计_应交税费.json",
       "title": "应交税费",
       "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -581,13 +581,13 @@
         "增值税"
       ],
       "wordCount": 1207,
-      "id": "42db45ed35059dd0"
+      "id": "faeeb38b94ac3d69"
     },
     {
       "filename": "会计_应收及预付款项.json",
       "title": "应收及预付款项",
       "description": "CPA会计应收及预付款项章节核心知识点，包括应收账款、应收票据、预付账款和其他应收款的核算",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -595,13 +595,13 @@
         "应收票据"
       ],
       "wordCount": 1285,
-      "id": "b149d1a5237bfb5f"
+      "id": "63b22a57d0b69a20"
     },
     {
       "filename": "会计_预收账款.json",
       "title": "预收账款",
       "description": "CPA会计预收账款章节核心知识点，包括预收账款的核算和相关账务处理",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -609,13 +609,13 @@
         "核算"
       ],
       "wordCount": 702,
-      "id": "5a1db8a8635278a1"
+      "id": "3a369c7d1fdc7d9d"
     },
     {
       "filename": "会计_长期股权投资.json",
       "title": "长期股权投资",
       "description": "CPA会计长期股权投资章节核心知识点，包括长期股权投资的确认、计量和处置",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -623,13 +623,13 @@
         "权益法"
       ],
       "wordCount": 1636,
-      "id": "ea6795870a4ab109"
+      "id": "68458572f4f62c62"
     },
     {
       "filename": "会计_长期借款.json",
       "title": "长期借款",
       "description": "CPA会计长期借款章节核心知识点，包括长期借款的核算和利息处理",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -637,13 +637,13 @@
         "利息核算"
       ],
       "wordCount": 1007,
-      "id": "f71eb9e8b48a6518"
+      "id": "bb41a8fbf81ac089"
     },
     {
       "filename": "会计_资产概述.json",
       "title": "资产概述",
       "description": "CPA会计资产章节核心知识点，包括资产定义、分类、确认和计量",
-      "category": "注册会计师/会计",
+      "category": "02_考试证书领域/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -651,39 +651,39 @@
         "确认计量"
       ],
       "wordCount": 665,
-      "id": "0d0c571d57a88cef"
+      "id": "f77baef5c095583d"
     },
     {
       "filename": "经济法_反不正当竞争法概述.json",
       "title": "反不正当竞争法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "反不正当竞争法",
         "经济法",
         "CPA"
       ],
       "wordCount": 757,
-      "id": "c4e8b6f024c78459"
+      "id": "a0298c25f51e3b58"
     },
     {
       "filename": "经济法_反垄断法概述.json",
       "title": "反垄断法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "反垄断法",
         "经济法",
         "CPA"
       ],
       "wordCount": 327,
-      "id": "dc2a54c5f75a7bdc"
+      "id": "6f3fb7a64a42d521"
     },
     {
       "filename": "经济法_公司法概述.json",
       "title": "公司法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "公司法",
         "经济法",
@@ -700,26 +700,26 @@
         "法律责任"
       ],
       "wordCount": 9230,
-      "id": "ff86ecb868f095ee"
+      "id": "356982298810f452"
     },
     {
       "filename": "经济法_合同法概述.json",
       "title": "合同法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "合同法",
         "经济法",
         "CPA"
       ],
       "wordCount": 318,
-      "id": "103610937ddf56f5"
+      "id": "b4f79d2f2d99ffb7"
     },
     {
       "filename": "经济法_经济纠纷解决方式.json",
       "title": "经济纠纷解决方式",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "经济纠纷",
         "解决方式",
@@ -727,26 +727,26 @@
         "CPA"
       ],
       "wordCount": 624,
-      "id": "6f28046aa934540d"
+      "id": "829d0b16de50df5b"
     },
     {
       "filename": "经济法_票据法概述.json",
       "title": "票据法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "票据法",
         "经济法",
         "CPA"
       ],
       "wordCount": 3531,
-      "id": "b2f548bfa3843e2b"
+      "id": "c34bf37fa559d3ee"
     },
     {
       "filename": "经济法_破产法概述.json",
       "title": "破产法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "破产法",
         "破产程序",
@@ -759,52 +759,52 @@
         "CPA"
       ],
       "wordCount": 7373,
-      "id": "cd6bfd3f56cbfb10"
+      "id": "50703a9419c42039"
     },
     {
       "filename": "经济法_企业国有资产法概述.json",
       "title": "企业国有资产法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "企业国有资产法",
         "经济法",
         "CPA"
       ],
       "wordCount": 470,
-      "id": "ea02692ed7be380d"
+      "id": "f5ca5106b9870b64"
     },
     {
       "filename": "经济法_涉外经济法律制度概述.json",
       "title": "涉外经济法律制度概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "涉外经济法律制度",
         "经济法",
         "CPA"
       ],
       "wordCount": 318,
-      "id": "3b46227da5fa1039"
+      "id": "472858e1eaab9bac"
     },
     {
       "filename": "经济法_物权法概述.json",
       "title": "物权法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "物权法",
         "经济法",
         "CPA"
       ],
       "wordCount": 2858,
-      "id": "fcba634f56916172"
+      "id": "2fe9796955b556a6"
     },
     {
       "filename": "经济法_证券法概述.json",
       "title": "证券法概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "证券法",
         "证券发行",
@@ -814,13 +814,13 @@
         "CPA"
       ],
       "wordCount": 8043,
-      "id": "50fe1fd4db5165f0"
+      "id": "4320e7be890fa30c"
     },
     {
       "filename": "经济法_知识产权法律制度概述.json",
       "title": "知识产权法律制度概述",
       "description": "",
-      "category": "注册会计师/经济法",
+      "category": "02_考试证书领域/注册会计师/经济法",
       "tags": [
         "知识产权法律制度",
         "著作权法",
@@ -831,13 +831,13 @@
         "CPA"
       ],
       "wordCount": 5407,
-      "id": "8efeb824fe4f7d9a"
+      "id": "655dca106e020408"
     },
     {
       "filename": "审计_采购与付款循环审计.json",
       "title": "采购与付款循环审计",
       "description": "CPA审计采购与付款循环审计章节核心知识点，包括采购与付款循环的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -845,13 +845,13 @@
         "内部控制"
       ],
       "wordCount": 1060,
-      "id": "5e0a4dc4e760fc53"
+      "id": "48bb01342d4ce9bc"
     },
     {
       "filename": "审计_风险评估.json",
       "title": "风险评估",
       "description": "CPA审计风险评估章节核心知识点，包括风险评估程序和重大错报风险评估",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -859,13 +859,13 @@
         "重大错报风险"
       ],
       "wordCount": 925,
-      "id": "05e487191787af09"
+      "id": "259a6ed7e09d8017"
     },
     {
       "filename": "审计_会计师事务所质量控制.json",
       "title": "会计师事务所质量控制",
       "description": "CPA审计会计师事务所质量控制章节核心知识点，包括质量控制的要素和程序",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -873,13 +873,13 @@
         "要素程序"
       ],
       "wordCount": 1634,
-      "id": "6382ed54c5889567"
+      "id": "d3cf92b4f700aca8"
     },
     {
       "filename": "审计_货币资金审计.json",
       "title": "货币资金审计",
       "description": "CPA审计货币资金审计章节核心知识点，包括货币资金的内部控制、审计程序、常见错报和审计证据",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -891,13 +891,13 @@
         "其他货币资金"
       ],
       "wordCount": 5495,
-      "id": "bd85c1e789684a32"
+      "id": "8d148099fe2756eb"
     },
     {
       "filename": "审计_内部控制审计.json",
       "title": "内部控制审计",
       "description": "CPA审计内部控制审计章节核心知识点，包括内部控制审计的基本概念和程序",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -905,13 +905,13 @@
         "内部控制"
       ],
       "wordCount": 1156,
-      "id": "85b4de9995f649ea"
+      "id": "9888a23f2e7a0645"
     },
     {
       "filename": "审计_审计报告.json",
       "title": "审计报告",
       "description": "CPA审计审计报告章节核心知识点，包括审计报告的类型和内容",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -919,13 +919,13 @@
         "审计意见"
       ],
       "wordCount": 1485,
-      "id": "201dbca9f226ac57"
+      "id": "49885ca491ae5f53"
     },
     {
       "filename": "审计_审计抽样.json",
       "title": "审计抽样",
       "description": "CPA审计审计抽样章节核心知识点，包括审计抽样的基本概念和方法",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -933,13 +933,13 @@
         "抽样方法"
       ],
       "wordCount": 843,
-      "id": "b7a7524c3b959377"
+      "id": "8a4f35a1eef2f026"
     },
     {
       "filename": "审计_审计概述.json",
       "title": "审计概述",
       "description": "CPA审计审计概述章节核心知识点，包括审计的定义、特征和分类",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -947,13 +947,13 @@
         "审计特征"
       ],
       "wordCount": 1070,
-      "id": "7a8da7e20b2b1e63"
+      "id": "080b0b0f9b4eea8d"
     },
     {
       "filename": "审计_审计工作底稿.json",
       "title": "审计工作底稿",
       "description": "CPA审计审计工作底稿章节核心知识点，包括审计工作底稿的编制和管理",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -961,13 +961,13 @@
         "编制管理"
       ],
       "wordCount": 1329,
-      "id": "6a3934d6df0f2af4"
+      "id": "1d8bab320e533f77"
     },
     {
       "filename": "审计_审计计划.json",
       "title": "审计计划",
       "description": "CPA审计审计计划章节核心知识点，包括总体审计策略和具体审计计划",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -975,13 +975,13 @@
         "总体审计策略"
       ],
       "wordCount": 969,
-      "id": "f842f0242988dace"
+      "id": "b5618c37dc0ae925"
     },
     {
       "filename": "审计_审计证据.json",
       "title": "审计证据",
       "description": "CPA审计审计证据章节核心知识点，包括审计证据的性质、获取方法和评价",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -989,13 +989,13 @@
         "审计程序"
       ],
       "wordCount": 976,
-      "id": "6286087c31894704"
+      "id": "eeb659561d198a1c"
     },
     {
       "filename": "审计_生产与存货循环审计.json",
       "title": "生产与存货循环审计",
       "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -1003,13 +1003,13 @@
         "内部控制"
       ],
       "wordCount": 964,
-      "id": "facd964c35ef171a"
+      "id": "9d67be2494e5320d"
     },
     {
       "filename": "审计_特殊项目审计.json",
       "title": "特殊项目审计",
       "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -1017,13 +1017,13 @@
         "舞弊风险"
       ],
       "wordCount": 1074,
-      "id": "ad003efcd7a46dec"
+      "id": "a40cd1a291e08949"
     },
     {
       "filename": "审计_销售与收款循环审计.json",
       "title": "销售与收款循环审计",
       "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -1031,13 +1031,13 @@
         "内部控制"
       ],
       "wordCount": 1067,
-      "id": "883f48c880c7679e"
+      "id": "17d9cf9e22cfb8be"
     },
     {
       "filename": "审计_注册会计师职业道德.json",
       "title": "注册会计师职业道德",
       "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
-      "category": "注册会计师/审计",
+      "category": "02_考试证书领域/注册会计师/审计",
       "tags": [
         "CPA",
         "审计",
@@ -1045,26 +1045,26 @@
         "基本原则"
       ],
       "wordCount": 1126,
-      "id": "a1173c0d033fea11"
+      "id": "b2f76ad25a975c0b"
     },
     {
       "filename": "税法_车船税.json",
       "title": "车船税",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "车船税",
         "税法",
         "CPA"
       ],
       "wordCount": 419,
-      "id": "f18e2515104afc66"
+      "id": "e8ecb5801dc637a8"
     },
     {
       "filename": "税法_房产税.json",
       "title": "房产税",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "房产税",
         "税法",
@@ -1072,26 +1072,26 @@
         "财产税"
       ],
       "wordCount": 2857,
-      "id": "877daef2d9bb5f59"
+      "id": "ce9bbbebefc5aa57"
     },
     {
       "filename": "税法_个人所得税概述.json",
       "title": "个人所得税概述",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "个人所得税",
         "税法",
         "CPA"
       ],
       "wordCount": 550,
-      "id": "9ddf90f68934eb79"
+      "id": "d3483961f53f559a"
     },
     {
       "filename": "税法_个人所得税税收优惠.json",
       "title": "个人所得税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "个人所得税",
         "税收优惠",
@@ -1099,13 +1099,13 @@
         "CPA"
       ],
       "wordCount": 549,
-      "id": "215c769b099e3c2f"
+      "id": "f38aea670b7b61be"
     },
     {
       "filename": "税法_个人所得税应纳税额计算.json",
       "title": "个人所得税应纳税额计算",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "个人所得税",
         "应纳税额",
@@ -1113,26 +1113,26 @@
         "CPA"
       ],
       "wordCount": 759,
-      "id": "978350a148cbae33"
+      "id": "d00cf44bc11486ad"
     },
     {
       "filename": "税法_企业所得税概述.json",
       "title": "企业所得税概述",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "企业所得税",
         "税法",
         "CPA"
       ],
       "wordCount": 395,
-      "id": "d73ba40442f0aeea"
+      "id": "7fd30a87fb39d923"
     },
     {
       "filename": "税法_企业所得税税收优惠.json",
       "title": "企业所得税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "企业所得税",
         "税收优惠",
@@ -1140,13 +1140,13 @@
         "CPA"
       ],
       "wordCount": 929,
-      "id": "de2aa7c5c7accbcc"
+      "id": "dd08cba0c61f9022"
     },
     {
       "filename": "税法_企业所得税应纳税所得额.json",
       "title": "企业所得税应纳税所得额",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "企业所得税",
         "应纳税所得额",
@@ -1154,39 +1154,39 @@
         "CPA"
       ],
       "wordCount": 941,
-      "id": "2307cec8cfad239d"
+      "id": "33a5ce4f7bdb50d4"
     },
     {
       "filename": "税法_土地增值税.json",
       "title": "土地增值税",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "土地增值税",
         "税法",
         "CPA"
       ],
       "wordCount": 638,
-      "id": "e7718a8ce428646e"
+      "id": "9a601d3637168493"
     },
     {
       "filename": "税法_消费税概述.json",
       "title": "消费税概述",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "消费税",
         "税法",
         "CPA"
       ],
       "wordCount": 489,
-      "id": "8a60a154349ac4a8"
+      "id": "3e8dc709df9f08ac"
     },
     {
       "filename": "税法_消费税税收优惠.json",
       "title": "消费税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "消费税",
         "税收优惠",
@@ -1194,13 +1194,13 @@
         "CPA"
       ],
       "wordCount": 318,
-      "id": "c8ecba9b705482cf"
+      "id": "7979940085c51a14"
     },
     {
       "filename": "税法_消费税应纳税额计算.json",
       "title": "消费税应纳税额计算",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "消费税",
         "应纳税额",
@@ -1208,26 +1208,26 @@
         "CPA"
       ],
       "wordCount": 647,
-      "id": "6894c86a560d13be"
+      "id": "f37a0b829a999fd1"
     },
     {
       "filename": "税法_增值税概述.json",
       "title": "增值税概述",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "增值税",
         "税法",
         "CPA"
       ],
       "wordCount": 393,
-      "id": "4c1eeec0434a501d"
+      "id": "46f74bf3249fc23f"
     },
     {
       "filename": "税法_增值税税收优惠.json",
       "title": "增值税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "增值税",
         "税收优惠",
@@ -1235,13 +1235,13 @@
         "CPA"
       ],
       "wordCount": 1223,
-      "id": "541e58286de87b05"
+      "id": "c7e244f6b212312f"
     },
     {
       "filename": "税法_增值税应纳税额计算.json",
       "title": "增值税应纳税额计算",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "增值税",
         "应纳税额",
@@ -1249,7 +1249,7 @@
         "CPA"
       ],
       "wordCount": 511,
-      "id": "acaeaa880437f40f"
+      "id": "be8ec092bc2fa72a"
     }
   ]
 }

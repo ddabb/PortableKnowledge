@@ -8,7 +8,7 @@
       "filename": "分布式系统_分布式监控.json",
       "title": "分布式监控",
       "description": "",
-      "category": "分布式系统",
+      "category": "01_技术IT领域/分布式系统",
       "tags": [
         "分布式监控",
         "Prometheus",
@@ -17,13 +17,13 @@
         "可观测性"
       ],
       "wordCount": 4639,
-      "id": "a1411747e4200e5b"
+      "id": "249105f09277e6d6"
     },
     {
       "filename": "分布式系统_分布式链路追踪.json",
       "title": "分布式链路追踪",
       "description": "",
-      "category": "分布式系统",
+      "category": "01_技术IT领域/分布式系统",
       "tags": [
         "分布式链路追踪",
         "链路追踪",
@@ -33,7 +33,7 @@
         "分布式监控"
       ],
       "wordCount": 4246,
-      "id": "5833f5f0dd8d3ff2"
+      "id": "dba50da9661c16ad"
     }
   ]
 }

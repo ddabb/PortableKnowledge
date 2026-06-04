@@ -2,7 +2,7 @@
   "filename": "AI推理加速_SGLang推理引擎.json",
   "title": "SGLang推理引擎",
   "description": "SGLang推理引擎的核心技术、架构设计、编程模型和性能优化，涵盖Radix Attention、动态编程、灵活推理等创新技术",
-  "category": "AI推理加速",
+  "category": "01_技术IT领域/AI推理加速",
   "tags": [
     "SGLang",
     "推理引擎",

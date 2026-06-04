@@ -8,7 +8,7 @@
       "filename": "系统编程_并发编程实践.json",
       "title": "并发编程实践",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "并发编程",
@@ -17,13 +17,13 @@
         "性能优化"
       ],
       "wordCount": 4798,
-      "id": "ff8be691f0f85e20"
+      "id": "0f635138bdbdbd24"
     },
     {
       "filename": "系统编程_进程与线程管理.json",
       "title": "进程与线程管理",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "进程",
@@ -32,13 +32,13 @@
         "上下文切换"
       ],
       "wordCount": 5411,
-      "id": "c689fa55f8538ae6"
+      "id": "d34d83cb621d5f67"
     },
     {
       "filename": "系统编程_内存管理实现.json",
       "title": "内存管理实现",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "内存管理",
@@ -47,13 +47,13 @@
         "性能优化"
       ],
       "wordCount": 5255,
-      "id": "cbc3ffb80becf229"
+      "id": "aa238770098868a8"
     },
     {
       "filename": "系统编程_网络编程实践.json",
       "title": "网络编程实践",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "网络编程",
@@ -62,13 +62,13 @@
         "高性能网络"
       ],
       "wordCount": 6235,
-      "id": "c46009e09786c181"
+      "id": "106248d1e0e27cf4"
     },
     {
       "filename": "系统编程_文件I_O优化.json",
       "title": "文件I/O优化",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "文件I/O",
@@ -77,13 +77,13 @@
         "性能优化"
       ],
       "wordCount": 5392,
-      "id": "cc6a25a028f5d6d3"
+      "id": "9a2d81dda902fb71"
     },
     {
       "filename": "系统编程_系统编程概述.json",
       "title": "系统编程概述",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "定义",
@@ -91,13 +91,13 @@
         "应用场景"
       ],
       "wordCount": 4818,
-      "id": "46bdfcf98a430aa8"
+      "id": "36fea8ef1fe1c429"
     },
     {
       "filename": "系统编程_性能优化与调试.json",
       "title": "性能优化与调试",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "性能优化",
@@ -106,13 +106,13 @@
         "缓存优化"
       ],
       "wordCount": 5166,
-      "id": "e2850b1be80ca3c2"
+      "id": "5cd5334f782fa7f7"
     },
     {
       "filename": "系统编程_C_C++系统编程实践.json",
       "title": "C/C++系统编程实践",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "C语言",
@@ -121,13 +121,13 @@
         "跨平台"
       ],
       "wordCount": 7201,
-      "id": "169b235231f5b24f"
+      "id": "05c084281a736ba0"
     },
     {
       "filename": "系统编程_Linux系统编程API详解.json",
       "title": "Linux系统编程API详解",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "Linux",
@@ -137,7 +137,7 @@
         "进程管理"
       ],
       "wordCount": 6425,
-      "id": "fed90755b175de26"
+      "id": "4c41d33007f55402"
     }
   ]
 }

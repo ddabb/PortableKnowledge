@@ -5,24 +5,10 @@
   },
   "articles": [
     {
-      "filename": "系统集成基础_数据库基础.json",
-      "title": "数据库基础",
-      "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
-      "category": "软考/综合知识/系统集成基础",
-      "tags": [
-        "数据库",
-        "SQL",
-        "范式",
-        "系统集成"
-      ],
-      "wordCount": 985,
-      "id": "03ba6ce84d86c148"
-    },
-    {
       "filename": "数据分析师_SQL多表连接.json",
       "title": "SQL多表连接",
       "description": "SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式",
-      "category": "数据分析师",
+      "category": "01_技术IT领域/数据分析师",
       "tags": [
         "数据分析师",
         "SQL",
@@ -31,7 +17,21 @@
         "数据分析"
       ],
       "wordCount": 8136,
-      "id": "819c3ef0945bafce"
+      "id": "f3888b3c2cecb590"
+    },
+    {
+      "filename": "系统集成基础_数据库基础.json",
+      "title": "数据库基础",
+      "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
+      "category": "05_通用知识领域/软考/综合知识/系统集成基础",
+      "tags": [
+        "数据库",
+        "SQL",
+        "范式",
+        "系统集成"
+      ],
+      "wordCount": 985,
+      "id": "8849ff422921ecf1"
     }
   ]
 }

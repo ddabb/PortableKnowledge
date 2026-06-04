@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "category": "02_考试证书领域/教师资格证/幼儿",
+    "count": 10
+  },
+  "articles": [
+    {
+      "filename": "幼儿_安全卫生.json",
+      "title": "安全卫生",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "安全卫生",
+        "幼儿安全",
+        "教资"
+      ],
+      "wordCount": 1906,
+      "id": "155f546b5ad6b6ec"
+    },
+    {
+      "filename": "幼儿_游戏指导.json",
+      "title": "游戏指导",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "游戏指导",
+        "幼儿游戏",
+        "教资"
+      ],
+      "wordCount": 2505,
+      "id": "e7f29ac15bedaf99"
+    },
+    {
+      "filename": "幼儿_幼儿发展特点.json",
+      "title": "幼儿发展特点",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "幼儿发展",
+        "发展特点",
+        "教资"
+      ],
+      "wordCount": 4133,
+      "id": "1e7da08c25448967"
+    },
+    {
+      "filename": "幼儿_幼儿教育方法.json",
+      "title": "幼儿教育方法",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "教育方法",
+        "幼儿教育",
+        "教资"
+      ],
+      "wordCount": 1553,
+      "id": "d184407ea6861d2c"
+    },
+    {
+      "filename": "幼儿_幼儿科学教育.json",
+      "title": "幼儿科学教育",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "科学教育",
+        "幼儿科学",
+        "教资"
+      ],
+      "wordCount": 3370,
+      "id": "e9c20f4959966581"
+    },
+    {
+      "filename": "幼儿_幼儿情绪发展.json",
+      "title": "幼儿情绪发展",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "情绪发展",
+        "幼儿情绪",
+        "教资"
+      ],
+      "wordCount": 3574,
+      "id": "8d5cc4c47d3ed0ae"
+    },
+    {
+      "filename": "幼儿_幼儿认知发展.json",
+      "title": "幼儿认知发展",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "认知发展",
+        "幼儿认知",
+        "教资"
+      ],
+      "wordCount": 3651,
+      "id": "114fb60a79086c03"
+    },
+    {
+      "filename": "幼儿_幼儿社会性发展.json",
+      "title": "幼儿社会性发展",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "社会性发展",
+        "幼儿社会",
+        "教资"
+      ],
+      "wordCount": 3897,
+      "id": "f5445b77412b8458"
+    },
+    {
+      "filename": "幼儿_幼儿艺术教育.json",
+      "title": "幼儿艺术教育",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "艺术教育",
+        "幼儿艺术",
+        "教资"
+      ],
+      "wordCount": 2978,
+      "id": "a205942cd208d29b"
+    },
+    {
+      "filename": "幼儿_幼儿语言发展.json",
+      "title": "幼儿语言发展",
+      "description": "",
+      "category": "02_考试证书领域/教师资格证/幼儿",
+      "tags": [
+        "语言发展",
+        "幼儿语言",
+        "教资"
+      ],
+      "wordCount": 3186,
+      "id": "cbd1e544fdb0cf60"
+    }
+  ]
+}

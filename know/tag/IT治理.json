@@ -8,7 +8,7 @@
       "filename": "组织治理与管理_IT治理方法与标准.json",
       "title": "IT治理方法与标准",
       "description": "ITSS体系框架、COBIT框架五大领域、IT治理国际标准ISO/IEC 38500",
-      "category": "软考/综合知识/组织治理与管理",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
         "软考高项",
         "IT治理",
@@ -17,39 +17,39 @@
         "ISO38500"
       ],
       "wordCount": 1237,
-      "id": "1e12adca632ec968"
+      "id": "38f354617d351cf3"
     },
     {
       "filename": "组织治理与管理_IT治理基础.json",
       "title": "IT治理基础",
       "description": "IT治理定义、三大目标、管理层次、核心内容",
-      "category": "软考/综合知识/组织治理与管理",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
         "软考高项",
         "IT治理",
         "信息系统治理"
       ],
       "wordCount": 921,
-      "id": "b4282109c9ecbafc"
+      "id": "27e358fe99d591ca"
     },
     {
       "filename": "组织治理与管理_IT治理任务.json",
       "title": "IT治理任务",
       "description": "IT治理五大任务：全局统筹、价值导向、机制保障、创新发展、文化助推；IT治理模型",
-      "category": "软考/综合知识/组织治理与管理",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
         "软考高项",
         "IT治理",
         "治理任务"
       ],
       "wordCount": 703,
-      "id": "303daf2277e0c3cb"
+      "id": "08dca83d2c65223b"
     },
     {
       "filename": "组织治理与管理_IT治理体系.json",
       "title": "IT治理体系",
       "description": "IT治理体系框架、关键决策、IT治理机制经验",
-      "category": "软考/综合知识/组织治理与管理",
+      "category": "05_通用知识领域/软考/综合知识/组织治理与管理",
       "tags": [
         "软考高项",
         "IT治理",
@@ -57,7 +57,7 @@
         "治理标准"
       ],
       "wordCount": 1105,
-      "id": "a34669c9979d4851"
+      "id": "7a26b247aef7da77"
     }
   ]
 }

@@ -1,0 +1,1640 @@
+﻿[
+    {
+        "Category":  "AI推理加速",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\AI推理加速",
+        "FileCount":  9,
+        "Files":  [
+                      "AI推理加速概述.md",
+                      "AI推理服务部署.md",
+                      "GPU编程与CUDA优化.md",
+                      "LLM推理优化.md",
+                      "SGLang推理引擎.md",
+                      "TensorRT-LLM推理引擎.md",
+                      "vLLM推理引擎.md",
+                      "分布式推理.md",
+                      "模型量化技术.md"
+                  ]
+    },
+    {
+        "Category":  "中级经济师",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\中级经济师",
+        "FileCount":  1,
+        "Files":  "核心考点.md"
+    },
+    {
+        "Category":  "中级经济师",
+        "SubDir":  "专业科目",
+        "FileCount":  2,
+        "Files":  [
+                      "企业战略管理.md",
+                      "金融市场概述.md"
+                  ]
+    },
+    {
+        "Category":  "中级经济师",
+        "SubDir":  "人力资源",
+        "FileCount":  4,
+        "Files":  [
+                      "人力资源管理概述.md",
+                      "人力资源规划.md",
+                      "招聘与配置.md",
+                      "组织行为学概述.md"
+                  ]
+    },
+    {
+        "Category":  "中级经济师",
+        "SubDir":  "基础知识",
+        "FileCount":  16,
+        "Files":  [
+                      "会计基础知识.md",
+                      "发展经济学.md",
+                      "国民收入核算.md",
+                      "国际经济学.md",
+                      "宏观经济政策.md",
+                      "市场失灵与政府干预.md",
+                      "市场结构理论.md",
+                      "成本理论.md",
+                      "消费者行为理论.md",
+                      "生产理论.md",
+                      "经济增长与经济周期.md",
+                      "经济学基础概述.md",
+                      "统计基础知识.md",
+                      "财政基础知识.md",
+                      "货币与金融.md",
+                      "需求与供给.md"
+                  ]
+    },
+    {
+        "Category":  "中级经济师",
+        "SubDir":  "财政税收",
+        "FileCount":  2,
+        "Files":  [
+                      "税收制度.md",
+                      "财政政策.md"
+                  ]
+    },
+    {
+        "Category":  "云原生",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\云原生",
+        "FileCount":  11,
+        "Files":  [
+                      "DevOps与CI_CD.md",
+                      "Docker容器化.md",
+                      "Kubernetes核心概念.md",
+                      "Serverless与函数计算.md",
+                      "云原生可观测性.md",
+                      "云原生存储.md",
+                      "云原生安全.md",
+                      "云原生未来趋势.md",
+                      "云原生概述.md",
+                      "云原生网络.md",
+                      "服务网格.md"
+                  ]
+    },
+    {
+        "Category":  "产品研发",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\产品研发",
+        "FileCount":  1,
+        "Files":  "产品研发综合指南.md"
+    },
+    {
+        "Category":  "人力资源管理师",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\人力资源管理师",
+        "FileCount":  13,
+        "Files":  [
+                      "人力资源信息化.md",
+                      "人力资源管理师职业发展.md",
+                      "人力资源规划.md",
+                      "劳动关系.md",
+                      "劳动法规.md",
+                      "员工关系管理.md",
+                      "员工福利管理.md",
+                      "培训开发.md",
+                      "战略性人力资源管理.md",
+                      "招聘与配置.md",
+                      "核心考点.md",
+                      "绩效管理.md",
+                      "薪酬管理.md"
+                  ]
+    },
+    {
+        "Category":  "公务员",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\公务员",
+        "FileCount":  1,
+        "Files":  "核心考点.md"
+    },
+    {
+        "Category":  "公务员",
+        "SubDir":  "申论",
+        "FileCount":  3,
+        "Files":  [
+                      "申论大作文与概括分析.md",
+                      "申论对策与写作结构.md",
+                      "申论应用文写作.md"
+                  ]
+    },
+    {
+        "Category":  "公务员",
+        "SubDir":  "行政职业能力测验",
+        "FileCount":  5,
+        "Files":  [
+                      "判断推理.md",
+                      "常识判断.md",
+                      "数量关系.md",
+                      "言语理解.md",
+                      "资料分析.md"
+                  ]
+    },
+    {
+        "Category":  "公务员面试",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\公务员面试",
+        "FileCount":  7,
+        "Files":  [
+                      "公务员面试概述.md",
+                      "半结构化面试.md",
+                      "情景模拟.md",
+                      "无领导小组讨论.md",
+                      "结构化面试.md",
+                      "面试心态调整.md",
+                      "面试礼仪.md"
+                  ]
+    },
+    {
+        "Category":  "分布式系统",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\分布式系统",
+        "FileCount":  17,
+        "Files":  [
+                      "分布式ID生成.md",
+                      "分布式事务实现.md",
+                      "分布式会话.md",
+                      "分布式共识算法.md",
+                      "分布式存储.md",
+                      "分布式服务发现.md",
+                      "分布式服务治理.md",
+                      "分布式消息队列.md",
+                      "分布式监控.md",
+                      "分布式系统概述.md",
+                      "分布式缓存.md",
+                      "分布式计算.md",
+                      "分布式调度.md",
+                      "分布式配置中心.md",
+                      "分布式链路追踪.md",
+                      "分布式锁实现.md",
+                      "分布式限流.md"
+                  ]
+    },
+    {
+        "Category":  "创业指南",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\创业指南",
+        "FileCount":  3,
+        "Files":  [
+                      "创业准备与财务规划.md",
+                      "创业融资指南.md",
+                      "商业计划书写作指南.md"
+                  ]
+    },
+    {
+        "Category":  "家庭理财",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\家庭理财",
+        "FileCount":  3,
+        "Files":  [
+                      "保险配置指南.md",
+                      "理财实用知识.md",
+                      "资产配置指南.md"
+                  ]
+    },
+    {
+        "Category":  "家庭理财",
+        "SubDir":  "保险规划",
+        "FileCount":  1,
+        "Files":  "保险四大险种.md"
+    },
+    {
+        "Category":  "家庭理财",
+        "SubDir":  "固定收益",
+        "FileCount":  3,
+        "Files":  [
+                      "债券基金.md",
+                      "国债基础知识.md",
+                      "黄金投资.md"
+                  ]
+    },
+    {
+        "Category":  "家庭理财",
+        "SubDir":  "基金投资",
+        "FileCount":  3,
+        "Files":  [
+                      "基金入门.md",
+                      "基金定投.md",
+                      "指数基金与主动基金.md"
+                  ]
+    },
+    {
+        "Category":  "家庭理财",
+        "SubDir":  "股票投资",
+        "FileCount":  5,
+        "Files":  [
+                      "A股主要指数.md",
+                      "K线图入门.md",
+                      "K线技术指标.md",
+                      "股票交易规则.md",
+                      "股票是什么.md"
+                  ]
+    },
+    {
+        "Category":  "建造师",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\建造师",
+        "FileCount":  1,
+        "Files":  "核心考点.md"
+    },
+    {
+        "Category":  "建造师",
+        "SubDir":  "一级建造师",
+        "FileCount":  19,
+        "Files":  [
+                      "公路工程管理与实务.md",
+                      "市政公用工程管理与实务.md",
+                      "建筑工程管理与实务.md",
+                      "建设工程法律法规实务.md",
+                      "建设工程法规及相关知识.md",
+                      "建设工程经济.md",
+                      "建设工程项目管理.md",
+                      "施工技术与管理.md",
+                      "机电工程管理与实务.md",
+                      "水利水电工程管理与实务.md",
+                      "项目合同管理.md",
+                      "项目安全管理.md",
+                      "项目成本管理.md",
+                      "项目收尾管理.md",
+                      "项目沟通管理.md",
+                      "项目管理实务.md",
+                      "项目质量管理.md",
+                      "项目进度管理.md",
+                      "项目风险管理.md"
+                  ]
+    },
+    {
+        "Category":  "建造师",
+        "SubDir":  "二级建造师",
+        "FileCount":  14,
+        "Files":  [
+                      "公路工程管理与实务.md",
+                      "市政公用工程管理与实务.md",
+                      "建筑工程管理与实务.md",
+                      "建设工程施工管理.md",
+                      "建设工程法律法规实务.md",
+                      "建设工程法规及相关知识.md",
+                      "施工技术与管理.md",
+                      "机电工程管理与实务.md",
+                      "水利水电工程管理与实务.md",
+                      "项目安全管理.md",
+                      "项目成本管理.md",
+                      "项目管理实务.md",
+                      "项目质量管理.md",
+                      "项目进度管理.md"
+                  ]
+    },
+    {
+        "Category":  "心理咨询师",
+        "SubDir":  "伦理与法律",
+        "FileCount":  6,
+        "Files":  [
+                      "专业胜任力.md",
+                      "伦理原则.md",
+                      "保密原则.md",
+                      "多重关系.md",
+                      "法律责任.md",
+                      "知情同意.md"
+                  ]
+    },
+    {
+        "Category":  "心理咨询师",
+        "SubDir":  "发展心理学",
+        "FileCount":  5,
+        "Files":  [
+                      "婴儿期发展.md",
+                      "幼儿期发展.md",
+                      "成年期发展.md",
+                      "童年期发展.md",
+                      "青少年期发展.md"
+                  ]
+    },
+    {
+        "Category":  "心理咨询师",
+        "SubDir":  "咨询技能",
+        "FileCount":  5,
+        "Files":  [
+                      "初诊接待.md",
+                      "咨询关系建立.md",
+                      "咨询技术.md",
+                      "咨询方案制定.md",
+                      "心理评估.md"
+                  ]
+    },
+    {
+        "Category":  "心理咨询师",
+        "SubDir":  "基础心理学",
+        "FileCount":  8,
+        "Files":  [
+                      "人格.md",
+                      "动机与意志.md",
+                      "思维与问题解决.md",
+                      "情绪与情感.md",
+                      "感知觉.md",
+                      "注意与意识.md",
+                      "能力.md",
+                      "记忆与学习.md"
+                  ]
+    },
+    {
+        "Category":  "心理咨询师",
+        "SubDir":  "心理障碍",
+        "FileCount":  12,
+        "Files":  [
+                      "人格障碍.md",
+                      "创伤后应激障碍.md",
+                      "双相障碍.md",
+                      "多动症.md",
+                      "强迫症.md",
+                      "恐惧症.md",
+                      "抑郁症.md",
+                      "焦虑症.md",
+                      "睡眠障碍.md",
+                      "精神分裂症.md",
+                      "自闭症谱系障碍.md",
+                      "进食障碍.md"
+                  ]
+    },
+    {
+        "Category":  "心理咨询师",
+        "SubDir":  "社会心理学",
+        "FileCount":  5,
+        "Files":  [
+                      "人际关系.md",
+                      "社会影响.md",
+                      "社会态度.md",
+                      "社会认知.md",
+                      "群体心理.md"
+                  ]
+    },
+    {
+        "Category":  "心理学",
+        "SubDir":  "人格与行为心理学",
+        "FileCount":  1,
+        "Files":  "人格理论与行为学习.md"
+    },
+    {
+        "Category":  "心理学",
+        "SubDir":  "发展心理学",
+        "FileCount":  1,
+        "Files":  "发展心理学概论.md"
+    },
+    {
+        "Category":  "心理学",
+        "SubDir":  "基础心理学",
+        "FileCount":  2,
+        "Files":  [
+                      "心理学研究方法.md",
+                      "感知觉与注意.md"
+                  ]
+    },
+    {
+        "Category":  "心理学",
+        "SubDir":  "心理测量",
+        "FileCount":  1,
+        "Files":  "心理测量基础.md"
+    },
+    {
+        "Category":  "心理学",
+        "SubDir":  "消费心理学",
+        "FileCount":  1,
+        "Files":  "消费心理学.md"
+    },
+    {
+        "Category":  "心理学",
+        "SubDir":  "社会心理学",
+        "FileCount":  1,
+        "Files":  "社会心理学.md"
+    },
+    {
+        "Category":  "心理学",
+        "SubDir":  "认知心理学",
+        "FileCount":  1,
+        "Files":  "认知心理学概论.md"
+    },
+    {
+        "Category":  "执业药师",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\执业药师",
+        "FileCount":  15,
+        "Files":  [
+                      "中药药理学.md",
+                      "临床药物治疗学.md",
+                      "临床药理学.md",
+                      "常见药物分类.md",
+                      "执业药师职业发展.md",
+                      "核心考点.md",
+                      "用药安全.md",
+                      "药事法规.md",
+                      "药剂学.md",
+                      "药学综合知识.md",
+                      "药物信息学.md",
+                      "药物分析.md",
+                      "药物化学.md",
+                      "药物流行病学.md",
+                      "药理学.md"
+                  ]
+    },
+    {
+        "Category":  "教师资格证",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\教师资格证",
+        "FileCount":  1,
+        "Files":  "核心考点.md"
+    },
+    {
+        "Category":  "教师资格证",
+        "SubDir":  "中学",
+        "FileCount":  15,
+        "Files":  [
+                      "学科知识与教学能力.md",
+                      "教学设计与实施.md",
+                      "教学设计案例分析.md",
+                      "教育创新与改革.md",
+                      "教育学基础知识.md",
+                      "教育心理学案例分析.md",
+                      "教育心理学知识.md",
+                      "教育技术应用.md",
+                      "教育教学实践案例分析.md",
+                      "教育法律法规与教师职业道德.md",
+                      "教育法律法规案例分析.md",
+                      "教育研究方法.md",
+                      "教育评价与反思.md",
+                      "班级管理与教育沟通.md",
+                      "班级管理案例分析.md"
+                  ]
+    },
+    {
+        "Category":  "教师资格证",
+        "SubDir":  "小学",
+        "FileCount":  12,
+        "Files":  [
+                      "小学教师职业道德.md",
+                      "小学教育学基础知识.md",
+                      "小学教育心理学知识.md",
+                      "小学教育技术应用.md",
+                      "小学教育改革与发展.md",
+                      "小学教育教学实践案例分析.md",
+                      "小学教育方法.md",
+                      "小学教育法律法规.md",
+                      "小学教育科研.md",
+                      "小学教育科研方法.md",
+                      "小学教育评价.md",
+                      "小学班级管理.md"
+                  ]
+    },
+    {
+        "Category":  "教师资格证",
+        "SubDir":  "幼儿",
+        "FileCount":  10,
+        "Files":  [
+                      "安全卫生.md",
+                      "幼儿发展特点.md",
+                      "幼儿情绪发展.md",
+                      "幼儿教育方法.md",
+                      "幼儿社会性发展.md",
+                      "幼儿科学教育.md",
+                      "幼儿艺术教育.md",
+                      "幼儿认知发展.md",
+                      "幼儿语言发展.md",
+                      "游戏指导.md"
+                  ]
+    },
+    {
+        "Category":  "数字营销",
+        "SubDir":  "分析",
+        "FileCount":  4,
+        "Files":  [
+                      "数字营销分析.md",
+                      "电子邮件分析.md",
+                      "社交媒体分析.md",
+                      "网站分析.md"
+                  ]
+    },
+    {
+        "Category":  "数字营销",
+        "SubDir":  "基础",
+        "FileCount":  1,
+        "Files":  "数字营销概述.md"
+    },
+    {
+        "Category":  "数字营销",
+        "SubDir":  "工具",
+        "FileCount":  5,
+        "Files":  [
+                      "Google Analytics.md",
+                      "SEO工具.md",
+                      "电子邮件营销工具.md",
+                      "百度统计.md",
+                      "社交媒体管理工具.md"
+                  ]
+    },
+    {
+        "Category":  "数字营销",
+        "SubDir":  "渠道",
+        "FileCount":  5,
+        "Files":  [
+                      "SEM.md",
+                      "SEO.md",
+                      "内容营销.md",
+                      "电子邮件营销.md",
+                      "社交媒体营销.md"
+                  ]
+    },
+    {
+        "Category":  "数字营销",
+        "SubDir":  "策略",
+        "FileCount":  1,
+        "Files":  "数字营销策略.md"
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\数据分析师",
+        "FileCount":  2,
+        "Files":  [
+                      "SQL多表连接.md",
+                      "业务分析方法.md"
+                  ]
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "Excel数据分析",
+        "FileCount":  10,
+        "Files":  [
+                      "Excel公式与函数进阶.md",
+                      "Excel数据分析常用函数.md",
+                      "Excel数据建模.md",
+                      "Excel数据透视表与图表.md",
+                      "Excel高级公式应用.md",
+                      "Excel高级数据分析功能.md",
+                      "图表制作.md",
+                      "常用函数.md",
+                      "数据清洗.md",
+                      "数据透视表.md"
+                  ]
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "Python数据分析",
+        "FileCount":  8,
+        "Files":  [
+                      "Matplotlib_Seaborn可视化进阶.md",
+                      "NumPy基础.md",
+                      "Pandas基础.md",
+                      "Pandas高级数据处理.md",
+                      "Python数据分析基础.md",
+                      "Scikit-learn机器学习入门.md",
+                      "数据可视化基础.md",
+                      "数据清洗与预处理.md"
+                  ]
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "SQL数据库",
+        "FileCount":  13,
+        "Files":  [
+                      "SQL基础.md",
+                      "SQL基础查询.md",
+                      "SQL多表连接.md",
+                      "SQL子查询.md",
+                      "SQL性能优化.md",
+                      "SQL数据分析实战.md",
+                      "SQL窗口函数.md",
+                      "SQL高级查询.md",
+                      "分组聚合.md",
+                      "基础查询.md",
+                      "多表连接.md",
+                      "子查询.md",
+                      "窗口函数.md"
+                  ]
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "业务分析方法",
+        "FileCount":  6,
+        "Files":  [
+                      "A_B测试.md",
+                      "RFM分析.md",
+                      "同期群分析.md",
+                      "帕累托分析.md",
+                      "漏斗分析.md",
+                      "用户画像分析.md"
+                  ]
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "实战案例",
+        "FileCount":  5,
+        "Files":  [
+                      "数据清洗案例.md",
+                      "电商商品价格分析案例.md",
+                      "电商数据分析案例.md",
+                      "电商用户行为分析案例.md",
+                      "电商销售数据分析案例.md"
+                  ]
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "数据可视化",
+        "FileCount":  4,
+        "Files":  [
+                      "Power BI基础.md",
+                      "Python可视化.md",
+                      "Tableau基础.md",
+                      "数据可视化基础.md"
+                  ]
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "机器学习",
+        "FileCount":  6,
+        "Files":  [
+                      "决策树与随机森林.md",
+                      "支持向量机.md",
+                      "无监督学习.md",
+                      "机器学习基础.md",
+                      "监督学习.md",
+                      "神经网络与深度学习.md"
+                  ]
+    },
+    {
+        "Category":  "数据分析师",
+        "SubDir":  "统计学基础",
+        "FileCount":  10,
+        "Files":  [
+                      "假设检验.md",
+                      "卡方检验.md",
+                      "回归分析.md",
+                      "抽样理论.md",
+                      "推断性统计.md",
+                      "描述性统计.md",
+                      "方差分析.md",
+                      "时间序列分析.md",
+                      "概率分布.md",
+                      "相关分析.md"
+                  ]
+    },
+    {
+        "Category":  "数据库内核",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\数据库内核",
+        "FileCount":  10,
+        "Files":  [
+                      "事务处理实现.md",
+                      "分布式数据库实现.md",
+                      "存储引擎实现.md",
+                      "存储引擎对比.md",
+                      "故障恢复实现.md",
+                      "数据库内核概述.md",
+                      "数据库安全实现.md",
+                      "查询优化器实现.md",
+                      "查询引擎实现.md",
+                      "索引技术实现.md"
+                  ]
+    },
+    {
+        "Category":  "法律常识",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\法律常识",
+        "FileCount":  4,
+        "Files":  [
+                      "个人信息保护法要点.md",
+                      "交通事故处理指南.md",
+                      "劳动合同法要点.md",
+                      "消费者权益与人身安全.md"
+                  ]
+    },
+    {
+        "Category":  "注册会计师",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\注册会计师",
+        "FileCount":  1,
+        "Files":  "核心考点.md"
+    },
+    {
+        "Category":  "注册会计师",
+        "SubDir":  "会计",
+        "FileCount":  20,
+        "Files":  [
+                      "其他应付款.md",
+                      "固定资产.md",
+                      "存货.md",
+                      "应交税费.md",
+                      "应付利息和应付股利.md",
+                      "应付票据.md",
+                      "应付职工薪酬.md",
+                      "应付账款.md",
+                      "应收及预付款项.md",
+                      "所有者权益概述.md",
+                      "投资性房地产.md",
+                      "无形资产.md",
+                      "短期借款.md",
+                      "负债概述.md",
+                      "货币资金.md",
+                      "资产概述.md",
+                      "金融资产.md",
+                      "长期借款.md",
+                      "长期股权投资.md",
+                      "预收账款.md"
+                  ]
+    },
+    {
+        "Category":  "注册会计师",
+        "SubDir":  "公司战略与风险管理",
+        "FileCount":  10,
+        "Files":  [
+                      "公司治理.md",
+                      "内部控制.md",
+                      "国际化经营战略.md",
+                      "战略分析.md",
+                      "战略实施.md",
+                      "战略控制.md",
+                      "战略管理概述.md",
+                      "战略选择.md",
+                      "数字化转型战略.md",
+                      "风险与风险管理.md"
+                  ]
+    },
+    {
+        "Category":  "注册会计师",
+        "SubDir":  "审计",
+        "FileCount":  15,
+        "Files":  [
+                      "会计师事务所质量控制.md",
+                      "内部控制审计.md",
+                      "审计工作底稿.md",
+                      "审计报告.md",
+                      "审计抽样.md",
+                      "审计概述.md",
+                      "审计计划.md",
+                      "审计证据.md",
+                      "注册会计师职业道德.md",
+                      "特殊项目审计.md",
+                      "生产与存货循环审计.md",
+                      "货币资金审计.md",
+                      "采购与付款循环审计.md",
+                      "销售与收款循环审计.md",
+                      "风险评估.md"
+                  ]
+    },
+    {
+        "Category":  "注册会计师",
+        "SubDir":  "税法",
+        "FileCount":  15,
+        "Files":  [
+                      "个人所得税应纳税额计算.md",
+                      "个人所得税概述.md",
+                      "个人所得税税收优惠.md",
+                      "企业所得税应纳税所得额.md",
+                      "企业所得税概述.md",
+                      "企业所得税税收优惠.md",
+                      "土地增值税.md",
+                      "增值税应纳税额计算.md",
+                      "增值税概述.md",
+                      "增值税税收优惠.md",
+                      "房产税.md",
+                      "消费税应纳税额计算.md",
+                      "消费税概述.md",
+                      "消费税税收优惠.md",
+                      "车船税.md"
+                  ]
+    },
+    {
+        "Category":  "注册会计师",
+        "SubDir":  "经济法",
+        "FileCount":  12,
+        "Files":  [
+                      "企业国有资产法概述.md",
+                      "公司法概述.md",
+                      "反不正当竞争法概述.md",
+                      "反垄断法概述.md",
+                      "合同法概述.md",
+                      "涉外经济法律制度概述.md",
+                      "物权法概述.md",
+                      "知识产权法律制度概述.md",
+                      "破产法概述.md",
+                      "票据法概述.md",
+                      "经济纠纷解决方式.md",
+                      "证券法概述.md"
+                  ]
+    },
+    {
+        "Category":  "注册会计师",
+        "SubDir":  "财务成本管理",
+        "FileCount":  15,
+        "Files":  [
+                      "业绩评价.md",
+                      "作业成本法.md",
+                      "成本计算.md",
+                      "投资项目资本预算.md",
+                      "本量利分析.md",
+                      "标准成本法.md",
+                      "短期经营决策.md",
+                      "股利分配管理.md",
+                      "营运资本管理.md",
+                      "财务报表分析.md",
+                      "财务管理概述.md",
+                      "财务预测.md",
+                      "资本成本.md",
+                      "资本结构.md",
+                      "长期筹资决策.md"
+                  ]
+    },
+    {
+        "Category":  "生活通识",
+        "SubDir":  "健康养生",
+        "FileCount":  15,
+        "Files":  [
+                      "健康体检清单.md",
+                      "健康饮食建议.md",
+                      "压力识别与管理.md",
+                      "呼吸系统健康.md",
+                      "四季养生要点.md",
+                      "心脑血管疾病预防.md",
+                      "悲伤管理与自我接纳.md",
+                      "拖延管理与抗压能力.md",
+                      "消化系统健康.md",
+                      "焦虑与愤怒管理.md",
+                      "猝死预防与急救.md",
+                      "癌症预防指南.md",
+                      "睡眠管理指南.md",
+                      "糖尿病管理.md",
+                      "运动与心理健康.md"
+                  ]
+    },
+    {
+        "Category":  "生活通识",
+        "SubDir":  "安全防范",
+        "FileCount":  1,
+        "Files":  "安全防范综合指南.md"
+    },
+    {
+        "Category":  "生活通识",
+        "SubDir":  "急救知识",
+        "FileCount":  1,
+        "Files":  "急救知识综合指南.md"
+    },
+    {
+        "Category":  "生活通识",
+        "SubDir":  "社保公积金",
+        "FileCount":  1,
+        "Files":  "社保公积金综合指南.md"
+    },
+    {
+        "Category":  "生活通识",
+        "SubDir":  "自然灾害",
+        "FileCount":  4,
+        "Files":  [
+                      "台风防范指南.md",
+                      "地震防范与应急.md",
+                      "洪水防范与应对.md",
+                      "火灾防范与逃生.md"
+                  ]
+    },
+    {
+        "Category":  "系统编程",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\系统编程",
+        "FileCount":  9,
+        "Files":  [
+                      "C_C++系统编程实践.md",
+                      "Linux系统编程API详解.md",
+                      "内存管理实现.md",
+                      "并发编程实践.md",
+                      "性能优化与调试.md",
+                      "文件I_O优化.md",
+                      "系统编程概述.md",
+                      "网络编程实践.md",
+                      "进程与线程管理.md"
+                  ]
+    },
+    {
+        "Category":  "考研专业课",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\考研专业课",
+        "FileCount":  4,
+        "Files":  [
+                      "心理学考研指南.md",
+                      "教育学原理备考.md",
+                      "管理类联考备考.md",
+                      "计算机学科基础.md"
+                  ]
+    },
+    {
+        "Category":  "职场生存",
+        "SubDir":  "个人品牌",
+        "FileCount":  2,
+        "Files":  [
+                      "个人品牌定位与变现_细分赛道选择与价值打造.md",
+                      "打造个人品牌的实用攻略_从0到1建立影响力资产.md"
+                  ]
+    },
+    {
+        "Category":  "职场生存",
+        "SubDir":  "劳动权益",
+        "FileCount":  3,
+        "Files":  [
+                      "五险一金全解读.md",
+                      "劳动合同法基础.md",
+                      "经济补偿金与维权.md"
+                  ]
+    },
+    {
+        "Category":  "英语考试",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\英语考试",
+        "FileCount":  21,
+        "Files":  [
+                      "四六级备考指南.md",
+                      "考研英语备考指南.md",
+                      "英语写作技巧.md",
+                      "英语发音技巧.md",
+                      "英语口语技巧.md",
+                      "英语口语技巧进阶.md",
+                      "英语口语考试技巧.md",
+                      "英语口语考试指南.md",
+                      "英语听力技巧.md",
+                      "英语听力技巧进阶.md",
+                      "英语学习技巧.md",
+                      "英语完形填空技巧.md",
+                      "英语演讲技巧.md",
+                      "英语翻译技巧.md",
+                      "英语考试概述.md",
+                      "英语考试高频词汇.md",
+                      "英语词汇记忆方法.md",
+                      "英语语法知识.md",
+                      "英语阅读技巧.md",
+                      "英语阅读理解技巧.md",
+                      "英语面试技巧.md"
+                  ]
+    },
+    {
+        "Category":  "英语考试",
+        "SubDir":  "四六级\\词汇",
+        "FileCount":  2,
+        "Files":  [
+                      "四六级词汇.md",
+                      "高频词汇.md"
+                  ]
+    },
+    {
+        "Category":  "营养师",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\营养师",
+        "FileCount":  9,
+        "Files":  [
+                      "人群营养.md",
+                      "疾病营养.md",
+                      "营养咨询.md",
+                      "营养学基础.md",
+                      "营养师概述.md",
+                      "营养干预.md",
+                      "营养教育.md",
+                      "营养评估.md",
+                      "食物营养.md"
+                  ]
+    },
+    {
+        "Category":  "营销增长",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\营销增长",
+        "FileCount":  2,
+        "Files":  [
+                      "内容创作方法论.md",
+                      "增长策略与私域运营.md"
+                  ]
+    },
+    {
+        "Category":  "营销自动化",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\营销自动化",
+        "FileCount":  4,
+        "Files":  [
+                      "可视化流程编排引擎.md",
+                      "用户旅程编排系统设计.md",
+                      "营销自动化平台架构设计.md",
+                      "营销自动化平台高可用设计.md"
+                  ]
+    },
+    {
+        "Category":  "认知思维",
+        "SubDir":  "学习方法",
+        "FileCount":  1,
+        "Files":  "高效学习方法.md"
+    },
+    {
+        "Category":  "认知思维",
+        "SubDir":  "思维工具",
+        "FileCount":  1,
+        "Files":  "实用思维工具.md"
+    },
+    {
+        "Category":  "认知思维",
+        "SubDir":  "认知偏差",
+        "FileCount":  1,
+        "Files":  "常见认知偏差.md"
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\软考",
+        "FileCount":  1,
+        "Files":  "软考图表速查.md"
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\信息系统开发",
+        "FileCount":  12,
+        "Files":  [
+                      "数据仓库.md",
+                      "数据工程概述.md",
+                      "数据挖掘.md",
+                      "数据治理.md",
+                      "系统运行与维护.md",
+                      "软件工程过程.md",
+                      "软件开发模型.md",
+                      "软件测试.md",
+                      "软件设计.md",
+                      "软件质量保证.md",
+                      "软件集成技术.md",
+                      "需求工程.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\工具与技术",
+        "FileCount":  19,
+        "Files":  [
+                      "亲和图.md",
+                      "冲突管理.md",
+                      "名义小组技术.md",
+                      "多标准决策分析.md",
+                      "头脑风暴.md",
+                      "引导.md",
+                      "思维导图.md",
+                      "成本效益分析.md",
+                      "投票.md",
+                      "标杆对照.md",
+                      "核对单.md",
+                      "焦点小组.md",
+                      "独裁型决策制定.md",
+                      "统计抽样.md",
+                      "联合应用设计或开发.md",
+                      "观察和交谈.md",
+                      "访谈.md",
+                      "质量功能展开.md",
+                      "问卷调查.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\引论",
+        "FileCount":  42,
+        "Files":  [
+                      "PMBOK的发展.md",
+                      "两化融合.md",
+                      "云计算.md",
+                      "人工智能.md",
+                      "价值交付系统.md",
+                      "信息化基础.md",
+                      "信息基础.md",
+                      "元宇宙.md",
+                      "区块链.md",
+                      "启动过程组的重点工作.md",
+                      "大数据.md",
+                      "工业互联网.md",
+                      "指南概述和目的.md",
+                      "收尾过程组的重点工作.md",
+                      "数字化转型.md",
+                      "数字政府.md",
+                      "数字社会与数字生态.md",
+                      "数字经济.md",
+                      "新型基础设施建设.md",
+                      "物联网.md",
+                      "虚拟现实.md",
+                      "裁剪.md",
+                      "通用词汇.md",
+                      "道德与专业行为规范.md",
+                      "阶段关口.md",
+                      "项目和开发生命周期.md",
+                      "项目商业论证.md",
+                      "项目基本要素.md",
+                      "项目成功标准.md",
+                      "项目效益管理计划.md",
+                      "项目生命周期和项目阶段.md",
+                      "项目立项管理.md",
+                      "项目章程和项目管理计划.md",
+                      "项目管理原则.md",
+                      "项目管理数据和信息.md",
+                      "项目管理标准.md",
+                      "项目管理的重要性.md",
+                      "项目管理知识领域.md",
+                      "项目管理过程.md",
+                      "项目管理过程组.md",
+                      "项目经理的角色.md",
+                      "项目阶段.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\数据流向图",
+        "FileCount":  1,
+        "Files":  "数据流向图.md"
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\法律法规与标准",
+        "FileCount":  8,
+        "Files":  [
+                      "信息系统相关法律法规.md",
+                      "合同法要点.md",
+                      "合同类型.md",
+                      "招标投标法.md",
+                      "法律法规体系.md",
+                      "监理基础知识.md",
+                      "知识产权与著作权法.md",
+                      "职业道德规范.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\系统集成基础",
+        "FileCount":  23,
+        "Files":  [
+                      "IT服务标准化.md",
+                      "IT服务生命周期.md",
+                      "云计算与虚拟化.md",
+                      "信息安全基础.md",
+                      "信息技术服务.md",
+                      "信息系统及其特性.md",
+                      "存储与备份技术.md",
+                      "安全架构.md",
+                      "密码技术.md",
+                      "应用架构.md",
+                      "应用集成.md",
+                      "数据安全与隐私保护.md",
+                      "数据库基础.md",
+                      "数据架构.md",
+                      "数据集成.md",
+                      "系统架构.md",
+                      "系统集成概述.md",
+                      "网络安全.md",
+                      "网络架构.md",
+                      "网络集成.md",
+                      "计算机网络基础.md",
+                      "访问控制.md",
+                      "身份认证.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\系统集成基础\\业务流程分析",
+        "FileCount":  4,
+        "Files":  [
+                      "TFD与DFD区别.md",
+                      "业务流程图.md",
+                      "分析方法.md",
+                      "数据流程图.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\组织治理与管理",
+        "FileCount":  14,
+        "Files":  [
+                      "IT审计基础.md",
+                      "IT审计方法与技术.md",
+                      "IT审计流程.md",
+                      "IT治理任务.md",
+                      "IT治理体系.md",
+                      "IT治理基础.md",
+                      "IT治理方法与标准.md",
+                      "人力资源管理.md",
+                      "市场营销.md",
+                      "战略转型与数字化转型.md",
+                      "流程管理.md",
+                      "知识管理.md",
+                      "组织战略基础.md",
+                      "绩效管理.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\计算题专项",
+        "FileCount":  4,
+        "Files":  [
+                      "PERT估算与其他计算专项.md",
+                      "决策树期望值计算.md",
+                      "挣值分析计算专项.md",
+                      "网络图与关键路径计算.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "综合知识\\软考备考",
+        "FileCount":  8,
+        "Files":  [
+                      "案例分析-人力资源与沟通管理.md",
+                      "案例分析-干系人管理问题.md",
+                      "案例分析-成本管理问题.md",
+                      "案例分析-范围管理问题.md",
+                      "案例分析-质量管理问题.md",
+                      "案例分析-进度管理问题.md",
+                      "案例分析-采购与风险管理.md",
+                      "软考中项案例分析答题框架.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\配置与变更管理",
+        "FileCount":  3,
+        "Files":  [
+                      "变更管理流程.md",
+                      "配置管理活动.md",
+                      "配置项与配置基线.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目成本管理",
+        "FileCount":  12,
+        "Files":  [
+                      "估算成本.md",
+                      "制定预算.md",
+                      "历史信息审核.md",
+                      "完工尚需绩效指数.md",
+                      "成本基准.md",
+                      "成本汇总.md",
+                      "成本管理计划.md",
+                      "控制成本.md",
+                      "融资.md",
+                      "规划成本管理.md",
+                      "资金限制平衡.md",
+                      "项目资金需求.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目整合管理",
+        "FileCount":  33,
+        "Files":  [
+                      "专家判断.md",
+                      "人际关系与团队技能.md",
+                      "信息和文档管理.md",
+                      "假设日志.md",
+                      "制定项目章程.md",
+                      "制定项目管理计划.md",
+                      "变更控制工具.md",
+                      "变更管理.md",
+                      "变更请求.md",
+                      "可交付成果.md",
+                      "商业文件.md",
+                      "实施整体变更控制.md",
+                      "工作绩效信息.md",
+                      "工作绩效报告.md",
+                      "工作绩效数据.md",
+                      "指导与管理项目工作.md",
+                      "数据分析.md",
+                      "数据收集.md",
+                      "最终报告.md",
+                      "监控项目工作.md",
+                      "管理项目知识.md",
+                      "组织过程资产更新.md",
+                      "经验教训登记册.md",
+                      "结束项目或阶段.md",
+                      "配置控制.md",
+                      "配置核实与审计.md",
+                      "配置状态记录.md",
+                      "配置管理计划.md",
+                      "配置识别.md",
+                      "问题日志.md",
+                      "项目章程.md",
+                      "项目管理信息系统.md",
+                      "项目管理计划.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目沟通管理",
+        "FileCount":  9,
+        "Files":  [
+                      "书面沟通5C原则.md",
+                      "沟通方法互动推式拉式.md",
+                      "沟通渠道数量公式.md",
+                      "沟通的形式与模型.md",
+                      "沟通管理裁剪考虑.md",
+                      "沟通管理计划.md",
+                      "监督沟通.md",
+                      "管理沟通.md",
+                      "规划沟通管理.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目相关方管理",
+        "FileCount":  11,
+        "Files":  [
+                      "IT项目干系人角色与诉求分析.md",
+                      "基本规则.md",
+                      "监督干系人参与.md",
+                      "监督相关方参与.md",
+                      "相关方参与计划.md",
+                      "相关方参与评估矩阵.md",
+                      "相关方登记册.md",
+                      "管理干系人参与.md",
+                      "管理相关方参与.md",
+                      "规划相关方参与.md",
+                      "识别相关方.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目立项管理",
+        "FileCount":  6,
+        "Files":  [
+                      "信息系统监理.md",
+                      "初步可行性研究与详细可行性研究.md",
+                      "可行性研究内容.md",
+                      "项目建议书.md",
+                      "项目立项与可行性研究.md",
+                      "项目评估与决策.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目经理的角色",
+        "FileCount":  10,
+        "Files":  [
+                      "专业学科.md",
+                      "在过程层面执行整合.md",
+                      "执行整合.md",
+                      "技术项目管理技能.md",
+                      "整合与复杂性.md",
+                      "组织.md",
+                      "背景层面的整合.md",
+                      "行业.md",
+                      "认知层面的整合.md",
+                      "项目.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目绩效域管理",
+        "FileCount":  8,
+        "Files":  [
+                      "不确定性绩效域.md",
+                      "交付绩效域.md",
+                      "八大绩效域概述.md",
+                      "团队绩效域.md",
+                      "干系人绩效域.md",
+                      "度量绩效域.md",
+                      "规划绩效域.md",
+                      "项目工作绩效域.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目范围管理",
+        "FileCount":  19,
+        "Files":  [
+                      "wbs.md",
+                      "产品分析.md",
+                      "分解.md",
+                      "创建WBS.md",
+                      "原型法.md",
+                      "定义范围.md",
+                      "控制范围.md",
+                      "收集需求.md",
+                      "确认范围.md",
+                      "系统交互图.md",
+                      "范围基准.md",
+                      "范围管理裁剪指南.md",
+                      "范围管理计划.md",
+                      "规划范围管理.md",
+                      "需求文件.md",
+                      "需求管理计划.md",
+                      "需求跟踪矩阵.md",
+                      "项目范围说明书.md",
+                      "验收的可交付成果.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目质量管理",
+        "FileCount":  11,
+        "Files":  [
+                      "控制质量.md",
+                      "核实的可交付成果.md",
+                      "测试与检查的规划.md",
+                      "测试与评估文件.md",
+                      "管理质量.md",
+                      "规划质量管理.md",
+                      "质量控制测量结果.md",
+                      "质量测量指标.md",
+                      "质量管理计划.md",
+                      "问题解决.md",
+                      "面向 X 的设计.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目资源管理",
+        "FileCount":  20,
+        "Files":  [
+                      "估算依据.md",
+                      "估算活动资源.md",
+                      "团队章程.md",
+                      "团队绩效评价.md",
+                      "实物资源分配单.md",
+                      "建设团队.md",
+                      "控制资源.md",
+                      "管理团队.md",
+                      "组织理论.md",
+                      "获取资源.md",
+                      "虚拟团队.md",
+                      "规划资源管理.md",
+                      "责任分配矩阵.md",
+                      "资源分解结构.md",
+                      "资源日历.md",
+                      "资源管理计划.md",
+                      "资源需求.md",
+                      "集中办公.md",
+                      "项目团队派工单.md",
+                      "预分派.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目运行环境",
+        "FileCount":  5,
+        "Files":  [
+                      "事业环境因素.md",
+                      "组织知识库.md",
+                      "组织结构选择的考虑因素.md",
+                      "组织过程资产.md",
+                      "项目管理办公室.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目进度管理",
+        "FileCount":  29,
+        "Files":  [
+                      "三点估算.md",
+                      "估算活动持续时间.md",
+                      "关键路径法.md",
+                      "制定进度计划.md",
+                      "参数估算.md",
+                      "定义活动.md",
+                      "排列活动顺序.md",
+                      "控制进度.md",
+                      "提前量和滞后量.md",
+                      "敏捷发布规划.md",
+                      "活动依赖关系类型.md",
+                      "活动属性.md",
+                      "活动清单.md",
+                      "确定和整合依赖关系.md",
+                      "类比估算.md",
+                      "紧前关系绘图法.md",
+                      "自下而上估算.md",
+                      "规划进度管理.md",
+                      "资源优化.md",
+                      "进度压缩.md",
+                      "进度基准.md",
+                      "进度数据.md",
+                      "进度管理计划.md",
+                      "进度网络分析.md",
+                      "进度预测.md",
+                      "里程碑清单.md",
+                      "项目日历.md",
+                      "项目进度网络图.md",
+                      "项目进度计划.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目采购管理",
+        "FileCount":  16,
+        "Files":  [
+                      "供方选择分析.md",
+                      "供方选择标准.md",
+                      "协议.md",
+                      "卖方建议书.md",
+                      "实施采购.md",
+                      "投标人会议.md",
+                      "招标文件.md",
+                      "控制采购.md",
+                      "独立成本估算.md",
+                      "自制或外购决策.md",
+                      "规划采购管理.md",
+                      "采购关闭.md",
+                      "采购工作说明书.md",
+                      "采购文档更新.md",
+                      "采购策略.md",
+                      "采购管理计划.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\项目风险管理",
+        "FileCount":  16,
+        "Files":  [
+                      "不确定性表现方式.md",
+                      "威胁应对策略.md",
+                      "实施定性风险分析.md",
+                      "实施定量风险分析.md",
+                      "实施风险应对.md",
+                      "应急应对策略.md",
+                      "提示清单.md",
+                      "整体项目风险应对策略.md",
+                      "机会应对策略.md",
+                      "监督风险.md",
+                      "规划风险应对.md",
+                      "规划风险管理.md",
+                      "识别风险.md",
+                      "风险分类.md",
+                      "风险报告.md",
+                      "风险登记册.md"
+                  ]
+    },
+    {
+        "Category":  "软考",
+        "SubDir":  "项目管理\\高级项目管理",
+        "FileCount":  8,
+        "Files":  [
+                      "CMMI与PRINCE2模型.md",
+                      "组织级量化管理.md",
+                      "组织级项目管理OPM.md",
+                      "量化管理理论.md",
+                      "项目组合管理概述.md",
+                      "项目组合管理绩效域.md",
+                      "项目集管理概述.md",
+                      "项目集管理绩效域.md"
+                  ]
+    },
+    {
+        "Category":  "金融信贷科技",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\金融信贷科技",
+        "FileCount":  2,
+        "Files":  [
+                      "协同数据模型策略团队方案设计.md",
+                      "大模型在金融信贷中的应用.md"
+                  ]
+    },
+    {
+        "Category":  "金融信贷科技",
+        "SubDir":  "信贷系统架构",
+        "FileCount":  2,
+        "Files":  [
+                      "信贷业务产品与方案设计.md",
+                      "信贷系统架构设计.md"
+                  ]
+    },
+    {
+        "Category":  "金融信贷科技",
+        "SubDir":  "信贷风险控制系统",
+        "FileCount":  1,
+        "Files":  "信贷风险控制系统设计.md"
+    },
+    {
+        "Category":  "金融信贷科技",
+        "SubDir":  "普惠金融",
+        "FileCount":  1,
+        "Files":  "普惠金融系统设计与实践.md"
+    },
+    {
+        "Category":  "金融信贷科技",
+        "SubDir":  "高性能金融系统",
+        "FileCount":  1,
+        "Files":  "高性能金融系统架构设计.md"
+    },
+    {
+        "Category":  "零售电商系统",
+        "SubDir":  "Java开发核心",
+        "FileCount":  1,
+        "Files":  "Java多线程与并发编程.md"
+    },
+    {
+        "Category":  "零售电商系统",
+        "SubDir":  "Spring生态",
+        "FileCount":  1,
+        "Files":  "Spring Boot核心原理与实践.md"
+    },
+    {
+        "Category":  "零售电商系统",
+        "SubDir":  "存储技术",
+        "FileCount":  1,
+        "Files":  "MySQL原理与性能优化.md"
+    },
+    {
+        "Category":  "高性能计算",
+        "SubDir":  "F:\\SelfJob\\PortableKnowledge\\source\\高性能计算",
+        "FileCount":  6,
+        "Files":  [
+                      "GPU加速计算.md",
+                      "共享内存并行.md",
+                      "分布式内存并行.md",
+                      "并行计算原理.md",
+                      "异构计算.md",
+                      "高性能计算概述.md"
+                  ]
+    }
+]

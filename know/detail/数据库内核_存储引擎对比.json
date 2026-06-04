@@ -2,7 +2,7 @@
   "filename": "数据库内核_存储引擎对比.json",
   "title": "存储引擎对比",
   "description": "主流数据库存储引擎（InnoDB、MyISAM、PostgreSQL、RocksDB、WiredTiger）的架构对比、优缺点及适用场景",
-  "category": "数据库内核",
+  "category": "01_技术IT领域/数据库内核",
   "tags": [
     "数据库内核",
     "存储引擎",

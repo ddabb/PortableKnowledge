@@ -5,10 +5,23 @@
   },
   "articles": [
     {
+      "filename": "经济法_合同法概述.json",
+      "title": "合同法概述",
+      "description": "",
+      "category": "02_考试证书领域/注册会计师/经济法",
+      "tags": [
+        "合同法",
+        "经济法",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "id": "b4f79d2f2d99ffb7"
+    },
+    {
       "filename": "法律法规与标准_合同法要点.json",
       "title": "合同法要点",
       "description": "软考中项合同法核心考点，包括合同的订立、履行、变更、违约责任及IT项目合同特殊条款。",
-      "category": "软考/综合知识/法律法规与标准",
+      "category": "05_通用知识领域/软考/综合知识/法律法规与标准",
       "tags": [
         "合同法",
         "法律法规",
@@ -17,20 +30,7 @@
         "合同类型"
       ],
       "wordCount": 1020,
-      "id": "e4c6cd48577acb3a"
-    },
-    {
-      "filename": "经济法_合同法概述.json",
-      "title": "合同法概述",
-      "description": "",
-      "category": "注册会计师/经济法",
-      "tags": [
-        "合同法",
-        "经济法",
-        "CPA"
-      ],
-      "wordCount": 318,
-      "id": "103610937ddf56f5"
+      "id": "f7cca655f62b5374"
     }
   ]
 }

@@ -8,169 +8,169 @@
       "filename": "执业药师_常见药物分类.json",
       "title": "常见药物分类",
       "description": "常见药物的分类方法和代表药物",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药物分类"
       ],
       "wordCount": 1356,
-      "id": "b75b5e129e44e042"
+      "id": "2b18cb4a0d971cf3"
     },
     {
       "filename": "执业药师_临床药理学.json",
       "title": "临床药理学",
       "description": "临床药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "临床药理学"
       ],
       "wordCount": 928,
-      "id": "019a37c34d921c94"
+      "id": "470c99da08df6945"
     },
     {
       "filename": "执业药师_临床药物治疗学.json",
       "title": "临床药物治疗学",
       "description": "临床药物治疗学的基本概念、方法和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "临床药物治疗学"
       ],
       "wordCount": 1068,
-      "id": "0cc7be10dd883bdd"
+      "id": "7da971757d635e4e"
     },
     {
       "filename": "执业药师_药剂学.json",
       "title": "药剂学",
       "description": "药剂学的基本概念、剂型设计和质量控制",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药剂学"
       ],
       "wordCount": 895,
-      "id": "c9af10b06a7a5fdc"
+      "id": "f310101a4c78cf03"
     },
     {
       "filename": "执业药师_药理学.json",
       "title": "药理学",
       "description": "药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药理学"
       ],
       "wordCount": 765,
-      "id": "778ba3a88cb777e6"
+      "id": "a4c51f5ff1e231b0"
     },
     {
       "filename": "执业药师_药事法规.json",
       "title": "药事法规",
       "description": "药事法规的基本内容和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药事法规"
       ],
       "wordCount": 1102,
-      "id": "96e5785a6604edbe"
+      "id": "50942bce261427ef"
     },
     {
       "filename": "执业药师_药物分析.json",
       "title": "药物分析",
       "description": "药物分析的基本概念、方法和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药物分析"
       ],
       "wordCount": 687,
-      "id": "f827d9c6e100d0c6"
+      "id": "0dafad1b3a9cb45b"
     },
     {
       "filename": "执业药师_药物化学.json",
       "title": "药物化学",
       "description": "药物化学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药物化学"
       ],
       "wordCount": 712,
-      "id": "283f7d749ab0a9bd"
+      "id": "5fc73c0a7ef7db84"
     },
     {
       "filename": "执业药师_药物流行病学.json",
       "title": "药物流行病学",
       "description": "药物流行病学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药物流行病学"
       ],
       "wordCount": 785,
-      "id": "479906c22a84c019"
+      "id": "2d5dfc2a4522958a"
     },
     {
       "filename": "执业药师_药物信息学.json",
       "title": "药物信息学",
       "description": "药物信息学的基本概念、方法和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药物信息学"
       ],
       "wordCount": 627,
-      "id": "ec33fb671d75b331"
+      "id": "eec4965bd89b1c8f"
     },
     {
       "filename": "执业药师_药学综合知识.json",
       "title": "药学综合知识",
       "description": "药学综合知识的核心内容和实践应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "药学综合知识"
       ],
       "wordCount": 751,
-      "id": "744569747e72cf13"
+      "id": "eb1ed33f3d8346e8"
     },
     {
       "filename": "执业药师_用药安全.json",
       "title": "用药安全",
       "description": "用药安全的重要性、常见问题和防范措施",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "用药安全"
       ],
       "wordCount": 1386,
-      "id": "5026e3c2e834005f"
+      "id": "c514959cdb670417"
     },
     {
       "filename": "执业药师_执业药师职业发展.json",
       "title": "执业药师职业发展",
       "description": "执业药师的职业发展路径、能力要求和发展策略",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "职业发展"
       ],
       "wordCount": 966,
-      "id": "b9eedacd274ec4f7"
+      "id": "6e894b15be29817e"
     },
     {
       "filename": "执业药师_中药药理学.json",
       "title": "中药药理学",
       "description": "中药药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "category": "02_考试证书领域/执业药师",
       "tags": [
         "执业药师",
         "中药药理学"
       ],
       "wordCount": 830,
-      "id": "9b066dbcc5222aa4"
+      "id": "e869ece4982c8145"
     }
   ]
 }

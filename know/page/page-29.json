@@ -1,329 +1,281 @@
 {
   "page": 29,
   "totalPages": 44,
-  "totalItems": 867,
+  "totalItems": 877,
   "items": [
     {
-      "filename": "业务分析方法_RFM分析.json",
-      "title": "RFM分析",
-      "description": "RFM分析是用户价值分析的重要方法，通过最近一次消费(Recency)、消费频率(Frequency)、消费金额(Monetary)三个指标对用户进行分层",
-      "category": "数据分析师/业务分析方法",
+      "filename": "项目范围管理_原型法.json",
+      "title": "原型法",
+      "description": "原型法是指在实际制造预期产品之前，先造出该产品的模型，并据此征求对需求的早期反馈。",
+      "category": "05_通用知识领域/软考/项目管理/项目范围管理",
       "tags": [
-        "数据分析师",
-        "业务分析方法",
-        "RFM分析",
-        "用户价值分析",
-        "用户分层",
-        "数据分析"
+        "规划过程组",
+        "收集需求"
       ],
-      "wordCount": 7945,
-      "id": "049f3fb242920b6b"
+      "wordCount": 316,
+      "id": "da3abcaf68d79c8d"
     },
     {
-      "filename": "Excel数据分析_数据清洗.json",
-      "title": "数据清洗",
-      "description": "数据清洗是数据分析的基础步骤，包括处理缺失值、重复值、异常值、格式统一等，确保数据质量符合分析要求",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目范围管理_wbs.json",
+      "title": "WBS（工作分解结构）",
+      "description": "工作分解结构（WBS）的概念、创建方法、分解原则与WBS词典，是范围管理的核心工具。",
+      "category": "05_通用知识领域/软考/项目管理/项目范围管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "数据清洗",
-        "数据质量"
+        "WBS",
+        "工作分解结构",
+        "范围管理",
+        "PMP"
       ],
-      "wordCount": 6352,
-      "id": "8bd8d15533e6a1bf"
+      "wordCount": 853,
+      "id": "a201cf990b47e8bc"
     },
     {
-      "filename": "Excel数据分析_数据透视表.json",
-      "title": "数据透视表",
-      "description": "数据透视表是Excel中最强大的数据分析工具，能够快速对大量数据进行汇总、分组、筛选和可视化，是数据分析师必备技能",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_不确定性表现方式.json",
+      "title": "不确定性表现方式",
+      "description": "要开展定量风险分析，就需要建立能反映单个项目风险和其他不确定性来源的定量风险分析模型，并为之提供输入。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "数据透视表",
-        "数据汇总"
+        "规划过程组",
+        "实时定量风险分析"
       ],
-      "wordCount": 7027,
-      "id": "386021153911c037"
+      "wordCount": 375,
+      "id": "ddbd25fe2222e82f"
     },
     {
-      "filename": "Excel数据分析_常用函数.json",
-      "title": "Excel常用函数",
-      "description": "Excel常用函数是数据分析师处理数据的基础工具，包括文本函数、逻辑函数、查找函数、统计函数等",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_风险报告.json",
+      "title": "风险报告",
+      "description": "风险报告提供关于整体项目风险的信息，以及关于已识别的单个项目风险的概述信息。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "常用函数",
-        "函数应用"
+        "规划过程组",
+        "识别风险",
+        "风险管理"
       ],
-      "wordCount": 8528,
-      "id": "eeb348eb122e5225"
+      "wordCount": 2706,
+      "id": "487bb5690dcbbec6"
     },
     {
-      "filename": "Excel数据分析_Excel高级公式应用.json",
-      "title": "Excel高级公式应用",
-      "description": "Excel高级公式包括数组公式、动态数组、LET函数、LAMBDA函数等，掌握这些高级公式能显著提升数据分析效率",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_风险登记册.json",
+      "title": "风险登记册",
+      "description": "风险登记册记录已识别单个项目风险的详细信息。随着实施定性风险分析、规划风险应对、实施风险应对和监督风险等过程的开展，这些过程的结果也要记进风险登记册。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "高级公式应用",
-        "数组公式",
-        "动态数组",
-        "LET函数",
-        "LAMBDA函数",
-        "数据分析"
+        "规划过程组",
+        "识别风险",
+        "风险管理"
       ],
-      "wordCount": 5799,
-      "id": "cb58f09f0a07d796"
+      "wordCount": 3489,
+      "id": "902c2b1289086852"
     },
     {
-      "filename": "Excel数据分析_Excel高级数据分析功能.json",
-      "title": "Excel高级数据分析功能",
-      "description": "Excel提供了多种高级数据分析功能，包括分析工具库、规划求解、方案管理器等，掌握这些功能能有效提升数据分析效率",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_风险分类.json",
+      "title": "风险分类",
+      "description": "项目风险可依据风险来源、受影响的项目领域以及其他实用类别进行分类，有助于集中注意力和精力到风险敞口最大的领域，或针对一组相关的风险制定通用的风险应对措施。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "高级数据分析功能",
-        "分析工具库",
-        "规划求解",
-        "方案管理器",
-        "数据分析"
+        "规划过程组",
+        "实施定性风险分析",
+        "风险管理",
+        "风险分类",
+        "风险分解结构",
+        "工作分解结构",
+        "风险来源",
+        "风险应对"
       ],
-      "wordCount": 5213,
-      "id": "da7f2d50dfdfbd0e"
+      "wordCount": 4531,
+      "id": "7d7033a9400e2b0d"
     },
     {
-      "filename": "Excel数据分析_Excel公式与函数进阶.json",
-      "title": "Excel公式与函数进阶",
-      "description": "Excel公式与函数进阶是数据分析师使用Excel进行复杂数据分析的技能，包括逻辑函数、查找函数、文本函数、日期函数等",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_规划风险管理.json",
+      "title": "规划风险管理",
+      "description": "规划风险管理是定义如何实施项目风险管理活动的过程。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "Excel公式",
-        "Excel函数",
-        "逻辑函数",
-        "查找函数",
-        "数据分析"
+        "规划过程组",
+        "规划风险管理",
+        "风险管理",
+        "风险管理计划",
+        "风险程度",
+        "重要程度"
       ],
-      "wordCount": 6649,
-      "id": "3b9896474651ac17"
+      "wordCount": 3482,
+      "id": "1d3c4e28c17209ab"
     },
     {
-      "filename": "Excel数据分析_Excel数据分析常用函数.json",
-      "title": "Excel数据分析常用函数",
-      "description": "Excel提供了丰富的数据分析函数，包括查找函数、逻辑函数、文本函数、日期时间函数等，掌握这些函数能有效提升数据分析效率",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_规划风险应对.json",
+      "title": "规划风险应对",
+      "description": "规划风险应对是为处理整体项目风险敞口，以及应对单个项目风险，而制定可选方案、选择应对策略并商定应对行动的过程。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "常用函数",
-        "查找函数",
-        "逻辑函数",
-        "文本函数",
-        "日期时间函数",
-        "数据分析"
+        "规划过程组",
+        "规划风险应对",
+        "风险管理",
+        "PMP"
       ],
-      "wordCount": 7070,
-      "id": "f63319d1f4980ec6"
+      "wordCount": 692,
+      "id": "b3bdaca526737066"
     },
     {
-      "filename": "Excel数据分析_Excel数据建模.json",
-      "title": "Excel数据建模",
-      "description": "Excel数据建模是通过建立数据模型来实现复杂数据分析和报表制作的过程，掌握数据建模能有效提升数据分析能力",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_机会应对策略.json",
+      "title": "机会应对策略",
+      "description": "- $\\color{red}{上报}$。如果项目团队或项目发起人认为某机会不在项目范围内，或提议的应对措施超出了项目经理的权限，就应该取用上报策略。被上报的机会将在项目集层面、项目组合层面或组织的其他...",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "数据建模",
-        "数据模型",
-        "Power Pivot",
-        "数据关系",
-        "数据分析"
+        "规划过程组",
+        "规划风险应对"
       ],
-      "wordCount": 5874,
-      "id": "1c38fcbb665ce166"
+      "wordCount": 937,
+      "id": "80bf4a92ef53b126"
     },
     {
-      "filename": "Excel数据分析_Excel数据透视表与图表.json",
-      "title": "Excel数据透视表与图表",
-      "description": "Excel数据透视表和图表是强大的数据分析工具，掌握这些功能能有效提升数据分析效率和可视化效果",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_监督风险.json",
+      "title": "监督风险",
+      "description": "监督风险是在整个项目期间，监督商定的风险应对计划的实施、跟踪已识别风险、识别和分析新风险，以及评估风险管理有效性的过程。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "数据透视表",
-        "图表",
-        "数据分析",
-        "数据可视化",
-        "透视表",
-        "图表类型"
+        "监控过程组",
+        "监督风险",
+        "风险管理",
+        "PMP"
       ],
-      "wordCount": 4888,
-      "id": "f8be546aa340a750"
+      "wordCount": 391,
+      "id": "d187eeacc694aec0"
     },
     {
-      "filename": "Excel数据分析_图表制作.json",
-      "title": "Excel图表制作",
-      "description": "Excel图表制作是数据分析师展示数据洞察的重要技能，包括柱状图、折线图、饼图等多种图表类型",
-      "category": "数据分析师/Excel数据分析",
+      "filename": "项目风险管理_识别风险.json",
+      "title": "识别风险",
+      "description": "识别风险是识别单个项目风险以及整体项目风险的来源，并记录风险特征的过程。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Excel数据分析",
-        "图表制作",
-        "数据可视化",
-        "Excel图表"
+        "规划过程组",
+        "识别风险",
+        "风险管理",
+        "PMP"
       ],
-      "wordCount": 5889,
-      "id": "a03d5d2137d06487"
+      "wordCount": 633,
+      "id": "7d50995f4dd4c823"
     },
     {
-      "filename": "Python数据分析_数据可视化基础.json",
-      "title": "数据可视化基础",
-      "description": "数据可视化是数据分析师展示分析结果的重要手段，Matplotlib和Seaborn是Python中最常用的可视化库",
-      "category": "数据分析师/Python数据分析",
+      "filename": "项目风险管理_实施定量风险分析.json",
+      "title": "实施定量风险分析",
+      "description": "实施定量风险分析是就已识别的单个项目风险和不确定性的其他来源对整体项目目标的影响进行定量分析的过程。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "数据可视化",
-        "Matplotlib",
-        "Seaborn"
+        "规划过程组",
+        "定量风险分析",
+        "风险管理",
+        "PMP"
       ],
-      "wordCount": 9353,
-      "id": "5e3c2f6dd90debe5"
+      "wordCount": 1454,
+      "id": "bbfe3ebf87948ad7"
     },
     {
-      "filename": "Python数据分析_数据清洗与预处理.json",
-      "title": "数据清洗与预处理",
-      "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
-      "category": "数据分析师/Python数据分析",
+      "filename": "项目风险管理_实施定性风险分析.json",
+      "title": "实施定性风险分析",
+      "description": "实施定性风险分析是通过评估单个项目风险发生的概率和影响以及其他特征，对风险进行优先级排序，从而为后续分析或行动提供基础的过程。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "数据清洗",
-        "数据预处理",
-        "缺失值处理",
-        "异常值处理",
-        "数据分析"
+        "规划过程组",
+        "实施定性风险分析",
+        "风险管理",
+        "PMP"
       ],
-      "wordCount": 12373,
-      "id": "d9aa0068a0606808"
+      "wordCount": 575,
+      "id": "56475ec88eb70772"
     },
     {
-      "filename": "Python数据分析_Matplotlib_Seaborn可视化进阶.json",
-      "title": "Matplotlib/Seaborn可视化进阶",
-      "description": "Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果",
-      "category": "数据分析师/Python数据分析",
+      "filename": "项目风险管理_实施风险应对.json",
+      "title": "实施风险应对",
+      "description": "实施风险应对是执行商定的风险应对计划的过程。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Matplotlib",
-        "Seaborn",
-        "数据可视化",
-        "进阶技巧",
-        "数据分析"
+        "执行过程组",
+        "实施风险应对",
+        "风险管理",
+        "PMP"
       ],
-      "wordCount": 9790,
-      "id": "df231dd7719e3552"
+      "wordCount": 304,
+      "id": "cf1e3b10e562749a"
     },
     {
-      "filename": "Python数据分析_NumPy基础.json",
-      "title": "NumPy基础",
-      "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
-      "category": "数据分析师/Python数据分析",
+      "filename": "项目风险管理_提示清单.json",
+      "title": "提示清单",
+      "description": "提示清单是关于可能引发单个项目风险以及可作为整体项目风险来源的风险类别的预设清单。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "NumPy",
-        "数组操作",
-        "数值计算"
+        "规划过程组",
+        "识别风险",
+        "提示清单",
+        "PMP"
       ],
-      "wordCount": 9306,
-      "id": "27b450b610ab9b26"
+      "wordCount": 3264,
+      "id": "7ecc56101876c359"
     },
     {
-      "filename": "Python数据分析_Pandas高级数据处理.json",
-      "title": "Pandas高级数据处理",
-      "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
-      "category": "数据分析师/Python数据分析",
+      "filename": "项目风险管理_威胁应对策略.json",
+      "title": "威胁应对策略",
+      "description": "- $\\color{red}{上报}$。如果项目团队或项目发起人认为某威胁不在项目范围内，或提议的应对措施超出了项目经理的权限，就应该采用上报策略。被上报的风险将在项目集层面、项目组合层面或组织的其他...",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Pandas",
-        "高级数据处理",
-        "数据清洗",
-        "数据转换",
-        "数据分析"
+        "规划过程组",
+        "规划风险应对"
       ],
-      "wordCount": 9337,
-      "id": "1c55029bf4ae44b4"
+      "wordCount": 1101,
+      "id": "995df122cf52b4ed"
     },
     {
-      "filename": "Python数据分析_Pandas基础.json",
-      "title": "Pandas基础",
-      "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
-      "category": "数据分析师/Python数据分析",
+      "filename": "项目风险管理_应急应对策略.json",
+      "title": "应急应对策略",
+      "description": "可以设计一些仅在特定事件发生时才采用的应对措施。",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Pandas",
-        "DataFrame",
-        "Series"
+        "规划过程组",
+        "规划风险应对"
       ],
-      "wordCount": 10550,
-      "id": "258855724483295f"
+      "wordCount": 2210,
+      "id": "c1b2293c4774630c"
     },
     {
-      "filename": "Python数据分析_Python数据分析基础.json",
-      "title": "Python数据分析基础",
-      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
-      "category": "数据分析师/Python数据分析",
+      "filename": "项目风险管理_整体项目风险应对策略.json",
+      "title": "整体项目风险应对策略",
+      "description": "风险应对措施的规划和实施不应只针对单个项目风险，还应针对整体项目风险。用于应对单个项目风险的策略也适用于整体项目风险：",
+      "category": "05_通用知识领域/软考/项目管理/项目风险管理",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Python基础",
-        "NumPy",
-        "Pandas",
-        "数据分析"
+        "规划过程组",
+        "规划风险应对",
+        "项目管理",
+        "风险管理"
       ],
-      "wordCount": 10145,
-      "id": "e3e9daf172bc90aa"
+      "wordCount": 967,
+      "id": "69afb991d36d3196"
     },
     {
-      "filename": "Python数据分析_Scikit-learn机器学习入门.json",
-      "title": "Scikit-learn机器学习入门",
-      "description": "Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能",
-      "category": "数据分析师/Python数据分析",
+      "filename": "项目沟通管理_沟通的形式与模型.json",
+      "title": "沟通的形式与模型",
+      "description": "沟通的具体形式分类及沟通模型的五个关键要素，是项目沟通管理的基础理论。",
+      "category": "05_通用知识领域/软考/项目管理/项目沟通管理",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Scikit-learn",
-        "机器学习",
-        "预测建模",
-        "监督学习",
-        "无监督学习",
-        "数据分析"
+        "沟通基础",
+        "沟通模型",
+        "项目沟通管理"
       ],
-      "wordCount": 12849,
-      "id": "70ba56e04a2466d3"
+      "wordCount": 626,
+      "id": "713163e9fe418ac5"
     },
     {
-      "filename": "SQL数据库_窗口函数.json",
-      "title": "SQL窗口函数",
-      "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
-      "category": "数据分析师/SQL数据库",
+      "filename": "项目沟通管理_沟通方法互动推式拉式.json",
+      "title": "沟通方法（互动推式拉式）",
+      "description": "项目沟通的三种基本方法：互动沟通、推式沟通、拉式沟通，各有适用场景，是高频考点。",
+      "category": "05_通用知识领域/软考/项目管理/项目沟通管理",
       "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "窗口函数",
-        "Window Functions"
+        "沟通方法",
+        "互动沟通",
+        "推式沟通",
+        "拉式沟通",
+        "项目沟通管理"
       ],
-      "wordCount": 9326,
-      "id": "755ac7c09bbbacab"
+      "wordCount": 567,
+      "id": "8138d83c96c5628b"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "filename": "实战案例_电商商品价格分析案例.json",
       "title": "电商商品价格分析案例",
       "description": "电商商品价格分析案例通过完整分析流程，展示如何使用数据分析技能分析商品价格，提取业务价值",
-      "category": "数据分析师/实战案例",
+      "category": "01_技术IT领域/数据分析师/实战案例",
       "tags": [
         "数据分析师",
         "实战案例",
@@ -20,13 +20,13 @@
         "业务洞察"
       ],
       "wordCount": 7879,
-      "id": "61aacdd9369b85b6"
+      "id": "0a75f13ec3bcb509"
     },
     {
       "filename": "实战案例_电商销售数据分析案例.json",
       "title": "电商销售数据分析案例",
       "description": "电商销售数据分析案例通过完整分析流程，展示如何使用数据分析技能解决实际业务问题",
-      "category": "数据分析师/实战案例",
+      "category": "01_技术IT领域/数据分析师/实战案例",
       "tags": [
         "数据分析师",
         "实战案例",
@@ -38,13 +38,13 @@
         "业务洞察"
       ],
       "wordCount": 7693,
-      "id": "1ed484bf52b44dba"
+      "id": "14286e254d7caa7e"
     },
     {
       "filename": "实战案例_电商用户行为分析案例.json",
       "title": "电商用户行为分析案例",
       "description": "电商用户行为分析案例通过完整分析流程，展示如何使用数据分析技能分析用户行为，提取业务价值",
-      "category": "数据分析师/实战案例",
+      "category": "01_技术IT领域/数据分析师/实战案例",
       "tags": [
         "数据分析师",
         "实战案例",
@@ -56,13 +56,13 @@
         "业务洞察"
       ],
       "wordCount": 8259,
-      "id": "ad88cdf0b76d34ba"
+      "id": "cc3d4df832b3fbcd"
     },
     {
       "filename": "实战案例_数据清洗案例.json",
       "title": "数据清洗案例",
       "description": "数据清洗是数据分析的前提，包括处理缺失值、异常值、重复值、格式不一致等问题",
-      "category": "数据分析师/实战案例",
+      "category": "01_技术IT领域/数据分析师/实战案例",
       "tags": [
         "数据分析师",
         "实战案例",
@@ -71,13 +71,13 @@
         "异常值处理"
       ],
       "wordCount": 9142,
-      "id": "f0b492b8c0fdd780"
+      "id": "1598e7cdf6c8fc60"
     },
     {
       "filename": "Excel数据分析_数据清洗.json",
       "title": "数据清洗",
       "description": "数据清洗是数据分析的基础步骤，包括处理缺失值、重复值、异常值、格式统一等，确保数据质量符合分析要求",
-      "category": "数据分析师/Excel数据分析",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -85,13 +85,13 @@
         "数据质量"
       ],
       "wordCount": 6352,
-      "id": "8bd8d15533e6a1bf"
+      "id": "222abe6baeb18807"
     },
     {
       "filename": "Python数据分析_数据清洗与预处理.json",
       "title": "数据清洗与预处理",
       "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -102,13 +102,13 @@
         "数据分析"
       ],
       "wordCount": 12373,
-      "id": "d9aa0068a0606808"
+      "id": "76d2867c0ecc6462"
     },
     {
       "filename": "Python数据分析_Pandas高级数据处理.json",
       "title": "Pandas高级数据处理",
       "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -119,7 +119,7 @@
         "数据分析"
       ],
       "wordCount": 9337,
-      "id": "1c55029bf4ae44b4"
+      "id": "9f2b17b764fffcbc"
     }
   ]
 }

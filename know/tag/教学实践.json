@@ -8,40 +8,40 @@
       "filename": "小学_小学教育教学实践案例分析.json",
       "title": "小学教育教学实践案例分析",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "02_考试证书领域/教师资格证/小学",
       "tags": [
         "小学教育",
         "教学实践",
         "案例分析"
       ],
       "wordCount": 4457,
-      "id": "831afd4414eced23"
+      "id": "757c2a45aa49dd24"
     },
     {
       "filename": "中学_教学设计案例分析.json",
       "title": "教学设计案例分析",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "02_考试证书领域/教师资格证/中学",
       "tags": [
         "教学设计",
         "案例分析",
         "教学实践"
       ],
       "wordCount": 4608,
-      "id": "a2ac6236dac775d6"
+      "id": "0be51563ffb552d8"
     },
     {
       "filename": "中学_教育心理学案例分析.json",
       "title": "教育心理学案例分析",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "02_考试证书领域/教师资格证/中学",
       "tags": [
         "教育心理学",
         "案例分析",
         "教学实践"
       ],
       "wordCount": 4160,
-      "id": "a2c3c35dc85d4b1c"
+      "id": "4ba7a7a98d290e1b"
     }
   ]
 }

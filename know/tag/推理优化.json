@@ -8,7 +8,7 @@
       "filename": "AI推理加速_AI推理加速概述.json",
       "title": "AI推理加速概述",
       "description": "AI推理加速的基本概念、技术方法和实战指南，涵盖推理优化、硬件加速和服务化部署",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "AI推理加速",
         "推理优化",
@@ -18,13 +18,13 @@
         "服务化部署"
       ],
       "wordCount": 6184,
-      "id": "651a26e134d6db0f"
+      "id": "907a930e352d27f7"
     },
     {
       "filename": "AI推理加速_LLM推理优化.json",
       "title": "LLM推理优化",
       "description": "大语言模型推理优化技术，涵盖KV Cache、PagedAttention、Continuous Batching、量化、并行策略等核心技术",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "LLM",
         "大语言模型",
@@ -36,7 +36,7 @@
         "模型并行"
       ],
       "wordCount": 7718,
-      "id": "a07c2ee4fffcdcb2"
+      "id": "e4ed43c81f3ab0bb"
     }
   ]
 }

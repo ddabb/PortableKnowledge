@@ -8,7 +8,7 @@
       "filename": "分布式系统_分布式服务发现.json",
       "title": "分布式服务发现",
       "description": "分布式服务发现的核心概念、实现方案、关键问题及最佳实践",
-      "category": "分布式系统",
+      "category": "01_技术IT领域/分布式系统",
       "tags": [
         "服务发现",
         "Consul",
@@ -18,13 +18,13 @@
         "健康检查"
       ],
       "wordCount": 6782,
-      "id": "815989436b15a8f0"
+      "id": "7b151b94a704f56d"
     },
     {
       "filename": "分布式系统_分布式锁实现.json",
       "title": "分布式锁实现",
       "description": "分布式锁的核心概念、实现方案、关键问题及最佳实践",
-      "category": "分布式系统",
+      "category": "01_技术IT领域/分布式系统",
       "tags": [
         "分布式锁",
         "Redis",
@@ -34,7 +34,7 @@
         "脑裂"
       ],
       "wordCount": 5422,
-      "id": "d2aec6095a5817dc"
+      "id": "b0d83d3091fdfad1"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "filename": "AI推理加速_TensorRT-LLM推理引擎.json",
       "title": "TensorRT-LLM推理引擎",
       "description": "TensorRT-LLM的核心技术、架构设计、使用方法和性能优化，涵盖算子融合、量化、FP8、模型并行等高级技术",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "TensorRT-LLM",
         "NVIDIA",
@@ -20,7 +20,7 @@
         "低延迟"
       ],
       "wordCount": 10555,
-      "id": "41a7e53b53837760"
+      "id": "b4b7c29b296cf917"
     }
   ]
 }

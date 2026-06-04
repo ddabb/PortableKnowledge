@@ -8,7 +8,7 @@
       "filename": "系统集成基础_存储与备份技术.json",
       "title": "存储与备份技术",
       "description": "软考中项存储技术考点，包括RAID级别、DAS/NAS/SAN存储架构及数据备份策略。",
-      "category": "软考/综合知识/系统集成基础",
+      "category": "05_通用知识领域/软考/综合知识/系统集成基础",
       "tags": [
         "存储技术",
         "RAID",
@@ -16,7 +16,7 @@
         "系统集成"
       ],
       "wordCount": 982,
-      "id": "df35da523c5af5d5"
+      "id": "9e7e7a4021b6ca39"
     }
   ]
 }

@@ -1,14 +1,30 @@
 {
   "meta": {
     "tag": "高性能",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "高性能金融系统_高性能金融系统架构设计.json",
+      "title": "高性能金融系统架构设计",
+      "description": "高性能金融系统的架构设计，涵盖性能优化、高并发处理、低延迟交易和分布式架构",
+      "category": "01_技术IT领域/金融信贷科技/高性能金融系统",
+      "tags": [
+        "高性能",
+        "金融系统",
+        "低延迟",
+        "高并发",
+        "性能优化",
+        "分布式架构"
+      ],
+      "wordCount": 6280,
+      "id": "61187784e6001087"
+    },
     {
       "filename": "AI推理加速_SGLang推理引擎.json",
       "title": "SGLang推理引擎",
       "description": "SGLang推理引擎的核心技术、架构设计、编程模型和性能优化，涵盖Radix Attention、动态编程、灵活推理等创新技术",
-      "category": "AI推理加速",
+      "category": "01_技术IT领域/AI推理加速",
       "tags": [
         "SGLang",
         "推理引擎",
@@ -19,7 +35,7 @@
         "高性能"
       ],
       "wordCount": 10979,
-      "id": "4d1cada355aec519"
+      "id": "75399bd817c0a3b5"
     }
   ]
 }

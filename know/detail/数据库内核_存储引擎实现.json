@@ -2,7 +2,7 @@
   "filename": "数据库内核_存储引擎实现.json",
   "title": "存储引擎实现",
   "description": "存储引擎的核心实现技术，重点分析InnoDB、RocksDB等主流存储引擎的架构设计、关键数据结构和实现细节",
-  "category": "数据库内核",
+  "category": "01_技术IT领域/数据库内核",
   "tags": [
     "存储引擎",
     "InnoDB",

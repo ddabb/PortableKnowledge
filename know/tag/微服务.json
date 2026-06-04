@@ -1,29 +1,29 @@
 {
   "meta": {
     "tag": "微服务",
-    "count": 3
+    "count": 4
   },
   "articles": [
     {
-      "filename": "系统集成基础_应用架构.json",
-      "title": "应用架构",
-      "description": "应用架构模式、SOA与微服务",
-      "category": "软考/综合知识/系统集成基础",
+      "filename": "Spring生态_Spring Boot核心原理与实践.json",
+      "title": "Spring Boot核心原理与实践",
+      "description": "",
+      "category": "01_技术IT领域/零售电商系统/Spring生态",
       "tags": [
-        "应用架构",
-        "SOA",
+        "Java",
+        "Spring Boot",
         "微服务",
-        "MVC",
-        "分层分域"
+        "自动配置",
+        "起步依赖"
       ],
-      "wordCount": 844,
-      "id": "e9f728e7f7a1ea26"
+      "wordCount": 6259,
+      "id": "8b4d9592c4a742ee"
     },
     {
       "filename": "云原生_服务网格.json",
       "title": "服务网格",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "Service Mesh",
@@ -32,13 +32,13 @@
         "流量管理"
       ],
       "wordCount": 5045,
-      "id": "c837f943d0368f86"
+      "id": "394287f581a1ab61"
     },
     {
       "filename": "云原生_云原生概述.json",
       "title": "云原生概述",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "Cloud Native",
@@ -47,7 +47,22 @@
         "DevOps"
       ],
       "wordCount": 3585,
-      "id": "cc5e6085f5d7afaf"
+      "id": "4d8e80b89a85568a"
+    },
+    {
+      "filename": "系统集成基础_应用架构.json",
+      "title": "应用架构",
+      "description": "应用架构模式、SOA与微服务",
+      "category": "05_通用知识领域/软考/综合知识/系统集成基础",
+      "tags": [
+        "应用架构",
+        "SOA",
+        "微服务",
+        "MVC",
+        "分层分域"
+      ],
+      "wordCount": 844,
+      "id": "bc435abfcee25904"
     }
   ]
 }

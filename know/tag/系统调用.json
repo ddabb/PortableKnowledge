@@ -8,7 +8,7 @@
       "filename": "系统编程_C_C++系统编程实践.json",
       "title": "C/C++系统编程实践",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "C语言",
@@ -17,13 +17,13 @@
         "跨平台"
       ],
       "wordCount": 7201,
-      "id": "169b235231f5b24f"
+      "id": "05c084281a736ba0"
     },
     {
       "filename": "系统编程_Linux系统编程API详解.json",
       "title": "Linux系统编程API详解",
       "description": "",
-      "category": "系统编程",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
         "系统编程",
         "Linux",
@@ -33,7 +33,7 @@
         "进程管理"
       ],
       "wordCount": 6425,
-      "id": "fed90755b175de26"
+      "id": "4c41d33007f55402"
     }
   ]
 }

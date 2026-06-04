@@ -8,7 +8,7 @@
       "filename": "二级建造师_施工技术与管理.json",
       "title": "施工技术与管理",
       "description": "",
-      "category": "建造师/二级建造师",
+      "category": "02_考试证书领域/建造师/二级建造师",
       "tags": [
         "二建",
         "施工技术",
@@ -16,13 +16,13 @@
         "建造师"
       ],
       "wordCount": 1936,
-      "id": "2cf94587fbc8d89b"
+      "id": "4fa1ad93e76fd146"
     },
     {
       "filename": "一级建造师_施工技术与管理.json",
       "title": "施工技术与管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "施工技术",
@@ -30,7 +30,7 @@
         "建造师"
       ],
       "wordCount": 2233,
-      "id": "24279326babd9df0"
+      "id": "4430c577a660190d"
     }
   ]
 }

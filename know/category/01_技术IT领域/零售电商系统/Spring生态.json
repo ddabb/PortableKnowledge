@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "category": "01_技术IT领域/零售电商系统/Spring生态",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "Spring生态_Spring Boot核心原理与实践.json",
+      "title": "Spring Boot核心原理与实践",
+      "description": "",
+      "category": "01_技术IT领域/零售电商系统/Spring生态",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "微服务",
+        "自动配置",
+        "起步依赖"
+      ],
+      "wordCount": 6259,
+      "id": "8b4d9592c4a742ee"
+    }
+  ]
+}

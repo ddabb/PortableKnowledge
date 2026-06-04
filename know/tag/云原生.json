@@ -8,7 +8,7 @@
       "filename": "云原生_服务网格.json",
       "title": "服务网格",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "Service Mesh",
@@ -17,13 +17,13 @@
         "流量管理"
       ],
       "wordCount": 5045,
-      "id": "c837f943d0368f86"
+      "id": "394287f581a1ab61"
     },
     {
       "filename": "云原生_云原生安全.json",
       "title": "云原生安全",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "安全",
@@ -33,13 +33,13 @@
         "网络安全"
       ],
       "wordCount": 5713,
-      "id": "834a2b8e91516822"
+      "id": "d558946929079ad9"
     },
     {
       "filename": "云原生_云原生存储.json",
       "title": "云原生存储",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "存储",
@@ -49,13 +49,13 @@
         "CSI"
       ],
       "wordCount": 5277,
-      "id": "ede3436bc5822fee"
+      "id": "30c862953678a811"
     },
     {
       "filename": "云原生_云原生概述.json",
       "title": "云原生概述",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "Cloud Native",
@@ -64,13 +64,13 @@
         "DevOps"
       ],
       "wordCount": 3585,
-      "id": "cc5e6085f5d7afaf"
+      "id": "4d8e80b89a85568a"
     },
     {
       "filename": "云原生_云原生可观测性.json",
       "title": "云原生可观测性",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "可观测性",
@@ -81,13 +81,13 @@
         "Grafana"
       ],
       "wordCount": 5365,
-      "id": "ee757219053b679b"
+      "id": "c4733cfddf760d2c"
     },
     {
       "filename": "云原生_云原生网络.json",
       "title": "云原生网络",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "容器网络",
@@ -97,13 +97,13 @@
         "NetworkPolicy"
       ],
       "wordCount": 5310,
-      "id": "086389be3198c2f6"
+      "id": "d29590536f1a5902"
     },
     {
       "filename": "云原生_云原生未来趋势.json",
       "title": "云原生未来趋势",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "未来趋势",
@@ -114,13 +114,13 @@
         "AI for Ops"
       ],
       "wordCount": 5636,
-      "id": "4b57bcc468c23b7a"
+      "id": "9de2d6d4d2ad3290"
     },
     {
       "filename": "云原生_DevOps与CI_CD.json",
       "title": "DevOps与CI/CD",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "DevOps",
@@ -130,13 +130,13 @@
         "GitOps"
       ],
       "wordCount": 5299,
-      "id": "8d1538c5b9e153bd"
+      "id": "f0ca49b9a538a462"
     },
     {
       "filename": "云原生_Docker容器化.json",
       "title": "Docker容器化",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "Docker",
@@ -145,13 +145,13 @@
         "容器编排"
       ],
       "wordCount": 5477,
-      "id": "a4dd0045ee8861b5"
+      "id": "22dc5e1ef7540d20"
     },
     {
       "filename": "云原生_Kubernetes核心概念.json",
       "title": "Kubernetes核心概念",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "Kubernetes",
@@ -159,13 +159,13 @@
         "容器管理"
       ],
       "wordCount": 4987,
-      "id": "0bab65b45763106b"
+      "id": "e0e771f09d223358"
     },
     {
       "filename": "云原生_Serverless与函数计算.json",
       "title": "Serverless与函数计算",
       "description": "",
-      "category": "云原生",
+      "category": "01_技术IT领域/云原生",
       "tags": [
         "云原生",
         "Serverless",
@@ -175,7 +175,7 @@
         "Knative"
       ],
       "wordCount": 4651,
-      "id": "5c8f7e124270a075"
+      "id": "f91e3cc23f64790e"
     }
   ]
 }

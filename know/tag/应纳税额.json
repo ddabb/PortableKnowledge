@@ -8,7 +8,7 @@
       "filename": "税法_个人所得税应纳税额计算.json",
       "title": "个人所得税应纳税额计算",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "个人所得税",
         "应纳税额",
@@ -16,13 +16,13 @@
         "CPA"
       ],
       "wordCount": 759,
-      "id": "978350a148cbae33"
+      "id": "d00cf44bc11486ad"
     },
     {
       "filename": "税法_消费税应纳税额计算.json",
       "title": "消费税应纳税额计算",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "消费税",
         "应纳税额",
@@ -30,13 +30,13 @@
         "CPA"
       ],
       "wordCount": 647,
-      "id": "6894c86a560d13be"
+      "id": "f37a0b829a999fd1"
     },
     {
       "filename": "税法_增值税应纳税额计算.json",
       "title": "增值税应纳税额计算",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "增值税",
         "应纳税额",
@@ -44,7 +44,7 @@
         "CPA"
       ],
       "wordCount": 511,
-      "id": "acaeaa880437f40f"
+      "id": "be8ec092bc2fa72a"
     }
   ]
 }

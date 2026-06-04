@@ -2,7 +2,7 @@
   "filename": "SQL数据库_SQL高级查询.json",
   "title": "SQL高级查询",
   "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
-  "category": "数据分析师/SQL数据库",
+  "category": "01_技术IT领域/数据分析师/SQL数据库",
   "tags": [
     "数据分析师",
     "SQL数据库",

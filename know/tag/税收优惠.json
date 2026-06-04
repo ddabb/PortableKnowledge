@@ -8,7 +8,7 @@
       "filename": "税法_个人所得税税收优惠.json",
       "title": "个人所得税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "个人所得税",
         "税收优惠",
@@ -16,13 +16,13 @@
         "CPA"
       ],
       "wordCount": 549,
-      "id": "215c769b099e3c2f"
+      "id": "f38aea670b7b61be"
     },
     {
       "filename": "税法_企业所得税税收优惠.json",
       "title": "企业所得税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "企业所得税",
         "税收优惠",
@@ -30,13 +30,13 @@
         "CPA"
       ],
       "wordCount": 929,
-      "id": "de2aa7c5c7accbcc"
+      "id": "dd08cba0c61f9022"
     },
     {
       "filename": "税法_消费税税收优惠.json",
       "title": "消费税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "消费税",
         "税收优惠",
@@ -44,13 +44,13 @@
         "CPA"
       ],
       "wordCount": 318,
-      "id": "c8ecba9b705482cf"
+      "id": "7979940085c51a14"
     },
     {
       "filename": "税法_增值税税收优惠.json",
       "title": "增值税税收优惠",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "02_考试证书领域/注册会计师/税法",
       "tags": [
         "增值税",
         "税收优惠",
@@ -58,7 +58,7 @@
         "CPA"
       ],
       "wordCount": 1223,
-      "id": "541e58286de87b05"
+      "id": "c7e244f6b212312f"
     }
   ]
 }

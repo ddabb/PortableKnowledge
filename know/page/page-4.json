@@ -1,301 +1,329 @@
 {
   "page": 4,
   "totalPages": 44,
-  "totalItems": 867,
+  "totalItems": 877,
   "items": [
     {
-      "filename": "基金投资_基金入门.json",
-      "title": "基金是什么？把钱交给专业的人打理",
-      "description": "用通俗易懂的方式解释基金的概念、运作原理，以及为什么基金适合普通投资者。",
-      "category": "家庭理财/基金投资",
+      "filename": "业务分析方法_漏斗分析.json",
+      "title": "漏斗分析",
+      "description": "漏斗分析是用户行为分析的重要方法，用于分析用户在各个步骤的转化情况",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
-        "基金",
-        "基金经理",
-        "基金净值",
-        "认购",
-        "申购"
+        "数据分析师",
+        "业务分析方法",
+        "漏斗分析",
+        "用户行为分析",
+        "转化分析",
+        "数据分析"
       ],
-      "wordCount": 1013,
-      "id": "b16284f4c3ebf0d2"
+      "wordCount": 9573,
+      "id": "c33038f983fcf35c"
     },
     {
-      "filename": "基金投资_指数基金与主动基金.json",
-      "title": "指数基金和主动基金，哪个更适合你？",
-      "description": "解析被动型指数基金和主动管理型基金的区别、优劣势，以及普通投资者应该如何选择。",
-      "category": "家庭理财/基金投资",
+      "filename": "业务分析方法_帕累托分析.json",
+      "title": "帕累托分析",
+      "description": "帕累托分析是基于二八法则的重要分析方法，用于找出影响业务的关键因素",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
-        "指数基金",
-        "主动基金",
-        "被动投资",
-        "基金比较",
-        "ETF"
+        "数据分析师",
+        "业务分析方法",
+        "帕累托分析",
+        "二八法则",
+        "关键因素分析",
+        "数据分析"
       ],
-      "wordCount": 1158,
-      "id": "22cd5e8f1b094828"
+      "wordCount": 10323,
+      "id": "71b60cc5f56c5a73"
     },
     {
-      "filename": "建造师_核心考点.json",
-      "title": "建造师考试核心考点",
-      "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
-      "category": "建造师",
+      "filename": "业务分析方法_同期群分析.json",
+      "title": "同期群分析",
+      "description": "同期群分析是用户行为分析的重要方法，用于将用户按时间周期分组，分析不同组别的行为差异",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
-        "建造师",
-        "一建",
-        "二建"
+        "数据分析师",
+        "业务分析方法",
+        "同期群分析",
+        "用户行为分析",
+        "用户留存分析",
+        "数据分析"
       ],
-      "wordCount": 4763,
-      "id": "891b181955bf8c6c"
+      "wordCount": 9752,
+      "id": "ac392bb2b7ae49c1"
     },
     {
-      "filename": "二级建造师_公路工程管理与实务.json",
-      "title": "公路工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "业务分析方法_用户画像分析.json",
+      "title": "用户画像分析",
+      "description": "用户画像分析是用户行为分析的重要方法，用于构建用户特征模型，支持精准营销和个性化推荐",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
-        "二建",
-        "公路工程",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "业务分析方法",
+        "用户画像分析",
+        "用户行为分析",
+        "用户特征",
+        "数据分析"
       ],
-      "wordCount": 1549,
-      "id": "1240fa0d522af118"
+      "wordCount": 8976,
+      "id": "1dad64a40b32e4df"
     },
     {
-      "filename": "二级建造师_机电工程管理与实务.json",
-      "title": "机电工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "业务分析方法_A_B测试.json",
+      "title": "A/B测试",
+      "description": "A/B测试是数据分析中常用的实验方法，用于比较两种或多种方案的效果差异",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
-        "二建",
-        "机电工程",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "业务分析方法",
+        "A/B测试",
+        "实验设计",
+        "假设检验",
+        "数据分析"
       ],
-      "wordCount": 1873,
-      "id": "bfe11c4860e52603"
+      "wordCount": 8997,
+      "id": "4a9ffc3972c4e342"
     },
     {
-      "filename": "二级建造师_建设工程法规及相关知识.json",
-      "title": "建设工程法规及相关知识",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "业务分析方法_RFM分析.json",
+      "title": "RFM分析",
+      "description": "RFM分析是用户价值分析的重要方法，通过最近一次消费(Recency)、消费频率(Frequency)、消费金额(Monetary)三个指标对用户进行分层",
+      "category": "01_技术IT领域/数据分析师/业务分析方法",
       "tags": [
-        "二建",
-        "法规",
-        "建造师"
+        "数据分析师",
+        "业务分析方法",
+        "RFM分析",
+        "用户价值分析",
+        "用户分层",
+        "数据分析"
       ],
-      "wordCount": 559,
-      "id": "db168e021cb0af71"
+      "wordCount": 7945,
+      "id": "4dd305d3eeae00b2"
     },
     {
-      "filename": "二级建造师_建设工程法律法规实务.json",
-      "title": "建设工程法律法规实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_数据清洗.json",
+      "title": "数据清洗",
+      "description": "数据清洗是数据分析的基础步骤，包括处理缺失值、重复值、异常值、格式统一等，确保数据质量符合分析要求",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "法律法规",
-        "实务",
-        "建造师",
-        "法人制度",
-        "代理制度",
-        "物权制度",
-        "债权制度",
-        "知识产权制度",
-        "担保制度",
-        "保险制度",
-        "法律责任制度",
-        "招标投标制度",
-        "承发包制度",
-        "分包制度",
-        "安全生产",
-        "质量保修"
+        "数据分析师",
+        "Excel数据分析",
+        "数据清洗",
+        "数据质量"
       ],
-      "wordCount": 5957,
-      "id": "1b488fe70388ed27"
+      "wordCount": 6352,
+      "id": "222abe6baeb18807"
     },
     {
-      "filename": "二级建造师_建设工程施工管理.json",
-      "title": "建设工程施工管理",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_数据透视表.json",
+      "title": "数据透视表",
+      "description": "数据透视表是Excel中最强大的数据分析工具，能够快速对大量数据进行汇总、分组、筛选和可视化，是数据分析师必备技能",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "施工管理",
-        "建造师"
+        "数据分析师",
+        "Excel数据分析",
+        "数据透视表",
+        "数据汇总"
       ],
-      "wordCount": 451,
-      "id": "6a8179b10f109354"
+      "wordCount": 7027,
+      "id": "5c6f98f8846d85d2"
     },
     {
-      "filename": "二级建造师_建筑工程管理与实务.json",
-      "title": "建筑工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_常用函数.json",
+      "title": "Excel常用函数",
+      "description": "Excel常用函数是数据分析师处理数据的基础工具，包括文本函数、逻辑函数、查找函数、统计函数等",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "建筑工程",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "Excel数据分析",
+        "常用函数",
+        "函数应用"
       ],
-      "wordCount": 2039,
-      "id": "a1bcf29ecea453db"
+      "wordCount": 8528,
+      "id": "e9c68844da0d98cd"
     },
     {
-      "filename": "二级建造师_施工技术与管理.json",
-      "title": "施工技术与管理",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_Excel高级公式应用.json",
+      "title": "Excel高级公式应用",
+      "description": "Excel高级公式包括数组公式、动态数组、LET函数、LAMBDA函数等，掌握这些高级公式能显著提升数据分析效率",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "施工技术",
-        "管理",
-        "建造师"
+        "数据分析师",
+        "Excel数据分析",
+        "高级公式应用",
+        "数组公式",
+        "动态数组",
+        "LET函数",
+        "LAMBDA函数",
+        "数据分析"
       ],
-      "wordCount": 1936,
-      "id": "2cf94587fbc8d89b"
+      "wordCount": 5799,
+      "id": "a6f07c7fc1c71459"
     },
     {
-      "filename": "二级建造师_市政公用工程管理与实务.json",
-      "title": "市政公用工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_Excel高级数据分析功能.json",
+      "title": "Excel高级数据分析功能",
+      "description": "Excel提供了多种高级数据分析功能，包括分析工具库、规划求解、方案管理器等，掌握这些功能能有效提升数据分析效率",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "市政工程",
-        "实务",
-        "建造师",
-        "市政公用工程技术",
-        "市政公用工程项目施工管理",
-        "市政公用工程项目施工相关法规与标准"
+        "数据分析师",
+        "Excel数据分析",
+        "高级数据分析功能",
+        "分析工具库",
+        "规划求解",
+        "方案管理器",
+        "数据分析"
       ],
-      "wordCount": 3101,
-      "id": "f936e49ca2584e1f"
+      "wordCount": 5213,
+      "id": "98ea1842c57fb751"
     },
     {
-      "filename": "二级建造师_水利水电工程管理与实务.json",
-      "title": "水利水电工程管理与实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_Excel公式与函数进阶.json",
+      "title": "Excel公式与函数进阶",
+      "description": "Excel公式与函数进阶是数据分析师使用Excel进行复杂数据分析的技能，包括逻辑函数、查找函数、文本函数、日期函数等",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "水利水电工程",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "Excel数据分析",
+        "Excel公式",
+        "Excel函数",
+        "逻辑函数",
+        "查找函数",
+        "数据分析"
       ],
-      "wordCount": 299,
-      "id": "2a47b56568900495"
+      "wordCount": 6649,
+      "id": "4500330c0e930640"
     },
     {
-      "filename": "二级建造师_项目安全管理.json",
-      "title": "项目安全管理",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_Excel数据分析常用函数.json",
+      "title": "Excel数据分析常用函数",
+      "description": "Excel提供了丰富的数据分析函数，包括查找函数、逻辑函数、文本函数、日期时间函数等，掌握这些函数能有效提升数据分析效率",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "安全管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "Excel数据分析",
+        "常用函数",
+        "查找函数",
+        "逻辑函数",
+        "文本函数",
+        "日期时间函数",
+        "数据分析"
       ],
-      "wordCount": 3303,
-      "id": "8fe4ea7995d306b2"
+      "wordCount": 7070,
+      "id": "59817e1a903326f1"
     },
     {
-      "filename": "二级建造师_项目成本管理.json",
-      "title": "项目成本管理",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_Excel数据建模.json",
+      "title": "Excel数据建模",
+      "description": "Excel数据建模是通过建立数据模型来实现复杂数据分析和报表制作的过程，掌握数据建模能有效提升数据分析能力",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "成本管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "Excel数据分析",
+        "数据建模",
+        "数据模型",
+        "Power Pivot",
+        "数据关系",
+        "数据分析"
       ],
-      "wordCount": 2190,
-      "id": "b8d7bb2f2668fe1b"
+      "wordCount": 5874,
+      "id": "a7a6d181527b8131"
     },
     {
-      "filename": "二级建造师_项目管理实务.json",
-      "title": "项目管理实务",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_Excel数据透视表与图表.json",
+      "title": "Excel数据透视表与图表",
+      "description": "Excel数据透视表和图表是强大的数据分析工具，掌握这些功能能有效提升数据分析效率和可视化效果",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "项目管理",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "Excel数据分析",
+        "数据透视表",
+        "图表",
+        "数据分析",
+        "数据可视化",
+        "透视表",
+        "图表类型"
       ],
-      "wordCount": 5027,
-      "id": "af4d0bf7f7db151a"
+      "wordCount": 4888,
+      "id": "806c98888342ebc5"
     },
     {
-      "filename": "二级建造师_项目进度管理.json",
-      "title": "项目进度管理",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Excel数据分析_图表制作.json",
+      "title": "Excel图表制作",
+      "description": "Excel图表制作是数据分析师展示数据洞察的重要技能，包括柱状图、折线图、饼图等多种图表类型",
+      "category": "01_技术IT领域/数据分析师/Excel数据分析",
       "tags": [
-        "二建",
-        "进度管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "Excel数据分析",
+        "图表制作",
+        "数据可视化",
+        "Excel图表"
       ],
-      "wordCount": 1566,
-      "id": "c7c752a4767c2f39"
+      "wordCount": 5889,
+      "id": "47dbc9a2fe6250fb"
     },
     {
-      "filename": "二级建造师_项目质量管理.json",
-      "title": "项目质量管理",
-      "description": "",
-      "category": "建造师/二级建造师",
+      "filename": "Python数据分析_数据可视化基础.json",
+      "title": "数据可视化基础",
+      "description": "数据可视化是数据分析师展示分析结果的重要手段，Matplotlib和Seaborn是Python中最常用的可视化库",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
-        "二建",
-        "质量管理",
-        "项目管理",
-        "建造师"
+        "数据分析师",
+        "Python数据分析",
+        "数据可视化",
+        "Matplotlib",
+        "Seaborn"
       ],
-      "wordCount": 3213,
-      "id": "71c39f516c268fd1"
+      "wordCount": 9353,
+      "id": "3c7e7066ee44f5d2"
     },
     {
-      "filename": "一级建造师_公路工程管理与实务.json",
-      "title": "公路工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "Python数据分析_数据清洗与预处理.json",
+      "title": "数据清洗与预处理",
+      "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
-        "一建",
-        "公路工程",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "Python数据分析",
+        "数据清洗",
+        "数据预处理",
+        "缺失值处理",
+        "异常值处理",
+        "数据分析"
       ],
-      "wordCount": 2920,
-      "id": "fc359992b46f3ed3"
+      "wordCount": 12373,
+      "id": "76d2867c0ecc6462"
     },
     {
-      "filename": "一级建造师_机电工程管理与实务.json",
-      "title": "机电工程管理与实务",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "Python数据分析_Matplotlib_Seaborn可视化进阶.json",
+      "title": "Matplotlib/Seaborn可视化进阶",
+      "description": "Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
-        "一建",
-        "机电工程",
-        "实务",
-        "建造师"
+        "数据分析师",
+        "Python数据分析",
+        "Matplotlib",
+        "Seaborn",
+        "数据可视化",
+        "进阶技巧",
+        "数据分析"
       ],
-      "wordCount": 3153,
-      "id": "a7b57ed1618be4bb"
+      "wordCount": 9790,
+      "id": "fa46c680fde09b61"
     },
     {
-      "filename": "一级建造师_建设工程法规及相关知识.json",
-      "title": "建设工程法规及相关知识",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "Python数据分析_NumPy基础.json",
+      "title": "NumPy基础",
+      "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
-        "一建",
-        "法规",
-        "建造师"
+        "数据分析师",
+        "Python数据分析",
+        "NumPy",
+        "数组操作",
+        "数值计算"
       ],
-      "wordCount": 559,
-      "id": "7eef789c72cc2e71"
+      "wordCount": 9306,
+      "id": "ecc0d080b55cc15e"
     }
   ]
 }

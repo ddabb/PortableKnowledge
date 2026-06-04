@@ -1,274 +1,309 @@
 {
   "page": 7,
   "totalPages": 44,
-  "totalItems": 867,
+  "totalItems": 877,
   "items": [
     {
-      "filename": "中学_班级管理与教育沟通.json",
-      "title": "班级管理与教育沟通",
+      "filename": "渠道_社交媒体营销.json",
+      "title": "社交媒体营销",
+      "description": "社交媒体营销是数字营销的重要渠道，通过社交媒体进行营销活动",
+      "category": "01_技术IT领域/数字营销/渠道",
+      "tags": [
+        "数字营销",
+        "社交媒体营销",
+        "微信营销",
+        "微博营销",
+        "抖音营销",
+        "社交媒体策略"
+      ],
+      "wordCount": 4879,
+      "id": "fd0b294f31058303"
+    },
+    {
+      "filename": "渠道_SEM.json",
+      "title": "SEM",
+      "description": "SEM（搜索引擎营销）是数字营销的重要渠道，通过付费广告在搜索引擎展示广告",
+      "category": "01_技术IT领域/数字营销/渠道",
+      "tags": [
+        "数字营销",
+        "SEM",
+        "搜索引擎营销",
+        "付费广告",
+        "Google Ads",
+        "百度竞价"
+      ],
+      "wordCount": 4903,
+      "id": "0199510e03389e6c"
+    },
+    {
+      "filename": "渠道_SEO.json",
+      "title": "SEO",
+      "description": "SEO（搜索引擎优化）是数字营销的重要渠道，通过优化网站提高搜索引擎排名",
+      "category": "01_技术IT领域/数字营销/渠道",
+      "tags": [
+        "数字营销",
+        "SEO",
+        "搜索引擎优化",
+        "关键词优化",
+        "内容优化",
+        "技术优化"
+      ],
+      "wordCount": 4870,
+      "id": "f0a97dc93faf815d"
+    },
+    {
+      "filename": "系统编程_并发编程实践.json",
+      "title": "并发编程实践",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "班级管理",
-        "教育沟通",
-        "师生关系"
+        "系统编程",
+        "并发编程",
+        "多线程",
+        "无锁编程",
+        "性能优化"
       ],
-      "wordCount": 4356,
-      "id": "993359eb18a0dd0b"
+      "wordCount": 4798,
+      "id": "0f635138bdbdbd24"
     },
     {
-      "filename": "中学_教学设计案例分析.json",
-      "title": "教学设计案例分析",
+      "filename": "系统编程_进程与线程管理.json",
+      "title": "进程与线程管理",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "教学设计",
-        "案例分析",
-        "教学实践"
+        "系统编程",
+        "进程",
+        "线程",
+        "调度",
+        "上下文切换"
       ],
-      "wordCount": 4608,
-      "id": "a2ac6236dac775d6"
+      "wordCount": 5411,
+      "id": "d34d83cb621d5f67"
     },
     {
-      "filename": "中学_教学设计与实施.json",
-      "title": "教学设计与实施",
+      "filename": "系统编程_内存管理实现.json",
+      "title": "内存管理实现",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "教学设计",
-        "教学实施",
-        "教学策略"
+        "系统编程",
+        "内存管理",
+        "虚拟内存",
+        "分配器",
+        "性能优化"
       ],
-      "wordCount": 3865,
-      "id": "ef27e31f6e22c582"
+      "wordCount": 5255,
+      "id": "aa238770098868a8"
     },
     {
-      "filename": "中学_教育创新与改革.json",
-      "title": "教育创新与改革",
+      "filename": "系统编程_网络编程实践.json",
+      "title": "网络编程实践",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "教育创新",
-        "教育改革",
-        "素质教育"
+        "系统编程",
+        "网络编程",
+        "Socket编程",
+        "异步I/O",
+        "高性能网络"
       ],
-      "wordCount": 3390,
-      "id": "a984c08f238b1def"
+      "wordCount": 6235,
+      "id": "106248d1e0e27cf4"
     },
     {
-      "filename": "中学_教育法律法规案例分析.json",
-      "title": "教育法律法规案例分析",
+      "filename": "系统编程_文件I_O优化.json",
+      "title": "文件I/O优化",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "教育法律法规",
-        "案例分析",
-        "法律责任"
+        "系统编程",
+        "文件I/O",
+        "零拷贝",
+        "异步I/O",
+        "性能优化"
       ],
-      "wordCount": 4480,
-      "id": "4c465f57472777a5"
+      "wordCount": 5392,
+      "id": "9a2d81dda902fb71"
     },
     {
-      "filename": "中学_教育法律法规与教师职业道德.json",
-      "title": "教育法律法规与教师职业道德",
+      "filename": "系统编程_系统编程概述.json",
+      "title": "系统编程概述",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "教育法律法规",
-        "教师职业道德",
-        "法律责任"
+        "系统编程",
+        "定义",
+        "核心概念",
+        "应用场景"
       ],
-      "wordCount": 4917,
-      "id": "606effbf3fd22802"
+      "wordCount": 4818,
+      "id": "36fea8ef1fe1c429"
     },
     {
-      "filename": "中学_教育技术应用.json",
-      "title": "教育技术应用",
+      "filename": "系统编程_性能优化与调试.json",
+      "title": "性能优化与调试",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "教育技术",
-        "信息技术",
-        "教学创新"
+        "系统编程",
+        "性能优化",
+        "调试",
+        "Profiling",
+        "缓存优化"
       ],
-      "wordCount": 3883,
-      "id": "d5ada9171e523b31"
+      "wordCount": 5166,
+      "id": "5cd5334f782fa7f7"
     },
     {
-      "filename": "中学_教育教学实践案例分析.json",
-      "title": "教育教学实践案例分析",
+      "filename": "系统编程_C_C++系统编程实践.json",
+      "title": "C/C++系统编程实践",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "教育教学",
-        "案例分析",
-        "实践经验"
+        "系统编程",
+        "C语言",
+        "C++",
+        "系统调用",
+        "跨平台"
       ],
-      "wordCount": 4364,
-      "id": "b896301fbe80b9af"
+      "wordCount": 7201,
+      "id": "05c084281a736ba0"
     },
     {
-      "filename": "中学_教育评价与反思.json",
-      "title": "教育评价与反思",
+      "filename": "系统编程_Linux系统编程API详解.json",
+      "title": "Linux系统编程API详解",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/系统编程",
       "tags": [
-        "教育评价",
-        "教学反思",
-        "专业发展"
+        "系统编程",
+        "Linux",
+        "系统调用",
+        "API详解",
+        "文件I/O",
+        "进程管理"
       ],
-      "wordCount": 3348,
-      "id": "09a6af8a8a2a3cd0"
+      "wordCount": 6425,
+      "id": "4c41d33007f55402"
     },
     {
-      "filename": "中学_教育心理学案例分析.json",
-      "title": "教育心理学案例分析",
+      "filename": "营销增长_内容创作方法论.json",
+      "title": "内容创作方法论：从选题到发布的完整流程",
+      "description": "系统讲解内容创作的完整流程，包括选题策划、标题技巧、内容结构、视觉体验、发布策略和数据分析",
+      "category": "01_技术IT领域/营销增长",
+      "tags": [
+        "内容创作",
+        "选题",
+        "标题",
+        "排版"
+      ],
+      "wordCount": 2134,
+      "id": "8864f11815aa867f"
+    },
+    {
+      "filename": "营销增长_增长策略与私域运营.json",
+      "title": "增长策略与私域运营：AARRR模型实践指南",
+      "description": "系统化的增长方法论，从AARRR漏斗到私域流量运营的完整指南",
+      "category": "01_技术IT领域/营销增长",
+      "tags": [
+        "增长策略",
+        "AARRR",
+        "私域流量",
+        "用户增长",
+        "留存",
+        "变现"
+      ],
+      "wordCount": 3302,
+      "id": "0f208dc906980e51"
+    },
+    {
+      "filename": "营销自动化_可视化流程编排引擎.json",
+      "title": "可视化流程编排引擎",
+      "description": "可视化流程编排引擎的设计原理、核心功能与实现方案，包括拖拽式设计器、流程解析与执行",
+      "category": "01_技术IT领域/营销自动化",
+      "tags": [
+        "营销自动化",
+        "流程编排",
+        "可视化设计器",
+        "BPMN",
+        "状态机"
+      ],
+      "wordCount": 15460,
+      "id": "8564397e83baab21"
+    },
+    {
+      "filename": "营销自动化_营销自动化平台高可用设计.json",
+      "title": "营销自动化平台高可用设计",
+      "description": "营销自动化平台的高可用架构设计，包括高可用原则、容错机制、灾备方案和容量规划",
+      "category": "01_技术IT领域/营销自动化",
+      "tags": [
+        "营销自动化",
+        "高可用",
+        "容错",
+        "灾备",
+        "容量规划"
+      ],
+      "wordCount": 13337,
+      "id": "a6dbf651389fdf9a"
+    },
+    {
+      "filename": "营销自动化_营销自动化平台架构设计.json",
+      "title": "营销自动化平台架构设计",
+      "description": "营销自动化平台的总体架构设计，包括系统架构、技术选型和演进规划",
+      "category": "01_技术IT领域/营销自动化",
+      "tags": [
+        "营销自动化",
+        "架构设计",
+        "分布式系统",
+        "实时计算"
+      ],
+      "wordCount": 7678,
+      "id": "393314f1f06715ac"
+    },
+    {
+      "filename": "营销自动化_用户旅程编排系统设计.json",
+      "title": "用户旅程编排系统设计",
+      "description": "用户旅程编排(Customer Journey Orchestration)系统的设计原理、核心功能与实现方案",
+      "category": "01_技术IT领域/营销自动化",
+      "tags": [
+        "营销自动化",
+        "用户旅程",
+        "流程编排",
+        "可视化设计器"
+      ],
+      "wordCount": 10657,
+      "id": "4c55c06cfc56701c"
+    },
+    {
+      "filename": "云原生_服务网格.json",
+      "title": "服务网格",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "教育心理学",
-        "案例分析",
-        "教学实践"
+        "云原生",
+        "Service Mesh",
+        "Istio",
+        "微服务",
+        "流量管理"
       ],
-      "wordCount": 4160,
-      "id": "a2c3c35dc85d4b1c"
+      "wordCount": 5045,
+      "id": "394287f581a1ab61"
     },
     {
-      "filename": "中学_教育心理学知识.json",
-      "title": "教育心理学知识",
+      "filename": "云原生_云原生安全.json",
+      "title": "云原生安全",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "01_技术IT领域/云原生",
       "tags": [
-        "教育心理学",
-        "学习理论",
-        "学生心理"
+        "云原生",
+        "安全",
+        "容器安全",
+        "镜像安全",
+        "运行时安全",
+        "网络安全"
       ],
-      "wordCount": 5273,
-      "id": "3f7a8875e981abc4"
-    },
-    {
-      "filename": "中学_教育学基础知识.json",
-      "title": "教育学基础知识",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "教育学",
-        "基础知识",
-        "教育理论"
-      ],
-      "wordCount": 2777,
-      "id": "f0460d10e2cbd9fe"
-    },
-    {
-      "filename": "中学_教育研究方法.json",
-      "title": "教育研究方法",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "教育研究",
-        "研究方法",
-        "教师专业发展"
-      ],
-      "wordCount": 4369,
-      "id": "e259e78f89d8bb0a"
-    },
-    {
-      "filename": "中学_学科知识与教学能力.json",
-      "title": "学科知识与教学能力",
-      "description": "",
-      "category": "教师资格证/中学",
-      "tags": [
-        "学科知识",
-        "教学能力",
-        "专业素养"
-      ],
-      "wordCount": 3972,
-      "id": "cdfec0b48388b79b"
-    },
-    {
-      "filename": "考研专业课_管理类联考备考.json",
-      "title": "管理类联考备考：数学逻辑写作三科攻略",
-      "description": "管理类联考数学基础、逻辑推理和写作的完整备考指南",
-      "category": "考研专业课",
-      "tags": [
-        "管理类联考",
-        "逻辑推理",
-        "数学",
-        "写作",
-        "论证有效性分析"
-      ],
-      "wordCount": 1229,
-      "id": "1c13e3b5c6355f4d"
-    },
-    {
-      "filename": "考研专业课_计算机学科基础.json",
-      "title": "计算机学科基础：数据结构到网络全解析",
-      "description": "数据结构、计算机组成原理、操作系统和计算机网络的考研核心知识点",
-      "category": "考研专业课",
-      "tags": [
-        "数据结构",
-        "操作系统",
-        "计算机网络",
-        "算法",
-        "考研计算机"
-      ],
-      "wordCount": 1640,
-      "id": "62fa8bb23d5e46b4"
-    },
-    {
-      "filename": "考研专业课_教育学原理备考.json",
-      "title": "教育学原理备考：从教育本质到师生关系",
-      "description": "教育学原理、教育心理学、中外教育史、教育研究方法和课程教学德育的完整备考指南",
-      "category": "考研专业课",
-      "tags": [
-        "教育学",
-        "教育心理学",
-        "教育史",
-        "课程理论",
-        "德育原理",
-        "教师学生"
-      ],
-      "wordCount": 1616,
-      "id": "7654cfedd671ad7d"
-    },
-    {
-      "filename": "考研专业课_心理学考研指南.json",
-      "title": "心理学考研指南：五科备考策略与复习规划",
-      "description": "心理学考研概述、普通心理学、发展心理学、实验心理学和心理统计测量的备考指南",
-      "category": "考研专业课",
-      "tags": [
-        "心理学考研",
-        "复习规划",
-        "普通心理学",
-        "实验心理学",
-        "心理统计"
-      ],
-      "wordCount": 1493,
-      "id": "5a8a73ebc72161b9"
-    },
-    {
-      "filename": "人力资源管理师_绩效管理.json",
-      "title": "绩效管理",
-      "description": "绩效管理的体系、方法和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "绩效管理"
-      ],
-      "wordCount": 756,
-      "id": "3df6d718c061ee27"
-    },
-    {
-      "filename": "人力资源管理师_劳动法规.json",
-      "title": "劳动法规",
-      "description": "劳动法规的基本内容、应用和合规管理",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "劳动法规"
-      ],
-      "wordCount": 1072,
-      "id": "40b246defbcf3d65"
+      "wordCount": 5713,
+      "id": "d558946929079ad9"
     }
   ]
 }

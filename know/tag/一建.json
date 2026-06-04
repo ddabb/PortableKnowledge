@@ -8,20 +8,20 @@
       "filename": "建造师_核心考点.json",
       "title": "建造师考试核心考点",
       "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
-      "category": "建造师",
+      "category": "02_考试证书领域/建造师",
       "tags": [
         "建造师",
         "一建",
         "二建"
       ],
       "wordCount": 4763,
-      "id": "891b181955bf8c6c"
+      "id": "50bf5b01e320e7be"
     },
     {
       "filename": "一级建造师_公路工程管理与实务.json",
       "title": "公路工程管理与实务",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "公路工程",
@@ -29,13 +29,13 @@
         "建造师"
       ],
       "wordCount": 2920,
-      "id": "fc359992b46f3ed3"
+      "id": "77595659eb7ad8c5"
     },
     {
       "filename": "一级建造师_机电工程管理与实务.json",
       "title": "机电工程管理与实务",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "机电工程",
@@ -43,26 +43,26 @@
         "建造师"
       ],
       "wordCount": 3153,
-      "id": "a7b57ed1618be4bb"
+      "id": "bf280c5d35137672"
     },
     {
       "filename": "一级建造师_建设工程法规及相关知识.json",
       "title": "建设工程法规及相关知识",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "法规",
         "建造师"
       ],
       "wordCount": 559,
-      "id": "7eef789c72cc2e71"
+      "id": "219e98537a029939"
     },
     {
       "filename": "一级建造师_建设工程法律法规实务.json",
       "title": "建设工程法律法规实务",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "法律法规",
@@ -83,26 +83,26 @@
         "质量保修"
       ],
       "wordCount": 5957,
-      "id": "fa1244339a69ec42"
+      "id": "a18d12d9e3d7ba4e"
     },
     {
       "filename": "一级建造师_建设工程经济.json",
       "title": "建设工程经济",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "工程经济",
         "建造师"
       ],
       "wordCount": 4608,
-      "id": "ca0d0ae8cf075c84"
+      "id": "5ea51924817b72cd"
     },
     {
       "filename": "一级建造师_建设工程项目管理.json",
       "title": "建设工程项目管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "项目管理",
@@ -110,13 +110,13 @@
         "建造师"
       ],
       "wordCount": 629,
-      "id": "7159a8aa660324b4"
+      "id": "33bd3f0771b14ecb"
     },
     {
       "filename": "一级建造师_建筑工程管理与实务.json",
       "title": "建筑工程管理与实务",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "建筑工程",
@@ -124,13 +124,13 @@
         "建造师"
       ],
       "wordCount": 1811,
-      "id": "30f9152bdb630791"
+      "id": "9d3a4f09af8ead86"
     },
     {
       "filename": "一级建造师_施工技术与管理.json",
       "title": "施工技术与管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "施工技术",
@@ -138,13 +138,13 @@
         "建造师"
       ],
       "wordCount": 2233,
-      "id": "24279326babd9df0"
+      "id": "4430c577a660190d"
     },
     {
       "filename": "一级建造师_市政公用工程管理与实务.json",
       "title": "市政公用工程管理与实务",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "市政工程",
@@ -155,13 +155,13 @@
         "市政公用工程项目施工相关法规与标准"
       ],
       "wordCount": 3101,
-      "id": "5793250af66a75fb"
+      "id": "0fc003b565ad9a5b"
     },
     {
       "filename": "一级建造师_水利水电工程管理与实务.json",
       "title": "水利水电工程管理与实务",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "水利水电工程",
@@ -169,13 +169,13 @@
         "建造师"
       ],
       "wordCount": 299,
-      "id": "c1e52e11bb2d17af"
+      "id": "e622795e09345f8f"
     },
     {
       "filename": "一级建造师_项目安全管理.json",
       "title": "项目安全管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "安全管理",
@@ -183,13 +183,13 @@
         "建造师"
       ],
       "wordCount": 5118,
-      "id": "45de03bdcf1f0f2c"
+      "id": "f7d98057a932cebf"
     },
     {
       "filename": "一级建造师_项目成本管理.json",
       "title": "项目成本管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "成本管理",
@@ -197,13 +197,13 @@
         "建造师"
       ],
       "wordCount": 2412,
-      "id": "37ba86cbdaa95f4c"
+      "id": "6d88037d28eea534"
     },
     {
       "filename": "一级建造师_项目风险管理.json",
       "title": "项目风险管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "风险管理",
@@ -211,13 +211,13 @@
         "建造师"
       ],
       "wordCount": 3402,
-      "id": "8c658d432fcf62f0"
+      "id": "ff3efa7b7514b8ca"
     },
     {
       "filename": "一级建造师_项目沟通管理.json",
       "title": "项目沟通管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "沟通管理",
@@ -225,13 +225,13 @@
         "建造师"
       ],
       "wordCount": 2709,
-      "id": "cecb4e65997daedd"
+      "id": "d8d85ae9e6a51459"
     },
     {
       "filename": "一级建造师_项目管理实务.json",
       "title": "项目管理实务",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "项目管理",
@@ -239,13 +239,13 @@
         "建造师"
       ],
       "wordCount": 5027,
-      "id": "592f2ac643888a83"
+      "id": "087ce78176fb3b9f"
     },
     {
       "filename": "一级建造师_项目合同管理.json",
       "title": "项目合同管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "合同管理",
@@ -260,13 +260,13 @@
         "合同管理实务"
       ],
       "wordCount": 3449,
-      "id": "26b9c0766862828c"
+      "id": "ef79ded8d01f38df"
     },
     {
       "filename": "一级建造师_项目进度管理.json",
       "title": "项目进度管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "进度管理",
@@ -274,13 +274,13 @@
         "建造师"
       ],
       "wordCount": 3123,
-      "id": "d3e3167c6698282e"
+      "id": "1a7a33fcc5e04913"
     },
     {
       "filename": "一级建造师_项目收尾管理.json",
       "title": "项目收尾管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "收尾管理",
@@ -288,13 +288,13 @@
         "建造师"
       ],
       "wordCount": 2866,
-      "id": "ae4580952208ff40"
+      "id": "e3f35b58ca2093c4"
     },
     {
       "filename": "一级建造师_项目质量管理.json",
       "title": "项目质量管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "02_考试证书领域/建造师/一级建造师",
       "tags": [
         "一建",
         "质量管理",
@@ -302,7 +302,7 @@
         "建造师"
       ],
       "wordCount": 4656,
-      "id": "ef5aeb98d5443572"
+      "id": "24dccee12c4214ec"
     }
   ]
 }

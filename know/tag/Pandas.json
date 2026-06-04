@@ -8,7 +8,7 @@
       "filename": "Python数据分析_Pandas高级数据处理.json",
       "title": "Pandas高级数据处理",
       "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -19,13 +19,13 @@
         "数据分析"
       ],
       "wordCount": 9337,
-      "id": "1c55029bf4ae44b4"
+      "id": "9f2b17b764fffcbc"
     },
     {
       "filename": "Python数据分析_Pandas基础.json",
       "title": "Pandas基础",
       "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -34,13 +34,13 @@
         "Series"
       ],
       "wordCount": 10550,
-      "id": "258855724483295f"
+      "id": "968779257c57b71c"
     },
     {
       "filename": "Python数据分析_Python数据分析基础.json",
       "title": "Python数据分析基础",
       "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
-      "category": "数据分析师/Python数据分析",
+      "category": "01_技术IT领域/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -50,7 +50,7 @@
         "数据分析"
       ],
       "wordCount": 10145,
-      "id": "e3e9daf172bc90aa"
+      "id": "830622b92a8a111e"
     }
   ]
 }

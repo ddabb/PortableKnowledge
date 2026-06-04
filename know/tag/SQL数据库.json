@@ -8,7 +8,7 @@
       "filename": "SQL数据库_窗口函数.json",
       "title": "SQL窗口函数",
       "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -16,13 +16,13 @@
         "Window Functions"
       ],
       "wordCount": 9326,
-      "id": "755ac7c09bbbacab"
+      "id": "d52149a403771162"
     },
     {
       "filename": "SQL数据库_SQL窗口函数.json",
       "title": "SQL窗口函数",
       "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -31,13 +31,13 @@
         "数据分析"
       ],
       "wordCount": 9748,
-      "id": "0640b04a4e030b50"
+      "id": "c87ac21a62f93013"
     },
     {
       "filename": "SQL数据库_多表连接.json",
       "title": "SQL多表连接",
       "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -45,13 +45,13 @@
         "JOIN"
       ],
       "wordCount": 11305,
-      "id": "3e58a7ce48a92ddc"
+      "id": "4c9d83baa2e75ad8"
     },
     {
       "filename": "SQL数据库_SQL多表连接.json",
       "title": "SQL多表连接",
       "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -60,13 +60,13 @@
         "数据分析"
       ],
       "wordCount": 8928,
-      "id": "98f21c7ba430dfe8"
+      "id": "a7b97952ea9c4f31"
     },
     {
       "filename": "SQL数据库_分组聚合.json",
       "title": "SQL分组聚合",
       "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -75,13 +75,13 @@
         "聚合函数"
       ],
       "wordCount": 9890,
-      "id": "ed472be2cb41192d"
+      "id": "23d9fe65f9a1a33f"
     },
     {
       "filename": "SQL数据库_SQL高级查询.json",
       "title": "SQL高级查询",
       "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -93,13 +93,13 @@
         "数据分析"
       ],
       "wordCount": 8225,
-      "id": "c2edfb15bd75b236"
+      "id": "3abf1418542fa9e5"
     },
     {
       "filename": "SQL数据库_SQL基础.json",
       "title": "SQL基础",
       "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -108,13 +108,13 @@
         "WHERE"
       ],
       "wordCount": 8372,
-      "id": "be4b4354f95f1004"
+      "id": "eb485a941f5016fc"
     },
     {
       "filename": "SQL数据库_基础查询.json",
       "title": "SQL基础查询",
       "description": "SQL基础查询是数据分析师最常用的技能，包括SELECT语句、WHERE过滤、ORDER BY排序、LIMIT限制等核心操作",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -122,13 +122,13 @@
         "SELECT"
       ],
       "wordCount": 9500,
-      "id": "e78cfd8085599efa"
+      "id": "7b0aba6f346a7293"
     },
     {
       "filename": "SQL数据库_SQL基础查询.json",
       "title": "SQL基础查询",
       "description": "SQL基础查询是数据分析师操作数据库的基本技能，掌握SELECT、WHERE、GROUP BY、HAVING、ORDER BY等子句是进行数据查询和分析的基础",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -141,13 +141,13 @@
         "数据分析"
       ],
       "wordCount": 7051,
-      "id": "86f4946ddc372b74"
+      "id": "7b417b49c928625f"
     },
     {
       "filename": "SQL数据库_SQL数据分析实战.json",
       "title": "SQL数据分析实战",
       "description": "SQL数据分析实战涵盖使用SQL进行数据查询、数据聚合、数据分组、数据筛选等操作，是数据分析师日常工作的核心技能",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -158,13 +158,13 @@
         "数据分析"
       ],
       "wordCount": 8873,
-      "id": "dec50c58c2e60022"
+      "id": "1d8122d7ae316304"
     },
     {
       "filename": "SQL数据库_SQL性能优化.json",
       "title": "SQL性能优化",
       "description": "SQL性能优化是数据分析师必须掌握的技能，包括索引优化、查询优化、执行计划分析等，掌握这些技能能有效提升数据分析效率",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -175,13 +175,13 @@
         "数据分析"
       ],
       "wordCount": 8680,
-      "id": "f9fca9a70f72fd99"
+      "id": "93b8d619188627ec"
     },
     {
       "filename": "SQL数据库_子查询.json",
       "title": "SQL子查询",
       "description": "子查询是嵌套在其他SQL语句中的查询，用于复杂条件过滤、多表关联分析，是数据分析师必备技能",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -189,13 +189,13 @@
         "Subquery"
       ],
       "wordCount": 10233,
-      "id": "b70bfeda43252eed"
+      "id": "0605b245c9cbe13b"
     },
     {
       "filename": "SQL数据库_SQL子查询.json",
       "title": "SQL子查询",
       "description": "SQL子查询（Subquery）是嵌套在另一个SQL语句中的查询，用于解决复杂的数据提取需求",
-      "category": "数据分析师/SQL数据库",
+      "category": "01_技术IT领域/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -204,7 +204,7 @@
         "嵌套查询"
       ],
       "wordCount": 8655,
-      "id": "3bd5c770e7e8db64"
+      "id": "bb9120c004a63061"
     }
   ]
 }
