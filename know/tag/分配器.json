@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "分配器",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "系统编程_内存管理实现.json",
+      "title": "内存管理实现",
+      "description": "",
+      "category": "系统编程",
+      "tags": [
+        "系统编程",
+        "内存管理",
+        "虚拟内存",
+        "分配器",
+        "性能优化"
+      ],
+      "wordCount": 5255,
+      "id": "cbc3ffb80becf229"
+    }
+  ]
+}

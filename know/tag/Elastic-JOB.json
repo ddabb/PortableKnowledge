@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "Elastic-JOB",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "分布式系统_分布式调度.json",
+      "title": "分布式调度",
+      "description": "",
+      "category": "分布式系统",
+      "tags": [
+        "分布式调度",
+        "任务调度",
+        "调度框架",
+        "Quartz",
+        "XXL-JOB",
+        "Elastic-JOB"
+      ],
+      "wordCount": 4248,
+      "id": "63fde656956a948d"
+    }
+  ]
+}

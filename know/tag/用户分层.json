@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "用户分层",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "业务分析方法_RFM分析.json",
+      "title": "RFM分析",
+      "description": "RFM分析是用户价值分析的重要方法，通过最近一次消费(Recency)、消费频率(Frequency)、消费金额(Monetary)三个指标对用户进行分层",
+      "category": "数据分析师/业务分析方法",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "RFM分析",
+        "用户价值分析",
+        "用户分层",
+        "数据分析"
+      ],
+      "wordCount": 7945,
+      "id": "049f3fb242920b6b"
+    }
+  ]
+}

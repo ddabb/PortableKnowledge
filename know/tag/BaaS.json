@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "BaaS",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "云原生_Serverless与函数计算.json",
+      "title": "Serverless与函数计算",
+      "description": "",
+      "category": "云原生",
+      "tags": [
+        "云原生",
+        "Serverless",
+        "函数计算",
+        "FaaS",
+        "BaaS",
+        "Knative"
+      ],
+      "wordCount": 4651,
+      "id": "5c8f7e124270a075"
+    }
+  ]
+}

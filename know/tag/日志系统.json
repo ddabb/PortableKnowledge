@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "tag": "日志系统",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "数据库内核_存储引擎实现.json",
+      "title": "存储引擎实现",
+      "description": "存储引擎的核心实现技术，重点分析InnoDB、RocksDB等主流存储引擎的架构设计、关键数据结构和实现细节",
+      "category": "数据库内核",
+      "tags": [
+        "存储引擎",
+        "InnoDB",
+        "RocksDB",
+        "LSM-Tree",
+        "B+树",
+        "缓冲池",
+        "日志系统"
+      ],
+      "wordCount": 8982,
+      "id": "2f2afbd6a62753a7"
+    }
+  ]
+}

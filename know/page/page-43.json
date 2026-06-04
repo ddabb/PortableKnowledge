@@ -1,0 +1,288 @@
+{
+  "page": 43,
+  "totalPages": 44,
+  "totalItems": 867,
+  "items": [
+    {
+      "filename": "审计_特殊项目审计.json",
+      "title": "特殊项目审计",
+      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "特殊项目",
+        "舞弊风险"
+      ],
+      "wordCount": 1074,
+      "id": "ad003efcd7a46dec"
+    },
+    {
+      "filename": "审计_销售与收款循环审计.json",
+      "title": "销售与收款循环审计",
+      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "销售与收款循环",
+        "内部控制"
+      ],
+      "wordCount": 1067,
+      "id": "883f48c880c7679e"
+    },
+    {
+      "filename": "审计_注册会计师职业道德.json",
+      "title": "注册会计师职业道德",
+      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
+      "category": "注册会计师/审计",
+      "tags": [
+        "CPA",
+        "审计",
+        "职业道德",
+        "基本原则"
+      ],
+      "wordCount": 1126,
+      "id": "a1173c0d033fea11"
+    },
+    {
+      "filename": "税法_车船税.json",
+      "title": "车船税",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "车船税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 419,
+      "id": "f18e2515104afc66"
+    },
+    {
+      "filename": "税法_房产税.json",
+      "title": "房产税",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "房产税",
+        "税法",
+        "CPA",
+        "财产税"
+      ],
+      "wordCount": 2857,
+      "id": "877daef2d9bb5f59"
+    },
+    {
+      "filename": "税法_个人所得税概述.json",
+      "title": "个人所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 550,
+      "id": "9ddf90f68934eb79"
+    },
+    {
+      "filename": "税法_个人所得税税收优惠.json",
+      "title": "个人所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 549,
+      "id": "215c769b099e3c2f"
+    },
+    {
+      "filename": "税法_个人所得税应纳税额计算.json",
+      "title": "个人所得税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "个人所得税",
+        "应纳税额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 759,
+      "id": "978350a148cbae33"
+    },
+    {
+      "filename": "税法_企业所得税概述.json",
+      "title": "企业所得税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 395,
+      "id": "d73ba40442f0aeea"
+    },
+    {
+      "filename": "税法_企业所得税税收优惠.json",
+      "title": "企业所得税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 929,
+      "id": "de2aa7c5c7accbcc"
+    },
+    {
+      "filename": "税法_企业所得税应纳税所得额.json",
+      "title": "企业所得税应纳税所得额",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "应纳税所得额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 941,
+      "id": "2307cec8cfad239d"
+    },
+    {
+      "filename": "税法_土地增值税.json",
+      "title": "土地增值税",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "土地增值税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 638,
+      "id": "e7718a8ce428646e"
+    },
+    {
+      "filename": "税法_消费税概述.json",
+      "title": "消费税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "消费税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 489,
+      "id": "8a60a154349ac4a8"
+    },
+    {
+      "filename": "税法_消费税税收优惠.json",
+      "title": "消费税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "消费税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 318,
+      "id": "c8ecba9b705482cf"
+    },
+    {
+      "filename": "税法_消费税应纳税额计算.json",
+      "title": "消费税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "消费税",
+        "应纳税额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 647,
+      "id": "6894c86a560d13be"
+    },
+    {
+      "filename": "税法_增值税概述.json",
+      "title": "增值税概述",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "增值税",
+        "税法",
+        "CPA"
+      ],
+      "wordCount": 393,
+      "id": "4c1eeec0434a501d"
+    },
+    {
+      "filename": "税法_增值税税收优惠.json",
+      "title": "增值税税收优惠",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "增值税",
+        "税收优惠",
+        "减免税",
+        "CPA"
+      ],
+      "wordCount": 1223,
+      "id": "541e58286de87b05"
+    },
+    {
+      "filename": "税法_增值税应纳税额计算.json",
+      "title": "增值税应纳税额计算",
+      "description": "",
+      "category": "注册会计师/税法",
+      "tags": [
+        "增值税",
+        "应纳税额",
+        "计算",
+        "CPA"
+      ],
+      "wordCount": 511,
+      "id": "acaeaa880437f40f"
+    },
+    {
+      "filename": "AI推理加速_分布式推理.json",
+      "title": "分布式推理",
+      "description": "分布式推理的核心技术、并行策略、通信优化和实战案例，涵盖张量并行、流水线并行、序列并行、数据并行等",
+      "category": "AI推理加速",
+      "tags": [
+        "分布式推理",
+        "张量并行",
+        "流水线并行",
+        "序列并行",
+        "数据并行",
+        "模型并行",
+        "通信优化"
+      ],
+      "wordCount": 9452,
+      "id": "ed1ce0a5e956dd93"
+    },
+    {
+      "filename": "AI推理加速_模型量化技术.json",
+      "title": "模型量化技术",
+      "description": "模型量化技术的原理、方法、工具链和实战案例，涵盖训练后量化、量化感知训练、GPTQ、AWQ等主流量化算法",
+      "category": "AI推理加速",
+      "tags": [
+        "模型量化",
+        "训练后量化",
+        "量化感知训练",
+        "GPTQ",
+        "AWQ",
+        "INT8量化",
+        "INT4量化",
+        "模型压缩"
+      ],
+      "wordCount": 10756,
+      "id": "def0789a38f91035"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 title: SQL多表连接
 description: SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式
-category: 数据分析师/SQL
+category: 数据分析师
 tags:
   - 数据分析师
   - SQL

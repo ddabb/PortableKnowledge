@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "tag": "异构计算",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "高性能计算_异构计算.json",
+      "title": "异构计算",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "异构计算",
+        "CPU",
+        "GPU",
+        "FPGA",
+        "ASIC",
+        "编程模型"
+      ],
+      "wordCount": 7451,
+      "id": "f7fe9e88f9f70ee2"
+    },
+    {
+      "filename": "高性能计算_GPU加速计算.json",
+      "title": "GPU加速计算",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "GPU加速",
+        "CUDA",
+        "并行计算",
+        "异构计算"
+      ],
+      "wordCount": 5854,
+      "id": "f7f8c65ac0b64385"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "tag": "MinIO",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "分布式系统_分布式存储.json",
+      "title": "分布式存储",
+      "description": "",
+      "category": "分布式系统",
+      "tags": [
+        "分布式存储",
+        "HDFS",
+        "Ceph",
+        "MinIO",
+        "对象存储",
+        "块存储",
+        "文件存储"
+      ],
+      "wordCount": 5878,
+      "id": "8bcf78f0e0f45280"
+    }
+  ]
+}

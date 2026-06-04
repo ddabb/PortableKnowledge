@@ -1,6 +1,6 @@
 ---
 title: SQL性能优化
-description: SQL性能优化是数据分析师处理大数据集的关键技能，包括索引优化、查询重写、执行计划分析等
+description: SQL性能优化是数据分析师必须掌握的技能，包括索引优化、查询优化、执行计划分析等，掌握这些技能能有效提升数据分析效率
 category: 数据分析师/SQL数据库
 tags:
   - 数据分析师
@@ -8,6 +8,7 @@ tags:
   - SQL性能优化
   - 索引优化
   - 查询优化
+  - 执行计划
   - 数据分析
 ---
 
@@ -15,40 +16,41 @@ tags:
 
 ## 定义
 
-SQL性能优化是**通过优化索引、重写查询、分析执行计划等手段，提高SQL查询效率**的技术。
+**SQL性能优化**是通过**索引优化、查询优化、执行计划分析**等手段，提升SQL查询效率的过程。
 
-对于数据分析师而言，SQL性能优化是**处理大数据集、减少查询时间**的核心技能。
+对于数据分析师而言，掌握**SQL性能优化**，是**处理大规模数据、提高分析效率**的关键技能。
 
 ---
 
 ## 核心概念
 
-### 1. 性能优化的核心目标
+### 1. 索引
 
-| 目标 | 说明 |
-|------|------|
-| **减少I/O** | 减少磁盘读写次数 |
-| **减少CPU消耗** | 优化计算逻辑 |
-| **减少内存消耗** | 优化数据缓存 |
-| **减少网络传输** | 减少返回数据量 |
+| 概念 | 说明 | 示例 |
+|------|------|------|
+| **索引** | 提高查询速度的数据结构 | `CREATE INDEX idx_employee_name ON employees(employee_name)` |
+| **聚集索引** | 数据行存储顺序与索引顺序相同 | 主键索引通常是聚集索引 |
+| **非聚集索引** | 索引顺序与数据行存储顺序不同 | 普通索引通常是非聚集索引 |
+| **复合索引** | 包含多个列的索引 | `CREATE INDEX idx_department_salary ON employees(department, salary)` |
+| **唯一索引** | 确保索引列值唯一 | `CREATE UNIQUE INDEX idx_email ON employees(email)` |
 
-### 2. 性能优化的主要手段
+### 2. 查询优化
 
-| 手段 | 说明 |
-|------|------|
-| **索引优化** | 创建合适的索引，加速查询 |
-| **查询重写** | 重写SQL语句，提高执行效率 |
-| **执行计划分析** | 使用EXPLAIN分析查询执行计划，找出性能瓶颈 |
-| **数据库设计优化** | 优化表结构、分区、分表等 |
+| 概念 | 说明 | 示例 |
+|------|------|------|
+| **查询优化** | 通过重写查询、调整索引等手段提高查询效率 | 避免使用SELECT *、使用合适的JOIN类型 |
+| **执行计划** | 数据库执行查询的步骤和成本估算 | `EXPLAIN SELECT * FROM employees WHERE department = 'IT'` |
+| **查询缓存** | 缓存查询结果，提高重复查询速度 | 某些数据库支持查询缓存 |
+| **分区** | 将大表分割成多个小表 | 按日期范围分区 |
 
-### 3. 索引的类型
+### 3. 执行计划分析
 
-| 索引类型 | 说明 |
-|----------|------|
-| **B-Tree索引** | 默认索引类型，适用于等值查询和范围查询 |
-| **哈希索引** | 适用于等值查询，不适用于范围查询 |
-| **全文索引** | 适用于文本搜索 |
-| **复合索引** | 多个列组成的索引 |
+| 概念 | 说明 | 示例 |
+|------|------|------|
+| **执行计划** | 数据库执行查询的步骤和成本估算 | `EXPLAIN SELECT * FROM employees WHERE department = 'IT'` |
+| **全表扫描** | 扫描整个表，效率低 | `SELECT * FROM employees`（没有WHERE条件） |
+| **索引扫描** | 使用索引进行扫描，效率较高 | `SELECT * FROM employees WHERE employee_id = 1`（employee_id有索引） |
+| **JOIN类型** | 不同的JOIN方式，效率不同 | INNER JOIN、LEFT JOIN、RIGHT JOIN等 |
 
 ---
 
@@ -56,302 +58,320 @@ SQL性能优化是**通过优化索引、重写查询、分析执行计划等手
 
 ### 一、索引优化
 
-#### 1.1 创建索引的原则
+#### 1.1 创建索引
 
-**原则**：
-1. 经常在WHERE子句中使用的列
-2. 经常在JOIN子句中使用的列
-3. 经常在ORDER BY和GROUP BY子句中使用的列
-4. 选择性高的列（不同值多的列）
-5. 避免在频繁更新的列上创建索引（索引维护成本高）
-
-#### 1.2 创建索引的示例
-
+**基本语法**：
 ```sql
--- 在users表的email列上创建索引
-CREATE INDEX idx_email ON users(email);
-
--- 在orders表的user_id和order_time列上创建复合索引
-CREATE INDEX idx_user_id_order_time ON orders(user_id, order_time);
+CREATE INDEX index_name ON table_name(column1, column2, ...);
 ```
 
-#### 1.3 删除索引的示例
-
+**示例1：创建普通索引**
 ```sql
--- 删除索引
-DROP INDEX idx_email ON users;
+CREATE INDEX idx_employee_name ON employees(employee_name);
 ```
 
-#### 1.4 查看索引的示例
-
+**示例2：创建复合索引**
 ```sql
--- 查看表中的索引
-SHOW INDEX FROM users;
+CREATE INDEX idx_department_salary ON employees(department, salary);
 ```
+
+**示例3：创建唯一索引**
+```sql
+CREATE UNIQUE INDEX idx_email ON employees(email);
+```
+
+#### 1.2 删除索引
+
+**基本语法**：
+```sql
+DROP INDEX index_name ON table_name;
+```
+
+**示例**：
+```sql
+DROP INDEX idx_employee_name ON employees;
+```
+
+#### 1.3 索引使用原则
+
+**适合创建索引的列**：
+- 经常出现在WHERE子句中的列
+- 经常出现在JOIN条件中的列
+- 经常出现在ORDER BY或GROUP BY子句中的列
+
+**不适合创建索引的列**：
+- 数据量小的表
+- 经常更新的列
+- 数据重复度高的列（如性别）
 
 ---
 
-### 二、查询重写
+### 二、查询优化
 
 #### 2.1 避免使用SELECT *
 
 **不推荐**（使用SELECT *）：
-
 ```sql
-SELECT * FROM users;
+SELECT * FROM employees;
 ```
 
-**推荐**（使用明确的列名）：
-
+**推荐**（指定列名）：
 ```sql
-SELECT id, name, email FROM users;
+SELECT employee_id, employee_name, department FROM employees;
 ```
 
-**理由**：
-- 减少数据传输量
-- 提高查询性能
-- 避免表结构变更带来的影响
+**原因**：
+- 减少网络传输量
+- 减少内存消耗
+- 可能使用索引覆盖
 
-#### 2.2 使用WHERE替代HAVING
+#### 2.2 使用合适的JOIN类型
 
-**不推荐**（在HAVING中进行过滤）：
-
+**示例1：INNER JOIN**
 ```sql
-SELECT user_id, COUNT(*) AS order_count
-FROM orders
-GROUP BY user_id
-HAVING user_id > 100;
+SELECT 
+    e.employee_name,
+    d.department_name
+FROM 
+    employees e
+INNER JOIN 
+    departments d ON e.department_id = d.department_id;
 ```
 
-**推荐**（在WHERE中进行过滤）：
-
+**示例2：LEFT JOIN**
 ```sql
-SELECT user_id, COUNT(*) AS order_count
-FROM orders
-WHERE user_id > 100
-GROUP BY user_id;
+SELECT 
+    e.employee_name,
+    d.department_name
+FROM 
+    employees e
+LEFT JOIN 
+    departments d ON e.department_id = d.department_id;
 ```
 
-**理由**：
-- WHERE在分组前过滤，减少分组的数据量
-- HAVING在分组后过滤，效率更低
+**选择原则**：
+- 需要匹配两个表的数据 → INNER JOIN
+- 需要保留左表全部数据 → LEFT JOIN
+- 需要保留右表全部数据 → RIGHT JOIN
 
-#### 2.3 使用EXISTS替代IN
+#### 2.3 使用WHERE子句过滤数据
 
-**不推荐**（使用IN，子查询结果集很大时性能差）：
-
+**不推荐**（先查询所有数据，再过滤）：
 ```sql
-SELECT * FROM users
-WHERE user_id IN (SELECT user_id FROM orders);
+SELECT * FROM employees;
+-- 然后在应用程序中过滤department = 'IT'的数据
 ```
 
-**推荐**（使用EXISTS，性能更优）：
-
+**推荐**（在数据库层过滤数据）：
 ```sql
-SELECT * FROM users u
-WHERE EXISTS (SELECT 1 FROM orders o WHERE o.user_id = u.user_id);
+SELECT * FROM employees WHERE department = 'IT';
 ```
 
-**理由**：
-- EXISTS在找到第一个匹配项后就停止搜索
-- IN需要将子查询结果集全部加载到内存
+**原因**：
+- 减少网络传输量
+- 减少内存消耗
+- 可能使用索引
 
-#### 2.4 使用JOIN替代子查询
+#### 2.4 使用LIMIT分页查询
 
-**不推荐**（使用子查询，性能可能较差）：
-
+**不推荐**（查询所有数据）：
 ```sql
-SELECT * FROM users
-WHERE user_id IN (SELECT user_id FROM orders WHERE amount > 100);
+SELECT * FROM employees;
 ```
 
-**推荐**（使用JOIN，性能更优）：
-
+**推荐**（分页查询）：
 ```sql
-SELECT DISTINCT u.* FROM users u
-INNER JOIN orders o ON u.user_id = o.user_id
-WHERE o.amount > 100;
+SELECT * FROM employees LIMIT 10 OFFSET 0;  -- 第一页
+SELECT * FROM employees LIMIT 10 OFFSET 10; -- 第二页
 ```
-
-**理由**：
-- JOIN通常比子查询更高效
-- 数据库优化器更容易优化JOIN
 
 ---
 
 ### 三、执行计划分析
 
-#### 3.1 使用EXPLAIN分析查询执行计划
+#### 3.1 查看执行计划
 
-**示例**：
-
+**MySQL**：
 ```sql
-EXPLAIN SELECT * FROM users WHERE email = 'test@example.com';
+EXPLAIN SELECT * FROM employees WHERE department = 'IT';
 ```
 
-**输出示例**（MySQL）：
-
-```
-+----+-------------+-------+------------+------+---------------+----------+---------+-------+------+----------+-------+
-| id | select_type | table | partitions | type | possible_keys | key      | key_len | ref   | rows | filtered | Extra |
-+----+-------------+-------+------------+------+---------------+----------+---------+-------+------+----------+-------+
-|  1 | SIMPLE      | users | NULL       | ref  | idx_email     | idx_email| 1023    | const |    1 |   100.00 | NULL  |
-+----+-------------+-------+------------+------+---------------+----------+---------+-------+------+----------+-------+
-```
-
-**关键字段解释**：
-- **type**：访问类型（system > const > eq_ref > ref > range > index > ALL）
-- **key**：实际使用的索引
-- **rows**：估计扫描的行数
-- **Extra**：额外信息（Using index、Using where、Using temporary、Using filesort等）
-
-#### 3.2 优化查询执行计划
-
-**示例**：
-
+**PostgreSQL**：
 ```sql
--- 未优化：全表扫描
-EXPLAIN SELECT * FROM users WHERE age > 18;
-
--- 优化：在age列上创建索引
-CREATE INDEX idx_age ON users(age);
-EXPLAIN SELECT * FROM users WHERE age > 18;
+EXPLAIN ANALYZE SELECT * FROM employees WHERE department = 'IT';
 ```
 
----
-
-### 四、数据库设计优化
-
-#### 4.1 分区表（Partitioning）
-
-**原理**：将大表分成多个小表，提高查询性能
-
-**示例**（按时间分区）：
-
+**SQL Server**：
 ```sql
--- 创建分区表
-CREATE TABLE orders (
-    order_id INT,
-    user_id INT,
-    order_time DATETIME,
-    amount DECIMAL(10, 2)
-)
-PARTITION BY RANGE (YEAR(order_time)) (
-    PARTITION p2020 VALUES LESS THAN (2021),
-    PARTITION p2021 VALUES LESS THAN (2022),
-    PARTITION p2022 VALUES LESS THAN (2023),
-    PARTITION p2023 VALUES LESS THAN (2024)
-);
+SET STATISTICS PROFILE ON;
+SELECT * FROM employees WHERE department = 'IT';
+SET STATISTICS PROFILE OFF;
 ```
 
-#### 4.2 分表（Sharding）
+#### 3.2 执行计划关键指标
 
-**原理**：将大表拆分成多个小表，分布在不同的数据库服务器上
+| 指标 | 说明 | 优化目标 |
+|------|------|----------|
+| **type** | 访问类型（ALL、index、range、ref、eq_ref、const） | 避免ALL（全表扫描） |
+| **key** | 实际使用的索引 | 使用合适的索引 |
+| **rows** | 扫描的行数 | 减少扫描行数 |
+| **Extra** | 额外信息（Using where、Using index、Using temporary、Using filesort） | 避免Using temporary、Using filesort |
 
-**示例**（按用户ID分表）：
+#### 3.3 执行计划优化示例
 
+**示例1：全表扫描 → 索引扫描**
 ```sql
--- 用户表拆分成多个小表
-users_0, users_1, users_2, ... users_9
+-- 优化前：全表扫描
+EXPLAIN SELECT * FROM employees WHERE department = 'IT';
+-- type: ALL, rows: 1000
+
+-- 创建索引
+CREATE INDEX idx_department ON employees(department);
+
+-- 优化后：索引扫描
+EXPLAIN SELECT * FROM employees WHERE department = 'IT';
+-- type: ref, rows: 10
+```
+
+**示例2：Using filesort → 索引排序**
+```sql
+-- 优化前：使用filesort
+EXPLAIN SELECT * FROM employees ORDER BY hire_date;
+-- Extra: Using filesort
+
+-- 创建索引
+CREATE INDEX idx_hire_date ON employees(hire_date);
+
+-- 优化后：索引排序
+EXPLAIN SELECT * FROM employees ORDER BY hire_date;
+-- Extra: Using index
 ```
 
 ---
 
 ## 示例/应用场景
 
-### 示例1：电商用户分析 - 查询高价值用户
+### 示例1：电商销售数据分析
 
-**业务问题**：查询订单总金额大于10000的用户。
+**业务问题**：分析电商销售数据，查询销售额TOP10的商品，查询速度慢。
 
-**未优化查询**：
+**数据**：电商销售数据表（商品ID、商品名称、销售额、销量）
 
+**优化前**：
 ```sql
-SELECT user_id, SUM(amount) AS total_amount
-FROM orders
-GROUP BY user_id
-HAVING SUM(amount) > 10000;
-```
-
-**优化后查询**：
-
-```sql
--- 1. 在amount列上创建索引
-CREATE INDEX idx_amount ON orders(amount);
-
--- 2. 使用WHERE替代HAVING
-SELECT user_id, SUM(amount) AS total_amount
-FROM orders
-WHERE amount > 0  -- 提前过滤
-GROUP BY user_id
-HAVING SUM(amount) > 10000;
-```
-
-**洞察与建议**：
-- 通过创建索引，加速查询
-- 通过使用WHERE替代HAVING，减少分组的数据量
-
-### 示例2：电商销售分析 - 查询月度销售趋势
-
-**业务问题**：查询2023年每月的销售额。
-
-**未优化查询**：
-
-```sql
-SELECT DATE_FORMAT(order_time, '%Y-%m') AS month, SUM(amount) AS monthly_sales
-FROM orders
-WHERE order_time >= '2023-01-01' AND order_time < '2024-01-01'
-GROUP BY DATE_FORMAT(order_time, '%Y-%m');
-```
-
-**优化后查询**：
-
-```sql
--- 1. 在order_time列上创建索引
-CREATE INDEX idx_order_time ON orders(order_time);
-
--- 2. 使用分区表（按年度分区）
--- 参见“数据库设计优化”部分的示例
-```
-
-**洞察与建议**：
-- 通过创建索引，加速查询
-- 通过使用分区表，减少扫描的数据量
-
-### 示例3：电商商品分析 - 查询热门商品
-
-**业务问题**：查询销量前10的商品。
-
-**未优化查询**：
-
-```sql
-SELECT product_id, SUM(quantity) AS total_sold
-FROM order_items
-GROUP BY product_id
-ORDER BY total_sold DESC
+-- 没有索引，全表扫描
+SELECT 
+    product_id AS 商品ID,
+    product_name AS 商品名称,
+    sales_amount AS 销售额
+FROM 
+    sales_data
+ORDER BY 
+    sales_amount DESC
 LIMIT 10;
 ```
 
-**优化后查询**：
-
+**优化后**：
 ```sql
--- 1. 在product_id和quantity列上创建复合索引
-CREATE INDEX idx_product_id_quantity ON order_items(product_id, quantity);
+-- 创建索引
+CREATE INDEX idx_sales_amount ON sales_data(sales_amount DESC);
 
--- 2. 使用子查询或CTE优化
-WITH product_sales AS (
-    SELECT product_id, SUM(quantity) AS total_sold
-    FROM order_items
-    GROUP BY product_id
-)
-SELECT product_id, total_sold
-FROM product_sales
-ORDER BY total_sold DESC
+-- 使用索引，索引扫描
+SELECT 
+    product_id AS 商品ID,
+    product_name AS 商品名称,
+    sales_amount AS 销售额
+FROM 
+    sales_data
+ORDER BY 
+    sales_amount DESC
 LIMIT 10;
 ```
 
 **洞察与建议**：
-- 通过创建复合索引，加速查询
-- 通过使用CTE，提高代码可读性
+- 创建索引后，查询速度显著提升
+- 可以针对其他常用查询条件创建索引
+- 定期分析执行计划，持续优化查询性能
+
+### 示例2：电商用户行为分析
+
+**业务问题**：分析电商用户行为，查询各用户类型的访问量，查询速度慢。
+
+**数据**：电商用户行为数据表（用户ID、用户类型、访问量、日期）
+
+**优化前**：
+```sql
+-- 没有索引，全表扫描
+SELECT 
+    user_type AS 用户类型,
+    SUM(visit_count) AS 总访问量
+FROM 
+    user_behavior_data
+GROUP BY 
+    user_type;
+```
+
+**优化后**：
+```sql
+-- 创建复合索引
+CREATE INDEX idx_user_type_visit_count ON user_behavior_data(user_type, visit_count);
+
+-- 使用索引，索引扫描
+SELECT 
+    user_type AS 用户类型,
+    SUM(visit_count) AS 总访问量
+FROM 
+    user_behavior_data
+GROUP BY 
+    user_type;
+```
+
+**洞察与建议**：
+- 创建复合索引后，查询速度显著提升
+- 可以针对其他常用分组条件创建索引
+- 定期分析执行计划，持续优化查询性能
+
+### 示例3：电商商品价格分析
+
+**业务问题**：分析电商商品价格，查询各品类商品价格分布，查询速度慢。
+
+**数据**：电商商品价格数据表（商品ID、品类、价格）
+
+**优化前**：
+```sql
+-- 没有索引，全表扫描
+SELECT 
+    category AS 品类,
+    AVG(price) AS 平均价格,
+    MAX(price) AS 最高价格,
+    MIN(price) AS 最低价格
+FROM 
+    product_price_data
+GROUP BY 
+    category;
+```
+
+**优化后**：
+```sql
+-- 创建复合索引
+CREATE INDEX idx_category_price ON product_price_data(category, price);
+
+-- 使用索引，索引扫描
+SELECT 
+    category AS 品类,
+    AVG(price) AS 平均价格,
+    MAX(price) AS 最高价格,
+    MIN(price) AS 最低价格
+FROM 
+    product_price_data
+GROUP BY 
+    category;
+```
+
+**洞察与建议**：
+- 创建复合索引后，查询速度显著提升
+- 可以针对其他常用分组条件创建索引
+- 定期分析执行计划，持续优化查询性能
 
 ---
 
@@ -359,219 +379,211 @@ LIMIT 10;
 
 ### SQL性能优化常见考点
 
-1. **性能优化的核心目标**：减少I/O、减少CPU消耗、减少内存消耗、减少网络传输
-2. **性能优化的主要手段**：索引优化、查询重写、执行计划分析、数据库设计优化
-3. **索引的类型**：B-Tree索引、哈希索引、全文索引、复合索引
-4. **创建索引的原则**：经常在WHERE子句中使用的列、经常在JOIN子句中使用的列、经常在ORDER BY和GROUP BY子句中使用的列、选择性高的列、避免在频繁更新的列上创建索引
-5. **查询重写技巧**：避免使用SELECT *、使用WHERE替代HAVING、使用EXISTS替代IN、使用JOIN替代子查询
-6. **执行计划分析**：使用EXPLAIN分析查询执行计划，找出性能瓶颈
-7. **数据库设计优化**：分区表、分表
+1. **索引**：索引、聚集索引、非聚集索引、复合索引、唯一索引
+2. **查询优化**：查询优化、执行计划、查询缓存、分区
+3. **执行计划分析**：执行计划、全表扫描、索引扫描、JOIN类型
+4. **SQL性能优化应用**：电商销售数据分析、电商用户行为分析、电商商品价格分析
 
 ### 实战考点
 
-1. **电商用户分析**：
-   - 如何优化查询高价值用户的SQL
-   - 如何优化查询用户活跃度的SQL
-2. **电商销售分析**：
-   - 如何优化查询月度销售趋势的SQL
-   - 如何优化查询销售额排名的SQL
+1. **电商销售分析**：
+   - 如何使用SQL性能优化技术优化销售数据分析
+   - 如何创建合适的索引提高查询速度
+   - 如何分析执行计划并优化查询性能
+2. **电商用户分析**：
+   - 如何使用SQL性能优化技术优化用户行为分析
+   - 如何创建合适的索引提高查询速度
+   - 如何分析执行计划并优化查询性能
 3. **电商商品分析**：
-   - 如何优化查询热门商品的SQL
-   - 如何优化查询商品销量的SQL
+   - 如何使用SQL性能优化技术优化商品价格分析
+   - 如何创建合适的索引提高查询速度
+   - 如何分析执行计划并优化查询性能
 
 ---
 
 ## 最佳实践
 
-### 1. 创建合适的索引
+### 1. 根据查询需求，创建合适的索引
 
-**不推荐**（没有索引，导致全表扫描）：
-
+**不推荐**（盲目创建索引）：
 ```sql
-SELECT * FROM users WHERE email = 'test@example.com';
+-- 无论什么查询需求，都创建索引
+CREATE INDEX idx_employee_name ON employees(employee_name);
+CREATE INDEX idx_employee_name_department ON employees(employee_name, department);
+CREATE INDEX idx_employee_name_salary ON employees(employee_name, salary);
+...
 ```
 
-**推荐**（在email列上创建索引）：
-
+**推荐**（根据查询需求，创建合适的索引）：
 ```sql
-CREATE INDEX idx_email ON users(email);
-SELECT * FROM users WHERE email = 'test@example.com';
+-- 分析常用查询条件，创建合适的索引
+-- 经常出现在WHERE子句中的列 → 创建索引
+CREATE INDEX idx_department ON employees(department);
+
+-- 经常出现在JOIN条件中的列 → 创建索引
+CREATE INDEX idx_department_id ON employees(department_id);
+
+-- 经常出现在ORDER BY或GROUP BY子句中的列 → 创建索引
+CREATE INDEX idx_hire_date ON employees(hire_date);
 ```
 
 ### 2. 避免使用SELECT *
 
 **不推荐**（使用SELECT *）：
-
 ```sql
-SELECT * FROM users;
+SELECT * FROM employees;
 ```
 
-**推荐**（使用明确的列名）：
-
+**推荐**（指定列名）：
 ```sql
-SELECT id, name, email FROM users;
+SELECT employee_id, employee_name, department FROM employees;
 ```
 
-### 3. 使用WHERE替代HAVING
+### 3. 使用合适的JOIN类型
 
-**不推荐**（在HAVING中进行过滤）：
-
+**不推荐**（盲目使用INNER JOIN）：
 ```sql
-SELECT user_id, COUNT(*) AS order_count
-FROM orders
-GROUP BY user_id
-HAVING user_id > 100;
+-- 无论什么需求，都使用INNER JOIN
+SELECT 
+    e.employee_name,
+    d.department_name
+FROM 
+    employees e
+INNER JOIN 
+    departments d ON e.department_id = d.department_id;
 ```
 
-**推荐**（在WHERE中进行过滤）：
-
+**推荐**（根据需求，使用合适的JOIN类型）：
 ```sql
-SELECT user_id, COUNT(*) AS order_count
-FROM orders
-WHERE user_id > 100
-GROUP BY user_id;
+-- 需要匹配两个表的数据 → INNER JOIN
+SELECT 
+    e.employee_name,
+    d.department_name
+FROM 
+    employees e
+INNER JOIN 
+    departments d ON e.department_id = d.department_id;
+
+-- 需要保留左表全部数据 → LEFT JOIN
+SELECT 
+    e.employee_name,
+    d.department_name
+FROM 
+    employees e
+LEFT JOIN 
+    departments d ON e.department_id = d.department_id;
 ```
 
-### 4. 使用EXISTS替代IN
+### 4. 结合业务场景解释优化结果
 
-**不推荐**（使用IN，子查询结果集很大时性能差）：
-
+**不推荐**（只报告优化结果）：
 ```sql
-SELECT * FROM users
-WHERE user_id IN (SELECT user_id FROM orders);
+-- 查询速度从10秒提升到1秒
 ```
 
-**推荐**（使用EXISTS，性能更优）：
-
+**推荐**（结合业务场景解释优化结果）：
 ```sql
-SELECT * FROM users u
-WHERE EXISTS (SELECT 1 FROM orders o WHERE o.user_id = u.user_id);
-```
-
-### 5. 使用JOIN替代子查询
-
-**不推荐**（使用子查询，性能可能较差）：
-
-```sql
-SELECT * FROM users
-WHERE user_id IN (SELECT user_id FROM orders WHERE amount > 100);
-```
-
-**推荐**（使用JOIN，性能更优）：
-
-```sql
-SELECT DISTINCT u.* FROM users u
-INNER JOIN orders o ON u.user_id = o.user_id
-WHERE o.amount > 100;
+-- 查询速度从10秒提升到1秒，说明索引优化效果显著。
+-- 可以根据此结果，继续针对其他常用查询条件创建索引，进一步提升查询性能。
 ```
 
 ---
 
 ## 常见错误
 
-### 1. 在频繁更新的列上创建索引
+### 1. 盲目创建索引
 
 **错误示例**：
-
 ```sql
--- 在status列上创建索引（status列频繁更新）
-CREATE INDEX idx_status ON orders(status);
-```
-
-**正确做法**：
-
-```sql
--- 在频繁查询但很少更新的列上创建索引
-CREATE INDEX idx_user_id ON orders(user_id);
-```
-
-### 2. 创建过多的索引
-
-**错误示例**：
-
-```sql
--- 在每一个列上都创建索引（索引维护成本高）
-CREATE INDEX idx_id ON users(id);
-CREATE INDEX idx_name ON users(name);
-CREATE INDEX idx_email ON users(email);
-CREATE INDEX idx_age ON users(age);
-CREATE INDEX idx_gender ON users(gender);
+-- 无论什么查询需求，都创建索引
+CREATE INDEX idx_employee_name ON employees(employee_name);
+CREATE INDEX idx_employee_name_department ON employees(employee_name, department);
+CREATE INDEX idx_employee_name_salary ON employees(employee_name, salary);
 ...
 ```
 
 **正确做法**：
-
 ```sql
--- 只在经常查询的列上创建索引
-CREATE INDEX idx_email ON users(email);
-CREATE INDEX idx_age ON users(age);
+-- 分析常用查询条件，创建合适的索引
 ```
 
-### 3. 使用SELECT *
+### 2. 不使用索引覆盖
 
 **错误示例**：
-
 ```sql
-SELECT * FROM users;
+-- 查询列不在索引中，无法使用索引覆盖
+CREATE INDEX idx_department ON employees(department);
+SELECT employee_name, salary FROM employees WHERE department = 'IT';
 ```
 
 **正确做法**：
-
 ```sql
-SELECT id, name, email FROM users;
+-- 创建复合索引，覆盖查询列
+CREATE INDEX idx_department_employee_name_salary ON employees(department, employee_name, salary);
+SELECT employee_name, salary FROM employees WHERE department = 'IT';
 ```
 
-### 4. 在HAVING中进行过滤
+### 3. 不分析执行计划
 
 **错误示例**：
-
 ```sql
-SELECT user_id, COUNT(*) AS order_count
-FROM orders
-GROUP BY user_id
-HAVING user_id > 100;
+-- 不分析执行计划，盲目优化
+SELECT * FROM employees WHERE department = 'IT';
 ```
 
 **正确做法**：
-
 ```sql
-SELECT user_id, COUNT(*) AS order_count
-FROM orders
-WHERE user_id > 100
-GROUP BY user_id;
+-- 分析执行计划，针对性优化
+EXPLAIN SELECT * FROM employees WHERE department = 'IT';
 ```
 
-### 5. 不使用EXPLAIN分析查询执行计划
+### 4. 不结合业务场景解释优化结果
 
 **错误示例**：
-
 ```sql
-SELECT * FROM users WHERE email = 'test@example.com';
+-- 查询速度从10秒提升到1秒
 ```
 
 **正确做法**：
-
 ```sql
-EXPLAIN SELECT * FROM users WHERE email = 'test@example.com';
+-- 查询速度从10秒提升到1秒，说明索引优化效果显著。
+-- 可以根据此结果，继续针对其他常用查询条件创建索引，进一步提升查询性能。
+```
+
+### 5. 过度创建索引
+
+**错误示例**：
+```sql
+-- 为每个列都创建索引
+CREATE INDEX idx_employee_id ON employees(employee_id);
+CREATE INDEX idx_employee_name ON employees(employee_name);
+CREATE INDEX idx_department ON employees(department);
+CREATE INDEX idx_salary ON employees(salary);
+CREATE INDEX idx_hire_date ON employees(hire_date);
+...
+```
+
+**正确做法**：
+```sql
+-- 只为常用查询条件创建索引
+CREATE INDEX idx_department ON employees(department);
+CREATE INDEX idx_hire_date ON employees(hire_date);
 ```
 
 ---
 
 ## 总结
 
-SQL性能优化是数据分析师处理大数据集的关键技能，关键要点包括：
+SQL性能优化是数据分析师处理大规模数据、提高分析效率的关键技能，关键要点包括：
 
-1. **掌握性能优化的核心目标**：减少I/O、减少CPU消耗、减少内存消耗、减少网络传输
-2. **熟练使用性能优化的主要手段**：索引优化、查询重写、执行计划分析、数据库设计优化
-3. **理解索引的类型**：B-Tree索引、哈希索引、全文索引、复合索引
-4. **掌握创建索引的原则**：经常在WHERE子句中使用的列、经常在JOIN子句中使用的列、经常在ORDER BY和GROUP BY子句中使用的列、选择性高的列、避免在频繁更新的列上创建索引
-5. **熟练使用查询重写技巧**：避免使用SELECT *、使用WHERE替代HAVING、使用EXISTS替代IN、使用JOIN替代子查询
-6. **熟练使用执行计划分析**：使用EXPLAIN分析查询执行计划，找出性能瓶颈
-7. **了解数据库设计优化**：分区表、分表
-8. **注意最佳实践**：创建合适的索引、避免使用SELECT *、使用WHERE替代HAVING、使用EXISTS替代IN、使用JOIN替代子查询
-9. **避免常见错误**：在频繁更新的列上创建索引、创建过多的索引、使用SELECT *、在HAVING中进行过滤、不使用EXPLAIN分析查询执行计划
+1. **掌握索引**：索引、聚集索引、非聚集索引、复合索引、唯一索引
+2. **掌握查询优化**：查询优化、执行计划、查询缓存、分区
+3. **掌握执行计划分析**：执行计划、全表扫描、索引扫描、JOIN类型
+4. **熟练应用SQL性能优化**：电商销售数据分析、电商用户行为分析、电商商品价格分析
+5. **注意最佳实践**：根据查询需求创建合适的索引、避免使用SELECT *、使用合适的JOIN类型、结合业务场景解释优化结果
+6. **避免常见错误**：盲目创建索引、不使用索引覆盖、不分析执行计划、不结合业务场景解释优化结果、过度创建索引
 
-SQL性能优化是数据分析师的必备技能，需要在实践中不断积累经验。
+SQL性能优化是数据分析师的高级技能，需要在实践中不断积累经验。
 
 ---
 
@@ -579,20 +591,18 @@ SQL性能优化是数据分析师的必备技能，需要在实践中不断积�
 
 ### 高级主题
 
-1. **索引合并（Index Merge）**：多个索引合并使用
-2. **覆盖索引（Covering Index）**：索引包含所有需要的列，避免回表
-3. **查询缓存（Query Cache）**：缓存查询结果
-4. **数据库连接池（Connection Pool）**：复用数据库连接
+1. **高级索引技术**：部分索引、表达式索引、覆盖索引
+2. **高级查询优化**：子查询优化、JOIN优化、UNION优化
+3. **高级执行计划分析**：复杂查询执行计划分析、执行计划缓存
+4. **数据库分区**：范围分区、列表分区、哈希分区
 
 ### 实战案例
 
-1. **电商用户分析**：优化查询高价值用户的SQL、优化查询用户活跃度的SQL
-2. **电商销售分析**：优化查询月度销售趋势的SQL、优化查询销售额排名的SQL
-3. **电商商品分析**：优化查询热门商品的SQL、优化查询商品销量的SQL
-4. **金融数据分析**：优化查询股票价格的SQL、优化查询交易记录的SQL
+1. **电商销售分析**：销售数据查询优化、销售趋势分析优化、品类对比分析优化
+2. **电商用户分析**：用户行为查询优化、用户画像分析优化、用户流失分析优化
+3. **电商商品分析**：商品价格查询优化、商品销量预测优化、商品推荐分析优化
+4. **金融数据分析**：股票价格查询优化、风险分析优化、投资组合分析优化
 
 ---
 
-**注**：本文件内容适用于所有需要优化SQL性能的分析场景，是数据分析师的必备知识。
-
----
+**注**：本文件内容适用于所有需要使用SQL进行大规模数据分析和性能优化的场景，是数据分析师的高级技能。

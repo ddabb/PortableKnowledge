@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "tag": "Redo日志",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "数据库内核_故障恢复实现.json",
+      "title": "故障恢复实现",
+      "description": "数据库故障恢复的核心概念、实现原理、WAL技术、ARIES算法、检查点机制及最佳实践",
+      "category": "数据库内核",
+      "tags": [
+        "数据库内核",
+        "故障恢复",
+        "WAL",
+        "ARIES算法",
+        "检查点",
+        "Redo日志",
+        "Undo日志"
+      ],
+      "wordCount": 6228,
+      "id": "f0f168c04194fe35"
+    }
+  ]
+}

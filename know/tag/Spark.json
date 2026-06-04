@@ -1,9 +1,25 @@
 {
   "meta": {
     "tag": "Spark",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "分布式系统_分布式计算.json",
+      "title": "分布式计算",
+      "description": "",
+      "category": "分布式系统",
+      "tags": [
+        "分布式计算",
+        "MapReduce",
+        "Spark",
+        "Flink",
+        "批处理",
+        "流处理"
+      ],
+      "wordCount": 6159,
+      "id": "e157c0abb4cd3b60"
+    },
     {
       "filename": "引论_大数据.json",
       "title": "大数据",

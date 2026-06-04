@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "分布式内存",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "高性能计算_分布式内存并行.json",
+      "title": "分布式内存并行",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "分布式内存",
+        "MPI",
+        "并行计算",
+        "集群计算"
+      ],
+      "wordCount": 5761,
+      "id": "99dd606235dca419"
+    }
+  ]
+}

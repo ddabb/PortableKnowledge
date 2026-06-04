@@ -1,9 +1,25 @@
 {
   "meta": {
     "tag": "配置管理",
-    "count": 8
+    "count": 9
   },
   "articles": [
+    {
+      "filename": "分布式系统_分布式配置中心.json",
+      "title": "分布式配置中心",
+      "description": "",
+      "category": "分布式系统",
+      "tags": [
+        "分布式配置中心",
+        "配置管理",
+        "Apollo",
+        "Nacos",
+        "Consul",
+        "Spring Cloud Config"
+      ],
+      "wordCount": 4373,
+      "id": "503659ad2c91a081"
+    },
     {
       "filename": "配置与变更管理_配置项与配置基线.json",
       "title": "配置项与配置基线",

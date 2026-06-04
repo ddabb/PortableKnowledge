@@ -1,311 +1,323 @@
 {
   "page": 27,
-  "totalPages": 36,
-  "totalItems": 720,
+  "totalPages": 44,
+  "totalItems": 867,
   "items": [
     {
-      "filename": "Python数据分析_数据清洗与预处理.json",
-      "title": "数据清洗与预处理",
-      "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
-      "category": "数据分析师/Python数据分析",
+      "filename": "健康养生_心脑血管疾病预防.json",
+      "title": "心脑血管疾病预防：从风险评估到生活方式",
+      "description": "全面的心脑血管疾病预防指南，包括风险评估、生活方式调整、监测治疗和常见误区。",
+      "category": "生活通识/健康养生",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "数据清洗",
-        "数据预处理",
-        "缺失值处理",
-        "异常值处理",
-        "数据分析"
+        "心脑血管",
+        "高血压",
+        "心梗",
+        "脑卒中",
+        "预防"
       ],
-      "wordCount": 12373,
-      "id": "d9aa0068a0606808"
+      "wordCount": 1634,
+      "id": "c4417273bc472c20"
     },
     {
-      "filename": "Python数据分析_NumPy基础.json",
-      "title": "NumPy基础",
-      "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
-      "category": "数据分析师/Python数据分析",
+      "filename": "健康养生_压力识别与管理.json",
+      "title": "压力识别与管理：从认知到行动的减压方案",
+      "description": "理解压力的本质与类型，掌握立即减压技术、认知重构和长期压力管理策略",
+      "category": "生活通识/健康养生",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "NumPy",
-        "数组操作",
-        "数值计算"
+        "压力管理",
+        "认知重构",
+        "减压技术",
+        "正念冥想",
+        "焦虑"
       ],
-      "wordCount": 9306,
-      "id": "27b450b610ab9b26"
+      "wordCount": 1757,
+      "id": "9da04485903a06a5"
     },
     {
-      "filename": "Python数据分析_Pandas基础.json",
-      "title": "Pandas基础",
-      "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
-      "category": "数据分析师/Python数据分析",
+      "filename": "健康养生_运动与心理健康.json",
+      "title": "运动与心理健康：动起来，心情好",
+      "description": "运动和心理健康的知识，包括运动建议、压力管理和情绪调节方法。",
+      "category": "生活通识/健康养生",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Pandas",
-        "DataFrame",
-        "Series"
+        "运动",
+        "心理健康",
+        "压力管理",
+        "情绪调节",
+        "有氧运动"
       ],
-      "wordCount": 10550,
-      "id": "258855724483295f"
+      "wordCount": 1416,
+      "id": "7a3d3144b94ed2a2"
     },
     {
-      "filename": "Python数据分析_Python数据分析基础.json",
-      "title": "Python数据分析基础",
-      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
-      "category": "数据分析师/Python数据分析",
+      "filename": "社保公积金_社保公积金综合指南.json",
+      "title": "社保公积金综合指南",
+      "description": "全面的社保公积金知识，包括公积金提取、医保报销等内容",
+      "category": "生活通识/社保公积金",
       "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Python基础",
-        "NumPy",
-        "Pandas",
-        "数据分析"
+        "社保",
+        "公积金",
+        "医保",
+        "提取",
+        "报销"
       ],
-      "wordCount": 10145,
-      "id": "e3e9daf172bc90aa"
+      "wordCount": 2643,
+      "id": "10e17f26b87c72d0"
     },
     {
-      "filename": "SQL数据库_窗口函数.json",
-      "title": "SQL窗口函数",
-      "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
-      "category": "数据分析师/SQL数据库",
+      "filename": "自然灾害_地震防范与应急.json",
+      "title": "地震防范与应急",
+      "description": "地震发生时的应对措施、逃生技巧和日常准备，包括震前准备、震时应对、震后行动、自救互救等知识",
+      "category": "生活通识/自然灾害",
       "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "窗口函数",
-        "Window Functions"
+        "地震",
+        "自然灾害",
+        "应急",
+        "逃生",
+        "自救",
+        "互救",
+        "防灾减灾",
+        "地震预警"
       ],
-      "wordCount": 9326,
-      "id": "755ac7c09bbbacab"
+      "wordCount": 4648,
+      "id": "be8e5050f8013cf0"
     },
     {
-      "filename": "SQL数据库_SQL窗口函数.json",
-      "title": "SQL窗口函数",
-      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
-      "category": "数据分析师/SQL数据库",
+      "filename": "自然灾害_洪水防范与应对.json",
+      "title": "洪水防范与应对",
+      "description": "洪水来临前的预防、洪水中的逃生技巧和灾后处理",
+      "category": "生活通识/自然灾害",
       "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "窗口函数",
-        "SQL高级查询",
-        "数据分析"
+        "洪水",
+        "自然灾害",
+        "防汛",
+        "应急"
       ],
-      "wordCount": 9748,
-      "id": "0640b04a4e030b50"
+      "wordCount": 842,
+      "id": "ba444651c5345d81"
     },
     {
-      "filename": "SQL数据库_多表连接.json",
+      "filename": "自然灾害_火灾防范与逃生.json",
+      "title": "火灾防范与逃生",
+      "description": "家庭火灾预防、火灾应对和逃生技巧",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "火灾",
+        "消防",
+        "逃生",
+        "安全"
+      ],
+      "wordCount": 1265,
+      "id": "33c5e8b303ea8044"
+    },
+    {
+      "filename": "自然灾害_台风防范指南.json",
+      "title": "台风防范指南",
+      "description": "台风的形成、预警等级及防范措施",
+      "category": "生活通识/自然灾害",
+      "tags": [
+        "台风",
+        "自然灾害",
+        "风暴",
+        "防汛"
+      ],
+      "wordCount": 943,
+      "id": "2411eb1484625054"
+    },
+    {
+      "filename": "数据分析师_业务分析方法.json",
+      "title": "业务分析方法",
+      "description": "业务分析方法是数据分析师将数据分析结果转化为业务价值的关键能力，包括用户分析、产品分析、运营分析等多个维度",
+      "category": "数据分析师",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "用户分析",
+        "产品分析",
+        "运营分析"
+      ],
+      "wordCount": 6760,
+      "id": "c4cba16d86c004cb"
+    },
+    {
+      "filename": "数据分析师_SQL多表连接.json",
       "title": "SQL多表连接",
-      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
-      "category": "数据分析师/SQL数据库",
+      "description": "SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式",
+      "category": "数据分析师",
       "tags": [
         "数据分析师",
-        "SQL数据库",
+        "SQL",
         "多表连接",
-        "JOIN"
-      ],
-      "wordCount": 11305,
-      "id": "3e58a7ce48a92ddc"
-    },
-    {
-      "filename": "SQL数据库_SQL多表连接.json",
-      "title": "SQL多表连接",
-      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
-      "category": "数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "SQL多表连接",
         "JOIN",
         "数据分析"
       ],
-      "wordCount": 8928,
-      "id": "98f21c7ba430dfe8"
+      "wordCount": 8136,
+      "id": "819c3ef0945bafce"
     },
     {
-      "filename": "SQL数据库_分组聚合.json",
-      "title": "SQL分组聚合",
-      "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
-      "category": "数据分析师/SQL数据库",
+      "filename": "机器学习_机器学习基础.json",
+      "title": "机器学习基础",
+      "description": "机器学习是数据分析的高级技能，通过算法让计算机从数据中学习规律",
+      "category": "数据分析师/机器学习",
       "tags": [
         "数据分析师",
-        "SQL数据库",
-        "分组聚合",
-        "GROUP BY",
-        "聚合函数"
-      ],
-      "wordCount": 9890,
-      "id": "ed472be2cb41192d"
-    },
-    {
-      "filename": "SQL数据库_SQL基础.json",
-      "title": "SQL基础",
-      "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
-      "category": "数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "SQL基础",
-        "SELECT",
-        "WHERE"
-      ],
-      "wordCount": 8372,
-      "id": "be4b4354f95f1004"
-    },
-    {
-      "filename": "SQL数据库_基础查询.json",
-      "title": "SQL基础查询",
-      "description": "SQL基础查询是数据分析师最常用的技能，包括SELECT语句、WHERE过滤、ORDER BY排序、LIMIT限制等核心操作",
-      "category": "数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "基础查询",
-        "SELECT"
-      ],
-      "wordCount": 9500,
-      "id": "e78cfd8085599efa"
-    },
-    {
-      "filename": "SQL数据库_SQL基础查询.json",
-      "title": "SQL基础查询",
-      "description": "SQL基础查询是数据分析师操作数据库的核心技能，包括SELECT、FROM、WHERE、GROUP BY、HAVING、ORDER BY等关键字的使用",
-      "category": "数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "SQL基础查询",
-        "SELECT",
+        "机器学习",
+        "机器学习基础",
+        "监督学习",
+        "无监督学习",
         "数据分析"
       ],
-      "wordCount": 7731,
-      "id": "86f4946ddc372b74"
+      "wordCount": 9212,
+      "id": "7fceb7ef6de3bd35"
     },
     {
-      "filename": "SQL数据库_SQL性能优化.json",
-      "title": "SQL性能优化",
-      "description": "SQL性能优化是数据分析师处理大数据集的关键技能，包括索引优化、查询重写、执行计划分析等",
-      "category": "数据分析师/SQL数据库",
+      "filename": "机器学习_监督学习.json",
+      "title": "监督学习",
+      "description": "监督学习是机器学习的重要分支，使用带标签的数据训练模型",
+      "category": "数据分析师/机器学习",
       "tags": [
         "数据分析师",
-        "SQL数据库",
-        "SQL性能优化",
-        "索引优化",
-        "查询优化",
+        "机器学习",
+        "监督学习",
+        "分类算法",
+        "回归算法",
         "数据分析"
       ],
-      "wordCount": 8061,
-      "id": "f9fca9a70f72fd99"
+      "wordCount": 9281,
+      "id": "9cb12016b55a9160"
     },
     {
-      "filename": "SQL数据库_子查询.json",
-      "title": "SQL子查询",
-      "description": "子查询是嵌套在其他SQL语句中的查询，用于复杂条件过滤、多表关联分析，是数据分析师必备技能",
-      "category": "数据分析师/SQL数据库",
+      "filename": "机器学习_决策树与随机森林.json",
+      "title": "决策树与随机森林",
+      "description": "决策树与随机森林是常用的监督学习算法，用于分类和回归问题",
+      "category": "数据分析师/机器学习",
       "tags": [
         "数据分析师",
-        "SQL数据库",
-        "子查询",
-        "Subquery"
+        "机器学习",
+        "决策树",
+        "随机森林",
+        "监督学习",
+        "分类算法",
+        "回归算法"
       ],
-      "wordCount": 10233,
-      "id": "b70bfeda43252eed"
+      "wordCount": 9365,
+      "id": "be730db88e3febe1"
     },
     {
-      "filename": "SQL数据库_SQL子查询.json",
-      "title": "SQL子查询",
-      "description": "SQL子查询（Subquery）是嵌套在另一个SQL语句中的查询，用于解决复杂的数据提取需求",
-      "category": "数据分析师/SQL数据库",
+      "filename": "机器学习_神经网络与深度学习.json",
+      "title": "神经网络与深度学习",
+      "description": "神经网络与深度学习是机器学习的重要分支，用于解决复杂的非线性问题",
+      "category": "数据分析师/机器学习",
       "tags": [
         "数据分析师",
-        "SQL数据库",
-        "SQL子查询",
-        "Subquery",
-        "嵌套查询"
+        "机器学习",
+        "神经网络",
+        "深度学习",
+        "监督学习",
+        "数据分析"
       ],
-      "wordCount": 8655,
-      "id": "3bd5c770e7e8db64"
+      "wordCount": 12326,
+      "id": "9f3fc40a810f63df"
     },
     {
-      "filename": "发展心理学_发展心理学概论.json",
-      "title": "发展心理学概论：从婴儿到老年的人生旅程",
-      "description": "发展心理学的研究方法、发展理论、各年龄阶段的心理发展特征和语言道德发展",
-      "category": "心理学/发展心理学",
+      "filename": "机器学习_无监督学习.json",
+      "title": "无监督学习",
+      "description": "无监督学习是机器学习的重要分支，使用不带标签的数据训练模型",
+      "category": "数据分析师/机器学习",
       "tags": [
-        "发展心理学",
-        "皮亚杰",
-        "埃里克森",
-        "认知发展",
-        "道德发展",
-        "语言发展"
+        "数据分析师",
+        "机器学习",
+        "无监督学习",
+        "聚类算法",
+        "降维算法",
+        "数据分析"
       ],
-      "wordCount": 1786,
-      "id": "e2cb2ae1be284232"
+      "wordCount": 9555,
+      "id": "cbb321c00f5ca099"
     },
     {
-      "filename": "基础心理学_感知觉与注意.json",
-      "title": "你看到的是真实世界吗？感知觉与注意的惊人真相",
-      "description": "探索感觉与知觉的奥秘，揭示注意的四大品质与三大理论，看清大脑如何构建你的主观世界",
-      "category": "心理学/基础心理学",
+      "filename": "机器学习_支持向量机.json",
+      "title": "支持向量机",
+      "description": "支持向量机是常用的监督学习算法，用于分类和回归问题",
+      "category": "数据分析师/机器学习",
       "tags": [
-        "心理学",
-        "感觉",
-        "知觉",
-        "注意",
-        "错觉",
-        "认知"
+        "数据分析师",
+        "机器学习",
+        "支持向量机",
+        "监督学习",
+        "分类算法",
+        "回归算法"
       ],
-      "wordCount": 3024,
-      "id": "cee322b54dcb0572"
+      "wordCount": 8185,
+      "id": "b1eb49aceaf5ddb4"
     },
     {
-      "filename": "基础心理学_心理学研究方法.json",
-      "title": "心理学研究到底靠谱吗？揭开6种核心方法的神秘面纱",
-      "description": "心理学研究方法全面解析，从实验法到心理测量法，了解心理学家如何探索人类心灵",
-      "category": "心理学/基础心理学",
+      "filename": "实战案例_电商商品价格分析案例.json",
+      "title": "电商商品价格分析案例",
+      "description": "电商商品价格分析案例通过完整分析流程，展示如何使用数据分析技能分析商品价格，提取业务价值",
+      "category": "数据分析师/实战案例",
       "tags": [
-        "心理学",
-        "研究方法",
-        "实验法",
-        "观察法",
-        "调查法",
-        "心理测量"
+        "数据分析师",
+        "实战案例",
+        "电商商品价格分析案例",
+        "数据导入",
+        "数据清洗",
+        "数据探索",
+        "数据可视化",
+        "业务洞察"
       ],
-      "wordCount": 2230,
-      "id": "f30f3b9385a17c36"
+      "wordCount": 7879,
+      "id": "61aacdd9369b85b6"
     },
     {
-      "filename": "人格与行为心理学_人格理论与行为学习.json",
-      "title": "人格、行为与情绪心理学：从理论到应用",
-      "description": "人格理论、行为学习、情绪调节与情商的完整指南",
-      "category": "心理学/人格与行为心理学",
+      "filename": "实战案例_电商数据分析案例.json",
+      "title": "电商数据分析案例",
+      "description": "电商数据分析是数据分析师的核心实战技能，涵盖用户行为分析、商品分析、订单分析等多个维度",
+      "category": "数据分析师/实战案例",
       "tags": [
-        "人格",
-        "行为主义",
-        "情绪调节",
-        "情商",
-        "压力应对"
+        "数据分析师",
+        "实战案例",
+        "电商数据分析",
+        "用户行为分析",
+        "商品分析"
       ],
-      "wordCount": 1406,
-      "id": "b15f781e5bcad30d"
+      "wordCount": 10139,
+      "id": "ee27880558938cdc"
     },
     {
-      "filename": "认知心理学_认知心理学概论.json",
-      "title": "认知心理学：注意、记忆与决策的科学",
-      "description": "认知心理学的研究范围，注意的品质与理论，记忆的编码存储提取和问题解决策略",
-      "category": "心理学/认知心理学",
+      "filename": "实战案例_电商销售数据分析案例.json",
+      "title": "电商销售数据分析案例",
+      "description": "电商销售数据分析案例通过完整分析流程，展示如何使用数据分析技能解决实际业务问题",
+      "category": "数据分析师/实战案例",
       "tags": [
-        "认知心理学",
-        "注意",
-        "记忆",
-        "思维",
-        "问题解决",
-        "决策"
+        "数据分析师",
+        "实战案例",
+        "电商销售数据分析案例",
+        "数据导入",
+        "数据清洗",
+        "数据探索",
+        "数据可视化",
+        "业务洞察"
       ],
-      "wordCount": 1675,
-      "id": "70e95ac2f6755e45"
+      "wordCount": 7693,
+      "id": "1ed484bf52b44dba"
+    },
+    {
+      "filename": "实战案例_电商用户行为分析案例.json",
+      "title": "电商用户行为分析案例",
+      "description": "电商用户行为分析案例通过完整分析流程，展示如何使用数据分析技能分析用户行为，提取业务价值",
+      "category": "数据分析师/实战案例",
+      "tags": [
+        "数据分析师",
+        "实战案例",
+        "电商用户行为分析案例",
+        "数据导入",
+        "数据清洗",
+        "数据探索",
+        "数据可视化",
+        "业务洞察"
+      ],
+      "wordCount": 8259,
+      "id": "ad88cdf0b76d34ba"
     }
   ]
 }

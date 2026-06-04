@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "category": "高性能计算",
+    "count": 6
+  },
+  "articles": [
+    {
+      "filename": "高性能计算_并行计算原理.json",
+      "title": "并行计算原理",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "并行计算",
+        "Amdahl定律",
+        "Gustafson定律",
+        "并行算法"
+      ],
+      "wordCount": 4626,
+      "id": "83155773d622ea24"
+    },
+    {
+      "filename": "高性能计算_分布式内存并行.json",
+      "title": "分布式内存并行",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "分布式内存",
+        "MPI",
+        "并行计算",
+        "集群计算"
+      ],
+      "wordCount": 5761,
+      "id": "99dd606235dca419"
+    },
+    {
+      "filename": "高性能计算_高性能计算概述.json",
+      "title": "高性能计算概述",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "定义",
+        "核心概念",
+        "应用场景",
+        "技术栈"
+      ],
+      "wordCount": 5173,
+      "id": "11ad6430100c6fa5"
+    },
+    {
+      "filename": "高性能计算_共享内存并行.json",
+      "title": "共享内存并行",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "共享内存",
+        "OpenMP",
+        "多线程",
+        "并行编程"
+      ],
+      "wordCount": 5582,
+      "id": "a07cf364b174fed2"
+    },
+    {
+      "filename": "高性能计算_异构计算.json",
+      "title": "异构计算",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "异构计算",
+        "CPU",
+        "GPU",
+        "FPGA",
+        "ASIC",
+        "编程模型"
+      ],
+      "wordCount": 7451,
+      "id": "f7fe9e88f9f70ee2"
+    },
+    {
+      "filename": "高性能计算_GPU加速计算.json",
+      "title": "GPU加速计算",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "GPU加速",
+        "CUDA",
+        "并行计算",
+        "异构计算"
+      ],
+      "wordCount": 5854,
+      "id": "f7f8c65ac0b64385"
+    }
+  ]
+}

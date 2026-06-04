@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "Gustafson定律",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "高性能计算_并行计算原理.json",
+      "title": "并行计算原理",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "并行计算",
+        "Amdahl定律",
+        "Gustafson定律",
+        "并行算法"
+      ],
+      "wordCount": 4626,
+      "id": "83155773d622ea24"
+    }
+  ]
+}

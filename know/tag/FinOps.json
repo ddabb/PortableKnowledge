@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "tag": "FinOps",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "云原生_云原生未来趋势.json",
+      "title": "云原生未来趋势",
+      "description": "",
+      "category": "云原生",
+      "tags": [
+        "云原生",
+        "未来趋势",
+        "eBPF",
+        "WebAssembly",
+        "FinOps",
+        "平台工程",
+        "AI for Ops"
+      ],
+      "wordCount": 5636,
+      "id": "4b57bcc468c23b7a"
+    }
+  ]
+}

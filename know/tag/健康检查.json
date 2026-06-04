@@ -1,9 +1,25 @@
 {
   "meta": {
     "tag": "健康检查",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "分布式系统_分布式服务发现.json",
+      "title": "分布式服务发现",
+      "description": "分布式服务发现的核心概念、实现方案、关键问题及最佳实践",
+      "category": "分布式系统",
+      "tags": [
+        "服务发现",
+        "Consul",
+        "Etcd",
+        "ZooKeeper",
+        "服务注册",
+        "健康检查"
+      ],
+      "wordCount": 6782,
+      "id": "815989436b15a8f0"
+    },
     {
       "filename": "健康养生_健康体检清单.json",
       "title": "健康体检清单：你需要做哪些检查？",

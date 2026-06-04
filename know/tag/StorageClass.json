@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "StorageClass",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "云原生_云原生存储.json",
+      "title": "云原生存储",
+      "description": "",
+      "category": "云原生",
+      "tags": [
+        "云原生",
+        "存储",
+        "PV",
+        "PVC",
+        "StorageClass",
+        "CSI"
+      ],
+      "wordCount": 5277,
+      "id": "ede3436bc5822fee"
+    }
+  ]
+}

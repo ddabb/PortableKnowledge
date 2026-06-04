@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "百度竞价",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "渠道_SEM.json",
+      "title": "SEM",
+      "description": "SEM（搜索引擎营销）是数字营销的重要渠道，通过付费广告在搜索引擎展示广告",
+      "category": "数字营销/渠道",
+      "tags": [
+        "数字营销",
+        "SEM",
+        "搜索引擎营销",
+        "付费广告",
+        "Google Ads",
+        "百度竞价"
+      ],
+      "wordCount": 4903,
+      "id": "bf7bcb504e517ca5"
+    }
+  ]
+}

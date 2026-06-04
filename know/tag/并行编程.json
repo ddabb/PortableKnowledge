@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "并行编程",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "高性能计算_共享内存并行.json",
+      "title": "共享内存并行",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "共享内存",
+        "OpenMP",
+        "多线程",
+        "并行编程"
+      ],
+      "wordCount": 5582,
+      "id": "a07cf364b174fed2"
+    }
+  ]
+}

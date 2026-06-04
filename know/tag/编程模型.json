@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "tag": "编程模型",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "高性能计算_异构计算.json",
+      "title": "异构计算",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "异构计算",
+        "CPU",
+        "GPU",
+        "FPGA",
+        "ASIC",
+        "编程模型"
+      ],
+      "wordCount": 7451,
+      "id": "f7fe9e88f9f70ee2"
+    }
+  ]
+}

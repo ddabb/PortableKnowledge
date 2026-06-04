@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "tag": "MVCC",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "数据库内核_事务处理实现.json",
+      "title": "事务处理实现",
+      "description": "数据库事务处理的核心实现技术，涵盖ACID特性、并发控制（2PL/MVCC/OCC/PCC）、故障恢复（ARIES）和隔离级别实现",
+      "category": "数据库内核",
+      "tags": [
+        "事务处理",
+        "ACID",
+        "并发控制",
+        "2PL",
+        "MVCC",
+        "OCC",
+        "PCC",
+        "故障恢复",
+        "ARIES",
+        "隔离级别"
+      ],
+      "wordCount": 8508,
+      "id": "c953e9fe5caeb684"
+    }
+  ]
+}

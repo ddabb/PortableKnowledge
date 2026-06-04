@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "数据分析师/Python数据分析",
-    "count": 5
+    "count": 8
   },
   "articles": [
     {
@@ -37,6 +37,23 @@
       "id": "d9aa0068a0606808"
     },
     {
+      "filename": "Python数据分析_Matplotlib_Seaborn可视化进阶.json",
+      "title": "Matplotlib/Seaborn可视化进阶",
+      "description": "Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Matplotlib",
+        "Seaborn",
+        "数据可视化",
+        "进阶技巧",
+        "数据分析"
+      ],
+      "wordCount": 9790,
+      "id": "df231dd7719e3552"
+    },
+    {
       "filename": "Python数据分析_NumPy基础.json",
       "title": "NumPy基础",
       "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
@@ -50,6 +67,23 @@
       ],
       "wordCount": 9306,
       "id": "27b450b610ab9b26"
+    },
+    {
+      "filename": "Python数据分析_Pandas高级数据处理.json",
+      "title": "Pandas高级数据处理",
+      "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "高级数据处理",
+        "数据清洗",
+        "数据转换",
+        "数据分析"
+      ],
+      "wordCount": 9337,
+      "id": "1c55029bf4ae44b4"
     },
     {
       "filename": "Python数据分析_Pandas基础.json",
@@ -81,6 +115,24 @@
       ],
       "wordCount": 10145,
       "id": "e3e9daf172bc90aa"
+    },
+    {
+      "filename": "Python数据分析_Scikit-learn机器学习入门.json",
+      "title": "Scikit-learn机器学习入门",
+      "description": "Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Scikit-learn",
+        "机器学习",
+        "预测建模",
+        "监督学习",
+        "无监督学习",
+        "数据分析"
+      ],
+      "wordCount": 12849,
+      "id": "70ba56e04a2466d3"
     }
   ]
 }

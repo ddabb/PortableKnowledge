@@ -1,9 +1,26 @@
 {
   "meta": {
     "tag": "Seaborn",
-    "count": 1
+    "count": 3
   },
   "articles": [
+    {
+      "filename": "数据可视化_Python可视化.json",
+      "title": "Python可视化",
+      "description": "Python可视化通过Matplotlib、Seaborn、Plotly等库实现数据可视化，掌握这些库的用法能有效提升数据分析和可视化能力",
+      "category": "数据分析师/数据可视化",
+      "tags": [
+        "数据分析师",
+        "数据可视化",
+        "Python可视化",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "数据分析"
+      ],
+      "wordCount": 10200,
+      "id": "34ea7997c9e90539"
+    },
     {
       "filename": "Python数据分析_数据可视化基础.json",
       "title": "数据可视化基础",
@@ -18,6 +35,23 @@
       ],
       "wordCount": 9353,
       "id": "5e3c2f6dd90debe5"
+    },
+    {
+      "filename": "Python数据分析_Matplotlib_Seaborn可视化进阶.json",
+      "title": "Matplotlib/Seaborn可视化进阶",
+      "description": "Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Matplotlib",
+        "Seaborn",
+        "数据可视化",
+        "进阶技巧",
+        "数据分析"
+      ],
+      "wordCount": 9790,
+      "id": "df231dd7719e3552"
     }
   ]
 }

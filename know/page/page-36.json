@@ -1,281 +1,327 @@
 {
   "page": 36,
-  "totalPages": 36,
-  "totalItems": 720,
+  "totalPages": 44,
+  "totalItems": 867,
   "items": [
     {
-      "filename": "审计_审计证据.json",
-      "title": "审计证据",
-      "description": "CPA审计审计证据章节核心知识点，包括审计证据的性质、获取方法和评价",
-      "category": "注册会计师/审计",
+      "filename": "营销增长_增长策略与私域运营.json",
+      "title": "增长策略与私域运营：AARRR模型实践指南",
+      "description": "系统化的增长方法论，从AARRR漏斗到私域流量运营的完整指南",
+      "category": "营销增长",
       "tags": [
-        "CPA",
-        "审计",
-        "审计证据",
-        "审计程序"
+        "增长策略",
+        "AARRR",
+        "私域流量",
+        "用户增长",
+        "留存",
+        "变现"
       ],
-      "wordCount": 976,
-      "id": "6286087c31894704"
+      "wordCount": 3302,
+      "id": "f8203cddf7e58939"
     },
     {
-      "filename": "审计_生产与存货循环审计.json",
-      "title": "生产与存货循环审计",
-      "description": "CPA审计生产与存货循环审计章节核心知识点，包括生产与存货循环的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "filename": "营销自动化_可视化流程编排引擎.json",
+      "title": "可视化流程编排引擎",
+      "description": "可视化流程编排引擎的设计原理、核心功能与实现方案，包括拖拽式设计器、流程解析与执行",
+      "category": "营销自动化",
       "tags": [
-        "CPA",
-        "审计",
-        "生产与存货循环",
-        "内部控制"
+        "营销自动化",
+        "流程编排",
+        "可视化设计器",
+        "BPMN",
+        "状态机"
       ],
-      "wordCount": 964,
-      "id": "facd964c35ef171a"
+      "wordCount": 15460,
+      "id": "b9c308c7bdd54116"
     },
     {
-      "filename": "审计_特殊项目审计.json",
-      "title": "特殊项目审计",
-      "description": "CPA审计特殊项目审计章节核心知识点，包括舞弊风险、持续经营和期后事项等特殊项目的审计",
-      "category": "注册会计师/审计",
+      "filename": "营销自动化_营销自动化平台高可用设计.json",
+      "title": "营销自动化平台高可用设计",
+      "description": "营销自动化平台的高可用架构设计，包括高可用原则、容错机制、灾备方案和容量规划",
+      "category": "营销自动化",
       "tags": [
-        "CPA",
-        "审计",
-        "特殊项目",
-        "舞弊风险"
+        "营销自动化",
+        "高可用",
+        "容错",
+        "灾备",
+        "容量规划"
       ],
-      "wordCount": 1074,
-      "id": "ad003efcd7a46dec"
+      "wordCount": 13337,
+      "id": "98f86a1f0dffbe21"
     },
     {
-      "filename": "审计_销售与收款循环审计.json",
-      "title": "销售与收款循环审计",
-      "description": "CPA审计销售与收款循环审计章节核心知识点，包括销售与收款循环的内部控制和审计程序",
-      "category": "注册会计师/审计",
+      "filename": "营销自动化_营销自动化平台架构设计.json",
+      "title": "营销自动化平台架构设计",
+      "description": "营销自动化平台的总体架构设计，包括系统架构、技术选型和演进规划",
+      "category": "营销自动化",
       "tags": [
-        "CPA",
-        "审计",
-        "销售与收款循环",
-        "内部控制"
+        "营销自动化",
+        "架构设计",
+        "分布式系统",
+        "实时计算"
       ],
-      "wordCount": 1067,
-      "id": "883f48c880c7679e"
+      "wordCount": 7678,
+      "id": "706fe1054c334c2b"
     },
     {
-      "filename": "审计_注册会计师职业道德.json",
-      "title": "注册会计师职业道德",
-      "description": "CPA审计注册会计师职业道德章节核心知识点，包括职业道德的基本原则和具体要求",
-      "category": "注册会计师/审计",
+      "filename": "营销自动化_用户旅程编排系统设计.json",
+      "title": "用户旅程编排系统设计",
+      "description": "用户旅程编排(Customer Journey Orchestration)系统的设计原理、核心功能与实现方案",
+      "category": "营销自动化",
       "tags": [
-        "CPA",
-        "审计",
-        "职业道德",
-        "基本原则"
+        "营销自动化",
+        "用户旅程",
+        "流程编排",
+        "可视化设计器"
       ],
-      "wordCount": 1126,
-      "id": "a1173c0d033fea11"
+      "wordCount": 10657,
+      "id": "d52bca0cde07fd5f"
     },
     {
-      "filename": "税法_车船税.json",
-      "title": "车船税",
+      "filename": "营养师_疾病营养.json",
+      "title": "疾病营养",
+      "description": "疾病营养是营养师专业知识的重要组成部分，涉及疾病与营养的关系",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "疾病营养",
+        "糖尿病营养",
+        "高血压营养",
+        "血脂异常营养",
+        "痛风营养",
+        "骨质疏松营养"
+      ],
+      "wordCount": 4786,
+      "id": "9fddd46b1d194dfe"
+    },
+    {
+      "filename": "营养师_人群营养.json",
+      "title": "人群营养",
+      "description": "人群营养是营养师专业知识的重要组成部分，涉及不同人群的营养需求",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "人群营养",
+        "孕妇营养",
+        "婴幼儿营养",
+        "儿童青少年营养",
+        "老年人营养",
+        "运动员营养"
+      ],
+      "wordCount": 5968,
+      "id": "3d7be73903ca8e1c"
+    },
+    {
+      "filename": "营养师_食物营养.json",
+      "title": "食物营养",
+      "description": "食物营养是营养师专业知识的重要组成部分，涉及各类食物的营养价值",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "食物营养",
+        "谷类营养",
+        "蔬菜水果营养",
+        "肉蛋奶营养",
+        "豆类营养",
+        "坚果营养"
+      ],
+      "wordCount": 5112,
+      "id": "aacad0ca940d1f8c"
+    },
+    {
+      "filename": "营养师_营养干预.json",
+      "title": "营养干预",
+      "description": "营养干预是营养师的核心技能，用于制定和实施营养干预方案",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "营养干预",
+        "营养干预方案制定",
+        "营养干预实施",
+        "营养干预效果评价",
+        "营养干预调整"
+      ],
+      "wordCount": 6545,
+      "id": "4640df7cd0483425"
+    },
+    {
+      "filename": "营养师_营养教育.json",
+      "title": "营养教育",
+      "description": "营养教育是营养师的重要工作，用于开展营养知识教育和健康促进",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "营养教育",
+        "营养知识教育",
+        "健康促进",
+        "营养传播",
+        "营养行为改变"
+      ],
+      "wordCount": 6331,
+      "id": "df5b81fa2a7af2f6"
+    },
+    {
+      "filename": "营养师_营养评估.json",
+      "title": "营养评估",
+      "description": "营养评估是营养师的核心技能，用于评估个体或群体的营养状况",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "营养评估",
+        "膳食调查",
+        "人体测量",
+        "生化检查",
+        "临床检查",
+        "营养状况评估"
+      ],
+      "wordCount": 5276,
+      "id": "9ad8b1983bb444cc"
+    },
+    {
+      "filename": "营养师_营养师概述.json",
+      "title": "营养师概述",
+      "description": "营养师是从事营养指导、营养评估和营养干预工作的专业人员",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "营养指导",
+        "营养评估",
+        "营养干预",
+        "营养学基础",
+        "食物营养",
+        "人群营养",
+        "疾病营养"
+      ],
+      "wordCount": 5463,
+      "id": "d5c3c15444275dff"
+    },
+    {
+      "filename": "营养师_营养学基础.json",
+      "title": "营养学基础",
+      "description": "营养学基础是营养师专业知识的核心，包括营养素、能量代谢和营养需求",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "营养学基础",
+        "营养素",
+        "能量代谢",
+        "营养需求",
+        "营养素功能",
+        "营养素缺乏"
+      ],
+      "wordCount": 6275,
+      "id": "d916cf344e4295c4"
+    },
+    {
+      "filename": "营养师_营养咨询.json",
+      "title": "营养咨询",
+      "description": "营养咨询是营养师的核心技能，用于提供个体化的营养咨询服务",
+      "category": "营养师",
+      "tags": [
+        "营养师",
+        "营养咨询",
+        "营养咨询流程",
+        "营养咨询技巧",
+        "营养咨询沟通",
+        "营养咨询记录"
+      ],
+      "wordCount": 8524,
+      "id": "2340c033e7feaf0d"
+    },
+    {
+      "filename": "云原生_服务网格.json",
+      "title": "服务网格",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "云原生",
       "tags": [
-        "车船税",
-        "税法",
-        "CPA"
+        "云原生",
+        "Service Mesh",
+        "Istio",
+        "微服务",
+        "流量管理"
       ],
-      "wordCount": 419,
-      "id": "f18e2515104afc66"
+      "wordCount": 5045,
+      "id": "c837f943d0368f86"
     },
     {
-      "filename": "税法_房产税.json",
-      "title": "房产税",
+      "filename": "云原生_云原生安全.json",
+      "title": "云原生安全",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "云原生",
       "tags": [
-        "房产税",
-        "税法",
-        "CPA",
-        "财产税"
+        "云原生",
+        "安全",
+        "容器安全",
+        "镜像安全",
+        "运行时安全",
+        "网络安全"
       ],
-      "wordCount": 2857,
-      "id": "877daef2d9bb5f59"
+      "wordCount": 5713,
+      "id": "834a2b8e91516822"
     },
     {
-      "filename": "税法_个人所得税概述.json",
-      "title": "个人所得税概述",
+      "filename": "云原生_云原生存储.json",
+      "title": "云原生存储",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "云原生",
       "tags": [
-        "个人所得税",
-        "税法",
-        "CPA"
+        "云原生",
+        "存储",
+        "PV",
+        "PVC",
+        "StorageClass",
+        "CSI"
       ],
-      "wordCount": 550,
-      "id": "9ddf90f68934eb79"
+      "wordCount": 5277,
+      "id": "ede3436bc5822fee"
     },
     {
-      "filename": "税法_个人所得税税收优惠.json",
-      "title": "个人所得税税收优惠",
+      "filename": "云原生_云原生概述.json",
+      "title": "云原生概述",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "云原生",
       "tags": [
-        "个人所得税",
-        "税收优惠",
-        "减免税",
-        "CPA"
+        "云原生",
+        "Cloud Native",
+        "容器",
+        "微服务",
+        "DevOps"
       ],
-      "wordCount": 549,
-      "id": "215c769b099e3c2f"
+      "wordCount": 3585,
+      "id": "cc5e6085f5d7afaf"
     },
     {
-      "filename": "税法_个人所得税应纳税额计算.json",
-      "title": "个人所得税应纳税额计算",
+      "filename": "云原生_云原生可观测性.json",
+      "title": "云原生可观测性",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "云原生",
       "tags": [
-        "个人所得税",
-        "应纳税额",
-        "计算",
-        "CPA"
+        "云原生",
+        "可观测性",
+        "监控",
+        "日志",
+        "分布式追踪",
+        "Prometheus",
+        "Grafana"
       ],
-      "wordCount": 759,
-      "id": "978350a148cbae33"
+      "wordCount": 5365,
+      "id": "ee757219053b679b"
     },
     {
-      "filename": "税法_企业所得税概述.json",
-      "title": "企业所得税概述",
+      "filename": "云原生_云原生网络.json",
+      "title": "云原生网络",
       "description": "",
-      "category": "注册会计师/税法",
+      "category": "云原生",
       "tags": [
-        "企业所得税",
-        "税法",
-        "CPA"
+        "云原生",
+        "容器网络",
+        "CNI",
+        "Service",
+        "Ingress",
+        "NetworkPolicy"
       ],
-      "wordCount": 395,
-      "id": "d73ba40442f0aeea"
-    },
-    {
-      "filename": "税法_企业所得税税收优惠.json",
-      "title": "企业所得税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "企业所得税",
-        "税收优惠",
-        "减免税",
-        "CPA"
-      ],
-      "wordCount": 929,
-      "id": "de2aa7c5c7accbcc"
-    },
-    {
-      "filename": "税法_企业所得税应纳税所得额.json",
-      "title": "企业所得税应纳税所得额",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "企业所得税",
-        "应纳税所得额",
-        "计算",
-        "CPA"
-      ],
-      "wordCount": 941,
-      "id": "2307cec8cfad239d"
-    },
-    {
-      "filename": "税法_土地增值税.json",
-      "title": "土地增值税",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "土地增值税",
-        "税法",
-        "CPA"
-      ],
-      "wordCount": 638,
-      "id": "e7718a8ce428646e"
-    },
-    {
-      "filename": "税法_消费税概述.json",
-      "title": "消费税概述",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "消费税",
-        "税法",
-        "CPA"
-      ],
-      "wordCount": 489,
-      "id": "8a60a154349ac4a8"
-    },
-    {
-      "filename": "税法_消费税税收优惠.json",
-      "title": "消费税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "消费税",
-        "税收优惠",
-        "减免税",
-        "CPA"
-      ],
-      "wordCount": 318,
-      "id": "c8ecba9b705482cf"
-    },
-    {
-      "filename": "税法_消费税应纳税额计算.json",
-      "title": "消费税应纳税额计算",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "消费税",
-        "应纳税额",
-        "计算",
-        "CPA"
-      ],
-      "wordCount": 647,
-      "id": "6894c86a560d13be"
-    },
-    {
-      "filename": "税法_增值税概述.json",
-      "title": "增值税概述",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "增值税",
-        "税法",
-        "CPA"
-      ],
-      "wordCount": 393,
-      "id": "4c1eeec0434a501d"
-    },
-    {
-      "filename": "税法_增值税税收优惠.json",
-      "title": "增值税税收优惠",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "增值税",
-        "税收优惠",
-        "减免税",
-        "CPA"
-      ],
-      "wordCount": 1223,
-      "id": "541e58286de87b05"
-    },
-    {
-      "filename": "税法_增值税应纳税额计算.json",
-      "title": "增值税应纳税额计算",
-      "description": "",
-      "category": "注册会计师/税法",
-      "tags": [
-        "增值税",
-        "应纳税额",
-        "计算",
-        "CPA"
-      ],
-      "wordCount": 511,
-      "id": "acaeaa880437f40f"
+      "wordCount": 5310,
+      "id": "086389be3198c2f6"
     }
   ]
 }

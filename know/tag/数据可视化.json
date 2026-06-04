@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "数据可视化",
-    "count": 4
+    "count": 12
   },
   "articles": [
     {
@@ -19,9 +19,134 @@
       "id": "4d49fa1d72cc021d"
     },
     {
+      "filename": "实战案例_电商商品价格分析案例.json",
+      "title": "电商商品价格分析案例",
+      "description": "电商商品价格分析案例通过完整分析流程，展示如何使用数据分析技能分析商品价格，提取业务价值",
+      "category": "数据分析师/实战案例",
+      "tags": [
+        "数据分析师",
+        "实战案例",
+        "电商商品价格分析案例",
+        "数据导入",
+        "数据清洗",
+        "数据探索",
+        "数据可视化",
+        "业务洞察"
+      ],
+      "wordCount": 7879,
+      "id": "61aacdd9369b85b6"
+    },
+    {
+      "filename": "实战案例_电商销售数据分析案例.json",
+      "title": "电商销售数据分析案例",
+      "description": "电商销售数据分析案例通过完整分析流程，展示如何使用数据分析技能解决实际业务问题",
+      "category": "数据分析师/实战案例",
+      "tags": [
+        "数据分析师",
+        "实战案例",
+        "电商销售数据分析案例",
+        "数据导入",
+        "数据清洗",
+        "数据探索",
+        "数据可视化",
+        "业务洞察"
+      ],
+      "wordCount": 7693,
+      "id": "1ed484bf52b44dba"
+    },
+    {
+      "filename": "实战案例_电商用户行为分析案例.json",
+      "title": "电商用户行为分析案例",
+      "description": "电商用户行为分析案例通过完整分析流程，展示如何使用数据分析技能分析用户行为，提取业务价值",
+      "category": "数据分析师/实战案例",
+      "tags": [
+        "数据分析师",
+        "实战案例",
+        "电商用户行为分析案例",
+        "数据导入",
+        "数据清洗",
+        "数据探索",
+        "数据可视化",
+        "业务洞察"
+      ],
+      "wordCount": 8259,
+      "id": "ad88cdf0b76d34ba"
+    },
+    {
+      "filename": "数据可视化_数据可视化基础.json",
+      "title": "数据可视化基础",
+      "description": "数据可视化基础包括数据可视化原则、图表选择、颜色使用、布局设计等，掌握这些基础知识能有效提升数据可视化能力",
+      "category": "数据分析师/数据可视化",
+      "tags": [
+        "数据分析师",
+        "数据可视化",
+        "数据可视化基础",
+        "数据可视化原则",
+        "图表选择",
+        "颜色使用",
+        "布局设计",
+        "数据分析"
+      ],
+      "wordCount": 5847,
+      "id": "bad5b137885fa5b1"
+    },
+    {
+      "filename": "数据可视化_Power BI基础.json",
+      "title": "Power BI基础",
+      "description": "Power BI是微软推出的商业智能工具，掌握Power BI基础操作能有效提升数据分析和可视化能力",
+      "category": "数据分析师/数据可视化",
+      "tags": [
+        "数据分析师",
+        "数据可视化",
+        "Power BI基础",
+        "数据连接",
+        "报表创建",
+        "可视化图表",
+        "仪表板",
+        "数据分析"
+      ],
+      "wordCount": 6638,
+      "id": "15fd65c7dcda74db"
+    },
+    {
+      "filename": "数据可视化_Python可视化.json",
+      "title": "Python可视化",
+      "description": "Python可视化通过Matplotlib、Seaborn、Plotly等库实现数据可视化，掌握这些库的用法能有效提升数据分析和可视化能力",
+      "category": "数据分析师/数据可视化",
+      "tags": [
+        "数据分析师",
+        "数据可视化",
+        "Python可视化",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "数据分析"
+      ],
+      "wordCount": 10200,
+      "id": "34ea7997c9e90539"
+    },
+    {
+      "filename": "数据可视化_Tableau基础.json",
+      "title": "Tableau基础",
+      "description": "Tableau是主流数据可视化工具，掌握Tableau基础操作能有效提升数据分析和可视化能力",
+      "category": "数据分析师/数据可视化",
+      "tags": [
+        "数据分析师",
+        "数据可视化",
+        "Tableau基础",
+        "数据连接",
+        "工作表创建",
+        "可视化图表",
+        "仪表板",
+        "数据分析"
+      ],
+      "wordCount": 6125,
+      "id": "9b0635eda1b4bf50"
+    },
+    {
       "filename": "Excel数据分析_Excel数据透视表与图表.json",
       "title": "Excel数据透视表与图表",
-      "description": "Excel数据透视表与图表是数据分析师使用Excel进行快速数据分析和可视化的核心技能",
+      "description": "Excel数据透视表和图表是强大的数据分析工具，掌握这些功能能有效提升数据分析效率和可视化效果",
       "category": "数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
@@ -29,9 +154,11 @@
         "数据透视表",
         "图表",
         "数据分析",
-        "数据可视化"
+        "数据可视化",
+        "透视表",
+        "图表类型"
       ],
-      "wordCount": 5312,
+      "wordCount": 4888,
       "id": "f8be546aa340a750"
     },
     {
@@ -63,6 +190,23 @@
       ],
       "wordCount": 9353,
       "id": "5e3c2f6dd90debe5"
+    },
+    {
+      "filename": "Python数据分析_Matplotlib_Seaborn可视化进阶.json",
+      "title": "Matplotlib/Seaborn可视化进阶",
+      "description": "Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果",
+      "category": "数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Matplotlib",
+        "Seaborn",
+        "数据可视化",
+        "进阶技巧",
+        "数据分析"
+      ],
+      "wordCount": 9790,
+      "id": "df231dd7719e3552"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "TCC",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "分布式系统_分布式事务实现.json",
+      "title": "分布式事务实现",
+      "description": "分布式事务的核心概念、协议原理、实现方案及最佳实践",
+      "category": "分布式系统",
+      "tags": [
+        "分布式事务",
+        "2PC",
+        "3PC",
+        "TCC",
+        "SAGA",
+        "本地消息表"
+      ],
+      "wordCount": 6178,
+      "id": "f9719bd6c53d8455"
+    }
+  ]
+}

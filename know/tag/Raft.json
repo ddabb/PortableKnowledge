@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "Raft",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "分布式系统_分布式共识算法.json",
+      "title": "分布式共识算法",
+      "description": "分布式共识算法的核心概念、工作原理、适用场景及最佳实践",
+      "category": "分布式系统",
+      "tags": [
+        "分布式共识",
+        "Paxos",
+        "Raft",
+        "ZAB",
+        "Gossip",
+        "分布式一致性"
+      ],
+      "wordCount": 5661,
+      "id": "4bec56c2db616e1e"
+    }
+  ]
+}

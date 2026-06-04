@@ -1,266 +1,267 @@
 {
   "page": 6,
-  "totalPages": 36,
-  "totalItems": 720,
+  "totalPages": 44,
+  "totalItems": 867,
   "items": [
     {
-      "filename": "中学_教育心理学知识.json",
-      "title": "教育心理学知识",
+      "filename": "小学_小学教育方法.json",
+      "title": "小学教育方法",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "教师资格证/小学",
       "tags": [
-        "教育心理学",
-        "学习理论",
-        "学生心理"
+        "小学教育",
+        "教育方法",
+        "教学策略"
       ],
-      "wordCount": 5273,
-      "id": "3f7a8875e981abc4"
+      "wordCount": 3351,
+      "id": "f9709b09b7ff200c"
     },
     {
-      "filename": "中学_教育学基础知识.json",
-      "title": "教育学基础知识",
+      "filename": "小学_小学教育改革与发展.json",
+      "title": "小学教育改革与发展",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "教师资格证/小学",
       "tags": [
-        "教育学",
-        "基础知识",
-        "教育理论"
+        "小学教育",
+        "教育改革",
+        "素质教育"
       ],
-      "wordCount": 2777,
-      "id": "f0460d10e2cbd9fe"
+      "wordCount": 3181,
+      "id": "3fd4088869a93ee9"
     },
     {
-      "filename": "中学_教育研究方法.json",
-      "title": "教育研究方法",
+      "filename": "小学_小学教育技术应用.json",
+      "title": "小学教育技术应用",
       "description": "",
-      "category": "教师资格证/中学",
+      "category": "教师资格证/小学",
       "tags": [
-        "教育研究",
-        "研究方法",
+        "小学教育",
+        "教育技术",
+        "信息技术"
+      ],
+      "wordCount": 3477,
+      "id": "75e1c1a7f150c824"
+    },
+    {
+      "filename": "小学_小学教育教学实践案例分析.json",
+      "title": "小学教育教学实践案例分析",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教学实践",
+        "案例分析"
+      ],
+      "wordCount": 4457,
+      "id": "831afd4414eced23"
+    },
+    {
+      "filename": "小学_小学教育科研.json",
+      "title": "小学教育科研",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育科研",
         "教师专业发展"
       ],
-      "wordCount": 4369,
-      "id": "e259e78f89d8bb0a"
+      "wordCount": 4389,
+      "id": "8a3bdad264b87987"
     },
     {
-      "filename": "中学_学科知识与教学能力.json",
-      "title": "学科知识与教学能力",
+      "filename": "小学_小学教育科研方法.json",
+      "title": "小学教育科研方法",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育科研",
+        "研究方法"
+      ],
+      "wordCount": 3692,
+      "id": "32c63f0d34200f06"
+    },
+    {
+      "filename": "小学_小学教育评价.json",
+      "title": "小学教育评价",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育评价",
+        "学生评价"
+      ],
+      "wordCount": 3105,
+      "id": "3086d2831fabf871"
+    },
+    {
+      "filename": "小学_小学教育心理学知识.json",
+      "title": "小学教育心理学知识",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育心理学",
+        "学生心理"
+      ],
+      "wordCount": 3742,
+      "id": "b73086b5633432e6"
+    },
+    {
+      "filename": "小学_小学教育学基础知识.json",
+      "title": "小学教育学基础知识",
+      "description": "",
+      "category": "教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育学",
+        "基础知识"
+      ],
+      "wordCount": 2654,
+      "id": "b6f3ffb99693b5a1"
+    },
+    {
+      "filename": "幼儿_安全卫生.json",
+      "title": "安全卫生",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "安全卫生",
+        "幼儿安全",
+        "教资"
+      ],
+      "wordCount": 1906,
+      "id": "b5ad38e86ee32c6d"
+    },
+    {
+      "filename": "幼儿_游戏指导.json",
+      "title": "游戏指导",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "游戏指导",
+        "幼儿游戏",
+        "教资"
+      ],
+      "wordCount": 2505,
+      "id": "237e21b131ef5c8e"
+    },
+    {
+      "filename": "幼儿_幼儿发展特点.json",
+      "title": "幼儿发展特点",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "幼儿发展",
+        "发展特点",
+        "教资"
+      ],
+      "wordCount": 4133,
+      "id": "d99d8a2101ee1257"
+    },
+    {
+      "filename": "幼儿_幼儿教育方法.json",
+      "title": "幼儿教育方法",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "教育方法",
+        "幼儿教育",
+        "教资"
+      ],
+      "wordCount": 1553,
+      "id": "b4e643bc15376f7f"
+    },
+    {
+      "filename": "幼儿_幼儿科学教育.json",
+      "title": "幼儿科学教育",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "科学教育",
+        "幼儿科学",
+        "教资"
+      ],
+      "wordCount": 3370,
+      "id": "085a0987c5052b3e"
+    },
+    {
+      "filename": "幼儿_幼儿情绪发展.json",
+      "title": "幼儿情绪发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "情绪发展",
+        "幼儿情绪",
+        "教资"
+      ],
+      "wordCount": 3574,
+      "id": "41ccc8cea733cbca"
+    },
+    {
+      "filename": "幼儿_幼儿认知发展.json",
+      "title": "幼儿认知发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "认知发展",
+        "幼儿认知",
+        "教资"
+      ],
+      "wordCount": 3651,
+      "id": "c000081953871a25"
+    },
+    {
+      "filename": "幼儿_幼儿社会性发展.json",
+      "title": "幼儿社会性发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "社会性发展",
+        "幼儿社会",
+        "教资"
+      ],
+      "wordCount": 3897,
+      "id": "1af5319899764194"
+    },
+    {
+      "filename": "幼儿_幼儿艺术教育.json",
+      "title": "幼儿艺术教育",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "艺术教育",
+        "幼儿艺术",
+        "教资"
+      ],
+      "wordCount": 2978,
+      "id": "d5b6dfdba330ba4a"
+    },
+    {
+      "filename": "幼儿_幼儿语言发展.json",
+      "title": "幼儿语言发展",
+      "description": "",
+      "category": "教师资格证/幼儿",
+      "tags": [
+        "语言发展",
+        "幼儿语言",
+        "教资"
+      ],
+      "wordCount": 3186,
+      "id": "762f6db947ac0a60"
+    },
+    {
+      "filename": "中学_班级管理案例分析.json",
+      "title": "班级管理案例分析",
       "description": "",
       "category": "教师资格证/中学",
       "tags": [
-        "学科知识",
-        "教学能力",
-        "专业素养"
+        "班级管理",
+        "案例分析",
+        "学生管理"
       ],
-      "wordCount": 3972,
-      "id": "cdfec0b48388b79b"
-    },
-    {
-      "filename": "考研专业课_管理类联考备考.json",
-      "title": "管理类联考备考：数学逻辑写作三科攻略",
-      "description": "管理类联考数学基础、逻辑推理和写作的完整备考指南",
-      "category": "考研专业课",
-      "tags": [
-        "管理类联考",
-        "逻辑推理",
-        "数学",
-        "写作",
-        "论证有效性分析"
-      ],
-      "wordCount": 1229,
-      "id": "1c13e3b5c6355f4d"
-    },
-    {
-      "filename": "考研专业课_计算机学科基础.json",
-      "title": "计算机学科基础：数据结构到网络全解析",
-      "description": "数据结构、计算机组成原理、操作系统和计算机网络的考研核心知识点",
-      "category": "考研专业课",
-      "tags": [
-        "数据结构",
-        "操作系统",
-        "计算机网络",
-        "算法",
-        "考研计算机"
-      ],
-      "wordCount": 1640,
-      "id": "62fa8bb23d5e46b4"
-    },
-    {
-      "filename": "考研专业课_教育学原理备考.json",
-      "title": "教育学原理备考：从教育本质到师生关系",
-      "description": "教育学原理、教育心理学、中外教育史、教育研究方法和课程教学德育的完整备考指南",
-      "category": "考研专业课",
-      "tags": [
-        "教育学",
-        "教育心理学",
-        "教育史",
-        "课程理论",
-        "德育原理",
-        "教师学生"
-      ],
-      "wordCount": 1616,
-      "id": "7654cfedd671ad7d"
-    },
-    {
-      "filename": "考研专业课_心理学考研指南.json",
-      "title": "心理学考研指南：五科备考策略与复习规划",
-      "description": "心理学考研概述、普通心理学、发展心理学、实验心理学和心理统计测量的备考指南",
-      "category": "考研专业课",
-      "tags": [
-        "心理学考研",
-        "复习规划",
-        "普通心理学",
-        "实验心理学",
-        "心理统计"
-      ],
-      "wordCount": 1493,
-      "id": "5a8a73ebc72161b9"
-    },
-    {
-      "filename": "人力资源管理师_绩效管理.json",
-      "title": "绩效管理",
-      "description": "绩效管理的体系、方法和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "绩效管理"
-      ],
-      "wordCount": 756,
-      "id": "3df6d718c061ee27"
-    },
-    {
-      "filename": "人力资源管理师_劳动法规.json",
-      "title": "劳动法规",
-      "description": "劳动法规的基本内容、应用和合规管理",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "劳动法规"
-      ],
-      "wordCount": 1072,
-      "id": "40b246defbcf3d65"
-    },
-    {
-      "filename": "人力资源管理师_劳动关系.json",
-      "title": "劳动关系",
-      "description": "劳动关系的概念、管理和协调策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "劳动关系"
-      ],
-      "wordCount": 774,
-      "id": "fd236277fb520467"
-    },
-    {
-      "filename": "人力资源管理师_培训开发.json",
-      "title": "培训开发",
-      "description": "培训开发的体系、方法和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "培训",
-        "开发"
-      ],
-      "wordCount": 697,
-      "id": "4b0e8eca0f576f1d"
-    },
-    {
-      "filename": "人力资源管理师_核心考点.json",
-      "title": "人力资源管理师核心考点",
-      "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源",
-        "HR",
-        "劳动法"
-      ],
-      "wordCount": 1426,
-      "id": "89130bc5d5b8903d"
-    },
-    {
-      "filename": "人力资源管理师_人力资源管理师职业发展.json",
-      "title": "人力资源管理师职业发展",
-      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "职业发展"
-      ],
-      "wordCount": 932,
-      "id": "b003aff1861bb29f"
-    },
-    {
-      "filename": "人力资源管理师_人力资源规划.json",
-      "title": "人力资源规划",
-      "description": "人力资源规划的核心概念、流程和实践方法",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "人力资源规划"
-      ],
-      "wordCount": 523,
-      "id": "7d04338392048966"
-    },
-    {
-      "filename": "人力资源管理师_人力资源信息化.json",
-      "title": "人力资源信息化",
-      "description": "人力资源信息化的概念、实施和管理策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "人力资源信息化"
-      ],
-      "wordCount": 873,
-      "id": "22b9ef7332fc03a9"
-    },
-    {
-      "filename": "人力资源管理师_薪酬管理.json",
-      "title": "薪酬管理",
-      "description": "薪酬管理的体系、设计和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "薪酬管理"
-      ],
-      "wordCount": 733,
-      "id": "c450ac405a5ae475"
-    },
-    {
-      "filename": "人力资源管理师_员工福利管理.json",
-      "title": "员工福利管理",
-      "description": "员工福利管理的体系、设计和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "员工福利"
-      ],
-      "wordCount": 828,
-      "id": "6e92b5ebeb4989fb"
-    },
-    {
-      "filename": "人力资源管理师_员工关系管理.json",
-      "title": "员工关系管理",
-      "description": "员工关系管理的概念、方法和实施策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "员工关系"
-      ],
-      "wordCount": 994,
-      "id": "a2b4325c1626edca"
-    },
-    {
-      "filename": "人力资源管理师_战略性人力资源管理.json",
-      "title": "战略性人力资源管理",
-      "description": "战略性人力资源管理的概念、实施和管理策略",
-      "category": "人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "战略性人力资源管理"
-      ],
-      "wordCount": 883,
-      "id": "4e0c2768a54f324e"
+      "wordCount": 4327,
+      "id": "ef11e36b15cfb901"
     }
   ]
 }

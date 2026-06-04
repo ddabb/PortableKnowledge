@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "tag": "PagedAttention",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "AI推理加速_LLM推理优化.json",
+      "title": "LLM推理优化",
+      "description": "大语言模型推理优化技术，涵盖KV Cache、PagedAttention、Continuous Batching、量化、并行策略等核心技术",
+      "category": "AI推理加速",
+      "tags": [
+        "LLM",
+        "大语言模型",
+        "推理优化",
+        "KV Cache",
+        "PagedAttention",
+        "Continuous Batching",
+        "模型量化",
+        "模型并行"
+      ],
+      "wordCount": 7718,
+      "id": "a07c2ee4fffcdcb2"
+    },
+    {
+      "filename": "AI推理加速_vLLM推理引擎.json",
+      "title": "vLLM推理引擎",
+      "description": "vLLM推理引擎的核心技术、架构设计、使用方法和性能优化，涵盖PagedAttention、Continuous Batching等创新技术",
+      "category": "AI推理加速",
+      "tags": [
+        "vLLM",
+        "推理引擎",
+        "PagedAttention",
+        "Continuous Batching",
+        "LLM推理",
+        "高吞吐量",
+        "易用性"
+      ],
+      "wordCount": 10150,
+      "id": "5dac743f12d2e4dd"
+    }
+  ]
+}

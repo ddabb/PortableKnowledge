@@ -1,255 +1,337 @@
 {
   "page": 30,
-  "totalPages": 36,
-  "totalItems": 720,
+  "totalPages": 44,
+  "totalItems": 867,
   "items": [
     {
-      "filename": "咨询技能_心理评估.json",
-      "title": "心理评估",
-      "description": "心理评估是心理咨询的重要环节，为制定咨询方案、选择咨询技术、评估咨询效果提供依据。在心理咨询师考试中，心理评估是重点考查内容。",
-      "category": "心理咨询师/咨询技能",
+      "filename": "SQL数据库_SQL窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "心理咨询师",
-        "咨询技能"
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "SQL高级查询",
+        "数据分析"
       ],
-      "wordCount": 4100,
-      "id": "479c46cedf8d48bc"
+      "wordCount": 9748,
+      "id": "0640b04a4e030b50"
     },
     {
-      "filename": "咨询技能_咨询方案制定.json",
-      "title": "咨询方案制定",
-      "description": "咨询方案是心理咨询的重要环节，它为咨询提供清晰的方向、框架，帮助咨询师与来访者达成共识，提高咨询效果。在心理咨询师考试中，咨询方案制定是重点考查内容。",
-      "category": "心理咨询师/咨询技能",
+      "filename": "SQL数据库_多表连接.json",
+      "title": "SQL多表连接",
+      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "心理咨询师",
-        "咨询技能"
+        "数据分析师",
+        "SQL数据库",
+        "多表连接",
+        "JOIN"
       ],
-      "wordCount": 4116,
-      "id": "c838b2d5bad967c0"
+      "wordCount": 11305,
+      "id": "3e58a7ce48a92ddc"
     },
     {
-      "filename": "咨询技能_咨询关系建立.json",
-      "title": "咨询关系建立",
-      "description": "良好的咨询关系是心理咨询有效性的前提，它能为来访者提供安全、信任、接纳的环境，促进来访者的自我探索与改变。在心理咨询师考试中，咨询关系建立是重点考查内容。",
-      "category": "心理咨询师/咨询技能",
+      "filename": "SQL数据库_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "心理咨询师",
-        "咨询技能"
+        "数据分析师",
+        "SQL数据库",
+        "SQL多表连接",
+        "JOIN",
+        "数据分析"
       ],
-      "wordCount": 3558,
-      "id": "9948c6a9edbe7fe0"
+      "wordCount": 8928,
+      "id": "98f21c7ba430dfe8"
     },
     {
-      "filename": "咨询技能_咨询技术.json",
-      "title": "咨询技术",
-      "description": "咨询技术是心理咨询的重要组成部分，直接影响咨询效果。不同的咨询理论有不同的技术，但有些技术是通用的。在心理咨询师考试中，咨询技术是重点考查内容。",
-      "category": "心理咨询师/咨询技能",
+      "filename": "SQL数据库_分组聚合.json",
+      "title": "SQL分组聚合",
+      "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "心理咨询师",
-        "咨询技能"
+        "数据分析师",
+        "SQL数据库",
+        "分组聚合",
+        "GROUP BY",
+        "聚合函数"
       ],
-      "wordCount": 4615,
-      "id": "06f5a9912f6322c9"
+      "wordCount": 9890,
+      "id": "ed472be2cb41192d"
     },
     {
-      "filename": "词汇_高频词汇.json",
-      "title": "高频词汇",
-      "description": "高频词汇是指在英语考试（如四六级、考研、雅思等）中频繁出现、考查概率较高的词汇。掌握这些词汇是提高阅读速度、理解准确性和写作表达丰富性的基础。",
-      "category": "英语考试/四六级/词汇",
+      "filename": "SQL数据库_SQL高级查询.json",
+      "title": "SQL高级查询",
+      "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "英语考试",
-        "四六级",
-        "词汇"
+        "数据分析师",
+        "SQL数据库",
+        "SQL高级查询",
+        "窗口函数",
+        "CTE",
+        "子查询",
+        "集合操作",
+        "数据分析"
       ],
-      "wordCount": 2442,
-      "id": "edd93da11bae2dec"
+      "wordCount": 8225,
+      "id": "c2edfb15bd75b236"
     },
     {
-      "filename": "营销增长_内容创作方法论.json",
-      "title": "内容创作方法论：从选题到发布的完整流程",
-      "description": "系统讲解内容创作的完整流程，包括选题策划、标题技巧、内容结构、视觉体验、发布策略和数据分析",
-      "category": "营销增长",
+      "filename": "SQL数据库_SQL基础.json",
+      "title": "SQL基础",
+      "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "内容创作",
-        "选题",
-        "标题",
-        "排版"
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础",
+        "SELECT",
+        "WHERE"
       ],
-      "wordCount": 2134,
-      "id": "1ad9665c7c7ad87d"
+      "wordCount": 8372,
+      "id": "be4b4354f95f1004"
     },
     {
-      "filename": "营销增长_增长策略与私域运营.json",
-      "title": "增长策略与私域运营：AARRR模型实践指南",
-      "description": "系统化的增长方法论，从AARRR漏斗到私域流量运营的完整指南",
-      "category": "营销增长",
+      "filename": "SQL数据库_基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师最常用的技能，包括SELECT语句、WHERE过滤、ORDER BY排序、LIMIT限制等核心操作",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "增长策略",
-        "AARRR",
-        "私域流量",
-        "用户增长",
-        "留存",
-        "变现"
+        "数据分析师",
+        "SQL数据库",
+        "基础查询",
+        "SELECT"
       ],
-      "wordCount": 3302,
-      "id": "f8203cddf7e58939"
+      "wordCount": 9500,
+      "id": "e78cfd8085599efa"
     },
     {
-      "filename": "执业药师_常见药物分类.json",
-      "title": "常见药物分类",
-      "description": "常见药物的分类方法和代表药物",
-      "category": "执业药师",
+      "filename": "SQL数据库_SQL基础查询.json",
+      "title": "SQL基础查询",
+      "description": "SQL基础查询是数据分析师操作数据库的基本技能，掌握SELECT、WHERE、GROUP BY、HAVING、ORDER BY等子句是进行数据查询和分析的基础",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "执业药师",
-        "药物分类"
+        "数据分析师",
+        "SQL数据库",
+        "SQL基础查询",
+        "SELECT",
+        "WHERE",
+        "GROUP BY",
+        "HAVING",
+        "ORDER BY",
+        "数据分析"
       ],
-      "wordCount": 1356,
-      "id": "b75b5e129e44e042"
+      "wordCount": 7051,
+      "id": "86f4946ddc372b74"
     },
     {
-      "filename": "执业药师_临床药理学.json",
-      "title": "临床药理学",
-      "description": "临床药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "SQL数据库_SQL数据分析实战.json",
+      "title": "SQL数据分析实战",
+      "description": "SQL数据分析实战涵盖使用SQL进行数据查询、数据聚合、数据分组、数据筛选等操作，是数据分析师日常工作的核心技能",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "执业药师",
-        "临床药理学"
+        "数据分析师",
+        "SQL数据库",
+        "SQL数据分析实战",
+        "数据查询",
+        "数据聚合",
+        "数据分组",
+        "数据分析"
       ],
-      "wordCount": 928,
-      "id": "019a37c34d921c94"
+      "wordCount": 8873,
+      "id": "dec50c58c2e60022"
     },
     {
-      "filename": "执业药师_临床药物治疗学.json",
-      "title": "临床药物治疗学",
-      "description": "临床药物治疗学的基本概念、方法和应用",
-      "category": "执业药师",
+      "filename": "SQL数据库_SQL性能优化.json",
+      "title": "SQL性能优化",
+      "description": "SQL性能优化是数据分析师必须掌握的技能，包括索引优化、查询优化、执行计划分析等，掌握这些技能能有效提升数据分析效率",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "执业药师",
-        "临床药物治疗学"
+        "数据分析师",
+        "SQL数据库",
+        "SQL性能优化",
+        "索引优化",
+        "查询优化",
+        "执行计划",
+        "数据分析"
       ],
-      "wordCount": 1068,
-      "id": "0cc7be10dd883bdd"
+      "wordCount": 8680,
+      "id": "f9fca9a70f72fd99"
     },
     {
-      "filename": "执业药师_药剂学.json",
-      "title": "药剂学",
-      "description": "药剂学的基本概念、剂型设计和质量控制",
-      "category": "执业药师",
+      "filename": "SQL数据库_子查询.json",
+      "title": "SQL子查询",
+      "description": "子查询是嵌套在其他SQL语句中的查询，用于复杂条件过滤、多表关联分析，是数据分析师必备技能",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "执业药师",
-        "药剂学"
+        "数据分析师",
+        "SQL数据库",
+        "子查询",
+        "Subquery"
       ],
-      "wordCount": 895,
-      "id": "c9af10b06a7a5fdc"
+      "wordCount": 10233,
+      "id": "b70bfeda43252eed"
     },
     {
-      "filename": "执业药师_药理学.json",
-      "title": "药理学",
-      "description": "药理学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "SQL数据库_SQL子查询.json",
+      "title": "SQL子查询",
+      "description": "SQL子查询（Subquery）是嵌套在另一个SQL语句中的查询，用于解决复杂的数据提取需求",
+      "category": "数据分析师/SQL数据库",
       "tags": [
-        "执业药师",
-        "药理学"
+        "数据分析师",
+        "SQL数据库",
+        "SQL子查询",
+        "Subquery",
+        "嵌套查询"
       ],
-      "wordCount": 765,
-      "id": "778ba3a88cb777e6"
+      "wordCount": 8655,
+      "id": "3bd5c770e7e8db64"
     },
     {
-      "filename": "执业药师_药事法规.json",
-      "title": "药事法规",
-      "description": "药事法规的基本内容和应用",
-      "category": "执业药师",
+      "filename": "数据库内核_查询引擎实现.json",
+      "title": "查询引擎实现",
+      "description": "查询引擎的核心实现技术，涵盖查询解析、查询优化（RBO/CBO）、查询执行（火山模型/向量化/编译执行）和代价模型",
+      "category": "数据库内核",
       "tags": [
-        "执业药师",
-        "药事法规"
+        "查询引擎",
+        "查询解析",
+        "查询优化",
+        "RBO",
+        "CBO",
+        "查询执行",
+        "火山模型",
+        "向量化执行",
+        "编译执行",
+        "代价模型"
       ],
-      "wordCount": 1102,
-      "id": "96e5785a6604edbe"
+      "wordCount": 8591,
+      "id": "d6b75cfb68b33fb9"
     },
     {
-      "filename": "执业药师_药物分析.json",
-      "title": "药物分析",
-      "description": "药物分析的基本概念、方法和应用",
-      "category": "执业药师",
+      "filename": "数据库内核_查询优化器实现.json",
+      "title": "查询优化器实现",
+      "description": "数据库查询优化器的核心概念、实现原理、优化技术（RBO、CBO）、代价模型及最佳实践",
+      "category": "数据库内核",
       "tags": [
-        "执业药师",
-        "药物分析"
+        "数据库内核",
+        "查询优化器",
+        "RBO",
+        "CBO",
+        "代价模型",
+        "执行计划",
+        "查询性能"
       ],
-      "wordCount": 687,
-      "id": "f827d9c6e100d0c6"
+      "wordCount": 7249,
+      "id": "3790959820405553"
     },
     {
-      "filename": "执业药师_药物化学.json",
-      "title": "药物化学",
-      "description": "药物化学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "数据库内核_存储引擎对比.json",
+      "title": "存储引擎对比",
+      "description": "主流数据库存储引擎（InnoDB、MyISAM、PostgreSQL、RocksDB、WiredTiger）的架构对比、优缺点及适用场景",
+      "category": "数据库内核",
       "tags": [
-        "执业药师",
-        "药物化学"
+        "数据库内核",
+        "存储引擎",
+        "InnoDB",
+        "MyISAM",
+        "PostgreSQL",
+        "RocksDB",
+        "WiredTiger"
       ],
-      "wordCount": 712,
-      "id": "283f7d749ab0a9bd"
+      "wordCount": 6559,
+      "id": "5a1e44046ff84955"
     },
     {
-      "filename": "执业药师_药物流行病学.json",
-      "title": "药物流行病学",
-      "description": "药物流行病学的基本概念、研究方法和应用",
-      "category": "执业药师",
+      "filename": "数据库内核_存储引擎实现.json",
+      "title": "存储引擎实现",
+      "description": "存储引擎的核心实现技术，重点分析InnoDB、RocksDB等主流存储引擎的架构设计、关键数据结构和实现细节",
+      "category": "数据库内核",
       "tags": [
-        "执业药师",
-        "药物流行病学"
+        "存储引擎",
+        "InnoDB",
+        "RocksDB",
+        "LSM-Tree",
+        "B+树",
+        "缓冲池",
+        "日志系统"
       ],
-      "wordCount": 785,
-      "id": "479906c22a84c019"
+      "wordCount": 8982,
+      "id": "2f2afbd6a62753a7"
     },
     {
-      "filename": "执业药师_药物信息学.json",
-      "title": "药物信息学",
-      "description": "药物信息学的基本概念、方法和应用",
-      "category": "执业药师",
+      "filename": "数据库内核_分布式数据库实现.json",
+      "title": "分布式数据库实现",
+      "description": "分布式数据库的核心概念、架构设计、数据分片、副本一致性、分布式事务及最佳实践",
+      "category": "数据库内核",
       "tags": [
-        "执业药师",
-        "药物信息学"
+        "数据库内核",
+        "分布式数据库",
+        "数据分片",
+        "副本一致性",
+        "分布式事务",
+        "CAP理论",
+        "NewSQL"
       ],
-      "wordCount": 627,
-      "id": "ec33fb671d75b331"
+      "wordCount": 7417,
+      "id": "30f8aedbd3019159"
     },
     {
-      "filename": "执业药师_药学综合知识.json",
-      "title": "药学综合知识",
-      "description": "药学综合知识的核心内容和实践应用",
-      "category": "执业药师",
+      "filename": "数据库内核_故障恢复实现.json",
+      "title": "故障恢复实现",
+      "description": "数据库故障恢复的核心概念、实现原理、WAL技术、ARIES算法、检查点机制及最佳实践",
+      "category": "数据库内核",
       "tags": [
-        "执业药师",
-        "药学综合知识"
+        "数据库内核",
+        "故障恢复",
+        "WAL",
+        "ARIES算法",
+        "检查点",
+        "Redo日志",
+        "Undo日志"
       ],
-      "wordCount": 751,
-      "id": "744569747e72cf13"
+      "wordCount": 6228,
+      "id": "f0f168c04194fe35"
     },
     {
-      "filename": "执业药师_用药安全.json",
-      "title": "用药安全",
-      "description": "用药安全的重要性、常见问题和防范措施",
-      "category": "执业药师",
+      "filename": "数据库内核_事务处理实现.json",
+      "title": "事务处理实现",
+      "description": "数据库事务处理的核心实现技术，涵盖ACID特性、并发控制（2PL/MVCC/OCC/PCC）、故障恢复（ARIES）和隔离级别实现",
+      "category": "数据库内核",
       "tags": [
-        "执业药师",
-        "用药安全"
+        "事务处理",
+        "ACID",
+        "并发控制",
+        "2PL",
+        "MVCC",
+        "OCC",
+        "PCC",
+        "故障恢复",
+        "ARIES",
+        "隔离级别"
       ],
-      "wordCount": 1386,
-      "id": "5026e3c2e834005f"
+      "wordCount": 8508,
+      "id": "c953e9fe5caeb684"
     },
     {
-      "filename": "执业药师_核心考点.json",
-      "title": "执业药师核心考点",
-      "description": "执业药师备考知识体系：药学综合、药事法规核心考点",
-      "category": "执业药师",
+      "filename": "数据库内核_数据库安全实现.json",
+      "title": "数据库安全实现",
+      "description": "数据库安全的核心概念、访问控制、数据加密、审计日志、SQL注入防护及最佳实践",
+      "category": "数据库内核",
       "tags": [
-        "药师",
-        "药学",
-        "法规"
+        "数据库内核",
+        "数据库安全",
+        "访问控制",
+        "数据加密",
+        "审计日志",
+        "SQL注入",
+        "GDPR"
       ],
-      "wordCount": 2516,
-      "id": "1ad4d4522a1af0f5"
+      "wordCount": 7411,
+      "id": "3d9ea8e83a740c74"
     }
   ]
 }

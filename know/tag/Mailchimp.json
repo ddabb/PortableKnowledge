@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "tag": "Mailchimp",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "工具_电子邮件营销工具.json",
+      "title": "电子邮件营销工具",
+      "description": "电子邮件营销工具是数字营销的重要工具，用于发送和管理电子邮件营销活动",
+      "category": "数字营销/工具",
+      "tags": [
+        "数字营销",
+        "工具",
+        "电子邮件营销工具",
+        "Mailchimp",
+        "Constant Contact",
+        "电子邮件营销自动化"
+      ],
+      "wordCount": 5295,
+      "id": "0368fa8e9ac7d7ca"
+    }
+  ]
+}

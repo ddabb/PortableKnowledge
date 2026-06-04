@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "tag": "算子优化",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "AI推理加速_GPU编程与CUDA优化.json",
+      "title": "GPU编程与CUDA优化",
+      "description": "GPU编程基础、CUDA核心概念、优化技巧和实战案例，涵盖线程模型、内存层次、算子优化等核心技术",
+      "category": "AI推理加速",
+      "tags": [
+        "GPU编程",
+        "CUDA",
+        "并行计算",
+        "线程模型",
+        "内存优化",
+        "算子优化",
+        "性能调优"
+      ],
+      "wordCount": 8952,
+      "id": "9815d6c1c0a0bd95"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "数据分析师/SQL数据库",
-    "count": 11
+    "count": 13
   },
   "articles": [
     {
@@ -78,6 +78,24 @@
       "id": "ed472be2cb41192d"
     },
     {
+      "filename": "SQL数据库_SQL高级查询.json",
+      "title": "SQL高级查询",
+      "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL高级查询",
+        "窗口函数",
+        "CTE",
+        "子查询",
+        "集合操作",
+        "数据分析"
+      ],
+      "wordCount": 8225,
+      "id": "c2edfb15bd75b236"
+    },
+    {
       "filename": "SQL数据库_SQL基础.json",
       "title": "SQL基础",
       "description": "SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法",
@@ -109,22 +127,43 @@
     {
       "filename": "SQL数据库_SQL基础查询.json",
       "title": "SQL基础查询",
-      "description": "SQL基础查询是数据分析师操作数据库的核心技能，包括SELECT、FROM、WHERE、GROUP BY、HAVING、ORDER BY等关键字的使用",
+      "description": "SQL基础查询是数据分析师操作数据库的基本技能，掌握SELECT、WHERE、GROUP BY、HAVING、ORDER BY等子句是进行数据查询和分析的基础",
       "category": "数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
         "SQL基础查询",
         "SELECT",
+        "WHERE",
+        "GROUP BY",
+        "HAVING",
+        "ORDER BY",
         "数据分析"
       ],
-      "wordCount": 7731,
+      "wordCount": 7051,
       "id": "86f4946ddc372b74"
+    },
+    {
+      "filename": "SQL数据库_SQL数据分析实战.json",
+      "title": "SQL数据分析实战",
+      "description": "SQL数据分析实战涵盖使用SQL进行数据查询、数据聚合、数据分组、数据筛选等操作，是数据分析师日常工作的核心技能",
+      "category": "数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL数据分析实战",
+        "数据查询",
+        "数据聚合",
+        "数据分组",
+        "数据分析"
+      ],
+      "wordCount": 8873,
+      "id": "dec50c58c2e60022"
     },
     {
       "filename": "SQL数据库_SQL性能优化.json",
       "title": "SQL性能优化",
-      "description": "SQL性能优化是数据分析师处理大数据集的关键技能，包括索引优化、查询重写、执行计划分析等",
+      "description": "SQL性能优化是数据分析师必须掌握的技能，包括索引优化、查询优化、执行计划分析等，掌握这些技能能有效提升数据分析效率",
       "category": "数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
@@ -132,9 +171,10 @@
         "SQL性能优化",
         "索引优化",
         "查询优化",
+        "执行计划",
         "数据分析"
       ],
-      "wordCount": 8061,
+      "wordCount": 8680,
       "id": "f9fca9a70f72fd99"
     },
     {

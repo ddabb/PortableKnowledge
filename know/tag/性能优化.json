@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "tag": "性能优化",
+    "count": 5
+  },
+  "articles": [
+    {
+      "filename": "系统编程_并发编程实践.json",
+      "title": "并发编程实践",
+      "description": "",
+      "category": "系统编程",
+      "tags": [
+        "系统编程",
+        "并发编程",
+        "多线程",
+        "无锁编程",
+        "性能优化"
+      ],
+      "wordCount": 4798,
+      "id": "ff8be691f0f85e20"
+    },
+    {
+      "filename": "系统编程_内存管理实现.json",
+      "title": "内存管理实现",
+      "description": "",
+      "category": "系统编程",
+      "tags": [
+        "系统编程",
+        "内存管理",
+        "虚拟内存",
+        "分配器",
+        "性能优化"
+      ],
+      "wordCount": 5255,
+      "id": "cbc3ffb80becf229"
+    },
+    {
+      "filename": "系统编程_文件I_O优化.json",
+      "title": "文件I/O优化",
+      "description": "",
+      "category": "系统编程",
+      "tags": [
+        "系统编程",
+        "文件I/O",
+        "零拷贝",
+        "异步I/O",
+        "性能优化"
+      ],
+      "wordCount": 5392,
+      "id": "cc6a25a028f5d6d3"
+    },
+    {
+      "filename": "系统编程_性能优化与调试.json",
+      "title": "性能优化与调试",
+      "description": "",
+      "category": "系统编程",
+      "tags": [
+        "系统编程",
+        "性能优化",
+        "调试",
+        "Profiling",
+        "缓存优化"
+      ],
+      "wordCount": 5166,
+      "id": "e2850b1be80ca3c2"
+    },
+    {
+      "filename": "AI推理加速_AI推理服务部署.json",
+      "title": "AI推理服务部署",
+      "description": "AI推理服务的架构设计、部署策略、性能优化和高可用保障，涵盖服务化、负载均衡、自动扩缩容、监控告警等核心技术",
+      "category": "AI推理加速",
+      "tags": [
+        "AI推理服务",
+        "服务化部署",
+        "负载均衡",
+        "自动扩缩容",
+        "高可用",
+        "监控告警",
+        "性能优化"
+      ],
+      "wordCount": 9852,
+      "id": "37a65b0713cb6081"
+    }
+  ]
+}

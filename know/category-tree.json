@@ -1,7 +1,7 @@
 {
   "name": "root",
   "path": "",
-  "count": 720,
+  "count": 867,
   "children": {
     "产品研发": {
       "name": "产品研发",
@@ -19,6 +19,18 @@
       "name": "法律常识",
       "path": "法律常识",
       "count": 4,
+      "children": {}
+    },
+    "分布式系统": {
+      "name": "分布式系统",
+      "path": "分布式系统",
+      "count": 17,
+      "children": {}
+    },
+    "高性能计算": {
+      "name": "高性能计算",
+      "path": "高性能计算",
+      "count": 6,
       "children": {}
     },
     "公务员": {
@@ -39,6 +51,12 @@
           "children": {}
         }
       }
+    },
+    "公务员面试": {
+      "name": "公务员面试",
+      "path": "公务员面试",
+      "count": 7,
+      "children": {}
     },
     "家庭理财": {
       "name": "家庭理财",
@@ -370,12 +388,24 @@
     "数据分析师": {
       "name": "数据分析师",
       "path": "数据分析师",
-      "count": 37,
+      "count": 64,
       "children": {
+        "机器学习": {
+          "name": "机器学习",
+          "path": "数据分析师/机器学习",
+          "count": 6,
+          "children": {}
+        },
         "实战案例": {
           "name": "实战案例",
           "path": "数据分析师/实战案例",
-          "count": 2,
+          "count": 5,
+          "children": {}
+        },
+        "数据可视化": {
+          "name": "数据可视化",
+          "path": "数据分析师/数据可视化",
+          "count": 4,
           "children": {}
         },
         "统计学基础": {
@@ -384,25 +414,80 @@
           "count": 10,
           "children": {}
         },
+        "业务分析方法": {
+          "name": "业务分析方法",
+          "path": "数据分析师/业务分析方法",
+          "count": 6,
+          "children": {}
+        },
         "Excel数据分析": {
           "name": "Excel数据分析",
           "path": "数据分析师/Excel数据分析",
-          "count": 7,
+          "count": 10,
           "children": {}
         },
         "Python数据分析": {
           "name": "Python数据分析",
           "path": "数据分析师/Python数据分析",
-          "count": 5,
+          "count": 8,
           "children": {}
         },
         "SQL数据库": {
           "name": "SQL数据库",
           "path": "数据分析师/SQL数据库",
-          "count": 11,
+          "count": 13,
           "children": {}
         }
       }
+    },
+    "数据库内核": {
+      "name": "数据库内核",
+      "path": "数据库内核",
+      "count": 10,
+      "children": {}
+    },
+    "数字营销": {
+      "name": "数字营销",
+      "path": "数字营销",
+      "count": 16,
+      "children": {
+        "策略": {
+          "name": "策略",
+          "path": "数字营销/策略",
+          "count": 1,
+          "children": {}
+        },
+        "分析": {
+          "name": "分析",
+          "path": "数字营销/分析",
+          "count": 4,
+          "children": {}
+        },
+        "工具": {
+          "name": "工具",
+          "path": "数字营销/工具",
+          "count": 5,
+          "children": {}
+        },
+        "基础": {
+          "name": "基础",
+          "path": "数字营销/基础",
+          "count": 1,
+          "children": {}
+        },
+        "渠道": {
+          "name": "渠道",
+          "path": "数字营销/渠道",
+          "count": 5,
+          "children": {}
+        }
+      }
+    },
+    "系统编程": {
+      "name": "系统编程",
+      "path": "系统编程",
+      "count": 9,
+      "children": {}
     },
     "心理学": {
       "name": "心理学",
@@ -499,17 +584,17 @@
     "英语考试": {
       "name": "英语考试",
       "path": "英语考试",
-      "count": 1,
+      "count": 23,
       "children": {
         "四六级": {
           "name": "四六级",
           "path": "英语考试/四六级",
-          "count": 1,
+          "count": 2,
           "children": {
             "词汇": {
               "name": "词汇",
               "path": "英语考试/四六级/词汇",
-              "count": 1,
+              "count": 2,
               "children": {}
             }
           }
@@ -520,6 +605,24 @@
       "name": "营销增长",
       "path": "营销增长",
       "count": 2,
+      "children": {}
+    },
+    "营销自动化": {
+      "name": "营销自动化",
+      "path": "营销自动化",
+      "count": 4,
+      "children": {}
+    },
+    "营养师": {
+      "name": "营养师",
+      "path": "营养师",
+      "count": 9,
+      "children": {}
+    },
+    "云原生": {
+      "name": "云原生",
+      "path": "云原生",
+      "count": 11,
       "children": {}
     },
     "执业药师": {
@@ -620,6 +723,12 @@
           "children": {}
         }
       }
+    },
+    "AI推理加速": {
+      "name": "AI推理加速",
+      "path": "AI推理加速",
+      "count": 9,
+      "children": {}
     }
   }
 }

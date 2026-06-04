@@ -45,6 +45,14 @@ function normalizePath(value) {
   return String(value || '').replace(/\\/g, '/');
 }
 
+// 文件名安全化：将非法字符替换为 -
+function sanitizeFilename(name) {
+  return String(name)
+    .replace(/[\\/:*?"<>|]/g, '-')
+    .replace(/\s+/g, '_')
+    .trim();
+}
+
 function normalizeCategory(category) {
   return normalizePath(category)
     .split('/')
@@ -347,7 +355,7 @@ async function build() {
         },
         articles: articlesWithTag.map(file => buildListItem(file, true))
       };
-      const tagFilePath = path.join(config.tagDir, `${tag}.json`);
+      const tagFilePath = path.join(config.tagDir, `${sanitizeFilename(tag)}.json`);
       fs.writeFileSync(tagFilePath, JSON.stringify(tagData, null, 2));
       console.log(`✅ 已生成标签文件: ${tagFilePath}`);
     });

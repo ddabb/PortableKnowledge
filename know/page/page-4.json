@@ -1,280 +1,301 @@
 {
   "page": 4,
-  "totalPages": 36,
-  "totalItems": 720,
+  "totalPages": 44,
+  "totalItems": 867,
   "items": [
     {
-      "filename": "一级建造师_项目沟通管理.json",
-      "title": "项目沟通管理",
-      "description": "",
-      "category": "建造师/一级建造师",
+      "filename": "基金投资_基金入门.json",
+      "title": "基金是什么？把钱交给专业的人打理",
+      "description": "用通俗易懂的方式解释基金的概念、运作原理，以及为什么基金适合普通投资者。",
+      "category": "家庭理财/基金投资",
       "tags": [
+        "基金",
+        "基金经理",
+        "基金净值",
+        "认购",
+        "申购"
+      ],
+      "wordCount": 1013,
+      "id": "b16284f4c3ebf0d2"
+    },
+    {
+      "filename": "基金投资_指数基金与主动基金.json",
+      "title": "指数基金和主动基金，哪个更适合你？",
+      "description": "解析被动型指数基金和主动管理型基金的区别、优劣势，以及普通投资者应该如何选择。",
+      "category": "家庭理财/基金投资",
+      "tags": [
+        "指数基金",
+        "主动基金",
+        "被动投资",
+        "基金比较",
+        "ETF"
+      ],
+      "wordCount": 1158,
+      "id": "22cd5e8f1b094828"
+    },
+    {
+      "filename": "建造师_核心考点.json",
+      "title": "建造师考试核心考点",
+      "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
+      "category": "建造师",
+      "tags": [
+        "建造师",
         "一建",
-        "沟通管理",
+        "二建"
+      ],
+      "wordCount": 4763,
+      "id": "891b181955bf8c6c"
+    },
+    {
+      "filename": "二级建造师_公路工程管理与实务.json",
+      "title": "公路工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "公路工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 1549,
+      "id": "1240fa0d522af118"
+    },
+    {
+      "filename": "二级建造师_机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "机电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 1873,
+      "id": "bfe11c4860e52603"
+    },
+    {
+      "filename": "二级建造师_建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "法规",
+        "建造师"
+      ],
+      "wordCount": 559,
+      "id": "db168e021cb0af71"
+    },
+    {
+      "filename": "二级建造师_建设工程法律法规实务.json",
+      "title": "建设工程法律法规实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "法律法规",
+        "实务",
+        "建造师",
+        "法人制度",
+        "代理制度",
+        "物权制度",
+        "债权制度",
+        "知识产权制度",
+        "担保制度",
+        "保险制度",
+        "法律责任制度",
+        "招标投标制度",
+        "承发包制度",
+        "分包制度",
+        "安全生产",
+        "质量保修"
+      ],
+      "wordCount": 5957,
+      "id": "1b488fe70388ed27"
+    },
+    {
+      "filename": "二级建造师_建设工程施工管理.json",
+      "title": "建设工程施工管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "施工管理",
+        "建造师"
+      ],
+      "wordCount": 451,
+      "id": "6a8179b10f109354"
+    },
+    {
+      "filename": "二级建造师_建筑工程管理与实务.json",
+      "title": "建筑工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "建筑工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 2039,
+      "id": "a1bcf29ecea453db"
+    },
+    {
+      "filename": "二级建造师_施工技术与管理.json",
+      "title": "施工技术与管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "施工技术",
+        "管理",
+        "建造师"
+      ],
+      "wordCount": 1936,
+      "id": "2cf94587fbc8d89b"
+    },
+    {
+      "filename": "二级建造师_市政公用工程管理与实务.json",
+      "title": "市政公用工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "市政工程",
+        "实务",
+        "建造师",
+        "市政公用工程技术",
+        "市政公用工程项目施工管理",
+        "市政公用工程项目施工相关法规与标准"
+      ],
+      "wordCount": 3101,
+      "id": "f936e49ca2584e1f"
+    },
+    {
+      "filename": "二级建造师_水利水电工程管理与实务.json",
+      "title": "水利水电工程管理与实务",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "水利水电工程",
+        "实务",
+        "建造师"
+      ],
+      "wordCount": 299,
+      "id": "2a47b56568900495"
+    },
+    {
+      "filename": "二级建造师_项目安全管理.json",
+      "title": "项目安全管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "安全管理",
         "项目管理",
         "建造师"
       ],
-      "wordCount": 2709,
-      "id": "cecb4e65997daedd"
+      "wordCount": 3303,
+      "id": "8fe4ea7995d306b2"
     },
     {
-      "filename": "一级建造师_项目管理实务.json",
+      "filename": "二级建造师_项目成本管理.json",
+      "title": "项目成本管理",
+      "description": "",
+      "category": "建造师/二级建造师",
+      "tags": [
+        "二建",
+        "成本管理",
+        "项目管理",
+        "建造师"
+      ],
+      "wordCount": 2190,
+      "id": "b8d7bb2f2668fe1b"
+    },
+    {
+      "filename": "二级建造师_项目管理实务.json",
       "title": "项目管理实务",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "建造师/二级建造师",
       "tags": [
-        "一建",
+        "二建",
         "项目管理",
         "实务",
         "建造师"
       ],
       "wordCount": 5027,
-      "id": "592f2ac643888a83"
+      "id": "af4d0bf7f7db151a"
     },
     {
-      "filename": "一级建造师_项目合同管理.json",
-      "title": "项目合同管理",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "合同管理",
-        "项目管理",
-        "建造师",
-        "合同管理概述",
-        "合同订立",
-        "合同履行",
-        "合同变更与解除",
-        "违约责任",
-        "合同纠纷处理",
-        "合同管理实务"
-      ],
-      "wordCount": 3449,
-      "id": "26b9c0766862828c"
-    },
-    {
-      "filename": "一级建造师_项目进度管理.json",
+      "filename": "二级建造师_项目进度管理.json",
       "title": "项目进度管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "建造师/二级建造师",
       "tags": [
-        "一建",
+        "二建",
         "进度管理",
         "项目管理",
         "建造师"
       ],
-      "wordCount": 3123,
-      "id": "d3e3167c6698282e"
+      "wordCount": 1566,
+      "id": "c7c752a4767c2f39"
     },
     {
-      "filename": "一级建造师_项目收尾管理.json",
-      "title": "项目收尾管理",
-      "description": "",
-      "category": "建造师/一级建造师",
-      "tags": [
-        "一建",
-        "收尾管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 2866,
-      "id": "ae4580952208ff40"
-    },
-    {
-      "filename": "一级建造师_项目质量管理.json",
+      "filename": "二级建造师_项目质量管理.json",
       "title": "项目质量管理",
       "description": "",
-      "category": "建造师/一级建造师",
+      "category": "建造师/二级建造师",
       "tags": [
-        "一建",
+        "二建",
         "质量管理",
         "项目管理",
         "建造师"
       ],
-      "wordCount": 4656,
-      "id": "ef5aeb98d5443572"
+      "wordCount": 3213,
+      "id": "71c39f516c268fd1"
     },
     {
-      "filename": "教师资格证_核心考点.json",
-      "title": "教师资格证考试核心考点",
-      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
-      "category": "教师资格证",
-      "tags": [
-        "教资",
-        "教育学",
-        "心理学"
-      ],
-      "wordCount": 3569,
-      "id": "bd7849ae8f9e3d7a"
-    },
-    {
-      "filename": "小学_小学班级管理.json",
-      "title": "小学班级管理",
+      "filename": "一级建造师_公路工程管理与实务.json",
+      "title": "公路工程管理与实务",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "建造师/一级建造师",
       "tags": [
-        "小学教育",
-        "班级管理",
-        "学生管理"
+        "一建",
+        "公路工程",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 3662,
-      "id": "f83ca1688447cb2a"
+      "wordCount": 2920,
+      "id": "fc359992b46f3ed3"
     },
     {
-      "filename": "小学_小学教师职业道德.json",
-      "title": "小学教师职业道德",
+      "filename": "一级建造师_机电工程管理与实务.json",
+      "title": "机电工程管理与实务",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "建造师/一级建造师",
       "tags": [
-        "小学教育",
-        "教师职业道德",
-        "师德师风"
+        "一建",
+        "机电工程",
+        "实务",
+        "建造师"
       ],
-      "wordCount": 2833,
-      "id": "562e4f8f9266c0bb"
+      "wordCount": 3153,
+      "id": "a7b57ed1618be4bb"
     },
     {
-      "filename": "小学_小学教育法律法规.json",
-      "title": "小学教育法律法规",
+      "filename": "一级建造师_建设工程法规及相关知识.json",
+      "title": "建设工程法规及相关知识",
       "description": "",
-      "category": "教师资格证/小学",
+      "category": "建造师/一级建造师",
       "tags": [
-        "小学教育",
-        "教育法律法规",
-        "法律责任"
+        "一建",
+        "法规",
+        "建造师"
       ],
-      "wordCount": 4252,
-      "id": "13661ad8ab96940a"
-    },
-    {
-      "filename": "小学_小学教育方法.json",
-      "title": "小学教育方法",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育方法",
-        "教学策略"
-      ],
-      "wordCount": 3351,
-      "id": "f9709b09b7ff200c"
-    },
-    {
-      "filename": "小学_小学教育改革与发展.json",
-      "title": "小学教育改革与发展",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育改革",
-        "素质教育"
-      ],
-      "wordCount": 3181,
-      "id": "3fd4088869a93ee9"
-    },
-    {
-      "filename": "小学_小学教育技术应用.json",
-      "title": "小学教育技术应用",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育技术",
-        "信息技术"
-      ],
-      "wordCount": 3477,
-      "id": "75e1c1a7f150c824"
-    },
-    {
-      "filename": "小学_小学教育教学实践案例分析.json",
-      "title": "小学教育教学实践案例分析",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教学实践",
-        "案例分析"
-      ],
-      "wordCount": 4457,
-      "id": "831afd4414eced23"
-    },
-    {
-      "filename": "小学_小学教育科研.json",
-      "title": "小学教育科研",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育科研",
-        "教师专业发展"
-      ],
-      "wordCount": 4389,
-      "id": "8a3bdad264b87987"
-    },
-    {
-      "filename": "小学_小学教育科研方法.json",
-      "title": "小学教育科研方法",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育科研",
-        "研究方法"
-      ],
-      "wordCount": 3692,
-      "id": "32c63f0d34200f06"
-    },
-    {
-      "filename": "小学_小学教育评价.json",
-      "title": "小学教育评价",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育评价",
-        "学生评价"
-      ],
-      "wordCount": 3105,
-      "id": "3086d2831fabf871"
-    },
-    {
-      "filename": "小学_小学教育心理学知识.json",
-      "title": "小学教育心理学知识",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育心理学",
-        "学生心理"
-      ],
-      "wordCount": 3742,
-      "id": "b73086b5633432e6"
-    },
-    {
-      "filename": "小学_小学教育学基础知识.json",
-      "title": "小学教育学基础知识",
-      "description": "",
-      "category": "教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育学",
-        "基础知识"
-      ],
-      "wordCount": 2654,
-      "id": "b6f3ffb99693b5a1"
-    },
-    {
-      "filename": "幼儿_安全卫生.json",
-      "title": "安全卫生",
-      "description": "",
-      "category": "教师资格证/幼儿",
-      "tags": [
-        "安全卫生",
-        "幼儿安全",
-        "教资"
-      ],
-      "wordCount": 1906,
-      "id": "b5ad38e86ee32c6d"
+      "wordCount": 559,
+      "id": "7eef789c72cc2e71"
     }
   ]
 }

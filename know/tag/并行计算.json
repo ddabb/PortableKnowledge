@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "tag": "并行计算",
+    "count": 4
+  },
+  "articles": [
+    {
+      "filename": "高性能计算_并行计算原理.json",
+      "title": "并行计算原理",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "并行计算",
+        "Amdahl定律",
+        "Gustafson定律",
+        "并行算法"
+      ],
+      "wordCount": 4626,
+      "id": "83155773d622ea24"
+    },
+    {
+      "filename": "高性能计算_分布式内存并行.json",
+      "title": "分布式内存并行",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "分布式内存",
+        "MPI",
+        "并行计算",
+        "集群计算"
+      ],
+      "wordCount": 5761,
+      "id": "99dd606235dca419"
+    },
+    {
+      "filename": "高性能计算_GPU加速计算.json",
+      "title": "GPU加速计算",
+      "description": "",
+      "category": "高性能计算",
+      "tags": [
+        "高性能计算",
+        "GPU加速",
+        "CUDA",
+        "并行计算",
+        "异构计算"
+      ],
+      "wordCount": 5854,
+      "id": "f7f8c65ac0b64385"
+    },
+    {
+      "filename": "AI推理加速_GPU编程与CUDA优化.json",
+      "title": "GPU编程与CUDA优化",
+      "description": "GPU编程基础、CUDA核心概念、优化技巧和实战案例，涵盖线程模型、内存层次、算子优化等核心技术",
+      "category": "AI推理加速",
+      "tags": [
+        "GPU编程",
+        "CUDA",
+        "并行计算",
+        "线程模型",
+        "内存优化",
+        "算子优化",
+        "性能调优"
+      ],
+      "wordCount": 8952,
+      "id": "9815d6c1c0a0bd95"
+    }
+  ]
+}

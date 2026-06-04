@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "容器化",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "云原生_Docker容器化.json",
+      "title": "Docker容器化",
+      "description": "",
+      "category": "云原生",
+      "tags": [
+        "云原生",
+        "Docker",
+        "容器化",
+        "镜像构建",
+        "容器编排"
+      ],
+      "wordCount": 5477,
+      "id": "a4dd0045ee8861b5"
+    }
+  ]
+}

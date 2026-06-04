@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "Snowflake",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "分布式系统_分布式ID生成.json",
+      "title": "分布式ID生成",
+      "description": "分布式ID生成的核心概念、实现方案、关键问题及最佳实践",
+      "category": "分布式系统",
+      "tags": [
+        "分布式ID",
+        "Snowflake",
+        "UUID",
+        "数据库自增",
+        "Redis生成"
+      ],
+      "wordCount": 5767,
+      "id": "f6fec588ebd9a68d"
+    }
+  ]
+}
