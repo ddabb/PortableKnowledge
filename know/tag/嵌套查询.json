@@ -8,7 +8,7 @@
       "filename": "SQL数据库_SQL子查询.json",
       "title": "SQL子查询",
       "description": "SQL子查询（Subquery）是嵌套在另一个SQL语句中的查询，用于解决复杂的数据提取需求",
-      "category": "01_技术IT领域/数据分析师/SQL数据库",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -17,7 +17,7 @@
         "嵌套查询"
       ],
       "wordCount": 8655,
-      "id": "bb9120c004a63061"
+      "id": "3de170c489a39d3a"
     }
   ]
 }

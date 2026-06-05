@@ -8,7 +8,7 @@
       "filename": "AI推理加速_分布式推理.json",
       "title": "分布式推理",
       "description": "分布式推理的核心技术、并行策略、通信优化和实战案例，涵盖张量并行、流水线并行、序列并行、数据并行等",
-      "category": "01_技术IT领域/AI推理加速",
+      "category": "技术/AI推理加速",
       "tags": [
         "分布式推理",
         "张量并行",
@@ -19,13 +19,13 @@
         "通信优化"
       ],
       "wordCount": 9452,
-      "id": "896c456ac1aa437d"
+      "id": "f06787b7e450b834"
     },
     {
       "filename": "AI推理加速_LLM推理优化.json",
       "title": "LLM推理优化",
       "description": "大语言模型推理优化技术，涵盖KV Cache、PagedAttention、Continuous Batching、量化、并行策略等核心技术",
-      "category": "01_技术IT领域/AI推理加速",
+      "category": "技术/AI推理加速",
       "tags": [
         "LLM",
         "大语言模型",
@@ -37,13 +37,13 @@
         "模型并行"
       ],
       "wordCount": 7718,
-      "id": "e4ed43c81f3ab0bb"
+      "id": "b3bafea695787632"
     },
     {
       "filename": "AI推理加速_TensorRT-LLM推理引擎.json",
       "title": "TensorRT-LLM推理引擎",
       "description": "TensorRT-LLM的核心技术、架构设计、使用方法和性能优化，涵盖算子融合、量化、FP8、模型并行等高级技术",
-      "category": "01_技术IT领域/AI推理加速",
+      "category": "技术/AI推理加速",
       "tags": [
         "TensorRT-LLM",
         "NVIDIA",
@@ -55,7 +55,7 @@
         "低延迟"
       ],
       "wordCount": 10555,
-      "id": "b4b7c29b296cf917"
+      "id": "11283a7ba622633b"
     }
   ]
 }

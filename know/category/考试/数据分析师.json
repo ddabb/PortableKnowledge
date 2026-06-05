@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "category": "考试/数据分析师",
+    "count": 2
+  },
+  "articles": [
+    {
+      "filename": "数据分析师_业务分析方法.json",
+      "title": "业务分析方法",
+      "description": "业务分析方法是数据分析师将数据分析结果转化为业务价值的关键能力，包括用户分析、产品分析、运营分析等多个维度",
+      "category": "考试/数据分析师",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "用户分析",
+        "产品分析",
+        "运营分析"
+      ],
+      "wordCount": 6760,
+      "id": "c7c34b96d3650cd6"
+    },
+    {
+      "filename": "数据分析师_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式",
+      "category": "考试/数据分析师",
+      "tags": [
+        "数据分析师",
+        "SQL",
+        "多表连接",
+        "JOIN",
+        "数据分析"
+      ],
+      "wordCount": 8136,
+      "id": "af705ff88a8541f5"
+    }
+  ]
+}

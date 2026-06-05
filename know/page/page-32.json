@@ -1,265 +1,330 @@
 {
   "page": 32,
-  "totalPages": 44,
-  "totalItems": 877,
+  "totalPages": 45,
+  "totalItems": 889,
   "items": [
     {
-      "filename": "项目进度管理_项目日历.json",
-      "title": "项目日历",
-      "description": "在项目日历中规定可以开展进度活动的可用工作日和工作班次，它把可用于开展进度活动的时间段（按天或更小的时间单位）与不可用的时间段区分开来。",
-      "category": "05_通用知识领域/软考/项目管理/项目进度管理",
+      "filename": "Excel数据分析_Excel高级数据分析功能.json",
+      "title": "Excel高级数据分析功能",
+      "description": "Excel提供了多种高级数据分析功能，包括分析工具库、规划求解、方案管理器等，掌握这些功能能有效提升数据分析效率",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
-        "规划过程组",
-        "制定进度计划",
-        "项目管理"
+        "数据分析师",
+        "Excel数据分析",
+        "高级数据分析功能",
+        "分析工具库",
+        "规划求解",
+        "方案管理器",
+        "数据分析"
       ],
-      "wordCount": 2058,
-      "id": "5f01cd77b08a636e"
+      "wordCount": 5213,
+      "id": "79e36ad3d8fff66e"
     },
     {
-      "filename": "项目进度管理_制定进度计划.json",
-      "title": "制定进度计划",
-      "description": "制定进度计划是分析活动顺序、持续时间、资源需求和进度制约因素，创建进度模型，从而落实项目执行和监控的过程。",
-      "category": "05_通用知识领域/软考/项目管理/项目进度管理",
+      "filename": "Excel数据分析_Excel公式与函数进阶.json",
+      "title": "Excel公式与函数进阶",
+      "description": "Excel公式与函数进阶是数据分析师使用Excel进行复杂数据分析的技能，包括逻辑函数、查找函数、文本函数、日期函数等",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
-        "规划过程组",
-        "制定进度计划",
-        "PMP"
+        "数据分析师",
+        "Excel数据分析",
+        "Excel公式",
+        "Excel函数",
+        "逻辑函数",
+        "查找函数",
+        "数据分析"
       ],
-      "wordCount": 1407,
-      "id": "80b66fbb876fa4bd"
+      "wordCount": 6649,
+      "id": "0d85916c600a9217"
     },
     {
-      "filename": "项目进度管理_资源优化.json",
-      "title": "资源优化",
-      "description": "资源优化用于调整活动的开始和完成日期，以调整计划使用的资源，使其等于或少于可用的资源。",
-      "category": "05_通用知识领域/软考/项目管理/项目进度管理",
+      "filename": "Excel数据分析_Excel数据分析常用函数.json",
+      "title": "Excel数据分析常用函数",
+      "description": "Excel提供了丰富的数据分析函数，包括查找函数、逻辑函数、文本函数、日期时间函数等，掌握这些函数能有效提升数据分析效率",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
-        "规划过程组",
-        "制定进度计划"
+        "数据分析师",
+        "Excel数据分析",
+        "常用函数",
+        "查找函数",
+        "逻辑函数",
+        "文本函数",
+        "日期时间函数",
+        "数据分析"
       ],
-      "wordCount": 443,
-      "id": "f6823346d51e2d72"
+      "wordCount": 7070,
+      "id": "4e64953d6ce21c69"
     },
     {
-      "filename": "项目进度管理_自下而上估算.json",
-      "title": "自下而上估算",
-      "description": "自下而上估算是一种估算项目持续时间或成本的方法，通过从下到上逐层汇总 WBS 组成部分的估算而得到项目估算。",
-      "category": "05_通用知识领域/软考/项目管理/项目进度管理",
+      "filename": "Excel数据分析_Excel数据建模.json",
+      "title": "Excel数据建模",
+      "description": "Excel数据建模是通过建立数据模型来实现复杂数据分析和报表制作的过程，掌握数据建模能有效提升数据分析能力",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
-        "规划过程组",
-        "估算活动持续时间",
-        "自下而上估算",
-        "成本管理"
+        "数据分析师",
+        "Excel数据分析",
+        "数据建模",
+        "数据模型",
+        "Power Pivot",
+        "数据关系",
+        "数据分析"
       ],
-      "wordCount": 2470,
-      "id": "5abe0559cf1b70cb"
+      "wordCount": 5874,
+      "id": "b8796aa400de15a4"
     },
     {
-      "filename": "项目经理的角色_背景层面的整合.json",
-      "title": "背景层面的整合",
-      "description": "与几十年前相比，当今企业和项目所处的环境有了很大的变化。新技术不断涌现。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Excel数据分析_Excel数据透视表与图表.json",
+      "title": "Excel数据透视表与图表",
+      "description": "Excel数据透视表和图表是强大的数据分析工具，掌握这些功能能有效提升数据分析效率和可视化效果",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
-        "执行整合",
-        "背景层面的整合",
-        "项目经理的角色"
+        "数据分析师",
+        "Excel数据分析",
+        "数据透视表",
+        "图表",
+        "数据分析",
+        "数据可视化",
+        "透视表",
+        "图表类型"
       ],
-      "wordCount": 3917,
-      "id": "41914f6a9b1f1cb7"
+      "wordCount": 4888,
+      "id": "6b7b637b05684b7e"
     },
     {
-      "filename": "项目经理的角色_技术项目管理技能.json",
-      "title": "技术项目管理技能",
-      "description": "技术项目管理技能指有效运用项目管理知识实现项目集或项目的预期成果的能力。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Excel数据分析_图表制作.json",
+      "title": "Excel图表制作",
+      "description": "Excel图表制作是数据分析师展示数据洞察的重要技能，包括柱状图、折线图、饼图等多种图表类型",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
-        "项目经理的能力",
-        "项目管理",
-        "项目管理知识体系"
+        "数据分析师",
+        "Excel数据分析",
+        "图表制作",
+        "数据可视化",
+        "Excel图表"
       ],
-      "wordCount": 317,
-      "id": "dbd3b1e677d22579"
+      "wordCount": 5889,
+      "id": "be010a4552dda5ac"
     },
     {
-      "filename": "项目经理的角色_认知层面的整合.json",
-      "title": "认知层面的整合",
-      "description": "管理项目的方法有很多，而方法的选择通常取决于项目的具体特点，包括规模、项目或组织的复杂性，以及执行组织的文化。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Python数据分析_数据可视化基础.json",
+      "title": "数据可视化基础",
+      "description": "数据可视化是数据分析师展示分析结果的重要手段，Matplotlib和Seaborn是Python中最常用的可视化库",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
-        "执行整合",
-        "认知层面的整合",
-        "项目管理知识体系",
-        "项目经理的能力"
+        "数据分析师",
+        "Python数据分析",
+        "数据可视化",
+        "Matplotlib",
+        "Seaborn"
       ],
-      "wordCount": 3741,
-      "id": "11511459db89bdf4"
+      "wordCount": 9353,
+      "id": "bb058a2618166108"
     },
     {
-      "filename": "项目经理的角色_项目.json",
-      "title": "项目",
-      "description": "项目经理领导项目团队实现项目目标和相关方的期望。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Python数据分析_数据清洗与预处理.json",
+      "title": "数据清洗与预处理",
+      "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
-        "项目经理的影响力范围",
-        "项目管理"
+        "数据分析师",
+        "Python数据分析",
+        "数据清洗",
+        "数据预处理",
+        "缺失值处理",
+        "异常值处理",
+        "数据分析"
       ],
-      "wordCount": 653,
-      "id": "e1e8b17e039f002c"
+      "wordCount": 12373,
+      "id": "c7feb37c7ac784a5"
     },
     {
-      "filename": "项目经理的角色_行业.json",
-      "title": "行业",
-      "description": "项目经理应时刻关注行业的最新发展趋势，获得并思考这一信息对当前项目是否有影响或可用。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Python数据分析_Matplotlib_Seaborn可视化进阶.json",
+      "title": "Matplotlib/Seaborn可视化进阶",
+      "description": "Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
-        "项目经理的影响力范围"
+        "数据分析师",
+        "Python数据分析",
+        "Matplotlib",
+        "Seaborn",
+        "数据可视化",
+        "进阶技巧",
+        "数据分析"
       ],
-      "wordCount": 2119,
-      "id": "0776fd791acdb657"
+      "wordCount": 9790,
+      "id": "965bc44520d920ed"
     },
     {
-      "filename": "项目经理的角色_在过程层面执行整合.json",
-      "title": "在过程层面执行整合",
-      "description": "项目管理可被看作为实现项目目标而采取的一系列过程和活动。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Python数据分析_NumPy基础.json",
+      "title": "NumPy基础",
+      "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
-        "执行整合",
-        "过程层面执行整合",
-        "项目管理过程",
-        "项目目标"
+        "数据分析师",
+        "Python数据分析",
+        "NumPy",
+        "数组操作",
+        "数值计算"
       ],
-      "wordCount": 4667,
-      "id": "dcc161ee09e2fd5c"
+      "wordCount": 9306,
+      "id": "e4d68da3e90d0092"
     },
     {
-      "filename": "项目经理的角色_整合与复杂性.json",
-      "title": "整合与复杂性",
-      "description": "有些项目可能非常复杂，难以管理。简单来说，“复杂”一词通常被用来描述难以理解或错综复杂的事物。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Python数据分析_Pandas高级数据处理.json",
+      "title": "Pandas高级数据处理",
+      "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
-        "执行整合"
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "高级数据处理",
+        "数据清洗",
+        "数据转换",
+        "数据分析"
       ],
-      "wordCount": 448,
-      "id": "82ee5ced9589960e"
+      "wordCount": 9337,
+      "id": "2bb31146830c4cd5"
     },
     {
-      "filename": "项目经理的角色_执行整合.json",
-      "title": "执行整合",
-      "description": "项目经理扮演重要角色，与项目发起人携手合作，既要了解战略目标并确保项目目标和成果与项目组合、项目集以及业务领域保持一致。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Python数据分析_Pandas基础.json",
+      "title": "Pandas基础",
+      "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
-        "执行整合",
-        "项目管理知识体系"
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "DataFrame",
+        "Series"
       ],
-      "wordCount": 256,
-      "id": "3c51f03695379717"
+      "wordCount": 10550,
+      "id": "9748010bce21768b"
     },
     {
-      "filename": "项目经理的角色_专业学科.json",
-      "title": "专业学科",
-      "description": "对项目经理而言，持续的知识传递和整合非常重要。",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Python数据分析_Python数据分析基础.json",
+      "title": "Python数据分析基础",
+      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
-        "项目经理的影响力范围"
+        "数据分析师",
+        "Python数据分析",
+        "Python基础",
+        "NumPy",
+        "Pandas",
+        "数据分析"
       ],
-      "wordCount": 2385,
-      "id": "86e4301636673aef"
+      "wordCount": 10145,
+      "id": "3f600ff76b791114"
     },
     {
-      "filename": "项目经理的角色_组织.json",
-      "title": "组织",
-      "description": "项目经理需要积极地与其他项目经理互动。其他独立项目或同一项目集的其他项目可能会对项目造成影响，原因包括（但不限于）：",
-      "category": "05_通用知识领域/软考/项目管理/项目经理的角色",
+      "filename": "Python数据分析_Scikit-learn机器学习入门.json",
+      "title": "Scikit-learn机器学习入门",
+      "description": "Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
-        "项目经理的影响力范围"
+        "数据分析师",
+        "Python数据分析",
+        "Scikit-learn",
+        "机器学习",
+        "预测建模",
+        "监督学习",
+        "无监督学习",
+        "数据分析"
       ],
-      "wordCount": 634,
-      "id": "4f0eaa659f395939"
+      "wordCount": 12849,
+      "id": "1d12fab5af4568ad"
     },
     {
-      "filename": "项目立项管理_初步可行性研究与详细可行性研究.json",
-      "title": "初步可行性研究与详细可行性研究",
-      "description": "初步可研和详细可研在内容范围、估算精度、原则方法上的对比，是立项管理的重要考点。",
-      "category": "05_通用知识领域/软考/项目管理/项目立项管理",
+      "filename": "SQL数据库_窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
-        "可行性研究",
-        "初步可行性研究",
-        "详细可行性研究",
-        "项目立项管理"
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "Window Functions"
       ],
-      "wordCount": 704,
-      "id": "cadcd11c52628cf5"
+      "wordCount": 9326,
+      "id": "502e996740f6ce22"
     },
     {
-      "filename": "项目立项管理_可行性研究内容.json",
-      "title": "可行性研究内容",
-      "description": "可行性研究包括技术、经济、社会效益、运行环境、法律五个维度，记忆口诀\"技经社风法\"。",
-      "category": "05_通用知识领域/软考/项目管理/项目立项管理",
+      "filename": "SQL数据库_SQL窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
-        "可行性研究",
-        "技经社风法",
-        "项目立项管理",
-        "经济可行性"
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "SQL高级查询",
+        "数据分析"
       ],
-      "wordCount": 686,
-      "id": "ca528bfef17169dc"
+      "wordCount": 9748,
+      "id": "931c28f20e94d592"
     },
     {
-      "filename": "项目立项管理_项目建议书.json",
-      "title": "项目建议书",
-      "description": "项目建议书（立项申请）是项目建设单位向上级主管部门提交项目申请时必须的文件，是立项管理的起点。",
-      "category": "05_通用知识领域/软考/项目管理/项目立项管理",
+      "filename": "SQL数据库_多表连接.json",
+      "title": "SQL多表连接",
+      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
-        "项目建议书",
-        "立项申请",
-        "项目立项管理",
-        "启动过程组"
+        "数据分析师",
+        "SQL数据库",
+        "多表连接",
+        "JOIN"
       ],
-      "wordCount": 457,
-      "id": "ed5fa62bf9c9c589"
+      "wordCount": 11305,
+      "id": "ad4e96267f19b013"
     },
     {
-      "filename": "项目立项管理_项目立项与可行性研究.json",
-      "title": "项目立项与可行性研究",
-      "description": "软考中项项目立项核心内容，包括可行性研究的类型、内容、项目建议书及立项审批流程。",
-      "category": "05_通用知识领域/软考/项目管理/项目立项管理",
+      "filename": "SQL数据库_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
-        "项目立项",
-        "可行性研究",
-        "中项核心",
-        "启动过程组"
+        "数据分析师",
+        "SQL数据库",
+        "SQL多表连接",
+        "JOIN",
+        "数据分析"
       ],
-      "wordCount": 949,
-      "id": "90d44c076d4a98f1"
+      "wordCount": 8928,
+      "id": "7b60afdf46a87876"
     },
     {
-      "filename": "项目立项管理_项目评估与决策.json",
-      "title": "项目评估与决策",
-      "description": "项目评估是由第三方在可行性研究基础上进行的评价论证，最终成果是项目评估报告，为审批决策提供科学依据。",
-      "category": "05_通用知识领域/软考/项目管理/项目立项管理",
+      "filename": "SQL数据库_分组聚合.json",
+      "title": "SQL分组聚合",
+      "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
-        "项目评估",
-        "项目决策",
-        "第三方评估",
-        "项目立项管理"
+        "数据分析师",
+        "SQL数据库",
+        "分组聚合",
+        "GROUP BY",
+        "聚合函数"
       ],
-      "wordCount": 576,
-      "id": "934cc4327974dde4"
+      "wordCount": 9890,
+      "id": "25666e7ae96eb57a"
     },
     {
-      "filename": "项目立项管理_信息系统监理.json",
-      "title": "信息系统监理",
-      "description": "软考中项信息系统工程监理核心知识，包括监理的概念、职责范围、监理文档及监理人员要求。",
-      "category": "05_通用知识领域/软考/项目管理/项目立项管理",
+      "filename": "SQL数据库_SQL高级查询.json",
+      "title": "SQL高级查询",
+      "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
-        "信息系统监理",
-        "中项核心",
-        "项目管理",
-        "质量管理"
+        "数据分析师",
+        "SQL数据库",
+        "SQL高级查询",
+        "窗口函数",
+        "CTE",
+        "子查询",
+        "集合操作",
+        "数据分析"
       ],
-      "wordCount": 1051,
-      "id": "712914132b6f0ca3"
+      "wordCount": 8225,
+      "id": "ef586471a6014b36"
     }
   ]
 }

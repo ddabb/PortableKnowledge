@@ -8,7 +8,7 @@
       "filename": "分布式系统_分布式监控.json",
       "title": "分布式监控",
       "description": "",
-      "category": "01_技术IT领域/分布式系统",
+      "category": "技术/分布式系统",
       "tags": [
         "分布式监控",
         "Prometheus",
@@ -17,13 +17,13 @@
         "可观测性"
       ],
       "wordCount": 4639,
-      "id": "249105f09277e6d6"
+      "id": "d3aa5a7a352201d7"
     },
     {
       "filename": "云原生_云原生可观测性.json",
       "title": "云原生可观测性",
       "description": "",
-      "category": "01_技术IT领域/云原生",
+      "category": "技术/云原生",
       "tags": [
         "云原生",
         "可观测性",
@@ -34,7 +34,7 @@
         "Grafana"
       ],
       "wordCount": 5365,
-      "id": "c4733cfddf760d2c"
+      "id": "5e084f2b2feac4d0"
     }
   ]
 }

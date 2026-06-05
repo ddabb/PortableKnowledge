@@ -8,7 +8,7 @@
       "filename": "Java开发核心_Java多线程与并发编程.json",
       "title": "Java多线程与并发编程",
       "description": "Java多线程编程核心技术，涵盖线程创建、同步机制、并发容器、性能优化和实战案例",
-      "category": "01_技术IT领域/零售电商系统/Java开发核心",
+      "category": "商业/零售电商系统/Java开发核心",
       "tags": [
         "Java",
         "多线程",
@@ -18,13 +18,13 @@
         "并发容器"
       ],
       "wordCount": 12586,
-      "id": "ab182e113d3f5055"
+      "id": "c237635c2c2283be"
     },
     {
       "filename": "Spring生态_Spring Boot核心原理与实践.json",
       "title": "Spring Boot核心原理与实践",
       "description": "",
-      "category": "01_技术IT领域/零售电商系统/Spring生态",
+      "category": "商业/零售电商系统/Spring生态",
       "tags": [
         "Java",
         "Spring Boot",
@@ -33,7 +33,7 @@
         "起步依赖"
       ],
       "wordCount": 6259,
-      "id": "8b4d9592c4a742ee"
+      "id": "07e0837e8ada433b"
     }
   ]
 }

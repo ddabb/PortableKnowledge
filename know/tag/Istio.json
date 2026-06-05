@@ -8,7 +8,7 @@
       "filename": "云原生_服务网格.json",
       "title": "服务网格",
       "description": "",
-      "category": "01_技术IT领域/云原生",
+      "category": "技术/云原生",
       "tags": [
         "云原生",
         "Service Mesh",
@@ -17,7 +17,7 @@
         "流量管理"
       ],
       "wordCount": 5045,
-      "id": "394287f581a1ab61"
+      "id": "1131c82b7a94a228"
     }
   ]
 }

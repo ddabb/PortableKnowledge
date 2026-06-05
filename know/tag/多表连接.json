@@ -8,7 +8,7 @@
       "filename": "数据分析师_SQL多表连接.json",
       "title": "SQL多表连接",
       "description": "SQL多表连接是SQL核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等连接方式",
-      "category": "01_技术IT领域/数据分析师",
+      "category": "考试/数据分析师",
       "tags": [
         "数据分析师",
         "SQL",
@@ -17,13 +17,13 @@
         "数据分析"
       ],
       "wordCount": 8136,
-      "id": "f3888b3c2cecb590"
+      "id": "af705ff88a8541f5"
     },
     {
       "filename": "SQL数据库_多表连接.json",
       "title": "SQL多表连接",
       "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
-      "category": "01_技术IT领域/数据分析师/SQL数据库",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -31,7 +31,7 @@
         "JOIN"
       ],
       "wordCount": 11305,
-      "id": "4c9d83baa2e75ad8"
+      "id": "ad4e96267f19b013"
     }
   ]
 }

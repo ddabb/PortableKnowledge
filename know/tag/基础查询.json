@@ -8,7 +8,7 @@
       "filename": "SQL数据库_基础查询.json",
       "title": "SQL基础查询",
       "description": "SQL基础查询是数据分析师最常用的技能，包括SELECT语句、WHERE过滤、ORDER BY排序、LIMIT限制等核心操作",
-      "category": "01_技术IT领域/数据分析师/SQL数据库",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -16,7 +16,7 @@
         "SELECT"
       ],
       "wordCount": 9500,
-      "id": "7b0aba6f346a7293"
+      "id": "b690904befdc1e75"
     }
   ]
 }

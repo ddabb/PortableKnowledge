@@ -8,7 +8,7 @@
       "filename": "高性能计算_共享内存并行.json",
       "title": "共享内存并行",
       "description": "",
-      "category": "01_技术IT领域/高性能计算",
+      "category": "技术/高性能计算",
       "tags": [
         "高性能计算",
         "共享内存",
@@ -17,13 +17,28 @@
         "并行编程"
       ],
       "wordCount": 5582,
-      "id": "9ae961f97f606ef4"
+      "id": "104a853beb699584"
+    },
+    {
+      "filename": "系统编程_并发编程实践.json",
+      "title": "并发编程实践",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "并发编程",
+        "多线程",
+        "无锁编程",
+        "性能优化"
+      ],
+      "wordCount": 4798,
+      "id": "fc013f7b7cf00366"
     },
     {
       "filename": "Java开发核心_Java多线程与并发编程.json",
       "title": "Java多线程与并发编程",
       "description": "Java多线程编程核心技术，涵盖线程创建、同步机制、并发容器、性能优化和实战案例",
-      "category": "01_技术IT领域/零售电商系统/Java开发核心",
+      "category": "商业/零售电商系统/Java开发核心",
       "tags": [
         "Java",
         "多线程",
@@ -33,22 +48,7 @@
         "并发容器"
       ],
       "wordCount": 12586,
-      "id": "ab182e113d3f5055"
-    },
-    {
-      "filename": "系统编程_并发编程实践.json",
-      "title": "并发编程实践",
-      "description": "",
-      "category": "01_技术IT领域/系统编程",
-      "tags": [
-        "系统编程",
-        "并发编程",
-        "多线程",
-        "无锁编程",
-        "性能优化"
-      ],
-      "wordCount": 4798,
-      "id": "0f635138bdbdbd24"
+      "id": "c237635c2c2283be"
     }
   ]
 }

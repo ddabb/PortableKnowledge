@@ -8,27 +8,27 @@
       "filename": "中学_教学设计案例分析.json",
       "title": "教学设计案例分析",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/中学",
+      "category": "考试/教师资格证/中学",
       "tags": [
         "教学设计",
         "案例分析",
         "教学实践"
       ],
       "wordCount": 4608,
-      "id": "0be51563ffb552d8"
+      "id": "be1a24d6b211402b"
     },
     {
       "filename": "中学_教学设计与实施.json",
       "title": "教学设计与实施",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/中学",
+      "category": "考试/教师资格证/中学",
       "tags": [
         "教学设计",
         "教学实施",
         "教学策略"
       ],
       "wordCount": 3865,
-      "id": "6a32b3f793ae1df7"
+      "id": "8a66de00363a8c02"
     }
   ]
 }

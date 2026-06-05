@@ -8,7 +8,7 @@
       "filename": "高性能计算_异构计算.json",
       "title": "异构计算",
       "description": "",
-      "category": "01_技术IT领域/高性能计算",
+      "category": "技术/高性能计算",
       "tags": [
         "高性能计算",
         "异构计算",
@@ -19,13 +19,13 @@
         "编程模型"
       ],
       "wordCount": 7451,
-      "id": "eb44dac3cecf48c4"
+      "id": "c948ac7b5b6f3bf1"
     },
     {
       "filename": "高性能计算_GPU加速计算.json",
       "title": "GPU加速计算",
       "description": "",
-      "category": "01_技术IT领域/高性能计算",
+      "category": "技术/高性能计算",
       "tags": [
         "高性能计算",
         "GPU加速",
@@ -34,7 +34,7 @@
         "异构计算"
       ],
       "wordCount": 5854,
-      "id": "ce1eb20fb80a5fff"
+      "id": "5937c2c9b779c257"
     }
   ]
 }

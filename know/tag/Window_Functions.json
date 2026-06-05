@@ -8,7 +8,7 @@
       "filename": "SQL数据库_窗口函数.json",
       "title": "SQL窗口函数",
       "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
-      "category": "01_技术IT领域/数据分析师/SQL数据库",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -16,7 +16,7 @@
         "Window Functions"
       ],
       "wordCount": 9326,
-      "id": "d52149a403771162"
+      "id": "502e996740f6ce22"
     }
   ]
 }

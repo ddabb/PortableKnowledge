@@ -8,46 +8,46 @@
       "filename": "小学_小学教育法律法规.json",
       "title": "小学教育法律法规",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
+      "category": "考试/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育法律法规",
         "法律责任"
       ],
       "wordCount": 4252,
-      "id": "86178c7e904a2d73"
+      "id": "06731459cc111e4f"
     },
     {
       "filename": "中学_教育法律法规案例分析.json",
       "title": "教育法律法规案例分析",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/中学",
+      "category": "考试/教师资格证/中学",
       "tags": [
         "教育法律法规",
         "案例分析",
         "法律责任"
       ],
       "wordCount": 4480,
-      "id": "1bfbd59c37a0b3ee"
+      "id": "cc8d32fb138d78e3"
     },
     {
       "filename": "中学_教育法律法规与教师职业道德.json",
       "title": "教育法律法规与教师职业道德",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/中学",
+      "category": "考试/教师资格证/中学",
       "tags": [
         "教育法律法规",
         "教师职业道德",
         "法律责任"
       ],
       "wordCount": 4917,
-      "id": "4e3cda7ece3db0cb"
+      "id": "e97fd516c8770d9f"
     },
     {
       "filename": "经济法_公司法概述.json",
       "title": "公司法概述",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/经济法",
+      "category": "考试/注册会计师/经济法",
       "tags": [
         "公司法",
         "经济法",
@@ -64,7 +64,7 @@
         "法律责任"
       ],
       "wordCount": 9230,
-      "id": "356982298810f452"
+      "id": "d5a5ccb5a8f94237"
     }
   ]
 }

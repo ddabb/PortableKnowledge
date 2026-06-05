@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "category": "考试/建造师",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "建造师_核心考点.json",
+      "title": "建造师考试核心考点",
+      "description": "一建/二建备考知识体系：工程法规、项目管理、专业实务核心考点",
+      "category": "考试/建造师",
+      "tags": [
+        "建造师",
+        "一建",
+        "二建"
+      ],
+      "wordCount": 4763,
+      "id": "4dca1207e7abb0c7"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
       "filename": "数据库内核_存储引擎对比.json",
       "title": "存储引擎对比",
       "description": "主流数据库存储引擎（InnoDB、MyISAM、PostgreSQL、RocksDB、WiredTiger）的架构对比、优缺点及适用场景",
-      "category": "01_技术IT领域/数据库内核",
+      "category": "技术/数据库内核",
       "tags": [
         "数据库内核",
         "存储引擎",
@@ -19,13 +19,13 @@
         "WiredTiger"
       ],
       "wordCount": 6559,
-      "id": "21bcc78911c0d4cf"
+      "id": "b5a4629f758da21a"
     },
     {
       "filename": "数据库内核_存储引擎实现.json",
       "title": "存储引擎实现",
       "description": "存储引擎的核心实现技术，重点分析InnoDB、RocksDB等主流存储引擎的架构设计、关键数据结构和实现细节",
-      "category": "01_技术IT领域/数据库内核",
+      "category": "技术/数据库内核",
       "tags": [
         "存储引擎",
         "InnoDB",
@@ -36,7 +36,7 @@
         "日志系统"
       ],
       "wordCount": 8982,
-      "id": "4bc4c29cae1ac871"
+      "id": "69b51836eab75670"
     }
   ]
 }

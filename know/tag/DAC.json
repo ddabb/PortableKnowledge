@@ -8,7 +8,7 @@
       "filename": "系统集成基础_访问控制.json",
       "title": "访问控制",
       "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
-      "category": "05_通用知识领域/软考/综合知识/系统集成基础",
+      "category": "考试/软考/综合知识/系统集成基础",
       "tags": [
         "访问控制",
         "DAC",
@@ -17,7 +17,7 @@
         "ABAC"
       ],
       "wordCount": 1481,
-      "id": "044adaa46be86cc0"
+      "id": "ed1602be141e26d3"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "filename": "会计_应交税费.json",
       "title": "应交税费",
       "description": "CPA会计应交税费章节核心知识点，包括增值税、消费税、企业所得税等税费的核算",
-      "category": "02_考试证书领域/注册会计师/会计",
+      "category": "考试/注册会计师/会计",
       "tags": [
         "CPA",
         "会计",
@@ -16,26 +16,26 @@
         "增值税"
       ],
       "wordCount": 1207,
-      "id": "faeeb38b94ac3d69"
+      "id": "398158dec6027238"
     },
     {
       "filename": "税法_增值税概述.json",
       "title": "增值税概述",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "增值税",
         "税法",
         "CPA"
       ],
       "wordCount": 393,
-      "id": "46f74bf3249fc23f"
+      "id": "c90edfe4d49a0f2f"
     },
     {
       "filename": "税法_增值税税收优惠.json",
       "title": "增值税税收优惠",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "增值税",
         "税收优惠",
@@ -43,13 +43,13 @@
         "CPA"
       ],
       "wordCount": 1223,
-      "id": "c7e244f6b212312f"
+      "id": "47bb96b87d91b500"
     },
     {
       "filename": "税法_增值税应纳税额计算.json",
       "title": "增值税应纳税额计算",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "增值税",
         "应纳税额",
@@ -57,7 +57,7 @@
         "CPA"
       ],
       "wordCount": 511,
-      "id": "be8ec092bc2fa72a"
+      "id": "33161c9f463860ac"
     }
   ]
 }

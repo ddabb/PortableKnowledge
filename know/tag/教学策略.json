@@ -8,27 +8,27 @@
       "filename": "小学_小学教育方法.json",
       "title": "小学教育方法",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
+      "category": "考试/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育方法",
         "教学策略"
       ],
       "wordCount": 3351,
-      "id": "509352c8a3f3943a"
+      "id": "dc1b04c132b5555b"
     },
     {
       "filename": "中学_教学设计与实施.json",
       "title": "教学设计与实施",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/中学",
+      "category": "考试/教师资格证/中学",
       "tags": [
         "教学设计",
         "教学实施",
         "教学策略"
       ],
       "wordCount": 3865,
-      "id": "6a32b3f793ae1df7"
+      "id": "8a66de00363a8c02"
     }
   ]
 }

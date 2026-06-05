@@ -8,7 +8,7 @@
       "filename": "分布式系统_分布式监控.json",
       "title": "分布式监控",
       "description": "",
-      "category": "01_技术IT领域/分布式系统",
+      "category": "技术/分布式系统",
       "tags": [
         "分布式监控",
         "Prometheus",
@@ -17,13 +17,13 @@
         "可观测性"
       ],
       "wordCount": 4639,
-      "id": "249105f09277e6d6"
+      "id": "d3aa5a7a352201d7"
     },
     {
       "filename": "AI推理加速_AI推理服务部署.json",
       "title": "AI推理服务部署",
       "description": "AI推理服务的架构设计、部署策略、性能优化和高可用保障，涵盖服务化、负载均衡、自动扩缩容、监控告警等核心技术",
-      "category": "01_技术IT领域/AI推理加速",
+      "category": "技术/AI推理加速",
       "tags": [
         "AI推理服务",
         "服务化部署",
@@ -34,7 +34,7 @@
         "性能优化"
       ],
       "wordCount": 9852,
-      "id": "cfddd2ebed7de84a"
+      "id": "d660b1f687182e20"
     }
   ]
 }

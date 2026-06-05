@@ -8,7 +8,7 @@
       "filename": "Excel数据分析_Excel公式与函数进阶.json",
       "title": "Excel公式与函数进阶",
       "description": "Excel公式与函数进阶是数据分析师使用Excel进行复杂数据分析的技能，包括逻辑函数、查找函数、文本函数、日期函数等",
-      "category": "01_技术IT领域/数据分析师/Excel数据分析",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -19,13 +19,13 @@
         "数据分析"
       ],
       "wordCount": 6649,
-      "id": "4500330c0e930640"
+      "id": "0d85916c600a9217"
     },
     {
       "filename": "Excel数据分析_Excel数据分析常用函数.json",
       "title": "Excel数据分析常用函数",
       "description": "Excel提供了丰富的数据分析函数，包括查找函数、逻辑函数、文本函数、日期时间函数等，掌握这些函数能有效提升数据分析效率",
-      "category": "01_技术IT领域/数据分析师/Excel数据分析",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -37,7 +37,7 @@
         "数据分析"
       ],
       "wordCount": 7070,
-      "id": "59817e1a903326f1"
+      "id": "4e64953d6ce21c69"
     }
   ]
 }

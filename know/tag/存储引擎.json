@@ -5,26 +5,10 @@
   },
   "articles": [
     {
-      "filename": "存储技术_MySQL原理与性能优化.json",
-      "title": "MySQL原理与性能优化",
-      "description": "",
-      "category": "01_技术IT领域/零售电商系统/存储技术",
-      "tags": [
-        "MySQL",
-        "存储引擎",
-        "索引原理",
-        "SQL优化",
-        "事务隔离",
-        "电商系统"
-      ],
-      "wordCount": 10139,
-      "id": "fb0a33b2e23b1637"
-    },
-    {
       "filename": "数据库内核_存储引擎对比.json",
       "title": "存储引擎对比",
       "description": "主流数据库存储引擎（InnoDB、MyISAM、PostgreSQL、RocksDB、WiredTiger）的架构对比、优缺点及适用场景",
-      "category": "01_技术IT领域/数据库内核",
+      "category": "技术/数据库内核",
       "tags": [
         "数据库内核",
         "存储引擎",
@@ -35,13 +19,13 @@
         "WiredTiger"
       ],
       "wordCount": 6559,
-      "id": "21bcc78911c0d4cf"
+      "id": "b5a4629f758da21a"
     },
     {
       "filename": "数据库内核_存储引擎实现.json",
       "title": "存储引擎实现",
       "description": "存储引擎的核心实现技术，重点分析InnoDB、RocksDB等主流存储引擎的架构设计、关键数据结构和实现细节",
-      "category": "01_技术IT领域/数据库内核",
+      "category": "技术/数据库内核",
       "tags": [
         "存储引擎",
         "InnoDB",
@@ -52,13 +36,13 @@
         "日志系统"
       ],
       "wordCount": 8982,
-      "id": "4bc4c29cae1ac871"
+      "id": "69b51836eab75670"
     },
     {
       "filename": "数据库内核_数据库内核概述.json",
       "title": "数据库内核概述",
       "description": "数据库内核的基本概念、架构设计、核心组件和关键技术，涵盖存储引擎、查询引擎、事务处理、索引技术等",
-      "category": "01_技术IT领域/数据库内核",
+      "category": "技术/数据库内核",
       "tags": [
         "数据库内核",
         "存储引擎",
@@ -69,7 +53,23 @@
         "故障恢复"
       ],
       "wordCount": 7036,
-      "id": "e8f96eaafc4b1b8b"
+      "id": "2701238bd2caa3b4"
+    },
+    {
+      "filename": "存储技术_MySQL原理与性能优化.json",
+      "title": "MySQL原理与性能优化",
+      "description": "",
+      "category": "商业/零售电商系统/存储技术",
+      "tags": [
+        "MySQL",
+        "存储引擎",
+        "索引原理",
+        "SQL优化",
+        "事务隔离",
+        "电商系统"
+      ],
+      "wordCount": 10139,
+      "id": "3fd577d27418c2ec"
     }
   ]
 }

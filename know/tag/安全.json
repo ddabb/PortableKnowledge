@@ -8,7 +8,7 @@
       "filename": "云原生_云原生安全.json",
       "title": "云原生安全",
       "description": "",
-      "category": "01_技术IT领域/云原生",
+      "category": "技术/云原生",
       "tags": [
         "云原生",
         "安全",
@@ -18,13 +18,13 @@
         "网络安全"
       ],
       "wordCount": 5713,
-      "id": "d558946929079ad9"
+      "id": "baa05b4d2db60dda"
     },
     {
       "filename": "自然灾害_火灾防范与逃生.json",
       "title": "火灾防范与逃生",
       "description": "家庭火灾预防、火灾应对和逃生技巧",
-      "category": "05_通用知识领域/生活通识/自然灾害",
+      "category": "通用/生活通识/自然灾害",
       "tags": [
         "火灾",
         "消防",
@@ -32,7 +32,7 @@
         "安全"
       ],
       "wordCount": 1265,
-      "id": "edb7485f8822f3f8"
+      "id": "c9d06a5e2efd99b1"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "filename": "数据库内核_数据库安全实现.json",
       "title": "数据库安全实现",
       "description": "数据库安全的核心概念、访问控制、数据加密、审计日志、SQL注入防护及最佳实践",
-      "category": "01_技术IT领域/数据库内核",
+      "category": "技术/数据库内核",
       "tags": [
         "数据库内核",
         "数据库安全",
@@ -19,13 +19,13 @@
         "GDPR"
       ],
       "wordCount": 7411,
-      "id": "81dbc0d5875d8964"
+      "id": "ab0b6e38598150e3"
     },
     {
       "filename": "系统集成基础_访问控制.json",
       "title": "访问控制",
       "description": "访问控制模型（DAC/MAC/RBAC/ABAC）、授权与审计",
-      "category": "05_通用知识领域/软考/综合知识/系统集成基础",
+      "category": "考试/软考/综合知识/系统集成基础",
       "tags": [
         "访问控制",
         "DAC",
@@ -34,7 +34,7 @@
         "ABAC"
       ],
       "wordCount": 1481,
-      "id": "044adaa46be86cc0"
+      "id": "ed1602be141e26d3"
     }
   ]
 }

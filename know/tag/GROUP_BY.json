@@ -8,7 +8,7 @@
       "filename": "SQL数据库_分组聚合.json",
       "title": "SQL分组聚合",
       "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
-      "category": "01_技术IT领域/数据分析师/SQL数据库",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -17,13 +17,13 @@
         "聚合函数"
       ],
       "wordCount": 9890,
-      "id": "23d9fe65f9a1a33f"
+      "id": "25666e7ae96eb57a"
     },
     {
       "filename": "SQL数据库_SQL基础查询.json",
       "title": "SQL基础查询",
       "description": "SQL基础查询是数据分析师操作数据库的基本技能，掌握SELECT、WHERE、GROUP BY、HAVING、ORDER BY等子句是进行数据查询和分析的基础",
-      "category": "01_技术IT领域/数据分析师/SQL数据库",
+      "category": "考试/数据分析师/SQL数据库",
       "tags": [
         "数据分析师",
         "SQL数据库",
@@ -36,7 +36,7 @@
         "数据分析"
       ],
       "wordCount": 7051,
-      "id": "7b417b49c928625f"
+      "id": "723bc236a6a3b2f8"
     }
   ]
 }

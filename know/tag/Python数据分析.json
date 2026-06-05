@@ -8,7 +8,7 @@
       "filename": "Python数据分析_数据可视化基础.json",
       "title": "数据可视化基础",
       "description": "数据可视化是数据分析师展示分析结果的重要手段，Matplotlib和Seaborn是Python中最常用的可视化库",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -17,13 +17,13 @@
         "Seaborn"
       ],
       "wordCount": 9353,
-      "id": "3c7e7066ee44f5d2"
+      "id": "bb058a2618166108"
     },
     {
       "filename": "Python数据分析_数据清洗与预处理.json",
       "title": "数据清洗与预处理",
       "description": "数据清洗与预处理是数据分析师处理脏数据、缺失数据、异常数据的关键技能",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -34,13 +34,13 @@
         "数据分析"
       ],
       "wordCount": 12373,
-      "id": "76d2867c0ecc6462"
+      "id": "c7feb37c7ac784a5"
     },
     {
       "filename": "Python数据分析_Matplotlib_Seaborn可视化进阶.json",
       "title": "Matplotlib/Seaborn可视化进阶",
       "description": "Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -51,13 +51,13 @@
         "数据分析"
       ],
       "wordCount": 9790,
-      "id": "fa46c680fde09b61"
+      "id": "965bc44520d920ed"
     },
     {
       "filename": "Python数据分析_NumPy基础.json",
       "title": "NumPy基础",
       "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -66,13 +66,13 @@
         "数值计算"
       ],
       "wordCount": 9306,
-      "id": "ecc0d080b55cc15e"
+      "id": "e4d68da3e90d0092"
     },
     {
       "filename": "Python数据分析_Pandas高级数据处理.json",
       "title": "Pandas高级数据处理",
       "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -83,13 +83,13 @@
         "数据分析"
       ],
       "wordCount": 9337,
-      "id": "9f2b17b764fffcbc"
+      "id": "2bb31146830c4cd5"
     },
     {
       "filename": "Python数据分析_Pandas基础.json",
       "title": "Pandas基础",
       "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -98,13 +98,13 @@
         "Series"
       ],
       "wordCount": 10550,
-      "id": "968779257c57b71c"
+      "id": "9748010bce21768b"
     },
     {
       "filename": "Python数据分析_Python数据分析基础.json",
       "title": "Python数据分析基础",
       "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -114,13 +114,13 @@
         "数据分析"
       ],
       "wordCount": 10145,
-      "id": "830622b92a8a111e"
+      "id": "3f600ff76b791114"
     },
     {
       "filename": "Python数据分析_Scikit-learn机器学习入门.json",
       "title": "Scikit-learn机器学习入门",
       "description": "Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -132,7 +132,7 @@
         "数据分析"
       ],
       "wordCount": 12849,
-      "id": "b175cf35ec41be0f"
+      "id": "1d12fab5af4568ad"
     }
   ]
 }

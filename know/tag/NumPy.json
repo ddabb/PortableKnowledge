@@ -8,7 +8,7 @@
       "filename": "Python数据分析_NumPy基础.json",
       "title": "NumPy基础",
       "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -17,13 +17,13 @@
         "数值计算"
       ],
       "wordCount": 9306,
-      "id": "ecc0d080b55cc15e"
+      "id": "e4d68da3e90d0092"
     },
     {
       "filename": "Python数据分析_Python数据分析基础.json",
       "title": "Python数据分析基础",
       "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
-      "category": "01_技术IT领域/数据分析师/Python数据分析",
+      "category": "考试/数据分析师/Python数据分析",
       "tags": [
         "数据分析师",
         "Python数据分析",
@@ -33,7 +33,7 @@
         "数据分析"
       ],
       "wordCount": 10145,
-      "id": "830622b92a8a111e"
+      "id": "3f600ff76b791114"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "filename": "分布式系统_分布式消息队列.json",
       "title": "分布式消息队列",
       "description": "",
-      "category": "01_技术IT领域/分布式系统",
+      "category": "技术/分布式系统",
       "tags": [
         "分布式消息队列",
         "Kafka",
@@ -18,7 +18,7 @@
         "消息中间件"
       ],
       "wordCount": 5678,
-      "id": "92410f8dd7331447"
+      "id": "5518fb3bf924cc39"
     }
   ]
 }

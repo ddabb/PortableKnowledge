@@ -8,7 +8,7 @@
       "filename": "分布式系统_分布式配置中心.json",
       "title": "分布式配置中心",
       "description": "",
-      "category": "01_技术IT领域/分布式系统",
+      "category": "技术/分布式系统",
       "tags": [
         "分布式配置中心",
         "配置管理",
@@ -18,7 +18,7 @@
         "Spring Cloud Config"
       ],
       "wordCount": 4373,
-      "id": "585467b1cfc2a5fa"
+      "id": "a12e8a7381e34579"
     }
   ]
 }

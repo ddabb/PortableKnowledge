@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "category": "技术/分布式系统",
+    "count": 17
+  },
+  "articles": [
+    {
+      "filename": "分布式系统_分布式存储.json",
+      "title": "分布式存储",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式存储",
+        "HDFS",
+        "Ceph",
+        "MinIO",
+        "对象存储",
+        "块存储",
+        "文件存储"
+      ],
+      "wordCount": 5878,
+      "id": "ea9b87f025fb1456"
+    },
+    {
+      "filename": "分布式系统_分布式调度.json",
+      "title": "分布式调度",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式调度",
+        "任务调度",
+        "调度框架",
+        "Quartz",
+        "XXL-JOB",
+        "Elastic-JOB"
+      ],
+      "wordCount": 4248,
+      "id": "460913018504c9ac"
+    },
+    {
+      "filename": "分布式系统_分布式服务发现.json",
+      "title": "分布式服务发现",
+      "description": "分布式服务发现的核心概念、实现方案、关键问题及最佳实践",
+      "category": "技术/分布式系统",
+      "tags": [
+        "服务发现",
+        "Consul",
+        "Etcd",
+        "ZooKeeper",
+        "服务注册",
+        "健康检查"
+      ],
+      "wordCount": 6782,
+      "id": "155767376804e7ad"
+    },
+    {
+      "filename": "分布式系统_分布式服务治理.json",
+      "title": "分布式服务治理",
+      "description": "分布式服务治理的核心概念、实现方案、关键问题及最佳实践",
+      "category": "技术/分布式系统",
+      "tags": [
+        "服务治理",
+        "服务限流",
+        "服务熔断",
+        "服务降级",
+        "服务监控"
+      ],
+      "wordCount": 6358,
+      "id": "602381c928d48217"
+    },
+    {
+      "filename": "分布式系统_分布式共识算法.json",
+      "title": "分布式共识算法",
+      "description": "分布式共识算法的核心概念、工作原理、适用场景及最佳实践",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式共识",
+        "Paxos",
+        "Raft",
+        "ZAB",
+        "Gossip",
+        "分布式一致性"
+      ],
+      "wordCount": 5661,
+      "id": "183838a2fca2a50c"
+    },
+    {
+      "filename": "分布式系统_分布式缓存.json",
+      "title": "分布式缓存",
+      "description": "分布式缓存的核心概念、实现方案、关键问题及最佳实践",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式缓存",
+        "Redis",
+        "Memcached",
+        "缓存一致性",
+        "缓存穿透",
+        "缓存雪崩"
+      ],
+      "wordCount": 5426,
+      "id": "8dabc027d1d45cdf"
+    },
+    {
+      "filename": "分布式系统_分布式会话.json",
+      "title": "分布式会话",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式会话",
+        "Session",
+        "会话管理",
+        "Redis Session",
+        "Spring Session"
+      ],
+      "wordCount": 4459,
+      "id": "539df9717d52985d"
+    },
+    {
+      "filename": "分布式系统_分布式计算.json",
+      "title": "分布式计算",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式计算",
+        "MapReduce",
+        "Spark",
+        "Flink",
+        "批处理",
+        "流处理"
+      ],
+      "wordCount": 6159,
+      "id": "7e7fd2961c0b6a39"
+    },
+    {
+      "filename": "分布式系统_分布式监控.json",
+      "title": "分布式监控",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式监控",
+        "Prometheus",
+        "Grafana",
+        "监控告警",
+        "可观测性"
+      ],
+      "wordCount": 4639,
+      "id": "d3aa5a7a352201d7"
+    },
+    {
+      "filename": "分布式系统_分布式链路追踪.json",
+      "title": "分布式链路追踪",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式链路追踪",
+        "链路追踪",
+        "Zipkin",
+        "SkyWalking",
+        "Jaeger",
+        "分布式监控"
+      ],
+      "wordCount": 4246,
+      "id": "c9387980a076f89d"
+    },
+    {
+      "filename": "分布式系统_分布式配置中心.json",
+      "title": "分布式配置中心",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式配置中心",
+        "配置管理",
+        "Apollo",
+        "Nacos",
+        "Consul",
+        "Spring Cloud Config"
+      ],
+      "wordCount": 4373,
+      "id": "a12e8a7381e34579"
+    },
+    {
+      "filename": "分布式系统_分布式事务实现.json",
+      "title": "分布式事务实现",
+      "description": "分布式事务的核心概念、协议原理、实现方案及最佳实践",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式事务",
+        "2PC",
+        "3PC",
+        "TCC",
+        "SAGA",
+        "本地消息表"
+      ],
+      "wordCount": 6178,
+      "id": "6d16d7a9b9be4ca2"
+    },
+    {
+      "filename": "分布式系统_分布式锁实现.json",
+      "title": "分布式锁实现",
+      "description": "分布式锁的核心概念、实现方案、关键问题及最佳实践",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式锁",
+        "Redis",
+        "ZooKeeper",
+        "Etcd",
+        "锁超时",
+        "脑裂"
+      ],
+      "wordCount": 5422,
+      "id": "1a3780b5d0a4973a"
+    },
+    {
+      "filename": "分布式系统_分布式系统概述.json",
+      "title": "分布式系统概述",
+      "description": "分布式系统的核心概念、架构模式、关键挑战、一致性理论及最佳实践",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式系统",
+        "CAP理论",
+        "一致性",
+        "可用性",
+        "分区容错性",
+        "分布式架构"
+      ],
+      "wordCount": 7435,
+      "id": "4752b974f36a63e6"
+    },
+    {
+      "filename": "分布式系统_分布式限流.json",
+      "title": "分布式限流",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式限流",
+        "限流算法",
+        "令牌桶",
+        "漏桶",
+        "滑动窗口"
+      ],
+      "wordCount": 4263,
+      "id": "f7fe2dfdb2b96d67"
+    },
+    {
+      "filename": "分布式系统_分布式消息队列.json",
+      "title": "分布式消息队列",
+      "description": "",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式消息队列",
+        "Kafka",
+        "RabbitMQ",
+        "RocketMQ",
+        "Pulsar",
+        "消息中间件"
+      ],
+      "wordCount": 5678,
+      "id": "5518fb3bf924cc39"
+    },
+    {
+      "filename": "分布式系统_分布式ID生成.json",
+      "title": "分布式ID生成",
+      "description": "分布式ID生成的核心概念、实现方案、关键问题及最佳实践",
+      "category": "技术/分布式系统",
+      "tags": [
+        "分布式ID",
+        "Snowflake",
+        "UUID",
+        "数据库自增",
+        "Redis生成"
+      ],
+      "wordCount": 5767,
+      "id": "ac4a828fe3646831"
+    }
+  ]
+}

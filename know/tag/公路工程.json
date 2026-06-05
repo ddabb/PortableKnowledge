@@ -8,7 +8,7 @@
       "filename": "二级建造师_公路工程管理与实务.json",
       "title": "公路工程管理与实务",
       "description": "",
-      "category": "02_考试证书领域/建造师/二级建造师",
+      "category": "考试/建造师/二级建造师",
       "tags": [
         "二建",
         "公路工程",
@@ -16,13 +16,13 @@
         "建造师"
       ],
       "wordCount": 1549,
-      "id": "44bdb8bac56e8446"
+      "id": "a0bfeecea9651efc"
     },
     {
       "filename": "一级建造师_公路工程管理与实务.json",
       "title": "公路工程管理与实务",
       "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
+      "category": "考试/建造师/一级建造师",
       "tags": [
         "一建",
         "公路工程",
@@ -30,7 +30,7 @@
         "建造师"
       ],
       "wordCount": 2920,
-      "id": "77595659eb7ad8c5"
+      "id": "30b119f9e97c80e1"
     }
   ]
 }

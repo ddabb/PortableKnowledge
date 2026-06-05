@@ -5,10 +5,25 @@
   },
   "articles": [
     {
+      "filename": "系统集成基础_数据架构.json",
+      "title": "数据架构",
+      "description": "数据架构设计、数据建模",
+      "category": "考试/软考/综合知识/系统集成基础",
+      "tags": [
+        "数据架构",
+        "数据分层",
+        "数据建模",
+        "数据仓库",
+        "大数据"
+      ],
+      "wordCount": 919,
+      "id": "abc1dd5c76837659"
+    },
+    {
       "filename": "Excel数据分析_Excel数据建模.json",
       "title": "Excel数据建模",
       "description": "Excel数据建模是通过建立数据模型来实现复杂数据分析和报表制作的过程，掌握数据建模能有效提升数据分析能力",
-      "category": "01_技术IT领域/数据分析师/Excel数据分析",
+      "category": "考试/数据分析师/Excel数据分析",
       "tags": [
         "数据分析师",
         "Excel数据分析",
@@ -19,22 +34,7 @@
         "数据分析"
       ],
       "wordCount": 5874,
-      "id": "a7a6d181527b8131"
-    },
-    {
-      "filename": "系统集成基础_数据架构.json",
-      "title": "数据架构",
-      "description": "数据架构设计、数据建模",
-      "category": "05_通用知识领域/软考/综合知识/系统集成基础",
-      "tags": [
-        "数据架构",
-        "数据分层",
-        "数据建模",
-        "数据仓库",
-        "大数据"
-      ],
-      "wordCount": 919,
-      "id": "bdcf06199ce25258"
+      "id": "b8796aa400de15a4"
     }
   ]
 }

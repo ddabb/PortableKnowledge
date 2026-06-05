@@ -8,7 +8,7 @@
       "filename": "AI推理加速_AI推理加速概述.json",
       "title": "AI推理加速概述",
       "description": "AI推理加速的基本概念、技术方法和实战指南，涵盖推理优化、硬件加速和服务化部署",
-      "category": "01_技术IT领域/AI推理加速",
+      "category": "技术/AI推理加速",
       "tags": [
         "AI推理加速",
         "推理优化",
@@ -18,13 +18,13 @@
         "服务化部署"
       ],
       "wordCount": 6184,
-      "id": "907a930e352d27f7"
+      "id": "b89469411b681bbe"
     },
     {
       "filename": "AI推理加速_TensorRT-LLM推理引擎.json",
       "title": "TensorRT-LLM推理引擎",
       "description": "TensorRT-LLM的核心技术、架构设计、使用方法和性能优化，涵盖算子融合、量化、FP8、模型并行等高级技术",
-      "category": "01_技术IT领域/AI推理加速",
+      "category": "技术/AI推理加速",
       "tags": [
         "TensorRT-LLM",
         "NVIDIA",
@@ -36,7 +36,7 @@
         "低延迟"
       ],
       "wordCount": 10555,
-      "id": "b4b7c29b296cf917"
+      "id": "11283a7ba622633b"
     }
   ]
 }

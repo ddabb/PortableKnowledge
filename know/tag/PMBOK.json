@@ -8,7 +8,7 @@
       "filename": "一级建造师_建设工程项目管理.json",
       "title": "建设工程项目管理",
       "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
+      "category": "考试/建造师/一级建造师",
       "tags": [
         "一建",
         "项目管理",
@@ -16,13 +16,13 @@
         "建造师"
       ],
       "wordCount": 629,
-      "id": "33bd3f0771b14ecb"
+      "id": "cdc5f5cbcfbb87de"
     },
     {
       "filename": "引论_裁剪.json",
       "title": "裁剪",
       "description": "PMBOK项目管理的核心概念：什么是裁剪、六个裁剪维度、决策流程、预测型与敏捷型裁剪对比、各知识领域裁剪示例。",
-      "category": "05_通用知识领域/软考/综合知识/引论",
+      "category": "考试/软考/综合知识/引论",
       "tags": [
         "裁剪",
         "项目管理方法论",
@@ -33,39 +33,39 @@
         "敏捷"
       ],
       "wordCount": 3588,
-      "id": "d70df5932979a3bd"
+      "id": "2cfaabd5d3e3cce9"
     },
     {
       "filename": "引论_价值交付系统.json",
       "title": "价值交付系统",
       "description": "价值创造方式、价值交付组件、信息流",
-      "category": "05_通用知识领域/软考/综合知识/引论",
+      "category": "考试/软考/综合知识/引论",
       "tags": [
         "价值交付",
         "PMP",
         "PMBOK"
       ],
       "wordCount": 2007,
-      "id": "5b79cdaaa031b7b8"
+      "id": "6ca4830648b295f2"
     },
     {
       "filename": "引论_项目管理原则.json",
       "title": "项目管理原则",
       "description": "PMBOK第7版定义的12个项目管理原则",
-      "category": "05_通用知识领域/软考/综合知识/引论",
+      "category": "考试/软考/综合知识/引论",
       "tags": [
         "项目管理原则",
         "PMP",
         "PMBOK"
       ],
       "wordCount": 2301,
-      "id": "6bb5f78970b05690"
+      "id": "974f82a7e75f1486"
     },
     {
       "filename": "引论_项目管理知识领域.json",
       "title": "项目管理知识领域",
       "description": "10个知识领域概述、5个过程组与知识领域的矩阵关系",
-      "category": "05_通用知识领域/软考/综合知识/引论",
+      "category": "考试/软考/综合知识/引论",
       "tags": [
         "知识领域",
         "PMP",
@@ -73,13 +73,13 @@
         "项目管理"
       ],
       "wordCount": 1779,
-      "id": "b79804917be50ad5"
+      "id": "c5c98f1627c66dcd"
     },
     {
       "filename": "引论_PMBOK的发展.json",
       "title": "PMBOK的发展",
       "description": "PMBOK各版本演变历程及关键变化",
-      "category": "05_通用知识领域/软考/综合知识/引论",
+      "category": "考试/软考/综合知识/引论",
       "tags": [
         "PMBOK",
         "PMI",
@@ -87,7 +87,7 @@
         "版本演变"
       ],
       "wordCount": 986,
-      "id": "b6e97d7e62397a93"
+      "id": "e8c183b8c356e5ff"
     }
   ]
 }

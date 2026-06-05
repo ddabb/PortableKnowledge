@@ -8,7 +8,7 @@
       "filename": "系统编程_网络编程实践.json",
       "title": "网络编程实践",
       "description": "",
-      "category": "01_技术IT领域/系统编程",
+      "category": "技术/系统编程",
       "tags": [
         "系统编程",
         "网络编程",
@@ -17,13 +17,13 @@
         "高性能网络"
       ],
       "wordCount": 6235,
-      "id": "106248d1e0e27cf4"
+      "id": "bf6771afd9c182b1"
     },
     {
       "filename": "系统编程_文件I_O优化.json",
       "title": "文件I/O优化",
       "description": "",
-      "category": "01_技术IT领域/系统编程",
+      "category": "技术/系统编程",
       "tags": [
         "系统编程",
         "文件I/O",
@@ -32,7 +32,7 @@
         "性能优化"
       ],
       "wordCount": 5392,
-      "id": "9a2d81dda902fb71"
+      "id": "726077a95e38a9e8"
     }
   ]
 }

@@ -1,282 +1,267 @@
 {
   "page": 11,
-  "totalPages": 44,
-  "totalItems": 877,
+  "totalPages": 45,
+  "totalItems": 889,
   "items": [
-    {
-      "filename": "一级建造师_项目成本管理.json",
-      "title": "项目成本管理",
-      "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
-      "tags": [
-        "一建",
-        "成本管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 2412,
-      "id": "6d88037d28eea534"
-    },
-    {
-      "filename": "一级建造师_项目风险管理.json",
-      "title": "项目风险管理",
-      "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
-      "tags": [
-        "一建",
-        "风险管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 3402,
-      "id": "ff3efa7b7514b8ca"
-    },
-    {
-      "filename": "一级建造师_项目沟通管理.json",
-      "title": "项目沟通管理",
-      "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
-      "tags": [
-        "一建",
-        "沟通管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 2709,
-      "id": "d8d85ae9e6a51459"
-    },
-    {
-      "filename": "一级建造师_项目管理实务.json",
-      "title": "项目管理实务",
-      "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
-      "tags": [
-        "一建",
-        "项目管理",
-        "实务",
-        "建造师"
-      ],
-      "wordCount": 5027,
-      "id": "087ce78176fb3b9f"
-    },
-    {
-      "filename": "一级建造师_项目合同管理.json",
-      "title": "项目合同管理",
-      "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
-      "tags": [
-        "一建",
-        "合同管理",
-        "项目管理",
-        "建造师",
-        "合同管理概述",
-        "合同订立",
-        "合同履行",
-        "合同变更与解除",
-        "违约责任",
-        "合同纠纷处理",
-        "合同管理实务"
-      ],
-      "wordCount": 3449,
-      "id": "ef79ded8d01f38df"
-    },
-    {
-      "filename": "一级建造师_项目进度管理.json",
-      "title": "项目进度管理",
-      "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
-      "tags": [
-        "一建",
-        "进度管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 3123,
-      "id": "1a7a33fcc5e04913"
-    },
-    {
-      "filename": "一级建造师_项目收尾管理.json",
-      "title": "项目收尾管理",
-      "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
-      "tags": [
-        "一建",
-        "收尾管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 2866,
-      "id": "e3f35b58ca2093c4"
-    },
-    {
-      "filename": "一级建造师_项目质量管理.json",
-      "title": "项目质量管理",
-      "description": "",
-      "category": "02_考试证书领域/建造师/一级建造师",
-      "tags": [
-        "一建",
-        "质量管理",
-        "项目管理",
-        "建造师"
-      ],
-      "wordCount": 4656,
-      "id": "24dccee12c4214ec"
-    },
-    {
-      "filename": "教师资格证_核心考点.json",
-      "title": "教师资格证考试核心考点",
-      "description": "教资备考知识体系：教育学、心理学、学科知识核心考点",
-      "category": "02_考试证书领域/教师资格证",
-      "tags": [
-        "教资",
-        "教育学",
-        "心理学"
-      ],
-      "wordCount": 3569,
-      "id": "904351969405788a"
-    },
-    {
-      "filename": "小学_小学班级管理.json",
-      "title": "小学班级管理",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "班级管理",
-        "学生管理"
-      ],
-      "wordCount": 3662,
-      "id": "fec1408adc17a134"
-    },
-    {
-      "filename": "小学_小学教师职业道德.json",
-      "title": "小学教师职业道德",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教师职业道德",
-        "师德师风"
-      ],
-      "wordCount": 2833,
-      "id": "ace43341ba8ed7ba"
-    },
-    {
-      "filename": "小学_小学教育法律法规.json",
-      "title": "小学教育法律法规",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育法律法规",
-        "法律责任"
-      ],
-      "wordCount": 4252,
-      "id": "86178c7e904a2d73"
-    },
-    {
-      "filename": "小学_小学教育方法.json",
-      "title": "小学教育方法",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育方法",
-        "教学策略"
-      ],
-      "wordCount": 3351,
-      "id": "509352c8a3f3943a"
-    },
-    {
-      "filename": "小学_小学教育改革与发展.json",
-      "title": "小学教育改革与发展",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育改革",
-        "素质教育"
-      ],
-      "wordCount": 3181,
-      "id": "61951410af939b48"
-    },
-    {
-      "filename": "小学_小学教育技术应用.json",
-      "title": "小学教育技术应用",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育技术",
-        "信息技术"
-      ],
-      "wordCount": 3477,
-      "id": "2ac4866c57aa146b"
-    },
-    {
-      "filename": "小学_小学教育教学实践案例分析.json",
-      "title": "小学教育教学实践案例分析",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教学实践",
-        "案例分析"
-      ],
-      "wordCount": 4457,
-      "id": "757c2a45aa49dd24"
-    },
-    {
-      "filename": "小学_小学教育科研.json",
-      "title": "小学教育科研",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育科研",
-        "教师专业发展"
-      ],
-      "wordCount": 4389,
-      "id": "6c60814ca4dff27a"
-    },
-    {
-      "filename": "小学_小学教育科研方法.json",
-      "title": "小学教育科研方法",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育科研",
-        "研究方法"
-      ],
-      "wordCount": 3692,
-      "id": "f73278be3a829aef"
-    },
-    {
-      "filename": "小学_小学教育评价.json",
-      "title": "小学教育评价",
-      "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
-      "tags": [
-        "小学教育",
-        "教育评价",
-        "学生评价"
-      ],
-      "wordCount": 3105,
-      "id": "1fdbde1a7ea0262a"
-    },
     {
       "filename": "小学_小学教育心理学知识.json",
       "title": "小学教育心理学知识",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
+      "category": "考试/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育心理学",
         "学生心理"
       ],
       "wordCount": 3742,
-      "id": "4b161a9bb05f90a4"
+      "id": "44e124bc783d635a"
+    },
+    {
+      "filename": "小学_小学教育学基础知识.json",
+      "title": "小学教育学基础知识",
+      "description": "",
+      "category": "考试/教师资格证/小学",
+      "tags": [
+        "小学教育",
+        "教育学",
+        "基础知识"
+      ],
+      "wordCount": 2654,
+      "id": "2d6c794988893569"
+    },
+    {
+      "filename": "幼儿_安全卫生.json",
+      "title": "安全卫生",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "安全卫生",
+        "幼儿安全",
+        "教资"
+      ],
+      "wordCount": 1906,
+      "id": "f7463564185fa51b"
+    },
+    {
+      "filename": "幼儿_游戏指导.json",
+      "title": "游戏指导",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "游戏指导",
+        "幼儿游戏",
+        "教资"
+      ],
+      "wordCount": 2505,
+      "id": "beb2f56ac462977f"
+    },
+    {
+      "filename": "幼儿_幼儿发展特点.json",
+      "title": "幼儿发展特点",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "幼儿发展",
+        "发展特点",
+        "教资"
+      ],
+      "wordCount": 4133,
+      "id": "f9f3d7f87586669e"
+    },
+    {
+      "filename": "幼儿_幼儿教育方法.json",
+      "title": "幼儿教育方法",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "教育方法",
+        "幼儿教育",
+        "教资"
+      ],
+      "wordCount": 1553,
+      "id": "12ba17825a8c67fe"
+    },
+    {
+      "filename": "幼儿_幼儿科学教育.json",
+      "title": "幼儿科学教育",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "科学教育",
+        "幼儿科学",
+        "教资"
+      ],
+      "wordCount": 3370,
+      "id": "e6810908119a6ac9"
+    },
+    {
+      "filename": "幼儿_幼儿情绪发展.json",
+      "title": "幼儿情绪发展",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "情绪发展",
+        "幼儿情绪",
+        "教资"
+      ],
+      "wordCount": 3574,
+      "id": "522777162dffbc89"
+    },
+    {
+      "filename": "幼儿_幼儿认知发展.json",
+      "title": "幼儿认知发展",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "认知发展",
+        "幼儿认知",
+        "教资"
+      ],
+      "wordCount": 3651,
+      "id": "ecca7b1fcbc65822"
+    },
+    {
+      "filename": "幼儿_幼儿社会性发展.json",
+      "title": "幼儿社会性发展",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "社会性发展",
+        "幼儿社会",
+        "教资"
+      ],
+      "wordCount": 3897,
+      "id": "2b0b1c692ae26a50"
+    },
+    {
+      "filename": "幼儿_幼儿艺术教育.json",
+      "title": "幼儿艺术教育",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "艺术教育",
+        "幼儿艺术",
+        "教资"
+      ],
+      "wordCount": 2978,
+      "id": "98966d95365a2fc9"
+    },
+    {
+      "filename": "幼儿_幼儿语言发展.json",
+      "title": "幼儿语言发展",
+      "description": "",
+      "category": "考试/教师资格证/幼儿",
+      "tags": [
+        "语言发展",
+        "幼儿语言",
+        "教资"
+      ],
+      "wordCount": 3186,
+      "id": "3ca39e1e0041a3ae"
+    },
+    {
+      "filename": "中学_班级管理案例分析.json",
+      "title": "班级管理案例分析",
+      "description": "",
+      "category": "考试/教师资格证/中学",
+      "tags": [
+        "班级管理",
+        "案例分析",
+        "学生管理"
+      ],
+      "wordCount": 4327,
+      "id": "1d84dd217f510aa6"
+    },
+    {
+      "filename": "中学_班级管理与教育沟通.json",
+      "title": "班级管理与教育沟通",
+      "description": "",
+      "category": "考试/教师资格证/中学",
+      "tags": [
+        "班级管理",
+        "教育沟通",
+        "师生关系"
+      ],
+      "wordCount": 4356,
+      "id": "b32472dc7fa106fc"
+    },
+    {
+      "filename": "中学_教学设计案例分析.json",
+      "title": "教学设计案例分析",
+      "description": "",
+      "category": "考试/教师资格证/中学",
+      "tags": [
+        "教学设计",
+        "案例分析",
+        "教学实践"
+      ],
+      "wordCount": 4608,
+      "id": "be1a24d6b211402b"
+    },
+    {
+      "filename": "中学_教学设计与实施.json",
+      "title": "教学设计与实施",
+      "description": "",
+      "category": "考试/教师资格证/中学",
+      "tags": [
+        "教学设计",
+        "教学实施",
+        "教学策略"
+      ],
+      "wordCount": 3865,
+      "id": "8a66de00363a8c02"
+    },
+    {
+      "filename": "中学_教育创新与改革.json",
+      "title": "教育创新与改革",
+      "description": "",
+      "category": "考试/教师资格证/中学",
+      "tags": [
+        "教育创新",
+        "教育改革",
+        "素质教育"
+      ],
+      "wordCount": 3390,
+      "id": "97ea8cd8a8262ab9"
+    },
+    {
+      "filename": "中学_教育法律法规案例分析.json",
+      "title": "教育法律法规案例分析",
+      "description": "",
+      "category": "考试/教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "案例分析",
+        "法律责任"
+      ],
+      "wordCount": 4480,
+      "id": "cc8d32fb138d78e3"
+    },
+    {
+      "filename": "中学_教育法律法规与教师职业道德.json",
+      "title": "教育法律法规与教师职业道德",
+      "description": "",
+      "category": "考试/教师资格证/中学",
+      "tags": [
+        "教育法律法规",
+        "教师职业道德",
+        "法律责任"
+      ],
+      "wordCount": 4917,
+      "id": "e97fd516c8770d9f"
+    },
+    {
+      "filename": "中学_教育技术应用.json",
+      "title": "教育技术应用",
+      "description": "",
+      "category": "考试/教师资格证/中学",
+      "tags": [
+        "教育技术",
+        "信息技术",
+        "教学创新"
+      ],
+      "wordCount": 3883,
+      "id": "4d38ccdef09e13ed"
     }
   ]
 }

@@ -8,40 +8,40 @@
       "filename": "小学_小学班级管理.json",
       "title": "小学班级管理",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
+      "category": "考试/教师资格证/小学",
       "tags": [
         "小学教育",
         "班级管理",
         "学生管理"
       ],
       "wordCount": 3662,
-      "id": "fec1408adc17a134"
+      "id": "b235d3ce5a6d31c7"
     },
     {
       "filename": "中学_班级管理案例分析.json",
       "title": "班级管理案例分析",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/中学",
+      "category": "考试/教师资格证/中学",
       "tags": [
         "班级管理",
         "案例分析",
         "学生管理"
       ],
       "wordCount": 4327,
-      "id": "9e364b862299f55e"
+      "id": "1d84dd217f510aa6"
     },
     {
       "filename": "中学_班级管理与教育沟通.json",
       "title": "班级管理与教育沟通",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/中学",
+      "category": "考试/教师资格证/中学",
       "tags": [
         "班级管理",
         "教育沟通",
         "师生关系"
       ],
       "wordCount": 4356,
-      "id": "0ac2c4ed101ec3aa"
+      "id": "b32472dc7fa106fc"
     }
   ]
 }

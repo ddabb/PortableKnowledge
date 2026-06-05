@@ -8,20 +8,20 @@
       "filename": "税法_消费税概述.json",
       "title": "消费税概述",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "消费税",
         "税法",
         "CPA"
       ],
       "wordCount": 489,
-      "id": "3e8dc709df9f08ac"
+      "id": "ad77748c3a3647b7"
     },
     {
       "filename": "税法_消费税税收优惠.json",
       "title": "消费税税收优惠",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "消费税",
         "税收优惠",
@@ -29,13 +29,13 @@
         "CPA"
       ],
       "wordCount": 318,
-      "id": "7979940085c51a14"
+      "id": "37967b937a432eb3"
     },
     {
       "filename": "税法_消费税应纳税额计算.json",
       "title": "消费税应纳税额计算",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "消费税",
         "应纳税额",
@@ -43,7 +43,7 @@
         "CPA"
       ],
       "wordCount": 647,
-      "id": "f37a0b829a999fd1"
+      "id": "7c1d866adfefa70e"
     }
   ]
 }

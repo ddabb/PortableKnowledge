@@ -8,20 +8,20 @@
       "filename": "税法_企业所得税概述.json",
       "title": "企业所得税概述",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "企业所得税",
         "税法",
         "CPA"
       ],
       "wordCount": 395,
-      "id": "7fd30a87fb39d923"
+      "id": "664d44c6e9ba5269"
     },
     {
       "filename": "税法_企业所得税税收优惠.json",
       "title": "企业所得税税收优惠",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "企业所得税",
         "税收优惠",
@@ -29,13 +29,13 @@
         "CPA"
       ],
       "wordCount": 929,
-      "id": "dd08cba0c61f9022"
+      "id": "8c60b2c842c26186"
     },
     {
       "filename": "税法_企业所得税应纳税所得额.json",
       "title": "企业所得税应纳税所得额",
       "description": "",
-      "category": "02_考试证书领域/注册会计师/税法",
+      "category": "考试/注册会计师/税法",
       "tags": [
         "企业所得税",
         "应纳税所得额",
@@ -43,7 +43,7 @@
         "CPA"
       ],
       "wordCount": 941,
-      "id": "33a5ce4f7bdb50d4"
+      "id": "50afd092229b3f86"
     }
   ]
 }

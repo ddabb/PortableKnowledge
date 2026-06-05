@@ -8,7 +8,7 @@
       "filename": "AI推理加速_模型量化技术.json",
       "title": "模型量化技术",
       "description": "模型量化技术的原理、方法、工具链和实战案例，涵盖训练后量化、量化感知训练、GPTQ、AWQ等主流量化算法",
-      "category": "01_技术IT领域/AI推理加速",
+      "category": "技术/AI推理加速",
       "tags": [
         "模型量化",
         "训练后量化",
@@ -20,13 +20,13 @@
         "模型压缩"
       ],
       "wordCount": 10756,
-      "id": "93debc24548e1b01"
+      "id": "633e43c96c40ca2d"
     },
     {
       "filename": "AI推理加速_LLM推理优化.json",
       "title": "LLM推理优化",
       "description": "大语言模型推理优化技术，涵盖KV Cache、PagedAttention、Continuous Batching、量化、并行策略等核心技术",
-      "category": "01_技术IT领域/AI推理加速",
+      "category": "技术/AI推理加速",
       "tags": [
         "LLM",
         "大语言模型",
@@ -38,7 +38,7 @@
         "模型并行"
       ],
       "wordCount": 7718,
-      "id": "e4ed43c81f3ab0bb"
+      "id": "b3bafea695787632"
     }
   ]
 }

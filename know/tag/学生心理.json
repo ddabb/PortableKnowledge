@@ -8,27 +8,27 @@
       "filename": "小学_小学教育心理学知识.json",
       "title": "小学教育心理学知识",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/小学",
+      "category": "考试/教师资格证/小学",
       "tags": [
         "小学教育",
         "教育心理学",
         "学生心理"
       ],
       "wordCount": 3742,
-      "id": "4b161a9bb05f90a4"
+      "id": "44e124bc783d635a"
     },
     {
       "filename": "中学_教育心理学知识.json",
       "title": "教育心理学知识",
       "description": "",
-      "category": "02_考试证书领域/教师资格证/中学",
+      "category": "考试/教师资格证/中学",
       "tags": [
         "教育心理学",
         "学习理论",
         "学生心理"
       ],
       "wordCount": 5273,
-      "id": "b5b10fffb5851e16"
+      "id": "0aa0f733e4b79130"
     }
   ]
 }

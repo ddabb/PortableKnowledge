@@ -8,7 +8,7 @@
       "filename": "分布式系统_分布式计算.json",
       "title": "分布式计算",
       "description": "",
-      "category": "01_技术IT领域/分布式系统",
+      "category": "技术/分布式系统",
       "tags": [
         "分布式计算",
         "MapReduce",
@@ -18,13 +18,13 @@
         "流处理"
       ],
       "wordCount": 6159,
-      "id": "62a2b3b9830c03fe"
+      "id": "7e7fd2961c0b6a39"
     },
     {
       "filename": "引论_大数据.json",
       "title": "大数据",
       "description": "大数据特征、处理流程、关键技术及应用",
-      "category": "05_通用知识领域/软考/综合知识/引论",
+      "category": "考试/软考/综合知识/引论",
       "tags": [
         "5V特征",
         "数据处理",
@@ -33,7 +33,7 @@
         "数据挖掘"
       ],
       "wordCount": 932,
-      "id": "9f38b2d17b108b2c"
+      "id": "8eee0083ed1ed65c"
     }
   ]
 }

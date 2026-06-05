@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "category": "技术/系统编程",
+    "count": 9
+  },
+  "articles": [
+    {
+      "filename": "系统编程_并发编程实践.json",
+      "title": "并发编程实践",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "并发编程",
+        "多线程",
+        "无锁编程",
+        "性能优化"
+      ],
+      "wordCount": 4798,
+      "id": "fc013f7b7cf00366"
+    },
+    {
+      "filename": "系统编程_进程与线程管理.json",
+      "title": "进程与线程管理",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "进程",
+        "线程",
+        "调度",
+        "上下文切换"
+      ],
+      "wordCount": 5411,
+      "id": "c10acc169924ab96"
+    },
+    {
+      "filename": "系统编程_内存管理实现.json",
+      "title": "内存管理实现",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "内存管理",
+        "虚拟内存",
+        "分配器",
+        "性能优化"
+      ],
+      "wordCount": 5255,
+      "id": "3561cea6b908d5c5"
+    },
+    {
+      "filename": "系统编程_网络编程实践.json",
+      "title": "网络编程实践",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "网络编程",
+        "Socket编程",
+        "异步I/O",
+        "高性能网络"
+      ],
+      "wordCount": 6235,
+      "id": "bf6771afd9c182b1"
+    },
+    {
+      "filename": "系统编程_文件I_O优化.json",
+      "title": "文件I/O优化",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "文件I/O",
+        "零拷贝",
+        "异步I/O",
+        "性能优化"
+      ],
+      "wordCount": 5392,
+      "id": "726077a95e38a9e8"
+    },
+    {
+      "filename": "系统编程_系统编程概述.json",
+      "title": "系统编程概述",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "定义",
+        "核心概念",
+        "应用场景"
+      ],
+      "wordCount": 4818,
+      "id": "e930e33fc8e9e0c7"
+    },
+    {
+      "filename": "系统编程_性能优化与调试.json",
+      "title": "性能优化与调试",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "性能优化",
+        "调试",
+        "Profiling",
+        "缓存优化"
+      ],
+      "wordCount": 5166,
+      "id": "cde5bcb7312c4ee4"
+    },
+    {
+      "filename": "系统编程_C_C++系统编程实践.json",
+      "title": "C/C++系统编程实践",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "C语言",
+        "C++",
+        "系统调用",
+        "跨平台"
+      ],
+      "wordCount": 7201,
+      "id": "fe7f4a1b334b2a49"
+    },
+    {
+      "filename": "系统编程_Linux系统编程API详解.json",
+      "title": "Linux系统编程API详解",
+      "description": "",
+      "category": "技术/系统编程",
+      "tags": [
+        "系统编程",
+        "Linux",
+        "系统调用",
+        "API详解",
+        "文件I/O",
+        "进程管理"
+      ],
+      "wordCount": 6425,
+      "id": "758deba4cbb63d9d"
+    }
+  ]
+}

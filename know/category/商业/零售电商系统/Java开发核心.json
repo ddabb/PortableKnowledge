@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "category": "商业/零售电商系统/Java开发核心",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "Java开发核心_Java多线程与并发编程.json",
+      "title": "Java多线程与并发编程",
+      "description": "Java多线程编程核心技术，涵盖线程创建、同步机制、并发容器、性能优化和实战案例",
+      "category": "商业/零售电商系统/Java开发核心",
+      "tags": [
+        "Java",
+        "多线程",
+        "并发编程",
+        "线程池",
+        "同步机制",
+        "并发容器"
+      ],
+      "wordCount": 12586,
+      "id": "c237635c2c2283be"
+    }
+  ]
+}

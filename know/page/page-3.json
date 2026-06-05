@@ -1,334 +1,315 @@
 {
   "page": 3,
-  "totalPages": 44,
-  "totalItems": 877,
+  "totalPages": 45,
+  "totalItems": 889,
   "items": [
     {
-      "filename": "机器学习_支持向量机.json",
-      "title": "支持向量机",
-      "description": "支持向量机是常用的监督学习算法，用于分类和回归问题",
-      "category": "01_技术IT领域/数据分析师/机器学习",
+      "filename": "系统编程_并发编程实践.json",
+      "title": "并发编程实践",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "机器学习",
-        "支持向量机",
-        "监督学习",
-        "分类算法",
-        "回归算法"
+        "系统编程",
+        "并发编程",
+        "多线程",
+        "无锁编程",
+        "性能优化"
       ],
-      "wordCount": 8185,
-      "id": "6c0b3c0273723f74"
+      "wordCount": 4798,
+      "id": "fc013f7b7cf00366"
     },
     {
-      "filename": "实战案例_电商商品价格分析案例.json",
-      "title": "电商商品价格分析案例",
-      "description": "电商商品价格分析案例通过完整分析流程，展示如何使用数据分析技能分析商品价格，提取业务价值",
-      "category": "01_技术IT领域/数据分析师/实战案例",
+      "filename": "系统编程_进程与线程管理.json",
+      "title": "进程与线程管理",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "实战案例",
-        "电商商品价格分析案例",
-        "数据导入",
-        "数据清洗",
-        "数据探索",
-        "数据可视化",
-        "业务洞察"
+        "系统编程",
+        "进程",
+        "线程",
+        "调度",
+        "上下文切换"
       ],
-      "wordCount": 7879,
-      "id": "0a75f13ec3bcb509"
+      "wordCount": 5411,
+      "id": "c10acc169924ab96"
     },
     {
-      "filename": "实战案例_电商数据分析案例.json",
-      "title": "电商数据分析案例",
-      "description": "电商数据分析是数据分析师的核心实战技能，涵盖用户行为分析、商品分析、订单分析等多个维度",
-      "category": "01_技术IT领域/数据分析师/实战案例",
+      "filename": "系统编程_内存管理实现.json",
+      "title": "内存管理实现",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "实战案例",
-        "电商数据分析",
-        "用户行为分析",
-        "商品分析"
+        "系统编程",
+        "内存管理",
+        "虚拟内存",
+        "分配器",
+        "性能优化"
       ],
-      "wordCount": 10139,
-      "id": "1c792a9dd80d1368"
+      "wordCount": 5255,
+      "id": "3561cea6b908d5c5"
     },
     {
-      "filename": "实战案例_电商销售数据分析案例.json",
-      "title": "电商销售数据分析案例",
-      "description": "电商销售数据分析案例通过完整分析流程，展示如何使用数据分析技能解决实际业务问题",
-      "category": "01_技术IT领域/数据分析师/实战案例",
+      "filename": "系统编程_网络编程实践.json",
+      "title": "网络编程实践",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "实战案例",
-        "电商销售数据分析案例",
-        "数据导入",
-        "数据清洗",
-        "数据探索",
-        "数据可视化",
-        "业务洞察"
+        "系统编程",
+        "网络编程",
+        "Socket编程",
+        "异步I/O",
+        "高性能网络"
       ],
-      "wordCount": 7693,
-      "id": "14286e254d7caa7e"
+      "wordCount": 6235,
+      "id": "bf6771afd9c182b1"
     },
     {
-      "filename": "实战案例_电商用户行为分析案例.json",
-      "title": "电商用户行为分析案例",
-      "description": "电商用户行为分析案例通过完整分析流程，展示如何使用数据分析技能分析用户行为，提取业务价值",
-      "category": "01_技术IT领域/数据分析师/实战案例",
+      "filename": "系统编程_文件I_O优化.json",
+      "title": "文件I/O优化",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "实战案例",
-        "电商用户行为分析案例",
-        "数据导入",
-        "数据清洗",
-        "数据探索",
-        "数据可视化",
-        "业务洞察"
+        "系统编程",
+        "文件I/O",
+        "零拷贝",
+        "异步I/O",
+        "性能优化"
       ],
-      "wordCount": 8259,
-      "id": "cc3d4df832b3fbcd"
+      "wordCount": 5392,
+      "id": "726077a95e38a9e8"
     },
     {
-      "filename": "实战案例_数据清洗案例.json",
-      "title": "数据清洗案例",
-      "description": "数据清洗是数据分析的前提，包括处理缺失值、异常值、重复值、格式不一致等问题",
-      "category": "01_技术IT领域/数据分析师/实战案例",
+      "filename": "系统编程_系统编程概述.json",
+      "title": "系统编程概述",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "实战案例",
-        "数据清洗",
-        "缺失值处理",
-        "异常值处理"
+        "系统编程",
+        "定义",
+        "核心概念",
+        "应用场景"
       ],
-      "wordCount": 9142,
-      "id": "1598e7cdf6c8fc60"
+      "wordCount": 4818,
+      "id": "e930e33fc8e9e0c7"
     },
     {
-      "filename": "数据可视化_数据可视化基础.json",
-      "title": "数据可视化基础",
-      "description": "数据可视化基础包括数据可视化原则、图表选择、颜色使用、布局设计等，掌握这些基础知识能有效提升数据可视化能力",
-      "category": "01_技术IT领域/数据分析师/数据可视化",
+      "filename": "系统编程_性能优化与调试.json",
+      "title": "性能优化与调试",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "数据可视化",
-        "数据可视化基础",
-        "数据可视化原则",
-        "图表选择",
-        "颜色使用",
-        "布局设计",
-        "数据分析"
+        "系统编程",
+        "性能优化",
+        "调试",
+        "Profiling",
+        "缓存优化"
       ],
-      "wordCount": 5847,
-      "id": "0d9d2c87e8e14e5e"
+      "wordCount": 5166,
+      "id": "cde5bcb7312c4ee4"
     },
     {
-      "filename": "数据可视化_Power BI基础.json",
-      "title": "Power BI基础",
-      "description": "Power BI是微软推出的商业智能工具，掌握Power BI基础操作能有效提升数据分析和可视化能力",
-      "category": "01_技术IT领域/数据分析师/数据可视化",
+      "filename": "系统编程_C_C++系统编程实践.json",
+      "title": "C/C++系统编程实践",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "数据可视化",
-        "Power BI基础",
-        "数据连接",
-        "报表创建",
-        "可视化图表",
-        "仪表板",
-        "数据分析"
+        "系统编程",
+        "C语言",
+        "C++",
+        "系统调用",
+        "跨平台"
       ],
-      "wordCount": 6638,
-      "id": "3735ba56f0201e81"
+      "wordCount": 7201,
+      "id": "fe7f4a1b334b2a49"
     },
     {
-      "filename": "数据可视化_Python可视化.json",
-      "title": "Python可视化",
-      "description": "Python可视化通过Matplotlib、Seaborn、Plotly等库实现数据可视化，掌握这些库的用法能有效提升数据分析和可视化能力",
-      "category": "01_技术IT领域/数据分析师/数据可视化",
+      "filename": "系统编程_Linux系统编程API详解.json",
+      "title": "Linux系统编程API详解",
+      "description": "",
+      "category": "技术/系统编程",
       "tags": [
-        "数据分析师",
-        "数据可视化",
-        "Python可视化",
-        "Matplotlib",
-        "Seaborn",
-        "Plotly",
-        "数据分析"
+        "系统编程",
+        "Linux",
+        "系统调用",
+        "API详解",
+        "文件I/O",
+        "进程管理"
       ],
-      "wordCount": 10200,
-      "id": "f7e282678698cd70"
+      "wordCount": 6425,
+      "id": "758deba4cbb63d9d"
     },
     {
-      "filename": "数据可视化_Tableau基础.json",
-      "title": "Tableau基础",
-      "description": "Tableau是主流数据可视化工具，掌握Tableau基础操作能有效提升数据分析和可视化能力",
-      "category": "01_技术IT领域/数据分析师/数据可视化",
+      "filename": "云原生_服务网格.json",
+      "title": "服务网格",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "数据可视化",
-        "Tableau基础",
-        "数据连接",
-        "工作表创建",
-        "可视化图表",
-        "仪表板",
-        "数据分析"
+        "云原生",
+        "Service Mesh",
+        "Istio",
+        "微服务",
+        "流量管理"
       ],
-      "wordCount": 6125,
-      "id": "abded850eff05798"
+      "wordCount": 5045,
+      "id": "1131c82b7a94a228"
     },
     {
-      "filename": "统计学基础_抽样理论.json",
-      "title": "抽样理论",
-      "description": "抽样理论是数据分析师进行统计推断的基础，包括抽样方法、样本量计算、抽样误差等",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_云原生安全.json",
+      "title": "云原生安全",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "抽样理论",
-        "抽样方法",
-        "样本量计算",
-        "抽样误差",
-        "数据分析"
+        "云原生",
+        "安全",
+        "容器安全",
+        "镜像安全",
+        "运行时安全",
+        "网络安全"
       ],
-      "wordCount": 5869,
-      "id": "ff762699379328b2"
+      "wordCount": 5713,
+      "id": "baa05b4d2db60dda"
     },
     {
-      "filename": "统计学基础_方差分析.json",
-      "title": "方差分析",
-      "description": "方差分析（ANOVA）用于检验三个或更多总体的均值是否有显著差异，是假设检验的延伸",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_云原生存储.json",
+      "title": "云原生存储",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "方差分析",
-        "ANOVA",
-        "假设检验"
+        "云原生",
+        "存储",
+        "PV",
+        "PVC",
+        "StorageClass",
+        "CSI"
       ],
-      "wordCount": 8974,
-      "id": "b4c32278587a95c0"
+      "wordCount": 5277,
+      "id": "bfee3056fa60c342"
     },
     {
-      "filename": "统计学基础_概率分布.json",
-      "title": "概率分布",
-      "description": "概率分布是数据分析师理解数据随机性、进行统计推断的基础，包括离散分布和连续分布",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_云原生概述.json",
+      "title": "云原生概述",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "概率分布",
-        "离散分布",
-        "连续分布",
-        "正态分布",
-        "数据分析"
+        "云原生",
+        "Cloud Native",
+        "容器",
+        "微服务",
+        "DevOps"
       ],
-      "wordCount": 5780,
-      "id": "5c22c0684f9059f0"
+      "wordCount": 3585,
+      "id": "9aaec332e92817bf"
     },
     {
-      "filename": "统计学基础_回归分析.json",
-      "title": "回归分析",
-      "description": "回归分析是研究自变量与因变量之间关系的统计方法，包括线性回归、逻辑回归等",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_云原生可观测性.json",
+      "title": "云原生可观测性",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "回归分析",
-        "线性回归",
-        "逻辑回归"
+        "云原生",
+        "可观测性",
+        "监控",
+        "日志",
+        "分布式追踪",
+        "Prometheus",
+        "Grafana"
       ],
-      "wordCount": 6258,
-      "id": "b03dc72c9db06069"
+      "wordCount": 5365,
+      "id": "5e084f2b2feac4d0"
     },
     {
-      "filename": "统计学基础_假设检验.json",
-      "title": "假设检验",
-      "description": "假设检验是统计推断的核心内容，用于判断样本数据是否支持某个关于总体的假设",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_云原生网络.json",
+      "title": "云原生网络",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "假设检验",
-        "统计推断",
-        "P值"
+        "云原生",
+        "容器网络",
+        "CNI",
+        "Service",
+        "Ingress",
+        "NetworkPolicy"
       ],
-      "wordCount": 7948,
-      "id": "aa8f97500e002432"
+      "wordCount": 5310,
+      "id": "32bf15e5a454905c"
     },
     {
-      "filename": "统计学基础_卡方检验.json",
-      "title": "卡方检验",
-      "description": "卡方检验用于检验两个分类变量是否独立，或检验观测频数与期望频数是否有显著差异",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_云原生未来趋势.json",
+      "title": "云原生未来趋势",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "卡方检验",
-        "分类变量",
-        "独立性检验"
+        "云原生",
+        "未来趋势",
+        "eBPF",
+        "WebAssembly",
+        "FinOps",
+        "平台工程",
+        "AI for Ops"
       ],
-      "wordCount": 7561,
-      "id": "76355a5c325f22f8"
+      "wordCount": 5636,
+      "id": "ed45d857722fab38"
     },
     {
-      "filename": "统计学基础_描述性统计.json",
-      "title": "描述性统计",
-      "description": "描述性统计是数据分析师理解数据基本特征的基础技能，包括集中趋势、离散程度、分布形态等",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_DevOps与CI_CD.json",
+      "title": "DevOps与CI/CD",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "描述性统计",
-        "集中趋势",
-        "离散程度",
-        "分布形态",
-        "数据分析"
+        "云原生",
+        "DevOps",
+        "CI/CD",
+        "持续集成",
+        "持续交付",
+        "GitOps"
       ],
-      "wordCount": 5374,
-      "id": "98b62753041b4750"
+      "wordCount": 5299,
+      "id": "95671bf0bc27adb6"
     },
     {
-      "filename": "统计学基础_时间序列分析.json",
-      "title": "时间序列分析",
-      "description": "时间序列分析是研究按时间顺序排列的数据，识别模式并进行预测的统计学方法",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_Docker容器化.json",
+      "title": "Docker容器化",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "时间序列分析",
-        "预测",
-        "数据分析"
+        "云原生",
+        "Docker",
+        "容器化",
+        "镜像构建",
+        "容器编排"
       ],
-      "wordCount": 8321,
-      "id": "352acbe8b1ab4bfe"
+      "wordCount": 5477,
+      "id": "4e2a6d2705aa2f2f"
     },
     {
-      "filename": "统计学基础_推断性统计.json",
-      "title": "推断性统计",
-      "description": "推断性统计是利用样本数据推断总体特征的统计方法，包括参数估计和假设检验",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_Kubernetes核心概念.json",
+      "title": "Kubernetes核心概念",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "推断性统计",
-        "参数估计",
-        "假设检验"
+        "云原生",
+        "Kubernetes",
+        "容器编排",
+        "容器管理"
       ],
-      "wordCount": 6144,
-      "id": "7c9bed8891b33a89"
+      "wordCount": 4987,
+      "id": "81d4c0a59a141eed"
     },
     {
-      "filename": "统计学基础_相关分析.json",
-      "title": "相关分析",
-      "description": "相关分析用于研究两个或多个变量之间的关联程度和方向，是数据分析的核心基础",
-      "category": "01_技术IT领域/数据分析师/统计学基础",
+      "filename": "云原生_Serverless与函数计算.json",
+      "title": "Serverless与函数计算",
+      "description": "",
+      "category": "技术/云原生",
       "tags": [
-        "数据分析师",
-        "统计学基础",
-        "相关分析",
-        "相关系数",
-        "数据分析"
+        "云原生",
+        "Serverless",
+        "函数计算",
+        "FaaS",
+        "BaaS",
+        "Knative"
       ],
-      "wordCount": 7111,
-      "id": "23a11e840218b05e"
+      "wordCount": 4651,
+      "id": "4ee50341a440c5c2"
     }
   ]
 }
