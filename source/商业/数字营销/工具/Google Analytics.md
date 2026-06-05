@@ -2,7 +2,7 @@
 title: Google Analytics
 description: Google Analytics是数字营销的重要分析工具，用于跟踪和报告网站流量
 category: 商业/数字营销/工具
-tags: ["数字营销", "工具", "Google Analytics", "网站分析", "流量分析", "转化跟踪", "--"]
+tags: ["数字营销", "工具", "Google Analytics", "网站分析", "流量分析", "转化跟踪"]
 
 ---
 

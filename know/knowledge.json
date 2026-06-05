@@ -2,7 +2,7 @@
   "meta": {
     "totalArticles": 901,
     "totalCategories": 120,
-    "totalTags": 1936
+    "totalTags": 1935
   },
   "categories": [
     {
@@ -569,7 +569,6 @@
     }
   ],
   "popularTags": [
-    "--",
     "CPA",
     "数据分析师",
     "规划过程组",
@@ -578,6 +577,7 @@
     "建造师",
     "中级经济师",
     "英语考试",
-    "项目管理"
+    "项目管理",
+    "软考高项"
   ]
 }

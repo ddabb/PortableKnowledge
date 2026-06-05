@@ -2,7 +2,7 @@
 title: SQL多表连接
 description: SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等
 category: 考试/数据分析师/SQL数据库
-tags: ["数据分析师", "SQL数据库", "SQL多表连接", "JOIN", "数据分析", "--"]
+tags: ["数据分析师", "SQL数据库", "SQL多表连接", "JOIN", "数据分析"]
 
 ---
 

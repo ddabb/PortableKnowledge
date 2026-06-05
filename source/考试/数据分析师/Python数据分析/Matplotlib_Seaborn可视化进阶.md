@@ -2,7 +2,7 @@
 title: Matplotlib/Seaborn可视化进阶
 description: Matplotlib和Seaborn是Python数据分析中最常用的可视化库，掌握其进阶技巧能有效提升数据展示效果
 category: 考试/数据分析师/Python数据分析
-tags: ["数据分析师", "Python数据分析", "Matplotlib", "Seaborn", "数据可视化", "进阶技巧", "数据分析", "--"]
+tags: ["数据分析师", "Python数据分析", "Matplotlib", "Seaborn", "数据可视化", "进阶技巧", "数据分析"]
 
 ---
 

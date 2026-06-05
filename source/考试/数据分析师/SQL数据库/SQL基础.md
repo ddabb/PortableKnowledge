@@ -2,7 +2,7 @@
 title: SQL基础
 description: SQL基础是数据分析师操作关系型数据库的核心技能，包括SELECT、WHERE、ORDER BY、GROUP BY等基础语法
 category: 考试/数据分析师/SQL数据库
-tags: ["数据分析师", "SQL数据库", "SQL基础", "SELECT", "WHERE", "--"]
+tags: ["数据分析师", "SQL数据库", "SQL基础", "SELECT", "WHERE"]
 
 ---
 

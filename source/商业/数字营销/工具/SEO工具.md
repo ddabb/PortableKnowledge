@@ -2,7 +2,7 @@
 title: SEO工具
 description: SEO工具是数字营销的重要工具，用于优化网站在搜索引擎中的排名
 category: 商业/数字营销/工具
-tags: ["数字营销", "工具", "SEO工具", "百度站长平台", "Google Search Console", "关键词工具", "链接分析工具", "--"]
+tags: ["数字营销", "工具", "SEO工具", "百度站长平台", "Google Search Console", "关键词工具", "链接分析工具"]
 
 ---
 

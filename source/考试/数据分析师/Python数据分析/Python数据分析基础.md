@@ -2,7 +2,7 @@
 title: Python数据分析基础
 description: Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用
 category: 考试/数据分析师/Python数据分析
-tags: ["数据分析师", "Python数据分析", "Python基础", "NumPy", "Pandas", "数据分析", "--"]
+tags: ["数据分析师", "Python数据分析", "Python基础", "NumPy", "Pandas", "数据分析"]
 
 ---
 

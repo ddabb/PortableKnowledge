@@ -16,8 +16,7 @@
         "Matplotlib",
         "Seaborn",
         "Plotly",
-        "数据分析",
-        "--"
+        "数据分析"
       ],
       "wordCount": 10200,
       "id": "783a506222aaa7bb"
@@ -32,8 +31,7 @@
         "Python数据分析",
         "数据可视化",
         "Matplotlib",
-        "Seaborn",
-        "--"
+        "Seaborn"
       ],
       "wordCount": 9353,
       "id": "bb058a2618166108"
@@ -50,8 +48,7 @@
         "Seaborn",
         "数据可视化",
         "进阶技巧",
-        "数据分析",
-        "--"
+        "数据分析"
       ],
       "wordCount": 9790,
       "id": "965bc44520d920ed"

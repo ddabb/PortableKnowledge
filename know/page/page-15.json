@@ -12,8 +12,7 @@
         "规划过程组",
         "制定预算",
         "成本管理",
-        "PMP",
-        "--"
+        "PMP"
       ],
       "wordCount": 2614,
       "id": "b40b7d4c4457de7a"
@@ -26,8 +25,7 @@
       "tags": [
         "规划过程组",
         "制定预算",
-        "资金流管理",
-        "--"
+        "资金流管理"
       ],
       "wordCount": 2545,
       "id": "93579c73658c7044"
@@ -41,8 +39,7 @@
         "规划过程组",
         "定义范围",
         "产品经理",
-        "产品分析",
-        "--"
+        "产品分析"
       ],
       "wordCount": 3191,
       "id": "560e86bb8688e87d"
@@ -56,8 +53,7 @@
         "规划过程组",
         "创建WBS",
         "WBS",
-        "PMP",
-        "--"
+        "PMP"
       ],
       "wordCount": 783,
       "id": "7be24a39797d6fb9"
@@ -68,7 +64,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 542,
+      "wordCount": 537,
       "id": "087ee0706a001532"
     },
     {
@@ -82,8 +78,7 @@
         "范围管理计划",
         "WBS",
         "范围基准",
-        "需求管理",
-        "--"
+        "需求管理"
       ],
       "wordCount": 4207,
       "id": "b8a3b107429e78c3"
@@ -97,8 +92,7 @@
         "规划过程组",
         "规划范围管理",
         "范围管理计划",
-        "PMP",
-        "--"
+        "PMP"
       ],
       "wordCount": 3339,
       "id": "d87a46ac079cc01e"
@@ -109,7 +103,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 849,
+      "wordCount": 844,
       "id": "2c0ee5d363eef300"
     },
     {
@@ -118,7 +112,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 1139,
+      "wordCount": 1134,
       "id": "bb40d18123836ba9"
     },
     {
@@ -127,7 +121,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 428,
+      "wordCount": 423,
       "id": "03329f751d30a6d5"
     },
     {
@@ -136,7 +130,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 398,
+      "wordCount": 393,
       "id": "8b99eb2afaa6bc40"
     },
     {
@@ -145,7 +139,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 480,
+      "wordCount": 475,
       "id": "435d255c9dc78ba2"
     },
     {
@@ -154,7 +148,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 524,
+      "wordCount": 519,
       "id": "63105b74b100db71"
     },
     {
@@ -164,8 +158,7 @@
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [
         "规划过程组",
-        "收集需求",
-        "--"
+        "收集需求"
       ],
       "wordCount": 2390,
       "id": "901190226e8bcd7d"
@@ -176,7 +169,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 715,
+      "wordCount": 710,
       "id": "e05f696414dbe309"
     },
     {
@@ -185,7 +178,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 535,
+      "wordCount": 530,
       "id": "cfc4d5e001f11b4a"
     },
     {
@@ -197,8 +190,7 @@
         "规划过程组",
         "规划范围管理",
         "需求管理",
-        "商业分析计划",
-        "--"
+        "商业分析计划"
       ],
       "wordCount": 3596,
       "id": "1bb1dddac0eac542"
@@ -209,7 +201,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 772,
+      "wordCount": 767,
       "id": "19741ade54ac3e58"
     },
     {
@@ -220,8 +212,7 @@
       "tags": [
         "监控过程组",
         "确认范围",
-        "验收文件",
-        "--"
+        "验收文件"
       ],
       "wordCount": 2034,
       "id": "648cab9d8569a25b"
@@ -232,7 +223,7 @@
       "description": "",
       "category": "考试/软考/项目管理/项目范围管理",
       "tags": [],
-      "wordCount": 433,
+      "wordCount": 428,
       "id": "1f711be0412ad920"
     }
   ]

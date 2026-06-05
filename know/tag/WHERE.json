@@ -14,8 +14,7 @@
         "SQL数据库",
         "SQL基础",
         "SELECT",
-        "WHERE",
-        "--"
+        "WHERE"
       ],
       "wordCount": 8372,
       "id": "725a03414c4a6454"
@@ -34,8 +33,7 @@
         "GROUP BY",
         "HAVING",
         "ORDER BY",
-        "数据分析",
-        "--"
+        "数据分析"
       ],
       "wordCount": 7051,
       "id": "723bc236a6a3b2f8"
