@@ -1,9 +1,24 @@
 {
   "meta": {
     "tag": "状态机",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "服务端架构_交易系统架构.json",
+      "title": "交易系统架构",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "交易系统",
+        "订单管理",
+        "分布式事务",
+        "系统架构",
+        "状态机"
+      ],
+      "wordCount": 2832,
+      "id": "51891696c21cd017"
+    },
     {
       "filename": "营销自动化_可视化流程编排引擎.json",
       "title": "可视化流程编排引擎",

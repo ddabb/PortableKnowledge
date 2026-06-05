@@ -1,8 +1,191 @@
 {
   "page": 33,
-  "totalPages": 45,
-  "totalItems": 889,
+  "totalPages": 46,
+  "totalItems": 901,
   "items": [
+    {
+      "filename": "Python数据分析_NumPy基础.json",
+      "title": "NumPy基础",
+      "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
+      "category": "考试/数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "NumPy",
+        "数组操作",
+        "数值计算",
+        "--"
+      ],
+      "wordCount": 9306,
+      "id": "e4d68da3e90d0092"
+    },
+    {
+      "filename": "Python数据分析_Pandas高级数据处理.json",
+      "title": "Pandas高级数据处理",
+      "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
+      "category": "考试/数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "高级数据处理",
+        "数据清洗",
+        "数据转换",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 9337,
+      "id": "2bb31146830c4cd5"
+    },
+    {
+      "filename": "Python数据分析_Pandas基础.json",
+      "title": "Pandas基础",
+      "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
+      "category": "考试/数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Pandas",
+        "DataFrame",
+        "Series",
+        "--"
+      ],
+      "wordCount": 10550,
+      "id": "9748010bce21768b"
+    },
+    {
+      "filename": "Python数据分析_Python数据分析基础.json",
+      "title": "Python数据分析基础",
+      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
+      "category": "考试/数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Python基础",
+        "NumPy",
+        "Pandas",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 10145,
+      "id": "3f600ff76b791114"
+    },
+    {
+      "filename": "Python数据分析_Scikit-learn机器学习入门.json",
+      "title": "Scikit-learn机器学习入门",
+      "description": "Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能",
+      "category": "考试/数据分析师/Python数据分析",
+      "tags": [
+        "数据分析师",
+        "Python数据分析",
+        "Scikit-learn",
+        "机器学习",
+        "预测建模",
+        "监督学习",
+        "无监督学习",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 12849,
+      "id": "1d12fab5af4568ad"
+    },
+    {
+      "filename": "SQL数据库_窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
+      "category": "考试/数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "Window Functions",
+        "--"
+      ],
+      "wordCount": 9326,
+      "id": "502e996740f6ce22"
+    },
+    {
+      "filename": "SQL数据库_SQL窗口函数.json",
+      "title": "SQL窗口函数",
+      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
+      "category": "考试/数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "窗口函数",
+        "SQL高级查询",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 9748,
+      "id": "931c28f20e94d592"
+    },
+    {
+      "filename": "SQL数据库_多表连接.json",
+      "title": "SQL多表连接",
+      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
+      "category": "考试/数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "多表连接",
+        "JOIN",
+        "--"
+      ],
+      "wordCount": 11305,
+      "id": "ad4e96267f19b013"
+    },
+    {
+      "filename": "SQL数据库_SQL多表连接.json",
+      "title": "SQL多表连接",
+      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
+      "category": "考试/数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL多表连接",
+        "JOIN",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 8928,
+      "id": "7b60afdf46a87876"
+    },
+    {
+      "filename": "SQL数据库_分组聚合.json",
+      "title": "SQL分组聚合",
+      "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
+      "category": "考试/数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "分组聚合",
+        "GROUP BY",
+        "聚合函数",
+        "--"
+      ],
+      "wordCount": 9890,
+      "id": "25666e7ae96eb57a"
+    },
+    {
+      "filename": "SQL数据库_SQL高级查询.json",
+      "title": "SQL高级查询",
+      "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
+      "category": "考试/数据分析师/SQL数据库",
+      "tags": [
+        "数据分析师",
+        "SQL数据库",
+        "SQL高级查询",
+        "窗口函数",
+        "CTE",
+        "子查询",
+        "集合操作",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 8225,
+      "id": "ef586471a6014b36"
+    },
     {
       "filename": "SQL数据库_SQL基础.json",
       "title": "SQL基础",
@@ -13,7 +196,8 @@
         "SQL数据库",
         "SQL基础",
         "SELECT",
-        "WHERE"
+        "WHERE",
+        "--"
       ],
       "wordCount": 8372,
       "id": "725a03414c4a6454"
@@ -27,7 +211,8 @@
         "数据分析师",
         "SQL数据库",
         "基础查询",
-        "SELECT"
+        "SELECT",
+        "--"
       ],
       "wordCount": 9500,
       "id": "b690904befdc1e75"
@@ -46,7 +231,8 @@
         "GROUP BY",
         "HAVING",
         "ORDER BY",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 7051,
       "id": "723bc236a6a3b2f8"
@@ -63,7 +249,8 @@
         "数据查询",
         "数据聚合",
         "数据分组",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 8873,
       "id": "af710282e35c16aa"
@@ -80,7 +267,8 @@
         "索引优化",
         "查询优化",
         "执行计划",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 8680,
       "id": "c6e7adb795c43847"
@@ -94,7 +282,8 @@
         "数据分析师",
         "SQL数据库",
         "子查询",
-        "Subquery"
+        "Subquery",
+        "--"
       ],
       "wordCount": 10233,
       "id": "9ba5d5d6f6e12d1c"
@@ -109,7 +298,8 @@
         "SQL数据库",
         "SQL子查询",
         "Subquery",
-        "嵌套查询"
+        "嵌套查询",
+        "--"
       ],
       "wordCount": 8655,
       "id": "3de170c489a39d3a"
@@ -125,7 +315,8 @@
         "考研英语一",
         "考研英语二",
         "考研备考",
-        "英语备考"
+        "英语备考",
+        "--"
       ],
       "wordCount": 8211,
       "id": "43b29945278cf4c0"
@@ -141,199 +332,11 @@
         "CET-4",
         "CET-6",
         "备考指南",
-        "英语备考"
+        "英语备考",
+        "--"
       ],
       "wordCount": 8736,
       "id": "1d1d45b7d0e02a68"
-    },
-    {
-      "filename": "英语考试_英语词汇记忆方法.json",
-      "title": "英语词汇记忆方法",
-      "description": "英语词汇记忆方法与技巧，涵盖词根词缀记忆法、联想记忆法、语境记忆法等",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语词汇",
-        "词汇记忆",
-        "词根词缀",
-        "联想记忆",
-        "语境记忆",
-        "词汇记忆方法"
-      ],
-      "wordCount": 9215,
-      "id": "319c44536b59a27f"
-    },
-    {
-      "filename": "英语考试_英语发音技巧.json",
-      "title": "英语发音技巧",
-      "description": "英语发音技巧与方法，涵盖音标、重音、语调、连读、失去爆破、弱读等发音现象",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语发音",
-        "发音技巧",
-        "音标",
-        "重音",
-        "语调",
-        "连读",
-        "失去爆破",
-        "弱读"
-      ],
-      "wordCount": 10210,
-      "id": "b66cdc6ac08ca60c"
-    },
-    {
-      "filename": "英语考试_英语翻译技巧.json",
-      "title": "英语翻译技巧",
-      "description": "英语翻译技巧与方法，涵盖四六级、考研英语、雅思、托福等考试的翻译部分",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语翻译",
-        "翻译技巧",
-        "四六级翻译",
-        "考研英语翻译",
-        "雅思翻译",
-        "托福翻译"
-      ],
-      "wordCount": 8292,
-      "id": "32c840279ffb9bde"
-    },
-    {
-      "filename": "英语考试_英语考试概述.json",
-      "title": "英语考试概述",
-      "description": "英语考试是检验英语能力的重要方式，涉及多种英语考试类型",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "四六级",
-        "考研英语",
-        "雅思",
-        "托福",
-        "英语备考"
-      ],
-      "wordCount": 6629,
-      "id": "83e862c4a0c08603"
-    },
-    {
-      "filename": "英语考试_英语考试高频词汇.json",
-      "title": "英语考试高频词汇",
-      "description": "英语考试高频词汇汇总，涵盖四六级、考研英语、雅思、托福等考试的核心词汇",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "高频词汇",
-        "四六级词汇",
-        "考研英语词汇",
-        "雅思词汇",
-        "托福词汇",
-        "英语考试高频词汇"
-      ],
-      "wordCount": 8049,
-      "id": "610b3f35cc5a2944"
-    },
-    {
-      "filename": "英语考试_英语口语技巧.json",
-      "title": "英语口语技巧",
-      "description": "英语口语技巧与方法，涵盖日常口语、商务口语、面试口语等",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语口语",
-        "口语技巧",
-        "日常口语",
-        "商务口语",
-        "面试口语",
-        "英语口语技巧"
-      ],
-      "wordCount": 8861,
-      "id": "b8f4440e5d76b8dd"
-    },
-    {
-      "filename": "英语考试_英语口语技巧进阶.json",
-      "title": "英语口语技巧进阶",
-      "description": "英语口语技巧进阶与方法，涵盖发音、流利度、词汇、语法、逻辑等高级技巧",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语口语",
-        "口语技巧进阶",
-        "发音进阶",
-        "流利度进阶",
-        "词汇进阶",
-        "语法进阶",
-        "逻辑进阶"
-      ],
-      "wordCount": 9981,
-      "id": "3d421a215c719ee9"
-    },
-    {
-      "filename": "英语考试_英语口语考试技巧.json",
-      "title": "英语口语考试技巧",
-      "description": "英语口语考试技巧与方法，涵盖雅思口语、托福口语、四六级口语等考试",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语口语",
-        "口语考试技巧",
-        "雅思口语",
-        "托福口语",
-        "四六级口语",
-        "英语口语考试技巧"
-      ],
-      "wordCount": 9073,
-      "id": "cd4eb24e11d2ea2e"
-    },
-    {
-      "filename": "英语考试_英语口语考试指南.json",
-      "title": "英语口语考试指南",
-      "description": "英语口语考试（雅思口语、托福口语、四六级口语等）备考方法与策略",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语口语",
-        "雅思口语",
-        "托福口语",
-        "四六级口语",
-        "口语考试",
-        "英语口语备考"
-      ],
-      "wordCount": 8161,
-      "id": "16e1cb800c20a542"
-    },
-    {
-      "filename": "英语考试_英语面试技巧.json",
-      "title": "英语面试技巧",
-      "description": "英语面试技巧与方法，涵盖留学面试、工作面试、签证面试等场景",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语面试",
-        "面试技巧",
-        "留学面试",
-        "工作面试",
-        "签证面试",
-        "英语面试技巧"
-      ],
-      "wordCount": 10411,
-      "id": "bc151f0d29e0c802"
-    },
-    {
-      "filename": "英语考试_英语听力技巧.json",
-      "title": "英语听力技巧",
-      "description": "英语听力技巧与方法，涵盖四六级、考研英语、雅思、托福等考试的听力部分",
-      "category": "考试/英语考试",
-      "tags": [
-        "英语考试",
-        "英语听力",
-        "听力技巧",
-        "四六级听力",
-        "考研英语听力",
-        "雅思听力",
-        "托福听力"
-      ],
-      "wordCount": 8577,
-      "id": "903b13edbd3aca89"
     }
   ]
 }

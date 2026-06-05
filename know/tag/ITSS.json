@@ -1,40 +1,9 @@
 {
   "meta": {
     "tag": "ITSS",
-    "count": 3
+    "count": 1
   },
   "articles": [
-    {
-      "filename": "系统集成基础_IT服务标准化.json",
-      "title": "IT服务标准化",
-      "description": "ITSS标准体系、服务标准及产业化",
-      "category": "考试/软考/综合知识/系统集成基础",
-      "tags": [
-        "ITSS",
-        "服务标准化",
-        "服务产品化",
-        "服务产业化",
-        "服务标准"
-      ],
-      "wordCount": 1161,
-      "id": "6173b7f93f762025"
-    },
-    {
-      "filename": "系统集成基础_IT服务生命周期.json",
-      "title": "IT服务生命周期",
-      "description": "战略规划、设计实现、运营提升、退役终止四个阶段",
-      "category": "考试/软考/综合知识/系统集成基础",
-      "tags": [
-        "ITSS",
-        "SDOR",
-        "战略规划",
-        "设计实现",
-        "运营提升",
-        "退役终止"
-      ],
-      "wordCount": 1009,
-      "id": "81ed0920408f5a36"
-    },
     {
       "filename": "组织治理与管理_IT治理方法与标准.json",
       "title": "IT治理方法与标准",

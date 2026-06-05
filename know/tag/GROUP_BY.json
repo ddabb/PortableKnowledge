@@ -14,7 +14,8 @@
         "SQL数据库",
         "分组聚合",
         "GROUP BY",
-        "聚合函数"
+        "聚合函数",
+        "--"
       ],
       "wordCount": 9890,
       "id": "25666e7ae96eb57a"
@@ -33,7 +34,8 @@
         "GROUP BY",
         "HAVING",
         "ORDER BY",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 7051,
       "id": "723bc236a6a3b2f8"

@@ -2,16 +2,8 @@
 title: SQL基础查询
 description: SQL基础查询是数据分析师操作数据库的基本技能，掌握SELECT、WHERE、GROUP BY、HAVING、ORDER BY等子句是进行数据查询和分析的基础
 category: 考试/数据分析师/SQL数据库
-tags:
-  - 数据分析师
-  - SQL数据库
-  - SQL基础查询
-  - SELECT
-  - WHERE
-  - GROUP BY
-  - HAVING
-  - ORDER BY
-  - 数据分析
+tags: ["数据分析师", "SQL数据库", "SQL基础查询", "SELECT", "WHERE", "GROUP BY", "HAVING", "ORDER BY", "数据分析", "--"]
+
 ---
 
 # SQL基础查询

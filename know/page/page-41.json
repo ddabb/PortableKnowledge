@@ -1,8 +1,168 @@
 {
   "page": 41,
-  "totalPages": 45,
-  "totalItems": 889,
+  "totalPages": 46,
+  "totalItems": 901,
   "items": [
+    {
+      "filename": "税法_企业所得税税收优惠.json",
+      "title": "企业所得税税收优惠",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "税收优惠",
+        "减免税",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 929,
+      "id": "8c60b2c842c26186"
+    },
+    {
+      "filename": "税法_企业所得税应纳税所得额.json",
+      "title": "企业所得税应纳税所得额",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "企业所得税",
+        "应纳税所得额",
+        "计算",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 941,
+      "id": "50afd092229b3f86"
+    },
+    {
+      "filename": "税法_土地增值税.json",
+      "title": "土地增值税",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "土地增值税",
+        "税法",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 638,
+      "id": "7a18a10b7c16333d"
+    },
+    {
+      "filename": "税法_消费税概述.json",
+      "title": "消费税概述",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "消费税",
+        "税法",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 489,
+      "id": "ad77748c3a3647b7"
+    },
+    {
+      "filename": "税法_消费税税收优惠.json",
+      "title": "消费税税收优惠",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "消费税",
+        "税收优惠",
+        "减免税",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 318,
+      "id": "37967b937a432eb3"
+    },
+    {
+      "filename": "税法_消费税应纳税额计算.json",
+      "title": "消费税应纳税额计算",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "消费税",
+        "应纳税额",
+        "计算",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 647,
+      "id": "7c1d866adfefa70e"
+    },
+    {
+      "filename": "税法_增值税概述.json",
+      "title": "增值税概述",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "增值税",
+        "税法",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 393,
+      "id": "c90edfe4d49a0f2f"
+    },
+    {
+      "filename": "税法_增值税税收优惠.json",
+      "title": "增值税税收优惠",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "增值税",
+        "税收优惠",
+        "减免税",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 1223,
+      "id": "47bb96b87d91b500"
+    },
+    {
+      "filename": "税法_增值税应纳税额计算.json",
+      "title": "增值税应纳税额计算",
+      "description": "",
+      "category": "考试/注册会计师/税法",
+      "tags": [
+        "增值税",
+        "应纳税额",
+        "计算",
+        "CPA",
+        "--"
+      ],
+      "wordCount": 511,
+      "id": "33161c9f463860ac"
+    },
+    {
+      "filename": "产品研发_产品研发综合指南.json",
+      "title": "产品研发综合指南",
+      "description": "全面的产品研发知识，包括产品设计、技术实现、开源生态等内容",
+      "category": "商业/产品研发",
+      "tags": [
+        "产品研发",
+        "产品设计",
+        "技术实现",
+        "开源生态"
+      ],
+      "wordCount": 3266,
+      "id": "b4c6b28fedee5223"
+    },
+    {
+      "filename": "创业指南_创业融资指南.json",
+      "title": "创业融资指南：从种子轮到C轮的完整路线",
+      "description": "全面解析创业融资各轮次的要点，从种子轮到C轮的完整融资攻略",
+      "category": "商业/创业指南",
+      "tags": [
+        "融资",
+        "估值",
+        "VC",
+        "天使投资"
+      ],
+      "wordCount": 909,
+      "id": "dc9afc0f72667fd6"
+    },
     {
       "filename": "创业指南_创业准备与财务规划.json",
       "title": "创业准备与财务规划：启动前的六道功课",
@@ -32,6 +192,21 @@
       "id": "8c97ae2408c71dea"
     },
     {
+      "filename": "零售电商系统_电商系统架构设计.json",
+      "title": "电商系统架构设计",
+      "description": "",
+      "category": "商业/零售电商系统",
+      "tags": [
+        "电商系统",
+        "系统架构",
+        "分布式架构",
+        "微服务",
+        "高并发"
+      ],
+      "wordCount": 3425,
+      "id": "a8f94b7258b4d8a0"
+    },
+    {
       "filename": "存储技术_MySQL原理与性能优化.json",
       "title": "MySQL原理与性能优化",
       "description": "",
@@ -58,7 +233,8 @@
         "并发编程",
         "线程池",
         "同步机制",
-        "并发容器"
+        "并发容器",
+        "--"
       ],
       "wordCount": 12586,
       "id": "c237635c2c2283be"
@@ -113,162 +289,6 @@
       ],
       "wordCount": 774,
       "id": "f1dde7becf328b6c"
-    },
-    {
-      "filename": "人力资源管理师_培训开发.json",
-      "title": "培训开发",
-      "description": "培训开发的体系、方法和实施策略",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "培训",
-        "开发"
-      ],
-      "wordCount": 697,
-      "id": "9a3b956385635223"
-    },
-    {
-      "filename": "人力资源管理师_核心考点.json",
-      "title": "人力资源管理师核心考点",
-      "description": "人力资源管理师备考知识体系：HR六大模块、劳动法规核心考点",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源",
-        "HR",
-        "劳动法"
-      ],
-      "wordCount": 1426,
-      "id": "c4dd6e1ac66f51e3"
-    },
-    {
-      "filename": "人力资源管理师_人力资源管理师职业发展.json",
-      "title": "人力资源管理师职业发展",
-      "description": "人力资源管理师的职业发展路径、能力要求和发展策略",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "职业发展"
-      ],
-      "wordCount": 932,
-      "id": "8501adc94d3990a6"
-    },
-    {
-      "filename": "人力资源管理师_人力资源规划.json",
-      "title": "人力资源规划",
-      "description": "人力资源规划的核心概念、流程和实践方法",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "人力资源规划"
-      ],
-      "wordCount": 523,
-      "id": "a861f12e1fa5f439"
-    },
-    {
-      "filename": "人力资源管理师_人力资源信息化.json",
-      "title": "人力资源信息化",
-      "description": "人力资源信息化的概念、实施和管理策略",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "人力资源信息化"
-      ],
-      "wordCount": 873,
-      "id": "43f6ed279ed8e0ed"
-    },
-    {
-      "filename": "人力资源管理师_薪酬管理.json",
-      "title": "薪酬管理",
-      "description": "薪酬管理的体系、设计和实施策略",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "薪酬管理"
-      ],
-      "wordCount": 733,
-      "id": "198ae0d4705fc189"
-    },
-    {
-      "filename": "人力资源管理师_员工福利管理.json",
-      "title": "员工福利管理",
-      "description": "员工福利管理的体系、设计和实施策略",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "员工福利"
-      ],
-      "wordCount": 828,
-      "id": "872954e1ad7cee21"
-    },
-    {
-      "filename": "人力资源管理师_员工关系管理.json",
-      "title": "员工关系管理",
-      "description": "员工关系管理的概念、方法和实施策略",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "员工关系"
-      ],
-      "wordCount": 994,
-      "id": "e38a906e9ce6ffa1"
-    },
-    {
-      "filename": "人力资源管理师_战略性人力资源管理.json",
-      "title": "战略性人力资源管理",
-      "description": "战略性人力资源管理的概念、实施和管理策略",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "战略性人力资源管理"
-      ],
-      "wordCount": 883,
-      "id": "0573223be34db856"
-    },
-    {
-      "filename": "人力资源管理师_招聘与配置.json",
-      "title": "招聘与配置",
-      "description": "招聘与配置的流程、方法和最佳实践",
-      "category": "商业/人力资源管理师",
-      "tags": [
-        "人力资源管理师",
-        "招聘",
-        "配置"
-      ],
-      "wordCount": 720,
-      "id": "6af2e257fa0b6c30"
-    },
-    {
-      "filename": "策略_数字营销策略.json",
-      "title": "数字营销策略",
-      "description": "数字营销策略是数字营销的核心，制定有效的策略是数字营销成功的关键",
-      "category": "商业/数字营销/策略",
-      "tags": [
-        "数字营销",
-        "策略",
-        "数字营销策略",
-        "营销策略制定",
-        "营销策略执行",
-        "营销策略优化"
-      ],
-      "wordCount": 5149,
-      "id": "0616ce223116656a"
-    },
-    {
-      "filename": "分析_电子邮件分析.json",
-      "title": "电子邮件分析",
-      "description": "电子邮件分析是数字营销分析的重要组成部分，通过分析电子邮件数据优化营销效果",
-      "category": "商业/数字营销/分析",
-      "tags": [
-        "数字营销",
-        "分析",
-        "电子邮件分析",
-        "邮件打开率",
-        "邮件点击率",
-        "邮件转化率",
-        "Mailchimp分析"
-      ],
-      "wordCount": 5958,
-      "id": "3718c373eaf4a973"
     }
   ]
 }

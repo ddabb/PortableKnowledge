@@ -1,23 +1,41 @@
 {
   "meta": {
     "tag": "中间件",
-    "count": 1
+    "count": 2
   },
   "articles": [
     {
-      "filename": "信息系统开发_软件集成技术.json",
-      "title": "软件集成技术",
-      "description": "API、中间件、组件技术、SOA架构",
-      "category": "考试/软考/综合知识/信息系统开发",
+      "filename": "Node.js后端开发_Express框架.json",
+      "title": "Express框架",
+      "description": "",
+      "category": "技术/Node.js后端开发",
       "tags": [
-        "软件集成",
+        "Node.js",
+        "Express",
+        "后端开发",
+        "Web框架",
         "中间件",
-        "API",
-        "组件技术",
-        "SOA"
+        "路由"
       ],
-      "wordCount": 1156,
-      "id": "2bddf91460adf12e"
+      "wordCount": 3319,
+      "id": "c456ece71024434e"
+    },
+    {
+      "filename": "Node.js后端开发_Koa框架.json",
+      "title": "Koa框架",
+      "description": "",
+      "category": "技术/Node.js后端开发",
+      "tags": [
+        "Node.js",
+        "Koa",
+        "后端开发",
+        "Web框架",
+        "中间件",
+        "异步编程",
+        "洋葱模型"
+      ],
+      "wordCount": 3412,
+      "id": "340a1afa0cafd5fe"
     }
   ]
 }

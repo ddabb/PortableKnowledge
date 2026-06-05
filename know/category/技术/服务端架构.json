@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "category": "技术/服务端架构",
+    "count": 8
+  },
+  "articles": [
+    {
+      "filename": "服务端架构_服务端架构设计概述.json",
+      "title": "服务端架构设计概述",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "服务端架构",
+        "高可用",
+        "高性能",
+        "可扩展性",
+        "系统设计"
+      ],
+      "wordCount": 2665,
+      "id": "95587e65098096dc"
+    },
+    {
+      "filename": "服务端架构_高并发系统设计.json",
+      "title": "高并发系统设计",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "高并发",
+        "系统设计",
+        "负载均衡",
+        "性能优化",
+        "吞吐量"
+      ],
+      "wordCount": 2578,
+      "id": "f3c5339aae450f48"
+    },
+    {
+      "filename": "服务端架构_广告工程架构.json",
+      "title": "广告工程架构",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "广告系统",
+        "竞价",
+        "广告定向",
+        "计费",
+        "效果分析"
+      ],
+      "wordCount": 3099,
+      "id": "5616c0d129879498"
+    },
+    {
+      "filename": "服务端架构_交易系统架构.json",
+      "title": "交易系统架构",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "交易系统",
+        "订单管理",
+        "分布式事务",
+        "系统架构",
+        "状态机"
+      ],
+      "wordCount": 2832,
+      "id": "51891696c21cd017"
+    },
+    {
+      "filename": "服务端架构_数据库优化实践.json",
+      "title": "数据库优化实践",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "数据库优化",
+        "性能诊断",
+        "索引优化",
+        "表设计",
+        "慢查询"
+      ],
+      "wordCount": 2809,
+      "id": "4d9fdcdfeadd8aa2"
+    },
+    {
+      "filename": "服务端架构_系统稳定性建设.json",
+      "title": "系统稳定性建设",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "系统稳定性",
+        "可用性",
+        "故障隔离",
+        "容错",
+        "灾备"
+      ],
+      "wordCount": 3048,
+      "id": "05adc7eb0add3f3b"
+    },
+    {
+      "filename": "服务端架构_性能优化方法论.json",
+      "title": "性能优化方法论",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "性能优化",
+        "基准测试",
+        "性能剖析",
+        "系统调优",
+        "瓶颈分析"
+      ],
+      "wordCount": 2951,
+      "id": "f3ca275a2d1ed334"
+    },
+    {
+      "filename": "服务端架构_用户权益系统设计.json",
+      "title": "用户权益系统设计",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "用户权益",
+        "会员体系",
+        "积分系统",
+        "优惠券",
+        "权益管理"
+      ],
+      "wordCount": 2724,
+      "id": "7807a9cd59455496"
+    }
+  ]
+}

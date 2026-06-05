@@ -1,9 +1,24 @@
 {
   "meta": {
     "tag": "索引优化",
-    "count": 1
+    "count": 2
   },
   "articles": [
+    {
+      "filename": "服务端架构_数据库优化实践.json",
+      "title": "数据库优化实践",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "数据库优化",
+        "性能诊断",
+        "索引优化",
+        "表设计",
+        "慢查询"
+      ],
+      "wordCount": 2809,
+      "id": "4d9fdcdfeadd8aa2"
+    },
     {
       "filename": "SQL数据库_SQL性能优化.json",
       "title": "SQL性能优化",
@@ -16,7 +31,8 @@
         "索引优化",
         "查询优化",
         "执行计划",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 8680,
       "id": "c6e7adb795c43847"

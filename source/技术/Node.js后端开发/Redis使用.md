@@ -1,6 +1,7 @@
 ---
 title: Redis使用
 category: 技术/Node.js后端开发
+tags: ["Node.js", "Redis", "内存数据库", "后端开发", "缓存", "数据结构", "持久化", "高可用"]
 ---
 
 # Redis使用

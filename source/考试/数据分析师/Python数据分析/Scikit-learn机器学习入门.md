@@ -2,15 +2,8 @@
 title: Scikit-learn机器学习入门
 description: Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能
 category: 考试/数据分析师/Python数据分析
-tags:
-  - 数据分析师
-  - Python数据分析
-  - Scikit-learn
-  - 机器学习
-  - 预测建模
-  - 监督学习
-  - 无监督学习
-  - 数据分析
+tags: ["数据分析师", "Python数据分析", "Scikit-learn", "机器学习", "预测建模", "监督学习", "无监督学习", "数据分析", "--"]
+
 ---
 
 # Scikit-learn机器学习入门

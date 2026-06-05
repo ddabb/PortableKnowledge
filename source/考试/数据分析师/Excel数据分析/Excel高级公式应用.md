@@ -2,15 +2,8 @@
 title: Excel高级公式应用
 description: Excel高级公式包括数组公式、动态数组、LET函数、LAMBDA函数等，掌握这些高级公式能显著提升数据分析效率
 category: 考试/数据分析师/Excel数据分析
-tags:
-  - 数据分析师
-  - Excel数据分析
-  - 高级公式应用
-  - 数组公式
-  - 动态数组
-  - LET函数
-  - LAMBDA函数
-  - 数据分析
+tags: ["数据分析师", "Excel数据分析", "高级公式应用", "数组公式", "动态数组", "LET函数", "LAMBDA函数", "数据分析", "--"]
+
 ---
 
 # Excel高级公式应用

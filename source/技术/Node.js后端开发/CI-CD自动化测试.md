@@ -1,6 +1,7 @@
 ---
 title: CI/CD自动化测试
 category: 技术/Node.js后端开发
+tags: ["CI/CD", "自动化测试", "Node.js", "后端开发", "持续集成", "持续部署", "流水线"]
 ---
 
 # CI/CD自动化测试

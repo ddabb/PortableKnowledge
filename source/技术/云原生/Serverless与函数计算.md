@@ -1,13 +1,7 @@
 ---
 title: "Serverless与函数计算"
 date: 2026-06-03
-tags:
-  - 云原生
-  - Serverless
-  - 函数计算
-  - FaaS
-  - BaaS
-  - Knative
+tags: ["云原生", "Serverless", "函数计算", "FaaS", "BaaS", "Knative"]
 ---
 
 # Serverless与函数计算

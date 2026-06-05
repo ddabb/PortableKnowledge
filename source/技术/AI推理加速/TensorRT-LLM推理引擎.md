@@ -2,15 +2,7 @@
 title: TensorRT-LLM推理引擎
 description: TensorRT-LLM的核心技术、架构设计、使用方法和性能优化，涵盖算子融合、量化、FP8、模型并行等高级技术
 category: 技术/AI推理加速
-tags:
-  - TensorRT-LLM
-  - NVIDIA
-  - 推理引擎
-  - 算子融合
-  - 量化
-  - FP8
-  - 模型并行
-  - 低延迟
+tags: ["TensorRT-LLM", "NVIDIA", "推理引擎", "算子融合", "量化", "FP8", "模型并行", "低延迟"]
 ---
 
 # TensorRT-LLM推理引擎

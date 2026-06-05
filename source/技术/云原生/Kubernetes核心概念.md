@@ -1,11 +1,7 @@
 ---
 title: "Kubernetes核心概念"
 date: 2026-06-03
-tags:
-  - 云原生
-  - Kubernetes
-  - 容器编排
-  - 容器管理
+tags: ["云原生", "Kubernetes", "容器编排", "容器管理"]
 ---
 
 # Kubernetes核心概念

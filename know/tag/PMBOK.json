@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "PMBOK",
-    "count": 6
+    "count": 2
   },
   "articles": [
     {
@@ -30,64 +30,11 @@
         "适应型",
         "PMBOK",
         "PMP",
-        "敏捷"
+        "敏捷",
+        "--"
       ],
       "wordCount": 3588,
       "id": "2cfaabd5d3e3cce9"
-    },
-    {
-      "filename": "引论_价值交付系统.json",
-      "title": "价值交付系统",
-      "description": "价值创造方式、价值交付组件、信息流",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "价值交付",
-        "PMP",
-        "PMBOK"
-      ],
-      "wordCount": 2007,
-      "id": "6ca4830648b295f2"
-    },
-    {
-      "filename": "引论_项目管理原则.json",
-      "title": "项目管理原则",
-      "description": "PMBOK第7版定义的12个项目管理原则",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "项目管理原则",
-        "PMP",
-        "PMBOK"
-      ],
-      "wordCount": 2301,
-      "id": "974f82a7e75f1486"
-    },
-    {
-      "filename": "引论_项目管理知识领域.json",
-      "title": "项目管理知识领域",
-      "description": "10个知识领域概述、5个过程组与知识领域的矩阵关系",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "知识领域",
-        "PMP",
-        "PMBOK",
-        "项目管理"
-      ],
-      "wordCount": 1779,
-      "id": "c5c98f1627c66dcd"
-    },
-    {
-      "filename": "引论_PMBOK的发展.json",
-      "title": "PMBOK的发展",
-      "description": "PMBOK各版本演变历程及关键变化",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "PMBOK",
-        "PMI",
-        "项目管理",
-        "版本演变"
-      ],
-      "wordCount": 986,
-      "id": "e8c183b8c356e5ff"
     }
   ]
 }

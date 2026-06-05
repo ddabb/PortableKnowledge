@@ -2,12 +2,8 @@
 title: Pandas基础
 description: Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析
 category: 考试/数据分析师/Python数据分析
-tags:
-  - 数据分析师
-  - Python数据分析
-  - Pandas
-  - DataFrame
-  - Series
+tags: ["数据分析师", "Python数据分析", "Pandas", "DataFrame", "Series", "--"]
+
 ---
 
 # Pandas基础

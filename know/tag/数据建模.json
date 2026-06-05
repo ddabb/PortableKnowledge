@@ -1,24 +1,9 @@
 {
   "meta": {
     "tag": "数据建模",
-    "count": 2
+    "count": 1
   },
   "articles": [
-    {
-      "filename": "系统集成基础_数据架构.json",
-      "title": "数据架构",
-      "description": "数据架构设计、数据建模",
-      "category": "考试/软考/综合知识/系统集成基础",
-      "tags": [
-        "数据架构",
-        "数据分层",
-        "数据建模",
-        "数据仓库",
-        "大数据"
-      ],
-      "wordCount": 919,
-      "id": "abc1dd5c76837659"
-    },
     {
       "filename": "Excel数据分析_Excel数据建模.json",
       "title": "Excel数据建模",
@@ -31,7 +16,8 @@
         "数据模型",
         "Power Pivot",
         "数据关系",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 5874,
       "id": "b8796aa400de15a4"

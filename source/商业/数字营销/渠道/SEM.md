@@ -2,13 +2,8 @@
 title: SEM
 description: SEM（搜索引擎营销）是数字营销的重要渠道，通过付费广告在搜索引擎展示广告
 category: 商业/数字营销/渠道
-tags:
-  - 数字营销
-  - SEM
-  - 搜索引擎营销
-  - 付费广告
-  - Google Ads
-  - 百度竞价
+tags: ["数字营销", "SEM", "搜索引擎营销", "付费广告", "Google Ads", "百度竞价", "--"]
+
 ---
 
 # SEM

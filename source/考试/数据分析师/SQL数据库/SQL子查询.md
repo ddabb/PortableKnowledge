@@ -2,12 +2,8 @@
 title: SQL子查询
 description: SQL子查询（Subquery）是嵌套在另一个SQL语句中的查询，用于解决复杂的数据提取需求
 category: 考试/数据分析师/SQL数据库
-tags:
-  - 数据分析师
-  - SQL数据库
-  - SQL子查询
-  - Subquery
-  - 嵌套查询
+tags: ["数据分析师", "SQL数据库", "SQL子查询", "Subquery", "嵌套查询", "--"]
+
 ---
 
 # SQL子查询

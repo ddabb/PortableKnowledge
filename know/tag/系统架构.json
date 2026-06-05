@@ -1,23 +1,38 @@
 {
   "meta": {
     "tag": "系统架构",
-    "count": 1
+    "count": 2
   },
   "articles": [
     {
-      "filename": "系统集成基础_系统架构.json",
-      "title": "系统架构",
-      "description": "架构概论、系统架构设计原则",
-      "category": "考试/软考/综合知识/系统集成基础",
+      "filename": "服务端架构_交易系统架构.json",
+      "title": "交易系统架构",
+      "description": "",
+      "category": "技术/服务端架构",
       "tags": [
+        "交易系统",
+        "订单管理",
+        "分布式事务",
         "系统架构",
-        "架构设计",
-        "TOGAF",
-        "ADM",
-        "价值驱动"
+        "状态机"
       ],
-      "wordCount": 1213,
-      "id": "bb61906ffcbaa7e7"
+      "wordCount": 2832,
+      "id": "51891696c21cd017"
+    },
+    {
+      "filename": "零售电商系统_电商系统架构设计.json",
+      "title": "电商系统架构设计",
+      "description": "",
+      "category": "商业/零售电商系统",
+      "tags": [
+        "电商系统",
+        "系统架构",
+        "分布式架构",
+        "微服务",
+        "高并发"
+      ],
+      "wordCount": 3425,
+      "id": "a8f94b7258b4d8a0"
     }
   ]
 }

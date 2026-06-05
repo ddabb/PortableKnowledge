@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "tag": "持续部署",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "Node.js后端开发_CI-CD自动化测试.json",
+      "title": "CI/CD自动化测试",
+      "description": "",
+      "category": "技术/Node.js后端开发",
+      "tags": [
+        "CI/CD",
+        "自动化测试",
+        "Node.js",
+        "后端开发",
+        "持续集成",
+        "持续部署",
+        "流水线"
+      ],
+      "wordCount": 4261,
+      "id": "111321e81bddf446"
+    }
+  ]
+}

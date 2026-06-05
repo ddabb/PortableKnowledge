@@ -1,13 +1,8 @@
 ---
 title: "Linux系统编程API详解"
 date: 2026-06-03
-tags:
-  - 系统编程
-  - Linux
-  - 系统调用
-  - API详解
-  - 文件I/O
-  - 进程管理
+tags: ["系统编程", "Linux", "系统调用", "API详解", "文件I/O", "进程管理", "--"]
+
 ---
 
 # Linux系统编程API详解

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tag": "数据库优化",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "服务端架构_数据库优化实践.json",
+      "title": "数据库优化实践",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "数据库优化",
+        "性能诊断",
+        "索引优化",
+        "表设计",
+        "慢查询"
+      ],
+      "wordCount": 2809,
+      "id": "4d9fdcdfeadd8aa2"
+    }
+  ]
+}

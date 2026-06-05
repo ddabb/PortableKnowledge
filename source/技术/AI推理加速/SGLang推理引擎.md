@@ -2,14 +2,7 @@
 title: SGLang推理引擎
 description: SGLang推理引擎的核心技术、架构设计、编程模型和性能优化，涵盖Radix Attention、动态编程、灵活推理等创新技术
 category: 技术/AI推理加速
-tags:
-  - SGLang
-  - 推理引擎
-  - Radix Attention
-  - 动态编程
-  - 灵活推理
-  - LLM服务
-  - 高性能
+tags: ["SGLang", "推理引擎", "Radix Attention", "动态编程", "灵活推理", "LLM服务", "高性能"]
 ---
 
 # SGLang推理引擎

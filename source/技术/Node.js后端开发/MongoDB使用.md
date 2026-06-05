@@ -1,6 +1,7 @@
 ---
 title: MongoDB使用
 category: 技术/Node.js后端开发
+tags: ["Node.js", "MongoDB", "NoSQL", "文档数据库", "后端开发", "数据库", "Mongoose"]
 ---
 
 # MongoDB使用

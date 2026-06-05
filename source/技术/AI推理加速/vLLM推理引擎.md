@@ -2,14 +2,7 @@
 title: vLLM推理引擎
 description: vLLM推理引擎的核心技术、架构设计、使用方法和性能优化，涵盖PagedAttention、Continuous Batching等创新技术
 category: 技术/AI推理加速
-tags:
-  - vLLM
-  - 推理引擎
-  - PagedAttention
-  - Continuous Batching
-  - LLM推理
-  - 高吞吐量
-  - 易用性
+tags: ["vLLM", "推理引擎", "PagedAttention", "Continuous Batching", "LLM推理", "高吞吐量", "易用性"]
 ---
 
 # vLLM推理引擎

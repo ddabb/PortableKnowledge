@@ -2,14 +2,8 @@
 title: Excel数据建模
 description: Excel数据建模是通过建立数据模型来实现复杂数据分析和报表制作的过程，掌握数据建模能有效提升数据分析能力
 category: 考试/数据分析师/Excel数据分析
-tags:
-  - 数据分析师
-  - Excel数据分析
-  - 数据建模
-  - 数据模型
-  - Power Pivot
-  - 数据关系
-  - 数据分析
+tags: ["数据分析师", "Excel数据分析", "数据建模", "数据模型", "Power Pivot", "数据关系", "数据分析", "--"]
+
 ---
 
 # Excel数据建模

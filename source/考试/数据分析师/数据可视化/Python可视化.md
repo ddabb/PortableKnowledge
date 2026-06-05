@@ -2,14 +2,8 @@
 title: Python可视化
 description: Python可视化通过Matplotlib、Seaborn、Plotly等库实现数据可视化，掌握这些库的用法能有效提升数据分析和可视化能力
 category: 考试/数据分析师/数据可视化
-tags:
-  - 数据分析师
-  - 数据可视化
-  - Python可视化
-  - Matplotlib
-  - Seaborn
-  - Plotly
-  - 数据分析
+tags: ["数据分析师", "数据可视化", "Python可视化", "Matplotlib", "Seaborn", "Plotly", "数据分析", "--"]
+
 ---
 
 # Python可视化

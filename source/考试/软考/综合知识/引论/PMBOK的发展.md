@@ -2,12 +2,8 @@
 title: PMBOK的发展
 description: PMBOK各版本演变历程及关键变化
 category: 考试/软考/综合知识/引论
-tags:
-  - PMBOK
-  - PMI
-  - 项目管理
-  - 版本演变
----
+tags: ["PMBOK", "PMI", "项目管理", "版本演变", "--"]
+
 
 # PMBOK的发展
 

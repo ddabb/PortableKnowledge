@@ -2,12 +2,8 @@
 title: NumPy基础
 description: NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具
 category: 考试/数据分析师/Python数据分析
-tags:
-  - 数据分析师
-  - Python数据分析
-  - NumPy
-  - 数组操作
-  - 数值计算
+tags: ["数据分析师", "Python数据分析", "NumPy", "数组操作", "数值计算", "--"]
+
 ---
 
 # NumPy基础

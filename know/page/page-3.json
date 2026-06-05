@@ -1,8 +1,203 @@
 {
   "page": 3,
-  "totalPages": 45,
-  "totalItems": 889,
+  "totalPages": 46,
+  "totalItems": 901,
   "items": [
+    {
+      "filename": "信贷系统架构_信贷业务产品与方案设计.json",
+      "title": "信贷业务产品与方案设计",
+      "description": "信贷业务的产品设计与方案制定，涵盖需求分析、产品设计、技术方案和项目推动",
+      "category": "技术/金融信贷科技/信贷系统架构",
+      "tags": [
+        "信贷产品",
+        "产品设计",
+        "方案设计",
+        "需求分析",
+        "项目推动",
+        "跨团队协作",
+        "--"
+      ],
+      "wordCount": 5003,
+      "id": "8ce8e8565906f185"
+    },
+    {
+      "filename": "数据库内核_查询引擎实现.json",
+      "title": "查询引擎实现",
+      "description": "查询引擎的核心实现技术，涵盖查询解析、查询优化（RBO/CBO）、查询执行（火山模型/向量化/编译执行）和代价模型",
+      "category": "技术/数据库内核",
+      "tags": [
+        "查询引擎",
+        "查询解析",
+        "查询优化",
+        "RBO",
+        "CBO",
+        "查询执行",
+        "火山模型",
+        "向量化执行",
+        "编译执行",
+        "代价模型",
+        "--"
+      ],
+      "wordCount": 8591,
+      "id": "b3a7adaa976fd2f8"
+    },
+    {
+      "filename": "数据库内核_查询优化器实现.json",
+      "title": "查询优化器实现",
+      "description": "数据库查询优化器的核心概念、实现原理、优化技术（RBO、CBO）、代价模型及最佳实践",
+      "category": "技术/数据库内核",
+      "tags": [
+        "数据库内核",
+        "查询优化器",
+        "RBO",
+        "CBO",
+        "代价模型",
+        "执行计划",
+        "查询性能"
+      ],
+      "wordCount": 7249,
+      "id": "69a571ee65dae175"
+    },
+    {
+      "filename": "数据库内核_存储引擎对比.json",
+      "title": "存储引擎对比",
+      "description": "主流数据库存储引擎（InnoDB、MyISAM、PostgreSQL、RocksDB、WiredTiger）的架构对比、优缺点及适用场景",
+      "category": "技术/数据库内核",
+      "tags": [
+        "数据库内核",
+        "存储引擎",
+        "InnoDB",
+        "MyISAM",
+        "PostgreSQL",
+        "RocksDB",
+        "WiredTiger"
+      ],
+      "wordCount": 6559,
+      "id": "b5a4629f758da21a"
+    },
+    {
+      "filename": "数据库内核_存储引擎实现.json",
+      "title": "存储引擎实现",
+      "description": "存储引擎的核心实现技术，重点分析InnoDB、RocksDB等主流存储引擎的架构设计、关键数据结构和实现细节",
+      "category": "技术/数据库内核",
+      "tags": [
+        "存储引擎",
+        "InnoDB",
+        "RocksDB",
+        "LSM-Tree",
+        "B+树",
+        "缓冲池",
+        "日志系统",
+        "--"
+      ],
+      "wordCount": 8982,
+      "id": "69b51836eab75670"
+    },
+    {
+      "filename": "数据库内核_分布式数据库实现.json",
+      "title": "分布式数据库实现",
+      "description": "分布式数据库的核心概念、架构设计、数据分片、副本一致性、分布式事务及最佳实践",
+      "category": "技术/数据库内核",
+      "tags": [
+        "数据库内核",
+        "分布式数据库",
+        "数据分片",
+        "副本一致性",
+        "分布式事务",
+        "CAP理论",
+        "NewSQL"
+      ],
+      "wordCount": 7417,
+      "id": "25fe85f44a260d0e"
+    },
+    {
+      "filename": "数据库内核_故障恢复实现.json",
+      "title": "故障恢复实现",
+      "description": "数据库故障恢复的核心概念、实现原理、WAL技术、ARIES算法、检查点机制及最佳实践",
+      "category": "技术/数据库内核",
+      "tags": [
+        "数据库内核",
+        "故障恢复",
+        "WAL",
+        "ARIES算法",
+        "检查点",
+        "Redo日志",
+        "Undo日志"
+      ],
+      "wordCount": 6228,
+      "id": "37e601586e64fa44"
+    },
+    {
+      "filename": "数据库内核_事务处理实现.json",
+      "title": "事务处理实现",
+      "description": "数据库事务处理的核心实现技术，涵盖ACID特性、并发控制（2PL/MVCC/OCC/PCC）、故障恢复（ARIES）和隔离级别实现",
+      "category": "技术/数据库内核",
+      "tags": [
+        "事务处理",
+        "ACID",
+        "并发控制",
+        "2PL",
+        "MVCC",
+        "OCC",
+        "PCC",
+        "故障恢复",
+        "ARIES",
+        "隔离级别"
+      ],
+      "wordCount": 8508,
+      "id": "558d42117c31c931"
+    },
+    {
+      "filename": "数据库内核_数据库安全实现.json",
+      "title": "数据库安全实现",
+      "description": "数据库安全的核心概念、访问控制、数据加密、审计日志、SQL注入防护及最佳实践",
+      "category": "技术/数据库内核",
+      "tags": [
+        "数据库内核",
+        "数据库安全",
+        "访问控制",
+        "数据加密",
+        "审计日志",
+        "SQL注入",
+        "GDPR"
+      ],
+      "wordCount": 7411,
+      "id": "ab0b6e38598150e3"
+    },
+    {
+      "filename": "数据库内核_数据库内核概述.json",
+      "title": "数据库内核概述",
+      "description": "数据库内核的基本概念、架构设计、核心组件和关键技术，涵盖存储引擎、查询引擎、事务处理、索引技术等",
+      "category": "技术/数据库内核",
+      "tags": [
+        "数据库内核",
+        "存储引擎",
+        "查询引擎",
+        "事务处理",
+        "索引技术",
+        "并发控制",
+        "故障恢复",
+        "--"
+      ],
+      "wordCount": 7036,
+      "id": "2701238bd2caa3b4"
+    },
+    {
+      "filename": "数据库内核_索引技术实现.json",
+      "title": "索引技术实现",
+      "description": "数据库索引的核心概念、实现原理、常见索引结构（B+树、哈希、位图、全文索引）、性能优化策略及最佳实践",
+      "category": "技术/数据库内核",
+      "tags": [
+        "数据库内核",
+        "索引技术",
+        "B+树",
+        "哈希索引",
+        "查询优化",
+        "性能调优"
+      ],
+      "wordCount": 6116,
+      "id": "9689378459a8049c"
+    },
     {
       "filename": "系统编程_并发编程实践.json",
       "title": "并发编程实践",
@@ -13,7 +208,8 @@
         "并发编程",
         "多线程",
         "无锁编程",
-        "性能优化"
+        "性能优化",
+        "--"
       ],
       "wordCount": 4798,
       "id": "fc013f7b7cf00366"
@@ -28,7 +224,8 @@
         "进程",
         "线程",
         "调度",
-        "上下文切换"
+        "上下文切换",
+        "--"
       ],
       "wordCount": 5411,
       "id": "c10acc169924ab96"
@@ -43,7 +240,8 @@
         "内存管理",
         "虚拟内存",
         "分配器",
-        "性能优化"
+        "性能优化",
+        "--"
       ],
       "wordCount": 5255,
       "id": "3561cea6b908d5c5"
@@ -58,7 +256,8 @@
         "网络编程",
         "Socket编程",
         "异步I/O",
-        "高性能网络"
+        "高性能网络",
+        "--"
       ],
       "wordCount": 6235,
       "id": "bf6771afd9c182b1"
@@ -73,7 +272,8 @@
         "文件I/O",
         "零拷贝",
         "异步I/O",
-        "性能优化"
+        "性能优化",
+        "--"
       ],
       "wordCount": 5392,
       "id": "726077a95e38a9e8"
@@ -87,7 +287,8 @@
         "系统编程",
         "定义",
         "核心概念",
-        "应用场景"
+        "应用场景",
+        "--"
       ],
       "wordCount": 4818,
       "id": "e930e33fc8e9e0c7"
@@ -102,7 +303,8 @@
         "性能优化",
         "调试",
         "Profiling",
-        "缓存优化"
+        "缓存优化",
+        "--"
       ],
       "wordCount": 5166,
       "id": "cde5bcb7312c4ee4"
@@ -117,7 +319,8 @@
         "C语言",
         "C++",
         "系统调用",
-        "跨平台"
+        "跨平台",
+        "--"
       ],
       "wordCount": 7201,
       "id": "fe7f4a1b334b2a49"
@@ -133,183 +336,11 @@
         "系统调用",
         "API详解",
         "文件I/O",
-        "进程管理"
+        "进程管理",
+        "--"
       ],
       "wordCount": 6425,
       "id": "758deba4cbb63d9d"
-    },
-    {
-      "filename": "云原生_服务网格.json",
-      "title": "服务网格",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "Service Mesh",
-        "Istio",
-        "微服务",
-        "流量管理"
-      ],
-      "wordCount": 5045,
-      "id": "1131c82b7a94a228"
-    },
-    {
-      "filename": "云原生_云原生安全.json",
-      "title": "云原生安全",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "安全",
-        "容器安全",
-        "镜像安全",
-        "运行时安全",
-        "网络安全"
-      ],
-      "wordCount": 5713,
-      "id": "baa05b4d2db60dda"
-    },
-    {
-      "filename": "云原生_云原生存储.json",
-      "title": "云原生存储",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "存储",
-        "PV",
-        "PVC",
-        "StorageClass",
-        "CSI"
-      ],
-      "wordCount": 5277,
-      "id": "bfee3056fa60c342"
-    },
-    {
-      "filename": "云原生_云原生概述.json",
-      "title": "云原生概述",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "Cloud Native",
-        "容器",
-        "微服务",
-        "DevOps"
-      ],
-      "wordCount": 3585,
-      "id": "9aaec332e92817bf"
-    },
-    {
-      "filename": "云原生_云原生可观测性.json",
-      "title": "云原生可观测性",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "可观测性",
-        "监控",
-        "日志",
-        "分布式追踪",
-        "Prometheus",
-        "Grafana"
-      ],
-      "wordCount": 5365,
-      "id": "5e084f2b2feac4d0"
-    },
-    {
-      "filename": "云原生_云原生网络.json",
-      "title": "云原生网络",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "容器网络",
-        "CNI",
-        "Service",
-        "Ingress",
-        "NetworkPolicy"
-      ],
-      "wordCount": 5310,
-      "id": "32bf15e5a454905c"
-    },
-    {
-      "filename": "云原生_云原生未来趋势.json",
-      "title": "云原生未来趋势",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "未来趋势",
-        "eBPF",
-        "WebAssembly",
-        "FinOps",
-        "平台工程",
-        "AI for Ops"
-      ],
-      "wordCount": 5636,
-      "id": "ed45d857722fab38"
-    },
-    {
-      "filename": "云原生_DevOps与CI_CD.json",
-      "title": "DevOps与CI/CD",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "DevOps",
-        "CI/CD",
-        "持续集成",
-        "持续交付",
-        "GitOps"
-      ],
-      "wordCount": 5299,
-      "id": "95671bf0bc27adb6"
-    },
-    {
-      "filename": "云原生_Docker容器化.json",
-      "title": "Docker容器化",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "Docker",
-        "容器化",
-        "镜像构建",
-        "容器编排"
-      ],
-      "wordCount": 5477,
-      "id": "4e2a6d2705aa2f2f"
-    },
-    {
-      "filename": "云原生_Kubernetes核心概念.json",
-      "title": "Kubernetes核心概念",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "Kubernetes",
-        "容器编排",
-        "容器管理"
-      ],
-      "wordCount": 4987,
-      "id": "81d4c0a59a141eed"
-    },
-    {
-      "filename": "云原生_Serverless与函数计算.json",
-      "title": "Serverless与函数计算",
-      "description": "",
-      "category": "技术/云原生",
-      "tags": [
-        "云原生",
-        "Serverless",
-        "函数计算",
-        "FaaS",
-        "BaaS",
-        "Knative"
-      ],
-      "wordCount": 4651,
-      "id": "4ee50341a440c5c2"
     }
   ]
 }

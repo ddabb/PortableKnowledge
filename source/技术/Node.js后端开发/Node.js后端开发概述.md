@@ -1,6 +1,7 @@
 ---
 title: Node.js后端开发概述
 category: 技术/Node.js后端开发
+tags: ["Node.js", "后端开发", "事件驱动", "非阻塞I/O", "模块系统", "Event Loop", "异步编程"]
 ---
 
 # Node.js后端开发概述

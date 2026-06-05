@@ -1,13 +1,7 @@
 ﻿---
 title: "DevOps与CI/CD"
 date: 2026-06-03
-tags:
-  - 云原生
-  - DevOps
-  - CI/CD
-  - 持续集成
-  - 持续交付
-  - GitOps
+tags: ["云原生", "DevOps", "CI/CD", "持续集成", "持续交付", "GitOps"]
 ---
 
 # DevOps与CI/CD

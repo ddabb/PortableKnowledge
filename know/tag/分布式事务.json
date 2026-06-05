@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "分布式事务",
-    "count": 2
+    "count": 3
   },
   "articles": [
     {
@@ -19,6 +19,21 @@
       ],
       "wordCount": 6178,
       "id": "6d16d7a9b9be4ca2"
+    },
+    {
+      "filename": "服务端架构_交易系统架构.json",
+      "title": "交易系统架构",
+      "description": "",
+      "category": "技术/服务端架构",
+      "tags": [
+        "交易系统",
+        "订单管理",
+        "分布式事务",
+        "系统架构",
+        "状态机"
+      ],
+      "wordCount": 2832,
+      "id": "51891696c21cd017"
     },
     {
       "filename": "数据库内核_分布式数据库实现.json",

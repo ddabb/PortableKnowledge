@@ -5,21 +5,21 @@
   },
   "articles": [
     {
-      "filename": "系统集成基础_信息技术服务.json",
-      "title": "信息技术服务",
-      "description": "IT服务内涵、特征、原理与组成",
-      "category": "考试/软考/综合知识/系统集成基础",
+      "filename": "Node.js后端开发_RESTful API设计.json",
+      "title": "RESTful API设计",
+      "description": "",
+      "category": "技术/Node.js后端开发",
       "tags": [
-        "IT服务",
-        "PPTR",
-        "服务特征",
-        "人员",
-        "过程",
-        "技术",
-        "资源"
+        "Node.js",
+        "RESTful",
+        "API设计",
+        "后端开发",
+        "HTTP",
+        "资源",
+        "状态码"
       ],
-      "wordCount": 991,
-      "id": "c11bef13a246d601"
+      "wordCount": 3028,
+      "id": "65b65522fd13650a"
     }
   ]
 }

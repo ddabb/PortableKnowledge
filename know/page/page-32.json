@@ -1,8 +1,190 @@
 {
   "page": 32,
-  "totalPages": 45,
-  "totalItems": 889,
+  "totalPages": 46,
+  "totalItems": 901,
   "items": [
+    {
+      "filename": "统计学基础_相关分析.json",
+      "title": "相关分析",
+      "description": "相关分析用于研究两个或多个变量之间的关联程度和方向，是数据分析的核心基础",
+      "category": "考试/数据分析师/统计学基础",
+      "tags": [
+        "数据分析师",
+        "统计学基础",
+        "相关分析",
+        "相关系数",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 7111,
+      "id": "7cca94ae77b5ea8b"
+    },
+    {
+      "filename": "业务分析方法_漏斗分析.json",
+      "title": "漏斗分析",
+      "description": "漏斗分析是用户行为分析的重要方法，用于分析用户在各个步骤的转化情况",
+      "category": "考试/数据分析师/业务分析方法",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "漏斗分析",
+        "用户行为分析",
+        "转化分析",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 9573,
+      "id": "a6031e02cd77aebc"
+    },
+    {
+      "filename": "业务分析方法_帕累托分析.json",
+      "title": "帕累托分析",
+      "description": "帕累托分析是基于二八法则的重要分析方法，用于找出影响业务的关键因素",
+      "category": "考试/数据分析师/业务分析方法",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "帕累托分析",
+        "二八法则",
+        "关键因素分析",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 10323,
+      "id": "f4b67608d0bcd811"
+    },
+    {
+      "filename": "业务分析方法_同期群分析.json",
+      "title": "同期群分析",
+      "description": "同期群分析是用户行为分析的重要方法，用于将用户按时间周期分组，分析不同组别的行为差异",
+      "category": "考试/数据分析师/业务分析方法",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "同期群分析",
+        "用户行为分析",
+        "用户留存分析",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 9752,
+      "id": "e5115c115acc04a0"
+    },
+    {
+      "filename": "业务分析方法_用户画像分析.json",
+      "title": "用户画像分析",
+      "description": "用户画像分析是用户行为分析的重要方法，用于构建用户特征模型，支持精准营销和个性化推荐",
+      "category": "考试/数据分析师/业务分析方法",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "用户画像分析",
+        "用户行为分析",
+        "用户特征",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 8976,
+      "id": "34da493ce90efc46"
+    },
+    {
+      "filename": "业务分析方法_A_B测试.json",
+      "title": "A/B测试",
+      "description": "A/B测试是数据分析中常用的实验方法，用于比较两种或多种方案的效果差异",
+      "category": "考试/数据分析师/业务分析方法",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "A/B测试",
+        "实验设计",
+        "假设检验",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 8997,
+      "id": "998125b741afa4ef"
+    },
+    {
+      "filename": "业务分析方法_RFM分析.json",
+      "title": "RFM分析",
+      "description": "RFM分析是用户价值分析的重要方法，通过最近一次消费(Recency)、消费频率(Frequency)、消费金额(Monetary)三个指标对用户进行分层",
+      "category": "考试/数据分析师/业务分析方法",
+      "tags": [
+        "数据分析师",
+        "业务分析方法",
+        "RFM分析",
+        "用户价值分析",
+        "用户分层",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 7945,
+      "id": "9beffc6ab4eb9fdf"
+    },
+    {
+      "filename": "Excel数据分析_数据清洗.json",
+      "title": "数据清洗",
+      "description": "数据清洗是数据分析的基础步骤，包括处理缺失值、重复值、异常值、格式统一等，确保数据质量符合分析要求",
+      "category": "考试/数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "数据清洗",
+        "数据质量",
+        "--"
+      ],
+      "wordCount": 6352,
+      "id": "227b15caaae3261d"
+    },
+    {
+      "filename": "Excel数据分析_数据透视表.json",
+      "title": "数据透视表",
+      "description": "数据透视表是Excel中最强大的数据分析工具，能够快速对大量数据进行汇总、分组、筛选和可视化，是数据分析师必备技能",
+      "category": "考试/数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "数据透视表",
+        "数据汇总",
+        "--"
+      ],
+      "wordCount": 7027,
+      "id": "496e55742bae6666"
+    },
+    {
+      "filename": "Excel数据分析_常用函数.json",
+      "title": "Excel常用函数",
+      "description": "Excel常用函数是数据分析师处理数据的基础工具，包括文本函数、逻辑函数、查找函数、统计函数等",
+      "category": "考试/数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "常用函数",
+        "函数应用",
+        "--"
+      ],
+      "wordCount": 8528,
+      "id": "66812ac9da91f581"
+    },
+    {
+      "filename": "Excel数据分析_Excel高级公式应用.json",
+      "title": "Excel高级公式应用",
+      "description": "Excel高级公式包括数组公式、动态数组、LET函数、LAMBDA函数等，掌握这些高级公式能显著提升数据分析效率",
+      "category": "考试/数据分析师/Excel数据分析",
+      "tags": [
+        "数据分析师",
+        "Excel数据分析",
+        "高级公式应用",
+        "数组公式",
+        "动态数组",
+        "LET函数",
+        "LAMBDA函数",
+        "数据分析",
+        "--"
+      ],
+      "wordCount": 5799,
+      "id": "8b28a0ac97818a27"
+    },
     {
       "filename": "Excel数据分析_Excel高级数据分析功能.json",
       "title": "Excel高级数据分析功能",
@@ -15,7 +197,8 @@
         "分析工具库",
         "规划求解",
         "方案管理器",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 5213,
       "id": "79e36ad3d8fff66e"
@@ -32,7 +215,8 @@
         "Excel函数",
         "逻辑函数",
         "查找函数",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 6649,
       "id": "0d85916c600a9217"
@@ -50,7 +234,8 @@
         "逻辑函数",
         "文本函数",
         "日期时间函数",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 7070,
       "id": "4e64953d6ce21c69"
@@ -67,7 +252,8 @@
         "数据模型",
         "Power Pivot",
         "数据关系",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 5874,
       "id": "b8796aa400de15a4"
@@ -85,7 +271,8 @@
         "数据分析",
         "数据可视化",
         "透视表",
-        "图表类型"
+        "图表类型",
+        "--"
       ],
       "wordCount": 4888,
       "id": "6b7b637b05684b7e"
@@ -100,7 +287,8 @@
         "Excel数据分析",
         "图表制作",
         "数据可视化",
-        "Excel图表"
+        "Excel图表",
+        "--"
       ],
       "wordCount": 5889,
       "id": "be010a4552dda5ac"
@@ -115,7 +303,8 @@
         "Python数据分析",
         "数据可视化",
         "Matplotlib",
-        "Seaborn"
+        "Seaborn",
+        "--"
       ],
       "wordCount": 9353,
       "id": "bb058a2618166108"
@@ -132,7 +321,8 @@
         "数据预处理",
         "缺失值处理",
         "异常值处理",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 12373,
       "id": "c7feb37c7ac784a5"
@@ -149,182 +339,11 @@
         "Seaborn",
         "数据可视化",
         "进阶技巧",
-        "数据分析"
+        "数据分析",
+        "--"
       ],
       "wordCount": 9790,
       "id": "965bc44520d920ed"
-    },
-    {
-      "filename": "Python数据分析_NumPy基础.json",
-      "title": "NumPy基础",
-      "description": "NumPy是Python数值计算的核心库，提供多维数组对象和数学函数，是数据分析师必须掌握的基础工具",
-      "category": "考试/数据分析师/Python数据分析",
-      "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "NumPy",
-        "数组操作",
-        "数值计算"
-      ],
-      "wordCount": 9306,
-      "id": "e4d68da3e90d0092"
-    },
-    {
-      "filename": "Python数据分析_Pandas高级数据处理.json",
-      "title": "Pandas高级数据处理",
-      "description": "Pandas是Python数据分析的核心库，掌握其高级数据处理技巧能显著提升数据分析效率",
-      "category": "考试/数据分析师/Python数据分析",
-      "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Pandas",
-        "高级数据处理",
-        "数据清洗",
-        "数据转换",
-        "数据分析"
-      ],
-      "wordCount": 9337,
-      "id": "2bb31146830c4cd5"
-    },
-    {
-      "filename": "Python数据分析_Pandas基础.json",
-      "title": "Pandas基础",
-      "description": "Pandas是Python数据分析的核心库，提供DataFrame和Series数据结构，用于数据清洗、转换、分析",
-      "category": "考试/数据分析师/Python数据分析",
-      "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Pandas",
-        "DataFrame",
-        "Series"
-      ],
-      "wordCount": 10550,
-      "id": "9748010bce21768b"
-    },
-    {
-      "filename": "Python数据分析_Python数据分析基础.json",
-      "title": "Python数据分析基础",
-      "description": "Python数据分析基础是使用Python进行数据分析的入门知识，包括NumPy、Pandas、Matplotlib等库的基本使用",
-      "category": "考试/数据分析师/Python数据分析",
-      "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Python基础",
-        "NumPy",
-        "Pandas",
-        "数据分析"
-      ],
-      "wordCount": 10145,
-      "id": "3f600ff76b791114"
-    },
-    {
-      "filename": "Python数据分析_Scikit-learn机器学习入门.json",
-      "title": "Scikit-learn机器学习入门",
-      "description": "Scikit-learn是Python最常用的机器学习库，掌握其基础用法是数据分析师进行预测建模的关键技能",
-      "category": "考试/数据分析师/Python数据分析",
-      "tags": [
-        "数据分析师",
-        "Python数据分析",
-        "Scikit-learn",
-        "机器学习",
-        "预测建模",
-        "监督学习",
-        "无监督学习",
-        "数据分析"
-      ],
-      "wordCount": 12849,
-      "id": "1d12fab5af4568ad"
-    },
-    {
-      "filename": "SQL数据库_窗口函数.json",
-      "title": "SQL窗口函数",
-      "description": "窗口函数是SQL高级功能，用于在保留明细行的前提下进行聚合计算，是数据分析师必须掌握的核心技能",
-      "category": "考试/数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "窗口函数",
-        "Window Functions"
-      ],
-      "wordCount": 9326,
-      "id": "502e996740f6ce22"
-    },
-    {
-      "filename": "SQL数据库_SQL窗口函数.json",
-      "title": "SQL窗口函数",
-      "description": "窗口函数（Window Function）在保留明细数据的同时进行聚合计算，是数据分析师处理复杂排名、趋势、同比环比等场景的核心技能",
-      "category": "考试/数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "窗口函数",
-        "SQL高级查询",
-        "数据分析"
-      ],
-      "wordCount": 9748,
-      "id": "931c28f20e94d592"
-    },
-    {
-      "filename": "SQL数据库_多表连接.json",
-      "title": "SQL多表连接",
-      "description": "多表连接是SQL查询的核心技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN等，用于从多个表中关联查询数据",
-      "category": "考试/数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "多表连接",
-        "JOIN"
-      ],
-      "wordCount": 11305,
-      "id": "ad4e96267f19b013"
-    },
-    {
-      "filename": "SQL数据库_SQL多表连接.json",
-      "title": "SQL多表连接",
-      "description": "SQL多表连接（JOIN）是数据分析师从多个表中组合数据的关键技能，包括INNER JOIN、LEFT JOIN、RIGHT JOIN、FULL JOIN、CROSS JOIN等",
-      "category": "考试/数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "SQL多表连接",
-        "JOIN",
-        "数据分析"
-      ],
-      "wordCount": 8928,
-      "id": "7b60afdf46a87876"
-    },
-    {
-      "filename": "SQL数据库_分组聚合.json",
-      "title": "SQL分组聚合",
-      "description": "SQL分组聚合是使用GROUP BY和聚合函数对数据进行分组汇总的核心操作，是数据分析师必须掌握的基础技能",
-      "category": "考试/数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "分组聚合",
-        "GROUP BY",
-        "聚合函数"
-      ],
-      "wordCount": 9890,
-      "id": "25666e7ae96eb57a"
-    },
-    {
-      "filename": "SQL数据库_SQL高级查询.json",
-      "title": "SQL高级查询",
-      "description": "SQL高级查询包括窗口函数、CTE(公用表表达式)、子查询、集合操作等，掌握这些高级查询技术能有效提升数据分析能力",
-      "category": "考试/数据分析师/SQL数据库",
-      "tags": [
-        "数据分析师",
-        "SQL数据库",
-        "SQL高级查询",
-        "窗口函数",
-        "CTE",
-        "子查询",
-        "集合操作",
-        "数据分析"
-      ],
-      "wordCount": 8225,
-      "id": "ef586471a6014b36"
     }
   ]
 }

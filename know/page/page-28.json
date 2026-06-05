@@ -1,33 +1,123 @@
 {
   "page": 28,
-  "totalPages": 45,
-  "totalItems": 889,
+  "totalPages": 46,
+  "totalItems": 901,
   "items": [
+    {
+      "filename": "引论_道德与专业行为规范.json",
+      "title": "道德与专业行为规范",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 471,
+      "id": "c936e646338b3347"
+    },
+    {
+      "filename": "引论_工业互联网.json",
+      "title": "工业互联网",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 703,
+      "id": "72732aeaf25606d0"
+    },
+    {
+      "filename": "引论_价值交付系统.json",
+      "title": "价值交付系统",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 2105,
+      "id": "6ca4830648b295f2"
+    },
+    {
+      "filename": "引论_阶段关口.json",
+      "title": "阶段关口",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 361,
+      "id": "8b5698094102a162"
+    },
+    {
+      "filename": "引论_两化融合.json",
+      "title": "两化融合",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 732,
+      "id": "64141547ac20e5da"
+    },
+    {
+      "filename": "引论_启动过程组的重点工作.json",
+      "title": "启动过程组的重点工作",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 1378,
+      "id": "c91f184b1ffc9b0c"
+    },
+    {
+      "filename": "引论_区块链.json",
+      "title": "区块链",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 1114,
+      "id": "92c21fd1d980cd52"
+    },
+    {
+      "filename": "引论_人工智能.json",
+      "title": "人工智能",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 964,
+      "id": "87654dd48c9bd48a"
+    },
+    {
+      "filename": "引论_收尾过程组的重点工作.json",
+      "title": "收尾过程组的重点工作",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 2774,
+      "id": "b9a7415fb0202912"
+    },
+    {
+      "filename": "引论_数字化转型.json",
+      "title": "数字化转型",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 678,
+      "id": "4bfa8be7e6b169c4"
+    },
+    {
+      "filename": "引论_数字经济.json",
+      "title": "数字经济",
+      "description": "",
+      "category": "考试/软考/综合知识/引论",
+      "tags": [],
+      "wordCount": 667,
+      "id": "ec774a9919294040"
+    },
     {
       "filename": "引论_数字社会与数字生态.json",
       "title": "数字社会与数字生态",
-      "description": "数字社会涵盖数字民生、智慧城市和数字乡村等领域，强调普惠、赋能和利民。数字生态包含数据要素市场、数字营商环境和网络安全保护等内容。",
+      "description": "",
       "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "数字中国",
-        "数字社会",
-        "智慧城市",
-        "软考备考"
-      ],
-      "wordCount": 513,
+      "tags": [],
+      "wordCount": 669,
       "id": "4b0f13f48b8c3a82"
     },
     {
       "filename": "引论_数字政府.json",
       "title": "数字政府",
-      "description": "数字政府以新一代信息技术为支撑，以\"业务数据化、数据业务化\"为着力点，形成\"用数据决策、数据服务、数据创新\"的现代化治理模式。",
+      "description": "",
       "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "数字中国",
-        "数字政府",
-        "软考备考"
-      ],
-      "wordCount": 544,
+      "tags": [],
+      "wordCount": 686,
       "id": "b86f579af728ba2d"
     },
     {
@@ -38,7 +128,8 @@
       "tags": [
         "指南概述和目的",
         "通用词汇",
-        "项目管理术语"
+        "项目管理术语",
+        "--"
       ],
       "wordCount": 1408,
       "id": "a438a25728cc1b3c"
@@ -46,238 +137,56 @@
     {
       "filename": "引论_物联网.json",
       "title": "物联网",
-      "description": "物联网的概念、架构、关键技术及应用场景",
+      "description": "",
       "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "IoT",
-        "感知层",
-        "网络层",
-        "应用层",
-        "RFID",
-        "传感器"
-      ],
-      "wordCount": 941,
+      "tags": [],
+      "wordCount": 1054,
       "id": "1c53b7b6a6261114"
     },
     {
       "filename": "引论_项目成功标准.json",
       "title": "项目成功标准",
-      "description": "确定项目是否成功是项目管理中最常见的挑战之一。",
+      "description": "",
       "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 692,
+      "tags": [],
+      "wordCount": 800,
       "id": "a9127675f5b87e37"
     },
     {
       "filename": "引论_项目管理标准.json",
       "title": "项目管理标准",
-      "description": "本指南基于《项目管理标准》[1]。标准是基于权威、惯例或共识而建立并用作模式或范例的文件。",
+      "description": "",
       "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "指南概述和目的",
-        "项目管理",
-        "PMP"
-      ],
-      "wordCount": 496,
+      "tags": [],
+      "wordCount": 624,
       "id": "3810182127cae211"
     },
     {
       "filename": "引论_项目管理的重要性.json",
       "title": "项目管理的重要性",
-      "description": "项目管理就是将知识、技能、工具与技术应用于项目活动，以满足项目的要求。",
+      "description": "",
       "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理"
-      ],
-      "wordCount": 570,
+      "tags": [],
+      "wordCount": 681,
       "id": "7ed8ed5dc98d8039"
     },
     {
       "filename": "引论_项目管理过程.json",
       "title": "项目管理过程",
-      "description": "项目生命周期是通过一系列项目管理活动进行的，即项目管理过程。",
+      "description": "",
       "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理",
-        "PMP",
-        "项目管理知识体系"
-      ],
-      "wordCount": 466,
+      "tags": [],
+      "wordCount": 597,
       "id": "c2a1e8613147ca50"
     },
     {
       "filename": "引论_项目管理过程组.json",
       "title": "项目管理过程组",
-      "description": "项目管理过程组指对项目管理过程进行逻辑分组，以达成项目的特定目标。过程组不同于项目阶段。项目管理过程可分为以下五个项目管理过程组：",
+      "description": "",
       "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理",
-        "项目管理知识体系"
-      ],
-      "wordCount": 421,
+      "tags": [],
+      "wordCount": 582,
       "id": "9ca5dbd2654c20cf"
-    },
-    {
-      "filename": "引论_项目管理数据和信息.json",
-      "title": "项目管理数据和信息",
-      "description": "整个项目生命周期需要收集、分析和转化大量的数据。",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理"
-      ],
-      "wordCount": 500,
-      "id": "6771f6a64aa8cb13"
-    },
-    {
-      "filename": "引论_项目管理原则.json",
-      "title": "项目管理原则",
-      "description": "PMBOK第7版定义的12个项目管理原则",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "项目管理原则",
-        "PMP",
-        "PMBOK"
-      ],
-      "wordCount": 2301,
-      "id": "974f82a7e75f1486"
-    },
-    {
-      "filename": "引论_项目管理知识领域.json",
-      "title": "项目管理知识领域",
-      "description": "10个知识领域概述、5个过程组与知识领域的矩阵关系",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "知识领域",
-        "PMP",
-        "PMBOK",
-        "项目管理"
-      ],
-      "wordCount": 1779,
-      "id": "c5c98f1627c66dcd"
-    },
-    {
-      "filename": "引论_项目和开发生命周期.json",
-      "title": "项目和开发生命周期",
-      "description": "项目生命周期指项目从启动到完成所经历的一系列阶段。",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理"
-      ],
-      "wordCount": 810,
-      "id": "1f368f022ea8a49f"
-    },
-    {
-      "filename": "引论_项目基本要素.json",
-      "title": "项目基本要素",
-      "description": "项目基础概念、项目管理定义与作用、项目成功标准",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "项目管理",
-        "项目基本要素",
-        "项目组合",
-        "项目集",
-        "运营管理"
-      ],
-      "wordCount": 2365,
-      "id": "e44b8cefd5e39b3b"
-    },
-    {
-      "filename": "引论_项目阶段.json",
-      "title": "项目阶段",
-      "description": "项目阶段是一组具有逻辑关系的项目活动的集合，通常以一个或多个可交付成果的完成为结束。",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "指南的组成部分",
-        "项目管理"
-      ],
-      "wordCount": 577,
-      "id": "59490917ed37ce6a"
-    },
-    {
-      "filename": "引论_项目经理的角色.json",
-      "title": "项目经理的角色",
-      "description": "项目经理定义、所需技能和特性、人际关系技能、成功标准",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "项目经理",
-        "PMP",
-        "领导力",
-        "项目管理"
-      ],
-      "wordCount": 1359,
-      "id": "4f007928f7ec2c5d"
-    },
-    {
-      "filename": "引论_项目立项管理.json",
-      "title": "项目立项管理",
-      "description": "项目建议与立项申请、可行性研究、项目评估与决策",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "项目立项",
-        "可行性研究",
-        "项目评估"
-      ],
-      "wordCount": 2367,
-      "id": "a8e4d8bac95e05c1"
-    },
-    {
-      "filename": "引论_项目商业论证.json",
-      "title": "项目商业论证",
-      "description": "项目商业论证指文档化的经济可行性研究报告，用来对尚缺乏充分定义的所选方案的收益进行有效性论证，是启动后续项目管理活动的依据。",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理"
-      ],
-      "wordCount": 1007,
-      "id": "94b898e300825eb3"
-    },
-    {
-      "filename": "引论_项目生命周期和项目阶段.json",
-      "title": "项目生命周期和项目阶段",
-      "description": "通用生命周期结构、特征、生命周期类型比较",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "项目生命周期",
-        "预测型",
-        "适应型",
-        "敏捷",
-        "PMP"
-      ],
-      "wordCount": 1441,
-      "id": "e26453e897f7b20b"
-    },
-    {
-      "filename": "引论_项目效益管理计划.json",
-      "title": "项目效益管理计划",
-      "description": "项目效益管理计划描述了项目实现效益的方式和时间，以及应制定的效益衡量机制。",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "基本要素",
-        "项目管理商业文件",
-        "项目管理",
-        "效益管理",
-        "战略对齐",
-        "效益衡量",
-        "商业价值"
-      ],
-      "wordCount": 6054,
-      "id": "9560817997fed483"
     }
   ]
 }

@@ -1,6 +1,7 @@
 ---
 title: RESTful API设计
 category: 技术/Node.js后端开发
+tags: ["Node.js", "RESTful", "API设计", "后端开发", "HTTP", "资源", "状态码"]
 ---
 
 # RESTful API设计

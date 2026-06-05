@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "category": "商业/零售电商系统",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "零售电商系统_电商系统架构设计.json",
+      "title": "电商系统架构设计",
+      "description": "",
+      "category": "商业/零售电商系统",
+      "tags": [
+        "电商系统",
+        "系统架构",
+        "分布式架构",
+        "微服务",
+        "高并发"
+      ],
+      "wordCount": 3425,
+      "id": "a8f94b7258b4d8a0"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
     "tag": "Spark",
-    "count": 2
+    "count": 1
   },
   "articles": [
     {
@@ -19,21 +19,6 @@
       ],
       "wordCount": 6159,
       "id": "7e7fd2961c0b6a39"
-    },
-    {
-      "filename": "引论_大数据.json",
-      "title": "大数据",
-      "description": "大数据特征、处理流程、关键技术及应用",
-      "category": "考试/软考/综合知识/引论",
-      "tags": [
-        "5V特征",
-        "数据处理",
-        "Hadoop",
-        "Spark",
-        "数据挖掘"
-      ],
-      "wordCount": 932,
-      "id": "8eee0083ed1ed65c"
     }
   ]
 }

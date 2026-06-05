@@ -1,6 +1,7 @@
 ---
 title: MySQL数据库使用
 category: 技术/Node.js后端开发
+tags: ["Node.js", "MySQL", "关系型数据库", "后端开发", "数据库", "SQL", "ORM", "Sequelize"]
 ---
 
 # MySQL数据库使用

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "tag": "ORM",
+    "count": 1
+  },
+  "articles": [
+    {
+      "filename": "Node.js后端开发_MySQL数据库使用.json",
+      "title": "MySQL数据库使用",
+      "description": "",
+      "category": "技术/Node.js后端开发",
+      "tags": [
+        "Node.js",
+        "MySQL",
+        "关系型数据库",
+        "后端开发",
+        "数据库",
+        "SQL",
+        "ORM",
+        "Sequelize"
+      ],
+      "wordCount": 4203,
+      "id": "826583666e72c4a1"
+    }
+  ]
+}

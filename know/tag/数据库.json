@@ -1,22 +1,43 @@
 {
   "meta": {
     "tag": "数据库",
-    "count": 1
+    "count": 2
   },
   "articles": [
     {
-      "filename": "系统集成基础_数据库基础.json",
-      "title": "数据库基础",
-      "description": "软考中项数据库核心知识，涵盖关系型数据库、SQL、范式、事务及数据仓库等考点。",
-      "category": "考试/软考/综合知识/系统集成基础",
+      "filename": "Node.js后端开发_MongoDB使用.json",
+      "title": "MongoDB使用",
+      "description": "",
+      "category": "技术/Node.js后端开发",
       "tags": [
+        "Node.js",
+        "MongoDB",
+        "NoSQL",
+        "文档数据库",
+        "后端开发",
+        "数据库",
+        "Mongoose"
+      ],
+      "wordCount": 4646,
+      "id": "0837bbbfb90ff29b"
+    },
+    {
+      "filename": "Node.js后端开发_MySQL数据库使用.json",
+      "title": "MySQL数据库使用",
+      "description": "",
+      "category": "技术/Node.js后端开发",
+      "tags": [
+        "Node.js",
+        "MySQL",
+        "关系型数据库",
+        "后端开发",
         "数据库",
         "SQL",
-        "范式",
-        "系统集成"
+        "ORM",
+        "Sequelize"
       ],
-      "wordCount": 985,
-      "id": "13597603d591d4ea"
+      "wordCount": 4203,
+      "id": "826583666e72c4a1"
     }
   ]
 }
